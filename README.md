@@ -20,7 +20,7 @@ Nessun problema, l'abbiamo messa su GitHub apposta, qui tutti possono contribuir
 **Non vuoi registrarti o non hai idea di come funzioni GitHub?** 
 Nessun problema, mandaci le tue modifiche su [Facebook](https://www.facebook.com/PlanetCoasterInItaliano/), provvederemo noi ad inserirle.
 
-(Se non hai Facebook puoi anche mandarci una per e-mail  [Cliccando Qui](mailto:traduzioneplanetcoaster@altervista.org?subject=Traduzione%20Planet%20Coaster))
+(Se non hai Facebook puoi anche mandarci una e-mail  [Cliccando Qui](mailto:traduzioneplanetcoaster@altervista.org?subject=Traduzione%20Planet%20Coaster))
 
 ## Autori Principali
 * Crybio
