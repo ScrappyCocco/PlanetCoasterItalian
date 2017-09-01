@@ -4937,13 +4937,13 @@
     <entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
     <entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocita' Scorrimento al Bordo"/>
     <entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Muove la visuale quando il mouse e' al bordo dello schermo."/>
-    <entry key="CameraOptionsMenu_FreelookToggle" translation="Freelook"/>
-    <entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Allows the camera to fly freely around your park. Useful in tight areas or for taking screenshots.\n\nYou can use [T] to toggle Freelook from within the game.\n\n[Q] and [E] will raise and lower the camera height in Freelook."/>
+    <entry key="CameraOptionsMenu_FreelookToggle" translation="Visuale Libera"/>
+    <entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Muovi la visuale liberamente per il parco. Utile in zone strette o per fare screenshot.&#10;&#10;Puoi attivarla premendo [{#LogicalButton.GameCamera_FreelookMode#}] in gioco.&#10;&#10;[{#LogicalButton.GameCamera_RotateLeft#}] e [{#LogicalButton.GameCamera_RotateRight#}] muoveranno la camera in sù e in giù."/>
     <entry key="CameraOptionsMenu_InvertY" translation="Inverti asse Y"/>
     <entry key="CameraOptionsMenu_InvertY_ToolTip" translation="Inverte l'asse Y della visuale in freelook e sulle attrazioni."/>
     <entry key="CameraOptionsMenu_MiscLabel" translation="Camera Behaviour"/>
     <entry key="CameraOptionsMenu_NoClip" translation="No Clip"/>
-    <entry key="CameraOptionsMenu_NoClip_ToolTip" translation="Allows the camera to move through the terrain"/>
+    <entry key="CameraOptionsMenu_NoClip_ToolTip" translation="Permette alla visuale di muoversi attraverso il terreno"/>
     <entry key="CameraOptionsMenu_PhysicsRaycasts" translation="Focus On Scenery"/>
     <entry key="CameraOptionsMenu_PhysicsRaycasts_ToolTip" translation="Allows the camera to focus on objects like scenery and buildings in addition to terrain and paths.  Focusing on scenery affects camera speed and zoom limitations."/>
     <entry key="CameraOptionsMenu_Presets" translation="Configurazione"/>
@@ -5961,7 +5961,7 @@
     <entry key="ConnectingQueueToExit" translation="Connecting a queue path to a ride exit"/>
     <entry key="Continue" translation="Continua"/>
     <entry key="DATE" translation="{Day:int} {Month}, Anno {Year:int}"/>
-    <entry key="DATE_AND_TIME" translation="{Date} {Time}"/>
+    <entry key="DATE_AND_TIME" translationtranslation="{Date} {Time}"/>
     <entry key="DISTANCE_FEET" translation="{Value:float:decimalPlaces=0} ft"/>
     <entry key="DISTANCE_FEET_2DP" translation="{Value:float:decimalPlaces=2} ft"/>
     <entry key="DISTANCE_KM" translation="{Value:float:decimalPlaces=0} km"/>
@@ -5970,12 +5970,12 @@
     <entry key="DISTANCE_MILES" translation="{Value:float:decimalPlaces=0} mi"/>
     <entry key="DISTANCE_YARDS" translation="{Value:float:decimalPlaces=0} yd"/>
     <entry key="DISTANCE_YARDS_2DP" translation="{Value:float:decimalPlaces=2} yd"/>
-    <entry key="DLCBrowserDesc" translation="Buy now from the Steam store"/>
-    <entry key="DLCBrowserHeading" translation="BUY DLC"/>
-    <entry key="DLCBuyTagText" translation="BUY NOW"/>
-    <entry key="DLCPopup_blueprint" translation="This blueprint contains DLC which you don't own!"/>
+    <entry key="DLCBrowserDesc" translation="Compra ora da Steam"/>
+    <entry key="DLCBrowserHeading" translation="COMPRA DLC"/>
+    <entry key="DLCBuyTagText" translation="COMPRA ORA"/>
+    <entry key="DLCPopup_blueprint" translation="Questo progetto contiene pezzi di un DLC che non possiedi!"/>
     <entry key="DLCPopup_standalone" translation=""/>
-    <entry key="DLCPopup_title" translation="DLC REQUIRED"/>
+    <entry key="DLCPopup_title" translation="DLC NECESSARIO"/>
     <entry key="DLCProductName" translation="{Name}"/>
     <entry key="DURATION" translation="{Value:float:decimalPlaces=1} s"/>
     <entry key="DefaultSaveName" translation="Parco"/>
@@ -6008,7 +6008,7 @@
     <entry key="HiddenPlayerName" translation="Player"/>
     <entry key="High" translation="Alto"/>
     <entry key="INT_VALUE" translation="{Value:int}"/>
-    <entry key="InWorldPopup_multiunowned" translation="This selection contains DLC which you don't own!"/>
+    <entry key="InWorldPopup_multiunowned" translation="Questa sezione contiene un DLC che non possiedi!"/>
     <entry key="Inaccessible" translation="Inaccessible"/>
     <entry key="Incomplete" translation="Incompleto"/>
     <entry key="InfoPanel_CustomTextures_Description" translation="Add your own static images (.png, .jpg, .bmp, .tiff, .tga) or videos (.webm) to My Documents/Frontier Developments/Planet Coaster/UserMedia"/>
@@ -6059,18 +6059,18 @@
     <entry key="MONTH_LONG_8" translation="Agosto"/>
     <entry key="MONTH_LONG_9" translation="Settembre"/>
     <entry key="MalformedPathPart" translation="Pezzo di sentiero Malformato"/>
-    <entry key="ObjectBrowser_DLCFilterLabel" translation="DLC items"/>
+    <entry key="ObjectBrowser_DLCFilterLabel" translation="Oggetti DLC"/>
     <entry key="ObjectBrowser_DLCFilterTooltip" translation="Toggle unpurchased DLC items"/>
     <entry key="Obstructed" translation="Bloccato"/>
     <entry key="Ok" translation="Ok"/>
-    <entry key="OnLoadPopup_body" translation="This park contains DLC which you don't own. This means you cannot save changes to this park."/>
-    <entry key="OnLoadPopup_quit" translation="Quit"/>
-    <entry key="OnLoadPopup_title" translation="DLC REQUIRED"/>
-    <entry key="OnloadPopup_continue" translation="Continue"/>
+    <entry key="OnLoadPopup_body" translation="Questo parco contiene DLC che non possiedi. Non puoi salvare le modifiche a questo parco."/>
+    <entry key="OnLoadPopup_quit" translation="Esci"/>
+    <entry key="OnLoadPopup_title" translation="DLC NECESSARIO"/>
+    <entry key="OnloadPopup_continue" translation="Continua"/>
     <entry key="Open" translation="Apri"/>
-    <entry key="OptionsMenu_BuyNow" translation="Buy Now"/>
-    <entry key="OptionsMenu_DLCLabel" translation="You are missing the DLC required to save this park!"/>
-    <entry key="OptionsMenu_DLCTitle" translation="DLC Required"/>
+    <entry key="OptionsMenu_BuyNow" translation="Compra ora"/>
+    <entry key="OptionsMenu_DLCLabel" translation="Ti manca il DLC necessario a salvare questo parco!"/>
+    <entry key="OptionsMenu_DLCTitle" translation="DLC Richiesto"/>
     <entry key="PERCENTAGE" translation="{Value:float:decimalPlaces=0}%"/>
     <entry key="Redo" translation="Rifai"/>
     <entry key="Refurbishing" translation="Refurbishing"/>
@@ -6165,7 +6165,7 @@
     <entry key="GraphicsOptionsMenu_AO_Q3" translation="Media"/>
     <entry key="GraphicsOptionsMenu_AO_Q4" translation="Alta"/>
     <entry key="GraphicsOptionsMenu_AO_Q5" translation="Ultra"/>
-    <entry key="GraphicsOptionsMenu_Adapter" translation="Dispositivo Video"/>
+    <entry key="GraphicsOptionsMenu_Adapter" translation="Scheda Video"/>
     <entry key="GraphicsOptionsMenu_AdapterOption" translation="{ADAPTER}"/>
     <entry key="GraphicsOptionsMenu_BackgroundAtmos" translation="Atmosfera Background"/>
     <entry key="GraphicsOptionsMenu_BackgroundAtmos_Q1" translation="Off"/>
@@ -12258,8 +12258,8 @@
     <entry key="HUD_ToolTip_AttractionsLists" translation="Lista attrazioni"/>
     <entry key="HUD_ToolTip_ChallengesPopup" translation="Challenges"/>
     <entry key="HUD_ToolTip_Delete" translation="Delete Mode (Coming Soon)"/>
-    <entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocita' Simulazione [O]"/>
-    <entry key="HUD_ToolTip_HelpPopup" translation="Aiuto [F1]"/>
+    <entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocita' Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
+    <entry key="HUD_ToolTip_HelpPopup" translation="Aiuto [{#LogicalButton.Editors_ToggleControlHelp#}]"/>
     <entry key="HUD_ToolTip_Lighting" translation="Imposta Luce"/>
     <entry key="HUD_ToolTip_MultiSelect" translation="Selezione Multipla"/>
     <entry key="HUD_ToolTip_MultiSelect_Addition" translation="Click to add/remove"/>
@@ -12269,10 +12269,10 @@
     <entry key="HUD_ToolTip_NotificationsPopup" translation="Notifiche"/>
     <entry key="HUD_ToolTip_ObjectivesPopup" translation="Obbiettivi"/>
     <entry key="HUD_ToolTip_ParkManagement" translation="Gestione Parco"/>
-    <entry key="HUD_ToolTip_Pause" translation="Attiva/Disattiva Pausa [P]"/>
-    <entry key="HUD_ToolTip_Redo" translation="Redo [Ctrl+Y]"/>
+    <entry key="HUD_ToolTip_Pause" translation="Attiva/Disattiva Pausa [{#LogicalButton.Editors_ToggleSimulationSpeed#}]"/>
+    <entry key="HUD_ToolTip_Redo" translation="Redo [{#LogicalButton.Editors_Redo#}]"/>
     <entry key="HUD_ToolTip_SelectMode" translation="Selection Mode"/>
-    <entry key="HUD_ToolTip_Undo" translation="Undo [Ctrl+Z]"/>
+    <entry key="HUD_ToolTip_Undo" translation="Undo [{#LogicalButton.Editors_Undo#}]"/>
     <entry key="HUD_ToolsMenu_Path" translation="Sentieri"/>
     <entry key="HUD_ToolsMenu_Terrain" translation="Terreno"/>
     <entry key="HUD_UntidinessMultiplier" translation="Untidiness Penalty"/>
@@ -12283,7 +12283,7 @@
     <entry key="HelperTooltips_ChangeGroup" translation="Modifica {NAME}"/>
     <entry key="HelperTooltips_CloseGroup" translation="Fatto"/>
     <entry key="HelperTooltips_Elevate" translation="Elevate [{#LogicalButton.Editors_UpwardPlacementModifier#}]"/>
-    <entry key="HelperTooltips_ExitFromGroup" translation="Exit {NAME}"/>
+    <entry key="HelperTooltips_ExitFromGroup" translation="Chiudi {NAME}"/>
     <entry key="HelperTooltips_PickGrid" translation="Get Grid Settings From Object"/>
     <entry key="HelperTooltips_Rotate" translation="Rotate [{#LogicalButton.Editors_RotateObject#}]"/>
     <entry key="HelperTooltips_StepRotation" translation="Angle Snap"/>
@@ -12624,10 +12624,10 @@
     <entry key="InfoPanel_Tooltip_Blueprint" translation="Salva come Progetto"/>
     <entry key="InfoPanel_Tooltip_BlueprintTooBig" translation="Non posso creare un progetto con più di 1000 pezzi."/>
     <entry key="InfoPanel_Tooltip_Cameras" translation="Cameras"/>
-    <entry key="InfoPanel_Tooltip_Destroy" translation="Demolisci [DEL]"/>
-    <entry key="InfoPanel_Tooltip_Duplicate" translation="Duplica [Ctrl+D]"/>
+    <entry key="InfoPanel_Tooltip_Destroy" translation="Demolisci [{#LogicalButton.Editors_Delete#}]"/>
+    <entry key="InfoPanel_Tooltip_Duplicate" translation="Duplica [{#LogicalButton.Editors_Clone#}]"/>
     <entry key="InfoPanel_Tooltip_Locked" translation="Questo oggetto è bloccato"/>
-    <entry key="InfoPanel_Tooltip_Move" translation="Sposta [M]"/>
+    <entry key="InfoPanel_Tooltip_Move" translation="Sposta [{#LogicalButton.Editors_Move#}]"/>
     <!--InfoPanel_DisplaySequencer-->
     <entry key="InfoPanel_DisplaySequencer_ActivateOnTrigger" translation="Activate only on trigger"/>
     <entry key="InfoPanel_DisplaySequencer_AddTime" translation="Add time"/>
@@ -12710,8 +12710,8 @@
     <entry key="InfoPanel_Facility_OpenState" translation="Stato Struttura: {STATUS}"/>
     <entry key="InfoPanel_Facility_Overview" translation="Panoramica"/>
     <entry key="InfoPanel_Facility_Prices" translation="Prezzi"/>
-    <entry key="InfoPanel_Facility_SelectBuilding" translation="Seleziona Struttura [B]"/>
-    <entry key="InfoPanel_Facility_SelectVendor" translation="Seleziona Venditore [V]"/>
+    <entry key="InfoPanel_Facility_SelectBuilding" translation="Seleziona Struttura"/>
+    <entry key="InfoPanel_Facility_SelectVendor" translation="Seleziona Venditore"/>
     <entry key="InfoPanel_Facility_Stat_Life_Profit" translation="Profitti totali"/>
     <entry key="InfoPanel_Facility_Stat_Life_Sales" translation="Vendite totali"/>
     <entry key="InfoPanel_Facility_Stat_Prev_LostSales" translation="Vendite "/>
@@ -12804,7 +12804,7 @@
     <entry key="InfoPanel_Guest_IntensityTolerance_Value" translation="{min:float:decimalPlaces=1}-{max:float:decimalPlaces=1}"/>
     <entry key="InfoPanel_Guest_Inventory" translation="Oggetti trasportati"/>
     <entry key="InfoPanel_Guest_Item_Empty" translation="Vuoto"/>
-    <entry key="InfoPanel_Guest_MoveGroup" translation="Muovi gruppo [M]"/>
+    <entry key="InfoPanel_Guest_MoveGroup" translation="Muovi gruppo [{#LogicalButton.GuestInfoPopUp_Move#}]"/>
     <entry key="InfoPanel_Guest_Nausea" translation="Nausea"/>
     <entry key="InfoPanel_Guest_NauseaTolerance" translation="Tolleranza alla nausea"/>
     <entry key="InfoPanel_Guest_NauseaTolerance_Value" translation="{min:float:decimalPlaces=1}-{max:float:decimalPlaces=1}"/>
@@ -13875,10 +13875,10 @@
     <entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Increase Path Width"/>
     <entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Flatten Terrain"/>
     <entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Continuous Delete"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="[MouseLeft] on Path preview, then [MouseMoveV]"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="Z, when path preview joins to a path."/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="[Shift] + [MouseMoveV]"/>
-    <entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="[Space]"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} on Path preview, then [MouseMoveV]"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} on Junction preview, then [MouseMove]"/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, when path preview joins to a path."/>
+    <entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} during Path placement"/>
     <entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="{#LogicalButton.Editors_PathDeleteModifier#} hold while over path."/>
     <entry key="OptionsMenu_Controls_Rebind_Button" translation="Rebind"/>
     <entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Key Rebind In Progress"/>
