@@ -5961,7 +5961,7 @@
     <entry key="ConnectingQueueToExit" translation="Connecting a queue path to a ride exit"/>
     <entry key="Continue" translation="Continua"/>
     <entry key="DATE" translation="{Day:int} {Month}, Anno {Year:int}"/>
-    <entry key="DATE_AND_TIME" translationtranslation="{Date} {Time}"/>
+    <entry key="DATE_AND_TIME" translation="{Date} {Time}"/>
     <entry key="DISTANCE_FEET" translation="{Value:float:decimalPlaces=0} ft"/>
     <entry key="DISTANCE_FEET_2DP" translation="{Value:float:decimalPlaces=2} ft"/>
     <entry key="DISTANCE_KM" translation="{Value:float:decimalPlaces=0} km"/>
