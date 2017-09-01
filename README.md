@@ -18,7 +18,11 @@ Traduzione Italiana per Planet Coaster - [Sito Web](http://traduzioneplanetcoast
 Ps: ricorda tuttavia che utilizzando il secondo metodo la traduzione potrebbe non essere la più recente, in quanto rilasceremo una nuova versione nella pagina "Releases" solo dopo varie modifiche al file. Utilizzando il primo metodo invece scaricherai il file più recente.
 
 ## Ho trovato degli errori nella traduzione / Voglio aiutarvi!
-Nessun problema, l'abbiamo messa su GitHub apposta, qui tutti possono contribuire, registrati a GitHub e crea un "Issue" ([Qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/issues)) o una "Pull request"([Qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/pulls)) con le modifiche che vuoi mandarci.
+Nessun problema, l'abbiamo messa su GitHub apposta, qui tutti possono contribuire, registrati a GitHub e effettua uno di questi due passaggi: 
+* Crea un "Issue" nel caso tu voglia segnalare errori nella traduzione - [Qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/issues).
+* Crea una "Pull request" nel caso tu voglia contribuire attivamente alla traduzione - [Qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/pulls).
+
+**Per creare una "Pull request"** devi prima fare il **"fork"**(Pulsante in alto a destra). Una volta completato il "fork" effettua tutte le modifiche che desideri nel tuo repository e infine mandaci la Pull request (New Pull request > compare across forks).
 
 **Non vuoi registrarti o non hai idea di come funzioni GitHub?** 
 Nessun problema, mandaci le tue modifiche su [Facebook](https://www.facebook.com/PlanetCoasterInItaliano/), provvederemo noi ad inserirle.
