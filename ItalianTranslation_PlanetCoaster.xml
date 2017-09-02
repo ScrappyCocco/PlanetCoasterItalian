@@ -23,8 +23,8 @@
     <entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Edit Trigger Sequence"/>
     <entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="You can edit the trigger sequences of each ride sequence"/>
     <entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Edit Trigger Sequence"/>
-    <entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Flat Ride Trigger"/>
-    <entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="Flat Ride Triggers"/>
+    <entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="visitatori Trigger"/>
+    <entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="visitatori Triggers"/>
     <entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Ride Triggers start at the same time as its corresponding Sequence Animation"/>
     <entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Ride Triggers"/>
     <entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="{Name} Triggers"/>
@@ -121,7 +121,7 @@
     <entry key="AvatarCreator_TeenGroupDesc" translation="Puoi aggiungere solo Giovani."/>
     <!--Blueprints-->
     <entry key="Blueprints_AetheonBlueprint01" translation="Trail Blazer"/>
-    <entry key="Blueprints_AetheonBlueprint01Desc" translation="A layout for the Dive coaster"/>
+    <entry key="Blueprints_AetheonBlueprint01Desc" translation="Un layout per il Dive coaster"/>
     <entry key="Blueprints_Aethon01" translation="Trail Blazer"/>
     <entry key="Blueprints_Aethon01Desc" translation="Un layout per il Dive coaster"/>
     <entry key="Blueprints_AmeliesCastleBlueprint" translation="TrickyPlaysGames - Princess Amelie's Castle Karts"/>
@@ -129,11 +129,11 @@
     <entry key="Blueprints_AmericanArrowBlueprint01" translation="Screamer"/>
     <entry key="Blueprints_AmericanArrowBlueprint01Desc" translation="Un layout per il Looping coaster"/>
     <entry key="Blueprints_Anubis01" translation="Nephthys"/>
-    <entry key="Blueprints_Anubis01Desc" translation="Un layout per il Anubis Hypercoaster"/>
+    <entry key="Blueprints_Anubis01Desc" translation="Un layout per l' Anubis Hypercoaster"/>
     <entry key="Blueprints_AnubisBlueprint01" translation="Nephthys"/>
-    <entry key="Blueprints_AnubisBlueprint01Desc" translation="Un layout per il Hypercoaster"/>
+    <entry key="Blueprints_AnubisBlueprint01Desc" translation="Un layout per l' Hypercoaster"/>
     <entry key="Blueprints_BakasuraBlueprint01" translation="Labrys"/>
-    <entry key="Blueprints_BakasuraBlueprint01Desc" translation="A layout for the Giant Inverted Boomerang coaster"/>
+    <entry key="Blueprints_BakasuraBlueprint01Desc" translation="Un layout per il Giant Inverted Boomerang coaster"/>
     <entry key="Blueprints_BarghestBlueprint01" translation="The Bear-Demon"/>
     <entry key="Blueprints_BarghestBlueprint01Desc" translation="Un layout per il Barghest coaster"/>
     <entry key="Blueprints_BasiliskBlueprint01" translation="The Little King"/>
@@ -143,7 +143,7 @@
     <entry key="Blueprints_BlueprintCostTitle" translation="Prezzo In-Game:"/>
     <entry key="Blueprints_BlueprintDetails" translation="Dettagli Progetto"/>
     <entry key="Blueprints_BoaBlueprint01" translation="Venom"/>
-    <entry key="Blueprints_BoaBlueprint01Desc" translation="Un layout per il Inverted - 2 seater coaster"/>
+    <entry key="Blueprints_BoaBlueprint01Desc" translation="Un layout per l' Inverted - 2 seater coaster"/>
     <entry key="Blueprints_Bozo" translation="Bozo The Clown"/>
     <entry key="Blueprints_BozoDesc" translation="I Clown sono davvero popolari in questo momento. VERO?!"/>
     <entry key="Blueprints_ButtonBack" translation="Indietro"/>
@@ -155,13 +155,13 @@
     <entry key="Blueprints_ButtonUpdateWorkshopItem" translation="Aggiorna Oggetto Workshop"/>
     <entry key="Blueprints_CameraControls" translation="Posiziona la camera usando il mouse per catturare un'immagine del tuo progetto."/>
     <entry key="Blueprints_CanyonBlueprint01" translation="Rebel"/>
-    <entry key="Blueprints_CanyonBlueprint01Desc" translation="A layout for the Mine Train coaster"/>
+    <entry key="Blueprints_CanyonBlueprint01Desc" translation="Un layout per il Mine Train coaster"/>
     <entry key="Blueprints_CanyonRunner01" translation="Rebel"/>
     <entry key="Blueprints_CanyonRunner01Desc" translation="Un layout per il Mine Train coaster"/>
     <entry key="Blueprints_Cargo" translation="Cargo"/>
     <entry key="Blueprints_CargoDesc" translation="A pile of cargo"/>
     <entry key="Blueprints_CastleATMmachine" translation="Il bancomat del castello fatato"/>
-    <entry key="Blueprints_CastleATMmachineDesc" translation="CIl bancomat del castello fatato"/>
+    <entry key="Blueprints_CastleATMmachineDesc" translation="Il bancomat del castello fatato"/>
     <entry key="Blueprints_CastleArchway" translation="Arcata Castello Fatato"/>
     <entry key="Blueprints_CastleArchwayDesc" translation="Arcata Castello Fatato"/>
     <entry key="Blueprints_CastleTowerToilet" translation="Bagni della torre del castello"/>
@@ -171,7 +171,7 @@
     <entry key="Blueprints_ChoppersCreek01" translation="Boom Boat"/>
     <entry key="Blueprints_ChoppersCreek01Desc" translation="Un layout per il Chopper's Creek water ride"/>
     <entry key="Blueprints_ClayPots" translation="Vasi d'argilla"/>
-    <entry key="Blueprints_ClayPotsDesc" translation="Una raccola di vasi d'argilla"/>
+    <entry key="Blueprints_ClayPotsDesc" translation="Una raccolta di vasi d'argilla"/>
     <entry key="Blueprints_CloudRunner01" translation="Afterburn"/>
     <entry key="Blueprints_CloudRunner01Desc" translation="Un layout per il Wing - Launched coaster"/>
     <entry key="Blueprints_CloudRunnerBlueprint01" translation="Afterburn"/>
@@ -184,7 +184,7 @@
     <entry key="Blueprints_ConfirmBox_UnsubMessage" translation="Ti disiscriverai da questo progetto. Vuoi continuare?"/>
     <entry key="Blueprints_ConfirmBox_UnsubTitle" translation="Disiscrivi?"/>
     <entry key="Blueprints_ConnieExpress01" translation="Drake"/>
-    <entry key="Blueprints_ConnieExpress01Desc" translation="Un layout per il Steam Train Railroad"/>
+    <entry key="Blueprints_ConnieExpress01Desc" translation="Un layout per lo Steam Train Railroad"/>
     <entry key="Blueprints_CreateBlueprint" translation="Crea un nuovo progetto"/>
     <entry key="Blueprints_DefaultTagPrompt" translation="Scegli Tag"/>
     <entry key="Blueprints_Dragon01" translation="Flight of the Dragon"/>
@@ -194,13 +194,13 @@
     <entry key="Blueprints_DragonSlayer" translation="A Dragon whispering scene"/>
     <entry key="Blueprints_DragonSlayerDesc" translation="A Dragon whispering scene"/>
     <entry key="Blueprints_Enigma01" translation="Twister"/>
-    <entry key="Blueprints_Enigma01Desc" translation="Un layout per il Standup coaster"/>
+    <entry key="Blueprints_Enigma01Desc" translation="Un layout per lo Standup coaster"/>
     <entry key="Blueprints_EnigmaBlueprint01" translation="Twister"/>
-    <entry key="Blueprints_EnigmaBlueprint01Desc" translation="A layout for the Standup coaster"/>
+    <entry key="Blueprints_EnigmaBlueprint01Desc" translation="Un layout per lo Standup coaster"/>
     <entry key="Blueprints_Equalizer01" translation="Digitiser"/>
-    <entry key="Blueprints_Equalizer01Desc" translation="Un layout per il Equalizer Hypercoaster"/>
+    <entry key="Blueprints_Equalizer01Desc" translation="Un layout per l' Equalizer Hypercoaster"/>
     <entry key="Blueprints_EqualizerBlueprint01" translation="Digitiser"/>
-    <entry key="Blueprints_EqualizerBlueprint01Desc" translation="Un layout per il Hypercoaster"/>
+    <entry key="Blueprints_EqualizerBlueprint01Desc" translation="Un layout per l' Hypercoaster"/>
     <entry key="Blueprints_ErrorBox_FailedToCreateEditItem" translation="Impossibile modificare il progetto WorkShop."/>
     <entry key="Blueprints_ErrorBox_FailedToCreateItemContent" translation="Impossibile creare i contenuti del progetto da caricare nel WorkShop."/>
     <entry key="Blueprints_ErrorBox_ListItemsSteamInsufficientPrivilege" translation="Il tuo account di steam non ha i permessi per usare lo Steam WorkShop."/>
@@ -231,9 +231,9 @@
     <entry key="Blueprints_FT_CastleShopSmall01Desc" translation="Vendi le tue cose con uno stile Reale!"/>
     <entry key="Blueprints_FT_ClocktowerLarge" translation="Torre dell'orologio grande"/>
     <entry key="Blueprints_FT_ClocktowerLargeDesc" translation="Una grande torre dell'orologio per decorare la piazza del villaggio!"/>
-    <entry key="Blueprints_FT_Drink" translation="Il mondo dell fiabe - Bevande"/>
+    <entry key="Blueprints_FT_Drink" translation="Il mondo delle fiabe - Bevande"/>
     <entry key="Blueprints_FT_DrinkDesc" translation="Un negozio di bevande a tema mondo delle fiabe"/>
-    <entry key="Blueprints_FT_Food" translation="Il mondo dell fiabe - Cibo"/>
+    <entry key="Blueprints_FT_Food" translation="Il mondo delle fiabe - Cibo"/>
     <entry key="Blueprints_FT_FoodDesc" translation="Un ristorante a tema mondo delle fiabe"/>
     <entry key="Blueprints_FT_Hats" translation="Il mondo delle fiabe - Cappelli"/>
     <entry key="Blueprints_FT_HatsDesc" translation="Un negozio di cappelli a tema mondo delle fiabe"/>
@@ -306,7 +306,7 @@
     <entry key="Blueprints_FayreDesc" translation="Un pittoresca fiera"/>
     <entry key="Blueprints_FlowerStall" translation="Chiosco di fiori"/>
     <entry key="Blueprints_FlowerStallDesc" translation="Un simpatico chiosco di fiori"/>
-    <entry key="Blueprints_GoKart01BlueprintDesc" translation="A layout for the Go Karts Track"/>
+    <entry key="Blueprints_GoKart01BlueprintDesc" translation="Un layout per il Go Karts Track"/>
     <entry key="Blueprints_GoKartBlueprint01" translation="Ring Racers"/>
     <entry key="Blueprints_InProgress" translation="Caricamento su Steam"/>
     <entry key="Blueprints_Invincible01" translation="Impulse"/>
@@ -316,7 +316,7 @@
     <entry key="Blueprints_IronFury01" translation="Red Steel"/>
     <entry key="Blueprints_IronFury01Desc" translation="Un layout per il Hybrid - Steel Topped coaster"/>
     <entry key="Blueprints_IronFuryBlueprint01" translation="Red Steel"/>
-    <entry key="Blueprints_IronFuryBlueprint01Desc" translation="A layout for the Hybrid - Steel Topped coaster"/>
+    <entry key="Blueprints_IronFuryBlueprint01Desc" translation="Un layout per l' Hybrid - Steel Topped coaster"/>
     <entry key="Blueprints_ItemDescrTest" translation="Una bella descrizione per mostrare il nostro fantastico sistema."/>
     <entry key="Blueprints_ItemDescription" translation="{DESC}"/>
     <entry key="Blueprints_ItemDescription_Default" translation="Inserisci una descrizione per il tuo progetto..."/>
@@ -345,10 +345,10 @@
     <entry key="Blueprints_MagicKatzBlueprint01" translation="Pounce"/>
     <entry key="Blueprints_MagicKatzBlueprint01Desc" translation="Un layout per il Powered Track Ride"/>
     <entry key="Blueprints_MaliceBlueprint01" translation="Harbinger"/>
-    <entry key="Blueprints_MaliceBlueprint01Desc" translation="A layout for the Hybrid - Steel Track coaster"/>
+    <entry key="Blueprints_MaliceBlueprint01Desc" translation="Un layout per l' Hybrid - Steel Track coaster"/>
     <entry key="Blueprints_MaliceUnchained01" translation="Harbinger"/>
-    <entry key="Blueprints_MaliceUnchained01Desc" translation="Un layout per il Hybrid - Steel Track coaster"/>
-    <entry key="Blueprints_MaliceUnchained02BlueprintDesc" translation="A layout for the Hybrid - Steel Track coaster"/>
+    <entry key="Blueprints_MaliceUnchained01Desc" translation="Un layout per l' Hybrid - Steel Track coaster"/>
+    <entry key="Blueprints_MaliceUnchained02BlueprintDesc" translation="Un layout per l' Hybrid - Steel Track coaster"/>
     <entry key="Blueprints_MaliceUnchainedBlueprint02" translation="Forerunner"/>
     <entry key="Blueprints_MarketStalls" translation="Market Stalls"/>
     <entry key="Blueprints_MarketStallsDesc" translation="A collection of market stalls"/>
@@ -392,18 +392,18 @@
     <entry key="Blueprints_PCInfoDesc" translation="Ci si perde facilmente se non si sta attenti, il nostro staff aiuterà i visitatori ad orientarsi."/>
     <entry key="Blueprints_PCLargeEnt" translation="Entrata Planet Coaster Grande"/>
     <entry key="Blueprints_PCLargeEntDesc" translation="Ti aspetti più visitatori per il tuo fantastico parco? Aggiorna l'entrata con lo stile Planet Coaster!"/>
-    <entry key="Blueprints_PCParkSet" translation="Set Design Planet Coaster"/>
-    <entry key="Blueprints_PCParkSetDesc" translation="Questo set di design sono state decorate per potersi integrare perfettamente con il tuo parco a tema Planet Coaster"/>
+    <entry key="Blueprints_PCParkSet" translation="Set design Planet Coaster"/>
+    <entry key="Blueprints_PCParkSetDesc" translation="Questi set di design sono stati decorati per potersi integrare perfettamente con il tuo parco a tema Planet Coaster"/>
     <entry key="Blueprints_PCScenery" translation="Scenografie Planet Coaster"/>
-    <entry key="Blueprints_PCSceneryDesc" translation="Questo set di scenografie sono state decorate per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
+    <entry key="Blueprints_PCSceneryDesc" translation="Questi set di scenografie sono stati decorati per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
     <entry key="Blueprints_PCSceneryPlanet" translation="Off the Planet"/>
     <entry key="Blueprints_PCSceneryPlanetDesc" translation="A larger scenery set that would make a nice centrepiece."/>
-    <entry key="Blueprints_PCShopping" translation="Area shopping PLanet Coaster"/>
+    <entry key="Blueprints_PCShopping" translation="Area shopping Planet Coaster"/>
     <entry key="Blueprints_PCShoppingDesc" translation="Più negozi in una piccola area, faciliteranno la vita ai visitatori che non vogliono camminare."/>
     <entry key="Blueprints_PCSmallEnt" translation="Piccola entrata Planet Coaster"/>
     <entry key="Blueprints_PCSmallEntDesc" translation="Questa piccola entrata darà il benvenuto ai visitatori del parco."/>
     <entry key="Blueprints_PCThemedShops" translation="Negozi a tema Planet Coaster"/>
-    <entry key="Blueprints_PCThemedShopsDesc" translation="Il tipico Design Planet Coaster è stato usato per decorare questi negozi."/>
+    <entry key="Blueprints_PCThemedShopsDesc" translation="Il tipico design Planet Coaster è stato usato per decorare questi negozi."/>
     <entry key="Blueprints_PCToilets" translation="Blocco di bagni Planet Coaster"/>
     <entry key="Blueprints_PCToiletsDesc" translation="Degli stilosissimi bagni da utilizzare nelle scenografie a tema Planet Coaster."/>
     <entry key="Blueprints_PC_Drink" translation="Planet Coaster - Bevande"/>
@@ -439,7 +439,7 @@
     <entry key="Blueprints_Pioneer01" translation="The Hunt"/>
     <entry key="Blueprints_Pioneer01Desc" translation="Un layout per il Free Swing coaster"/>
     <entry key="Blueprints_PioneerBlueprint01" translation="The Hunt"/>
-    <entry key="Blueprints_PioneerBlueprint01Desc" translation="A layout for the Free Swing coaster"/>
+    <entry key="Blueprints_PioneerBlueprint01Desc" translation="Un layout per il Free Swing coaster"/>
     <entry key="Blueprints_PirateATM" translation="Bancomat Piratesco"/>
     <entry key="Blueprints_PirateATM2" translation="Bancomat Piratesco"/>
     <entry key="Blueprints_PirateATM2Desc" translation="Questa macchinetta è piena di dobloni d'oro quindi occhio ai pirati!"/>
@@ -5222,8 +5222,8 @@
     <entry key="BuildingPartDesc_FA_FirstAid_Standard" translation="Un luogo per permettere ai visitatori nauseati di recuperare le forze.\nStruttura"/>
     <entry key="BuildingPartDesc_FastPassMerge" translation="Posizione un'uscita per la fila dedicata ai Pass Salta-Coda.\nTema Moderno"/>
     <entry key="BuildingPartDesc_FastPassSplit" translation="Posiziona un ingresso per la fila dedicata ai Pass Salta-Coda.\nTema Moderno"/>
-    <entry key="BuildingPartDesc_FlatRideEntranceBooth" translation="Collega un sentiero alla zona di coda di un'attrazione aperta.\nTema Moderno"/>
-    <entry key="BuildingPartDesc_FlatRideEntranceBoothNoArch" translation="Collega un sentiero alla zona di coda di un'attrazione aperta.\nTema Moderno"/>
+    <entry key="BuildingPartDesc_FlatRideEntranceBooth" translation="Collega un sentiero alla coda di un'attrazione aperta.\nTema Moderno"/>
+    <entry key="BuildingPartDesc_FlatRideEntranceBoothNoArch" translation="Collega un sentiero alla coda di un'attrazione aperta.\nTema Moderno"/>
     <entry key="BuildingPartDesc_IN_Information_Standard" translation="Un luogo che permette ai visitatori di acquistare Pass Salta-Coda.\nStruttura"/>
     <entry key="BuildingPartDesc_MeetAndGreet" translation="le Mascotte si fermeranno qui per intrattenere i visitatori."/>
     <entry key="BuildingPartDesc_ParkEntranceGate" translation="Luogo di ingresso ed uscita dei visitatori.&#10;Facility"/>
@@ -5796,12 +5796,12 @@
     <entry key="FrontEndMenu_MyParksSandbox" translation="Carica un Parco SandBox"/>
     <entry key="FrontEndMenu_MyParksSimulation" translation="Carica un Parco Sfida"/>
     <entry key="FrontEndMenu_NewChallenge" translation="Nuova sfida"/>
-    <entry key="FrontEndMenu_NewChallengeCustom" translation="New Challenge - Custom Environment"/>
-    <entry key="FrontEndMenu_NewCustomSandbox" translation="New Challenge"/>
+    <entry key="FrontEndMenu_NewChallengeCustom" translation="Nuova Sfida - Paesaggio Custom"/>
+    <entry key="FrontEndMenu_NewCustomSandbox" translation="Nuova Sfida"/>
     <entry key="FrontEndMenu_NewSandbox" translation="Nuovo SandBox"/>
-    <entry key="FrontEndMenu_NewSandboxCustom" translation="New Sandbox - Custom Environment"/>
-    <entry key="FrontEndMenu_NewsBuyNow" translation="Open Steam Store..."/>
-    <entry key="FrontEndMenu_NewsOpenURL" translation="Open..."/>
+    <entry key="FrontEndMenu_NewSandboxCustom" translation="Nuovo Sandbox -Paesaggio Custom"/>
+    <entry key="FrontEndMenu_NewsBuyNow" translation="Apri lo Store di Steam..."/>
+    <entry key="FrontEndMenu_NewsOpenURL" translation="Apri..."/>
     <entry key="FrontEndMenu_NoUploads" translation="{Name} non ha upload :("/>
     <entry key="FrontEndMenu_OpenAs" translation="Apri Come ..."/>
     <entry key="FrontEndMenu_OpenAsToolTipEnabled" translation="Apre il parco in un altra modalità"/>
@@ -5812,7 +5812,7 @@
     <entry key="FrontEndMenu_PlayDetails" translation="Inizia una nuova partita in Carriera, Sandbox o Sfida!"/>
     <entry key="FrontEndMenu_PlayDownloadAsChallenge" translation="Play as Challenge"/>
     <entry key="FrontEndMenu_PlayDownloadAsSandbox" translation="Play as Sandbox"/>
-    <entry key="FrontEndMenu_PlayTime" translation="Total play time: {Value:float:decimalPlaces=1} hours"/>
+    <entry key="FrontEndMenu_PlayTime" translation="Totale tempo di gioco: {Value:float:decimalPlaces=1} ore"/>
     <entry key="FrontEndMenu_Player" translation="Sei tu!"/>
     <entry key="FrontEndMenu_PromptNo" translation="No"/>
     <entry key="FrontEndMenu_PromptYes" translation="Sì"/>
@@ -5830,7 +5830,7 @@
     <entry key="FrontEndMenu_SearchSteam" translation="Cerca nello Steam Workshop"/>
     <entry key="FrontEndMenu_SearchSteamWorkShop" translation="Cerca nello Steam Workshop"/>
     <entry key="FrontEndMenu_SearchUsers" translation="Cerca Creatori"/>
-    <entry key="FrontEndMenu_SetUnlock" translation="You need to be at least level {Value:int} to unlock this level."/>
+    <entry key="FrontEndMenu_SetUnlock" translation="Devi essere almeno di livello {Value:int} per sbloccare questo livello."/>
     <entry key="FrontEndMenu_Settings" translation="Impostazioni"/>
     <entry key="FrontEndMenu_SettingsButton" translation="Impostazioni"/>
     <entry key="FrontEndMenu_Simulation" translation="Sfida"/>
@@ -5843,8 +5843,8 @@
     <entry key="FrontEndMenu_SortByNameDescending" translation="Autore Z-A"/>
     <entry key="FrontEndMenu_SortByTimePlayedAscending" translation="Più Giocati"/>
     <entry key="FrontEndMenu_SortByTimePlayedDescending" translation="Meno Giocati"/>
-    <entry key="FrontEndMenu_StaffEditor_InfoLabel" translation="Customise a member of staff to appear in other players' games."/>
-    <entry key="FrontEndMenu_StaffEditor_InfoTitle" translation="Create your VIP Staff Pass!"/>
+    <entry key="FrontEndMenu_StaffEditor_InfoLabel" translation="Personalizza un membro dello staff che apparirà nel gioco degli altri."/>
+    <entry key="FrontEndMenu_StaffEditor_InfoTitle" translation="Crea il tuo VIP Staff Pass!"/>
     <entry key="FrontEndMenu_StartNew" translation="Inizia!"/>
     <entry key="FrontEndMenu_Subscribe" translation="Iscriviti"/>
     <entry key="FrontEndMenu_Subscribers" translation="Iscrizioni"/>
@@ -5918,7 +5918,7 @@
     <entry key="FrontEndMenu_UserOffline" translation="Offline"/>
     <entry key="FrontEndMenu_UserOnline" translation="Online"/>
     <entry key="FrontEndMenu_Username" translation="{Name}"/>
-    <entry key="FrontEndMenu_VIPEditor_InfoLabel" translation="Create a guest to visit other players' parks."/>
+    <entry key="FrontEndMenu_VIPEditor_InfoLabel" translation="Crea un ospite per visitare il parco degli altri giocatori."/>
     <entry key="FrontEndMenu_VIPEditor_InfoTitle" translation="Create your VIP Single Ticket!"/>
     <entry key="FrontEndMenu_ViewInDownloads" translation="Guarda in Downloads"/>
     <entry key="FrontEndMenu_ViewInWorkshop" translation="Guarda in Workshop"/>
@@ -5999,7 +5999,7 @@
     <entry key="FanfareRankUp" translation="Livello superiore!"/>
     <entry key="FanfareRankUpDesc" translation="Hai raggiunto il rank di {Rank}"/>
     <entry key="FanfareScenarioUnlocked" translation="Scenario Sbloccato!"/>
-    <entry key="FlatRidePrefix" translation="Attrazione"/>
+    <entry key="FlatRidePrefix" translation="Giostra"/>
     <entry key="GAMEDATE_DAY_MONTH" translation="{Day:int:minDigits=2} {MonthName}"/>
     <entry key="GAMEDATE_DAY_MONTH_YEAR" translation="{Day:int:minDigits=2} {MonthName}, Anno {Year:int}"/>
     <entry key="GAMEDATE_MONTH_YEAR" translation="{MonthName}, Anno {Year:int}"/>
@@ -6115,7 +6115,7 @@
     <entry key="MainMenu_Build" translation="Crea"/>
     <entry key="MainMenu_Build_Coasters" translation="Coasters"/>
     <entry key="MainMenu_Build_Facilities" translation="Strutture"/>
-    <entry key="MainMenu_Build_FlatRides" translation="Altre Attrazioni"/>
+    <entry key="MainMenu_Build_FlatRides" translation="Altre Giostre"/>
     <entry key="MainMenu_Build_Paths" translation="Percorsi"/>
     <entry key="MainMenu_Build_Rides" translation="Attrazioni"/>
     <entry key="MainMenu_Build_Scenery" translation="Scenario"/>
@@ -12017,12 +12017,12 @@
     <entry key="GuestName_WithNickname" translation="{Forename} &quot;{Nickname}&quot; {Surname}"/>
     <!--Guests-->
     <entry key="Guests_PlayerDefinedName" translation="{GUESTNAME}"/>
-    <entry key="Guests_Status_AtSecurityGuard" translation="Apprehended by security"/>
+    <entry key="Guests_Status_AtSecurityGuard" translation="Arrestato dalla Sicurezza"/>
     <entry key="Guests_Status_Bench" translation="Cercando una panchina"/>
     <entry key="Guests_Status_Bin" translation="Cercando un cestino"/>
-    <entry key="Guests_Status_CrowdMember" translation="Following Guest to Pickpocket"/>
+    <entry key="Guests_Status_CrowdMember" translation="Pedinando ospiti da borseggiare"/>
     <entry key="Guests_Status_EnterPark" translation="Arrivando al parco"/>
-    <entry key="Guests_Status_Fireworks" translation="Watching fireworks"/>
+    <entry key="Guests_Status_Fireworks" translation="Guardando i fuochi d'artificio"/>
     <entry key="Guests_Status_GuestDestination_AtBench" translation="Rilassando"/>
     <entry key="Guests_Status_GuestDestination_AtEntertainer" translation="Osservando"/>
     <entry key="Guests_Status_GuestDestination_AtShop" translation="Visitando"/>
@@ -12034,27 +12034,27 @@
     <entry key="Guests_Status_Idle" translation="Oziando"/>
     <entry key="Guests_Status_LeavePark" translation="Tornando a casa"/>
     <entry key="Guests_Status_Physics" translation="Colpito da un vagone"/>
-    <entry key="Guests_Status_Screen" translation="Watching screen"/>
+    <entry key="Guests_Status_Screen" translation="Guardando lo schermo"/>
     <entry key="Guests_Status_Suspended" translation="Portato in giro"/>
     <entry key="Guests_Status_Trapped" translation="In trappola"/>
-    <entry key="Guests_Status_Vandalise" translation="Vandalising"/>
+    <entry key="Guests_Status_Vandalise" translation="Vandalizzando"/>
     <entry key="Guests_Status_Wander" translation="Vagando"/>
     <!--HUD-->
     <entry key="HUD_AdultGroupMemberCount" translation="Gruppi di visitatori Adulti"/>
     <entry key="HUD_AverageGuestHappinessTitle" translation="Media felicita' Visitatori"/>
     <entry key="HUD_AverageHappiness" translation="Media felicita' Visitatori"/>
     <entry key="HUD_AverageHappinessMultiplier" translation="Felicità Visitatori"/>
-    <entry key="HUD_BalanceBonus" translation="Park Balance Bonus"/>
+    <entry key="HUD_BalanceBonus" translation="Bonus Bilancio Parco"/>
     <entry key="HUD_ConstructionCosts" translation="Costo Costruzioni"/>
     <entry key="HUD_CurrentMonth" translation="Mese Corrente"/>
     <entry key="HUD_FamilyGroupMemberCount" translation="Famiglie"/>
-    <entry key="HUD_HelpPopup_BlueprintPlacement_Title" translation="Blueprint Placement Controls"/>
-    <entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Use Handles"/>
+    <entry key="HUD_HelpPopup_BlueprintPlacement_Title" translation="Controlli posizionamento progetti"/>
+    <entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Usa Handles"/>
     <entry key="HUD_HelpPopup_CoasterEdit_Command_02" translation="Costruisci pezzo di tracciato"/>
     <entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Elimina pezzo di tracciato"/>
     <entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Seleziona pezzo di tracciato"/>
-    <entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Cancel/Close"/>
-    <entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Angle Snap On/Off"/>
+    <entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
+    <entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Linea retta on/off"/>
     <entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Use the in-world buttons to manipulate the track with precision control. Left click away from the coaster to place the next track piece."/>
     <entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} on Placed Piece"/>
     <entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalita' modifica Coaster"/>
@@ -12065,9 +12065,9 @@
     <entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="The display sequencer allows you to trigger multiple objects and events by a schedule or from a a single ride or roller coaster trigger."/>
     <entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Display Sequencer"/>
     <entry key="HUD_HelpPopup_DontShow" translation="Disabilita Consigli"/>
-    <entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Confirm Placement"/>
-    <entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Cancel Placement"/>
-    <entry key="HUD_HelpPopup_EntranceExit_Title" translation="Placement Controls"/>
+    <entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Conferma Posizione"/>
+    <entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Annulla Posizione"/>
+    <entry key="HUD_HelpPopup_EntranceExit_Title" translation="Controlli Posizione"/>
     <entry key="HUD_HelpPopup_MoreControls" translation="Mostra più controlli"/>
     <entry key="HUD_HelpPopup_MouseAxisScroll" translation="[MouseMiddle] (Scroll)"/>
     <entry key="HUD_HelpPopup_MouseAxisX" translation="[MouseMoveH]"/>
@@ -12079,39 +12079,39 @@
     <entry key="HUD_HelpPopup_MultiPlacement_Title" translation="Placement Controls"/>
     <entry key="HUD_HelpPopup_MultiSelect_Command_01" translation="Seleziona"/>
     <entry key="HUD_HelpPopup_MultiSelect_Command_02" translation="Annulla/Chiudi"/>
-    <entry key="HUD_HelpPopup_MultiSelect_Command_03" translation="Add/Remove Selection"/>
+    <entry key="HUD_HelpPopup_MultiSelect_Command_03" translation="Aggiungi/Rimuovi Selezione"/>
     <entry key="HUD_HelpPopup_MultiSelect_Description" translation="Multi-Select allows you to select multiple items for editing or blueprint creation. Drag-select over the items you want, or hold Ctrl and select or de-select them individually."/>
     <entry key="HUD_HelpPopup_MultiSelect_Title" translation="Controlli Base"/>
-    <entry key="HUD_HelpPopup_Paths_Command_01" translation="Piazza Sentiero"/>
+    <entry key="HUD_HelpPopup_Paths_Command_01" translation="Posiziona Sentiero"/>
     <entry key="HUD_HelpPopup_Paths_Command_02" translation="Elimina Sentiero"/>
-    <entry key="HUD_HelpPopup_Paths_Command_03" translation="Alza/Abbassa Percorso"/>
-    <entry key="HUD_HelpPopup_Paths_Command_04" translation="Rotate Junction Angle"/>
-    <entry key="HUD_HelpPopup_Paths_Command_05" translation="Disable Path Joins"/>
-    <entry key="HUD_HelpPopup_Paths_Command_06" translation="Close Path Tool"/>
-    <entry key="HUD_HelpPopup_Paths_Command_07" translation="Rotate Junctions, Straighten Joins"/>
-    <entry key="HUD_HelpPopup_Paths_Command_08" translation="Adjust Height"/>
-    <entry key="HUD_HelpPopup_Paths_Command_09" translation="Reset Height"/>
-    <entry key="HUD_HelpPopup_Paths_Command_10" translation="Disable Path Joins"/>
-    <entry key="HUD_HelpPopup_Paths_Command_11" translation="Angle Snap On/Off"/>
-    <entry key="HUD_HelpPopup_Paths_Command_12" translation="Decrease Length"/>
-    <entry key="HUD_HelpPopup_Paths_Command_13" translation="Increase Length"/>
-    <entry key="HUD_HelpPopup_Paths_Command_14" translation="Decrease Width"/>
-    <entry key="HUD_HelpPopup_Paths_Command_15" translation="Increase Width"/>
-    <entry key="HUD_HelpPopup_Paths_Command_16" translation="Toggle Flatten Terrain"/>
-    <entry key="HUD_HelpPopup_Paths_Command_17" translation="Continuous Delete"/>
-    <entry key="HUD_HelpPopup_Paths_Description" translation="Place paths for your guests to walk on. Paths connect the park entrance to rides and shops around the park."/>
-    <entry key="HUD_HelpPopup_Paths_Title" translation="Path Controls"/>
-    <entry key="HUD_HelpPopup_Ping" translation="Click here for control help"/>
-    <entry key="HUD_HelpPopup_QuickStart" translation="Key Controls"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_01" translation="Confirm Placement"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_02" translation="Cancel Placement"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_03" translation="Rotate"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_04" translation="Rotate 90-degrees"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_05" translation="Raise/Lower"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_06" translation="Toggle Advanced Move/Rotate"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_07" translation="Rotation Snap On/Off"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_08" translation="Reset Height"/>
-    <entry key="HUD_HelpPopup_RidePlacement_Command_09" translation="Lock to Surface Axes"/>
+    <entry key="HUD_HelpPopup_Paths_Command_03" translation="Alza/Abbassa Sentiero"/>
+    <entry key="HUD_HelpPopup_Paths_Command_04" translation="Ruota Angolo Giunzioni"/>
+    <entry key="HUD_HelpPopup_Paths_Command_05" translation="Disabilita Giunti Sentiero"/>
+    <entry key="HUD_HelpPopup_Paths_Command_06" translation="Chiudi Strumento Sentiero"/>
+    <entry key="HUD_HelpPopup_Paths_Command_07" translation="Ruota Giunzioni, Raddrizza Giunti"/>
+    <entry key="HUD_HelpPopup_Paths_Command_08" translation="Regola altezza"/>
+    <entry key="HUD_HelpPopup_Paths_Command_09" translation="Resetta altezza"/>
+    <entry key="HUD_HelpPopup_Paths_Command_10" translation="Disabilita Giunti Sentiero"/>
+    <entry key="HUD_HelpPopup_Paths_Command_11" translation="Linea retta on/off"/>
+    <entry key="HUD_HelpPopup_Paths_Command_12" translation="Riduci Lunghezza"/>
+    <entry key="HUD_HelpPopup_Paths_Command_13" translation="Aumenta Lunghezza"/>
+    <entry key="HUD_HelpPopup_Paths_Command_14" translation="Riduci Larghezza"/>
+    <entry key="HUD_HelpPopup_Paths_Command_15" translation="Aumenta Larghezza"/>
+    <entry key="HUD_HelpPopup_Paths_Command_16" translation="Attiva Appiattisci Terreno"/>
+    <entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella di continuo"/>
+    <entry key="HUD_HelpPopup_Paths_Description" translation="Posiziona i sentieri per permettere ai visitatori di andare in giro. I sentieri collegano l'entrata del parco alle attrazioni e ai negozi in tutto il parco."/>
+    <entry key="HUD_HelpPopup_Paths_Title" translation="Controlli dei sentieri"/>
+    <entry key="HUD_HelpPopup_Ping" translation="Clicca qui per aiuto sui controlli"/>
+    <entry key="HUD_HelpPopup_QuickStart" translation="Tasti Controlli"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_01" translation="Conferma Posizione"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_02" translation="Annulla Posizione"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_03" translation="Ruota"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_04" translation="Ruota 90 gradi"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_05" translation="Alza/Abbassa"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_06" translation="Attiva Movimento Avanzato/Ruota"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_07" translation="Rotazione fissa On/Off"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_08" translation="Resetta Altezza"/>
+    <entry key="HUD_HelpPopup_RidePlacement_Command_09" translation="Blocca su asse superficie"/>
     <entry key="HUD_HelpPopup_RidePlacement_Description" translation="Position objects with your cursor before placing them in the park. Use the keyboard to activate rotation and height controls."/>
     <entry key="HUD_HelpPopup_RidePlacement_Title" translation="Placement Controls"/>
     <entry key="HUD_HelpPopup_RideTriggers_Description" translation="Ride triggers allow you to trigger animated objects and special effects when ride sequences begin."/>
@@ -12204,7 +12204,7 @@
     <entry key="HUD_Month12" translation="Dic"/>
     <entry key="HUD_MonthlyProfit" translation="Profitto Mensile"/>
     <entry key="HUD_NotificationApply" translation="Applica"/>
-    <entry key="HUD_NotificationCancel" translation="Cancel"/>
+    <entry key="HUD_NotificationCancel" translation="Annulla"/>
     <entry key="HUD_NotificationRest" translation="+{Value:int}"/>
     <entry key="HUD_NotificationSettings" translation="Impostazioni"/>
     <entry key="HUD_Notifications" translation="Notifiche"/>
@@ -12219,14 +12219,14 @@
     <entry key="HUD_NotificationsPark" translation="Gestione Parco"/>
     <entry key="HUD_NotificationsParkManagement" translation="Gestione Parco"/>
     <entry key="HUD_NotificationsRides" translation="Attrazioni"/>
-    <entry key="HUD_NotificationsSecurity" translation="Security"/>
-    <entry key="HUD_NotificationsSequence" translation="Seqeunces"/>
+    <entry key="HUD_NotificationsSecurity" translation="Sicurezza"/>
+    <entry key="HUD_NotificationsSequence" translation="Sequenze"/>
     <entry key="HUD_NotificationsSettings" translation="Impostazioni Notifiche"/>
     <entry key="HUD_NotificationsStaff" translation="Staff"/>
     <entry key="HUD_NotificationsStalls" translation="Negozi e Strutture"/>
-    <entry key="HUD_NotificationsUrgent" translation="Important"/>
+    <entry key="HUD_NotificationsUrgent" translation="Importanti"/>
     <entry key="HUD_NumberOfGuests" translation="Numero di Visitatori"/>
-    <entry key="HUD_OtherRunningCosts" translation="Other Running Costs"/>
+    <entry key="HUD_OtherRunningCosts" translation="Altri Costi di Gestione"/>
     <entry key="HUD_ParkInfo_Finances" translation="{Value:currency}"/>
     <entry key="HUD_ParkInfo_ParkName" translation="{Name}"/>
     <entry key="HUD_ParkInfo_Rating" translation="{Value:float:decimalPlaces=0}"/>
@@ -12235,17 +12235,17 @@
     <entry key="HUD_ParkRating" translation="Valutazione Parco"/>
     <entry key="HUD_RideProfits" translation="Profitto Attrazione"/>
     <entry key="HUD_RideQuality" translation="Valutazione Attrazione"/>
-    <entry key="HUD_Saving" translation="Saving..."/>
+    <entry key="HUD_Saving" translation="Salvataggio..."/>
     <entry key="HUD_SceneryQuality" translation="Valutazione Scenario"/>
     <entry key="HUD_SettingsMenu_CommunityTranslation" translation="Traduzione a cura di {Name}"/>
     <entry key="HUD_SettingsMenu_SettingsToolTip" translation="Impostazioni"/>
     <entry key="HUD_SettingsMenu_Version" translation="Versione {Version}"/>
-    <entry key="HUD_ShopAndFacilityProfits" translation="Negozi &amp; Strutture Profits"/>
+    <entry key="HUD_ShopAndFacilityProfits" translation="Negozi &amp; Strutture Profitti"/>
     <entry key="HUD_ShopMenu_Blueprints" translation="Progetti"/>
     <entry key="HUD_ShopMenu_Buildings" translation="Strutture"/>
     <entry key="HUD_ShopMenu_Coasters" translation="Coasters"/>
-    <entry key="HUD_ShopMenu_Path_Extras" translation="Path Extras"/>
-    <entry key="HUD_ShopMenu_RecentBlueprints" translation="Recent Blueprints"/>
+    <entry key="HUD_ShopMenu_Path_Extras" translation="Extra Sentieri"/>
+    <entry key="HUD_ShopMenu_RecentBlueprints" translation="Progetti Recenti"/>
     <entry key="HUD_ShopMenu_Rides" translation="Attrazioni"/>
     <entry key="HUD_ShopMenu_Scenery" translation="Scenario"/>
     <entry key="HUD_ShopMenu_Shops" translation="Negozi e Servizi"/>
@@ -12256,42 +12256,42 @@
     <entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
     <entry key="HUD_TimePanel_Title" translation="Set lighting to"/>
     <entry key="HUD_ToolTip_AttractionsLists" translation="Lista attrazioni"/>
-    <entry key="HUD_ToolTip_ChallengesPopup" translation="Challenges"/>
+    <entry key="HUD_ToolTip_ChallengesPopup" translation="Sfide"/>
     <entry key="HUD_ToolTip_Delete" translation="Delete Mode (Coming Soon)"/>
     <entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocita' Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
     <entry key="HUD_ToolTip_HelpPopup" translation="Aiuto [{#LogicalButton.Editors_ToggleControlHelp#}]"/>
     <entry key="HUD_ToolTip_Lighting" translation="Imposta Luce"/>
     <entry key="HUD_ToolTip_MultiSelect" translation="Selezione Multipla"/>
-    <entry key="HUD_ToolTip_MultiSelect_Addition" translation="Click to add/remove"/>
-    <entry key="HUD_ToolTip_MultiSelect_Clear" translation="Clear Selection"/>
-    <entry key="HUD_ToolTip_MultiSelect_Regular" translation="Ctrl + Click to add/remove"/>
-    <entry key="HUD_ToolTip_NoResearchedEntries" translation="You have no items in here, try researching some!"/>
+    <entry key="HUD_ToolTip_MultiSelect_Addition" translation="Clicca per aggiungere/rimuovere"/>
+    <entry key="HUD_ToolTip_MultiSelect_Clear" translation="Elimina Selezione"/>
+    <entry key="HUD_ToolTip_MultiSelect_Regular" translation="Ctrl + Click per aggiungere/rimuovere"/>
+    <entry key="HUD_ToolTip_NoResearchedEntries" translation="Non hai oggetti qui dentro, prova a ricercarne qualcuno!"/>
     <entry key="HUD_ToolTip_NotificationsPopup" translation="Notifiche"/>
     <entry key="HUD_ToolTip_ObjectivesPopup" translation="Obiettivi"/>
     <entry key="HUD_ToolTip_ParkManagement" translation="Gestione Parco"/>
     <entry key="HUD_ToolTip_Pause" translation="Attiva/Disattiva Pausa [{#LogicalButton.Editors_ToggleSimulationSpeed#}]"/>
-    <entry key="HUD_ToolTip_Redo" translation="Redo [{#LogicalButton.Editors_Redo#}]"/>
+    <entry key="HUD_ToolTip_Redo" translation="Riesegui [{#LogicalButton.Editors_Redo#}]"/>
     <entry key="HUD_ToolTip_SelectMode" translation="Selection Mode"/>
-    <entry key="HUD_ToolTip_Undo" translation="Undo [{#LogicalButton.Editors_Undo#}]"/>
+    <entry key="HUD_ToolTip_Undo" translation="Annulla [{#LogicalButton.Editors_Undo#}]"/>
     <entry key="HUD_ToolsMenu_Path" translation="Sentieri"/>
     <entry key="HUD_ToolsMenu_Terrain" translation="Terreno"/>
-    <entry key="HUD_UntidinessMultiplier" translation="Untidiness Penalty"/>
+    <entry key="HUD_UntidinessMultiplier" translation="Penalità Disordine"/>
     <!--HelperTooltips-->
     <entry key="HelperTooltips_ActiveGroup" translation="Modificando {NAME}"/>
     <entry key="HelperTooltips_AddToGroup" translation="Aggiungi a {NAME}"/>
-    <entry key="HelperTooltips_AllowOverlapping" translation="Allow overlapping"/>
+    <entry key="HelperTooltips_AllowOverlapping" translation="Permetti sovrapposizione"/>
     <entry key="HelperTooltips_ChangeGroup" translation="Modifica {NAME}"/>
     <entry key="HelperTooltips_CloseGroup" translation="Fatto"/>
-    <entry key="HelperTooltips_Elevate" translation="Elevate [{#LogicalButton.Editors_UpwardPlacementModifier#}]"/>
+    <entry key="HelperTooltips_Elevate" translation="Alza [{#LogicalButton.Editors_UpwardPlacementModifier#}]"/>
     <entry key="HelperTooltips_ExitFromGroup" translation="Chiudi {NAME}"/>
-    <entry key="HelperTooltips_PickGrid" translation="Get Grid Settings From Object"/>
-    <entry key="HelperTooltips_Rotate" translation="Rotate [{#LogicalButton.Editors_RotateObject#}]"/>
+    <entry key="HelperTooltips_PickGrid" translation="Allinea agli oggetti"/>
+    <entry key="HelperTooltips_Rotate" translation="Ruota [{#LogicalButton.Editors_RotateObject#}]"/>
     <entry key="HelperTooltips_StepRotation" translation="Angle Snap"/>
     <!--InWorldPopUp-->
     <entry key="PopUp_AddObjectToTrigger" translation="Aggiungi Oggetto da Innescare"/>
     <entry key="PopUp_AddTrigger" translation="Aggiungi Innesco"/>
-    <entry key="PopUp_AddTriggerHide" translation="Hide attached objects"/>
-    <entry key="PopUp_AddTriggerHideOption" translation="Hide options"/>
+    <entry key="PopUp_AddTriggerHide" translation="Nascondi oggetti collegati"/>
+    <entry key="PopUp_AddTriggerHideOption" translation="Nascondi opzioni"/>
     <entry key="PopUp_AddTriggerHint" translation="Aggiungi un punto del tracciato che si attiverà al passare del vagone."/>
     <entry key="PopUp_AddTriggerPlay" translation="Test attivazione oggetti collegati"/>
     <entry key="PopUp_AddTriggerShow" translation="Mostra oggetti collegati"/>
@@ -12306,20 +12306,20 @@
     <entry key="PopUp_CannotOpen_Untested" translation="Cannot open as the ride is untested"/>
     <entry key="PopUp_CannotTest_NoStations" translation="Cannot test as there are no stations built"/>
     <entry key="PopUp_Checklist" translation="Checklist"/>
-    <entry key="PopUp_Closed" translation="Close"/>
-    <entry key="PopUp_CoasterStats" translation="Coaster Statistics"/>
+    <entry key="PopUp_Closed" translation="Chiudi"/>
+    <entry key="PopUp_CoasterStats" translation="Statistiche Coaster"/>
     <entry key="PopUp_CoasterTriggerDescription" translation="Piazza inneschi sul tracciato e collegali a scenari animati"/>
     <entry key="PopUp_CoasterTriggerId" translation="{VALUE:int}"/>
     <entry key="PopUp_CoasterTriggerNameDefault" translation="Coaster Trigger"/>
     <entry key="PopUp_CoasterTriggerTitle" translation="Coaster Triggers"/>
-    <entry key="PopUp_Customise" translation="Customise"/>
+    <entry key="PopUp_Customise" translation="Personalizza"/>
     <entry key="PopUp_DropItem" translation="Drop Item"/>
     <entry key="PopUp_FastPass_MergeName" translation="Priority Pass Merge"/>
     <entry key="PopUp_FastPass_SplitName" translation="Priority Pass Split"/>
-    <entry key="PopUp_Finances" translation="Finances"/>
-    <entry key="PopUp_FocusCam" translation="Centre Camera"/>
-    <entry key="PopUp_Guests" translation="Guests"/>
-    <entry key="PopUp_Maintenance" translation="Maintenance"/>
+    <entry key="PopUp_Finances" translation="Finanze"/>
+    <entry key="PopUp_FocusCam" translation="Centra Telecamera"/>
+    <entry key="PopUp_Guests" translation="Ospiti"/>
+    <entry key="PopUp_Maintenance" translation="Manutenzione"/>
     <entry key="PopUp_MultiSelect_BlueprintTooManyFlatRides" translation="Blueprints cannot contain amusement rides."/>
     <entry key="PopUp_MultiSelect_BlueprintTooManyProps" translation="I progetti non possono contenere di 1000 pezzi tra costruzioni e scenario."/>
     <entry key="PopUp_MultiSelect_BlueprintTooManyRides" translation="Blueprints cannot contain more than 5 rides."/>
@@ -12343,7 +12343,7 @@
     <entry key="PopUp_MultiSelect_EditTooManyTrackedRides" translation="Cannot move/delete more than 1 coaster at a time."/>
     <entry key="PopUp_MultiSelect_FractionValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
     <entry key="PopUp_MultiSelect_LabelCountBuilding" translation="Costruzioni"/>
-    <entry key="PopUp_MultiSelect_LabelCountFlatRides" translation="Amusement Rides"/>
+    <entry key="PopUp_MultiSelect_LabelCountFlatRides" translation="Giostre"/>
     <entry key="PopUp_MultiSelect_LabelCountSceneryParts" translation="Scenery &amp; Building Pieces"/>
     <entry key="PopUp_MultiSelect_LabelCountTrackedRides" translation="Tracked Rides"/>
     <entry key="PopUp_MultiSelect_LabelSelectionStatistics" translation="Selection Information"/>
@@ -12352,7 +12352,7 @@
     <entry key="PopUp_MultiSelect_PatrolZones_Description" translation="Multi select to define priority attractions and facilities to be assigned to staff members."/>
     <entry key="PopUp_MultiSelect_PatrolZones_Header" translation="Work Roster Selection"/>
     <entry key="PopUp_MultiSelect_PatrolZones_LabelCountBuildingElements" translation="Facilities &amp;amp; Shops"/>
-    <entry key="PopUp_MultiSelect_PatrolZones_LabelCountFlatRideStations" translation="Amusement Rides"/>
+    <entry key="PopUp_MultiSelect_PatrolZones_LabelCountFlatRideStations" translation="Giostre"/>
     <entry key="PopUp_MultiSelect_PatrolZones_LabelCountMeetAndGreetPoints" translation="Entertainment Points"/>
     <entry key="PopUp_MultiSelect_PatrolZones_LabelCountTrackedRideStations" translation="Tracked Ride Stations"/>
     <entry key="PopUp_MultiSelect_PatrolZones_Name" translation="Work Roster Name"/>
@@ -12373,13 +12373,13 @@
     <entry key="PopUp_MultiSelect_Tooltip_SingleMove" translation="Sposta [{#LogicalButton.Editors_Move#}]"/>
     <entry key="PopUp_MultiSelect_Tooltip_SingleMoveAdvanced" translation="Advanced Move [{#LogicalButton.Editors_AdvancedMove#}]"/>
     <entry key="PopUp_Music_Cancel" translation="Cancel"/>
-    <entry key="PopUp_Music_FavouritesTab" translation="Favourites"/>
+    <entry key="PopUp_Music_FavouritesTab" translation="Preferiti"/>
     <entry key="PopUp_Music_Ok" translation="OK"/>
-    <entry key="PopUp_Music_PlanetCoasterTab" translation="Planet Coaster Music"/>
-    <entry key="PopUp_Music_UserMusicTab" translation="User Music"/>
-    <entry key="PopUp_Open" translation="Open"/>
+    <entry key="PopUp_Music_PlanetCoasterTab" translation="Musica di Planet Coaster"/>
+    <entry key="PopUp_Music_UserMusicTab" translation="Musica Utente"/>
+    <entry key="PopUp_Open" translation="Apri"/>
     <entry key="PopUp_Operations" translation="Operazioni"/>
-    <entry key="PopUp_Overview" translation="Overview"/>
+    <entry key="PopUp_Overview" translation="Panoramica"/>
     <entry key="PopUp_Peeps_HeadingTo" translation="Diretto a: {LOCATIONNAME}"/>
     <entry key="PopUp_Peeps_Needs_Energy" translation="Energia"/>
     <entry key="PopUp_Peeps_Needs_Happiness" translation="Felicita'"/>
@@ -12393,58 +12393,58 @@
     <entry key="PopUp_Peeps_PeepName" translation="{PEEPNAME}"/>
     <entry key="PopUp_Peeps_Thought" translation="&quot;{THOUGHT}&quot;"/>
     <entry key="PopUp_PlaceTriggerOnTrack" translation="Place a Trigger on Track"/>
-    <entry key="PopUp_Prestige" translation="Prestige"/>
-    <entry key="PopUp_Ratings" translation="Ratings"/>
+    <entry key="PopUp_Prestige" translation="Prestigio"/>
+    <entry key="PopUp_Ratings" translation="Giudizi"/>
     <entry key="PopUp_RidePlacement_AttachPassQueue" translation="Connetti la coda con Priorita'"/>
     <entry key="PopUp_RidePlacement_AttachQueue" translation="Aggiungi una coda all'entrata"/>
     <entry key="PopUp_RidePlacement_AttachTicketBooth" translation="Aggiungi una biglietteria alla coda"/>
     <entry key="PopUp_RidePlacement_AttachTicketBoothTooltip" translation="The ticket booth connects your queue to the path. Make sure to leave enough space for it."/>
     <entry key="PopUp_RidePlacement_CheckListHeader" translation="Per aprire qeust'attrazione, devi:"/>
-    <entry key="PopUp_RidePlacement_ConnectEntranceToPath" translation="Connect entrance to path"/>
+    <entry key="PopUp_RidePlacement_ConnectEntranceToPath" translation="Collega entrata al sentiero"/>
     <entry key="PopUp_RidePlacement_PassCheckListHeader" translation="Per avere una corsia prioritaria, devi:"/>
     <entry key="PopUp_RidePlacement_PlaceEntrance" translation="Piazza entrata"/>
     <entry key="PopUp_RidePlacement_PlaceExit" translation="Piazza uscita"/>
-    <entry key="PopUp_RidePlacement_PlaceQueueMerge" translation="Place uscita prioritaria"/>
+    <entry key="PopUp_RidePlacement_PlaceQueueMerge" translation="Piazza uscita prioritaria"/>
     <entry key="PopUp_RidePlacement_PlaceQueueSplit" translation="Piazza entrata prioritaria"/>
     <entry key="PopUp_RidePlacement_StationListHeader" translation="Station List"/>
-    <entry key="PopUp_RideRatings" translation="Ride ratings"/>
-    <entry key="PopUp_RideStats" translation="Ride Statistics"/>
-    <entry key="PopUp_RideTesting_AverageSpeed" translation="Average Speed"/>
+    <entry key="PopUp_RideRatings" translation="Giudizi Corsa"/>
+    <entry key="PopUp_RideStats" translation="Statistiche Corsa"/>
+    <entry key="PopUp_RideTesting_AverageSpeed" translation="Velocità media"/>
     <entry key="PopUp_RideTesting_CycleTime" translation="Durata"/>
-    <entry key="PopUp_RideTesting_Duration" translation="Duration"/>
+    <entry key="PopUp_RideTesting_Duration" translation="Durata"/>
     <entry key="PopUp_RideTesting_Excitement" translation="Eccitazione"/>
     <entry key="PopUp_RideTesting_Fear" translation="Paura"/>
     <entry key="PopUp_RideTesting_Heatmaps" translation="Heatmaps"/>
     <entry key="PopUp_RideTesting_Heatmaps_Live" translation="Live Data"/>
-    <entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Heatmap Data"/>
+    <entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Dati Mappa Calore"/>
     <entry key="PopUp_RideTesting_Heatmaps_Pass_N" translation="Pass {VALUE:int}"/>
     <entry key="PopUp_RideTesting_Heatmaps_PreviousRun" translation="Previous Run Data"/>
-    <entry key="PopUp_RideTesting_LateralG" translation="Lateral G"/>
+    <entry key="PopUp_RideTesting_LateralG" translation="Accelerazione Laterale"/>
     <entry key="PopUp_RideTesting_Length" translation="Lunghezza"/>
     <entry key="PopUp_RideTesting_LiveData" translation="Live data"/>
-    <entry key="PopUp_RideTesting_LongG" translation="Forward G"/>
+    <entry key="PopUp_RideTesting_LongG" translation="Accelerazione Anteriore"/>
     <entry key="PopUp_RideTesting_MaxDrop" translation="Biggest Drop"/>
-    <entry key="PopUp_RideTesting_MaxLateralG" translation="Max Lateral G"/>
-    <entry key="PopUp_RideTesting_MaxNegLongG" translation="Max Backwards G"/>
-    <entry key="PopUp_RideTesting_MaxNegVertG" translation="Max Downwards  G"/>
-    <entry key="PopUp_RideTesting_MaxPosLongG" translation="Max Forwards G"/>
-    <entry key="PopUp_RideTesting_MaxPosVertG" translation="Max Upwards G"/>
-    <entry key="PopUp_RideTesting_MaxSpeed" translation="Max Speed"/>
+    <entry key="PopUp_RideTesting_MaxLateralG" translation="Massima Accelerazione Laterale"/>
+    <entry key="PopUp_RideTesting_MaxNegLongG" translation="Massima Accelerazione Posteriore"/>
+    <entry key="PopUp_RideTesting_MaxNegVertG" translation="Massima Accelerazione Negativa"/>
+    <entry key="PopUp_RideTesting_MaxPosLongG" translation="Massima Accelerazione Anteriore"/>
+    <entry key="PopUp_RideTesting_MaxPosVertG" translation="Massima Accelerazione Positiva"/>
+    <entry key="PopUp_RideTesting_MaxSpeed" translation="Velocità Massima"/>
     <entry key="PopUp_RideTesting_Nausea" translation="Nausea"/>
-    <entry key="PopUp_RideTesting_NoHeatmap" translation="NONE"/>
-    <entry key="PopUp_RideTesting_NumAirTime" translation="Airtime Count"/>
-    <entry key="PopUp_RideTesting_NumInversions" translation="Number of Inversions"/>
-    <entry key="PopUp_RideTesting_Reputation" translation="Track Scenery Rating"/>
-    <entry key="PopUp_RideTesting_Results" translation="Results"/>
+    <entry key="PopUp_RideTesting_NoHeatmap" translation="NESSUNA"/>
+    <entry key="PopUp_RideTesting_NumAirTime" translation="Tempo in Volo"/>
+    <entry key="PopUp_RideTesting_NumInversions" translation="Numero inversioni"/>
+    <entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
+    <entry key="PopUp_RideTesting_Results" translation="Risultati"/>
     <entry key="PopUp_RideTesting_Speed" translation="Velocita'"/>
     <entry key="PopUp_RideTesting_StartTest" translation="Inizia test"/>
     <entry key="PopUp_RideTesting_StopTest" translation="Stop test"/>
-    <entry key="PopUp_RideTesting_TotalAirTime" translation="Total Airtime Duration"/>
+    <entry key="PopUp_RideTesting_TotalAirTime" translation="Durata Totale Tempo in Volo"/>
     <entry key="PopUp_RideTesting_UnknownStatValue" translation="-"/>
-    <entry key="PopUp_RideTesting_VerticalG" translation="Vertical G"/>
-    <entry key="PopUp_RideTesting_Visualize" translation="Visualize"/>
-    <entry key="PopUp_RideTicketBooth_Name" translation="Ride Ticket Booth"/>
-    <entry key="PopUp_Ride_Analytics_Soon" translation="Ride analytics coming soon"/>
+    <entry key="PopUp_RideTesting_VerticalG" translation="Accelerazione Verticale"/>
+    <entry key="PopUp_RideTesting_Visualize" translation="Visualizza"/>
+    <entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
+    <entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
     <entry key="PopUp_Ride_BlockSectionedMode" translation="Block Sectioned"/>
     <entry key="PopUp_Ride_Capacity" translation="Capacita'"/>
     <entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
@@ -12452,9 +12452,9 @@
     <entry key="PopUp_Ride_Count" translation="{COUNT:separatedint}"/>
     <entry key="PopUp_Ride_Count_Unknown" translation=""/>
     <entry key="PopUp_Ride_Currency" translation="{VALUE:currency}"/>
-    <entry key="PopUp_Ride_Currency_Unknown" translation="Unknown"/>
+    <entry key="PopUp_Ride_Currency_Unknown" translation="Sconosciuto"/>
     <entry key="PopUp_Ride_CycleTime" translation="Cycle time: {LAST:float}s ({AVERAGE:float}s average)"/>
-    <entry key="PopUp_Ride_DateOpened" translation="Date opened"/>
+    <entry key="PopUp_Ride_DateOpened" translation="Data apertura"/>
     <entry key="PopUp_Ride_DisableFastPass" translation="Disattiva fila prioritaria"/>
     <entry key="PopUp_Ride_DuellingCoasters_Add" translation="+ Add Coaster to Chain"/>
     <entry key="PopUp_Ride_DuellingCoasters_ChainStatus_CannotSetOpen_ToolTip" translation="No coasters in this Coaster Chain are able to be opened."/>
@@ -12705,7 +12705,7 @@
     <!--InfoPanel_Facility-->
     <entry key="InfoPanel_Facility_Finance" translation="Economia"/>
     <entry key="InfoPanel_Facility_Finances" translation="Statistiche Economiche"/>
-    <entry key="InfoPanel_Facility_Information" translation="Facility Information"/>
+    <entry key="InfoPanel_Facility_Information" translation="Informazioni struttura"/>
     <entry key="InfoPanel_Facility_Menu" translation="Menu"/>
     <entry key="InfoPanel_Facility_OpenState" translation="Stato Struttura: {STATUS}"/>
     <entry key="InfoPanel_Facility_Overview" translation="Panoramica"/>
@@ -12715,7 +12715,7 @@
     <entry key="InfoPanel_Facility_Stat_Life_Profit" translation="Profitti totali"/>
     <entry key="InfoPanel_Facility_Stat_Life_Sales" translation="Vendite totali"/>
     <entry key="InfoPanel_Facility_Stat_Prev_LostSales" translation="Vendite "/>
-    <entry key="InfoPanel_Facility_Stat_Prev_Price" translation="Average sale price"/>
+    <entry key="InfoPanel_Facility_Stat_Prev_Price" translation="Prezzo medio di vendita"/>
     <entry key="InfoPanel_Facility_Stat_Prev_Profit" translation="Profitti ultimo mese"/>
     <entry key="InfoPanel_Facility_Stat_Prev_Revenue" translation="Entrate ultimo mese"/>
     <entry key="InfoPanel_Facility_Stat_Prev_Sales" translation="Clienti ultimo mese"/>
@@ -12723,11 +12723,11 @@
     <entry key="InfoPanel_Facility_Stat_TimeOpened" translation="Data apertura"/>
     <entry key="InfoPanel_Facility_Stat_VendorWage" translation="Stipendio Commesso"/>
     <entry key="InfoPanel_Facility_Stats" translation="Statistiche Vendite"/>
-    <entry key="InfoPanel_Facility_Sync" translation="Use the same Prices for all Facilities of this type"/>
-    <entry key="InfoPanel_Facility_Sync_Label" translation="Price Sync"/>
+    <entry key="InfoPanel_Facility_Sync" translation="Usa gli stessi prezzi per tutte le strutture di questo tipo"/>
+    <entry key="InfoPanel_Facility_Sync_Label" translation="Sincronizza Prezzi"/>
     <entry key="InfoPanel_Facility_Thoughts" translation="Pensieri Visitatori"/>
     <entry key="InfoPanel_Facility_Type" translation="Tipo Servizio"/>
-    <entry key="InfoPanel_ParkEntrance_Operations" translation="Open Park Operations"/>
+    <entry key="InfoPanel_ParkEntrance_Operations" translation="Apri Gestione Parco"/>
     <entry key="InfoPanel_ParkEntrance_Stat_Life_Revenue" translation="Biglietti venduti"/>
     <entry key="InfoPanel_ParkEntrance_Stat_Life_Visitors" translation="Visitatori totali"/>
     <entry key="InfoPanel_ParkEntrance_Stat_Prev_LostSales" translation="Vendite mancate ultimo mese"/>
@@ -12739,12 +12739,12 @@
     <entry key="InfoPanel_ParkEntrance_Title" translation="Entrata parco"/>
     <entry key="InfoPanel_Shop_Information" translation="Informazioni negozio"/>
     <entry key="InfoPanel_Shop_OpenState" translation="Stato Negozio: {STATUS}"/>
-    <entry key="InfoPanel_Shop_Sync" translation="Use the same Prices and Extras for all Shops of this type"/>
+    <entry key="InfoPanel_Shop_Sync" translation="Usa gli stessi prezzi ed extras per i negozi di questo tipo."/>
     <entry key="InfoPanel_Shop_Type" translation="Tipo di negozio"/>
     <!--InfoPanel_FlatRide-->
-    <entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Camera Vagone Frontale"/>
-    <entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Camera Vagone Inversa"/>
-    <entry key="InfoPanel_FlatRide_CinematicCamera" translation="Camera Cinematica"/>
+    <entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Vista Vagone Frontale"/>
+    <entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Vista Vagone Inversa"/>
+    <entry key="InfoPanel_FlatRide_CinematicCamera" translation="Vista Cinematica"/>
     <entry key="InfoPanel_FlatRide_Entrance" translation="Entrata"/>
     <entry key="InfoPanel_FlatRide_Exit" translation="Uscita"/>
     <entry key="InfoPanel_FlatRide_FlexiColour" translation="Colore attrazione"/>
@@ -12753,7 +12753,7 @@
     <entry key="InfoPanel_FlatRide_Move" translation="Sposta"/>
     <entry key="InfoPanel_FlatRide_MoveEntrance" translation="Sposta Entrata"/>
     <entry key="InfoPanel_FlatRide_MoveExit" translation="Sposta Uscita"/>
-    <entry key="InfoPanel_FlatRide_Name" translation="Flat Ride"/>
+    <entry key="InfoPanel_FlatRide_Name" translation="Visitatori"/>
     <entry key="InfoPanel_FlatRide_Start" translation="Start"/>
     <entry key="InfoPanel_FlatRide_Stop" translation="Stop"/>
     <!--InfoPanel_Guest-->
@@ -12761,10 +12761,10 @@
     <entry key="InfoPanel_GlobalThoughts_Name" translation="Pensieri parco"/>
     <entry key="InfoPanel_Guest_Cash" translation="{cash:currency}"/>
     <entry key="InfoPanel_Guest_CashRecovered" translation="{recovered:currency}/{stolen:currency}"/>
-    <entry key="InfoPanel_Guest_CashRecoveredToBankAccount" translation="Stolen Cash Recovered To Bank Account"/>
+    <entry key="InfoPanel_Guest_CashRecoveredToBankAccount" translation="Denaro rubato ridepositato sul conto bancario"/>
     <entry key="InfoPanel_Guest_CashRemaining" translation="Soldi rimanenti al gruppo"/>
     <entry key="InfoPanel_Guest_CashSpent" translation="Totale soldi spesi"/>
-    <entry key="InfoPanel_Guest_CashStolenFromGroup" translation="Cash Stolen from Group"/>
+    <entry key="InfoPanel_Guest_CashStolenFromGroup" translation="Denaro rubato al gruppo"/>
     <entry key="InfoPanel_Guest_DebugName" translation="{name} (#{group:int}/{entity:int})"/>
     <entry key="InfoPanel_Guest_Demographic_0" translation="Giovane"/>
     <entry key="InfoPanel_Guest_Demographic_1" translation="Adulto"/>
@@ -12773,12 +12773,12 @@
     <entry key="InfoPanel_Guest_Demographic_4" translation="Giovane"/>
     <entry key="InfoPanel_Guest_Demographic_5" translation="Adulto"/>
     <entry key="InfoPanel_Guest_Demographic_6" translation="Famiglia"/>
-    <entry key="InfoPanel_Guest_EjectGroup" translation="Eject Group"/>
-    <entry key="InfoPanel_Guest_EjectGroup_AlreadyEjected_ToolTip" translation="Instruct a security guard to remove the group&#10;•This group has already been asked to leave"/>
-    <entry key="InfoPanel_Guest_EjectGroup_AlreadyWaitingForEjection_ToolTip" translation="Instruct a security guard to remove the group&#10;•A security guard is already en route"/>
-    <entry key="InfoPanel_Guest_EjectGroup_NoCapableSecurity_ToolTip" translation="Instruct a security guard to remove the group&#10;•You need a security guard that's able to eject guest groups to do this"/>
-    <entry key="InfoPanel_Guest_EjectGroup_NoSecurity_ToolTip" translation="Instruct a security guard to remove the group&#10;•You need to hire a security guard to do this"/>
-    <entry key="InfoPanel_Guest_EjectGroup_ToolTip" translation="Instruct a security guard to remove the group"/>
+    <entry key="InfoPanel_Guest_EjectGroup" translation="Caccia via il gruppo"/>
+    <entry key="InfoPanel_Guest_EjectGroup_AlreadyEjected_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•A questo gruppo è stato già chiesto di andare via"/>
+    <entry key="InfoPanel_Guest_EjectGroup_AlreadyWaitingForEjection_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Una guardia di sicurezza è già in movimento"/>
+    <entry key="InfoPanel_Guest_EjectGroup_NoCapableSecurity_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Hai bisogno di una guardia di sicurezza che sia in grado di cacciare gruppi per fare questo."/>
+    <entry key="InfoPanel_Guest_EjectGroup_NoSecurity_ToolTip" translation="IOrdina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Hai bisogno di assumere una guardia di sicurezza per fare questo."/>
+    <entry key="InfoPanel_Guest_EjectGroup_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo"/>
     <entry key="InfoPanel_Guest_Energy" translation="Energia"/>
     <entry key="InfoPanel_Guest_Expenses_Drink" translation="Bibita"/>
     <entry key="InfoPanel_Guest_Expenses_Food" translation="Cibo"/>
@@ -12793,7 +12793,7 @@
     <entry key="InfoPanel_Guest_GroupCashHeader" translation="Soldi rimanenti al gruppo"/>
     <entry key="InfoPanel_Guest_GroupInfo" translation="Informazioni gruppo"/>
     <entry key="InfoPanel_Guest_GroupMembers" translation="Membri gruppo"/>
-    <entry key="InfoPanel_Guest_GroupOperations" translation="Group Operations"/>
+    <entry key="InfoPanel_Guest_GroupOperations" translation="Gestione Gruppo"/>
     <entry key="InfoPanel_Guest_GroupType" translation="Tipo gruppo"/>
     <entry key="InfoPanel_Guest_GuestName" translation="{name}"/>
     <entry key="InfoPanel_Guest_Happiness" translation="Felicità"/>
@@ -12894,8 +12894,8 @@
     <entry key="InfoPanel_Ride_Downtime_Body" translation="{percentage:int}%"/>
     <entry key="InfoPanel_Ride_Downtime_Header" translation="Recente malfunzionamento"/>
     <entry key="InfoPanel_Ride_Downtime_HeaderTooltip" translation="Tempo di inattività durante gli ultimi 8 mesi"/>
-    <entry key="InfoPanel_Ride_FearTooHigh" translation="Your ride is too scary!"/>
-    <entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="Guests won't want to ride it."/>
+    <entry key="InfoPanel_Ride_FearTooHigh" translation="La tua attrazione è troppo spaventosa!"/>
+    <entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="Gli ospiti non vorranno salirci su."/>
     <entry key="InfoPanel_Ride_Finances" translation="Statistiche Finanziarie"/>
     <entry key="InfoPanel_Ride_FocusCam" translation="Centra Camera"/>
     <entry key="InfoPanel_Ride_InDuel" translation="Part of a Coaster Chain"/>
@@ -12912,8 +12912,8 @@
     <entry key="InfoPanel_Ride_Maintenance_Stats" translation="Statistiche"/>
     <entry key="InfoPanel_Ride_Manage" translation="Gestione attrazione"/>
     <entry key="InfoPanel_Ride_Name" translation="Attrazione"/>
-    <entry key="InfoPanel_Ride_NauseaTooHigh" translation="Your ride is too nauseating!"/>
-    <entry key="InfoPanel_Ride_NauseaTooHigh_Detail" translation="Guests won't want to ride it."/>
+    <entry key="InfoPanel_Ride_NauseaTooHigh" translation="La tua attrazione provoca troppa nausea!"/>
+    <entry key="InfoPanel_Ride_NauseaTooHigh_Detail" translation="Gli ospiti non vorranno salirci su."/>
     <entry key="InfoPanel_Ride_NextInspection" translation="{minutes:int} minuti"/>
     <entry key="InfoPanel_Ride_NextInspection_1" translation="1 minuto"/>
     <entry key="InfoPanel_Ride_NextInspection_Never" translation="Mai"/>
@@ -13276,7 +13276,7 @@
     <entry key="Music_Heading_Coaster" translation="Musica da Rollercoaster"/>
     <entry key="Music_Heading_Electronica" translation="Elettronica"/>
     <entry key="Music_Heading_FairyTale" translation="Fantasy"/>
-    <entry key="Music_Heading_FlatRide" translation="Musica da Flat Ride"/>
+    <entry key="Music_Heading_FlatRide" translation="Musica da Giostra"/>
     <entry key="Music_Heading_Orchestral" translation="Orchestrale"/>
     <entry key="Music_Heading_Pirate" translation="Pirata"/>
     <entry key="Music_Heading_Rock" translation="Rock"/>
@@ -13483,7 +13483,7 @@
     <entry key="Notification_MarketingCampaignCompletedStacked" translation="Più campagne di marketing si sono concluse"/>
     <entry key="Notification_ObjectiveButton" translation="Guarda Obiettivi"/>
     <entry key="Notification_ObjectiveCompleted" translation="{ObjectiveTier} obiettivo completato:&#10;'{Name}'&#10;Complimenti!"/>
-    <entry key="Notification_ObjectiveCompletedStacked" translation="Miltipli obiettivi sono stati completati"/>
+    <entry key="Notification_ObjectiveCompletedStacked" translation="Multipli obiettivi sono stati completati"/>
     <entry key="Notification_OpenNotificationsButton" translation="Apri notifiche"/>
     <entry key="Notification_ParkBins" translation="Ci sono molti cestini strabordanti&#10;Assicurati che gli spazzini li svuotino regolarmente"/>
     <entry key="Notification_ParkBreakdowns" translation="Your park's Breakdown rate is high&#10;Make sure mechanics inspect your rides regularly"/>
@@ -13492,9 +13492,9 @@
     <entry key="Notification_ParkMonthlySummaryStacked" translation="Multipli riepiloghi mensili sono disponibili"/>
     <entry key="Notification_ParkSummaryButton" translation="Visualizza riepilogo del parco"/>
     <entry key="Notification_ParkVomit" translation="C'è un sacco di vomito nel parco&#10;Valuta di realizzare un infermeria"/>
-    <entry key="Notification_PickpocketCaught" translation="A thief has been caught, resolving {NumCrimes:int} crimes. Where possible, victims have had their money returned to them."/>
-    <entry key="Notification_PickpocketCaughtSingular" translation="A thief has been caught, resolving one crime. Where possible, the victim has had their money returned to them."/>
-    <entry key="Notification_PickpocketCaughtStacked" translation="Multiple thefts reported in the park. Security has been notified."/>
+    <entry key="Notification_PickpocketCaught" translation="E' stato preso un ladro, risolvendo {NumCrimes:int} crimini in sospeso. Quando possibile, alle vittime è stato restituito il denaro."/>
+    <entry key="Notification_PickpocketCaughtSingular" translation="E' stato preso un ladro, risolvendo un crimine in sospeso. Quando possibile, alle vittime è stato restituito il denaro."/>
+    <entry key="Notification_PickpocketCaughtStacked" translation="Diversi furti segnalati nel parco. La Sicurezza è stata avvertita"/>
     <entry key="Notification_ResearchAvailable" translation="Nuovi progetti di ricerca disponibili"/>
     <entry key="Notification_ResearchAvailableStacked" translation="Multipli progetti di ricerca disponibili"/>
     <entry key="Notification_ResearchButton" translation="Visualizza ricerche"/>
@@ -14023,7 +14023,7 @@
     <entry key="ParkManagement_CloseTime" translation="Chiudi"/>
     <entry key="ParkManagement_CloseTimeHint" translation="Gli orari di chiusura determinano l'illuminazione alla fine del mese"/>
     <entry key="ParkManagement_CrimeStatistics" translation="Statistiche Crimini"/>
-		<entry key="ParkManagement_CrimeStatistics_Disabled" translation="To view crime statistics enable crime in the game options."/>
+		<entry key="ParkManagement_CrimeStatistics_Disabled" translation="Per vedere le statistiche sui crimini, abilitali nelle opzioni di gioco."/>
 		<entry key="ParkManagement_Crime_AllTimeThefts" translation="Furti (totale)"/>
 		<entry key="ParkManagement_Crime_AllTimeVandalisedBenches" translation="Panchine vandalizzate (totale)"/>
 		<entry key="ParkManagement_Crime_AllTimeVandalisedBins" translation="Cestini vandalizzati (totale)"/>
@@ -14045,14 +14045,14 @@
 		<entry key="ParkManagement_Crime_SecurityCameraMonthlyTheftsSpotted" translation="Furti rilevati (questo mese)"/>
 		<entry key="ParkManagement_Crime_SecurityCameraMonthlyVandalismSpotted" translation="Atti di vandalismo rilevati (questo mese)"/>
 		<entry key="ParkManagement_Crime_SecurityCameraStatsHeading" translation="Statistiche"/>
-    <entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Placing Security Cameras in your park helps you surveil illicit behaviour.&#10;Security Cameras help your staff identify wrongdoers more easily."/>
+    <entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Posizionare telecamere di sicurezza nel tuo parco aiuta a sorvegliare i comportamenti illeciti.&#10;Le telecamere di sicurezza aiutano il tuo staff ad identificare i delinquenti più facilmente."/>
     <entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
-		<entry key="ParkManagement_Crime_SecuritySummary" translation="You can hire Security in the Staff tab to help prevent crimes from happening in your park.&#10;In addition, installing security cameras helps your Security staff identify offenders."/>
+		<entry key="ParkManagement_Crime_SecuritySummary" translation="Puoi assumere la Sicurezza nella voce Staff per evitare e prevenire crimini nel tuo parco.&#10;Inoltre, installare telecamere aiuta lo staff della Sicurezza ad identificare i criminali."/>
 		<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furto"/>
 		<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismo"/>
-		<entry key="ParkManagement_Crime_VandalismHeading" translation="Bins &amp; Benches"/>
+		<entry key="ParkManagement_Crime_VandalismHeading" translation="Cestini; Panchine"/>
 		<entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Statistiche"/>
-		<entry key="ParkManagement_Crime_VandalismSummary" translation="Some visitors vandalise objects if they feel extremely unhappy about the service in your park.&#10;These stats help you locate troublesome areas and let you quickly repair them.&#10;Remember your Mechanics repair broken objects as well. "/>
+		<entry key="ParkManagement_Crime_VandalismSummary" translation="Alcuni visitatori vandalizzano gli oggetti se si sentono molto infelici nel tuo parco.&#10; Queste statistiche aiutano a localizzare aree problematiche e ripararli in fretta.&#10; Ricorda che i tuoi meccanici riparano anche gli oggetti rotti.. "/>
 		<entry key="ParkManagement_Crime_VandalsApprehended" translation="Vandali Arrestati (dall'inizio)"/>
     <entry key="ParkManagement_Crime_XOfYAndProp" translation="{countX:int}/{countY:int} ({percentage:float:decimalPlaces=0}%)"/>
     <entry key="ParkManagement_DemographicBreakdown" translation="Ripartizione demografica"/>
@@ -14206,7 +14206,7 @@
     <entry key="ParkManagement_Loans_Interest" translation="{min:currency} - {max:currency}"/>
     <entry key="ParkManagement_Loans_InterestHeader" translation="Totale interessi:"/>
     <entry key="ParkManagement_Loans_LoanCount" translation="{current:int}/{max:int}"/>
-    <entry key="ParkManagement_Loans_LoanHeader" translation="{Value} Loan"/>
+    <entry key="ParkManagement_Loans_LoanHeader" translation="{Value} Prestito"/>
     <entry key="ParkManagement_Loans_LoansCostPerMonth" translation="{min:currency} - {max:currency}"/>
     <entry key="ParkManagement_Loans_MonthlyProfitHeader" translation="Richiede il profitto mensile"/>
     <entry key="ParkManagement_Loans_MonthlyRepayments" translation="Totale rimborsi mensili"/>
@@ -14282,10 +14282,10 @@
     <entry key="ParkManagement_Overview_Finance_ResearchPayments_ToolTip" translation="Media fondi di ricerca mensili"/>
     <entry key="ParkManagement_Overview_Finance_StaffWages" translation="Stipendi mensili"/>
     <entry key="ParkManagement_Overview_Finance_StaffWages_ToolTip" translation="Media degli stipendi mensili"/>
-    <entry key="ParkManagement_Overview_FlatRide_Multiple" translation="{count:int} flat rides"/>
-    <entry key="ParkManagement_Overview_FlatRide_One" translation="1 flat ride"/>
-    <entry key="ParkManagement_Overview_FlatRide_Zero" translation="0 flat rides"/>
-    <entry key="ParkManagement_Overview_Graph_BalanceBonus" translation="Bonus Bilancio"/>
+    <entry key="ParkManagement_Overview_FlatRide_Multiple" translation="{count:int} visitatori"/>
+    <entry key="ParkManagement_Overview_FlatRide_One" translation="1 visitatore"/>
+    <entry key="ParkManagement_Overview_FlatRide_Zero" translation="0 visitatori"/>
+        <entry key="ParkManagement_Overview_Graph_BalanceBonus" translation="Bonus Bilancio"/>
     <entry key="ParkManagement_Overview_Graph_MarketingBonus" translation="Bonus Marketing"/>
     <entry key="ParkManagement_Overview_Graph_ParkRating" translation="Valutazione Parco"/>
     <entry key="ParkManagement_Overview_Graph_RideRating" translation="Valutazione Attrazione"/>
@@ -14382,7 +14382,7 @@
     <entry key="ParkManagement_Security_Disabled_Tooltip" translation="To view crime and security information you must enable Security Features in the Game Options."/>
     <entry key="ParkManagement_Security_Tooltip" translation="Informazioni su crimini e sicurezza"/>
     <entry key="ParkManagement_Shops" translation="Negozi"/>
-    <entry key="ParkManagement_SpecialEffects" translation="Special Effects"/>
+    <entry key="ParkManagement_SpecialEffects" translation="Effetti Speciali"/>
     <entry key="ParkManagement_SpecialEffects_BillboardDescription" translation="A list of all the Video Billboards in your park. Billboards can be connected to Sequences in the same way as Special Effects."/>
     <entry key="ParkManagement_SpecialEffects_BillboardHeading" translation="Video Billboards"/>
     <entry key="ParkManagement_SpecialEffects_BillboardMonthlyRunningCostHeading" translation="Monthly Running Cost"/>
@@ -14407,8 +14407,8 @@
     <entry key="ParkManagement_SpecialEffects_SequenceNameHeading" translation="Name"/>
     <entry key="ParkManagement_SpecialEffects_SequencerSequenceDuration" translation="{time:float:decimalPlaces=1} s"/>
     <entry key="ParkManagement_SpecialEffects_SequencesDescription" translation="You can build special effects through the scenery browser. These effects can then be triggered by rides or display sequencers."/>
-    <entry key="ParkManagement_SpecialEffects_SequencesHeading" translation="Special Effect Sequences"/>
-    <entry key="ParkManagement_SpecialEffects_SequencesTooltip" translation="Special Effects Sequences"/>
+    <entry key="ParkManagement_SpecialEffects_SequencesHeading" translation="Sequenze effetti speciali"/>
+    <entry key="ParkManagement_SpecialEffects_SequencesTooltip" translation="Sequenze effetti speciali"/>
     <entry key="ParkManagement_SpecialEffects_SpeakerDescription" translation="A list of all the Speakers in your park, their type and running costs."/>
     <entry key="ParkManagement_SpecialEffects_SpeakerHeading" translation="Speakers"/>
     <entry key="ParkManagement_SpecialEffects_SpeakerMonthlyRunningCostHeading" translation="Monthly Running Cost"/>
