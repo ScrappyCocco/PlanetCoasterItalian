@@ -23,8 +23,8 @@
     <entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Edit Trigger Sequence"/>
     <entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="You can edit the trigger sequences of each ride sequence"/>
     <entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Edit Trigger Sequence"/>
-    <entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="visitatori Trigger"/>
-    <entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="visitatori Triggers"/>
+    <entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Trigger Giostra"/>
+    <entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="Triggers Giostra"/>
     <entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Ride Triggers start at the same time as its corresponding Sequence Animation"/>
     <entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Ride Triggers"/>
     <entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="{Name} Triggers"/>
@@ -5443,7 +5443,7 @@
     <entry key="FR_Orb_Desc" translation="Impossibile godere di una vista migliore di quella che puoi avere a bordo di questa gigantesca Ruota Panoramica senza perno.\nAttrazione Tranquilla"/>
     <entry key="FR_Orb_Prefix" translation="Radius"/>
     <entry key="FR_Overpower" translation="Overpower"/>
-    <entry key="FR_Overpower_Desc" translation="La modernità che i Visitatori amano.&#10;Attrazione Forte"/>
+    <entry key="FR_Overpower_Desc" translation="La modernità che i visitatori amano.&#10;Attrazione Forte"/>
     <entry key="FR_Overpower_Prefix" translation="Overpower"/>
     <entry key="FR_Polyp" translation="Rocktopus"/>
     <entry key="FR_Polyp_Desc" translation="Questa rockeggiante attrazione tirerà fuori il ballerino che c'è in te.\nAttrazione Tranquilla"/>
@@ -5735,12 +5735,12 @@
     <entry key="FrontEndMenu_Details" translation="Dettagli"/>
     <entry key="FrontEndMenu_Difficulty" translation="Difficoltà"/>
     <entry key="FrontEndMenu_DifficultyEasy" translation="Facile"/>
-    <entry key="FrontEndMenu_DifficultyEasy_Description" translation="Budget Iniziale: $8000&#10;Tasso di Restituzione: 75%&#10;&#10;Ricerca veloce ed illimitata&#10;I Visitatori restano felici a lungo&#10;Le attrazioni si rovinano lentamente"/>
+    <entry key="FrontEndMenu_DifficultyEasy_Description" translation="Budget Iniziale: $8000&#10;Tasso di Restituzione: 75%&#10;&#10;Ricerca veloce ed illimitata&#10;I visitatori restano felici a lungo&#10;Le attrazioni si rovinano lentamente"/>
     <entry key="FrontEndMenu_DifficultyExplanation" translation="In harder difficulties you can expect:&#10;• Less starting cash.&#10;• Fewer items researched.&#10;• Guest happiness to drop more quickly.&#10;• More frequent breakdowns.&#10;• Faster ride reputation decline.&#10;• Guests to be harder to attract."/>
     <entry key="FrontEndMenu_DifficultyHard" translation="Difficile"/>
-    <entry key="FrontEndMenu_DifficultyHard_Description" translation="Budget Iniziale: $2000 (no loans available)&#10;Tasso di Restituzione: 25%&#10;&#10;Ricerca lenta e costosa&#10;I Visitatori diventano tristi in fretta &#10;Le attrazioni si rovinano in fretta"/>
+    <entry key="FrontEndMenu_DifficultyHard_Description" translation="Budget Iniziale: $2000 (no loans available)&#10;Tasso di Restituzione: 25%&#10;&#10;Ricerca lenta e costosa&#10;I visitatori diventano tristi in fretta &#10;Le attrazioni si rovinano in fretta"/>
     <entry key="FrontEndMenu_DifficultyHarder" translation="Harder"/>
-    <entry key="FrontEndMenu_DifficultyHarder_Description" translation="Per i Manager stagionali&#10;I Visitatori sono difficili da attirare e le attrazioni perdono attirazione con il tempo"/>
+    <entry key="FrontEndMenu_DifficultyHarder_Description" translation="Per i Manager stagionali&#10;I visitatori sono difficili da attirare e le attrazioni perdono attirazione con il tempo"/>
     <entry key="FrontEndMenu_DifficultyHarder_DescriptionALT" translation="Per i Manager stagionali"/>
     <entry key="FrontEndMenu_DifficultyMedium" translation="Media"/>
     <entry key="FrontEndMenu_DifficultyMedium_Description" translation="Budget Iniziale: $4000&#10;Tasso di Restituzione: 50%&#10;&#10;Ricerca con costo e velocità normali&#10;La felicità dei visitatori è normale&#10;Le attrazioni si rovinano in tempi standard"/>
@@ -5924,7 +5924,7 @@
     <entry key="FrontEndMenu_ViewInWorkshop" translation="Guarda in Workshop"/>
     <entry key="FrontEndMenu_ViewSteamProfile" translation="Guarda tutti gli Upload"/>
     <entry key="FrontEndMenu_VisitPark" translation="Visita Parco"/>
-    <entry key="FrontEndMenu_Visitors" translation="Visitatori"/>
+    <entry key="FrontEndMenu_Visitors" translation="visitatori"/>
     <entry key="FrontEndMenu_Welcome" translation="Benvenuto!"/>
     <entry key="FrontEndMenu_WelcomeWindowButtonLabel" translation="Crea il mio avatar!"/>
     <entry key="FrontEndMenu_WelcomeWindowLabel" translation="Thank you for joining us, you're just a few small steps away from experiencing the world of Planet Coaster!\n\nFirst we'll create an avatar of yourself to represent your amazing creations among the Planet Coaster community.\n\nMake sure to create someone your friends will recognise!"/>
@@ -6133,7 +6133,7 @@
     <entry key="MainMenu_Confirm_Revert" translation="Ripristina"/>
     <entry key="MainMenu_Manage" translation="Gestisci"/>
     <entry key="MainMenu_Manage_Finance" translation="Finanza"/>
-    <entry key="MainMenu_Manage_Guests" translation="Visitatori"/>
+    <entry key="MainMenu_Manage_Guests" translation="visitatori"/>
     <entry key="MainMenu_Manage_Staff" translation="Staff"/>
     <entry key="MainMenu_Menu" translation="Menu"/>
     <entry key="MainMenu_Menu_Load" translation="Carica Parco"/>
@@ -12041,9 +12041,9 @@
     <entry key="Guests_Status_Wander" translation="Vagando"/>
     <!--HUD-->
     <entry key="HUD_AdultGroupMemberCount" translation="Gruppi di visitatori Adulti"/>
-    <entry key="HUD_AverageGuestHappinessTitle" translation="Media felicita' Visitatori"/>
-    <entry key="HUD_AverageHappiness" translation="Media felicita' Visitatori"/>
-    <entry key="HUD_AverageHappinessMultiplier" translation="Felicità Visitatori"/>
+    <entry key="HUD_AverageGuestHappinessTitle" translation="Media felicita' visitatori"/>
+    <entry key="HUD_AverageHappiness" translation="Media felicita' visitatori"/>
+    <entry key="HUD_AverageHappinessMultiplier" translation="Felicità visitatori"/>
     <entry key="HUD_BalanceBonus" translation="Bonus Bilancio Parco"/>
     <entry key="HUD_ConstructionCosts" translation="Costo Costruzioni"/>
     <entry key="HUD_CurrentMonth" translation="Mese Corrente"/>
@@ -12225,7 +12225,7 @@
     <entry key="HUD_NotificationsStaff" translation="Staff"/>
     <entry key="HUD_NotificationsStalls" translation="Negozi e Strutture"/>
     <entry key="HUD_NotificationsUrgent" translation="Importanti"/>
-    <entry key="HUD_NumberOfGuests" translation="Numero di Visitatori"/>
+    <entry key="HUD_NumberOfGuests" translation="Numero di visitatori"/>
     <entry key="HUD_OtherRunningCosts" translation="Altri Costi di Gestione"/>
     <entry key="HUD_ParkInfo_Finances" translation="{Value:currency}"/>
     <entry key="HUD_ParkInfo_ParkName" translation="{Name}"/>
@@ -12316,7 +12316,7 @@
     <entry key="PopUp_DropItem" translation="Drop Item"/>
     <entry key="PopUp_FastPass_MergeName" translation="Priority Pass Merge"/>
     <entry key="PopUp_FastPass_SplitName" translation="Priority Pass Split"/>
-    <entry key="PopUp_Finances" translation="Finanze"/>
+    <entry key="PopUp_Finances" translation="Economia"/>
     <entry key="PopUp_FocusCam" translation="Centra Telecamera"/>
     <entry key="PopUp_Guests" translation="Ospiti"/>
     <entry key="PopUp_Maintenance" translation="Manutenzione"/>
@@ -12524,29 +12524,29 @@
     <entry key="PopUp_Ride_MinWaitingTimeHint" translation="Minimum time between the first passenger boarding and the train leaving the station. Shortens queue times."/>
     <entry key="PopUp_Ride_MinWaitingTimeRideHint" translation="Minimum time between the first passenger boarding and the ride starting. Shortens queue times."/>
     <entry key="PopUp_Ride_MinimumRiderHeight" translation="Minimum rider height"/>
-    <entry key="PopUp_Ride_MinimumRiderHeight_Child" translation="Child"/>
-    <entry key="PopUp_Ride_MinimumRiderHeight_TeenAdult" translation="Teen/Adult"/>
-    <entry key="PopUp_Ride_MonthlyArrivals" translation="Monthly disembarkments"/>
+    <entry key="PopUp_Ride_MinimumRiderHeight_Child" translation="Bambino"/>
+    <entry key="PopUp_Ride_MinimumRiderHeight_TeenAdult" translation="Giovane/Adulto"/>
+    <entry key="PopUp_Ride_MonthlyArrivals" translation="Salite mensili"/>
     <entry key="PopUp_Ride_MonthlyCarRunningCost" translation=" - car costs"/>
-    <entry key="PopUp_Ride_MonthlyDepartures" translation="Monthly boarders"/>
-    <entry key="PopUp_Ride_MonthlyGuests" translation="Monthly guests"/>
-    <entry key="PopUp_Ride_MonthlyRunningCost" translation="Monthly running costs"/>
+    <entry key="PopUp_Ride_MonthlyDepartures" translation="Discese mensili"/>
+    <entry key="PopUp_Ride_MonthlyGuests" translation="Ospiti mensili"/>
+    <entry key="PopUp_Ride_MonthlyRunningCost" translation="Costi esercizio mensili"/>
     <entry key="PopUp_Ride_MonthlyStationRunningCost" translation=" - station costs"/>
     <entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - utility costs"/>
-    <entry key="PopUp_Ride_MoveEntrance" translation="Move entrance"/>
+    <entry key="PopUp_Ride_MoveEntrance" translation="Sposta entrata"/>
     <entry key="PopUp_Ride_MoveExit" translation="Sposta uscita"/>
-    <entry key="PopUp_Ride_NumCars" translation="Number of cars"/>
-    <entry key="PopUp_Ride_NumLaps" translation="Number of laps"/>
+    <entry key="PopUp_Ride_NumCars" translation="Numero vetture"/>
+    <entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
     <entry key="PopUp_Ride_NumPasses" translation="Stop at station on pass"/>
     <entry key="PopUp_Ride_NumTrains" translation="Numero di treni"/>
     <entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
-    <entry key="PopUp_Ride_Occupancy" translation="Occupancy: {LAST:float}% ({AVERAGE:float}% average)"/>
+    <entry key="PopUp_Ride_Occupancy" translation="Riempimento: {LAST:float}% ({AVERAGE:float}% average)"/>
     <entry key="PopUp_Ride_Operations_Soon" translation="Ride operations coming soon"/>
-    <entry key="PopUp_Ride_Options" translation="Ride Options"/>
+    <entry key="PopUp_Ride_Options" translation="Opzioni Corsa"/>
     <entry key="PopUp_Ride_Overview_Soon" translation="Ride overview coming soon"/>
     <entry key="PopUp_Ride_PassesHint" translation="Cannot edit number of passes through station while ride is Open"/>
     <entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
-    <entry key="PopUp_Ride_Prestige" translation="Prestige:{LAST:float} ({AVERAGE:float} average)"/>
+    <entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} average)"/>
     <entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Prestige Deterioration Multiplier: {VALUE:float}"/>
     <entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Projected monthly income"/>
     <entry key="PopUp_Ride_ProjectedMonthlyProfit" translation="Projected monthly profit"/>
@@ -12595,7 +12595,7 @@
     <entry key="PopUp_Shops_ItemExtras" translation="Extras"/>
     <entry key="PopUp_StartTesting" translation="Test"/>
     <entry key="PopUp_StationList" translation="Stations"/>
-    <entry key="PopUp_Statistics" translation="Statistics"/>
+    <entry key="PopUp_Statistics" translation="Statistiche"/>
     <entry key="PopUp_TestRatings" translation="Test ratings"/>
     <entry key="PopUp_Testing" translation="Testing"/>
     <entry key="PopUp_TitleStatus" translation="Ride status: {STATUS}"/>
@@ -12725,14 +12725,14 @@
     <entry key="InfoPanel_Facility_Stats" translation="Statistiche Vendite"/>
     <entry key="InfoPanel_Facility_Sync" translation="Usa gli stessi prezzi per tutte le strutture di questo tipo"/>
     <entry key="InfoPanel_Facility_Sync_Label" translation="Sincronizza Prezzi"/>
-    <entry key="InfoPanel_Facility_Thoughts" translation="Pensieri Visitatori"/>
+    <entry key="InfoPanel_Facility_Thoughts" translation="Pensieri visitatori"/>
     <entry key="InfoPanel_Facility_Type" translation="Tipo Servizio"/>
     <entry key="InfoPanel_ParkEntrance_Operations" translation="Apri Gestione Parco"/>
     <entry key="InfoPanel_ParkEntrance_Stat_Life_Revenue" translation="Biglietti venduti"/>
-    <entry key="InfoPanel_ParkEntrance_Stat_Life_Visitors" translation="Visitatori totali"/>
+    <entry key="InfoPanel_ParkEntrance_Stat_Life_Visitors" translation="visitatori totali"/>
     <entry key="InfoPanel_ParkEntrance_Stat_Prev_LostSales" translation="Vendite mancate ultimo mese"/>
     <entry key="InfoPanel_ParkEntrance_Stat_Prev_Revenue" translation="Biglietti venduti nell'ultimo mese"/>
-    <entry key="InfoPanel_ParkEntrance_Stat_Prev_Visitors" translation="Visitatori nell'ultimo mese"/>
+    <entry key="InfoPanel_ParkEntrance_Stat_Prev_Visitors" translation="visitatori nell'ultimo mese"/>
     <entry key="InfoPanel_ParkEntrance_TicketPrice_Adult" translation="Standard"/>
     <entry key="InfoPanel_ParkEntrance_TicketPrice_Child" translation="Famiglia"/>
     <entry key="InfoPanel_ParkEntrance_TicketPrices" translation="Prezzo Biglietti"/>
@@ -12748,12 +12748,12 @@
     <entry key="InfoPanel_FlatRide_Entrance" translation="Entrata"/>
     <entry key="InfoPanel_FlatRide_Exit" translation="Uscita"/>
     <entry key="InfoPanel_FlatRide_FlexiColour" translation="Colore attrazione"/>
-    <entry key="InfoPanel_FlatRide_GuestCamera" translation="Camera Visitatori"/>
-    <entry key="InfoPanel_FlatRide_LookAtGuestCamera" translation="Guarda la Camera Visitatori"/>
+    <entry key="InfoPanel_FlatRide_GuestCamera" translation="Camera visitatori"/>
+    <entry key="InfoPanel_FlatRide_LookAtGuestCamera" translation="Guarda la Camera visitatori"/>
     <entry key="InfoPanel_FlatRide_Move" translation="Sposta"/>
     <entry key="InfoPanel_FlatRide_MoveEntrance" translation="Sposta Entrata"/>
     <entry key="InfoPanel_FlatRide_MoveExit" translation="Sposta Uscita"/>
-    <entry key="InfoPanel_FlatRide_Name" translation="Visitatori"/>
+    <entry key="InfoPanel_FlatRide_Name" translation="visitatori"/>
     <entry key="InfoPanel_FlatRide_Start" translation="Start"/>
     <entry key="InfoPanel_FlatRide_Stop" translation="Stop"/>
     <!--InfoPanel_Guest-->
@@ -13055,8 +13055,8 @@
     <entry key="InfoPanel_Staff_WorkTask_ChasedPickpocket" translation="Chase Pickpockets"/>
     <entry key="InfoPanel_Staff_WorkTask_ChasedVandal" translation="Eject Vandals"/>
     <entry key="InfoPanel_Staff_WorkTask_EjectGuestGroup" translation="Eject Guest Groups"/>
-    <entry key="InfoPanel_Staff_WorkTask_GuestEntertained" translation="Intrattenendo i Visitatori"/>
-    <entry key="InfoPanel_Staff_WorkTask_GuestServed" translation="Servendo i Visitatori"/>
+    <entry key="InfoPanel_Staff_WorkTask_GuestEntertained" translation="Intrattenendo i visitatori"/>
+    <entry key="InfoPanel_Staff_WorkTask_GuestServed" translation="Servendo i visitatori"/>
     <entry key="InfoPanel_Staff_WorkTask_LitterCleared" translation="Sporcizia"/>
     <entry key="InfoPanel_Staff_WorkTask_RideInspected" translation="Ispezioni"/>
     <entry key="InfoPanel_Staff_WorkTask_RideRefurbished" translation="Ristrutturazioni"/>
@@ -13091,8 +13091,8 @@
     <entry key="InfoPanel_Track_EditTriggers" translation="Modifica Inneschi"/>
     <entry key="InfoPanel_Track_FlexiColour" translation="Colori Attrazione"/>
     <entry key="InfoPanel_Track_FrontLookCamera" translation="Visuale Frontale"/>
-    <entry key="InfoPanel_Track_GuestCamera" translation="Visuale Visitatori"/>
-    <entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale Visitatori"/>
+    <entry key="InfoPanel_Track_GuestCamera" translation="Visuale visitatori"/>
+    <entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale visitatori"/>
     <entry key="InfoPanel_Track_LookBackCamera" translation="Visuale Inversa"/>
     <entry key="InfoPanel_Track_Name" translation="Tracciato"/>
     <entry key="InfoPanel_Track_NewBuilding" translation="Costruisci sulla Griglia della Stazione"/>
@@ -13171,7 +13171,7 @@
     <entry key="LoadingScreen_Tooltip_39" translation="Il Chiosco Informazioni vende i pass Prioritari per saltare le file"/>
     <entry key="LoadingScreen_Tooltip_4" translation="Puoi cambiare il colore della tua interfaccia nel menù Impostazioni"/>
     <entry key="LoadingScreen_Tooltip_40" translation="Puoi cambiare il colore di molti tracciati e oggetti "/>
-    <entry key="LoadingScreen_Tooltip_41" translation="I Visitatori andranno sulle attrazioni con un livello di paura che possono sopportare"/>
+    <entry key="LoadingScreen_Tooltip_41" translation="I visitatori andranno sulle attrazioni con un livello di paura che possono sopportare"/>
     <entry key="LoadingScreen_Tooltip_42" translation="Più alta sarà la valutazione del tuo parco, più gente ci verrà!"/>
     <entry key="LoadingScreen_Tooltip_43" translation="Puoi vedere i pensieri più popolari su un'attrazione nella sua schermata generale"/>
     <entry key="LoadingScreen_Tooltip_44" translation="Gli ospiti pagheranno di più per attrazioni con più scenario"/>
@@ -13462,7 +13462,7 @@
     <entry key="Notification_ChallengeCompleted" translation="Sfida completata"/>
     <entry key="Notification_ChallengeCompletedStacked" translation="Molte Sfide completate"/>
     <entry key="Notification_EntrancesNotConnectedToSpawn" translation="L'entrata del parco non è accessibile dal mondo esterno"/>
-    <entry key="Notification_GuestButton" translation="Visualizza Visitatore"/>
+    <entry key="Notification_GuestButton" translation="Visualizza visitatore"/>
     <entry key="Notification_GuestPickpocketed" translation="Theft reported, victim unsure of when it occurred. A description of a suspect has been released to security."/>
     <entry key="Notification_GuestPickpocketedNoSecurity" translation="Theft reported, victim unsure of when it occurred. There are no security guards to report the suspect's description to!"/>
     <entry key="Notification_GuestPickpocketedNoSecurityStacked" translation="Molti ladri segnalati nel parco ma sembrano non esserci guardie per prenderli!"/>
@@ -14148,7 +14148,7 @@
     <entry key="ParkManagement_GuestOverviewNeeds" translation="Necessità medie dei visitatori "/>
     <entry key="ParkManagement_GuestSummary" translation="Riepilogo "/>
     <entry key="ParkManagement_GuestThoughts" translation="Pensieri dei visitatori"/>
-    <entry key="ParkManagement_Guests" translation="Visitatori"/>
+    <entry key="ParkManagement_Guests" translation="visitatori"/>
     <entry key="ParkManagement_Guests_AverageATMWithdrawal" translation="Prelievi medi bancomat"/>
     <entry key="ParkManagement_Guests_AverageCoasterSpend" translation="Spesa media Montagne russe"/>
     <entry key="ParkManagement_Guests_AverageDrinkSpend" translation="Spesa media bevande"/>
@@ -14158,7 +14158,7 @@
     <entry key="ParkManagement_Guests_Graph_Adult_Count" translation="Membri del gruppo di adulti"/>
     <entry key="ParkManagement_Guests_Graph_Family_Count" translation="Membri del gruppo famiglia"/>
     <entry key="ParkManagement_Guests_Graph_Teen_Count" translation="Membri del gruppo di ragazzi"/>
-    <entry key="ParkManagement_Guests_Graph_Total_Count" translation="Visitatori totali"/>
+    <entry key="ParkManagement_Guests_Graph_Total_Count" translation="visitatori totali"/>
     <entry key="ParkManagement_Guests_Tooltip" translation="Pensieri dei visitatori e informazioni"/>
     <entry key="ParkManagement_HireStaff" translation="Assumi dipendente"/>
     <entry key="ParkManagement_LeavingGuestThoughts" translation="Lascia i pensieri dei visitatori"/>
@@ -14171,7 +14171,7 @@
     <entry key="ParkManagement_List_Janitor" translation="Spazzini"/>
     <entry key="ParkManagement_List_LastMonthsProfit" translation="Profitti dell'ultimo mese"/>
     <entry key="ParkManagement_List_Mechanic" translation="Manutentori"/>
-    <entry key="ParkManagement_List_MonthlyGuests" translation="Visitatori mensili"/>
+    <entry key="ParkManagement_List_MonthlyGuests" translation="visitatori mensili"/>
     <entry key="ParkManagement_List_NameHeader" translation="Nome"/>
     <entry key="ParkManagement_List_NoAllStaff" translation="Non hai dipendenti"/>
     <entry key="ParkManagement_List_NoEntertainer" translation="Non animatori"/>
@@ -14282,9 +14282,9 @@
     <entry key="ParkManagement_Overview_Finance_ResearchPayments_ToolTip" translation="Media fondi di ricerca mensili"/>
     <entry key="ParkManagement_Overview_Finance_StaffWages" translation="Stipendi mensili"/>
     <entry key="ParkManagement_Overview_Finance_StaffWages_ToolTip" translation="Media degli stipendi mensili"/>
-    <entry key="ParkManagement_Overview_FlatRide_Multiple" translation="{count:int} visitatori"/>
-    <entry key="ParkManagement_Overview_FlatRide_One" translation="1 visitatore"/>
-    <entry key="ParkManagement_Overview_FlatRide_Zero" translation="0 visitatori"/>
+    <entry key="ParkManagement_Overview_FlatRide_Multiple" translation="{count:int} giostre"/>
+    <entry key="ParkManagement_Overview_FlatRide_One" translation="1 giostra"/>
+    <entry key="ParkManagement_Overview_FlatRide_Zero" translation="0 giostre"/>
         <entry key="ParkManagement_Overview_Graph_BalanceBonus" translation="Bonus Bilancio"/>
     <entry key="ParkManagement_Overview_Graph_MarketingBonus" translation="Bonus Marketing"/>
     <entry key="ParkManagement_Overview_Graph_ParkRating" translation="Valutazione Parco"/>
@@ -14321,7 +14321,7 @@
     <entry key="ParkManagement_Overview_Tracked_One" translation="1 montagna russa"/>
     <entry key="ParkManagement_Overview_Tracked_Zero" translation="0 montagne russe"/>
     <entry key="ParkManagement_Overview_VendorCount" translation="Venditori"/>
-    <entry key="ParkManagement_ParkCapacityMaxGuests" translation="Visitatori massimi"/>
+    <entry key="ParkManagement_ParkCapacityMaxGuests" translation="visitatori massimi"/>
     <entry key="ParkManagement_ParkCapacityTitle" translation="Capacità del parco"/>
     <entry key="ParkManagement_ParkOperations" translation="Operazioni Parco"/>
     <entry key="ParkManagement_ParkStatistics" translation="Statistiche parco"/>
@@ -14439,7 +14439,7 @@
     <entry key="ParkManagement_Staff_Workload_Low" translation="basso"/>
     <entry key="ParkManagement_Staff_Workload_Medium" translation="Normale"/>
     <entry key="ParkManagement_TeenGroups" translation="Gruppi di ragazzi"/>
-    <entry key="ParkManagement_TicketLifetimeVisitors" translation="Visitatori dall'apertura del parco"/>
+    <entry key="ParkManagement_TicketLifetimeVisitors" translation="visitatori dall'apertura del parco"/>
     <entry key="ParkManagement_TicketMissedSalesLastMonth" translation="Vendite perse l'ultimo mese"/>
     <entry key="ParkManagement_TicketPrices" translation="Prezzi biglietto"/>
     <entry key="ParkManagement_TicketSalesLastMonth" translation="Vendite ultimo mese"/>
@@ -14450,7 +14450,7 @@
     <entry key="ParkManagement_TicketStepperFastPass_NoFastPassFacilities" translation="è necessario un Chiosco informazioni Information per vendere i pass prioritari"/>
     <entry key="ParkManagement_TicketStepperStandard" translation="Standard"/>
     <entry key="ParkManagement_TicketStepperStandardHint" translation="Il prezzo di entrata per ogni visitatore in un gruppo di adulti o ragazzi."/>
-    <entry key="ParkManagement_TicketVisitorsLastMonth" translation="Visitatori dell'ultimo mese"/>
+    <entry key="ParkManagement_TicketVisitorsLastMonth" translation="visitatori dell'ultimo mese"/>
     <entry key="ParkManagement_Tickets_ParkCapacityCannotBeChangedInScenario" translation="La capacità del parco non può essere cambiato in questo scenario"/>
     <entry key="ParkManagement_TitleStatus" translation="Stato del parco: {STATUS}"/>
     <entry key="ParkManagement_TopThoughts" translation="Migliori pensieri dei visitatori"/>
@@ -14821,7 +14821,7 @@
     <entry key="RideCam_Derail" translation="Scontro"/>
     <entry key="RideCam_DisplayCamera" translation="Display Camera"/>
     <entry key="RideCam_FirstPerson" translation="Prima persona"/>
-    <entry key="RideCam_Guest" translation="Visitatore"/>
+    <entry key="RideCam_Guest" translation="visitatore"/>
     <entry key="RideCam_GuestCamera" translation="Videocamera visitatore"/>
     <entry key="RideCam_GuestPOV" translation="Visuale visitore"/>
     <entry key="RideCam_Interest" translation="Visuali fisse"/>
@@ -14862,9 +14862,9 @@
     <entry key="Challenges_Empty" translation="Nessuna Sfida attiva"/>
     <entry key="Challenges_FireworksDisplay" translation="Make a fireworks display that holds {Guests:int} guests attention for {Time:int} seconds"/>
     <entry key="Challenges_FireworksDisplay_Label" translation="Firework Display Challenge"/>
-    <entry key="Challenges_GuestHappiness" translation="Porta la Felicità Visitatori Media a {Target:float:decimalPlaces=0}%"/>
-    <entry key="Challenges_GuestHappiness_Label" translation="Sfida Felicità Visitatori"/>
-    <entry key="Challenges_GuestHappiness_NeedGuests" translation="Porta la Felicità Media Visitatori a {Target:float:decimalPlaces=0}%&#10;Richiede {MinGuests:int} Visitatori"/>
+    <entry key="Challenges_GuestHappiness" translation="Porta la Felicità visitatori Media a {Target:float:decimalPlaces=0}%"/>
+    <entry key="Challenges_GuestHappiness_Label" translation="Sfida Felicità visitatori"/>
+    <entry key="Challenges_GuestHappiness_NeedGuests" translation="Porta la Felicità Media visitatori a {Target:float:decimalPlaces=0}%&#10;Richiede {MinGuests:int} visitatori"/>
     <entry key="Challenges_KeepTheftVictimsLow" translation="Keep Current Theft Victims below {Value:float:decimalPlaces=1}% for {Months:int} months"/>
     <entry key="Challenges_KeepTheftVictimsLow_Label" translation="Pickpocket Rate Challenge"/>
     <entry key="Challenges_KeepTheftVictimsLow_NeedGuests" translation="Keep Current Theft Victims below {Value:float:decimalPlaces=1}% for {Months:int} months&#10;    Requires {MinGuests:int} Guests"/>
@@ -14916,7 +14916,7 @@
     <entry key="Objectives_FireworksDisplay_View" translation="Make a fireworks display that holds {Guests:int} guests attention for {Time:int} seconds"/>
     <entry key="Objectives_ForMonths" translation="For {Target:int} Months. Current: {Value:float:decimalPlaces=2} Months"/>
     <entry key="Objectives_ForMonthsSingular" translation="For one Month. Current: {Value:float:decimalPlaces=2} Months"/>
-    <entry key="Objectives_GuestCount_View" translation="Attira {Value:int} Visitatori"/>
+    <entry key="Objectives_GuestCount_View" translation="Attira {Value:int} visitatori"/>
     <entry key="Objectives_GuestHappiness_View" translation="Raise Average Guest Happiness to {Value:float:decimalPlaces=0}%"/>
     <entry key="Objectives_HireStaff_View" translation="Assumi {Value:int} {StaffTypes}"/>
     <entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Keep Current Theft Victims below {Value:float:decimalPlaces=1}% for {Months:int} consecutive months"/>
@@ -17276,7 +17276,7 @@
     <entry key="Guest_Thought_EnergyCritical_Natural_Teen_02" translation="Sono super stanco"/>
     <entry key="Guest_Thought_EnergyCritical_Natural_Teen_03" translation="Accidenti, sono distrutto"/>
     <entry key="Guest_Thought_EnergyCritical_Natural_Teen_04" translation="Sono strafumato"/>
-    <entry key="Guest_Thought_EnergySatisfied_Destination_Adult_01" translation="Mi sento riposato dopo aver visitato {reference}"/>
+   <entry key="Guest_Thought_EnergySatisfied_Destination_Adult_01" translation="Mi sento riposato dopo aver visitato {reference}"/>
     <entry key="Guest_Thought_EnergySatisfied_Destination_Adult_02" translation="Sto cercando di andare avanti {reference}"/>
     <entry key="Guest_Thought_EnergySatisfied_Destination_Child_01" translation="Mi sento benissimo! - {reference}"/>
     <entry key="Guest_Thought_EnergySatisfied_Destination_Common_01" translation="Mi sento riposato - {reference}"/>
