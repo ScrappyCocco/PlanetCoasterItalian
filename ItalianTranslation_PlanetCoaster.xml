@@ -12267,7 +12267,7 @@
     <entry key="HUD_ToolTip_MultiSelect_Regular" translation="Ctrl + Click to add/remove"/>
     <entry key="HUD_ToolTip_NoResearchedEntries" translation="You have no items in here, try researching some!"/>
     <entry key="HUD_ToolTip_NotificationsPopup" translation="Notifiche"/>
-    <entry key="HUD_ToolTip_ObjectivesPopup" translation="Obbiettivi"/>
+    <entry key="HUD_ToolTip_ObjectivesPopup" translation="Obiettivi"/>
     <entry key="HUD_ToolTip_ParkManagement" translation="Gestione Parco"/>
     <entry key="HUD_ToolTip_Pause" translation="Attiva/Disattiva Pausa [{#LogicalButton.Editors_ToggleSimulationSpeed#}]"/>
     <entry key="HUD_ToolTip_Redo" translation="Redo [{#LogicalButton.Editors_Redo#}]"/>
@@ -13481,7 +13481,7 @@
     <entry key="Notification_MarketingCampaignCompletedCantRenew" translation="La campagna di marketing è fallita per mancanza di fondi&#10;'{Name}'"/>
     <entry key="Notification_MarketingCampaignCompletedCantRenewStacked" translation="Più campagne di marketing sono fallite per mancanza di fondi"/>
     <entry key="Notification_MarketingCampaignCompletedStacked" translation="Più campagne di marketing si sono concluse"/>
-    <entry key="Notification_ObjectiveButton" translation="Guarda Obbiettivi"/>
+    <entry key="Notification_ObjectiveButton" translation="Guarda Obiettivi"/>
     <entry key="Notification_ObjectiveCompleted" translation="{ObjectiveTier} obiettivo completato:&#10;'{Name}'&#10;Complimenti!"/>
     <entry key="Notification_ObjectiveCompletedStacked" translation="Miltipli obiettivi sono stati completati"/>
     <entry key="Notification_OpenNotificationsButton" translation="Apri notifiche"/>
@@ -14022,38 +14022,38 @@
     <entry key="ParkManagement_CamerasStatistics" translation="Camera Statistics"/>
     <entry key="ParkManagement_CloseTime" translation="Chiudi"/>
     <entry key="ParkManagement_CloseTimeHint" translation="Gli orari di chiusura determinano l'illuminazione alla fine del mese"/>
-    <entry key="ParkManagement_CrimeStatistics" translation="Crime Statistics"/>
-    <entry key="ParkManagement_CrimeStatistics_Disabled" translation="To view crime statistics enable crime in the game options."/>
-    <entry key="ParkManagement_Crime_AllTimeThefts" translation="Pickpocket Victims (all time)"/>
-    <entry key="ParkManagement_Crime_AllTimeVandalisedBenches" translation="Vandalised Benches (all time)"/>
-    <entry key="ParkManagement_Crime_AllTimeVandalisedBins" translation="Vandalised Bins (all time)"/>
-    <entry key="ParkManagement_Crime_AllTimeVandalisedObjects" translation="Vandalised Objects (all time)"/>
-    <entry key="ParkManagement_Crime_CurrentTheftVictims" translation="Pickpocket Victims (in park)"/>
-    <entry key="ParkManagement_Crime_CurrentVandalisedBenches" translation="Vandalised Benches (in park)"/>
-    <entry key="ParkManagement_Crime_CurrentVandalisedBins" translation="Vandalised Bins (in park)"/>
-    <entry key="ParkManagement_Crime_CurrentVandalisedObjects" translation="Vandalised Objects (in park)"/>
-    <entry key="ParkManagement_Crime_CurrentVandalisedObjects_Replace" translation="Replace ({cost:currency})"/>
-    <entry key="ParkManagement_Crime_CurrentVandalisedObjects_ReplaceAll" translation="Replace All ({cost:currency})"/>
-    <entry key="ParkManagement_Crime_InnocentGroupsEjected" translation="Innocent Guest Groups Ejected (all time)"/>
-    <entry key="ParkManagement_Crime_PickpocketsApprehended" translation="Pickpockets Apprehended (all time)"/>
-    <entry key="ParkManagement_Crime_PickpocketsChased" translation="Pickpockets Chased (all time)"/>
-    <entry key="ParkManagement_Crime_SecurityCameraAllTimeTheftsSpotted" translation="Acts of Theft Spotted (all time)"/>
-    <entry key="ParkManagement_Crime_SecurityCameraAllTimeVandalismSpotted" translation="Acts of Vandalism Spotted (all time)"/>
-    <entry key="ParkManagement_Crime_SecurityCameraCount" translation="Security Cameras"/>
-    <entry key="ParkManagement_Crime_SecurityCameraHeading" translation="Security Cameras"/>
-    <entry key="ParkManagement_Crime_SecurityCameraMonthlyRunningCosts" translation="Monthly Running Costs"/>
-    <entry key="ParkManagement_Crime_SecurityCameraMonthlyTheftsSpotted" translation="Acts of Theft Spotted (this month)"/>
-    <entry key="ParkManagement_Crime_SecurityCameraMonthlyVandalismSpotted" translation="Acts of Vandalism Spotted (this month)"/>
-    <entry key="ParkManagement_Crime_SecurityCameraStatsHeading" translation="Stats"/>
+    <entry key="ParkManagement_CrimeStatistics" translation="Statistiche Crimini"/>
+		<entry key="ParkManagement_CrimeStatistics_Disabled" translation="To view crime statistics enable crime in the game options."/>
+		<entry key="ParkManagement_Crime_AllTimeThefts" translation="Furti (totale)"/>
+		<entry key="ParkManagement_Crime_AllTimeVandalisedBenches" translation="Panchine vandalizzate (totale)"/>
+		<entry key="ParkManagement_Crime_AllTimeVandalisedBins" translation="Cestini vandalizzati (totale)"/>
+		<entry key="ParkManagement_Crime_AllTimeVandalisedObjects" translation="Oggetti vandalizzati (totale)"/>
+		<entry key="ParkManagement_Crime_CurrentTheftVictims" translation="Vittime di furto (attuale)"/>
+		<entry key="ParkManagement_Crime_CurrentVandalisedBenches" translation="Panchine vandalizzate (attuale)"/>
+		<entry key="ParkManagement_Crime_CurrentVandalisedBins" translation="Cestini vandalizzati (attuale)"/>
+		<entry key="ParkManagement_Crime_CurrentVandalisedObjects" translation="Oggetti vandalizzati (attuale)"/>
+		<entry key="ParkManagement_Crime_CurrentVandalisedObjects_Replace" translation="Rimpiazza ({cost:currency})"/>
+		<entry key="ParkManagement_Crime_CurrentVandalisedObjects_ReplaceAll" translation="Rimpiazza tutto({cost:currency})"/>
+		<entry key="ParkManagement_Crime_InnocentGroupsEjected" translation="Gruppi di visitatori cacciati via (dall'inizio)"/>
+		<entry key="ParkManagement_Crime_PickpocketsApprehended" translation="Borseggiatori arrestati (totale)"/>
+		<entry key="ParkManagement_Crime_PickpocketsChased" translation="Borseggiatori ricercati (totale)"/>
+		<entry key="ParkManagement_Crime_SecurityCameraAllTimeTheftsSpotted" translation="Furti rilevati (totale)"/>
+		<entry key="ParkManagement_Crime_SecurityCameraAllTimeVandalismSpotted" translation="Atti di vandalismo rilevati (totale)"/>
+		<entry key="ParkManagement_Crime_SecurityCameraCount" translation="Telecamere di sicurezza"/>
+		<entry key="ParkManagement_Crime_SecurityCameraHeading" translation="Telecamere di sicurezzas"/>
+		<entry key="ParkManagement_Crime_SecurityCameraMonthlyRunningCosts" translation="Costo di esercizio mensile"/>
+		<entry key="ParkManagement_Crime_SecurityCameraMonthlyTheftsSpotted" translation="Furti rilevati (questo mese)"/>
+		<entry key="ParkManagement_Crime_SecurityCameraMonthlyVandalismSpotted" translation="Atti di vandalismo rilevati (questo mese)"/>
+		<entry key="ParkManagement_Crime_SecurityCameraStatsHeading" translation="Statistiche"/>
     <entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Placing Security Cameras in your park helps you surveil illicit behaviour.&#10;Security Cameras help your staff identify wrongdoers more easily."/>
-    <entry key="ParkManagement_Crime_SecurityHeading" translation="Security"/>
-    <entry key="ParkManagement_Crime_SecuritySummary" translation="You can hire Security in the Staff tab to help prevent crimes from happening in your park.&#10;In addition, installing security cameras helps your Security staff identify offenders."/>
-    <entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Theft"/>
-    <entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalism"/>
-    <entry key="ParkManagement_Crime_VandalismHeading" translation="Bins &amp; Benches"/>
-    <entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Stats"/>
-    <entry key="ParkManagement_Crime_VandalismSummary" translation="Some visitors vandalise objects if they feel extremely unhappy about the service in your park.&#10;These stats help you locate troublesome areas and let you quickly repair them.&#10;Remember your Mechanics repair broken objects as well. "/>
-    <entry key="ParkManagement_Crime_VandalsApprehended" translation="Vandals Apprehended (all time)"/>
+    <entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
+		<entry key="ParkManagement_Crime_SecuritySummary" translation="You can hire Security in the Staff tab to help prevent crimes from happening in your park.&#10;In addition, installing security cameras helps your Security staff identify offenders."/>
+		<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furto"/>
+		<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismo"/>
+		<entry key="ParkManagement_Crime_VandalismHeading" translation="Bins &amp; Benches"/>
+		<entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Statistiche"/>
+		<entry key="ParkManagement_Crime_VandalismSummary" translation="Some visitors vandalise objects if they feel extremely unhappy about the service in your park.&#10;These stats help you locate troublesome areas and let you quickly repair them.&#10;Remember your Mechanics repair broken objects as well. "/>
+		<entry key="ParkManagement_Crime_VandalsApprehended" translation="Vandali Arrestati (dall'inizio)"/>
     <entry key="ParkManagement_Crime_XOfYAndProp" translation="{countX:int}/{countY:int} ({percentage:float:decimalPlaces=0}%)"/>
     <entry key="ParkManagement_DemographicBreakdown" translation="Ripartizione demografica"/>
     <entry key="ParkManagement_DutyRoster_AssignedTo_Body" translation="{count:int} Membri dello staff"/>
@@ -14177,7 +14177,7 @@
     <entry key="ParkManagement_List_NoEntertainer" translation="Non animatori"/>
     <entry key="ParkManagement_List_NoJanitor" translation="Non hai spazzini"/>
     <entry key="ParkManagement_List_NoMechanic" translation="Non hai manutentori"/>
-    <entry key="ParkManagement_List_NoSecurity" translation="You have no security guards"/>
+    <entry key="ParkManagement_List_NoSecurity" translation="YNon hai guardie di sicurezza"/>
     <entry key="ParkManagement_List_NoVendor" translation="Non hai venditori"/>
     <entry key="ParkManagement_List_PayHeader" translation="Paga"/>
     <entry key="ParkManagement_List_PopularityHeader" translation="Popolarità"/>
@@ -14187,7 +14187,7 @@
     <entry key="ParkManagement_List_RidePrice" translation="Prezzo"/>
     <entry key="ParkManagement_List_RosterAssignHeader" translation="Assegna coda"/>
     <entry key="ParkManagement_List_SatisfactionHeader" translation="Soddisfazione"/>
-    <entry key="ParkManagement_List_Security" translation="Security Guards"/>
+    <entry key="ParkManagement_List_Security" translation="Guardie di sicurezza"/>
     <entry key="ParkManagement_List_StatusHeader" translation="Stato"/>
     <entry key="ParkManagement_List_TrainingHeader" translation="Livello di addestramento"/>
     <entry key="ParkManagement_List_TrainingLevel" translation="Livello {level:int}"/>
@@ -14315,7 +14315,7 @@
     <entry key="ParkManagement_Overview_RideCountWithIssues_1" translation="{rideCount}, {issue1}"/>
     <entry key="ParkManagement_Overview_RideCountWithIssues_2" translation="{rideCount}, {issue1}, {issue2}"/>
     <entry key="ParkManagement_Overview_RideCountWithIssues_3" translation="{rideCount}, {issue1}, {issue2}, {issue3}"/>
-    <entry key="ParkManagement_Overview_SecurityCount" translation="Security Guards"/>
+    <entry key="ParkManagement_Overview_SecurityCount" translation="Guardi di sicurezza"/>
     <entry key="ParkManagement_Overview_Tooltip" translation="Informazioni parco"/>
     <entry key="ParkManagement_Overview_Tracked_Multiple" translation="{count:int} montagne russe"/>
     <entry key="ParkManagement_Overview_Tracked_One" translation="1 montagna russa"/>
@@ -14377,10 +14377,10 @@
     <entry key="ParkManagement_RideStateNew" translation="Nuovo"/>
     <entry key="ParkManagement_RideStateOld" translation="Vecchio"/>
     <entry key="ParkManagement_RidesSummary" translation="Corse &amp; Riepilogo attrazioni"/>
-    <entry key="ParkManagement_Security" translation="Security Management"/>
-    <entry key="ParkManagement_SecurityStatistics" translation="Security Statistics"/>
+    <entry key="ParkManagement_Security" translation="Gestione Sicurezza"/>
+    <entry key="ParkManagement_SecurityStatistics" translation="Statistiche Sicurezza"/>
     <entry key="ParkManagement_Security_Disabled_Tooltip" translation="To view crime and security information you must enable Security Features in the Game Options."/>
-    <entry key="ParkManagement_Security_Tooltip" translation="Crime and security information"/>
+    <entry key="ParkManagement_Security_Tooltip" translation="Informazioni su crimini e sicurezza"/>
     <entry key="ParkManagement_Shops" translation="Negozi"/>
     <entry key="ParkManagement_SpecialEffects" translation="Special Effects"/>
     <entry key="ParkManagement_SpecialEffects_BillboardDescription" translation="A list of all the Video Billboards in your park. Billboards can be connected to Sequences in the same way as Special Effects."/>
@@ -16748,7 +16748,7 @@
     <entry key="Browser_SubCat_Roof_Flat" translation="Tetti piatti"/>
     <entry key="Browser_SubCat_Roof_Roof" translation="Tetti a punta"/>
     <entry key="Browser_SubCat_Roof_Trim" translation="Roof Trims"/>
-    <entry key="Browser_SubCat_Security" translation="Cameras"/>
+    <entry key="Browser_SubCat_Security" translation="Telecamere"/>
     <entry key="Browser_SubCat_Sign_Facility" translation="Insegne strutture"/>
     <entry key="Browser_SubCat_Sign_Park" translation="Insegne Parco"/>
     <entry key="Browser_SubCat_Sign_Ride" translation="Insegne Attrazioni"/>
@@ -17745,7 +17745,7 @@
     <entry key="Guest_Thought_Security_BeenPickpocketed_Common_01" translation="Sono stato derubato!"/>
     <entry key="Guest_Thought_Security_BeenPickpocketed_Common_02" translation="Qualcuno mi ha derubato!"/>
     <entry key="Guest_Thought_Security_BeenPickpocketed_Common_03" translation="Sono stato borseggiato!"/>
-    <entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_01" translation="Non posso credere che qualcuno di noi e' stato borseggiato!"/>
+    <entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_01" translation="Non posso credere che qualcuno di noi sia stato borseggiato!"/>
     <entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_02" translation="Uno di noi e' stato borseggiato! Ci sono dei ladri!"/>
     <entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_03" translation="Cosa?! Qualcuno ha derubato uno di noi?! Assurdo!"/>
     <entry key="Guest_Thought_Security_GuardApprehension_Adult_01" translation="Siii! E' bello vedere la sicurezza prendere e aver a che fare coi criminali."/>
