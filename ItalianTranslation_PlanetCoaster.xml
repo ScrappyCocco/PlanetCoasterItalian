@@ -12220,13 +12220,20 @@
     <entry key="HUD_NotificationsParkManagement" translation="Gestione Parco"/>
     <entry key="HUD_NotificationsRides" translation="Attrazioni"/>
     <entry key="HUD_NotificationsSecurity" translation="Sicurezza"/>
+    <entry key="HUD_NotificationsSequence" translation="Seqeunces"/>
     <entry key="HUD_NotificationsSequence" translation="Sequenze"/>
     <entry key="HUD_NotificationsSettings" translation="Impostazioni Notifiche"/>
     <entry key="HUD_NotificationsStaff" translation="Staff"/>
     <entry key="HUD_NotificationsStalls" translation="Negozi e Strutture"/>
     <entry key="HUD_NotificationsUrgent" translation="Importanti"/>
     <entry key="HUD_NumberOfGuests" translation="Numero di Visitatori"/>
+<<<<<<< HEAD
     <entry key="HUD_OtherRunningCosts" translation="Altri costi di Gestione"/>
+=======
+    <entry key="HUD_OtherRunningCosts" translation="Other Running Costs"/>
+    <entry key="HUD_NumberOfGuests" translation="Numero di visitatori"/>
+    <entry key="HUD_OtherRunningCosts" translation="Altri Costi di Gestione"/>
+>>>>>>> master
     <entry key="HUD_ParkInfo_Finances" translation="{Value:currency}"/>
     <entry key="HUD_ParkInfo_ParkName" translation="{Name}"/>
     <entry key="HUD_ParkInfo_Rating" translation="{Value:float:decimalPlaces=0}"/>
@@ -13780,7 +13787,11 @@
     <entry key="OptionsMenu_Controls_CameraMisc_Command_02" translation="Ride Camera Next"/>
     <entry key="OptionsMenu_Controls_CameraMisc_Command_03" translation="Telecamera di sicurezza - Precedente"/>
     <entry key="OptionsMenu_Controls_CameraMisc_Command_04" translation="Telecamera di sicurezza - Prossima"/>
+<<<<<<< HEAD
     <entry key="OptionsMenu_Controls_CameraMisc_Command_05" translation="Attiva sovrimpressione telecamera di sicurezza"/>
+=======
+    <entry key="OptionsMenu_Controls_CameraMisc_Command_05" translation="Toggle Security Camera Overlay"/>
+>>>>>>> master
     <entry key="OptionsMenu_Controls_Coaster_Edit" translation="Coaster Edit Mode"/>
     <entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Use handles"/>
     <entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece"/>
@@ -14040,16 +14051,30 @@
 	<entry key="ParkManagement_Crime_SecurityCameraAllTimeTheftsSpotted" translation="Furti rilevati (totale)"/>
 	<entry key="ParkManagement_Crime_SecurityCameraAllTimeVandalismSpotted" translation="Atti di vandalismo rilevati (totale)"/>
 	<entry key="ParkManagement_Crime_SecurityCameraCount" translation="Telecamere di sicurezza"/>
+<<<<<<< HEAD
 	<entry key="ParkManagement_Crime_SecurityCameraHeading" translation="Telecamere di sicurezza"/>
+=======
+	<entry key="ParkManagement_Crime_SecurityCameraHeading" translation="Telecamere di sicurezzas"/>
+>>>>>>> master
 	<entry key="ParkManagement_Crime_SecurityCameraMonthlyRunningCosts" translation="Costo di esercizio mensile"/>
 	<entry key="ParkManagement_Crime_SecurityCameraMonthlyTheftsSpotted" translation="Furti rilevati (questo mese)"/>
 	<entry key="ParkManagement_Crime_SecurityCameraMonthlyVandalismSpotted" translation="Atti di vandalismo rilevati (questo mese)"/>
 	<entry key="ParkManagement_Crime_SecurityCameraStatsHeading" translation="Statistiche"/>
+<<<<<<< HEAD
   <entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Posizionare telecamere di sicurezza nel tuo parco aiuta a sorvegliare i comportamenti illeciti.&#10;Le telecamere di sicurezza aiutano il tuo staff ad identificare i delinquenti più facilmente."/>
   <entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
   <entry key="ParkManagement_Crime_SecuritySummary" translation="Puoi assumere la Sicurezza nella voce Staff per evitare e prevenire crimini nel tuo parco.&#10;Inoltre, installare telecamere aiuta lo staff della Sicurezza ad identificare i criminali."/>
 	<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furti"/>
 	<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismi"/>
+=======
+    <entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Posizionare telecamere di sicurezza nel tuo parco aiuta a sorvegliare i comportamenti illeciti.&#10;Le telecamere di sicurezza aiutano il tuo staff ad identificare i delinquenti più facilmente."/>
+    <entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
+	<entry key="ParkManagement_Crime_SecuritySummary" translation="You can hire Security in the Staff tab to help prevent crimes from happening in your park.&#10;In addition, installing security cameras helps your Security staff identify offenders."/>
+	<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furti"/>
+	<entry key="ParkManagement_Crime_SecuritySummary" translation="Puoi assumere la Sicurezza nella voce Staff per evitare e prevenire crimini nel tuo parco.&#10;Inoltre, installare telecamere aiuta lo staff della Sicurezza ad identificare i criminali."/>
+	<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furto"/>
+	<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismo"/>
+>>>>>>> master
 	<entry key="ParkManagement_Crime_VandalismHeading" translation="Cestini; Panchine"/>
 	<entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Statistiche"/>
 	<entry key="ParkManagement_Crime_VandalismSummary" translation="Alcuni visitatori vandalizzano gli oggetti se si sentono molto infelici nel tuo parco.&#10; Queste statistiche aiutano a localizzare aree problematiche e ripararli in fretta.&#10; Ricorda che i tuoi meccanici riparano anche gli oggetti rotti.. "/>

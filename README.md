@@ -23,6 +23,7 @@ Nessun problema, l'abbiamo messa su GitHub apposta, qui tutti possono contribuir
 * Crea una "Pull request" nel caso tu voglia contribuire attivamente alla traduzione - [Qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/pulls).
 
 **Per creare una "Pull request"** devi prima fare il **"fork"**(Pulsante in alto a destra). Una volta completato il "fork" effettua tutte le modifiche che desideri nel tuo repository e infine mandaci la Pull request (New Pull request > compare across forks).
+Puoi controllare gli errori al file di traduzione utilizzando [questo software](http://cdn.gulpeyrex.com/communitytranslations/tools/communitytranslationverifier/publish.htm) (Realizzato da Frontier).
 
 **Non vuoi registrarti o non hai idea di come funzioni GitHub?** 
 Nessun problema, mandaci le tue modifiche su [Facebook](https://www.facebook.com/PlanetCoasterInItaliano/), provvederemo noi ad inserirle.
@@ -36,4 +37,4 @@ Nessun problema, mandaci le tue modifiche su [Facebook](https://www.facebook.com
 * [Vedi altri](https://github.com/ScrappyCocco/PlanetCoasterItalian/graphs/contributors)
 
 ## Ringraziamenti speciali
-* *Vuoto per ora...*
+* RaydenMK
