@@ -198,7 +198,7 @@
 		<entry key="Blueprints_EnigmaBlueprint01" translation="Twister"/>
 		<entry key="Blueprints_EnigmaBlueprint01Desc" translation="Un layout per lo Standup coaster"/>
 		<entry key="Blueprints_Equalizer01" translation="Digitiser"/>
-		<entry key="Blueprints_Equalizer01Desc" translation="Un layout per l' Equalizer Hypercoaster"/>
+		<entry key="Blueprints_Equalizer01Desc" translation="Un layout per l'Equalizer Hypercoaster"/>
 		<entry key="Blueprints_EqualizerBlueprint01" translation="Digitiser"/>
 		<entry key="Blueprints_EqualizerBlueprint01Desc" translation="Un layout per l'Hypercoaster"/>
 		<entry key="Blueprints_ErrorBox_FailedToCreateEditItem" translation="Impossibile modificare il progetto WorkShop."/>
@@ -618,7 +618,7 @@
 		<entry key="Blueprints_TridentBlueprint01" translation="Cortez"/>
 		<entry key="Blueprints_TridentBlueprint01Desc" translation="A layout for the Boomerang coaster"/>
 		<entry key="Blueprints_UFO" translation="UFO"/>
-		<entry key="Blueprints_UFODesc" translation="E' UNA COSA VOLANTE CHE NON SI IDENTIFICA!"/>
+		<entry key="Blueprints_UFODesc" translation="E' UN'OGGETTO VOLANTE NON IDENTIFICATO!"/>
 		<entry key="Blueprints_UpdateBlueprint" translation="Aggiorna un progetto salvato"/>
 		<entry key="Blueprints_VaseCollection" translation="Collezione di Vasi"/>
 		<entry key="Blueprints_VaseCollectionDesc" translation="Una splendida collezione di vasi."/>
@@ -1109,61 +1109,61 @@
 		<entry key="BuildingPartDesc_SF_Stairs_01" translation="Metallo&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Stairs_Short_01" translation="Metallo&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SN_Roof_A_01" translation="Vetroresina&#10;Alto 0.5m&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_ST_ArchRound_Half_Tunnel_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_ArchRound_Tunnel_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Bridge_B_4m" translation="Pietra Muschiosa\n0.6m High\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Bridge_Circ_B_4m" translation="Pietra Muschiosa\n0.6m High\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Bridge_Circ_B_8m" translation="Pietra Muschiosa\n0.6m High\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Bridge_Oct_B_4m" translation="Pietra Muschiosa\n0.6m High\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Bridge_Oct_B_8m" translation="Pietra Muschiosa\n0.6m High\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Bridge_Tunnel_B_4m" translation="Pietra Muschiosa\n0.375m High\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Column_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Half_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Half_Tunnel_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_ArchRound_Half_Tunnel_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_ArchRound_Tunnel_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Bridge_B_4m" translation="Pietra Calcarea\n0.6m High\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Bridge_Circ_B_4m" translation="Pietra Calcarea\n0.6m High\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Bridge_Circ_B_8m" translation="Pietra Calcarea\n0.6m High\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Bridge_Oct_B_4m" translation="Pietra Calcarea\n0.6m High\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Bridge_Oct_B_8m" translation="Pietra Calcarea\n0.6m High\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Bridge_Tunnel_B_4m" translation="Pietra Calcarea\n0.375m High\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Column_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Half_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Half_Tunnel_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Arch_Tunnel_A_4m" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Arch_Tunnel_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Buttress_Oct_B" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Buttress_QtrCirc_B" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Arch_Tunnel_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Buttress_Oct_B" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Buttress_QtrCirc_B" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Buttress_Slim_B" translation="Una colonna di pietra, rinforzo per le basi di un muro."/>
 		<entry key="BuildingPartDesc_ST_CoasterWall_A_01" translation="Arenaria\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_CoasterWall_B" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Column_B_4m_01" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Column_Base_B_4m_01" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Column_Cap_B_4m_01" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Column_Comp_B_4m_01" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_Oct_B_4m" translation="Limestone, Inserti in Legno\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_Oct_B_4m_01" translation="Limestone, Inserti in Legno\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_QtrCirc_B_4m" translation="Limestone, Inserti in Legno\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_QtrCirc_B_4m_01" translation="Limestone, Inserti in Legno\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_TowerOct_B_4m" translation="Limestone, Inserti in Legno\nAlto 3m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_TowerOct_B_4m_01" translation="Limestone, Inserti in Legno\nAlto 3m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_TowerRound_B_4m" translation="Limestone, Inserti in Legno\nAlto 3m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Corbel_TowerRound_B_4m_01" translation="Limestone, Inserti in Legno\nAlto 3m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_CoasterWall_B" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Column_B_4m_01" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Column_Base_B_4m_01" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Column_Cap_B_4m_01" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Column_Comp_B_4m_01" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_Oct_B_4m" translation="Pietra Calcarea, Inserti in Legno\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_Oct_B_4m_01" translation="Pietra Calcarea, Inserti in Legno\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_QtrCirc_B_4m" translation="Pietra Calcarea, Inserti in Legno\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_QtrCirc_B_4m_01" translation="Pietra Calcarea, Inserti in Legno\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_TowerOct_B_4m" translation="Pietra Calcarea, Inserti in Legno\nAlto 3m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_TowerOct_B_4m_01" translation="Pietra Calcarea, Inserti in Legno\nAlto 3m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_TowerRound_B_4m" translation="Pietra Calcarea, Inserti in Legno\nAlto 3m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Corbel_TowerRound_B_4m_01" translation="Pietra Calcarea, Inserti in Legno\nAlto 3m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Corbel_TowerSquare_B_4m" translation="Un parapetto di pietra per torri quadrate con inserti in legno."/>
 		<entry key="BuildingPartDesc_ST_Corbel_TowerSquare_B_4m_01" translation="Un'estensione di pietra per torri quadrate con inserti in legno."/>
 		<entry key="BuildingPartDesc_ST_Dec_Finial_B_01" translation="Un pinnacolo decorativo per il Tetto dei Castello.\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Dec_Rail_Oct_B_4m_90" translation="Una balaustra decorativa per le Mura del Castello.\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Dec_Rail_Radius4_B_4m_90" translation="Una balaustra decorativa per le Mura del Castello.\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Dec_Ridge_B_01" translation="Una balaustra decorativa per il Tetto del Castello.\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_ArchRound_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_ArchRound_Half_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_ArchRound_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_ArchRound_Half_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Arch_4m" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Arch_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Arch_Column_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Arch_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Arch_Column_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Arch_Half_4m" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Arch_Half_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Buttress_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Corbel_B_4m" translation="Limestone, Inserti in Legno\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Corbel_B_4m_01" translation="Limestone, Inserti in Legno\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Arch_Half_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Buttress_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Corbel_B_4m" translation="Pietra Calcarea, Inserti in Legno\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Corbel_B_4m_01" translation="Pietra Calcarea, Inserti in Legno\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Dec_Rail_4m" translation="Una balaustra decorativa per le Mura del Castello.\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Parapet_B_4m" translation="Pietra Muschiosa\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Parapet_B_4m" translation="Pietra Calcarea\nAlto 1m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_ShopFront_A" translation="Arenaria\nAlto 4m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_ST_Merge_ShopFront_B" translation="Pietra Muschiosa\nAlto 4m\nTema Moderno"/>
+		<entry key="BuildingPartDesc_ST_Merge_ShopFront_B" translation="Pietra Calcarea\nAlto 4m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_ST_Merge_Station_Surround_01_A" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Station_Surround_01_B" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Station_Surround_01_B" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Station_Surround_02_A" translation="Arenaria\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Station_Surround_02_B" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Station_Surround_02_B" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_WallTop_A_01" translation="Arenaria\nAlto 1m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_WallTop_A_02" translation="Arenaria\nAlto 1m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_WallTop_A_03" translation="Arenaria\nAlto 4m\nTema Castello"/>
@@ -1173,26 +1173,26 @@
 		<entry key="BuildingPartDesc_ST_Merge_Wall_A_4m_Buttressed" translation="Arenaria\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Wall_A_4m_Buttressed_Wharf" translation="Arenaria\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Wall_A_Windows_4m" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_B_1m" translation="Pietra Muschiosa\nAlto 1m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_1m" translation="Sandstone&#10;Alto 1m&#10;Tema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_B_1m" translation="Pietra Calcarea\nAlto 1m\nTema Moderno"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_1m" translation="Arenaria&#10;Alto 1m&#10;Tema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_2m" translation="Arenaria\nAlto 2m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_4m" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_B_1m" translation="Limestone&#10;Alto 4m&#10;Tema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Octagon_90_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Octagon_90_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Octagon_Arch_90_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_ArchHalf_B" translation="Pietra Muschiosa\nAlto 2.0m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_B_4m" translation="Pietra Muschiosa\nAlto 1m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_Oct_B_4m" translation="Pietra Muschiosa\nAlto 1m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_QtrCirc_B_4m" translation="Pietra Muschiosa\nAlto 1.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_TowerOct_B_4m" translation="Limestone, Inserti in Legno\nAlto 1.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_TowerRoundSlim_B" translation="Pietra Muschiosa\nAlto 1.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_TowerRound_B_4m" translation="Pietra Muschiosa\nAlto 1.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Parapet_TowerSquare_B_4m" translation="Pietra Muschiosa\nAlto 1.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_B_1m" translation="Pietra Calcarea&#10;Alto 4m&#10;Tema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Merge_Wall_Slope_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Octagon_90_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Octagon_90_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Octagon_Arch_90_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_ArchHalf_B" translation="Pietra Calcarea\nAlto 2.0m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_B_4m" translation="Pietra Calcarea\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_Oct_B_4m" translation="Pietra Calcarea\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_QtrCirc_B_4m" translation="Pietra Calcarea\nAlto 1.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_TowerOct_B_4m" translation="Pietra Calcarea, Inserti in Legno\nAlto 1.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_TowerRoundSlim_B" translation="Pietra Calcarea\nAlto 1.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_TowerRound_B_4m" translation="Pietra Calcarea\nAlto 1.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Parapet_TowerSquare_B_4m" translation="Pietra Calcarea\nAlto 1.5m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Radius2Window_A_4m_90" translation="Arenaria\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Radius4Platform_A_90" translation="Arenaria\nAlto 0.5m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Radius4Platform_A_90_Edge" translation="Arenaria\nAlto 0.5m\nTema Castello"/>
@@ -1200,16 +1200,16 @@
 		<entry key="BuildingPartDesc_ST_Radius4Window_A_4m_90" translation="Arenaria\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Radius4_A_2m_90" translation="Arenaria\nAlto 2m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Radius4_A_4m_90" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Radius4_B_2m_90" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Radius4_B_4m_90" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Radius4_B_2m_90" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Radius4_B_4m_90" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Radius4_Buttressed_A_4m_90" translation="Arenaria\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_ArchDec_TowerOct_B_01" translation="Tetto Piastrellato del Minareto\nAlto 6.0m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_ArchDec_TowerOct_B_02" translation="Tetto Piastrellato del Minareto\nAlto 8.0m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Flat_A_4m" translation="Arenaria\nAlto 0.5m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Flat_A_Edge_4m" translation="Arenaria\nAlto 0.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Roof_Flat_B_4m" translation="Pietra Muschiosa\nAlto 0.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Roof_Flat_Oct_B_4m" translation="Pietra Muschiosa\nAlto 0.5m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Roof_Flat_QtrCirc_B_4m" translation="Pietra Muschiosa\nAlto 0.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Roof_Flat_B_4m" translation="Pietra Calcarea\nAlto 0.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Roof_Flat_Oct_B_4m" translation="Pietra Calcarea\nAlto 0.5m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Roof_Flat_QtrCirc_B_4m" translation="Pietra Calcarea\nAlto 0.5m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Minaret_Oct_90_B_01" translation="Tetto Piastrellato del Minareto\nAlto 8.0m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Minaret_Oct_90_B_02" translation="Tetto Piastrellato del Minareto\nAlto 8.0m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Minaret_Oct_90_TrimDown_B" translation="Tetto Piastrellato del Minareto\nAlto 2.0m\nTema Castello"/>
@@ -1235,31 +1235,31 @@
 		<entry key="BuildingPartDesc_ST_Roof_Spire_TowerRound_B" translation="Tetto di Tegole\nAlto 6.0m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Spire_TowerRound_Short_B" translation="Tetto di Tegole\nAlto 6.0m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Roof_Spire_Tower_B" translation="Tetto di Tegole\nAlto 6.0m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Support_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Support_B_4m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerOct_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerOct_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerOct_BaseCap_B_02" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerOct_BaseCap_Qtr_B_02" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRoundSlim_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRoundSlim_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRoundSlim_BaseCap_B_01" translation="Pietra Muschiosa\nAlto 1m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRoundSlim_BaseCap_B_02" translation="Pietra Muschiosa\nAlto 1m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRound_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRound_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_B_01" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_B_02" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_Qtr_B_01" translation="Pietra Muschiosa\nAlto 4m\nSet Mura del Castello"/>
-		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_Qtr_B_02" translation="Pietra Muschiosa\nAlto 2m\nSet Mura del Castello"/>
-		<entry key="BuildingPartDesc_ST_Tower_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Tower_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Support_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Support_B_4m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerOct_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerOct_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerOct_BaseCap_B_02" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerOct_BaseCap_Qtr_B_02" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRoundSlim_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRoundSlim_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRoundSlim_BaseCap_B_01" translation="Pietra Calcarea\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRoundSlim_BaseCap_B_02" translation="Pietra Calcarea\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRound_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRound_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_B_01" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_B_02" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_Qtr_B_01" translation="Pietra Calcarea\nAlto 4m\nSet Mura del Castello"/>
+		<entry key="BuildingPartDesc_ST_TowerRound_BaseCap_Qtr_B_02" translation="Pietra Calcarea\nAlto 2m\nSet Mura del Castello"/>
+		<entry key="BuildingPartDesc_ST_Tower_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Tower_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_WallTop_A_04" translation="Arenaria\nAlto 1m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Wall_GableTri_A_1m" translation="Arenaria\nAlto 1m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Wall_GableTri_A_2m" translation="Arenaria\nAlto 2m\nTema Castello"/>
 		<entry key="BuildingPartDesc_ST_Wall_GableTri_A_4m" translation="Arenaria\nAlto 4m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Wall_GableTri_B_1m" translation="Pietra Muschiosa\nAlto 1m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Wall_GableTri_B_2m" translation="Pietra Muschiosa\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_ST_Wall_GableTri_B_4m" translation="Pietra Muschiosa\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Wall_GableTri_B_1m" translation="Pietra Calcarea\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Wall_GableTri_B_2m" translation="Pietra Calcarea\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_ST_Wall_GableTri_B_4m" translation="Pietra Calcarea\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_WD_Balcony_A_45" translation="Assi di Legno\nAlto 0.5m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_WD_Deck_B" translation="Assi di Legno\nAlto 0.5m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_WD_Frame_A_02" translation="Trave di Legno\nAlto 4m\nTema Moderno"/>
@@ -1726,26 +1726,26 @@
 		<entry key="BuildingPartName_RR_RoofTile_A_09" translation="Tegola Curvata Roof Corner Edge"/>
 		<entry key="BuildingPartName_RR_RoofTile_A_Flat" translation="Stucco Roof Piatto"/>
 		<entry key="BuildingPartName_RR_RoofTile_A_Flat02" translation="Stucco Roof Piatto Rounded"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_2m" translation="Red Tetto di Tegole 2m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_2m_Eave" translation="Red Tetto di Tegole 2m Eave"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_4m" translation="Red Tetto di Tegole 4m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_2m" translation="Red Tetto di Tegole 2m Angolo Interno"/>
-		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_4m" translation="Red Tetto di Tegole 4m Angolo Interno"/>
-		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m" translation="Red Tetto di Tegole 2m Angolo Esterno"/>
-		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m_Eave" translation="Red Tetto di Tegole 2m Corner Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Corner_B_01_4m" translation="Red Tetto di Tegole 4m Angolo Esterno"/>
-		<entry key="BuildingPartName_RR_Roof_Ridge_B_01" translation="Red Tetto di Tegole Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B" translation="Paglia Roof Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Edge" translation="Paglia Roof 4m Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang" translation="Paglia Roof Ridge Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang_Edge" translation="Paglia Roof 4m Overhang Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Roof" translation="Paglia Roof Ridge Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_RoofEnd" translation="Paglia Roof Ridge End Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Tower" translation="Paglia Roof Capped Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRound" translation="Paglia Roof Round Tower"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRoundShort" translation="Paglia Roof Round Tower Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B" translation="Paglia Roof 4m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B_Overhang" translation="Paglia Roof 4m Slope Overhang"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_2m" translation="Tetto Rosso di Tegole 2m Slope"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m Eave"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_4m" translation="Tetto Rosso di Tegole 4m Slope"/>
+		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_2m" translation="Tetto Rosso di Tegole 2m Angolo Interno"/>
+		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_4m" translation="Tetto Rosso di Tegole 4m Angolo Interno"/>
+		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m" translation="Tetto Rosso di Tegole 2m Angolo Esterno"/>
+		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m Corner Eave"/>
+		<entry key="BuildingPartName_RR_Roof_Corner_B_01_4m" translation="Tetto Rosso di Tegole 4m Angolo Esterno"/>
+		<entry key="BuildingPartName_RR_Roof_Ridge_B_01" translation="Tetto Rosso di Tegole Ridge"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B" translation="Tetto di Paglia Ridge"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Edge" translation="Tetto di Paglia 4m Eave"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang" translation="Tetto di Paglia Ridge Overhang"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang_Edge" translation="Tetto di Paglia 4m Overhang Eave"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Roof" translation="Tetto di Paglia Ridge Cap"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_RoofEnd" translation="Tetto di Paglia Ridge End Cap"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Tower" translation="Tetto di Paglia Capped Ridge"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRound" translation="Tetto di Paglia Round Tower"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRoundShort" translation="Tetto di Paglia Round Tower Cap"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B" translation="Tetto di Paglia 4m Slope"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B_Overhang" translation="Tetto di Paglia 4m Slope Overhang"/>
 		<entry key="BuildingPartName_RR_Roof_Tile_B" translation="Square Tile Roof Double Curve"/>
 		<entry key="BuildingPartName_RR_Roof_Tile_B_Edge" translation="Square Tile Roof Eave"/>
 		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang" translation="Square Tile Roof Double Curve Overhang"/>
@@ -1828,7 +1828,7 @@
 		<entry key="BuildingPartName_ST_Merge_ShopFront_B" translation="Muro per Castello 4m Fronte Negozio"/>
 		<entry key="BuildingPartName_ST_Merge_Station_Surround_01_A" translation="Muro in arenaria 4m Rivestimento Stazione 1"/>
 		<entry key="BuildingPartName_ST_Merge_Station_Surround_01_B" translation="Muro per Castello 4m Rivestimento Stazione 1"/>
-		<entry key="BuildingPartName_ST_Merge_Station_Surround_02_A" translation="Sandstone Wall 4m Rivestimento Stazione 2"/>
+		<entry key="BuildingPartName_ST_Merge_Station_Surround_02_A" translation="Muro Arenaria 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_ST_Merge_Station_Surround_02_B" translation="Castle Wall 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_ST_Merge_WallTop_A_01" translation="Merlatura superiore per Muro in arenaria"/>
 		<entry key="BuildingPartName_ST_Merge_WallTop_A_02" translation="Parte superiore Muro in arenaria"/>
@@ -3233,87 +3233,87 @@
 		<entry key="BuildingPartDesc_HOL_Merge_Arch" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_ArchHalf" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Doorway" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Gingerbread&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Gingerbread&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Gingerbread&#10;2m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Gingerbread&#10;4m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;2m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;4m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Gingerbread&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Gingerbread&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero&#10;Alto 0.6m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Gingerbread&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Gingerbread&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartName_HOL_ArchHalf_Tunnel" translation="Pan di Zenzero - Mezzo Tunnel con Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Arch_Tunnel" translation="Pan di Zenzero - Tunnel con Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_Arch" translation="Pan di Zenzero - Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_ArchHalf" translation="Pan di Zenzero - Mezzo Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_Doorway" translation="Pan di Zenzero - Muro da 4m con Bucatura per Porta"/>
-		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Gingerbread Wall 4m Shopfront"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Gingerbread Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Gingerbread Wall 4m Station Surround 2"/>
+		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Wall 4m Shopfront"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Wall 4m Station Surround 1"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Wall 4m Station Surround 2"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_1m" translation="Pan di Zenzero - Muro da 1m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_2m" translation="Pan di Zenzero - Muro da 2m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m" translation="Pan di Zenzero - Muro da 4m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero - Muro da 4m con Bucatura ad Arco"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero - Muro da 4m con Bucatura Circolare"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero - Muro da 4m con Bucatura a Cuore"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Gingerbread Wall 1m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Gingerbread Wall 2m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Gingerbread Wall 4m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Gingerbread Wall 4m Slope with Circle shape"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Gingerbread Wall 4m Slope with Heart shape"/>
-		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Gingerbread Curved Wall 2m"/>
-		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Gingerbread Curved Wall 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Gingerbread Roof Ridge"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Gingerbread Roof Ridge Dutch Style"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Gingerbread Roof Ridge Overhang"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero Wall 1m Slope"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero Wall 2m Slope"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero Wall 4m Slope"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero Wall 4m Slope with Circle shape"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero Wall 4m Slope with Heart shape"/>
+		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Pan di Zenzero Curved Wall 2m"/>
+		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Pan di Zenzero Curved Wall 4m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Pan di Zenzero Roof Ridge"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Pan di Zenzero Roof Ridge Dutch Style"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_1m" translation="Pan di Zenzero - Colmo del Tetto da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_2m" translation="Pan di Zenzero - Colmo del Tetto da 2m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Gingerbread Flat Roof"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Gingerbread Quarter Circle Flat Roof"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Gingerbread Roof Ridge Overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Pan di Zenzero Tetto Piatto"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero Quarter Circle Tetto Piatto"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 2m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero - Tetto a Quarto di Cono"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Gingerbread Roof Slope"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Pan di Zenzero Roof Slope"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero - Tetto Inclinato da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero - Tetto Inclinato da 2m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Gingerbread Roof Tower Top"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Gingerbread Wall 1m Gable End"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Gingerbread Wall 2m Gable End"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Gingerbread Wall 4m Gable End"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Pan di Zenzero Roof Tower Top"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Pan di Zenzero Wall 1m Gable End"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Pan di Zenzero Wall 2m Gable End"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Pan di Zenzero Wall 4m Gable End"/>
 		<!--C1_BuildingParts_Attach-->
 		<entry key="BuildingPartDesc_HOL_Bread_Door" translation="Pan di Zenzero&#10;Set Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Door_02" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Heart" translation="Pan di Zenzero&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Gingerbread&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Door_01" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_02" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_03" translation="Glassa&#10;Tema Festivo"/>
@@ -3348,9 +3348,9 @@
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile_Group" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_ZigZag" translation="Glassa&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Gingerbread&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_StreetLamp" translation="Il dolce profumo dei festeggiamenti.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBin" translation="A così tanti dolci corrispondono tante cartacce...&#10;Tema Festivo"/>
@@ -3368,10 +3368,10 @@
 		<entry key="BuildingPartName_HOL_Bread_Door" translation="Pan di Zenzero - Ritaglio a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Bread_Door_02" translation="Pan di Zenzero - Ritaglio a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Bread_Heart" translation="Pan di Zenzero - Ritaglio a Forma di Cuore"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Gingerbread 1m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Gingerbread 2m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Gingerbread 4m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Chimney_01" translation="Gingerbread Chimney"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Chimney_01" translation="Pan di Zenzero Chimney"/>
 		<entry key="BuildingPartName_HOL_Door_01" translation="Pan di Zenzero  - Glassa a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Door_02" translation="Pan di Zenzero  - Glassa a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Door_03" translation="Pan di Zenzero  - Glassa a Forma di Porta 3"/>
@@ -3406,9 +3406,9 @@
 		<entry key="BuildingPartName_HOL_IcingDec_Tile" translation="Pan di Zenzero - Glassa a Forma di Piastrella a Ventaglio Singola"/>
 		<entry key="BuildingPartName_HOL_IcingDec_Tile_Group" translation="Pan di Zenzero - Glassa a Forma di Piastrelle a Ventaglio"/>
 		<entry key="BuildingPartName_HOL_IcingDec_ZigZag" translation="Pan di Zenzero - Glassa a Forma di Zigzag da 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Gingerbread Roof Eave corner 1m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Gingerbread Roof Eave corner 2m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Gingerbread 4m Roof Eave 1m overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Roof Eave corner 1m overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Roof Eave corner 2m overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Roof Eave 1m overhang"/>
 		<entry key="BuildingPartName_HOL_StreetLamp" translation="Lampioncino a Candelina"/>
 		<entry key="BuildingPartName_HOL_SweetBench" translation="Panchina Festiva Dolce"/>
 		<entry key="BuildingPartName_HOL_SweetBin" translation="Cestino Festivo"/>
@@ -3968,74 +3968,74 @@
 		<entry key="TagRegion_RN_Arctic" translation="Artico"/>
 		<entry key="Theme_HOL_Festive" translation="Festivo"/>
 		<!--C1_Terrain-->
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic1" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic2" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic3" translation="Mud"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic4" translation="Snow"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic5" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic6" translation="Snow"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Snow and Ice"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Mud"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic1" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic2" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic3" translation="Fango"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic4" translation="Neve"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic5" translation="Erba"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic6" translation="Neve"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Neve e Ghiaccio"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Gingerbread&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Gingerbread&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Gingerbread&#10;2m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Gingerbread&#10;4m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Gingerbread&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Gingerbread&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Gingerbread&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Gingerbread&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Gingerbread&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;2m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;4m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="A flag with a chequered past."/>
-		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Gingerbread Wall 4m Shopfront"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Gingerbread Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Gingerbread Wall 4m Station Surround 2"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Gingerbread Wall 1m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Gingerbread Wall 2m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Gingerbread Wall 4m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Gingerbread Wall 4m Slope with Circle shape"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Gingerbread Wall 4m Slope with Heart shape"/>
-		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Gingerbread Curved Wall 2m"/>
-		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Gingerbread Curved Wall 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Gingerbread Roof Ridge"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Gingerbread Roof Ridge Dutch Style"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Gingerbread Roof Ridge Overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Gingerbread Flat Roof"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Gingerbread Quarter Circle Flat Roof"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Gingerbread Roof Ridge Overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Gingerbread Roof Slope"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Gingerbread Roof Tower Top"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Gingerbread Wall 1m Gable End"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Gingerbread Wall 2m Gable End"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Gingerbread Wall 4m Gable End"/>
+		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Wall 4m Shopfront"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Wall 4m Station Surround 1"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Wall 4m Station Surround 2"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero Wall 1m Slope"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero Wall 2m Slope"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero Wall 4m Slope"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero Wall 4m Slope with Circle shape"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero Wall 4m Slope with Heart shape"/>
+		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Pan di Zenzero Curved Wall 2m"/>
+		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Pan di Zenzero Curved Wall 4m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Pan di Zenzero Roof Ridge"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Pan di Zenzero Roof Ridge Dutch Style"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Pan di Zenzero Tetto Piatto"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero Quarter Circle Tetto Piatto"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Pan di Zenzero Roof Slope"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Pan di Zenzero Roof Tower Top"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Pan di Zenzero Wall 1m Gable End"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Pan di Zenzero Wall 2m Gable End"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Pan di Zenzero Wall 4m Gable End"/>
 		<entry key="BuildingPartName_PC_Flags_Single_Small" translation="Race Flag"/>
 		<!--C2_BuildingParts_Attach-->
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Gingerbread&#10;Holiday Set"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Gingerbread 1m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Gingerbread 2m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Gingerbread 4m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Chimney_01" translation="Gingerbread Chimney"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Gingerbread Roof Eave corner 1m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Gingerbread Roof Eave corner 2m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Gingerbread 4m Roof Eave 1m overhang"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Chimney_01" translation="Pan di Zenzero Chimney"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Roof Eave corner 1m overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Roof Eave corner 2m overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Roof Eave 1m overhang"/>
 		<!--C2_Career-->
 		<entry key="FanfareCareerSetUnlocked_BEEF" translation="Chief Beef and the Hotdog Squad have an opening for a new recruit."/>
 		<entry key="FanfarePackCompletion_BEEF_1" translation="You collected all the Bronze stars for 'Chief Beef's Meaty Challenge'."/>
@@ -6072,12 +6072,12 @@
 		<entry key="OptionsMenu_DLCLabel" translation="Ti manca il DLC necessario a salvare questo parco!"/>
 		<entry key="OptionsMenu_DLCTitle" translation="DLC Richiesto"/>
 		<entry key="PERCENTAGE" translation="{Value:float:decimalPlaces=0}%"/>
-		<entry key="Redo" translation="Rifai"/>
+		<entry key="Redo" translation="Ripeti"/>
 		<entry key="Refurbishing" translation="Rinnovando"/>
 		<entry key="SECOND" translation="{Value:float:decimalPlaces=0} s"/>
 		<entry key="SECONDS_DP" translation="{Value:float:decimalPlaces=1} s"/>
-		<entry key="SPEED_KPH" translation="{Value:float:decimalPlaces=0} kph"/>
-		<entry key="SPEED_KPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} kph/s"/>
+		<entry key="SPEED_KPH" translation="{Value:float:decimalPlaces=0} kmh"/>
+		<entry key="SPEED_KPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} kmh/s"/>
 		<entry key="SPEED_MPH" translation="{Value:float:decimalPlaces=0} mph"/>
 		<entry key="SPEED_MPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} mph/s"/>
 		<entry key="STRING_LITERAL" translation="{Value}"/>
@@ -6102,7 +6102,7 @@
 		<entry key="TransportRidePrefix" translation="Trasporto"/>
 		<entry key="TripleDot" translation="..."/>
 		<entry key="Undo" translation="Annulla Modifica"/>
-		<entry key="UnsuitableTerrainForPath" translation="Terreno malformato per un sentiero"/>
+		<entry key="UnsuitableTerrainForPath" translation="Terreno sconnesso per un sentiero"/>
 		<entry key="UnsuitableTerrainForPathConnection" translation="Terreno troppo sconnesso per collegamento al sentiero"/>
 		<entry key="VALUE" translation="{Value:float:decimalPlaces=0}"/>
 		<entry key="VeryHigh" translation="Molto Alto"/>
@@ -6114,7 +6114,7 @@
 		<!--GameMenu-->
 		<entry key="MainMenu_Build" translation="Crea"/>
 		<entry key="MainMenu_Build_Coasters" translation="Coasters"/>
-		<entry key="MainMenu_Build_Facilities" translation="Strutture"/>
+		<entry key="MainMenu_Build_Facilities" translation="Edifici"/>
 		<entry key="MainMenu_Build_FlatRides" translation="Altre Attrazioni"/>
 		<entry key="MainMenu_Build_Paths" translation="Sentieri"/>
 		<entry key="MainMenu_Build_Rides" translation="Attrazioni"/>
@@ -12054,10 +12054,10 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Elimina pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Seleziona pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Linea retta on/off"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva blocca angoli"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per piazzare il prossimo pezzo di tracciato."/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sul Pezzo Piazzato"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalita' modifica Coaster"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalita' Modifica Coaster"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Roller coaster triggers allow you to trigger animated objects and special effects when a roller coaster car reaches a specified point on the track."/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Roller Coaster Triggers"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
@@ -12076,11 +12076,11 @@
 		<entry key="HUD_HelpPopup_MouseButtonLeft" translation="[MouseLeft]"/>
 		<entry key="HUD_HelpPopup_MouseButtonMiddle" translation="[MouseMiddle]"/>
 		<entry key="HUD_HelpPopup_MouseButtonRight" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_MultiPlacement_Title" translation="Placement Controls"/>
+		<entry key="HUD_HelpPopup_MultiPlacement_Title" translation="Controlli Posizionamento"/>
 		<entry key="HUD_HelpPopup_MultiSelect_Command_01" translation="Seleziona"/>
 		<entry key="HUD_HelpPopup_MultiSelect_Command_02" translation="Annulla/Chiudi"/>
 		<entry key="HUD_HelpPopup_MultiSelect_Command_03" translation="Aggiungi/Rimuovi Selezione"/>
-		<entry key="HUD_HelpPopup_MultiSelect_Description" translation="Multi-Select allows you to select multiple items for editing or blueprint creation. Drag-select over the items you want, or hold Ctrl and select or de-select them individually."/>
+		<entry key="HUD_HelpPopup_MultiSelect_Description" translation="La Selezione Multipla ti permette di selezionare più oggetti per modificare o creare un progetto. Trascina la Selezione sugli oggetti che vuoi, oppure tieni premuto Ctrl e selezionali o deselezionali individualmente."/>
 		<entry key="HUD_HelpPopup_MultiSelect_Title" translation="Controlli Base"/>
 		<entry key="HUD_HelpPopup_Paths_Command_01" translation="Posiziona Sentiero"/>
 		<entry key="HUD_HelpPopup_Paths_Command_02" translation="Elimina Sentiero"/>
@@ -12092,7 +12092,7 @@
 		<entry key="HUD_HelpPopup_Paths_Command_08" translation="Regola altezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_09" translation="Resetta altezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_10" translation="Disabilita Giunti Sentiero"/>
-		<entry key="HUD_HelpPopup_Paths_Command_11" translation="Linea retta on/off"/>
+		<entry key="HUD_HelpPopup_Paths_Command_11" translation="Attiva/Disattiva blocca angoli"/>
 		<entry key="HUD_HelpPopup_Paths_Command_12" translation="Riduci Lunghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_13" translation="Aumenta Lunghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_14" translation="Riduci Larghezza"/>
@@ -12139,52 +12139,52 @@
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_04" translation="Alza/Abbassa"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_05" translation="Blocca su assi di superficie"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Description" translation="Usa la griglia per creare la struttur delle costruzioni, quindi decorale con gli oggetti scenario. Usa la tastiera per attivare rotazione e i controlli altezza."/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_03" translation="Rotate"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_04" translation="Rotate 90-degrees"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_05" translation="Raise/Lower"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_06" translation="Lock To Surface Axes"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_07" translation="Rotation Snap On/Off"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_08" translation="Reset Height"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_09" translation="Lock To Surface Axes"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_10" translation="Align to Surface On/Off"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Description" translation="Position objects with your cursor before placing them in the park. Use the keyboard to activate rotation and height controls."/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_PathExtra_Description" translation="Path Extras can make your park a nicer place for guests. Use your cursor to place Path Extras on or along the edges of your paths, so that guests can use them."/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Select Piece"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Multi-Select"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Delete Selection"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_04" translation="Add/Remove Selection (Toggle)"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Title" translation="Edit Building Controls"/>
-		<entry key="HUD_HelpPopup_Select_Command_01" translation="Select"/>
-		<entry key="HUD_HelpPopup_Select_Command_02" translation="Cancel/Close"/>
-		<entry key="HUD_HelpPopup_Select_Command_03" translation="Pan Camera"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Title" translation="Controlli Posizionamento"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_01" translation="Conferma Posizionamento"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_02" translation="Annulla Posizionamento"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_03" translation="Ruota"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_04" translation="Ruota di 90 gradi"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_05" translation="Alza/Abbassa"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_06" translation="Blocca su Assi di Superficie"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_07" translation="Attiva/Disattiva blocca angoli"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_08" translation="Resetta Altezza"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_09" translation="Blocca su Assi di Superficie"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_10" translation="Attiva/Disattiva Allinea alla Superfice"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Description" translation="Posiziona gli oggetti con il cursore prima di piazzarli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Controlli Posizionamento"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_PathExtra_Description" translation="Gli Extra Sentieri possono rendere il tuo parco un posto più bello per i visitatori. Usa il cursore per posizionare gli Extra sopra o lungo gli angoli dei tuoi sentieri, così che i visitatori possano usarli."/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Seleziona Elemento"/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Selezione Multipla"/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Cancella Selezione"/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_04" translation="Aggiungi/Rimuovi Selezione (Interruttore)"/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Title" translation="Modifica Controlli Costruzione"/>
+		<entry key="HUD_HelpPopup_Select_Command_01" translation="Seleziona"/>
+		<entry key="HUD_HelpPopup_Select_Command_02" translation="Annulla/Chiudi"/>
+		<entry key="HUD_HelpPopup_Select_Command_03" translation="Allontana Camera"/>
 		<entry key="HUD_HelpPopup_Select_Command_04" translation="Zoom Camera"/>
-		<entry key="HUD_HelpPopup_Select_Command_05" translation="Rotate Camera"/>
-		<entry key="HUD_HelpPopup_Select_Command_06" translation="Show/Hide Help"/>
-		<entry key="HUD_HelpPopup_Select_Command_07" translation="Freelook Camera On/Off"/>
-		<entry key="HUD_HelpPopup_Select_Command_08" translation="Freelook Camera Speed"/>
-		<entry key="HUD_HelpPopup_Select_Command_09" translation="Raise Freelook Camera"/>
-		<entry key="HUD_HelpPopup_Select_Command_10" translation="Lower Freelook Camera"/>
-		<entry key="HUD_HelpPopup_Select_Command_11" translation="Simulation Speed"/>
-		<entry key="HUD_HelpPopup_Select_Command_12" translation="Pause Simulation"/>
-		<entry key="HUD_HelpPopup_Select_Command_13" translation="Undo"/>
-		<entry key="HUD_HelpPopup_Select_Command_14" translation="Redo"/>
-		<entry key="HUD_HelpPopup_Select_Command_15" translation="Save Park Menu"/>
-		<entry key="HUD_HelpPopup_Select_Description" translation="Select an item in the park to view its info panel and management options. Open the menus at the bottom of the screen to start building things or view more options."/>
+		<entry key="HUD_HelpPopup_Select_Command_05" translation="Ruota Camera"/>
+		<entry key="HUD_HelpPopup_Select_Command_06" translation="Mostra/Nascondi Aiuto"/>
+		<entry key="HUD_HelpPopup_Select_Command_07" translation="Visuale Libera On/Off"/>
+		<entry key="HUD_HelpPopup_Select_Command_08" translation="Velocità Visuale Libera"/>
+		<entry key="HUD_HelpPopup_Select_Command_09" translation="Alza Visuale Libera"/>
+		<entry key="HUD_HelpPopup_Select_Command_10" translation="Abbassa Visuale Libera"/>
+		<entry key="HUD_HelpPopup_Select_Command_11" translation="Velocità Simulazione"/>
+		<entry key="HUD_HelpPopup_Select_Command_12" translation="Pausa Simulazione"/>
+		<entry key="HUD_HelpPopup_Select_Command_13" translation="Annulla Modifica"/>
+		<entry key="HUD_HelpPopup_Select_Command_14" translation="Ripeti"/>
+		<entry key="HUD_HelpPopup_Select_Command_15" translation="Menù Salvataggio Parco"/>
+		<entry key="HUD_HelpPopup_Select_Description" translation="Seleziona un oggetto nel parco per vedere il suo pannello informazioni e le opzioni di gestione. Apri i menù in basso allo schermo per iniziare a costruire o vedere più opzioni."/>
 		<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
-		<entry key="HUD_HelpPopup_StaffPlacement_Command_01" translation="Place Staff Member"/>
-		<entry key="HUD_HelpPopup_StaffPlacement_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Position staff with your cursor before placing them in the park."/>
-		<entry key="HUD_HelpPopup_StaffPlacement_Title" translation="Staff Placement Controls"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_01" translation="Apply Brush"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Apply Inverse Brush\n(Push/Pull Brushes)"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_03" translation="Brush Intensity"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_04" translation="Brush Size"/>
-		<entry key="HUD_HelpPopup_Terrain_Description" translation="Change the landscape of your park with these creative tools. Select from a variety of Sculpting, Painting, and Water brushes, then apply in the area around your cursor."/>
-		<entry key="HUD_HelpPopup_Terrain_Title" translation="Edit Terrain Controls"/>
+		<entry key="HUD_HelpPopup_StaffPlacement_Command_01" translation="Posiziona Membro dello Staff"/>
+		<entry key="HUD_HelpPopup_StaffPlacement_Command_02" translation="Annulla Posizionamento"/>
+		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di piazzarlo nel parco."/>
+		<entry key="HUD_HelpPopup_StaffPlacement_Title" translation="Controlli Posizionamento Staff"/>
+		<entry key="HUD_HelpPopup_Terrain_Command_01" translation="Applica Pennello"/>
+		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Applica Pennello Inverso\n(Spingi/Tira Pennelli)"/>
+		<entry key="HUD_HelpPopup_Terrain_Command_03" translation="Intensità Pennello"/>
+		<entry key="HUD_HelpPopup_Terrain_Command_04" translation="Misura Pennello"/>
+		<entry key="HUD_HelpPopup_Terrain_Description" translation="Cambia il paesaggio del tuo parco con questi strumenti creativi. Seleziona da una varietà di pennelli per scolpire, dipingere e aggiungere acqua, quindi applica nell'area attorno al cursore."/>
+		<entry key="HUD_HelpPopup_Terrain_Title" translation="Modifica Controlli Terreno"/>
 		<entry key="HUD_HelpPopup_TransportEdit_Description" translation="Transport Rides allow you to place multiple stations, each providing guests with a new boarding point. Use the in-world buttons to manipulate the track with precision control. Left click away from the ride to place the next track piece."/>
 		<entry key="HUD_HelpPopup_TransportEdit_Title" translation="Transport Ride Edit Controls"/>
 		<entry key="HUD_MangementMenu_Manage" translation="Gestione Parco"/>
@@ -12220,8 +12220,7 @@
 		<entry key="HUD_NotificationsParkManagement" translation="Gestione Parco"/>
 		<entry key="HUD_NotificationsRides" translation="Attrazioni"/>
 		<entry key="HUD_NotificationsSecurity" translation="Sicurezza"/>
-		<entry key="HUD_NotificationsSequence" translation="Seqeunces"/>
-		<entry key="HUD_NotificationsSequence" translation="Sequenze"/>
+		<entry key="HUD_NotificationsSequence" translation="Sequenza"/>
 		<entry key="HUD_NotificationsSettings" translation="Impostazioni Notifiche"/>
 		<entry key="HUD_NotificationsStaff" translation="Staff"/>
 		<entry key="HUD_NotificationsStalls" translation="Negozi e Strutture"/>
@@ -12290,7 +12289,7 @@
 		<entry key="HelperTooltips_ExitFromGroup" translation="Chiudi {NAME}"/>
 		<entry key="HelperTooltips_PickGrid" translation="Allinea agli oggetti"/>
 		<entry key="HelperTooltips_Rotate" translation="Ruota [{#LogicalButton.Editors_RotateObject#}]"/>
-		<entry key="HelperTooltips_StepRotation" translation="Angle Snap"/>
+		<entry key="HelperTooltips_StepRotation" translation="Blocca Angoli"/>
 		<!--InWorldPopUp-->
 		<entry key="PopUp_AddObjectToTrigger" translation="Aggiungi Oggetto da Innescare"/>
 		<entry key="PopUp_AddTrigger" translation="Aggiungi Innesco"/>
@@ -12589,7 +12588,7 @@
 		<entry key="PopUp_Rides_StationList" translation="{RIDENAME} - {STATUS}"/>
 		<entry key="PopUp_Rides_ViaName" translation="via {RIDENAME}"/>
 		<entry key="PopUp_SelectObjectToAdd" translation="Select Object to Add"/>
-		<entry key="PopUp_Sequence" translation="Sequence"/>
+		<entry key="PopUp_Sequence" translation="Sequenza"/>
 		<entry key="PopUp_Sequence_AddAnimation" translation="Add Animation"/>
 		<entry key="PopUp_Sequence_DeleteDisabled" translation="There must be at least 1 operation in the sequence"/>
 		<entry key="PopUp_Sequence_EditorTitle" translation="Ride Sequence"/>
@@ -12746,9 +12745,9 @@
 		<entry key="InfoPanel_Shop_Sync" translation="Usa gli stessi prezzi ed extras per i negozi di questo tipo."/>
 		<entry key="InfoPanel_Shop_Type" translation="Tipo di negozio"/>
 		<!--InfoPanel_FlatRide-->
-		<entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Vista Vagone Frontale"/>
-		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Vista Vagone Inversa"/>
-		<entry key="InfoPanel_FlatRide_CinematicCamera" translation="Vista Cinematica"/>
+		<entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Visuale Vagone Frontale"/>
+		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Visuale Vagone Inversa"/>
+		<entry key="InfoPanel_FlatRide_CinematicCamera" translation="Visuale Cinematica"/>
 		<entry key="InfoPanel_FlatRide_Entrance" translation="Entrata"/>
 		<entry key="InfoPanel_FlatRide_Exit" translation="Uscita"/>
 		<entry key="InfoPanel_FlatRide_FlexiColour" translation="Colore attrazione"/>
@@ -13721,65 +13720,65 @@
 		<entry key="ObjectBrowser_Water" translation="Giostre d'acqua"/>
 		<!--OptionsMenu-->
 		<entry key="OptionsMenu_Audio" translation="Audio"/>
-		<entry key="OptionsMenu_Audio_Mute" translation="Muta"/>
-		<entry key="OptionsMenu_Audio_MuteAllEntry" translation="Muta Tutto"/>
-		<entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Muta Suoni Interfaccia"/>
-		<entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Muta Musica Menu'"/>
-		<entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Muta Musica Attrazioni"/>
-		<entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Muta Effetti Sonori"/>
-		<entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Muta la Radio dei negozi"/>
-		<entry key="OptionsMenu_Audio_MuteSoundtrackEntry" translation="Muta Colonna Sonora"/>
+		<entry key="OptionsMenu_Audio_Mute" translation="Silenzia"/>
+		<entry key="OptionsMenu_Audio_MuteAllEntry" translation="SilenziaTutto"/>
+		<entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Silenzia Suoni Interfaccia"/>
+		<entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Silenzia Musica Menu'"/>
+		<entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Silenzia Musica Attrazioni"/>
+		<entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Silenzia Effetti Sonori"/>
+		<entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Silenzia la Radio dei Negozi"/>
+		<entry key="OptionsMenu_Audio_MuteSoundtrackEntry" translation="Silenzia Colonna Sonora"/>
 		<entry key="OptionsMenu_Audio_ParkMusic" translation="Musica del Parco"/>
 		<entry key="OptionsMenu_Audio_SFX" translation="Effetti Sonori"/>
 		<entry key="OptionsMenu_Audio_Soundtrack" translation="Colonna Sonora"/>
-		<entry key="OptionsMenu_Audio_SoundtrackInPause" translation="Musica solo in modalità pausa"/>
+		<entry key="OptionsMenu_Audio_SoundtrackInPause" translation="Musica solo in Modalità Pausa"/>
 		<entry key="OptionsMenu_Audio_Volume" translation="Volume"/>
 		<entry key="OptionsMenu_Audio_Volume_Entry" translation="Regola Volume"/>
 		<entry key="OptionsMenu_Camera" translation="Visuale"/>
-		<entry key="OptionsMenu_CameraType" translation="Type"/>
-		<entry key="OptionsMenu_CameraType_Advanced" translation="Advanced"/>
+		<entry key="OptionsMenu_CameraType" translation="Tipo"/>
+		<entry key="OptionsMenu_CameraType_Advanced" translation="Avanzata"/>
 		<entry key="OptionsMenu_CameraType_Debug" translation="Debug"/>
-		<entry key="OptionsMenu_CameraType_Freelock" translation="Freelock"/>
-		<entry key="OptionsMenu_CameraType_Normal" translation="Normal"/>
-		<entry key="OptionsMenu_Camera_FieldOfView" translation="FoV"/>
-		<entry key="OptionsMenu_Camera_FixedTilt" translation="Fixed Tilt"/>
-		<entry key="OptionsMenu_Camera_FocusOnCursor" translation="Focus On Cursor"/>
-		<entry key="OptionsMenu_Camera_Forward" translation="Camera forward"/>
-		<entry key="OptionsMenu_Camera_InvertPan" translation="Invert pan"/>
-		<entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Invert swivel pitch"/>
+		<entry key="OptionsMenu_CameraType_Freelock" translation="Libera"/>
+		<entry key="OptionsMenu_CameraType_Normal" translation="Normale"/>
+		<entry key="OptionsMenu_Camera_FieldOfView" translation="Punto di Vista"/>
+		<entry key="OptionsMenu_Camera_FixedTilt" translation="Inclinazione Fissa"/>
+		<entry key="OptionsMenu_Camera_FocusOnCursor" translation="Centra su Cursore"/>
+		<entry key="OptionsMenu_Camera_Forward" translation="Visuale avanti"/>
+		<entry key="OptionsMenu_Camera_InvertPan" translation="Inverti panoramica"/>
+		<entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Inverti pendenza rotazione"/>
 		<entry key="OptionsMenu_Camera_KeySensitivity" translation="Sensibilita' Tasti"/>
-		<entry key="OptionsMenu_Camera_Left" translation="Camera left"/>
+		<entry key="OptionsMenu_Camera_Left" translation="Visuale sinistra"/>
 		<entry key="OptionsMenu_Camera_MouseSensitivity" translation="Sensibilita' Mouse"/>
-		<entry key="OptionsMenu_Camera_Pan" translation="Camera pan"/>
-		<entry key="OptionsMenu_Camera_Right" translation="Camera right"/>
-		<entry key="OptionsMenu_Camera_Speed" translation="Camera speed"/>
+		<entry key="OptionsMenu_Camera_Pan" translation="Visuale panoramica"/>
+		<entry key="OptionsMenu_Camera_Right" translation="Visuale destra"/>
+		<entry key="OptionsMenu_Camera_Speed" translation="Velocità Visuale"/>
 		<entry key="OptionsMenu_Camera_Speed_Fast" translation="Veloce"/>
-		<entry key="OptionsMenu_Camera_Speed_Medium" translation="Medio"/>
-		<entry key="OptionsMenu_Camera_Speed_Slow" translation="Lento"/>
-		<entry key="OptionsMenu_Camera_Up" translation="Camera up"/>
+		<entry key="OptionsMenu_Camera_Speed_Medium" translation="Media"/>
+		<entry key="OptionsMenu_Camera_Speed_Slow" translation="Lenta"/>
+		<entry key="OptionsMenu_Camera_Up" translation="Visuale su"/>
 		<entry key="OptionsMenu_Camera_WheelSensitivity" translation="Sensibilita' Rotella"/>
-		<entry key="OptionsMenu_ColorPickerPreview" translation="Preview"/>
+		<entry key="OptionsMenu_ColorPickerPreview" translation="Anteprima"/>
 		<entry key="OptionsMenu_ColorPickerTitle" translation="Colore Interfaccia"/>
 		<entry key="OptionsMenu_Controls" translation="Controlli"/>
-		<entry key="OptionsMenu_ControlsGlobalSettings" translation="Global Settings"/>
-		<entry key="OptionsMenu_ControlsGlobalVerticalGrid" translation="Global Vertical Snapping"/>
-		<entry key="OptionsMenu_ControlsGlobalVerticalGridHint" translation="Buildings and rides are limited to 1 metre vertical heights. Makes it easier to align buildings, paths and coaster stations."/>
-		<entry key="OptionsMenu_ControlsHeading" translation="Controls"/>
-		<entry key="OptionsMenu_Controls_Building_Edit" translation="Building Edit Mode"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Place Piece\nSelect Piece\nSelect Another Building"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Cancel Placement\nDelete Piece under cursor"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Select Multiple Pieces"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Rotate (Attachments &amp; Decorations)"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Rotate 90-degrees"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Toggle Advanced Move/Rotate\n(Attachments &amp; Decorations)"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Adjust Vertical Height"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Reset Vertical Height"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Lock to Surface Axes"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_10" translation="Snap Attachment/Decoration to Wall Piece Centre"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_11" translation="Toggle Angle Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_12" translation="Toggle Align to Surface On/Off"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_13" translation="Toggle Flatten Terrain On/Off"/>
-		<entry key="OptionsMenu_Controls_CameraMisc" translation="Miscellaneous Camera Controls"/>
+		<entry key="OptionsMenu_ControlsGlobalSettings" translation="Impostazioni Globali"/>
+		<entry key="OptionsMenu_ControlsGlobalVerticalGrid" translation="Allineamento Altezza Globale"/>
+		<entry key="OptionsMenu_ControlsGlobalVerticalGridHint" translation="Le costruzioni e le attrazioni sono limitate ad un metro di altezza verticale. Rende più semplice allineare edifici, sentieri e stazioni dei costers."/>
+		<entry key="OptionsMenu_ControlsHeading" translation="Controlli"/>
+		<entry key="OptionsMenu_Controls_Building_Edit" translation="Modalità Modifica Edifici"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Posiziona Elemento\nSeleziona Elemento\nSeleziona un altro edificio"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Annulla Posizionamentot\nCancella Elemento sotto il cursore"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Seleziona più Elementi"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Ruota (Attachments &amp; Decorations)"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Ruota di 90 gradi"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Attiva Movimento Avanzato/Ruota\n(Attachments &amp; Decorations)"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Regola Altezza Verticale"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Resetta Altezza Verticale"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Blocca su Assi di Superficie"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_10" translation="Posiziona Accessori/Decorazioni al centro dell'elemento Muro"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_11" translation="Attiva/Disattiva blocco angoli"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_12" translation="Attiva/Disattiva Allinea alla Superficie"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_13" translation="Attiva/Disattiva Appiattisci Terreno"/>
+		<entry key="OptionsMenu_Controls_CameraMisc" translation="Controlli Visuale Vari"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_01" translation="Ride Camera Previous"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_02" translation="Ride Camera Next"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_03" translation="Telecamera di sicurezza - Precedente"/>
@@ -13858,10 +13857,10 @@
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_04" translation="Ruota di 90 gradi"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_05" translation="Modifica Altezza"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_06" translation="Resetta Altezza"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_07" translation="Blocca sugli assi della Superfice"/>
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_07" translation="Blocca sugli assi della Superficie"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_08" translation="Attiva/Disattiva blocco angoli"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Attiva/Disattiva allinea alla Superficie"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_10" translation="Flatten Terrain On/Off"/>
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Attiva/Disattiva Allinea alla Superficie"/>
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_10" translation="Attiva /Disattiva Appiattisci Terreno"/>
 		<entry key="OptionsMenu_Controls_Path_Edit" translation="Modifica Sentieri"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Piazza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Elimina Sentiero"/>
@@ -14543,7 +14542,7 @@
 		<entry key="PathEdit_RailingOnElevated" translation="Ringhiera su percorso elevato"/>
 		<entry key="PathEdit_RailingOnGroundQueue" translation="Ringhiera sulla coda a terra"/>
 		<entry key="PathEdit_RailingOnGroundedPath" translation="Ringhiera sul percorso a terra"/>
-		<entry key="PathEdit_Redo" translation="Rifai"/>
+		<entry key="PathEdit_Redo" translation="Ripeti"/>
 		<entry key="PathEdit_Right" translation="Destra"/>
 		<entry key="PathEdit_SelectGrid" translation="Seleziona griglia"/>
 		<entry key="PathEdit_SelectingGrid" translation="Selezionando la griglia"/>
@@ -14785,36 +14784,36 @@
 		<entry key="Research_Revealed_Region_Park" translation="Park Region"/>
 		<entry key="Research_Revealed_Region_Tropical" translation="Tropical Region"/>
 		<entry key="Research_Revealed_RollingRiver" translation="Rolling River"/>
-		<entry key="Research_Revealed_Scenery_Fairytale" translation="Fairytale Scenery"/>
-		<entry key="Research_Revealed_Scenery_Generic" translation="Park Scenery"/>
-		<entry key="Research_Revealed_Scenery_Pirate" translation="Pirate Scenery"/>
-		<entry key="Research_Revealed_Scenery_PlanetCoaster" translation="Planet Coaster Scenery"/>
-		<entry key="Research_Revealed_Scenery_Primitive" translation="Art Shapes"/>
-		<entry key="Research_Revealed_Scenery_SciFi" translation="Sci-Fi Scenery"/>
-		<entry key="Research_Revealed_Scenery_SpecialEffects" translation="Special Effects"/>
-		<entry key="Research_Revealed_Scenery_Western" translation="Western Scenery"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_ATM" translation="ATM"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_Balloon" translation="Looney Blooons"/>
+		<entry key="Research_Revealed_Scenery_Fairytale" translation="Scenario Fiabesco"/>
+		<entry key="Research_Revealed_Scenery_Generic" translation="Scenario del Parco"/>
+		<entry key="Research_Revealed_Scenery_Pirate" translation="Scenario Pirati"/>
+		<entry key="Research_Revealed_Scenery_PlanetCoaster" translation="Scenario Planet Coaster "/>
+		<entry key="Research_Revealed_Scenery_Primitive" translation="Forme d'Arte"/>
+		<entry key="Research_Revealed_Scenery_SciFi" translation="Scenario Sci-Fi "/>
+		<entry key="Research_Revealed_Scenery_SpecialEffects" translation="Effetti Speciali"/>
+		<entry key="Research_Revealed_Scenery_Western" translation="Scenario Western"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_ATM" translation="Bancomat"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_Balloon" translation="Looney Balloons"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Burger" translation="Capitan Manzo"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Chicken" translation="Tikichiki"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Coffee" translation="Street Fox Coffee"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_FirstAid" translation="First Aid"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_FirstAid" translation="Pronto Soccorso"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Fries" translation="Monsieur Frites"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Gulpee" translation="Gulpee"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_Hat" translation="Hats Fantastic"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_Info" translation="Information Kiosk"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_Hat" translation="Cappelli Fantastici"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_Info" translation="Chiosco Informazioni"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Mexican" translation="Mexelente"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Milkshake" translation="Mucca Cosmica"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Souvenir" translation="Just A Momento"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_Toilet" translation="Toilet"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_Toilet" translation="Toilette"/>
 		<entry key="Research_Revealed_Transport_Connie" translation="Connie Express"/>
 		<entry key="Research_Revealed_Transport_SilvStar" translation="Light Line"/>
 		<entry key="Research_Type_Coaster" translation="Montagna russa"/>
-		<entry key="Research_Type_Facility" translation="Struttura"/>
+		<entry key="Research_Type_Facility" translation="Edificio"/>
 		<entry key="Research_Type_Flatride" translation="Attrazione Forte"/>
-		<entry key="Research_Type_FlatrideFamily" translation="Family Ride"/>
+		<entry key="Research_Type_FlatrideFamily" translation="Giostra per famiglie"/>
 		<entry key="Research_Type_Region" translation="Regione"/>
-		<entry key="Research_Type_Scenery" translation="Scenografia"/>
+		<entry key="Research_Type_Scenery" translation="Scenario"/>
 		<entry key="Research_Type_Shop" translation="Negozio"/>
 		<entry key="Research_Type_Theme" translation="Tema"/>
 		<entry key="Research_Type_TrackedRide" translation="Circuito"/>
@@ -14835,8 +14834,8 @@
 		<entry key="RideCam_DisplayCamera" translation="Display Camera"/>
 		<entry key="RideCam_FirstPerson" translation="Prima persona"/>
 		<entry key="RideCam_Guest" translation="Visitatore"/>
-		<entry key="RideCam_GuestCamera" translation="Videocamera visitatore"/>
-		<entry key="RideCam_GuestPOV" translation="Visuale visitore"/>
+		<entry key="RideCam_GuestCamera" translation="Camera visitatore"/>
+		<entry key="RideCam_GuestPOV" translation="Visuale visitatore"/>
 		<entry key="RideCam_Interest" translation="Visuali fisse"/>
 		<entry key="RideCam_LookAtCabin" translation="Cabina opposta"/>
 		<entry key="RideCam_LookAtGuest" translation="Visuale frontale"/>
@@ -14866,9 +14865,9 @@
 		<entry key="Challenges_CashProfitRides" translation="Raggiungi un Profitto Mensile di {Target:currency} dalle Attrazioni"/>
 		<entry key="Challenges_CashProfitShopsFacilities" translation="Raggiungi un Profitto Mensile di {Target:currency} da Negozi e Servizi"/>
 		<entry key="Challenges_CashProfit_Label" translation="Sfida Profitto"/>
-		<entry key="Challenges_CatchPickpocket_Label" translation="Pickpocket Challenge"/>
-		<entry key="Challenges_CatchPickpockets" translation="Catch {Target:int} pickpockets with a security guard"/>
-		<entry key="Challenges_CatchPickpocketsSingular" translation="Catch a pickpocket with a security guard"/>
+		<entry key="Challenges_CatchPickpocket_Label" translation="Sfida Borseggiatori"/>
+		<entry key="Challenges_CatchPickpockets" translation="Prendi {Target:int} borseggiatori con una guardia di sicurezza"/>
+		<entry key="Challenges_CatchPickpocketsSingular" translation="Prendi un borseggiatore con una guardia di sicurezza"/>
 		<entry key="Challenges_Claim" translation="Ottieni la Ricompensa! {Value:currency}"/>
 		<entry key="Challenges_Complete" translation="Sfida Completata!"/>
 		<entry key="Challenges_Delete" translation="Cancella questa Sfida"/>
@@ -14878,11 +14877,11 @@
 		<entry key="Challenges_GuestHappiness" translation="Porta la Felicità Visitatori Media a {Target:float:decimalPlaces=0}%"/>
 		<entry key="Challenges_GuestHappiness_Label" translation="Sfida Felicità Visitatori"/>
 		<entry key="Challenges_GuestHappiness_NeedGuests" translation="Porta la Felicità Media visitatori a {Target:float:decimalPlaces=0}%&#10;Richiede {MinGuests:int} visitatori"/>
-		<entry key="Challenges_KeepTheftVictimsLow" translation="Keep Current Theft Victims below {Value:float:decimalPlaces=1}% for {Months:int} months"/>
-		<entry key="Challenges_KeepTheftVictimsLow_Label" translation="Pickpocket Rate Challenge"/>
-		<entry key="Challenges_KeepTheftVictimsLow_NeedGuests" translation="Keep Current Theft Victims below {Value:float:decimalPlaces=1}% for {Months:int} months&#10;    Requires {MinGuests:int} Guests"/>
+		<entry key="Challenges_KeepTheftVictimsLow" translation="Mantieni l'attuale livello vittime di furto sotto {Value:float:decimalPlaces=1}% per {Months:int} mesi"/>
+		<entry key="Challenges_KeepTheftVictimsLow_Label" translation="Sfida Tasso Borseggi"/>
+		<entry key="Challenges_KeepTheftVictimsLow_NeedGuests" translation="Mantieni l'attuale livello vittime di furto sotto {Value:float:decimalPlaces=1}% per {Months:int} mesi&#10;    Richiede {MinGuests:int} Visitatori"/>
 		<entry key="Challenges_ParkRatingAll" translation="Ottieni una Valutazione Parco pari a {Target:int}"/>
-		<entry key="Challenges_ParkRatingBalance" translation="Achieve a Park Balance Bonus of {Target:int}"/>
+		<entry key="Challenges_ParkRatingBalance" translation="Ottieni un Bonus Bilancio Parco di {Target:int}"/>
 		<entry key="Challenges_ParkRatingRides" translation="Ottieni una Valutazione Attrazioni pari a {Target:int}"/>
 		<entry key="Challenges_ParkRatingScenery" translation="Ottieni una Valutazione Scenario pari a {Target:int}"/>
 		<entry key="Challenges_ParkRating_Label" translation="Sfida Valutazione Parco"/>
@@ -14906,15 +14905,15 @@
 		<entry key="Objectives_CashProfitRides_View" translation="Raggiungi un Profitto Mensile dalle Attrzioni pari a {Value:currency}"/>
 		<entry key="Objectives_CashProfitShopsFacilities_View" translation="Raggiungi un Profitto Mensile da Negozi e Servizi di {Value:currency}"/>
 		<entry key="Objectives_CashTotal_View" translation="Ottieni {Value:currency}"/>
-		<entry key="Objectives_CatchPickpockets_View" translation="Catch {Value:int} pickpockets"/>
-		<entry key="Objectives_CatchPickpockets_ViewSingular" translation="Catch a pickpocket"/>
+		<entry key="Objectives_CatchPickpockets_View" translation="Prendi {Value:int} borseggiatori"/>
+		<entry key="Objectives_CatchPickpockets_ViewSingular" translation="Prendi un borseggiatore"/>
 		<entry key="Objectives_ClearLoans_View" translation="Restituisci tutti i Prestiti"/>
 		<entry key="Objectives_CompanyValue_View" translation="Ottieni un Valore Compagnia pari a {Value:currency}"/>
 		<entry key="Objectives_CompletedDifficulty1" translation="Obiettivi Facili Completati"/>
 		<entry key="Objectives_CompletedDifficulty2" translation="Obiettivi Medi Completati"/>
 		<entry key="Objectives_CompletedDifficulty3" translation="Obiettivi Difficili Completati"/>
-		<entry key="Objectives_CurrentThefts" translation="Current theft victims: {Value:int}"/>
-		<entry key="Objectives_CurrentTheftsPercentage" translation="Current theft rate: {Value:float:decimalPlaces=1}%"/>
+		<entry key="Objectives_CurrentThefts" translation="Vittime di furto attuali: {Value:int}"/>
+		<entry key="Objectives_CurrentTheftsPercentage" translation="Tasso di furti attuale: {Value:float:decimalPlaces=1}%"/>
 		<entry key="Objectives_CycleTimeMax" translation="Dura al massimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_CycleTimeMin" translation="Dura minimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_DecimalValue" translation="{Value:float:decimalPlaces=2}"/>
@@ -14932,9 +14931,9 @@
 		<entry key="Objectives_GuestCount_View" translation="Attira {Value:int} visitatori"/>
 		<entry key="Objectives_GuestHappiness_View" translation="Raise Average Guest Happiness to {Value:float:decimalPlaces=0}%"/>
 		<entry key="Objectives_HireStaff_View" translation="Assumi {Value:int} {StaffTypes}"/>
-		<entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Keep Current Theft Victims below {Value:float:decimalPlaces=1}% for {Months:int} consecutive months"/>
-		<entry key="Objectives_KeepTheftVictimsLow_View" translation="Keep Current Theft Victims below {Value:int} for {Months:int} consecutive months"/>
-		<entry key="Objectives_KeepTheftVictimsLow_ViewSingular" translation="Have no thefts for {Months:int} consecutive months"/>
+		<entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Mantieni le vittime di furto attuali sotto il {Value:float:decimalPlaces=1}% per {Months:int} mesi consecutivi"/>
+		<entry key="Objectives_KeepTheftVictimsLow_View" translation="Mantieni le vittime di furto attuali sotto {Value:int} per {Months:int} mesi consecutivi"/>
+		<entry key="Objectives_KeepTheftVictimsLow_ViewSingular" translation="Non avere furti per {Months:int} mesi consecutivi"/>
 		<entry key="Objectives_LengthMax" translation="Lungo al massimo {Value}"/>
 		<entry key="Objectives_LengthMin" translation="Lungo almeno {Value}"/>
 		<entry key="Objectives_MaxDropMax" translation="Non più basso di {Value}"/>
@@ -16786,7 +16785,7 @@
 		<entry key="Set_Glass" translation="Vetro"/>
 		<entry key="Set_Industrial" translation="Industriale"/>
 		<entry key="Set_LimePlaster" translation="Intonaco"/>
-		<entry key="Set_Limestone" translation="Calcare"/>
+		<entry key="Set_Limestone" translation="Pietra Calcarea"/>
 		<entry key="Set_Metal" translation="Metallo"/>
 		<entry key="Set_Modern" translation="Moderno"/>
 		<entry key="Set_OldBrick" translation="Mattoni Classici"/>
@@ -18935,15 +18934,15 @@
 		<entry key="TriggeredAudioEvents_Events" translation="Evento Audio a Innesco"/>
 		<entry key="TriggeredAudioEvents_Pitch" translation="Intensità"/>
 		<entry key="TriggeredAudioEvents_TestTrigger" translation="Test Innesco"/>
-		<entry key="TriggeredSFX_Alarms_Heading" translation="Alarms"/>
-		<entry key="TriggeredSFX_Creatures_Heading" translation="Creatures"/>
+		<entry key="TriggeredSFX_Alarms_Heading" translation="Allarmi"/>
+		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
 		<entry key="TriggeredSFX_Horror_Heading" translation="Horror"/>
-		<entry key="TriggeredSFX_Human_Heading" translation="Human"/>
-		<entry key="TriggeredSFX_Magic_Heading" translation="Magic"/>
-		<entry key="TriggeredSFX_Mechanical_Heading" translation="Mechanical"/>
-		<entry key="TriggeredSFX_Miscellaneous_Heading" translation="Miscellaneous"/>
-		<entry key="TriggeredSFX_Musical_Heading" translation="Musical"/>
-		<entry key="TriggeredSFX_Nature_Heading" translation="Nature"/>
+		<entry key="TriggeredSFX_Human_Heading" translation="Umano"/>
+		<entry key="TriggeredSFX_Magic_Heading" translation="Magia"/>
+		<entry key="TriggeredSFX_Mechanical_Heading" translation="Meccanico"/>
+		<entry key="TriggeredSFX_Miscellaneous_Heading" translation="Varie"/>
+		<entry key="TriggeredSFX_Musical_Heading" translation="Musica"/>
+		<entry key="TriggeredSFX_Nature_Heading" translation="Natura"/>
 		<entry key="TriggeredSFX_SciFi_Heading" translation="Sci-Fi"/>
 		<entry key="TriggeredSFX_Whoosh_Heading" translation="Whoosh"/>
 	</translation>
