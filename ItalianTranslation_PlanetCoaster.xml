@@ -125,7 +125,7 @@
 		<entry key="Blueprints_Aethon01" translation="Trail Blazer"/>
 		<entry key="Blueprints_Aethon01Desc" translation="Un layout per il Dive coaster"/>
 		<entry key="Blueprints_AmeliesCastleBlueprint" translation="TrickyPlaysGames - Princess Amelie's Castle Karts"/>
-		<entry key="Blueprints_AmeliesCastleBlueprintDesc" translation="The winning blueprint of the Go-Karts Competition, Princess Amelie's Castle Karts by TrickyPlaysGames"/>
+		<entry key="Blueprints_AmeliesCastleBlueprintDesc" translation="Il progetto vincitore della Competizione dei Go-Karts, Princess Amelie's Castle Karts di TrickyPlaysGames"/>
 		<entry key="Blueprints_AmericanArrowBlueprint01" translation="Screamer"/>
 		<entry key="Blueprints_AmericanArrowBlueprint01Desc" translation="Un layout per il Looping coaster"/>
 		<entry key="Blueprints_Anubis01" translation="Nephthys"/>
@@ -505,9 +505,9 @@
 		<entry key="Blueprints_PreviewItemLabelDefault" translation="Nome del progetto"/>
 		<entry key="Blueprints_PreviewItemTitle" translation="Titolo Oggetto:"/>
 		<entry key="Blueprints_PromenadeBlueprint01" translation="Promenade 01"/>
-		<entry key="Blueprints_PromenadeBlueprint01Desc" translation="Oak Island promenade building."/>
+		<entry key="Blueprints_PromenadeBlueprint01Desc" translation="Edificio del Lungomare di Oak Island."/>
 		<entry key="Blueprints_PromenadeBlueprint02" translation="Promenade 02"/>
-		<entry key="Blueprints_PromenadeBlueprint02Desc" translation="Oak Island promenade building."/>
+		<entry key="Blueprints_PromenadeBlueprint02Desc" translation="Edificio del Lungomare di Oak Island."/>
 		<entry key="Blueprints_Rage01" translation="Frenzy"/>
 		<entry key="Blueprints_Rage01Desc" translation="Un layout per il Giga - Rage coaster"/>
 		<entry key="Blueprints_RageBlueprint01" translation="Frenzy"/>
@@ -1719,64 +1719,64 @@
 		<entry key="BuildingPartName_RR_RoofTile_A_04" translation="Tetto in Tegole Curvate - Frontone"/>
 		<entry key="BuildingPartName_RR_RoofTile_A_05" translation="Tetto in Tegole Curvate - Creste con Bordi"/>
 		<entry key="BuildingPartName_RR_RoofTile_A_05_NoEdge" translation="Tetto in Tegole Curvate - Creste"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_06" translation="Tegola Curvata Roof Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_07" translation="Tegola Curvata Roof Wall Top"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_08L" translation="Tegola Curvata Roof Left Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_08R" translation="Tegola Curvata Roof Right Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_09" translation="Tegola Curvata Roof Corner Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_Flat" translation="Stucco Roof Piatto"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_Flat02" translation="Stucco Roof Piatto Rounded"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_2m" translation="Tetto Rosso di Tegole 2m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m Eave"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_4m" translation="Tetto Rosso di Tegole 4m Slope"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_06" translation="Tegola Curvata - Bordo del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_07" translation="Tegola Curvata - Parte superiore del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_08L" translation="Tegola Curvata - Bordo Sinistro del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_08R" translation="Tegola Curvata - Bordo Destro del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_09" translation="Tegola Curvata - Spigolo"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_Flat" translation="Stucco - Tetto Piatto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_Flat02" translation="Stucco - Tetto Piatto Tondo"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_2m" translation="Tetto Rosso di Tegole Inclinato 2m"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_2m_Eave" translation="Tetto Rosso di Tegole - Grondaia 2m"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_4m" translation="Tetto Rosso di Tegole Inclinato 4m"/>
 		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_2m" translation="Tetto Rosso di Tegole 2m Angolo Interno"/>
 		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_4m" translation="Tetto Rosso di Tegole 4m Angolo Interno"/>
 		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m" translation="Tetto Rosso di Tegole 2m Angolo Esterno"/>
-		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m Corner Eave"/>
+		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m - Grondaia ad Angolo"/>
 		<entry key="BuildingPartName_RR_Roof_Corner_B_01_4m" translation="Tetto Rosso di Tegole 4m Angolo Esterno"/>
-		<entry key="BuildingPartName_RR_Roof_Ridge_B_01" translation="Tetto Rosso di Tegole Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B" translation="Tetto di Paglia Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Edge" translation="Tetto di Paglia 4m Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang" translation="Tetto di Paglia Ridge Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang_Edge" translation="Tetto di Paglia 4m Overhang Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Roof" translation="Tetto di Paglia Ridge Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_RoofEnd" translation="Tetto di Paglia Ridge End Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Tower" translation="Tetto di Paglia Capped Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRound" translation="Tetto di Paglia Round Tower"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRoundShort" translation="Tetto di Paglia Round Tower Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B" translation="Tetto di Paglia 4m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B_Overhang" translation="Tetto di Paglia 4m Slope Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B" translation="Square Tile Roof Double Curve"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Edge" translation="Square Tile Roof Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang" translation="Square Tile Roof Double Curve Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang_Ridge" translation="Square Tile Roof Ridge 1m"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Ridge" translation="Square Tile Roof Ridge 4m"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Tower" translation="Square Tile Roof Ridge Capped"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B" translation="Square Tile Roof 4m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B_Overhang" translation="Square Tile Roof 4m Slope Overhang"/>
-		<entry key="BuildingPartName_RR_TowerOct_B_2m" translation="Stucco Octagonal Column 2m"/>
-		<entry key="BuildingPartName_RR_TowerOct_B_4m" translation="Stucco Octagonal Column 4m"/>
-		<entry key="BuildingPartName_RR_TowerRoundSlim_B_2m" translation="Stucco Round Slim Tower 2m"/>
-		<entry key="BuildingPartName_RR_TowerRoundSlim_B_4m" translation="Stucco Round Slim Tower 4m"/>
-		<entry key="BuildingPartName_RR_TowerRoundSlim_BaseCap_B_01" translation="Stucco Round Slim Tower Base"/>
-		<entry key="BuildingPartName_RR_TowerRound_B_2m" translation="Stucco Curved Column 2m"/>
-		<entry key="BuildingPartName_RR_TowerRound_B_4m" translation="Stucco Curved Column 4m"/>
-		<entry key="BuildingPartName_RR_TowerRound_BaseCap_B_01" translation="Stucco Curved Column Base Section"/>
-		<entry key="BuildingPartName_RR_TowerRound_BaseCap_Qtr_B_01" translation="Stucco Curved Column Large Base Section"/>
+		<entry key="BuildingPartName_RR_Roof_Ridge_B_01" translation="Cima del Tetto Rosso di Tegole"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B" translation="Cima del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Edge" translation="Tetto di Paglia 4m - Grondaia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang" translation="Sporgenza della Cima del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang_Edge" translation="Sporgenza Grondaia del Tetto di Paglia 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Roof" translation="Apice della Cima di Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_RoofEnd" translation="Fine della Cima di Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Tower" translation="Cima coperta del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRound" translation="Torre Tonda del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRoundShort" translation="Cima della Torre Tonda del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B" translation="Tetto di Paglia Inclinato 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B_Overhang" translation="Tetto di Paglia Pendente 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B" translation="Tetto a Tegole Quadrate - Doppia Curva"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Edge" translation="Tetto a Tegole Quadrate - Grondaia"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang" translation="Tetto a Tegole Quadrate - Doppia Curva Sporgente"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang_Ridge" translation="Tetto a Tegole Quadrate - Cresta 1m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Ridge" translation="Tetto a Tegole Quadrate - Cresta 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Tower" translation="Tetto a Tegole Quadrate - Cresta Ricoperta"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B" translation="Tetto a Tegole Quadrate Inclinato 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B_Overhang" translation="Tetto a Tegole Quadrate - Inclinato Sporgente 4m"/>
+		<entry key="BuildingPartName_RR_TowerOct_B_2m" translation="Colonna ottagonale di Stucco 2m"/>
+		<entry key="BuildingPartName_RR_TowerOct_B_4m" translation="Colonna ottagonale di Stucco 4m"/>
+		<entry key="BuildingPartName_RR_TowerRoundSlim_B_2m" translation="Torre tonda e sottile di Stucco 2m"/>
+		<entry key="BuildingPartName_RR_TowerRoundSlim_B_4m" translation="Torre tonda e sottile di Stucco 4m"/>
+		<entry key="BuildingPartName_RR_TowerRoundSlim_BaseCap_B_01" translation="Base di Torre tonda e sottile di Stucco"/>
+		<entry key="BuildingPartName_RR_TowerRound_B_2m" translation="Colonna curvata di Stucco 2m"/>
+		<entry key="BuildingPartName_RR_TowerRound_B_4m" translation="Colonna curvata di Stucco 4m"/>
+		<entry key="BuildingPartName_RR_TowerRound_BaseCap_B_01" translation="Seziona della Base di Colonna curvata di Stucco"/>
+		<entry key="BuildingPartName_RR_TowerRound_BaseCap_Qtr_B_01" translation="Seziona Larga della Base di Colonna curvata di Stucco"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_A_1m" translation="Muro in Stucco 1m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_A_2m" translation="Muro in Stucco 2m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_A_4m" translation="Muro in Stucco 4m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_B_1m" translation="Muro in Intonaco 1m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_B_2m" translation="Muro in Intonaco 2m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_B_4m" translation="Muro in Intonaco 4m Frontone"/>
-		<entry key="BuildingPartName_SF_Balcony_2m_01" translation="Metal Walkway 2m Square"/>
-		<entry key="BuildingPartName_SF_Balcony_4m_01" translation="Metal Walkway 4m by 2m"/>
-		<entry key="BuildingPartName_SF_Balcony_Railing_4m_01" translation="Metal Walkway Railing 4m"/>
-		<entry key="BuildingPartName_SF_Stairs_01" translation="Metal Walkway Stairs 4m"/>
-		<entry key="BuildingPartName_SF_Stairs_Short_01" translation="Metal Walkway Stairs 2m"/>
-		<entry key="BuildingPartName_SN_Roof_A_01" translation="Vetroresina Roof Piatto Corrugated"/>
-		<entry key="BuildingPartName_ST_ArchRound_Half_Tunnel_B_4m" translation="Castle Rounded Half Arch Tunnel"/>
-		<entry key="BuildingPartName_ST_ArchRound_Tunnel_B_4m" translation="Castle Rounded Arch Tunnel"/>
+		<entry key="BuildingPartName_SF_Balcony_2m_01" translation="Passerella di Metallo 2m Quadrata"/>
+		<entry key="BuildingPartName_SF_Balcony_4m_01" translation="Passerella di Metallo 4m da 2m"/>
+		<entry key="BuildingPartName_SF_Balcony_Railing_4m_01" translation="Passerella di Metallo - Ringhiera 4m"/>
+		<entry key="BuildingPartName_SF_Stairs_01" translation="Scale della Passerella di Metallo 4m"/>
+		<entry key="BuildingPartName_SF_Stairs_Short_01" translation="Scale della Passerella di Metallo 2m"/>
+		<entry key="BuildingPartName_SN_Roof_A_01" translation="Tetto Piatto Corrugato in Vetroresina"/>
+		<entry key="BuildingPartName_ST_ArchRound_Half_Tunnel_B_4m" translation="Tunnel a Mezzo Arco Tondo del Castello"/>
+		<entry key="BuildingPartName_ST_ArchRound_Tunnel_B_4m" translation="Tunnel ad Arco Tondo del Castello"/>
 		<entry key="BuildingPartName_ST_Arch_B_4m" translation="Supporto ad Arco per Castello"/>
 		<entry key="BuildingPartName_ST_Arch_Bridge_B_4m" translation="Corso decorativo per Castello"/>
 		<entry key="BuildingPartName_ST_Arch_Bridge_Circ_B_4m" translation="Corso decorativo curvo per Castello 4m"/>
@@ -1993,8 +1993,8 @@
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_02" translation="Muro rivestito di Strisce di Legno verniciato Testa a piccolo Arco"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_03" translation="Muro rivestito di Strisce di Legno verniciato Testa angolo largo"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_04" translation="Muro rivestito di Strisce di Legno verniciato Testa Arco largo"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_E_05" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta Stepped"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_E_06" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta Stepped Arch"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_E_05" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta - a Gradini"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_E_06" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta - Arco a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_07" translation="Muro rivestito di Strisce di Legno verniciato Testa ad Arco arrotondato"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_08" translation="Muro rivestito di Strisce di Legno verniciato Testa curva larga"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_08_L" translation="Muro rivestito di Strisce di Legno verniciato Testa Mezzo Arco a sinistra"/>
@@ -2043,8 +2043,8 @@
 		<entry key="BuildingPartName_WD_RoofTile_Corner_B_01_2m" translation="Mattonella di Legno 2m Angolo Esterno"/>
 		<entry key="BuildingPartName_WD_RoofTile_Corner_B_01_2m_Eave" translation="Gronda angolare Mattonella di Legno 2m"/>
 		<entry key="BuildingPartName_WD_RoofTile_Corner_B_01_4m" translation="Mattonella di Legno 4m Angolo Esterno"/>
-		<entry key="BuildingPartName_WD_RoofTile_Ridge_B_01" translation="Mattonella di Legno Ridge"/>
-		<entry key="BuildingPartName_WD_Roof_Flat_B_4m" translation="Tar Pitch Roof Flat"/>
+		<entry key="BuildingPartName_WD_RoofTile_Ridge_B_01" translation="Mattonella di Legno Increspata"/>
+		<entry key="BuildingPartName_WD_Roof_Flat_B_4m" translation="Tetto Piatto di Catrame"/>
 		<entry key="BuildingPartName_WD_Wall_GableTri_B_1m" translation="Muro rivestito di Legno Naturale 1m Frontone"/>
 		<entry key="BuildingPartName_WD_Wall_GableTri_B_2m" translation="Muro rivestito di Legno Naturale 2m Frontone"/>
 		<entry key="BuildingPartName_WD_Wall_GableTri_B_4m" translation="Muro rivestito di Legno Naturale 4m Frontone"/>
