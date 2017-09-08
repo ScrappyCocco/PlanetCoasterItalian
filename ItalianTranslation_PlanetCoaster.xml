@@ -2,93 +2,93 @@
 <localisation xmlns="http://www.planetcoaster.com/CommunityTranslation">
 	<translation>
 		<!--AdvancedTriggerEditor-->
-		<entry key="AdvancedTriggerEditor_AddGroup" translation="Add Display Group"/>
-		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Cannot add more display groups to this sequencer"/>
-		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Add a new display group to the sequencer"/>
-		<entry key="AdvancedTriggerEditor_CancelButton" translation="Cancel"/>
-		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Disconnect all items in this trigger"/>
-		<entry key="AdvancedTriggerEditor_CoasterAddGroup" translation="Add Trigger"/>
-		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipDisabled" translation="Cannot add more triggers to this track"/>
-		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipEnabled" translation="Add a point to the track which will activate when the train passes."/>
-		<entry key="AdvancedTriggerEditor_CoasterGroupLabelDefault" translation="Track Trigger"/>
-		<entry key="AdvancedTriggerEditor_CoasterHeaderTitle" translation="Track Triggers"/>
-		<entry key="AdvancedTriggerEditor_CoasterPopUpDescription" translation="Place triggers along the track and attach them to animated scenery"/>
-		<entry key="AdvancedTriggerEditor_CoasterPopUpTitle" translation="Track Triggers"/>
+		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questo Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico al Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_CancelButton" translation="Annulla"/>
+		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Disconnetti tutti gli oggetti da questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_CoasterAddGroup" translation="Aggiungi Innesco"/>
+		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipDisabled" translation="Non puoi aggiungere altri inneschi a questo percorso"/>
+		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipEnabled" translation="Aggiungi un punto nel percorso che si attiva quando il treno passa."/>
+		<entry key="AdvancedTriggerEditor_CoasterGroupLabelDefault" translation="Innesco Percorso"/>
+		<entry key="AdvancedTriggerEditor_CoasterHeaderTitle" translation="Inneschi Percorso"/>
+		<entry key="AdvancedTriggerEditor_CoasterPopUpDescription" translation="Posiziona inneschi sul percorso e collegali a scenari animati"/>
+		<entry key="AdvancedTriggerEditor_CoasterPopUpTitle" translation="Inneschi Percorso"/>
 		<entry key="AdvancedTriggerEditor_CoasterTriggerId" translation="{VALUE:int}"/>
-		<entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Connect selection to trigger group"/>
-		<entry key="AdvancedTriggerEditor_ConfirmSelectionTooManyItems" translation="Too many items to connect to trigger group"/>
-		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Display Triggers"/>
-		<entry key="AdvancedTriggerEditor_DoneButton" translation="Done"/>
-		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplicate"/>
-		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Edit Trigger Sequence"/>
-		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="You can edit the trigger sequences of each ride sequence"/>
-		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Edit Trigger Sequence"/>
-		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Trigger Giostra"/>
-		<entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="Triggers Giostra"/>
-		<entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Ride Triggers start at the same time as its corresponding Sequence Animation"/>
-		<entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Ride Triggers"/>
-		<entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="{Name} Triggers"/>
-		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Place triggers along the track and attach them to animated scenery&#10;The first car to travel past this point will trigger it."/>
-		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Make Trigger Sequence"/>
-		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Place a Trigger on Track"/>
-		<entry key="AdvancedTriggerEditor_Play" translation="Test activation on attached objects"/>
-		<entry key="AdvancedTriggerEditor_PlayTriggerSequence" translation="Play Trigger Sequence"/>
+		<entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Connetti la selezione a Gruppo Innesco"/>
+		<entry key="AdvancedTriggerEditor_ConfirmSelectionTooManyItems" translation="Troppi oggetti da connettere a Gruppo Innesco"/>
+		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Inneschi Display"/>
+		<entry key="AdvancedTriggerEditor_DoneButton" translation="Fatto"/>
+		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplica"/>
+		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Modifica Sequenza Innesco"/>
+		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="Puoi modificare le sequenze d'Innesco di ogni parte della giostra"/>
+		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
+		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Innesco Giostra"/>
+		<entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="Inneschi Giostra"/>
+		<entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Gli Inneschi della Giostra si azionano nel momento corrispondente all'inizio della Sequenza d'Animazione"/>
+		<entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Inneschi Giostra"/>
+		<entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="Inneschi {Name}"/>
+		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona inneschi sul percorso e collegali a scenari animati&#10;Il primo vagoncino che passerà per questo punto, lo innescherà."/>
+		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Crea una Sequenza d'Innesco"/>
+		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Piazza un Innesco sul Tracciato"/>
+		<entry key="AdvancedTriggerEditor_Play" translation="Testa attivazione sugli oggetti collegati"/>
+		<entry key="AdvancedTriggerEditor_PlayTriggerSequence" translation="Inizia Sequenza Innesco"/>
 		<entry key="AdvancedTriggerEditor_PlayerTime" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"/>
-		<entry key="AdvancedTriggerEditor_Racing_LapStepper" translation="Trigger only on Lap"/>
-		<entry key="AdvancedTriggerEditor_Racing_PlaceStepper" translation="Trigger only on Place"/>
-		<entry key="AdvancedTriggerEditor_Racing_TriggerAllLaps" translation="Trigger on all Laps"/>
-		<entry key="AdvancedTriggerEditor_Racing_TriggerAllPlaces" translation="Trigger on all Places"/>
-		<entry key="AdvancedTriggerEditor_RemoveFromGroupToolTip" translation="Disconnect from this display group"/>
-		<entry key="AdvancedTriggerEditor_RemoveFromTriggerToolTip" translation="Disconnect from this trigger"/>
-		<entry key="AdvancedTriggerEditor_RemoveGroupToolTip" translation="Remove this group"/>
-		<entry key="AdvancedTriggerEditor_RemoveTriggerToolTip" translation="Remove this trigger"/>
-		<entry key="AdvancedTriggerEditor_ResetAllEventTimes" translation="Reset Event Delays"/>
-		<entry key="AdvancedTriggerEditor_RideAddItems" translation="Connect Objects To Trigger"/>
-		<entry key="AdvancedTriggerEditor_RideAddItemsToolTipDisabled" translation="Cannot connect more items to this trigger"/>
-		<entry key="AdvancedTriggerEditor_RideAddItemsToolTipEnabled" translation="Connect items to the trigger"/>
-		<entry key="AdvancedTriggerEditor_RideTriggersLabel" translation="Ride Triggers"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectAvailableLabel" translation="Available Triggerable Scenery"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectAvailableToolTip" translation="Available triggerable scenery in the park"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectDescription" translation="Use the Multiselect tool to select and connect Triggerable Scenery"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectGetMoreButton" translation="Get More Triggerable Scenery"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedLabel" translation="Selected Triggerable Scenery"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedListLabel" translation="Selected Scenery"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedToolTip" translation="Currently Selected Triggerable Scenery"/>
+		<entry key="AdvancedTriggerEditor_Racing_LapStepper" translation="Innesco solo su Giro"/>
+		<entry key="AdvancedTriggerEditor_Racing_PlaceStepper" translation="Innesco solo su Posizione"/>
+		<entry key="AdvancedTriggerEditor_Racing_TriggerAllLaps" translation="Innesco su tutti i Giri"/>
+		<entry key="AdvancedTriggerEditor_Racing_TriggerAllPlaces" translation="Innesco su tutte le Posizioni"/>
+		<entry key="AdvancedTriggerEditor_RemoveFromGroupToolTip" translation="Disconnetti da questo Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_RemoveFromTriggerToolTip" translation="Disconnetti da questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_RemoveGroupToolTip" translation="Rimuovi questo gruppo"/>
+		<entry key="AdvancedTriggerEditor_RemoveTriggerToolTip" translation="Rimuovi questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_ResetAllEventTimes" translation="Reset Ritardi Evento"/>
+		<entry key="AdvancedTriggerEditor_RideAddItems" translation="Collega oggetti a Innesco"/>
+		<entry key="AdvancedTriggerEditor_RideAddItemsToolTipDisabled" translation="Non puoi collegare altri oggetti a questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_RideAddItemsToolTipEnabled" translation="Collega oggetti all'Innesco"/>
+		<entry key="AdvancedTriggerEditor_RideTriggersLabel" translation="Inneschi su Percorso"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectAvailableLabel" translation="Scenario Innescabile Disponibile"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectAvailableToolTip" translation="Scenario Innescabile Disponibile nel parco"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectDescription" translation="Usa lo strumento Multiselezione per selezionare e collgare Scenari Innescabili"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectGetMoreButton" translation="Ottieni più Scenari Innescabili"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedLabel" translation="Scenari Innescabili Selezionati"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedListLabel" translation="Scenari Innescabili"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedToolTip" translation="Scenari Innescabili Selezionati al momento"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectSubTitle" translation="Connect Triggerable Scenery"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectTitle" translation="Triggerable Scenery Selector"/>
-		<entry key="AdvancedTriggerEditor_SelectObjectToAdd" translation="Select Object to Connect"/>
-		<entry key="AdvancedTriggerEditor_SequencerEditTriggersDescription" translation="Add display groups and edit the triggerable object in each group to create a sequence"/>
-		<entry key="AdvancedTriggerEditor_SequencerEditTriggersTitle" translation="Edit Trigger Sequence"/>
-		<entry key="AdvancedTriggerEditor_SequencerGroupAddItems" translation="Connect Objects To Group"/>
-		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipDisabled" translation="Cannot connect more items to this display group"/>
-		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipEnabled" translation="Connect triggerable items to the display group"/>
-		<entry key="AdvancedTriggerEditor_SequencerGroupLabelDefault" translation="Display Group"/>
-		<entry key="AdvancedTriggerEditor_SequencerHeaderTitle" translation="Sequencer Triggers"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectSubTitle" translation="Collega Scenari Innescabili"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectTitle" translation="Selettore Scenari Innescabili"/>
+		<entry key="AdvancedTriggerEditor_SelectObjectToAdd" translation="Seleziona oggetti da collegare"/>
+		<entry key="AdvancedTriggerEditor_SequencerEditTriggersDescription" translation="Aggiungi Gruppi Scenici e modifica l'oggetto innescabile in ogni gruppo, per creare una sequenza"/>
+		<entry key="AdvancedTriggerEditor_SequencerEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
+		<entry key="AdvancedTriggerEditor_SequencerGroupAddItems" translation="Collega Oggetti a Gruppo"/>
+		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipDisabled" translation="Non puoi collegare altri oggetti a questo Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipEnabled" translation="Collega oggetti innescabili al Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_SequencerGroupLabelDefault" translation="Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_SequencerHeaderTitle" translation="Inneschi Sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_SequencerLenthValueLabel" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2} - {LoopType}"/>
-		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="Display Groups trigger once after the specified wait time from when the sequencer triggers"/>
-		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="My Sequence"/>
-		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Play Sequence"/>
-		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Sequencer Triggers"/>
-		<entry key="AdvancedTriggerEditor_Sort" translation="Sort All"/>
-		<entry key="AdvancedTriggerEditor_SortTitle" translation="Sort all groups and objects"/>
-		<entry key="AdvancedTriggerEditor_SortTooltip" translation="The UI will only sort when you close the panel or press the Sort All button"/>
-		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Connect display speakers to sequencer"/>
-		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Too many display speakers to connect"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Available Display Speakers"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Available display in the park"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectDescription" translation="Use the Multiselect tool to select and connect display speakers"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedLabel" translation="Selected Display Speakers"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedListLabel" translation="Selected Display Speakers"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedToolTip" translation="Currently Selected Display Speakers"/>
+		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="I Gruppi Scenici si attivano dopo il tempo d'attesa specificato da quando si innesca il Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="Mia Sequenza"/>
+		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Inizia Sequenza"/>
+		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Inneschi Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_Sort" translation="Ordina Tutti"/>
+		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e oggetti"/>
+		<entry key="AdvancedTriggerEditor_SortTooltip" translation="L'interfaccia si ordinerà solo quando chiudi il pannello o premi il pulsante Ordina Tutti"/>
+		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega casse del display al Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppe casse del display da collegare"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Cassa del display disponibile"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibile nel parco"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectDescription" translation="Usa lo strumento Multiselezione per scegliere e collegare le Casse del display"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedLabel" translation="Casse del Display Selezionate"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedListLabel" translation="Casse del Display Selezionate"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedToolTip" translation="Casse del Display Selezionate al momento"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSubTitle" translation="Connect Display Speakers"/>
-		<entry key="AdvancedTriggerEditor_TrackEditTriggersDescription" translation="You can add triggers at track points"/>
-		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Edit Trigger Sequence"/>
-		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Track Triggers"/>
-		<entry key="AdvancedTriggerEditor_TriggerEventPointsValueLabel" translation="Trigger Points: {Points:int}"/>
-		<entry key="AdvancedTriggerEditor_TriggerEventStatLabel" translation="Trigger Event"/>
-		<entry key="AdvancedTriggerEditor_TriggerEventValueLabel" translation="Items: {Items:int}"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSubTitle" translation="Collega Casse del Display"/>
+		<entry key="AdvancedTriggerEditor_TrackEditTriggersDescription" translation="Puoi aggiungere inneschi a punti del TRACK"/>
+		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
+		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Inneschi TRACK"/>
+		<entry key="AdvancedTriggerEditor_TriggerEventPointsValueLabel" translation="Punti Innesco: {Points:int}"/>
+		<entry key="AdvancedTriggerEditor_TriggerEventStatLabel" translation="Evento Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerEventValueLabel" translation="Oggetti: {Items:int}"/>
 		<!--AvatarCreator-->
 		<entry key="AvatarCreator_Accept" translation="Accetta"/>
 		<entry key="AvatarCreator_AdultCouple" translation="Coppia di Adulti"/>
@@ -125,7 +125,7 @@
 		<entry key="Blueprints_Aethon01" translation="Trail Blazer"/>
 		<entry key="Blueprints_Aethon01Desc" translation="Un layout per il Dive coaster"/>
 		<entry key="Blueprints_AmeliesCastleBlueprint" translation="TrickyPlaysGames - Princess Amelie's Castle Karts"/>
-		<entry key="Blueprints_AmeliesCastleBlueprintDesc" translation="The winning blueprint of the Go-Karts Competition, Princess Amelie's Castle Karts by TrickyPlaysGames"/>
+		<entry key="Blueprints_AmeliesCastleBlueprintDesc" translation="Il progetto vincitore della Competizione dei Go-Karts, Princess Amelie's Castle Karts di TrickyPlaysGames"/>
 		<entry key="Blueprints_AmericanArrowBlueprint01" translation="Screamer"/>
 		<entry key="Blueprints_AmericanArrowBlueprint01Desc" translation="Un layout per il Looping coaster"/>
 		<entry key="Blueprints_Anubis01" translation="Nephthys"/>
@@ -505,9 +505,9 @@
 		<entry key="Blueprints_PreviewItemLabelDefault" translation="Nome del progetto"/>
 		<entry key="Blueprints_PreviewItemTitle" translation="Titolo Oggetto:"/>
 		<entry key="Blueprints_PromenadeBlueprint01" translation="Promenade 01"/>
-		<entry key="Blueprints_PromenadeBlueprint01Desc" translation="Oak Island promenade building."/>
+		<entry key="Blueprints_PromenadeBlueprint01Desc" translation="Edificio del Lungomare di Oak Island."/>
 		<entry key="Blueprints_PromenadeBlueprint02" translation="Promenade 02"/>
-		<entry key="Blueprints_PromenadeBlueprint02Desc" translation="Oak Island promenade building."/>
+		<entry key="Blueprints_PromenadeBlueprint02Desc" translation="Edificio del Lungomare di Oak Island."/>
 		<entry key="Blueprints_Rage01" translation="Frenzy"/>
 		<entry key="Blueprints_Rage01Desc" translation="Un layout per il Giga - Rage coaster"/>
 		<entry key="Blueprints_RageBlueprint01" translation="Frenzy"/>
@@ -1719,64 +1719,64 @@
 		<entry key="BuildingPartName_RR_RoofTile_A_04" translation="Tetto in Tegole Curvate - Frontone"/>
 		<entry key="BuildingPartName_RR_RoofTile_A_05" translation="Tetto in Tegole Curvate - Creste con Bordi"/>
 		<entry key="BuildingPartName_RR_RoofTile_A_05_NoEdge" translation="Tetto in Tegole Curvate - Creste"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_06" translation="Tegola Curvata Roof Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_07" translation="Tegola Curvata Roof Wall Top"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_08L" translation="Tegola Curvata Roof Left Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_08R" translation="Tegola Curvata Roof Right Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_09" translation="Tegola Curvata Roof Corner Edge"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_Flat" translation="Stucco Roof Piatto"/>
-		<entry key="BuildingPartName_RR_RoofTile_A_Flat02" translation="Stucco Roof Piatto Rounded"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_2m" translation="Tetto Rosso di Tegole 2m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m Eave"/>
-		<entry key="BuildingPartName_RR_Roof_B_01_4m" translation="Tetto Rosso di Tegole 4m Slope"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_06" translation="Tegola Curvata - Bordo del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_07" translation="Tegola Curvata - Parte superiore del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_08L" translation="Tegola Curvata - Bordo Sinistro del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_08R" translation="Tegola Curvata - Bordo Destro del Tetto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_09" translation="Tegola Curvata - Spigolo"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_Flat" translation="Stucco - Tetto Piatto"/>
+		<entry key="BuildingPartName_RR_RoofTile_A_Flat02" translation="Stucco - Tetto Piatto Tondo"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_2m" translation="Tetto Rosso di Tegole Inclinato 2m"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_2m_Eave" translation="Tetto Rosso di Tegole - Grondaia 2m"/>
+		<entry key="BuildingPartName_RR_Roof_B_01_4m" translation="Tetto Rosso di Tegole Inclinato 4m"/>
 		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_2m" translation="Tetto Rosso di Tegole 2m Angolo Interno"/>
 		<entry key="BuildingPartName_RR_Roof_CornerInv_B_01_4m" translation="Tetto Rosso di Tegole 4m Angolo Interno"/>
 		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m" translation="Tetto Rosso di Tegole 2m Angolo Esterno"/>
-		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m Corner Eave"/>
+		<entry key="BuildingPartName_RR_Roof_Corner_B_01_2m_Eave" translation="Tetto Rosso di Tegole 2m - Grondaia ad Angolo"/>
 		<entry key="BuildingPartName_RR_Roof_Corner_B_01_4m" translation="Tetto Rosso di Tegole 4m Angolo Esterno"/>
-		<entry key="BuildingPartName_RR_Roof_Ridge_B_01" translation="Tetto Rosso di Tegole Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B" translation="Tetto di Paglia Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Edge" translation="Tetto di Paglia 4m Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang" translation="Tetto di Paglia Ridge Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang_Edge" translation="Tetto di Paglia 4m Overhang Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Roof" translation="Tetto di Paglia Ridge Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_RoofEnd" translation="Tetto di Paglia Ridge End Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_Tower" translation="Tetto di Paglia Capped Ridge"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRound" translation="Tetto di Paglia Round Tower"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRoundShort" translation="Tetto di Paglia Round Tower Cap"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B" translation="Tetto di Paglia 4m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B_Overhang" translation="Tetto di Paglia 4m Slope Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B" translation="Square Tile Roof Double Curve"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Edge" translation="Square Tile Roof Eave"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang" translation="Square Tile Roof Double Curve Overhang"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang_Ridge" translation="Square Tile Roof Ridge 1m"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Ridge" translation="Square Tile Roof Ridge 4m"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_B_Tower" translation="Square Tile Roof Ridge Capped"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B" translation="Square Tile Roof 4m Slope"/>
-		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B_Overhang" translation="Square Tile Roof 4m Slope Overhang"/>
-		<entry key="BuildingPartName_RR_TowerOct_B_2m" translation="Stucco Octagonal Column 2m"/>
-		<entry key="BuildingPartName_RR_TowerOct_B_4m" translation="Stucco Octagonal Column 4m"/>
-		<entry key="BuildingPartName_RR_TowerRoundSlim_B_2m" translation="Stucco Round Slim Tower 2m"/>
-		<entry key="BuildingPartName_RR_TowerRoundSlim_B_4m" translation="Stucco Round Slim Tower 4m"/>
-		<entry key="BuildingPartName_RR_TowerRoundSlim_BaseCap_B_01" translation="Stucco Round Slim Tower Base"/>
-		<entry key="BuildingPartName_RR_TowerRound_B_2m" translation="Stucco Curved Column 2m"/>
-		<entry key="BuildingPartName_RR_TowerRound_B_4m" translation="Stucco Curved Column 4m"/>
-		<entry key="BuildingPartName_RR_TowerRound_BaseCap_B_01" translation="Stucco Curved Column Base Section"/>
-		<entry key="BuildingPartName_RR_TowerRound_BaseCap_Qtr_B_01" translation="Stucco Curved Column Large Base Section"/>
+		<entry key="BuildingPartName_RR_Roof_Ridge_B_01" translation="Cima del Tetto Rosso di Tegole"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B" translation="Cima del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Edge" translation="Tetto di Paglia 4m - Grondaia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang" translation="Sporgenza della Cima del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Overhang_Edge" translation="Sporgenza Grondaia del Tetto di Paglia 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Roof" translation="Apice della Cima di Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_RoofEnd" translation="Fine della Cima di Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_Tower" translation="Cima coperta del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRound" translation="Torre Tonda del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_B_TowerRoundShort" translation="Cima della Torre Tonda del Tetto di Paglia"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B" translation="Tetto di Paglia Inclinato 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Thatch_Slope_B_Overhang" translation="Tetto di Paglia Pendente 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B" translation="Tetto a Tegole Quadrate - Doppia Curva"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Edge" translation="Tetto a Tegole Quadrate - Grondaia"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang" translation="Tetto a Tegole Quadrate - Doppia Curva Sporgente"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Overhang_Ridge" translation="Tetto a Tegole Quadrate - Cresta 1m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Ridge" translation="Tetto a Tegole Quadrate - Cresta 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_B_Tower" translation="Tetto a Tegole Quadrate - Cresta Ricoperta"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B" translation="Tetto a Tegole Quadrate Inclinato 4m"/>
+		<entry key="BuildingPartName_RR_Roof_Tile_Slope_B_Overhang" translation="Tetto a Tegole Quadrate - Inclinato Sporgente 4m"/>
+		<entry key="BuildingPartName_RR_TowerOct_B_2m" translation="Colonna ottagonale di Stucco 2m"/>
+		<entry key="BuildingPartName_RR_TowerOct_B_4m" translation="Colonna ottagonale di Stucco 4m"/>
+		<entry key="BuildingPartName_RR_TowerRoundSlim_B_2m" translation="Torre tonda e sottile di Stucco 2m"/>
+		<entry key="BuildingPartName_RR_TowerRoundSlim_B_4m" translation="Torre tonda e sottile di Stucco 4m"/>
+		<entry key="BuildingPartName_RR_TowerRoundSlim_BaseCap_B_01" translation="Base di Torre tonda e sottile di Stucco"/>
+		<entry key="BuildingPartName_RR_TowerRound_B_2m" translation="Colonna curvata di Stucco 2m"/>
+		<entry key="BuildingPartName_RR_TowerRound_B_4m" translation="Colonna curvata di Stucco 4m"/>
+		<entry key="BuildingPartName_RR_TowerRound_BaseCap_B_01" translation="Seziona della Base di Colonna curvata di Stucco"/>
+		<entry key="BuildingPartName_RR_TowerRound_BaseCap_Qtr_B_01" translation="Seziona Larga della Base di Colonna curvata di Stucco"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_A_1m" translation="Muro in Stucco 1m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_A_2m" translation="Muro in Stucco 2m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_A_4m" translation="Muro in Stucco 4m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_B_1m" translation="Muro in Intonaco 1m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_B_2m" translation="Muro in Intonaco 2m Frontone"/>
 		<entry key="BuildingPartName_RR_Wall_GableTri_B_4m" translation="Muro in Intonaco 4m Frontone"/>
-		<entry key="BuildingPartName_SF_Balcony_2m_01" translation="Metal Walkway 2m Square"/>
-		<entry key="BuildingPartName_SF_Balcony_4m_01" translation="Metal Walkway 4m by 2m"/>
-		<entry key="BuildingPartName_SF_Balcony_Railing_4m_01" translation="Metal Walkway Railing 4m"/>
-		<entry key="BuildingPartName_SF_Stairs_01" translation="Metal Walkway Stairs 4m"/>
-		<entry key="BuildingPartName_SF_Stairs_Short_01" translation="Metal Walkway Stairs 2m"/>
-		<entry key="BuildingPartName_SN_Roof_A_01" translation="Vetroresina Roof Piatto Corrugated"/>
-		<entry key="BuildingPartName_ST_ArchRound_Half_Tunnel_B_4m" translation="Castle Rounded Half Arch Tunnel"/>
-		<entry key="BuildingPartName_ST_ArchRound_Tunnel_B_4m" translation="Castle Rounded Arch Tunnel"/>
+		<entry key="BuildingPartName_SF_Balcony_2m_01" translation="Passerella di Metallo 2m Quadrata"/>
+		<entry key="BuildingPartName_SF_Balcony_4m_01" translation="Passerella di Metallo 4m da 2m"/>
+		<entry key="BuildingPartName_SF_Balcony_Railing_4m_01" translation="Passerella di Metallo - Ringhiera 4m"/>
+		<entry key="BuildingPartName_SF_Stairs_01" translation="Scale della Passerella di Metallo 4m"/>
+		<entry key="BuildingPartName_SF_Stairs_Short_01" translation="Scale della Passerella di Metallo 2m"/>
+		<entry key="BuildingPartName_SN_Roof_A_01" translation="Tetto Piatto Corrugato in Vetroresina"/>
+		<entry key="BuildingPartName_ST_ArchRound_Half_Tunnel_B_4m" translation="Tunnel a Mezzo Arco Tondo del Castello"/>
+		<entry key="BuildingPartName_ST_ArchRound_Tunnel_B_4m" translation="Tunnel ad Arco Tondo del Castello"/>
 		<entry key="BuildingPartName_ST_Arch_B_4m" translation="Supporto ad Arco per Castello"/>
 		<entry key="BuildingPartName_ST_Arch_Bridge_B_4m" translation="Corso decorativo per Castello"/>
 		<entry key="BuildingPartName_ST_Arch_Bridge_Circ_B_4m" translation="Corso decorativo curvo per Castello 4m"/>
@@ -1993,8 +1993,8 @@
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_02" translation="Muro rivestito di Strisce di Legno verniciato Testa a piccolo Arco"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_03" translation="Muro rivestito di Strisce di Legno verniciato Testa angolo largo"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_04" translation="Muro rivestito di Strisce di Legno verniciato Testa Arco largo"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_E_05" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta Stepped"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_E_06" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta Stepped Arch"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_E_05" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta - a Gradini"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_E_06" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta - Arco a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_07" translation="Muro rivestito di Strisce di Legno verniciato Testa ad Arco arrotondato"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_08" translation="Muro rivestito di Strisce di Legno verniciato Testa curva larga"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_08_L" translation="Muro rivestito di Strisce di Legno verniciato Testa Mezzo Arco a sinistra"/>
@@ -2043,8 +2043,8 @@
 		<entry key="BuildingPartName_WD_RoofTile_Corner_B_01_2m" translation="Mattonella di Legno 2m Angolo Esterno"/>
 		<entry key="BuildingPartName_WD_RoofTile_Corner_B_01_2m_Eave" translation="Gronda angolare Mattonella di Legno 2m"/>
 		<entry key="BuildingPartName_WD_RoofTile_Corner_B_01_4m" translation="Mattonella di Legno 4m Angolo Esterno"/>
-		<entry key="BuildingPartName_WD_RoofTile_Ridge_B_01" translation="Mattonella di Legno Ridge"/>
-		<entry key="BuildingPartName_WD_Roof_Flat_B_4m" translation="Tar Pitch Roof Flat"/>
+		<entry key="BuildingPartName_WD_RoofTile_Ridge_B_01" translation="Mattonella di Legno Increspata"/>
+		<entry key="BuildingPartName_WD_Roof_Flat_B_4m" translation="Tetto Piatto di Catrame"/>
 		<entry key="BuildingPartName_WD_Wall_GableTri_B_1m" translation="Muro rivestito di Legno Naturale 1m Frontone"/>
 		<entry key="BuildingPartName_WD_Wall_GableTri_B_2m" translation="Muro rivestito di Legno Naturale 2m Frontone"/>
 		<entry key="BuildingPartName_WD_Wall_GableTri_B_4m" translation="Muro rivestito di Legno Naturale 4m Frontone"/>
@@ -3977,8 +3977,8 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Neve e Ghiaccio"/>
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
@@ -4775,11 +4775,11 @@
 		<entry key="BuildingPartDesc_FWK_Prop_FireworkPearlLauncher" translation="Special Effect - Multiple streamer fireworks."/>
 		<entry key="BuildingPartDesc_FWK_Prop_LargeLauncher" translation="Large firework launcher."/>
 		<entry key="BuildingPartDesc_FWK_Prop_RomanCandleLauncher" translation="Special Effect - Flaming candle firework."/>
-		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Fireworks display sequencer."/>
-		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Fireworks display sequencer."/>
+		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Fireworks display Sequenziatore."/>
+		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Fireworks display Sequenziatore."/>
 		<entry key="BuildingPartDesc_FWK_Prop_SmallLauncher" translation="Small firework launcher."/>
-		<entry key="BuildingPartDesc_FWK_Sequencer" translation="Fireworks display sequencer."/>
-		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Fireworks display sequencer."/>
+		<entry key="BuildingPartDesc_FWK_Sequencer" translation="Fireworks display Sequenziatore."/>
+		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Fireworks display Sequenziatore."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour bunting."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour bunting."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour bunting."/>
@@ -4867,11 +4867,11 @@
 		<entry key="BuildingPartName_FWK_Prop_FireworkPearlLauncher" translation="Pearl Launcher"/>
 		<entry key="BuildingPartName_FWK_Prop_LargeLauncher" translation="Large Launcher"/>
 		<entry key="BuildingPartName_FWK_Prop_RomanCandleLauncher" translation="Roman Candle Launcher"/>
-		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Display Sequencer"/>
-		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Display Sequencer Stand"/>
+		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Display Sequenziatore"/>
+		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Display Sequenziatore Stand"/>
 		<entry key="BuildingPartName_FWK_Prop_SmallLauncher" translation="Small Launcher"/>
-		<entry key="BuildingPartName_FWK_Sequencer" translation="Display Sequencer"/>
-		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Display Sequencer Stand"/>
+		<entry key="BuildingPartName_FWK_Sequencer" translation="Display Sequenziatore"/>
+		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Display Sequenziatore Stand"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour Bunting Straight Curved 2m"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour Bunting Straight Curved 4m"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour Bunting Drooping 2m"/>
@@ -4921,7 +4921,7 @@
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Screens"/>
 		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fireworks"/>
-		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Display Sequencer"/>
+		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Display Sequenziatore"/>
 		<!--C3_TrackElements-->
 		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Left Steep Description"/>
 		<entry key="TrackElementDesc_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Right Steep Description"/>
@@ -12062,8 +12062,8 @@
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Roller Coaster Triggers"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
 		<entry key="HUD_HelpPopup_Controls" translation="{ControlText}"/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="The display sequencer allows you to trigger multiple objects and events by a schedule or from a a single ride or roller coaster trigger."/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Display Sequencer"/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="The display Sequenziatore allows you to trigger multiple objects and events by a schedule or from a a single ride or roller coaster trigger."/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Display Sequenziatore"/>
 		<entry key="HUD_HelpPopup_DontShow" translation="Disabilita Consigli"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Conferma Posizione"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Annulla Posizione"/>
@@ -12642,12 +12642,12 @@
 		<entry key="InfoPanel_DisplaySequencer_ContinuousLoop" translation="Continuous activation"/>
 		<entry key="InfoPanel_DisplaySequencer_Customise" translation="Customise"/>
 		<entry key="InfoPanel_DisplaySequencer_DisplayCameras" translation="Display Cameras"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayCamerasDescription" translation="Place and edit Display Cameras for this sequencer."/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayCamerasDescription" translation="Place and edit Display Cameras for this Sequenziatore."/>
 		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakers" translation="Display Speakers"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakersDescription" translation="Place Display Speakers from the scenery browser and connect them to the sequencer."/>
+		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakersDescription" translation="Place Display Speakers from the scenery browser and connect them to the Sequenziatore."/>
 		<entry key="InfoPanel_DisplaySequencer_DisplayTriggers" translation="Display Triggers"/>
 		<entry key="InfoPanel_DisplaySequencer_DisplayType" translation="Self Activation type"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayTypeTooltip" translation="Settings for the sequencer to trigger itself"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayTypeTooltip" translation="Settings for the Sequenziatore to trigger itself"/>
 		<entry key="InfoPanel_DisplaySequencer_EditSequence" translation="Edit Sequence"/>
 		<entry key="InfoPanel_DisplaySequencer_Loop" translation="Loop"/>
 		<entry key="InfoPanel_DisplaySequencer_LoopAndTrigger" translation="Looping and on trigger"/>
@@ -12668,11 +12668,11 @@
 		<entry key="InfoPanel_DisplaySequencer_ShowTimes" translation="Show times"/>
 		<entry key="InfoPanel_DisplaySequencer_SpecificAndTrigger" translation="At specific times"/>
 		<entry key="InfoPanel_DisplaySequencer_ToolTip_Camera" translation="Enter display camera mode"/>
-		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAll" translation="Select all parts connected to this display, including all sequencer children recursively"/>
-		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForRides" translation="Select the ride and all sequence parts, including all sequencer children recursively"/>
+		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAll" translation="Select all parts connected to this display, including all Sequenziatore children recursively"/>
+		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForRides" translation="Select the ride and all sequence parts, including all Sequenziatore children recursively"/>
 		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsLabel" translation="Total Scenery Events"/>
-		<entry key="InfoPanel_DisplaySequencer_TriggerableToggleTooltip" translation="If this sequencer can be triggered from an outside source"/>
+		<entry key="InfoPanel_DisplaySequencer_TriggerableToggleTooltip" translation="If this Sequenziatore can be triggered from an outside source"/>
 		<entry key="PopUp_DisplayCamera" translation="Display Camera Selector"/>
 		<entry key="PopUp_DisplayCamera_AddCamera" translation="+ Add Camera"/>
 		<entry key="PopUp_DisplayCamera_AddCamera_Tooltip" translation="Cannot add more than {COUNT:separatedFloat:decimalPlaces=0} cameras."/>
@@ -12849,7 +12849,7 @@
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
 		<!--InfoPanel_ModularScenery-->
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Cost Per Trigger"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Display Sequencer"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Display Sequenziatore"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySpeakersEntry" translation="Connected Display Speakers"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_Label" translation="Finance Statistics"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_MonthlyRunningCostHeader" translation="Monthly Running Cost"/>
@@ -15392,7 +15392,7 @@
 		<entry key="BuildingPartDesc_PC_Speaker_01" translation="Effetti Audio"/>
 		<entry key="BuildingPartDesc_PC_Speaker_02" translation="Effetti Audio"/>
 		<entry key="BuildingPartDesc_PC_Speaker_03" translation="Effetti Audio"/>
-		<entry key="BuildingPartDesc_PC_Speaker_04" translation="Plays the music from the display sequencer the speaker is attached to."/>
+		<entry key="BuildingPartDesc_PC_Speaker_04" translation="Plays the music from the display Sequenziatore the speaker is attached to."/>
 		<entry key="BuildingPartDesc_PC_StandSign_Dollar" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_StandSign_Medic" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_StandSign_Toilet" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
