@@ -2,7 +2,7 @@
 <localisation xmlns="http://www.planetcoaster.com/CommunityTranslation">
 	<translation>
 		<!--AdvancedTriggerEditor-->
-		<entry key="AdvancedTriggerEditor_AddGroup" translation="Add Display Group"/>
+		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Cannot add more display groups to this sequencer"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Add a new display group to the sequencer"/>
 		<entry key="AdvancedTriggerEditor_CancelButton" translation="Cancel"/>
@@ -3977,8 +3977,8 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Neve e Ghiaccio"/>
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
