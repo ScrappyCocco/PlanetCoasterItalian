@@ -3443,60 +3443,60 @@
 		<entry key="Powered_SleighRide_Desc" translation="Vagoni Alimentati Elettricamente, viaggiano lungo un percorso a velocità predefinita."/>
 		<!--C1_FlatRides-->
 		<entry key="FR_BDerby" translation="Bumpin Derby"/>
-		<entry key="FR_BDerby_Desc" translation="Bash your way to victory on this classic fairground ride!&#10;Attrazione Tranquilla"/>
+		<entry key="FR_BDerby_Desc" translation="Fai tua la vittoria in questa classica attrazione da fiera!&#10;Attrazione Tranquilla"/>
 		<entry key="FR_BDerby_Prefix" translation="Bumpin Derby"/>
 		<entry key="FR_Collider" translation="Collider"/>
-		<entry key="FR_Collider_Desc" translation="Defy gravity on this magnificent inverting gondola ride.&#10;Attrazione Tranquilla"/>
+		<entry key="FR_Collider_Desc" translation="Sfida la gravità in questa magnifica gondola che si capovolge.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Collider_Prefix" translation="Collider"/>
 		<entry key="FR_Sizzer" translation="Scizzer"/>
-		<entry key="FR_Sizzer_Desc" translation="Twist and spin at super fast speeds on this fairgound favourite!&#10;Thrill Ride"/>
+		<entry key="FR_Sizzer_Desc" translation="Gira e capovolgiti a velocità supersoniche su questo classico delle fiere!&#10;Attrazione Mozzafiato"/>
 		<entry key="FR_Sizzer_Prefix" translation="Scizzer"/>
 		<entry key="FR_TriStorm" translation="Tri-Storm"/>
-		<entry key="FR_TriStorm_Desc" translation="The classic high flying spinning amusement ride.&#10;Thrill Ride"/>
+		<entry key="FR_TriStorm_Desc" translation="La famosa attrazione che vola alto e ruota.&#10;Attrazione Mozzafiato"/>
 		<entry key="FR_TriStorm_Prefix" translation="Tri-Storm"/>
 		<entry key="Sequence_FR_BDerby_MainSequence" translation="Bump Around"/>
-		<entry key="Sequence_FR_Collider_Loop_Ground" translation="Senso Orario Loop Ground"/>
-		<entry key="Sequence_FR_Collider_Loop_High" translation="Senso Orario Loop High"/>
-		<entry key="Sequence_FR_Sizzer_Loop_Fast" translation="Spin Fast"/>
-		<entry key="Sequence_FR_Sizzer_Loop_Normal" translation="Spin"/>
-		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Fast" translation="Reverse Spin Fast"/>
-		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Normal" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_TriStorm_ForwardSpin" translation="Forward Spin"/>
-		<entry key="Sequence_FR_TriStorm_ForwardSpinLow" translation="Forward Spin Low"/>
-		<entry key="Sequence_FR_TriStorm_ReverseSpin" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_TriStorm_ReverseSpinLow" translation="Reverse Spin Low"/>
+		<entry key="Sequence_FR_Collider_Loop_Ground" translation="Senso Orario Giro Basso"/>
+		<entry key="Sequence_FR_Collider_Loop_High" translation="Senso Orario Giro Alto"/>
+		<entry key="Sequence_FR_Sizzer_Loop_Fast" translation="Rotazione Veloce"/>
+		<entry key="Sequence_FR_Sizzer_Loop_Normal" translation="Rotazione"/>
+		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Fast" translation="Rotazione Veloce all'indietro"/>
+		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Normal" translation="Rotazione all'indietro"/>
+		<entry key="Sequence_FR_TriStorm_ForwardSpin" translation="Rotazione in Avanti"/>
+		<entry key="Sequence_FR_TriStorm_ForwardSpinLow" translation="Rotazione in Avanti Bassa"/>
+		<entry key="Sequence_FR_TriStorm_ReverseSpin" translation="Rotazione all'indietro"/>
+		<entry key="Sequence_FR_TriStorm_ReverseSpinLow" translation="Rotazione all'indietro Bassa"/>
 		<!--C1_FrontEndMenu-->
 		<entry key="FrontEndMenu_Arctic" translation="Artico"/>
 		<entry key="FrontEndMenu_ArcticDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in un paesaggio invernale!"/>
 		<entry key="FrontEndMenu_ArcticSimulation" translation="Artico"/>
 		<entry key="FrontEndMenu_ArcticSimulationDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in un paesaggio invernale!"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic1" translation="Arctic 1"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic2" translation="Arctic 2"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic3" translation="Arctic 3"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic4" translation="Arctic 4"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic5" translation="Arctic 5"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic6" translation="Arctic 6"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic7" translation="Arctic 7"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic8" translation="Arctic 8"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic1" translation="Artico 1"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic2" translation="Artico 2"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic3" translation="Artico 3"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic4" translation="Artico 4"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic5" translation="Artico 5"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic6" translation="Artico 6"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic7" translation="Artico 7"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic8" translation="Artico 8"/>
 		<!--C1_Research-->
 		<entry key="Research_Hint_FR_BDerby" translation="Bump around"/>
 		<entry key="Research_Hint_FR_Collider" translation="Smashing the atom"/>
 		<entry key="Research_Hint_FR_Scizzer" translation="Twist and spin"/>
 		<entry key="Research_Hint_FR_TriStorm" translation="Three-armed classic"/>
-		<entry key="Research_Hint_Region_Arctic" translation="Arctic Flora"/>
-		<entry key="Research_Hint_Region_Festive" translation="Tema Festivo Scenery"/>
+		<entry key="Research_Hint_Region_Arctic" translation="Flora Artica"/>
+		<entry key="Research_Hint_Region_Festive" translation="Scenario Tema Festivo"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Dough" translation="Missy Good"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Smoothie" translation="Pipshot"/>
-		<entry key="Research_Hint_SleighRide" translation="Festive expedition"/>
+		<entry key="Research_Hint_SleighRide" translation="Spedizione Festiva"/>
 		<entry key="Research_Revealed_FR_BDerby" translation="Bumpin Derby"/>
 		<entry key="Research_Revealed_FR_Collider" translation="Collider"/>
 		<entry key="Research_Revealed_FR_Scizzer" translation="Scizzer"/>
 		<entry key="Research_Revealed_FR_TriStorm" translation="Tri-Storm"/>
-		<entry key="Research_Revealed_Region_Arctic" translation="Arctic Region"/>
-		<entry key="Research_Revealed_Region_Festive" translation="Festive Scenery"/>
+		<entry key="Research_Revealed_Region_Arctic" translation="Regione Artica"/>
+		<entry key="Research_Revealed_Region_Festive" translation="Scenario Festivo"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Dough" translation="Missy Good"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Smoothie" translation="Pipshot"/>
-		<entry key="Research_Revealed_SleighRide" translation="Sleigh Ride"/>
+		<entry key="Research_Revealed_SleighRide" translation="Corsa in Slitta"/>
 		<!--C1_Scenery-->
 		<entry key="BuildingPartDesc_FAD_CosmicCow_Icecream_Banner" translation="Venduto bello fresco per la gioia del tuo palato.&#10;Set Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCow_Icecream_BannerGlowSign" translation="Venduto bello fresco per la gioia del tuo palato.&#10;Set Mucca Cosmica"/>
@@ -4066,16 +4066,16 @@
 		<entry key="Powered_GoKarts_Desc" translation="Guests race against each other in go-karts."/>
 		<!--C2_FlatRides-->
 		<entry key="FR_ElixirM" translation="Elixir Machine"/>
-		<entry key="FR_ElixirM_Desc" translation="Spin, swing and flip in this fast moving, thrilling ride.&#10;Thrill Ride"/>
+		<entry key="FR_ElixirM_Desc" translation="Spin, swing and flip in this fast moving, thrilling ride.&#10;Attrazione Mozzafiato"/>
 		<entry key="FR_ElixirM_Prefix" translation="Elixir Machine"/>
 		<entry key="FR_GiantW" translation="Big Wheel"/>
 		<entry key="FR_GiantW_Desc" translation="This classic Ferris Wheel is a firm family favourite.&#10;Gentle Ride"/>
 		<entry key="FR_GiantW_Prefix" translation="Big Wheel"/>
 		<entry key="FR_PathosIII" translation="Pathos III"/>
-		<entry key="FR_PathosIII_Desc" translation="Spin on all axes with this popular carnival ride.&#10;Thrill Ride"/>
+		<entry key="FR_PathosIII_Desc" translation="Spin on all axes with this popular carnival ride.&#10;Attrazione Mozzafiato"/>
 		<entry key="FR_PathosIII_Prefix" translation="Pathos III"/>
 		<entry key="FR_Zozo" translation="Zozo"/>
-		<entry key="FR_Zozo_Desc" translation="Soar high above the ground with this unique ride.&#10;Thrill Ride"/>
+		<entry key="FR_Zozo_Desc" translation="Soar high above the ground with this unique ride.&#10;Attrazione Mozzafiato"/>
 		<entry key="FR_Zozo_Prefix" translation="Zozo"/>
 		<entry key="Sequence_FR_ElixirM_ReverseSlowSpin" translation="Reverse Spin Slow"/>
 		<entry key="Sequence_FR_ElixirM_ReverseSpin" translation="Reverse Spin"/>
@@ -4703,7 +4703,7 @@
 		<entry key="FR_Blackout_Desc" translation="Blast into deep space aboard this swinging starship.&#10;Gentle Ride"/>
 		<entry key="FR_Blackout_Prefix" translation="Blackout"/>
 		<entry key="FR_DragonHeart" translation="Iron Claw"/>
-		<entry key="FR_DragonHeart_Desc" translation="This thrilling pendulum will grip you.&#10;Thrill Ride"/>
+		<entry key="FR_DragonHeart_Desc" translation="This thrilling pendulum will grip you.&#10;Attrazione Mozzafiato"/>
 		<entry key="FR_DragonHeart_Prefix" translation="Iron Claw"/>
 		<entry key="FR_SkyWatcher" translation="Sky Watcher"/>
 		<entry key="FR_SkyWatcher_Desc" translation="Climb high! See the world!&#10;Gentle Ride"/>
@@ -5111,7 +5111,7 @@
 		<entry key="Coaster_MUC" translation="Malice Unchained"/>
 		<entry key="Coaster_MUC_Desc" translation="Steel track and wooden coaster supports combine to create a hybrid coaster that can invert, whilst retaining the look and characteristics of a wooden coaster."/>
 		<entry key="Coaster_MtSplash" translation="Chopper's Creek"/>
-		<entry key="Coaster_MtSplash_Desc" translation="Log Flume water ride, which can be used to build a gentle river ride or a thrill ride with big drops."/>
+		<entry key="Coaster_MtSplash_Desc" translation="Log Flume water ride, which can be used to build a gentle river ride or a attrazione mozzafiato with big drops."/>
 		<entry key="Coaster_Pioneer" translation="Pioneer"/>
 		<entry key="Coaster_Pioneer_Desc" translation="Riders sit in carriages that are suspended out to the side of the track and can freely spin longitudinally."/>
 		<entry key="Coaster_Rage" translation="Rage"/>
@@ -16867,7 +16867,7 @@
 		<entry key="Tag_Blueprint_SmallRide" translation="Small Ride"/>
 		<entry key="Tag_Blueprint_Spinning" translation="Spinning Ride"/>
 		<entry key="Tag_Blueprint_Swinging" translation="Swinging Ride"/>
-		<entry key="Tag_Blueprint_ThrillRide" translation="Thrill Ride"/>
+		<entry key="Tag_Blueprint_ThrillRide" translation="Attrazione Mozzafiato"/>
 		<entry key="Tag_Blueprint_Tower" translation="Tower Ride"/>
 		<entry key="Tag_Blueprint_TrackRide" translation="Circuiti di corse"/>
 		<entry key="Tag_Blueprint_Tracked" translation="Tracked Ride"/>
