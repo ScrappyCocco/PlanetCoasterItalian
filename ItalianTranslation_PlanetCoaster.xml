@@ -2,54 +2,54 @@
 <localisation xmlns="http://www.planetcoaster.com/CommunityTranslation">
 	<translation>
 		<!--AdvancedTriggerEditor-->
-		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
+    <entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questo Sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico al Sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_CancelButton" translation="Annulla"/>
-		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Disconnetti tutti gli oggetti da questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Scollega tutti gli elementi da questo innesco"/>
 		<entry key="AdvancedTriggerEditor_CoasterAddGroup" translation="Aggiungi Innesco"/>
 		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipDisabled" translation="Non puoi aggiungere altri inneschi a questo percorso"/>
-		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipEnabled" translation="Aggiungi un punto nel percorso che si attiva quando il treno passa."/>
+		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipEnabled" translation="Aggiungi un punto al percorso che si attiverà quando passa il treno."/>
 		<entry key="AdvancedTriggerEditor_CoasterGroupLabelDefault" translation="Innesco Percorso"/>
 		<entry key="AdvancedTriggerEditor_CoasterHeaderTitle" translation="Inneschi Percorso"/>
-		<entry key="AdvancedTriggerEditor_CoasterPopUpDescription" translation="Posiziona inneschi sul percorso e collegali a scenari animati"/>
+		<entry key="AdvancedTriggerEditor_CoasterPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato"/>
 		<entry key="AdvancedTriggerEditor_CoasterPopUpTitle" translation="Inneschi Percorso"/>
 		<entry key="AdvancedTriggerEditor_CoasterTriggerId" translation="{VALUE:int}"/>
-		<entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Connetti la selezione a Gruppo Innesco"/>
-		<entry key="AdvancedTriggerEditor_ConfirmSelectionTooManyItems" translation="Troppi oggetti da connettere a Gruppo Innesco"/>
+	  <entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Collega la selezione al Gruppo Innesco"/>
+		<entry key="AdvancedTriggerEditor_ConfirmSelectionTooManyItems" translation="Troppi oggetti da collegare al Gruppo Innesco"/>
 		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Inneschi Display"/>
 		<entry key="AdvancedTriggerEditor_DoneButton" translation="Fatto"/>
 		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplica"/>
-		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Modifica Sequenza Innesco"/>
-		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="Puoi modificare le sequenze d'Innesco di ogni parte della giostra"/>
-		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
-		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Innesco Giostra"/>
-		<entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="Inneschi Giostra"/>
-		<entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Gli Inneschi della Giostra si azionano nel momento corrispondente all'inizio della Sequenza d'Animazione"/>
-		<entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Inneschi Giostra"/>
+		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Modifica Sequenza di Innesco"/>
+		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="Puoi modificare le sequenze di innesco per ogni sequenza dell'attrazione"/>
+		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
+		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Innesco Attrazione"/>
+		<entry key="AdvancedTriggerEditor_FlatRideHeaderTitle" translation="Inneschi Attrazione"/>
+		<entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Gli Inneschi dell'attrazione si avviano nello stesso momento della corrispondente Sequenza di Animazione"/>
+		<entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Inneschi Attrazione"/>
 		<entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="Inneschi {Name}"/>
-		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona inneschi sul percorso e collegali a scenari animati&#10;Il primo vagoncino che passerà per questo punto, lo innescherà."/>
+    <entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato&#10; La prima vettura che passerà oltre questo punto lo attiverà."/>
 		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Crea una Sequenza d'Innesco"/>
-		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Piazza un Innesco sul Tracciato"/>
+		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Tracciato"/>
 		<entry key="AdvancedTriggerEditor_Play" translation="Testa attivazione sugli oggetti collegati"/>
-		<entry key="AdvancedTriggerEditor_PlayTriggerSequence" translation="Inizia Sequenza Innesco"/>
+		<entry key="AdvancedTriggerEditor_PlayTriggerSequence" translation="Avvia Sequenza Innesco"/>
 		<entry key="AdvancedTriggerEditor_PlayerTime" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"/>
-		<entry key="AdvancedTriggerEditor_Racing_LapStepper" translation="Innesco solo su Giro"/>
-		<entry key="AdvancedTriggerEditor_Racing_PlaceStepper" translation="Innesco solo su Posizione"/>
-		<entry key="AdvancedTriggerEditor_Racing_TriggerAllLaps" translation="Innesco su tutti i Giri"/>
-		<entry key="AdvancedTriggerEditor_Racing_TriggerAllPlaces" translation="Innesco su tutte le Posizioni"/>
-		<entry key="AdvancedTriggerEditor_RemoveFromGroupToolTip" translation="Disconnetti da questo Gruppo Scenico"/>
-		<entry key="AdvancedTriggerEditor_RemoveFromTriggerToolTip" translation="Disconnetti da questo Innesco"/>
-		<entry key="AdvancedTriggerEditor_RemoveGroupToolTip" translation="Rimuovi questo gruppo"/>
-		<entry key="AdvancedTriggerEditor_RemoveTriggerToolTip" translation="Rimuovi questo Innesco"/>
-		<entry key="AdvancedTriggerEditor_ResetAllEventTimes" translation="Reset Ritardi Evento"/>
-		<entry key="AdvancedTriggerEditor_RideAddItems" translation="Collega oggetti a Innesco"/>
+		<entry key="AdvancedTriggerEditor_Racing_LapStepper" translation="Attiva solo su Giro"/>
+		<entry key="AdvancedTriggerEditor_Racing_PlaceStepper" translation="Attiva solo su Posizione"/>
+		<entry key="AdvancedTriggerEditor_Racing_TriggerAllLaps" translation="Attiva su tutti i Giri"/>
+		<entry key="AdvancedTriggerEditor_Racing_TriggerAllPlaces" translation="Attiva su tutte le Posizioni"/>
+		<entry key="AdvancedTriggerEditor_RemoveFromGroupToolTip" translation="Scollega da questo Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_RemoveFromTriggerToolTip" translation="Scollega da questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_RemoveGroupToolTip" translation="Elimina questo gruppo"/>
+		<entry key="AdvancedTriggerEditor_RemoveTriggerToolTip" translation="Elimina questo Innesco"/>
+		<entry key="AdvancedTriggerEditor_ResetAllEventTimes" translation="Resetta Ritardi Evento"/>
+		<entry key="AdvancedTriggerEditor_RideAddItems" translation="Collega Oggetti a Innesco"/>
 		<entry key="AdvancedTriggerEditor_RideAddItemsToolTipDisabled" translation="Non puoi collegare altri oggetti a questo Innesco"/>
 		<entry key="AdvancedTriggerEditor_RideAddItemsToolTipEnabled" translation="Collega oggetti all'Innesco"/>
-		<entry key="AdvancedTriggerEditor_RideTriggersLabel" translation="Inneschi su Percorso"/>
+		<entry key="AdvancedTriggerEditor_RideTriggersLabel" translation="Inneschi su Attrazione"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectAvailableLabel" translation="Scenario Innescabile Disponibile"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectAvailableToolTip" translation="Scenario Innescabile Disponibile nel parco"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectDescription" translation="Usa lo strumento Multiselezione per selezionare e collgare Scenari Innescabili"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectDescription" translation="Usa lo strumento Selezione Multipla per selezionare e collegare lo Scenario Innescabile"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectGetMoreButton" translation="Ottieni più Scenari Innescabili"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedLabel" translation="Scenari Innescabili Selezionati"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedListLabel" translation="Scenari Innescabili"/>
@@ -57,38 +57,38 @@
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSubTitle" translation="Collega Scenari Innescabili"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectTitle" translation="Selettore Scenari Innescabili"/>
-		<entry key="AdvancedTriggerEditor_SelectObjectToAdd" translation="Seleziona oggetti da collegare"/>
-		<entry key="AdvancedTriggerEditor_SequencerEditTriggersDescription" translation="Aggiungi Gruppi Scenici e modifica l'oggetto innescabile in ogni gruppo, per creare una sequenza"/>
+		<entry key="AdvancedTriggerEditor_SelectObjectToAdd" translation="Seleziona Oggetti da collegare"/>
+		<entry key="AdvancedTriggerEditor_SequencerEditTriggersDescription" translation="Aggiungi Gruppi Scenici e modifica gli oggetti innescabili in ogni gruppo, per creare una sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItems" translation="Collega Oggetti a Gruppo"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipDisabled" translation="Non puoi collegare altri oggetti a questo Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipEnabled" translation="Collega oggetti innescabili al Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupLabelDefault" translation="Gruppo Scenico"/>
-		<entry key="AdvancedTriggerEditor_SequencerHeaderTitle" translation="Inneschi Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SequencerHeaderTitle" translation="Sequenziatore di Inneschi"/>
 		<entry key="AdvancedTriggerEditor_SequencerLenthValueLabel" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2} - {LoopType}"/>
-		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="I Gruppi Scenici si attivano dopo il tempo d'attesa specificato da quando si innesca il Sequenziatore"/>
-		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="Mia Sequenza"/>
+		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="I Gruppi Scenici si innescano solo dopo il tempo d'attesa specificato da quando si attiva il Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="La mia Sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Inizia Sequenza"/>
-		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Inneschi Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Sequenziatore di Inneschi"/>
 		<entry key="AdvancedTriggerEditor_Sort" translation="Ordina Tutti"/>
-		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e oggetti"/>
+		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e gli oggetti"/>
 		<entry key="AdvancedTriggerEditor_SortTooltip" translation="L'interfaccia si ordinerà solo quando chiudi il pannello o premi il pulsante Ordina Tutti"/>
-		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega casse del display al Sequenziatore"/>
-		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppe casse del display da collegare"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Cassa del display disponibile"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibile nel parco"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectDescription" translation="Usa lo strumento Multiselezione per scegliere e collegare le Casse del display"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedLabel" translation="Casse del Display Selezionate"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedListLabel" translation="Casse del Display Selezionate"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedToolTip" translation="Casse del Display Selezionate al momento"/>
+			<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppi altoparlanti da collegare"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Altoparlanti Disponibili"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibili nel parco"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectDescription" translation="Usa lo strumento Selezione Multipla per selezionare e collegare gli altoparlanti"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedLabel" translation="Altoparlanti Selezionati"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedListLabel" translation="Altoparlanti Selezionati"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedToolTip" translation="Altoparlanti attualmente Selezionati"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectSubTitle" translation="Collega Casse del Display"/>
-		<entry key="AdvancedTriggerEditor_TrackEditTriggersDescription" translation="Puoi aggiungere inneschi a punti del TRACK"/>
-		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
-		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Inneschi TRACK"/>
-		<entry key="AdvancedTriggerEditor_TriggerEventPointsValueLabel" translation="Punti Innesco: {Points:int}"/>
-		<entry key="AdvancedTriggerEditor_TriggerEventStatLabel" translation="Evento Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerEventValueLabel" translation="Oggetti: {Items:int}"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectSubTitle" translation="Collega Altoparlanti"/>
+		<entry key="AdvancedTriggerEditor_TrackEditTriggersDescription" translation="Puoi aggiungere gli inneschi a punti del tracciato"/>
+		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
+		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Inneschi sul Tracciato"/>
+		<entry key="AdvancedTriggerEditor_TriggerEventPointsValueLabel" translation="Punti di Innesco: {Points:int}"/>
+		<entry key="AdvancedTriggerEditor_TriggerEventStatLabel" translation="Attiva Evento"/>
+		<entry key="AdvancedTriggerEditor_TriggerEventValueLabel" translation="Elementi: {Items:int}"/>
 		<!--AvatarCreator-->
 		<entry key="AvatarCreator_Accept" translation="Accetta"/>
 		<entry key="AvatarCreator_AdultCouple" translation="Coppia di Adulti"/>
