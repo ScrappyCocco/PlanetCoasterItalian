@@ -943,7 +943,7 @@
 		<entry key="BuildingPartDesc_PC_Scaffolding_PipeBase_4m" translation="Tubo di Ferro\nAlto 4m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_PC_Scaffolding_Pipe_4m" translation="Tubo di Ferro\nAlto 4m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_PC_Scaffolding_Support_4m" translation="Barra di Ferro\nAlto 4m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_PC_ShopAwning_ChiefBeef" translation="Una tenda per il chiosco di Capitano Manzo."/>
+		<entry key="BuildingPartDesc_PC_ShopAwning_ChiefBeef" translation="Una tenda per il chiosco di Capitan Manzo."/>
 		<entry key="BuildingPartDesc_PC_ShopAwning_CosmicCow" translation="Una tenda per il chiosco della Mucca Cosmica."/>
 		<entry key="BuildingPartDesc_PC_ShopAwning_Generic_01" translation="Una tenda a tema Planet Coaster per usi generici."/>
 		<entry key="BuildingPartDesc_PC_TrackDec_4m_Corner" translation="Una sezione angolare inutilizzata di binari, aderisce bene al muro.\nTema Moderno"/>
@@ -1609,7 +1609,7 @@
 		<entry key="BuildingPartName_PC_Scaffolding_PipeBase_4m" translation="Base Tubo in Armatura di Ferro"/>
 		<entry key="BuildingPartName_PC_Scaffolding_Pipe_4m" translation="Tubo in Armatura di Ferro"/>
 		<entry key="BuildingPartName_PC_Scaffolding_Support_4m" translation="Supporto per Muro in Armatura di Ferro 4m"/>
-		<entry key="BuildingPartName_PC_ShopAwning_ChiefBeef" translation="Tenda per Negozio - Capitano Manzo"/>
+		<entry key="BuildingPartName_PC_ShopAwning_ChiefBeef" translation="Tenda per Negozio - Capitan Manzo"/>
 		<entry key="BuildingPartName_PC_ShopAwning_CosmicCow" translation="Tenda per Negozio - Mucca Cosmica"/>
 		<entry key="BuildingPartName_PC_ShopAwning_Generic_01" translation="Tenda per Negozio - Planet Coaster"/>
 		<entry key="BuildingPartName_PC_TrackDec_4m_Corner" translation="Binario Ornamentale ad Angolo"/>
@@ -2066,17 +2066,17 @@
 		<entry key="BuildingPartDesc_BK_Pillar_C_01_4m" translation="Pilastro di mattoni classico 4m"/>
 		<entry key="BuildingPartDesc_FAD_BurgerBasic_BurgerNeon" translation="Insegna Neon Burger Semplice.\nSet Cibo Classico"/>
 		<entry key="BuildingPartDesc_FAD_BurgerBasic_BurgerSign" translation="Insegna Neon Burger Semplice.\nSet Cibo Classico"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefBadge" translation="Il distintivo del Capitano.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefCrest" translation="E' un segno!\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefCutoutSign" translation="Lui è per la Liberta' e il manzo!\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalGlowSign" translation="Una splendente Pancetta di legge e ordine.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalSign" translation="Non troppo grosso, e non troppo piccolo.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeSign" translation="Aumentiamo il ManzoSegnale!\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeVerticalSign" translation="La giustizia e' onnipresente.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefNeonSign" translation="Per quando hai veramente bisogno di essere visto.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefPatrolLight" translation="Luce patriottica.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefVerticalSign" translation="Lascia che la luce ti guidi alla verita', giustizia e ai panini.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefWoodenSign" translation="Per un look grigliato, fiammante e rustico.\nSet Capitano Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefBadge" translation="Il distintivo del Capitano.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefCrest" translation="E' un segno!\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefCutoutSign" translation="Lui è per la Liberta' e il manzo!\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalGlowSign" translation="Una splendente Pancetta di legge e ordine.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalSign" translation="Non troppo grosso, e non troppo piccolo.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeSign" translation="Aumentiamo il ManzoSegnale!\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeVerticalSign" translation="La giustizia e' onnipresente.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefNeonSign" translation="Per quando hai veramente bisogno di essere visto.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefPatrolLight" translation="Luce patriottica.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefVerticalSign" translation="Lascia che la luce ti guidi alla verita', giustizia e ai panini.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefWoodenSign" translation="Per un look grigliato, fiammante e rustico.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBanner" translation="Frullati che sono oltre questo mondo.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBannerGlowSign" translation="Latticini molto buoni, sanno di alieno.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBannerStand" translation="Un'intera Galassia di Sapori.\nSet Mucca Cosmica"/>
@@ -2234,8 +2234,8 @@
 		<entry key="BuildingPartDesc_PC_PosterWall_04" translation="Poster Murale 04\nTema Moderno"/>
 		<entry key="BuildingPartDesc_PC_PosterWall_05" translation="Poster Murale 05\nTema Moderno"/>
 		<entry key="BuildingPartDesc_PC_PosterWall_06" translation="Poster Murale 06\nTema Moderno"/>
-		<entry key="BuildingPartDesc_PC_ShopFascia_A_01" translation="Copertura in plastica rossa da porre sopra il bancone.\nSet Capitano Manzo"/>
-		<entry key="BuildingPartDesc_PC_ShopFascia_A_02" translation="Copertura in plastica blu da porre sopra il bancone.\nSet Capitano Manzo"/>
+		<entry key="BuildingPartDesc_PC_ShopFascia_A_01" translation="Copertura in plastica rossa da porre sopra il bancone.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_PC_ShopFascia_A_02" translation="Copertura in plastica blu da porre sopra il bancone.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_PC_ShopFascia_A_03" translation="Copertura in plastica turchese da porre sopra il bancone.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_PC_ShopFascia_A_04" translation="Copertura in plastica rosa da porre sopra il bancone.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_PC_Signs_Atom" translation="Insegna Sci-Fi.&#10;Tema Sci-Fi"/>
@@ -2453,7 +2453,7 @@
 		<entry key="BuildingPartDesc_SF_Wallpiece_Trim_01" translation="Qual'e' la sua funzione?&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Wallpiece_Trim_02" translation="Qual'e' la sua funzione?&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SH_Awning_CCIcecream" translation="Una tenda per il tuo negozio.&#10;Set Mucca Cosmica"/>
-		<entry key="BuildingPartDesc_SH_Awning_ChiefBeef" translation="Una tenda per il tuo negozio.&#10;Set Capitano Manzo"/>
+		<entry key="BuildingPartDesc_SH_Awning_ChiefBeef" translation="Una tenda per il tuo negozio.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_SH_Awning_CosmicCow" translation="Una tenda per il tuo negozio.&#10;Set Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_SH_Awning_FoxCoffee" translation="Una tenda per il tuo negozio.&#10;Set Caffe' strada della Volpe"/>
 		<entry key="BuildingPartDesc_SH_Awning_Frites" translation="Una tenda per il tuo negozio.&#10;Set Monsieur Frites"/>
@@ -2461,7 +2461,7 @@
 		<entry key="BuildingPartDesc_SH_Awning_GulpeeSlushie" translation="Una tenda per il tuo negozio.&#10;Set Gulpee"/>
 		<entry key="BuildingPartDesc_SH_Awning_GulpeeSoda" translation="Una tenda per il tuo negozio.&#10;Set Gulpee"/>
 		<entry key="BuildingPartDesc_SH_Awning_Hats" translation="Una tenda per il tuo negozio.&#10;Set Hat's Fantastic"/>
-		<entry key="BuildingPartDesc_SH_Awning_Hotdog" translation="Una tenda per il tuo negozio.&#10;Set Capitano Manzo"/>
+		<entry key="BuildingPartDesc_SH_Awning_Hotdog" translation="Una tenda per il tuo negozio.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_SH_Awning_JustaMomento" translation="Una tenda per il tuo negozio.&#10;Set Solo un Momento"/>
 		<entry key="BuildingPartDesc_SH_Awning_LoonyBlooons" translation="Una tenda per il tuo negozio.&#10;Set Loony Blooons"/>
 		<entry key="BuildingPartDesc_SH_Awning_Mexelente" translation="Una tenda per il tuo negozio.&#10;Set Mexelente"/>
@@ -2594,17 +2594,17 @@
 		<entry key="BuildingPartName_BK_Pillar_C_01_4m" translation="Pilastro di mattoni classici 4m"/>
 		<entry key="BuildingPartName_FAD_BurgerBasic_BurgerNeon" translation="Insegna Neon Burger Base"/>
 		<entry key="BuildingPartName_FAD_BurgerBasic_BurgerSign" translation="Insegna Burger Base"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefBadge" translation="Emblema Capitano Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefCrest" translation="Insegna piccolo logo Capitano Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefCutoutSign" translation="Insegna Capitano Manzo - Insegna da Muro 6 Saluto"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalGlowSign" translation="Insegna sospesa ampia larga Capitano Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalSign" translation="Insegna sospesa ampia media Capitano Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefLargeSign" translation="Capitano Manzo Emblem Large Lit Sign"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefLargeVerticalSign" translation="Capitano Manzo Tall Large Lit Sign"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefNeonSign" translation="Insegna Neon Capitano Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefPatrolLight" translation="Capitano Manzo Luce di pattuglia"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefVerticalSign" translation="Insegna alta illuminata Capitano Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefWoodenSign" translation="Insegna scudo di Legno Capitano Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefBadge" translation="Emblema Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefCrest" translation="Insegna piccolo logo Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefCutoutSign" translation="Insegna Capitan Manzo - Insegna da Muro 6 Saluto"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalGlowSign" translation="Insegna sospesa ampia larga Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalSign" translation="Insegna sospesa ampia media Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefLargeSign" translation="Capitan Manzo Emblem Grande Illuminato"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefLargeVerticalSign" translation="Capitan Manzo Insegna Alta Illuminata"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefNeonSign" translation="Insegna Neon Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefPatrolLight" translation="Capitan Manzo Luce di pattuglia"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefVerticalSign" translation="Insegna alta illuminata Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefWoodenSign" translation="Insegna scudo di Legno Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBanner" translation="Stendardo Mucca Cosmica"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBannerGlowSign" translation="Insegna Mucca Cosmica - UFO illuminato"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBannerStand" translation="Insegna Mucca Cosmica - Stendardo frullati"/>
@@ -2741,7 +2741,7 @@
 		<entry key="BuildingPartName_PC_Light_02" translation="Lampada"/>
 		<entry key="BuildingPartName_PC_Light_03" translation="Striscia quadrata per lampada"/>
 		<entry key="BuildingPartName_PC_Light_04" translation="Lampada quadrata"/>
-		<entry key="BuildingPartName_PC_Light_05" translation="Uplight"/>
+		<entry key="BuildingPartName_PC_Light_05" translation="Luce ascendente"/>
 		<entry key="BuildingPartName_PC_Parksign_03" translation="Planet Coaster Insegna ad Arco"/>
 		<entry key="BuildingPartName_PC_Parksign_04" translation="Planet Coaster Insegna piatta - Piccola"/>
 		<entry key="BuildingPartName_PC_Parksign_05" translation="Planet Coaster Insegna curva"/>
@@ -2981,7 +2981,7 @@
 		<entry key="BuildingPartName_SF_Wallpiece_Trim_01" translation="Rivestimento semplice muro Vetroresina"/>
 		<entry key="BuildingPartName_SF_Wallpiece_Trim_02" translation="Display rivestimento muro Vetroresina"/>
 		<entry key="BuildingPartName_SH_Awning_CCIcecream" translation="Tenda per Negozio - Gelati Mucca Cosmica"/>
-		<entry key="BuildingPartName_SH_Awning_ChiefBeef" translation="Tenda per Negozio - Capitano Manzo"/>
+		<entry key="BuildingPartName_SH_Awning_ChiefBeef" translation="Tenda per Negozio - Capitan Manzo"/>
 		<entry key="BuildingPartName_SH_Awning_CosmicCow" translation="Tenda per Negozio - Mucca Cosmica"/>
 		<entry key="BuildingPartName_SH_Awning_FoxCoffee" translation="Tenda per Negozio - Street Fox Coffee"/>
 		<entry key="BuildingPartName_SH_Awning_Frites" translation="Tenda per Negozio - Monsieur Frites"/>
@@ -3127,7 +3127,7 @@
 		<entry key="Blueprints_HOL_ChristmasTreeSceneS02" translation="Albero di natale - Piccolo"/>
 		<entry key="Blueprints_HOL_ChristmasTreeSceneS02Desc" translation="Decora l'entrata!"/>
 		<entry key="Blueprints_HOL_ChristmasTreeSceneSDesc" translation="Decora l'entrata!"/>
-		<entry key="Blueprints_HOL_FestiveATM" translation="Bacomant Festoso"/>
+		<entry key="Blueprints_HOL_FestiveATM" translation="Bancomant Festoso"/>
 		<entry key="Blueprints_HOL_FestiveATMDesc" translation="Pieno di festose banconote!"/>
 		<entry key="Blueprints_HOL_FestiveCastle" translation="Castello Festoso"/>
 		<entry key="Blueprints_HOL_FestiveCastleDesc" translation="Pieno di spirito natalizio!"/>
@@ -3139,8 +3139,8 @@
 		<entry key="Blueprints_HOL_FestiveEntranceSDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveFirstAid" translation="Infermeria festosa"/>
 		<entry key="Blueprints_HOL_FestiveFirstAidDesc" translation="Piena di spirito festoso!"/>
-		<entry key="Blueprints_HOL_FestiveFood" translation="Festoso chiosco del cibo"/>
-		<entry key="Blueprints_HOL_FestiveFood02" translation="Festoso chiosco del cibo 2"/>
+		<entry key="Blueprints_HOL_FestiveFood" translation="Chiosco Festoso del cibo"/>
+		<entry key="Blueprints_HOL_FestiveFood02" translation="Chiosco Festoso del cibo 2"/>
 		<entry key="Blueprints_HOL_FestiveFood02Desc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveFoodDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveGift" translation="Negozio di souvenir festoso"/>
@@ -3171,8 +3171,8 @@
 		<entry key="Blueprints_HOL_FestiveInfoDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveScene" translation="Scenografia Festosa"/>
 		<entry key="Blueprints_HOL_FestiveScene02" translation="Scenografia Festosa 2"/>
-		<entry key="Blueprints_HOL_FestiveScene02Desc" translation="Un amorevole e fesosto momento."/>
-		<entry key="Blueprints_HOL_FestiveSceneDesc" translation="Un amorevole e fesosto momento."/>
+		<entry key="Blueprints_HOL_FestiveScene02Desc" translation="Un amorevole e festoso momento."/>
+		<entry key="Blueprints_HOL_FestiveSceneDesc" translation="Un amorevole e festoso momento."/>
 		<entry key="Blueprints_HOL_FestiveShopping" translation="Area shopping festosa"/>
 		<entry key="Blueprints_HOL_FestiveShoppingDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveThemed" translation="Negozi a tema Festoso"/>
@@ -3184,7 +3184,7 @@
 		<entry key="Blueprints_HOL_FestiveTower" translation="Torre Festosa"/>
 		<entry key="Blueprints_HOL_FestiveTowerDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_GiantSnowman" translation="Pupazzo di neve Gigante"/>
-		<entry key="Blueprints_HOL_GiantSnowmanDesc" translation="è enorme!!"/>
+		<entry key="Blueprints_HOL_GiantSnowmanDesc" translation="E' enorme!!"/>
 		<entry key="Blueprints_HOL_GiftCollection" translation="Collezione di regali"/>
 		<entry key="Blueprints_HOL_GiftCollectionDesc" translation="Una piccola collezione di regali."/>
 		<entry key="Blueprints_HOL_GingerbreadCastle" translation="Castello di pan di zenzero"/>
@@ -3214,106 +3214,106 @@
 		<entry key="Blueprints_HOL_GingerbreadTower" translation="Torre di pan di zenzero"/>
 		<entry key="Blueprints_HOL_GingerbreadTowerDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_SnowScene" translation="Scenografia Nevosa e festosa"/>
-		<entry key="Blueprints_HOL_SnowSceneDesc" translation="Sembra freddolosa."/>
+		<entry key="Blueprints_HOL_SnowSceneDesc" translation="Sembra ghiacciata."/>
 		<entry key="Blueprints_HOL_Snowman01" translation="Pupazzo di neve festoso"/>
-		<entry key="Blueprints_HOL_Snowman01Desc" translation="Sembra freddoloso."/>
+		<entry key="Blueprints_HOL_Snowman01Desc" translation="Sembra ghiacciato."/>
 		<entry key="Blueprints_HOL_Snowman02" translation="Pupazzo di neve festoso 2"/>
-		<entry key="Blueprints_HOL_Snowman02Desc" translation="Sembra freddoloso."/>
+		<entry key="Blueprints_HOL_Snowman02Desc" translation="Sembra ghiacciato."/>
 		<entry key="Blueprints_HOL_Snowman03" translation="Pupazzo di neve festoso 3"/>
-		<entry key="Blueprints_HOL_Snowman03Desc" translation="Sembra freddoloso."/>
+		<entry key="Blueprints_HOL_Snowman03Desc" translation="Sembra ghiacciato."/>
 		<entry key="Blueprints_HOL_Snowman04" translation="Pupazzo di neve festoso 4"/>
-		<entry key="Blueprints_HOL_Snowman04Desc" translation="Sembra freddoloso."/>
+		<entry key="Blueprints_HOL_Snowman04Desc" translation="Sembra ghiacciato."/>
 		<entry key="Blueprints_HOL_Snowman05" translation="Pupazzo di neve festoso 5"/>
-		<entry key="Blueprints_HOL_Snowman05Desc" translation="Sembra freddoloso."/>
+		<entry key="Blueprints_HOL_Snowman05Desc" translation="Sembra ghiacciato."/>
 		<entry key="Blueprints_HOL_SnowmenScene" translation="Scenografia festosa del pupazzo di neve"/>
-		<entry key="Blueprints_HOL_SnowmenSceneDesc" translation="Sembra freddolosa."/>
+		<entry key="Blueprints_HOL_SnowmenSceneDesc" translation="Sembra ghiacciata."/>
 		<!--C1_BuildingParts-->
-		<entry key="BuildingPartDesc_HOL_ArchHalf_Tunnel" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Arch_Tunnel" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Arch" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_ArchHalf" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Doorway" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;2m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;4m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero&#10;Alto 0.6m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_ArchHalf_Tunnel" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Arch_Tunnel" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Arch" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ArchHalf" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Doorway" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;Alto 2m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;Alto 4m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero&#10;Alto 0.6m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartName_HOL_ArchHalf_Tunnel" translation="Pan di Zenzero - Mezzo Tunnel con Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Arch_Tunnel" translation="Pan di Zenzero - Tunnel con Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_Arch" translation="Pan di Zenzero - Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_ArchHalf" translation="Pan di Zenzero - Mezzo Arco a Tutto Sesto"/>
-		<entry key="BuildingPartName_HOL_Merge_Doorway" translation="Pan di Zenzero - Muro da 4m con Bucatura per Porta"/>
-		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Wall 4m Shopfront"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Wall 4m Station Surround 2"/>
+		<entry key="BuildingPartName_HOL_Merge_Doorway" translation="Pan di Zenzero - Muro da 4m con Foratura per Porta"/>
+		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero 4m Muro Vetrina"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Limite Stazione 1"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Limite Stazione 2"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_1m" translation="Pan di Zenzero - Muro da 1m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_2m" translation="Pan di Zenzero - Muro da 2m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m" translation="Pan di Zenzero - Muro da 4m"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero - Muro da 4m con Bucatura ad Arco"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero - Muro da 4m con Bucatura Circolare"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero - Muro da 4m con Bucatura a Cuore"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero Wall 1m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero Wall 2m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero Wall 4m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero Wall 4m Slope with Circle shape"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero Wall 4m Slope with Heart shape"/>
-		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Pan di Zenzero Curved Wall 2m"/>
-		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Pan di Zenzero Curved Wall 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Pan di Zenzero Roof Ridge"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Pan di Zenzero Roof Ridge Dutch Style"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero - Muro da 4m con Foro ad Arco"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero - Muro da 4m con Foro Circolare"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero - Muro da 4m con Foro a Cuore"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Muro di Pan di Zenzero 1m Inclinato"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Muro di Pan di Zenzero 2m Inclinato"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Muro di Pan di Zenzero 4m Inclinato"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Muro di Pan di Zenzero 4m Inclinato con Foro Circolare"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Muro di Pan di Zenzero 4m Inclinato con Foro a Cuore"/>
+		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Muro Curvato di Pan di Zenzero 2m"/>
+		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Muro Curvato di Pan di Zenzero 4m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Tetto Increspato di Pan di Zenzero"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Tetto Increspato di Pan di Zenzero - Stile Olandese"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Tetto Increspato di Pan di Zenzero - Limite Sporgente"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_1m" translation="Pan di Zenzero - Colmo del Tetto da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_2m" translation="Pan di Zenzero - Colmo del Tetto da 2m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Pan di Zenzero Tetto Piatto"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero Quarter Circle Tetto Piatto"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero - Tetto Piatto a Quarto di Cerchio"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Tetto Increspato di Pan di Zenzero - Sporgente"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 2m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero - Tetto a Quarto di Cono"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Pan di Zenzero Roof Slope"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Tetto Inclinato di Pan di Zenzero"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero - Tetto Inclinato da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero - Tetto Inclinato da 2m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Pan di Zenzero Roof Tower Top"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Pan di Zenzero Wall 1m Gable End"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Pan di Zenzero Wall 2m Gable End"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Pan di Zenzero Wall 4m Gable End"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Pan di Zenzero - Punta del Tetto a Torre"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Muro di Pan di Zenzero 1m Estremità a Timpano"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Muro di Pan di Zenzero 2m Estremità a Timpano"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Muro di Pan di Zenzero 4m Estremità a Timpano"/>
 		<!--C1_BuildingParts_Attach-->
-		<entry key="BuildingPartDesc_HOL_Bread_Door" translation="Pan di Zenzero&#10;Set Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Door" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Door_02" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Heart" translation="Pan di Zenzero&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Heart" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_01" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_02" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_03" translation="Glassa&#10;Tema Festivo"/>
@@ -3321,14 +3321,14 @@
 		<entry key="BuildingPartDesc_HOL_Door_05" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_06" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_07" translation="Glassa&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches2" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches3" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches4" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches5" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches6" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches7" translation="Polistirolo&#10;Set Festivo"/>
-		<entry key="BuildingPartDesc_HOL_FakeSnowPatches8" translation="Polistirolo&#10;Set Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches2" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches3" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches4" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches5" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches6" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches7" translation="Polistirolo&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_FakeSnowPatches8" translation="Polistirolo&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_Bricks" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_Canes" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_Comma_Large" translation="Glassa&#10;Tema Festivo"/>
@@ -3348,9 +3348,9 @@
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile_Group" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_ZigZag" translation="Glassa&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_StreetLamp" translation="Il dolce profumo dei festeggiamenti.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBin" translation="A così tanti dolci corrispondono tante cartacce...&#10;Tema Festivo"/>
@@ -3371,7 +3371,7 @@
 		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Chimney_01" translation="Pan di Zenzero Chimney"/>
+		<entry key="BuildingPartName_HOL_Chimney_01" translation="Camino di Pan di Zenzero"/>
 		<entry key="BuildingPartName_HOL_Door_01" translation="Pan di Zenzero  - Glassa a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Door_02" translation="Pan di Zenzero  - Glassa a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Door_03" translation="Pan di Zenzero  - Glassa a Forma di Porta 3"/>
@@ -3438,9 +3438,9 @@
 		<entry key="FrontEndMenu_SetDescription_CNGL" translation="Porta un po' di allegria a Re Coaster Festivo"/>
 		<entry key="FrontEndMenu_SetName_CNGL" translation="Le dolci prelibatezze di Re Coaster Festivo"/>
 		<!--C1_Coasters-->
-		<entry key="Coaster_Type_SleighRide" translation="Powered Track Ride"/>
-		<entry key="Powered_SleighRide" translation="Sleigh Ride"/>
-		<entry key="Powered_SleighRide_Desc" translation="Electrically powered cars travel along a track at a fixed speed."/>
+		<entry key="Coaster_Type_SleighRide" translation="Tracciato Guidato Motorizzato"/>
+		<entry key="Powered_SleighRide" translation="Corsa in Slitta"/>
+		<entry key="Powered_SleighRide_Desc" translation="Vagoni Alimentati Elettricamente, viaggiano lungo un percorso a velocità predefinita."/>
 		<!--C1_FlatRides-->
 		<entry key="FR_BDerby" translation="Bumpin Derby"/>
 		<entry key="FR_BDerby_Desc" translation="Bash your way to victory on this classic fairground ride!&#10;Attrazione Tranquilla"/>
@@ -3977,27 +3977,27 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Neve e Ghiaccio"/>
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;2m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;4m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;0.5m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;2m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;4m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;0.5m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;0.5m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="A flag with a chequered past."/>
 		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Wall 4m Shopfront"/>
 		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Wall 4m Station Surround 1"/>
@@ -4022,13 +4022,13 @@
 		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Pan di Zenzero Wall 4m Gable End"/>
 		<entry key="BuildingPartName_PC_Flags_Single_Small" translation="Race Flag"/>
 		<!--C2_BuildingParts_Attach-->
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Holiday Set"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Holiday Set"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
