@@ -74,7 +74,6 @@
 		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e gli oggetti"/>
 		<entry key="AdvancedTriggerEditor_SortTooltip" translation="L'interfaccia si ordinerà solo quando chiudi il pannello o premi il pulsante Ordina Tutti"/>
 		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
-		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppi altoparlanti da collegare"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Altoparlanti Disponibili"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibili nel parco"/>
@@ -3128,7 +3127,6 @@
 		<entry key="Blueprints_HOL_ChristmasTreeSceneS02" translation="Albero di natale - Piccolo"/>
 		<entry key="Blueprints_HOL_ChristmasTreeSceneS02Desc" translation="Decora l'entrata!"/>
 		<entry key="Blueprints_HOL_ChristmasTreeSceneSDesc" translation="Decora l'entrata!"/>
-		<entry key="Blueprints_HOL_FestiveATM" translation="Bancomant Festoso"/>
 		<entry key="Blueprints_HOL_FestiveATM" translation="Bancomat Festoso"/>
 		<entry key="Blueprints_HOL_FestiveATMDesc" translation="Pieno di festose banconote!"/>
 		<entry key="Blueprints_HOL_FestiveCastle" translation="Castello Festoso"/>
@@ -3235,7 +3233,6 @@
 		<entry key="BuildingPartDesc_HOL_Merge_Arch" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_ArchHalf" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Doorway" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
@@ -3275,9 +3272,9 @@
 		<entry key="BuildingPartName_HOL_Merge_Arch" translation="Pan di Zenzero - Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_ArchHalf" translation="Pan di Zenzero - Mezzo Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_Doorway" translation="Pan di Zenzero - Muro da 4m con Foratura per Porta"/>
-		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero 4m Muro Vetrina"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Limite Stazione 1"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Limite Stazione 2"/>
+		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Muro 4m Facciata"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Contorno Stazione 2"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_1m" translation="Pan di Zenzero - Muro da 1m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_2m" translation="Pan di Zenzero - Muro da 2m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m" translation="Pan di Zenzero - Muro da 4m"/>
@@ -3371,9 +3368,9 @@
 		<entry key="BuildingPartName_HOL_Bread_Door" translation="Pan di Zenzero - Ritaglio a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Bread_Door_02" translation="Pan di Zenzero - Ritaglio a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Bread_Heart" translation="Pan di Zenzero - Ritaglio a Forma di Cuore"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m asse ovale"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m asse ovale"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m asse ovale"/>
 		<entry key="BuildingPartName_HOL_Chimney_01" translation="Camino di Pan di Zenzero"/>
 		<entry key="BuildingPartName_HOL_Door_01" translation="Pan di Zenzero  - Glassa a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Door_02" translation="Pan di Zenzero  - Glassa a Forma di Porta 2"/>
@@ -3409,9 +3406,9 @@
 		<entry key="BuildingPartName_HOL_IcingDec_Tile" translation="Pan di Zenzero - Glassa a Forma di Piastrella a Ventaglio Singola"/>
 		<entry key="BuildingPartName_HOL_IcingDec_Tile_Group" translation="Pan di Zenzero - Glassa a Forma di Piastrelle a Ventaglio"/>
 		<entry key="BuildingPartName_HOL_IcingDec_ZigZag" translation="Pan di Zenzero - Glassa a Forma di Zigzag da 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Roof Eave corner 1m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Roof Eave corner 2m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Roof Eave 1m overhang"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Angolo Cornicione Tetto 1m sporgente"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Angolo Cornicione Tetto 2m sporgente"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Cornicione Tetto 1m sporgente"/>
 		<entry key="BuildingPartName_HOL_StreetLamp" translation="Lampioncino a Candelina"/>
 		<entry key="BuildingPartName_HOL_SweetBench" translation="Panchina Festiva Dolce"/>
 		<entry key="BuildingPartName_HOL_SweetBin" translation="Cestino Festivo"/>
@@ -4002,40 +3999,6 @@
 		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="A flag with a chequered past."/>
-		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Wall 4m Shopfront"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Wall 4m Station Surround 2"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero Wall 1m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero Wall 2m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero Wall 4m Slope"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero Wall 4m Slope with Circle shape"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero Wall 4m Slope with Heart shape"/>
-		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Pan di Zenzero Curved Wall 2m"/>
-		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Pan di Zenzero Curved Wall 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Pan di Zenzero Roof Ridge"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Pan di Zenzero Roof Ridge Dutch Style"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;Alto 2m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;Alto 4m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="Una bandiera con un passato di luci ed ombre."/>
 		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Pan di Zenzero Muro 4m Facciata"/>
 		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
 		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Contorno Stazione 2"/>
@@ -4066,20 +4029,13 @@
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
-		<entry key="BuildingPartName_HOL_Chimney_01" translation="Pan di Zenzero Chimney"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Roof Eave corner 1m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Roof Eave corner 2m overhang"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Roof Eave 1m overhang"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m asse ovale"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m asse ovale"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m asse ovalek"/>
-		<entry key="BuildingPartName_HOL_Chimney_01" translation="Pan di Zenzero Camino"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Angolo Cornicione Tetto 1m sporgente"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Angolo Cornicione Tetto 2m sporgente"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Cornicione Tetto 1m sporgente"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m asse ovale"/>
+		<entry key="BuildingPartName_HOL_Chimney_01" translation="Camino di Pan di Zenzero"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Angolo Cornicione Tetto di Pan di Zenzero 1m sporgente"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Angolo Cornicione Tetto di Pan di Zenzero 2m sporgente"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="ornicione Tetto di Pan di Zenzero 4m - 1m sporgente"/>
 		<!--C2_Career-->
 		<entry key="FanfareCareerSetUnlocked_BEEF" translation="Capitan Manzo e la Squadra Hotdog sono in cerca di una nuova recluta."/>
 		<entry key="FanfarePackCompletion_BEEF_1" translation="Hai collezionato tutte le Stelle di Bronzo per 'La sfida succulenta di Capitan Manzo'."/>
@@ -12269,9 +12225,6 @@
 		<entry key="HUD_NotificationsStaff" translation="Staff"/>
 		<entry key="HUD_NotificationsStalls" translation="Negozi e Strutture"/>
 		<entry key="HUD_NotificationsUrgent" translation="Importanti"/>
-		<entry key="HUD_NumberOfGuests" translation="Numero di Visitatori"/>
-		<entry key="HUD_OtherRunningCosts" translation="Altri costi di Gestione"/>
-		<entry key="HUD_OtherRunningCosts" translation="Other Running Costs"/>
 		<entry key="HUD_NumberOfGuests" translation="Numero di visitatori"/>
 		<entry key="HUD_OtherRunningCosts" translation="Altri Costi di Gestione"/>
 		<entry key="HUD_ParkInfo_Finances" translation="{Value:currency}"/>
@@ -13828,7 +13781,6 @@
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_03" translation="Telecamera di sicurezza - Precedente"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_04" translation="Telecamera di sicurezza - Successiva"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_05" translation="Attiva/Disattiva sovrimpressione telecamera di sicurezza"/>
-		<entry key="OptionsMenu_Controls_CameraMisc_Command_05" translation="Attiva/Disattiva sovrimpressione telecamera di sicurezza"/>
 		<entry key="OptionsMenu_Controls_Coaster_Edit" translation="Modalità Modifica Coaster"/>
 		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Use handles"/>
 		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece"/>
@@ -14088,7 +14040,6 @@
 		<entry key="ParkManagement_Crime_SecurityCameraAllTimeTheftsSpotted" translation="Furti rilevati (totale)"/>
 		<entry key="ParkManagement_Crime_SecurityCameraAllTimeVandalismSpotted" translation="Atti di vandalismo rilevati (totale)"/>
 		<entry key="ParkManagement_Crime_SecurityCameraCount" translation="Telecamere di sicurezza"/>
-		<entry key="ParkManagement_Crime_SecurityCameraHeading" translation="Telecamere di sicurezza"/>
 		<entry key="ParkManagement_Crime_SecurityCameraHeading" translation="Telecamere di sicurezzas"/>
 		<entry key="ParkManagement_Crime_SecurityCameraMonthlyRunningCosts" translation="Costo di esercizio mensile"/>
 		<entry key="ParkManagement_Crime_SecurityCameraMonthlyTheftsSpotted" translation="Furti rilevati (questo mese)"/>
@@ -14098,13 +14049,6 @@
 		<entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
 		<entry key="ParkManagement_Crime_SecuritySummary" translation="Puoi assumere la Sicurezza nella voce Staff per evitare e prevenire crimini nel tuo parco.&#10;Inoltre, installare telecamere aiuta lo staff della Sicurezza ad identificare i criminali."/>
 		<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furti"/>
-		<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismi"/>
-		<entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Posizionare telecamere di sicurezza nel tuo parco aiuta a sorvegliare i comportamenti illeciti.&#10;Le telecamere di sicurezza aiutano il tuo staff ad identificare i delinquenti più facilmente."/>
-		<entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
-		<entry key="ParkManagement_Crime_SecuritySummary" translation="You can hire Security in the Staff tab to help prevent crimes from happening in your park.&#10;In addition, installing security cameras helps your Security staff identify offenders."/>
-		<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furti"/>
-		<entry key="ParkManagement_Crime_SecuritySummary" translation="Puoi assumere la Sicurezza nella voce Staff per evitare e prevenire crimini nel tuo parco.&#10;Inoltre, installare telecamere aiuta lo staff della Sicurezza ad identificare i criminali."/>
-		<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furto"/>
 		<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismo"/>
 		<entry key="ParkManagement_Crime_VandalismHeading" translation="Cestini; Panchine"/>
 		<entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Statistiche"/>
