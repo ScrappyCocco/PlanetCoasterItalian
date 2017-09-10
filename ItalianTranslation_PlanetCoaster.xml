@@ -2,7 +2,7 @@
 <localisation xmlns="http://www.planetcoaster.com/CommunityTranslation">
 	<translation>
 		<!--AdvancedTriggerEditor-->
-    <entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
+		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questo Sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico al Sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_CancelButton" translation="Annulla"/>
@@ -15,7 +15,7 @@
 		<entry key="AdvancedTriggerEditor_CoasterPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato"/>
 		<entry key="AdvancedTriggerEditor_CoasterPopUpTitle" translation="Inneschi Percorso"/>
 		<entry key="AdvancedTriggerEditor_CoasterTriggerId" translation="{VALUE:int}"/>
-	  <entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Collega la selezione al Gruppo Innesco"/>
+		<entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Collega la selezione al Gruppo Innesco"/>
 		<entry key="AdvancedTriggerEditor_ConfirmSelectionTooManyItems" translation="Troppi oggetti da collegare al Gruppo Innesco"/>
 		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Inneschi Display"/>
 		<entry key="AdvancedTriggerEditor_DoneButton" translation="Fatto"/>
@@ -28,7 +28,7 @@
 		<entry key="AdvancedTriggerEditor_FlatRidePopUpDescription" translation="Gli Inneschi dell'attrazione si avviano nello stesso momento della corrispondente Sequenza di Animazione"/>
 		<entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Inneschi Attrazione"/>
 		<entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="Inneschi {Name}"/>
-    <entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato&#10; La prima vettura che passerà oltre questo punto lo attiverà."/>
+		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato&#10; La prima vettura che passerà oltre questo punto lo attiverà."/>
 		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Crea una Sequenza d'Innesco"/>
 		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Tracciato"/>
 		<entry key="AdvancedTriggerEditor_Play" translation="Testa attivazione sugli oggetti collegati"/>
@@ -73,11 +73,8 @@
 		<entry key="AdvancedTriggerEditor_Sort" translation="Ordina Tutti"/>
 		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e gli oggetti"/>
 		<entry key="AdvancedTriggerEditor_SortTooltip" translation="L'interfaccia si ordinerà solo quando chiudi il pannello o premi il pulsante Ordina Tutti"/>
-<<<<<<< HEAD
-			<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
-=======
-    <entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
->>>>>>> a8a1e460351989ae5df1255ef812dbf3c966782e
+		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
 		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppi altoparlanti da collegare"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Altoparlanti Disponibili"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibili nel parco"/>
@@ -3131,11 +3128,8 @@
 		<entry key="Blueprints_HOL_ChristmasTreeSceneS02" translation="Albero di natale - Piccolo"/>
 		<entry key="Blueprints_HOL_ChristmasTreeSceneS02Desc" translation="Decora l'entrata!"/>
 		<entry key="Blueprints_HOL_ChristmasTreeSceneSDesc" translation="Decora l'entrata!"/>
-<<<<<<< HEAD
 		<entry key="Blueprints_HOL_FestiveATM" translation="Bancomant Festoso"/>
-=======
 		<entry key="Blueprints_HOL_FestiveATM" translation="Bancomat Festoso"/>
->>>>>>> a8a1e460351989ae5df1255ef812dbf3c966782e
 		<entry key="Blueprints_HOL_FestiveATMDesc" translation="Pieno di festose banconote!"/>
 		<entry key="Blueprints_HOL_FestiveCastle" translation="Castello Festoso"/>
 		<entry key="Blueprints_HOL_FestiveCastleDesc" translation="Pieno di spirito natalizio!"/>
@@ -3241,11 +3235,8 @@
 		<entry key="BuildingPartDesc_HOL_Merge_Arch" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_ArchHalf" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Doorway" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-<<<<<<< HEAD
 		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;4.0m&#10;Tema Festivo"/>
-=======
 		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
->>>>>>> a8a1e460351989ae5df1255ef812dbf3c966782e
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
@@ -3990,7 +3981,6 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
 		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-<<<<<<< HEAD
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Tema Festivo"/>
@@ -4025,7 +4015,6 @@
 		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Pan di Zenzero Roof Ridge"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Pan di Zenzero Roof Ridge Dutch Style"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero Roof Ridge Overhang"/>
-=======
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
@@ -4078,7 +4067,6 @@
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-<<<<<<< HEAD
 		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m Oblong plank"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m Oblong plank"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m Oblong plank"/>
@@ -4086,7 +4074,6 @@
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Roof Eave corner 1m overhang"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Roof Eave corner 2m overhang"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Roof Eave 1m overhang"/>
-=======
 		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m asse ovale"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m asse ovale"/>
 		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m asse ovalek"/>
@@ -4094,7 +4081,6 @@
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero Angolo Cornicione Tetto 1m sporgente"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero Angolo Cornicione Tetto 2m sporgente"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero 4m Cornicione Tetto 1m sporgente"/>
->>>>>>> a8a1e460351989ae5df1255ef812dbf3c966782e
 		<!--C2_Career-->
 		<entry key="FanfareCareerSetUnlocked_BEEF" translation="Capitan Manzo e la Squadra Hotdog sono in cerca di una nuova recluta."/>
 		<entry key="FanfarePackCompletion_BEEF_1" translation="Hai collezionato tutte le Stelle di Bronzo per 'La sfida succulenta di Capitan Manzo'."/>
