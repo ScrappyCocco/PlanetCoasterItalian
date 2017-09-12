@@ -1,0 +1,28 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.planetcoaster.com/CommunityTranslation" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="localisation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="translation">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="entry" maxOccurs="unbounded" minOccurs="0">
+                <xs:annotation>
+                  <xs:documentation>AdvancedTriggerEditorAvatarCreatorBlueprintsBuildWidgetsBuildingPartsBuildingParts_AttachC1_BlueprintsC1_BuildingPartsC1_BuildingParts_AttachC1_CareerC1_CoastersC1_FlatRidesC1_FrontEndMenuC1_ResearchC1_SceneryC1_Scenery_NatureC1_TagsC1_TerrainC2_BuildingPartsC2_BuildingParts_AttachC2_CareerC2_CoastersC2_FlatRidesC2_ResearchC2_SceneryC2_TrackElementsC2_TrainsC3_BlueprintsC3_CareerC3_CoastersC3_FacilitiesC3_FlatRidesC3_ResearchC3_SceneryC3_TagsC3_TrackElementsC3_TrainsCameraCareerCoasterEditorCoastersCommunityTranslationFacilitiesFlatRidesFlexiColourLabelsFrontEndMenuGUIGameMenuGlobalToolBoxGraphicsOptionsMenuGuestNamesGuestsHUDHelperTooltipsInWorldPopUpInfoPanelInfoPanel_DisplaySequencerInfoPanel_FacilityInfoPanel_FlatRideInfoPanel_GuestInfoPanel_ModularSceneryInfoPanel_RideInfoPanel_SceneryInfoPanel_StaffInfoPanel_TrackInputLoadingScreenMarketingMultipartMusicNewsletterSignupNotificationsObjectBrowserOptionsMenuParkManagementParkUploadPathEditPathResourcesResearchRideCamScenarioSceneryScenery_NatureStaffStallsTagsTerrainThoughtsTrackEditTrackElementsTrainsTriggeredEvents</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:ID" name="key" use="required"/>
+                      <xs:attribute type="xs:string" name="translation" use="required"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+
