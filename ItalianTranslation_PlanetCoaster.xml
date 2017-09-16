@@ -3386,7 +3386,7 @@
 		<entry key="BuildingPartName_PC_PlateSign_Dollar" translation="Insegna Planet Coaster - Bancomat (ATM) Piatta"/>
 		<entry key="BuildingPartName_PC_PlateSign_Info" translation="Insegna Planet Coaster - Informazioni Piatta"/>
 		<entry key="BuildingPartName_PC_PlateSign_Medic" translation="Insegna Planet Coaster - Primo Soccorso Piatta"/>
-		<entry key="BuildingPartName_PC_StandSign_Info" translation="Insegna Planet Coaster - Informazioni con Supporto Accesa"/>
+		<entry key="BuildingPartName_PC_StandSign_Info" translation="Insegna Planet Coaster Accesa - Informazioni con Supporto "/>
 		<!--C1_Career-->
 		<entry key="FanfareCareerSetUnlocked_CNGL" translation="Re Coaster Festivo sta arrivando in città."/>
 		<entry key="FanfarePackCompletion_CNGL_1" translation="Hai guadagnato tutte le Stelle di Bronzo dei nostri Scenari Festivi."/>
@@ -4353,135 +4353,135 @@
 		<entry key="BuildingPartName_PC_Flags_Single_Large" translation="Pennone con Bandiere"/>
 		<entry key="BuildingPartName_PC_Flags_Stand" translation="Fila di Bandiere"/>
 		<entry key="BuildingPartName_PC_OilDrum" translation="Barile"/>
-		<entry key="BuildingPartName_PC_PosterStand_07" translation="Poster Stand 7 - Security"/>
-		<entry key="BuildingPartName_PC_PosterWall_07" translation="Wall Poster 7 - Security"/>
-		<entry key="BuildingPartName_PC_RaceBarrier" translation="Race Barrier"/>
-		<entry key="BuildingPartName_PC_RaceBridge_01" translation="Race Bridge"/>
-		<entry key="BuildingPartName_PC_RoadSigns_ChevronLong" translation="Chevron Road Sign - Long"/>
-		<entry key="BuildingPartName_PC_RoadSigns_ChevronShort" translation="Chevron Road Sign - Short"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Pole" translation="Road Sign Pole"/>
-		<entry key="BuildingPartName_PC_RoadSigns_SpeedLimit" translation="Speed Limit Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_TextArrow" translation="Large Text Road Sign With Arrow"/>
-		<entry key="BuildingPartName_PC_RoadSigns_TextArrowSmall" translation="Small Text Road Sign With Arrow"/>
-		<entry key="BuildingPartName_PC_RoadSigns_TextLarge" translation="Large Text Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_TextSmall" translation="Small Text Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning01" translation="Straight Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning02" translation="Right Bend Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning02Flip" translation="Left Bend Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning03" translation="Warning Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning04" translation="Falling Rocks Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning04Flip" translation="Left Corner Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning05" translation="Chicane Left Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning05Flip" translation="Chicane Right Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning06" translation="Hairpin Right Road Sign"/>
-		<entry key="BuildingPartName_PC_RoadSigns_Warning06Flip" translation="Hairpin Left Road Sign"/>
-		<entry key="BuildingPartName_PC_Signs_Splat_01" translation="Planet Coaster Sign - Splat"/>
-		<entry key="BuildingPartName_PC_Trophy" translation="Trophy"/>
-		<entry key="BuildingPartName_PC_TyreStack" translation="Stack of Tyres"/>
-		<entry key="BuildingPartName_PR_2M_Fence_02" translation="Pirate Stockade Fence 2m"/>
-		<entry key="BuildingPartName_PR_PirateSign_CurvedSign" translation="Pirate Wooden Skull Sign"/>
-		<entry key="BuildingPartName_PR_Pirate_GetShot_01" translation="Shot Pirate"/>
-		<entry key="BuildingPartName_PR_Pirate_Idle_01" translation="Idle Pirate"/>
-		<entry key="BuildingPartName_PR_Pirate_Lean_01" translation="Leaning Pirate"/>
-		<entry key="BuildingPartName_PR_Pirate_Sit_01" translation="Sitting Pirate 1"/>
-		<entry key="BuildingPartName_PR_Pirate_Sit_02" translation="Sitting Pirate 2"/>
+		<entry key="BuildingPartName_PC_PosterStand_07" translation="Poster con Supporto 7 - Sicurezza"/>
+		<entry key="BuildingPartName_PC_PosterWall_07" translation="Poster a Muro 7 - Sicurezza"/>
+		<entry key="BuildingPartName_PC_RaceBarrier" translation="Barriere per la Corsa"/>
+		<entry key="BuildingPartName_PC_RaceBridge_01" translation="Ponte per la Corsa"/>
+		<entry key="BuildingPartName_PC_RoadSigns_ChevronLong" translation="Segnale stradale Chevron - Lungo"/>
+		<entry key="BuildingPartName_PC_RoadSigns_ChevronShort" translation="Segnale stradale Chevron - Corto"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Pole" translation="Asta Segnale Stradale"/>
+		<entry key="BuildingPartName_PC_RoadSigns_SpeedLimit" translation="Segnale Stradale Limite di Velocità"/>
+		<entry key="BuildingPartName_PC_RoadSigns_TextArrow" translation="Segnale Stradale Testo Grande con Freccia"/>
+		<entry key="BuildingPartName_PC_RoadSigns_TextArrowSmall" translation="Segnale Stradale Testo Piccolo con Freccia"/>
+		<entry key="BuildingPartName_PC_RoadSigns_TextLarge" translation="Segnale Stradale Testo Grande"/>
+		<entry key="BuildingPartName_PC_RoadSigns_TextSmall" translation="Segnale Stradale Testo Piccolo"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning01" translation="Segnale Stradale Dritto"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning02" translation="Segnale Stradale Curva a Destra"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning02Flip" translation="Segnale Stradale Curva a Sinistra"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning03" translation="Segnale Stradale Pericolo"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning04" translation="Segnale Stradale Caduta Massi"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning04Flip" translation="Segnale Stradale Angolo a Sinistra"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning05" translation="Segnale Stradale Chicane a Sinistra"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning05Flip" translation="Segnale Stradale Chicane a Destra"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning06" translation="Segnale Stradale Curva a Gomito a Destra"/>
+		<entry key="BuildingPartName_PC_RoadSigns_Warning06Flip" translation="Segnale Stradale Curva a Gomito a Sinistra"/>
+		<entry key="BuildingPartName_PC_Signs_Splat_01" translation="Inspegna Planet Coaster - Tonfo"/>
+		<entry key="BuildingPartName_PC_Trophy" translation="Trofeo"/>
+		<entry key="BuildingPartName_PC_TyreStack" translation="Pila di Pneumatici"/>
+		<entry key="BuildingPartName_PR_2M_Fence_02" translation="Recinto Palizzata Pirata 2m"/>
+		<entry key="BuildingPartName_PR_PirateSign_CurvedSign" translation="Insegna Teschio Pirata in legno"/>
+		<entry key="BuildingPartName_PR_Pirate_GetShot_01" translation="Pirata Colpito"/>
+		<entry key="BuildingPartName_PR_Pirate_Idle_01" translation="Pirata Fermo"/>
+		<entry key="BuildingPartName_PR_Pirate_Lean_01" translation="Pirata Appoggiato"/>
+		<entry key="BuildingPartName_PR_Pirate_Sit_01" translation="Pirata Seduto 1"/>
+		<entry key="BuildingPartName_PR_Pirate_Sit_02" translation="Pirata Seduto 2"/>
 		<entry key="BuildingPartName_PR_Sharkway" translation="Sharkway"/>
-		<entry key="BuildingPartName_PR_ShipWheel" translation="Pirate Ship Wheel"/>
-		<entry key="BuildingPartName_PR_Sign_01_Original" translation="Pirate Sign Original - Pirate Village"/>
-		<entry key="BuildingPartName_PR_Sign_Wooden_Fleur" translation="Pirate Wooden Fleur Sign"/>
-		<entry key="BuildingPartName_PR_Small_Barrel" translation="Small Wooden Barrel"/>
-		<entry key="BuildingPartName_PR_ToiletSignsWoodenSign_Text" translation="Pirate Sign Original - Toilet Wooden"/>
-		<entry key="BuildingPartName_PR_Trapdoor" translation="Trapdoor"/>
-		<entry key="BuildingPartName_SF_DefenceTower_01" translation="Sci-Fi Defence Tower Turret"/>
-		<entry key="BuildingPartName_SF_DefenceTower_02" translation="Sci-Fi Defence Tower"/>
-		<entry key="BuildingPartName_SF_DefenceTower_03" translation="Sci-Fi Defence Tower Base"/>
-		<entry key="BuildingPartName_WS_Cowboy_Idle_01" translation="Idle Cowboy"/>
-		<entry key="BuildingPartName_WS_Cowboy_KickHeel_01" translation="Heel Kicking Cowboy"/>
-		<entry key="BuildingPartName_WS_Cowboy_Lean_01" translation="Leaning Cowboy"/>
-		<entry key="BuildingPartName_WS_Cowboy_TipHat_01" translation="Hat-Tipping Cowboy"/>
-		<entry key="BuildingPartName_WS_Fence_Painted_2m" translation="Painted Western Fence 2m"/>
-		<entry key="BuildingPartName_WS_Fence_Painted_4m" translation="Painted Western Fence 4m"/>
-		<entry key="BuildingPartName_WS_Fence_Rough_2m" translation="Rough Western Fence 2m"/>
-		<entry key="BuildingPartName_WS_Fence_Rough_4m" translation="Rough Western Fence 4m"/>
-		<entry key="BuildingPartName_WS_Fence_low_2M" translation="Low Western Fence 2m"/>
-		<entry key="BuildingPartName_WS_Fence_low_4M" translation="Low Western Fence 4m"/>
-		<entry key="BuildingPartName_WS_SteamShovel" translation="Steam Shovel"/>
-		<entry key="BuildingPartName_WS_SteamShovel_Base" translation="Steam Shovel Base"/>
-		<entry key="BuildingPartName_WT_Water_Lily" translation="Water Lily Leaves 2"/>
-		<entry key="BuildingPartName_WT_Water_Lily_Leaves" translation="Water Lily Leaves 1"/>
+		<entry key="BuildingPartName_PR_ShipWheel" translation="Timone Pirata"/>
+		<entry key="BuildingPartName_PR_Sign_01_Original" translation="Insegna Pirata Originale - Villaggio Pirata"/>
+		<entry key="BuildingPartName_PR_Sign_Wooden_Fleur" translation="Insegna Pirata Fiore di legno"/>
+		<entry key="BuildingPartName_PR_Small_Barrel" translation="Barile di legno Piccolo"/>
+		<entry key="BuildingPartName_PR_ToiletSignsWoodenSign_Text" translation="Insegna Pirata Originale - Toilette di legno"/>
+		<entry key="BuildingPartName_PR_Trapdoor" translation="Botola"/>
+		<entry key="BuildingPartName_SF_DefenceTower_01" translation="Torretta di Difesa Sci-Fi "/>
+		<entry key="BuildingPartName_SF_DefenceTower_02" translation="Torre di Difesa Sci-Fi "/>
+		<entry key="BuildingPartName_SF_DefenceTower_03" translation="Base Torre di Difesa Sci-Fi "/>
+		<entry key="BuildingPartName_WS_Cowboy_Idle_01" translation="Cowboy Fermo"/>
+		<entry key="BuildingPartName_WS_Cowboy_KickHeel_01" translation="Cowboy Scalciante"/>
+		<entry key="BuildingPartName_WS_Cowboy_Lean_01" translation="Cowboy Appoggiato"/>
+		<entry key="BuildingPartName_WS_Cowboy_TipHat_01" translation="Cowboy Elemosinante"/>
+		<entry key="BuildingPartName_WS_Fence_Painted_2m" translation="Recinto Western Dipinto 2m"/>
+		<entry key="BuildingPartName_WS_Fence_Painted_4m" translation="Recinto Western Dipinto 4m"/>
+		<entry key="BuildingPartName_WS_Fence_Rough_2m" translation="Recinto Western Grezzo 2m"/>
+		<entry key="BuildingPartName_WS_Fence_Rough_4m" translation="Recinto Western Grezzo 4m"/>
+		<entry key="BuildingPartName_WS_Fence_low_2M" translation="Recinto Western Basso 2m"/>
+		<entry key="BuildingPartName_WS_Fence_low_4M" translation="Recinto Western Basso 4m"/>
+		<entry key="BuildingPartName_WS_SteamShovel" translation="Scavatrice"/>
+		<entry key="BuildingPartName_WS_SteamShovel_Base" translation="Base Scavatrice"/>
+		<entry key="BuildingPartName_WT_Water_Lily" translation="Foglie Ninfea 2"/>
+		<entry key="BuildingPartName_WT_Water_Lily_Leaves" translation="Foglie Ninfea 1"/>
 		<!--C2_TrackElements-->
-		<entry key="TrackElementDesc_180TurnLeft" translation="Turns the track 180 degrees to the left."/>
-		<entry key="TrackElementDesc_180TurnRight" translation="Turns the track 180 degrees to the right."/>
-		<entry key="TrackElementDesc_CableHillRevBot" translation="Pulls trains up an incline in reverse."/>
-		<entry key="TrackElementDesc_CableHillRevMid" translation="Pulls trains up an incline in reverse."/>
-		<entry key="TrackElementDesc_CableHillRevStart" translation="Pulls trains along horizontally in reverse and leads into a cable lift Hill."/>
-		<entry key="TrackElementDesc_CableHillRevTop" translation="Ends a reverse cable lift Hill."/>
-		<entry key="TrackElementDesc_CableHillWhole" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_CableTowerBot" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_CableTowerMid" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_CableTowerRevBot" translation="Pulls trains up an incline in reverse."/>
-		<entry key="TrackElementDesc_CableTowerRevMid" translation="Pulls trains up an incline in reverse."/>
-		<entry key="TrackElementDesc_CableTowerRevStart" translation="Pulls trains along horizontally in reverse and leads into a cable lift tower."/>
-		<entry key="TrackElementDesc_CableTowerRevTop" translation="Ends a reverse cable lift tower."/>
-		<entry key="TrackElementDesc_CableTowerStart" translation="Pulls trains along horizontally and leads into a cable lift tower."/>
-		<entry key="TrackElementDesc_CableTowerTop" translation="Ends a cable lift tower."/>
-		<entry key="TrackElementDesc_ChainHillBot" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_ChainHillMid" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_ChainHillStart" translation="Pulls trains along horizontally and leads into a chain lift Hill."/>
-		<entry key="TrackElementDesc_ChainHillTop" translation="Ends a chain lift Hill."/>
-		<entry key="TrackElementDesc_ChicaneEnd" translation="Chicane End Section."/>
-		<entry key="TrackElementDesc_ChicaneEndRailings" translation="Chicane Railings End Section."/>
-		<entry key="TrackElementDesc_ChicaneSection" translation="Chicane Section."/>
-		<entry key="TrackElementDesc_ChicaneSectionRailings" translation="Chicane Railings Section."/>
-		<entry key="TrackElementDesc_ChicaneStart" translation="Chicane Start Section."/>
-		<entry key="TrackElementDesc_ChicaneStartRailings" translation="Chicane Railings Start Section."/>
-		<entry key="TrackElementDesc_ContractSection" translation="Narrows the track."/>
-		<entry key="TrackElementDesc_ContractSectionRailings" translation="Narrows Railings the track."/>
-		<entry key="TrackElementDesc_ExpandSection" translation="Widens the track."/>
-		<entry key="TrackElementDesc_ExpandSectionRailings" translation="Widens the track."/>
-		<entry key="TrackElementDesc_NarrowTrack" translation="Narrow section of the track."/>
-		<entry key="TrackElementDesc_NarrowTrackRailings" translation="Narrow Railings section of the track."/>
-		<entry key="TrackElementDesc_NormalTrackRailings" translation="Chicane Railings Start Section."/>
-		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Shallow Cobra Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Shallow Cobra Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_SteepCobraRollLeft" translation="Steep Cobra Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_SteepCobraRollRight" translation="Steep Cobra Roll Right Description"/>
-		<entry key="TrackElementName_180TurnLeft" translation="180° turn left"/>
-		<entry key="TrackElementName_180TurnRight" translation="180° turn right"/>
-		<entry key="TrackElementName_CableHillRevBot" translation="Reverse Cable Lift Hill Base"/>
-		<entry key="TrackElementName_CableHillRevMid" translation="Reverse Cable Lift Hill Mid-Section"/>
-		<entry key="TrackElementName_CableHillRevStart" translation="Reverse Horizontal Cable Pull"/>
-		<entry key="TrackElementName_CableHillRevTop" translation="Reverse Cable Lift Hill Top"/>
-		<entry key="TrackElementName_CableHillWhole" translation="Cable Lift Hill Pair"/>
-		<entry key="TrackElementName_CableTowerBot" translation="Cable Lift Tower Base"/>
-		<entry key="TrackElementName_CableTowerMid" translation="Cable Lift Mid-Section"/>
-		<entry key="TrackElementName_CableTowerRevBot" translation="Reverse Cable Lift Tower Base"/>
-		<entry key="TrackElementName_CableTowerRevMid" translation="Reverse Cable Lift Tower Mid-Section"/>
-		<entry key="TrackElementName_CableTowerRevStart" translation="Reverse Horizontal Cable Pull"/>
-		<entry key="TrackElementName_CableTowerRevTop" translation="Reverse Cable Lift Tower Top"/>
-		<entry key="TrackElementName_CableTowerStart" translation="Horizontal Cable Pull"/>
-		<entry key="TrackElementName_CableTowerTop" translation="Cable Lift Tower Top"/>
-		<entry key="TrackElementName_ChainHillBot" translation="Chain Lift Hill Base"/>
-		<entry key="TrackElementName_ChainHillMid" translation="Chain Lift Mid-Section"/>
-		<entry key="TrackElementName_ChainHillTop" translation="Chain Lift Hill Top"/>
-		<entry key="TrackElementName_ChicaneEnd" translation="Chicane End Section"/>
-		<entry key="TrackElementName_ChicaneEndRailings" translation="Chicane Railings End Section"/>
+		<entry key="TrackElementDesc_180TurnLeft" translation="Gira il tracciato 180 gradi a sinistra."/>
+		<entry key="TrackElementDesc_180TurnRight" translation="Gira il tracciato 180 gradi a destra."/>
+		<entry key="TrackElementDesc_CableHillRevBot" translation="Tira i treni al contrario lungo un pendio."/>
+		<entry key="TrackElementDesc_CableHillRevMid" translation="Tira i treni al contrario lungo un pendio."/>
+		<entry key="TrackElementDesc_CableHillRevStart" translation="Trascina i treni al contrario orizzontalmente e conduce in una salita trainante."/>
+		<entry key="TrackElementDesc_CableHillRevTop" translation="Conclude una salita trainante invertita."/>
+		<entry key="TrackElementDesc_CableHillWhole" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_CableTowerBot" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_CableTowerMid" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_CableTowerRevBot" translation="Tira i treni al contrario lungo un pendio."/>
+		<entry key="TrackElementDesc_CableTowerRevMid" translation="Tira i treni al contrario lungo un pendio."/>
+		<entry key="TrackElementDesc_CableTowerRevStart" translation="Trascina i treni al contrario orizzontalmente e conduce in una torre trainante."/>
+		<entry key="TrackElementDesc_CableTowerRevTop" translation="Conclude una torre trainante invertita."/>
+		<entry key="TrackElementDesc_CableTowerStart" translation="Trascina i treni e conduce in una torre trainante."/>
+		<entry key="TrackElementDesc_CableTowerTop" translation="Conclude una torre trainante."/>
+		<entry key="TrackElementDesc_ChainHillBot" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_ChainHillMid" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_ChainHillStart" translation="Trascina i treni orizzontalmente e conduce in una salita trainante."/>
+		<entry key="TrackElementDesc_ChainHillTop" translation="Termina una salita trainante."/>
+		<entry key="TrackElementDesc_ChicaneEnd" translation="Sezione Finale Chicane."/>
+		<entry key="TrackElementDesc_ChicaneEndRailings" translation="Sezione Finale Parapetto Chicane."/>
+		<entry key="TrackElementDesc_ChicaneSection" translation="Sezione Chicane."/>
+		<entry key="TrackElementDesc_ChicaneSectionRailings" translation="Sezione Parapetto Chicane."/>
+		<entry key="TrackElementDesc_ChicaneStart" translation="Sezione Partenza Chicane."/>
+		<entry key="TrackElementDesc_ChicaneStartRailings" translation="Sezione di Partenza Parapetto Chicane."/>
+		<entry key="TrackElementDesc_ContractSection" translation="Stringe il tracciato."/>
+		<entry key="TrackElementDesc_ContractSectionRailings" translation="Stringe il Parapetto."/>
+		<entry key="TrackElementDesc_ExpandSection" translation="Allarga il tracciato."/>
+		<entry key="TrackElementDesc_ExpandSectionRailings" translation="Allarga il Parapetto del tracciato."/>
+		<entry key="TrackElementDesc_NarrowTrack" translation="Stringe la sezione del tracciato."/>
+		<entry key="TrackElementDesc_NarrowTrackRailings" translation="Stringe la sezione Parapetto del tracciato."/>
+		<entry key="TrackElementDesc_NormalTrackRailings" translation="Sezione di Partenza Parapetto Chicane."/>
+		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Descrizione Rollio Cobra Sinistro Superficiale"/>
+		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Descrizione Rollio Cobra Destro Superficiale"/>
+		<entry key="TrackElementDesc_TK_SP_SteepCobraRollLeft" translation="Descrizione Rollio Cobra Sinistro Ripido"/>
+		<entry key="TrackElementDesc_TK_SP_SteepCobraRollRight" translation="Descrizione Rollio Cobra Destro Ripido"/>
+		<entry key="TrackElementName_180TurnLeft" translation="curva sinistra 180°"/>
+		<entry key="TrackElementName_180TurnRight" translation="curva destra 180°"/>
+		<entry key="TrackElementName_CableHillRevBot" translation="Base Salita Trainante Inversa"/>
+		<entry key="TrackElementName_CableHillRevMid" translation="Sezione Mediana Salita Trainante Inversa"/>
+		<entry key="TrackElementName_CableHillRevStart" translation="Cavo Orizzontale Spinta Inverso"/>
+		<entry key="TrackElementName_CableHillRevTop" translation="Cima Salita Trainante Inversa"/>
+		<entry key="TrackElementName_CableHillWhole" translation="Coppia Salita Trainante"/>
+		<entry key="TrackElementName_CableTowerBot" translation="Base Torre Trainante"/>
+		<entry key="TrackElementName_CableTowerMid" translation="Sezione Mediana Trainante"/>
+		<entry key="TrackElementName_CableTowerRevBot" translation="Base Torre Trainante Inversa"/>
+		<entry key="TrackElementName_CableTowerRevMid" translation="Sezione Mediana Torre Trainante Inversa"/>
+		<entry key="TrackElementName_CableTowerRevStart" translation="Spinta Cavo Orizzontale Inversa"/>
+		<entry key="TrackElementName_CableTowerRevTop" translation="Cima Torre Trainante Inversa"/>
+		<entry key="TrackElementName_CableTowerStart" translation="Cavo Orizzontale Spinta"/>
+		<entry key="TrackElementName_CableTowerTop" translation="Cima Torre Trainante"/>
+		<entry key="TrackElementName_ChainHillBot" translation="Base Salita Trainante"/>
+		<entry key="TrackElementName_ChainHillMid" translation="Sezione Mediana Trainante"/>
+		<entry key="TrackElementName_ChainHillTop" translation="Cima Salita Trainante"/>
+		<entry key="TrackElementName_ChicaneEnd" translation="Sezione Finale Chicane"/>
+		<entry key="TrackElementName_ChicaneEndRailings" translation="Sezione Finale Parapetti Chicane"/>
 		<entry key="TrackElementName_ChicaneSection" translation="Chicanes"/>
-		<entry key="TrackElementName_ChicaneSectionRailings" translation="Chicanes Railings "/>
-		<entry key="TrackElementName_ChicaneStart" translation="Chicane Start Section"/>
-		<entry key="TrackElementName_ChicaneStartRailings" translation="Chicane Railings Start Section"/>
-		<entry key="TrackElementName_ContractSection" translation="Narrow Track Start"/>
-		<entry key="TrackElementName_ContractSectionRailings" translation="Narrow Railings Track Start/End"/>
-		<entry key="TrackElementName_ExpandSection" translation="Narrow Track End"/>
-		<entry key="TrackElementName_ExpandSectionRailings" translation="Expand Railings Section"/>
-		<entry key="TrackElementName_NarrowTrack" translation="Narrow Track"/>
-		<entry key="TrackElementName_NarrowTrackRailings" translation="Narrow Railings Track"/>
-		<entry key="TrackElementName_NormalTrackRailings" translation="Railings"/>
-		<entry key="TrackElementName_TK_SP_ShallowCobraRollLeft" translation="Shallow Cobra Roll Left"/>
-		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Shallow Cobra Roll Right"/>
-		<entry key="TrackElementName_TK_SP_SteepCobraRollLeft" translation="Steep Cobra Roll Left"/>
-		<entry key="TrackElementName_TK_SP_SteepCobraRollRight" translation="Steep Cobra Roll Right"/>
-		<entry key="TrackElementName_chainHillStart" translation="Horizontal Chain Pull"/>
+		<entry key="TrackElementName_ChicaneSectionRailings" translation="Parapetti Chicanes "/>
+		<entry key="TrackElementName_ChicaneStart" translation="Sezione di Partenza Chicane"/>
+		<entry key="TrackElementName_ChicaneStartRailings" translation="Sezione di Partenza Parapetti Chicane"/>
+		<entry key="TrackElementName_ContractSection" translation="Partenza Tracciato Stretto"/>
+		<entry key="TrackElementName_ContractSectionRailings" translation="Partenza/Fine Parapetto Tracciato Stretto "/>
+		<entry key="TrackElementName_ExpandSection" translation="Fine Tracciato Stretto"/>
+		<entry key="TrackElementName_ExpandSectionRailings" translation="Espandi Sezione Parapetto"/>
+		<entry key="TrackElementName_NarrowTrack" translation="Stringe il Tracciato"/>
+		<entry key="TrackElementName_NarrowTrackRailings" translation="Stringe Parapetto del Tracciato"/>
+		<entry key="TrackElementName_NormalTrackRailings" translation="Parapetto"/>
+		<entry key="TrackElementName_TK_SP_ShallowCobraRollLeft" translation="Rollio Cobra Sinistro Superficiale"/>
+		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Rollio Cobra Destro Superficiale"/>
+		<entry key="TrackElementName_TK_SP_SteepCobraRollLeft" translation="Rollio Cobra Sinistro Ripido"/>
+		<entry key="TrackElementName_TK_SP_SteepCobraRollRight" translation="Rollio Cobra Destro Ripido"/>
+		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Spinta"/>
 		<entry key="TrackElementTool_180TurnLeft" translation="&lt;font color='accent'&gt;180° turn left&lt;/font&gt;&#10;Turns the track 180 degrees to the left."/>
 		<entry key="TrackElementTool_180TurnRight" translation="&lt;font color='accent'&gt;180° turn right&lt;/font&gt;&#10;Turns the track 180 degrees to the right."/>
 		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Reverse Cable Lift Hill Base&lt;/font&gt;&#10;Pulls trains up an incline in reverse.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
@@ -12240,15 +12240,15 @@
 		<entry key="PopUp_AddTriggerPlay" translation="Test attivazione oggetti collegati"/>
 		<entry key="PopUp_AddTriggerShow" translation="Mostra oggetti collegati"/>
 		<entry key="PopUp_AddTriggerShowOption" translation="Mostra Opzioni"/>
-		<entry key="PopUp_CannotOpen" translation="Non può aprire dato che l'attrazione non è testata e la checklist è incompleta"/>
-		<entry key="PopUp_CannotOpen_Basic" translation="Non può aprire"/>
-		<entry key="PopUp_CannotOpen_Incomplete" translation="Non può aprire dato che la checklist è incompleta"/>
-		<entry key="PopUp_CannotOpen_NoCircuit" translation="Non può aprire dato che il percorso non è un circuito"/>
-		<entry key="PopUp_CannotOpen_NoStations" translation="Non può aprire dato che non ci sono stazioni complete"/>
-		<entry key="PopUp_CannotOpen_Racing" translation="Non può aprire dato che il percorso non è un circuito e la checklist è incompleta"/>
-		<entry key="PopUp_CannotOpen_Station" translation="Non può aprire dato che la stazione non è testata"/>
-		<entry key="PopUp_CannotOpen_Untested" translation="Non può aprire dato che l'attrazione non è testata"/>
-		<entry key="PopUp_CannotTest_NoStations" translation="Non si può testare dato che non sono state costruite stazioni"/>
+		<entry key="PopUp_CannotOpen" translation="Non può essere aperta perchè l'attrazione non è testata e la checklist è incompleta"/>
+		<entry key="PopUp_CannotOpen_Basic" translation="Non può essere aperta"/>
+		<entry key="PopUp_CannotOpen_Incomplete" translation="Non può essere aperta perchè la checklist è incompleta"/>
+		<entry key="PopUp_CannotOpen_NoCircuit" translation="Non può essere aperta perchè il percorso non è un circuito"/>
+		<entry key="PopUp_CannotOpen_NoStations" translation="Non può essere aperta perchè non ci sono stazioni complete"/>
+		<entry key="PopUp_CannotOpen_Racing" translation="Non può essere aperta perchè il percorso non è un circuito e la checklist è incompleta"/>
+		<entry key="PopUp_CannotOpen_Station" translation="Non può essere aperta perchè la stazione non è testata"/>
+		<entry key="PopUp_CannotOpen_Untested" translation="Non può essere aperta perchè l'attrazione non è testata"/>
+		<entry key="PopUp_CannotTest_NoStations" translation="Non si può testare perchè non sono state costruite stazioni"/>
 		<entry key="PopUp_Checklist" translation="Checklist"/>
 		<entry key="PopUp_Closed" translation="Chiudi"/>
 		<entry key="PopUp_CoasterStats" translation="Statistiche Coaster"/>
@@ -12789,23 +12789,23 @@
 		<entry key="InfoPanel_Guest_VisualSlot_2" translation="Testa"/>
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
 		<!--InfoPanel_ModularScenery-->
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Cost Per Trigger"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Costo Per Innesco"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Display Sequenziatore"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySpeakersEntry" translation="Connected Display Speakers"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_Label" translation="Finance Statistics"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_MonthlyRunningCostHeader" translation="Monthly Running Cost"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_TotalCostPerTrigger" translation="Total Cost Per Trigger"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_TotalMonthlyRunningCost" translation="Total Monthly Running Cost"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySpeakersEntry" translation="Altoparlanti Collegati"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_Label" translation="Statistiche Economia"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_MonthlyRunningCostHeader" translation="Costo di Gestione Mensile"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_TotalCostPerTrigger" translation="Costo Totale Per Innesco"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_TotalMonthlyRunningCost" translation="Costo di Gestione Mensile Totale"/>
 		<entry key="InfoPanel_EditModularScenery_Font" translation="{FONT}"/>
 		<entry key="InfoPanel_EditModularScenery_Label_FlexiColour" translation="Colore Testo"/>
 		<entry key="InfoPanel_EditModularScenery_Label_FontOnSign" translation="Carattere"/>
 		<entry key="InfoPanel_EditModularScenery_Label_TextOnSign" translation="Testo Personalizzato"/>
-		<entry key="InfoPanel_EditModularScenery_OnlyTriggerableToolTip" translation="This item will only activate on a trigger, or during preview"/>
+		<entry key="InfoPanel_EditModularScenery_OnlyTriggerableToolTip" translation="Questo elemento si attiverà solo dopo un innesco, o durante l'anteprima"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_ItemisedValue" translation="{Count:int}"/>
-		<entry key="InfoPanel_EditModularScenery_Statistics_Label" translation="Statistics"/>
-		<entry key="InfoPanel_EditModularScenery_Statistics_MusicSpeakersConnected" translation="Music Speakers Connected"/>
+		<entry key="InfoPanel_EditModularScenery_Statistics_Label" translation="Statistiche"/>
+		<entry key="InfoPanel_EditModularScenery_Statistics_MusicSpeakersConnected" translation="Altoparlanti Musica Connessi"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_PlaytimeValue" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"/>
-		<entry key="InfoPanel_EditModularScenery_Statistics_TotalPlaytime" translation="Total Playtime"/>
+		<entry key="InfoPanel_EditModularScenery_Statistics_TotalPlaytime" translation="Tempo di Gioco totale"/>
 		<entry key="InfoPanel_EditModularScenery_TextOnSign" translation="{VALUE}"/>
 		<entry key="InfoPanel_EditModularScenery_TitleMulti" translation="Selezione ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_AdvancedCloneSingle" translation="Duplica &amp; Spostamento Avanzato [{#LogicalButton.Editors_AdvancedClone#}]"/>
@@ -12819,12 +12819,12 @@
 		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitMulti" translation="Separa Selezione dalla Struttura"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitSingle" translation="Separa dalla Struttura"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerControlled" translation="Attiva su Innesco"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerControlledTriggerCostToolTip" translation="This item has a per trigger cost, and will do nothing if not triggered"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerControlledTriggerCostToolTip" translation="Questo elemento ha un costo per innesco e non farà nulla se non innescato"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerDuration" translation="Durata Innesco"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor" translation="Play for"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor_Tooltip" translation="Once triggered, the animation will play for a defined number of seconds."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerPlayImage_Tooltip" translation="Once triggered, the image will be shown for a defined number of seconds."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerPlayVideo_Tooltip" translation="Once triggered, videos will be shown in their entirety."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor" translation="Avvia per"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor_Tooltip" translation="Una volta innescata, l'animazione si svolgerà per un numero definito di secondi."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayImage_Tooltip" translation="Una volta innescata, l'immagine verrà mostrata per un numero definito di secondi."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayVideo_Tooltip" translation="Una volta innescati, i video saranno mostrati per intero."/>
 		<entry key="InfoPanel_ModularScenery_TitleGroup" translation="{NAME}"/>
 		<entry key="InfoPanel_ModularScenery_Tooltip_Edit" translation="Modifica Struttura [{#LogicalButton.Editors_StartEditing#}]"/>
 		<!--InfoPanel_Ride-->
@@ -12842,7 +12842,7 @@
 		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="Gli ospiti non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_Finances" translation="Statistiche Finanziarie"/>
 		<entry key="InfoPanel_Ride_FocusCam" translation="Centra Camera"/>
-		<entry key="InfoPanel_Ride_InDuel" translation="Part of a Coaster Chain"/>
+		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Coaster "/>
 		<entry key="InfoPanel_Ride_InspectionDelay" translation="Orario di ispezione"/>
 		<entry key="InfoPanel_Ride_InspectionDelayEntry" translation="Ogni {minutes:int} minuti"/>
 		<entry key="InfoPanel_Ride_InspectionDelayNone" translation="Mai"/>
@@ -12865,59 +12865,59 @@
 		<entry key="InfoPanel_Ride_NextInspection_Overdue_1" translation="1 minuto in ritardo"/>
 		<entry key="InfoPanel_Ride_NextInspection_Tooltip" translation="Prossima ispezione"/>
 		<entry key="InfoPanel_Ride_Open" translation="Apri"/>
-		<entry key="InfoPanel_Ride_Prestige" translation="Prestige"/>
-		<entry key="InfoPanel_Ride_PrestigeState_Aging" translation="Invecchiamento"/>
-		<entry key="InfoPanel_Ride_PrestigeState_Aging_Detail" translation="Aging&#10;This ride starts Aging in {StartTime}. Aging rides gradually decrease in Prestige until they eventually become Old."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Aging_Detail_Unknown" translation="Aging&#10;Aging rides gradually decrease in Prestige until they eventually become Old."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Classic" translation="Classico"/>
-		<entry key="InfoPanel_Ride_PrestigeState_Classic_Detail" translation="Classic&#10;This ride will become Classic in {StartTime}. Classic rides have a Prestige boost of {StartPopularity}."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Classic_Detail_Unknown" translation="Classic&#10;Classic rides have a Prestige boost of {StartPopularity}."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Established" translation="Established"/>
-		<entry key="InfoPanel_Ride_PrestigeState_Established_Detail" translation="Established&#10;This ride becomes Established in {StartTime}. As the New ride hype wears off, Established rides start to lose their initial Prestige boost."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Established_Detail_Unknown" translation="Established&#10;As the New ride hype wears off, Established rides start to lose their initial Prestige boost."/>
+		<entry key="InfoPanel_Ride_Prestige" translation="Prestigio"/>
+		<entry key="InfoPanel_Ride_PrestigeState_Aging" translation="Attempata"/>
+		<entry key="InfoPanel_Ride_PrestigeState_Aging_Detail" translation="Attempata&#10;Questa attrazione inizia ad invecchiare tra {StartTime}. Le attrazioni che invecchiano decrescono gradualmente in Prestigio sino a diventare alla fine antiquate."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Aging_Detail_Unknown" translation="Attempata&#10;Le attrazioni che invecchiano decrescono gradualmente in Prestigio sino a diventare alla fine antiquate."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Classic" translation="Classica"/>
+		<entry key="InfoPanel_Ride_PrestigeState_Classic_Detail" translation="Classica&#10;Questa attrazione diventerà Classica tra {StartTime}. Le attrazioni Classiche hanno un aumento di Prestigio di {StartPopularity}."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Classic_Detail_Unknown" translation="Classica&#10;Le attrazioni Classiche hanno un aumento di Prestigio di {StartPopularity}."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Established" translation="Affermata"/>
+		<entry key="InfoPanel_Ride_PrestigeState_Established_Detail" translation="Affermata&#10;Questa attrazione diventa Affermata tra {StartTime}. Quando svanisce l'hype da Nuova Attrazione, le attrazioni Affermate iniziano a perdere l'aumento di Prestigio iniziale."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Established_Detail_Unknown" translation="Affermata&#10;Quando svanisce l'hype da Nuova Attrazione, le attrazioni Affermate iniziano a perdere l'aumento di Prestigio iniziale."/>
 		<entry key="InfoPanel_Ride_PrestigeState_NA" translation="N/A"/>
-		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting" translation="Waiting for results"/>
-		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting_Tooltip" translation="Ride needs to complete at least once before reputation can be calculated."/>
-		<entry key="InfoPanel_Ride_PrestigeState_New" translation="Nuovo"/>
-		<entry key="InfoPanel_Ride_PrestigeState_New_Detail" translation="New&#10;When a ride is first opened, it will have a boost of {StartPopularity} of its normal Prestige."/>
-		<entry key="InfoPanel_Ride_PrestigeState_New_Detail_Unknown" translation="New&#10;When a ride is first opened, it will have a boost of {StartPopularity} of its normal Prestige."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Old" translation="Vecchio"/>
-		<entry key="InfoPanel_Ride_PrestigeState_Old_Detail" translation="Old&#10;This ride becomes Old in {StartTime}. Old rides tend not to be very popular, with {StartPopularity} of their normal Prestige."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Old_Detail_Unknown" translation="Old&#10;Old rides tend not to be very popular, with {StartPopularity} of their normal Prestige."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Resurging" translation="Ringiovanisci"/>
-		<entry key="InfoPanel_Ride_PrestigeState_Resurging_Detail" translation="Reviving&#10;This ride starts resurging in {StartTime}. Resurging rides gradually increase in Prestige until they become Classic."/>
-		<entry key="InfoPanel_Ride_PrestigeState_Resurging_Detail_Unknown" translation="Reviving&#10;Resurging rides gradually increase in Prestige until they become Classic."/>
+		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting" translation="Aspettando i risultati"/>
+		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting_Tooltip" translation="Il giro deve essere completato almeno una volta prima che la reputazione possa essere calcolata."/>
+		<entry key="InfoPanel_Ride_PrestigeState_New" translation="Nuova"/>
+		<entry key="InfoPanel_Ride_PrestigeState_New_Detail" translation="Nuova&#10;Quando un'attrazione è aperta per la prima volta, avrà un aumento di {StartPopularity} sul suo normale Prestigio."/>
+		<entry key="InfoPanel_Ride_PrestigeState_New_Detail_Unknown" translation="Nuova&#10;uando un'attrazione è aperta per la prima volta, avrà un aumento di {StartPopularity} sul suo normale Prestigio."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Old" translation="Antiquata"/>
+		<entry key="InfoPanel_Ride_PrestigeState_Old_Detail" translation="Antiquata&#10;Questa attrazione diventa Antiquata tra {StartTime}. Le attrazioni Antiquate tendono a non essere molto popolari, con {StartPopularity} del loro normale Prestigio."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Old_Detail_Unknown" translation="Antiquata&#10;Le attrazioni Antiquate tendono a non essere molto popolari, con {StartPopularity} del loro normale Prestigio."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Resurging" translation="Rilanciata"/>
+		<entry key="InfoPanel_Ride_PrestigeState_Resurging_Detail" translation="Rilanciata&#10;Questa attrazione inizia a ricrescere tra {StartTime}. Le attrazioni rilanciate aumentano gradualmente in Prestigio fino a diventare Classiche."/>
+		<entry key="InfoPanel_Ride_PrestigeState_Resurging_Detail_Unknown" translation="Rilanciata&#10;Le attrazioni rilanciate aumentano gradualmente in Prestigio fino a diventare Classiche."/>
 		<entry key="InfoPanel_Ride_PrestigeState_Unopened" translation="Chiusa"/>
-		<entry key="InfoPanel_Ride_PrestigeTimelineScale" translation="Years"/>
+		<entry key="InfoPanel_Ride_PrestigeTimelineScale" translation="Anni"/>
 		<entry key="InfoPanel_Ride_Prestige_ToolTip" translation="Prestigio attrazione&#10;Questo è l'interessamento che hanno i visitatori per l'attrazione&#10;Può aumentare migliorando l'esperienza della giostra o aggiungendo elementi scenografici&#10;Può diminuire se diminuisce la reputazione dell'attrazione&#10;(Aggiornata ogni ad corsa)"/>
 		<entry key="InfoPanel_Ride_Prestige_ToolTipAlt" translation="Prestigio attrazione&#10;Questo è l'interessamento che hanno i visitatori per l'attrazione&#10;Può aumentare migliorando l'esperienza della giostra o aggiungendo elementi scenografici&#10;Può diminuire se diminuisce la reputazione dell'attrazione&#10;(Aggiornata ogni ad corsa)"/>
 		<entry key="InfoPanel_Ride_Prestige_ValueUnknown" translation="-"/>
-		<entry key="InfoPanel_Ride_RebrandAcceptToolTip" translation="Accept"/>
-		<entry key="InfoPanel_Ride_RebrandButton" translation="Rebrand ({cost:currency})"/>
-		<entry key="InfoPanel_Ride_RebrandButtonToolTip" translation="Rebranding a ride will turn back time and return its age to &quot;Established&quot;."/>
-		<entry key="InfoPanel_Ride_RebrandButtonToolTip_InsufficientFunds" translation="Rebranding a ride will turn back time and return its age to &quot;Established&quot;.&#10;Insufficient funds"/>
-		<entry key="InfoPanel_Ride_RebrandButtonToolTip_NotNeeded" translation="Rebranding a ride will turn back time and return its age to &quot;Established&quot;.&#10;Rebrand not necessary"/>
-		<entry key="InfoPanel_Ride_RebrandCancelToolTip" translation="Cancel"/>
-		<entry key="InfoPanel_Ride_RebrandDefaultText" translation="Give ride a new name"/>
-		<entry key="InfoPanel_Ride_RebrandTitle" translation="Rebrand"/>
+		<entry key="InfoPanel_Ride_RebrandAcceptToolTip" translation="Accetta"/>
+		<entry key="InfoPanel_Ride_RebrandButton" translation="Rinnovamento ({cost:currency})"/>
+		<entry key="InfoPanel_Ride_RebrandButtonToolTip" translation="Rinnovare un'attrazione riporterà indietro il tempo e la restituirà all'eta di &quot;Affermata&quot;."/>
+		<entry key="InfoPanel_Ride_RebrandButtonToolTip_InsufficientFunds" translation="Rinnovare un'attrazione riporterà indietro il tempo e la restituirà all'eta di &quot;Affermata&quot;.&#10;Fondi insufficienti"/>
+		<entry key="InfoPanel_Ride_RebrandButtonToolTip_NotNeeded" translation="Rinnovare un'attrazione riporterà indietro il tempo e la restituirà all'eta di &quot;Affermata&quot;.&#10;Rinnovamento non necessario"/>
+		<entry key="InfoPanel_Ride_RebrandCancelToolTip" translation="Annulla"/>
+		<entry key="InfoPanel_Ride_RebrandDefaultText" translation="Dai all'attrazione un nuovo nome"/>
+		<entry key="InfoPanel_Ride_RebrandTitle" translation="Rinnovamento"/>
 		<entry key="InfoPanel_Ride_Reliability_High" translation="Alta"/>
 		<entry key="InfoPanel_Ride_Reliability_Low" translation="Bassa"/>
 		<entry key="InfoPanel_Ride_Reliability_Med" translation="Nella media"/>
 		<entry key="InfoPanel_Ride_Reliability_Tooltip" translation="Affidabilità"/>
 		<entry key="InfoPanel_Ride_Reliability_Unknown" translation="-"/>
-		<entry key="InfoPanel_Ride_Reputation" translation="Reputation"/>
+		<entry key="InfoPanel_Ride_Reputation" translation="Reputazione"/>
 		<entry key="InfoPanel_Ride_RequestInspection" translation="Richiesta ispezione"/>
 		<entry key="InfoPanel_Ride_RequestInspectionTooltip" translation="Richiedi un ispezione in anticipo"/>
-		<entry key="InfoPanel_Ride_RequestInspection_AlreadyRequested" translation="Inspection already requested."/>
-		<entry key="InfoPanel_Ride_RequestInspection_NoInspectionPoint" translation="Ride incomplete."/>
-		<entry key="InfoPanel_Ride_RequestInspection_NoMechanic" translation="A mechanic is required to inspect a ride."/>
+		<entry key="InfoPanel_Ride_RequestInspection_AlreadyRequested" translation="Ispezione già richiesta."/>
+		<entry key="InfoPanel_Ride_RequestInspection_NoInspectionPoint" translation="Attrazione incompleta."/>
+		<entry key="InfoPanel_Ride_RequestInspection_NoMechanic" translation="Un meccanico è richiesto per ispezionare l'attrazione."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment" translation="Richiesta una ristrutturazione ({cost:currency})"/>
 		<entry key="InfoPanel_Ride_RequestRefurbishmentTooltip" translation="La ristrutturazione risolve i problemi causati dall'età e dall'usura."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_AlreadyRequested" translation="Refurbishment already requested."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_CannotAfford" translation="Insufficient funds."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_Futile" translation="Ride does not need refurbishing."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_NoInspectionPoint" translation="Ride incomplete."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanic" translation="A mechanic is required to refurbish a ride."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_AlreadyRequested" translation="Ristrutturazione già richiesta."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_CannotAfford" translation="Fondi insufficienti."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_Futile" translation="L'attrazione non ha bisogno di ristrutturazione."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_NoInspectionPoint" translation="Attrazione incompleta."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanic" translation="Un meccanico è richiesto per ristrutturare l'attrazione."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_NoNeed" translation="Ristrutturazione non richiesta"/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_Untested" translation="Ristruttura (testa prima)"/>
 		<entry key="InfoPanel_Ride_Statistics" translation="Statistiche attrazione"/>
@@ -12927,16 +12927,16 @@
 		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Body" translation="{months:int} mesi"/>
 		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Body_1" translation="1 mese"/>
 		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Tooltip" translation="Mesi dall'ultima ristrutturazione"/>
-		<entry key="InfoPanel_Ride_TimeUntilClassic" translation="{Time} until Classic"/>
+		<entry key="InfoPanel_Ride_TimeUntilClassic" translation="{Time} fino a Classica"/>
 		<entry key="InfoPanel_Ride_TimeUntilClassic_Unknown" translation="-"/>
-		<entry key="InfoPanel_Ride_TimeUntilClassic_Unknown_RideNeedsTesting" translation="Waiting for results"/>
+		<entry key="InfoPanel_Ride_TimeUntilClassic_Unknown_RideNeedsTesting" translation="Aspettando i risultati"/>
 		<entry key="InfoPanel_Ride_ToolTipWithErrors_1" translation="{toolTip}&#10;{error1}"/>
 		<entry key="InfoPanel_Ride_Tooltip_ExitRideCam" translation="Abbandona Telecamera"/>
 		<entry key="InfoPanel_Ride_Tooltip_Parent" translation="Seleziona attrazione"/>
 		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Telecamera attrazione"/>
 		<entry key="InfoPanel_Ride_Type" translation="Tipo di attrazione"/>
-		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Fear Rating too high&#10;&#10;Have a look at the Heatmaps to see which areas of your Ride are problematic."/>
-		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Nausea Rating too high&#10;&#10;Have a look at the Heatmaps to see which areas of your Ride are problematic."/>
+		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Calore per vedere quali aree della tua attrazione sono problematiche."/>
+		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Calore per vedere quali aree della tua attrazione sono problematiche."/>
 		<!--InfoPanel_Scenery-->
 		<entry key="InfoPanel_Scenery_BuildingStatistics" translation="Statistiche Struttura"/>
 		<entry key="InfoPanel_Scenery_ButtonShop" translation="{NAME}"/>
@@ -16088,7 +16088,7 @@
 		<entry key="BuildingPartName_PR_Redcoat_Static_Salute" translation="Redcoat Saluting"/>
 		<entry key="BuildingPartName_PR_SailBoat" translation="Barca a Remi"/>
 		<entry key="BuildingPartName_PR_ShipBadge_01" translation="Stemma Dorato"/>
-		<entry key="BuildingPartName_PR_Shipwreck_Bow_01" translation="RelitAccesa- Prua"/>
+		<entry key="BuildingPartName_PR_Shipwreck_Bow_01" translation="Relitto- Prua"/>
 		<entry key="BuildingPartName_PR_Shipwreck_Bow_02" translation="Relitto - Prua 2"/>
 		<entry key="BuildingPartName_PR_Shipwreck_Mid_01" translation="Relitto - Scafo"/>
 		<entry key="BuildingPartName_PR_Shipwreck_Stern_01" translation="Relitto - Poppa"/>
@@ -16614,14 +16614,14 @@
 		<entry key="Staff_Mechanic_Desc" translation="Ripara le attrazioni ed effettua le opere di manutenzione"/>
 		<entry key="Staff_Mechanic_Plural" translation="Meccanici"/>
 		<entry key="Staff_Security" translation="Guardia di Sicurezza"/>
-		<entry key="Staff_Security_Desc" translation="Catches criminals and prevents crime in a 15m radius"/>
+		<entry key="Staff_Security_Desc" translation="Prende i criminali e previene crimini in un raggio di 15m"/>
 		<entry key="Staff_Security_Plural" translation="Guardie di Sicurezza"/>
 		<entry key="Staff_Status_Bin" translation="Svuota il Cestino"/>
-		<entry key="Staff_Status_Chasing" translation="Apprehending miscreant"/>
+		<entry key="Staff_Status_Chasing" translation="Acciuffa un furfante"/>
 		<entry key="Staff_Status_Entertain_0" translation="Intrattiene 0 ospiti"/>
 		<entry key="Staff_Status_Entertain_1" translation="Intrattiene 1 ospite"/>
 		<entry key="Staff_Status_Entertain_N" translation="Intrattiene {count:int} ospiti"/>
-		<entry key="Staff_Status_HeadingToRepairVandalism" translation="Going to repair vandalised object"/>
+		<entry key="Staff_Status_HeadingToRepairVandalism" translation="Va a riparare un oggetto vandalizzato"/>
 		<entry key="Staff_Status_Idle" translation="Sfaccendato"/>
 		<entry key="Staff_Status_Inspection" translation="Ispeziona {station}"/>
 		<entry key="Staff_Status_Litter" translation="Raccoglie i rifiuti"/>
@@ -16632,8 +16632,8 @@
 		<entry key="Staff_Status_Quit" translation="Abbandona il parco"/>
 		<entry key="Staff_Status_Refurbishment" translation="Effettua la manutenzione - {station}"/>
 		<entry key="Staff_Status_Repair" translation="Ripara un guasto presso {station}"/>
-		<entry key="Staff_Status_RepairingVandalism" translation="Repairing vandalised object"/>
-		<entry key="Staff_Status_ReportCrime" translation="Reporting incident"/>
+		<entry key="Staff_Status_RepairingVandalism" translation="Ripara un oggetto vandalizzato"/>
+		<entry key="Staff_Status_ReportCrime" translation="Fa rapporto"/>
 		<entry key="Staff_Status_Suspended" translation="Girovagando"/>
 		<entry key="Staff_Status_Vending" translation="Serve i clienti"/>
 		<entry key="Staff_Status_Vomit" translation="Pulisce il vomito"/>
@@ -16652,13 +16652,13 @@
 		<entry key="Blueprints_TagCategory_Coasters" translation="Coasters"/>
 		<entry key="Blueprints_TagCategory_Scenery" translation="Scenografie"/>
 		<entry key="Blueprints_TagCategory_Shops" translation="Negozi"/>
-		<entry key="Blueprints_TagCategory_TrackRides" translation="Attrazioni a tracciato"/>
+		<entry key="Blueprints_TagCategory_TrackRides" translation="Attrazioni a circuito"/>
 		<entry key="Browser_Cat_Shop_ATM" translation="Bancomat"/>
 		<entry key="Browser_Cat_Shop_Decoration" translation="Decorazioni negozi"/>
 		<entry key="Browser_Cat_Shop_Drink" translation="Negozi di bibite"/>
 		<entry key="Browser_Cat_Shop_FirstAid" translation="Primo Soccorso"/>
 		<entry key="Browser_Cat_Shop_Food" translation="Negozi di Cibo"/>
-		<entry key="Browser_Cat_Shop_Gift" translation="negozi di Regali"/>
+		<entry key="Browser_Cat_Shop_Gift" translation="Negozi di Regali"/>
 		<entry key="Browser_Cat_Shop_Info" translation="Informazioni"/>
 		<entry key="Browser_Cat_Shop_Other" translation="Altro"/>
 		<entry key="Browser_Cat_Shop_ParkEntrance" translation="Entrata del parco"/>
@@ -16688,10 +16688,10 @@
 		<entry key="Browser_SubCat_Props_Misc" translation="Varie"/>
 		<entry key="Browser_SubCat_Props_Signs" translation="Insegne e pubblicità"/>
 		<entry key="Browser_SubCat_Props_Statues" translation="Statue"/>
-		<entry key="Browser_SubCat_Roof_Decorations" translation="Decorazini per tetti"/>
+		<entry key="Browser_SubCat_Roof_Decorations" translation="Decorazioni per tetti"/>
 		<entry key="Browser_SubCat_Roof_Flat" translation="Tetti piatti"/>
 		<entry key="Browser_SubCat_Roof_Roof" translation="Tetti a punta"/>
-		<entry key="Browser_SubCat_Roof_Trim" translation="Roof Trims"/>
+		<entry key="Browser_SubCat_Roof_Trim" translation="Rifiniture tetti"/>
 		<entry key="Browser_SubCat_Security" translation="Telecamere"/>
 		<entry key="Browser_SubCat_Sign_Facility" translation="Insegne strutture"/>
 		<entry key="Browser_SubCat_Sign_Park" translation="Insegne Parco"/>
@@ -16704,7 +16704,7 @@
 		<entry key="Browser_SubCat_VFX_Fire" translation="Pirotecnica"/>
 		<entry key="Browser_SubCat_VFX_Misc" translation="Varie"/>
 		<entry key="Browser_SubCat_VFX_Water" translation="Acqua"/>
-		<entry key="Browser_SubCat_Walls_Arches" translation="archi"/>
+		<entry key="Browser_SubCat_Walls_Arches" translation="Archi"/>
 		<entry key="Browser_SubCat_Walls_Columns" translation="Colonne"/>
 		<entry key="Browser_SubCat_Walls_Framework" translation="Cornici"/>
 		<entry key="Browser_SubCat_Walls_Misc" translation="Decorazioni da muro"/>
@@ -16724,18 +16724,18 @@
 		<entry key="Set_OldWest" translation="Western"/>
 		<entry key="Set_Plastic" translation="Plastica"/>
 		<entry key="Set_RenderWalls" translation="Stucco"/>
-		<entry key="Set_RoughBrick" translation="Mattoni Ruvidi"/>
+		<entry key="Set_RoughBrick" translation="Mattoni Grezzi"/>
 		<entry key="Set_Rustic" translation="Rustico"/>
 		<entry key="Set_StoneWalls" translation="Arenaria"/>
 		<entry key="Set_Thatch" translation="Paglia"/>
 		<entry key="Set_TileFlat" translation="Tegola Piatta"/>
 		<entry key="Set_TileRidge" translation="Tegola Curvata"/>
 		<entry key="Set_WesternWood" translation="Tavola di legno"/>
-		<entry key="Set_WoodTile" translation="parquet"/>
+		<entry key="Set_WoodTile" translation="Parquet"/>
 		<entry key="Set_Wooden" translation="Legno"/>
 		<entry key="Set_WoodenSlat" translation="Strisce di Legno"/>
 		<entry key="TagGroup_Material" translation="Materiale di costruzione"/>
-		<entry key="TagGroup_PDLC" translation="Content Packs"/>
+		<entry key="TagGroup_PDLC" translation="Pacchi Contenuti"/>
 		<entry key="TagGroup_Property" translation="Proprietà"/>
 		<entry key="TagGroup_Region" translation="Regione"/>
 		<entry key="TagGroup_Set" translation="Set di costruzione"/>
@@ -16754,7 +16754,7 @@
 		<entry key="Tag_Blueprint_BuildingOther" translation="Altre costruzioni"/>
 		<entry key="Tag_Blueprint_BuildingSmall" translation="Piccolo"/>
 		<entry key="Tag_Blueprint_BuildingTicketBooth" translation="Cabina dei biglietti"/>
-		<entry key="Tag_Blueprint_ClassicRide" translation="Classic Ride"/>
+		<entry key="Tag_Blueprint_ClassicRide" translation="Attrazione Classica"/>
 		<entry key="Tag_Blueprint_Coaster" translation="Montagna russa"/>
 		<entry key="Tag_Blueprint_CoasterHybrid" translation="Hybrid"/>
 		<entry key="Tag_Blueprint_CoasterSteel4D" translation="4D"/>
@@ -16767,12 +16767,12 @@
 		<entry key="Tag_Blueprint_CoasterSteelPoweredLaunch" translation="Lancio a motore"/>
 		<entry key="Tag_Blueprint_CoasterSteelWing" translation="Ala"/>
 		<entry key="Tag_Blueprint_CoasterWooden" translation="Di Legno"/>
-		<entry key="Tag_Blueprint_GentleRide" translation="Gentle Ride"/>
-		<entry key="Tag_Blueprint_Interactive" translation="Interactive Ride"/>
-		<entry key="Tag_Blueprint_Inverting" translation="Inverting Ride"/>
-		<entry key="Tag_Blueprint_LargeRide" translation="Large Ride"/>
-		<entry key="Tag_Blueprint_MediumRide" translation="Medium Ride"/>
-		<entry key="Tag_Blueprint_ModernRide" translation="Modern Ride"/>
+		<entry key="Tag_Blueprint_GentleRide" translation="Attrazione Tranquilla"/>
+		<entry key="Tag_Blueprint_Interactive" translation="Attrazione Interattiva"/>
+		<entry key="Tag_Blueprint_Inverting" translation="Attrazione Capovolta"/>
+		<entry key="Tag_Blueprint_LargeRide" translation="Attrazione Grande"/>
+		<entry key="Tag_Blueprint_MediumRide" translation="Attrazione Media"/>
+		<entry key="Tag_Blueprint_ModernRide" translation="Attrazione Moderna"/>
 		<entry key="Tag_Blueprint_Park" translation="Parco"/>
 		<entry key="Tag_Blueprint_ParkEntrance" translation="Entrate del parco"/>
 		<entry key="Tag_Blueprint_PoweredRide" translation="Attrazioni a motore"/>
@@ -16781,8 +16781,8 @@
 		<entry key="Tag_Blueprint_Scenery" translation="Scenografie"/>
 		<entry key="Tag_Blueprint_SceneryAnimatronic" translation="Animatronics"/>
 		<entry key="Tag_Blueprint_SceneryAudio" translation="Audio"/>
-		<entry key="Tag_Blueprint_SceneryFirework" translation="Fireworks"/>
-		<entry key="Tag_Blueprint_SceneryNature" translation="Nature"/>
+		<entry key="Tag_Blueprint_SceneryFirework" translation="Fuochi d'Artificio"/>
+		<entry key="Tag_Blueprint_SceneryNature" translation="Natura"/>
 		<entry key="Tag_Blueprint_SceneryOther" translation="Altre scenografie"/>
 		<entry key="Tag_Blueprint_SceneryScene" translation="Scene"/>
 		<entry key="Tag_Blueprint_ScenerySpecialEffect" translation="Effetti Speciali"/>
@@ -16790,22 +16790,22 @@
 		<entry key="Tag_Blueprint_Shop" translation="Negozio"/>
 		<entry key="Tag_Blueprint_ShopATM" translation="Bancomat"/>
 		<entry key="Tag_Blueprint_ShopDrink" translation="Negozi di bibite"/>
-		<entry key="Tag_Blueprint_ShopFirstAid" translation="Infermeria"/>
+		<entry key="Tag_Blueprint_ShopFirstAid" translation="Primo Soccorso"/>
 		<entry key="Tag_Blueprint_ShopFood" translation="Negozi di cibo"/>
 		<entry key="Tag_Blueprint_ShopGift" translation="Negozi di souvenir"/>
 		<entry key="Tag_Blueprint_ShopInfo" translation="Informazioni"/>
 		<entry key="Tag_Blueprint_ShopOther" translation="Altro"/>
 		<entry key="Tag_Blueprint_ShopToilet" translation="Bagni"/>
-		<entry key="Tag_Blueprint_SmallRide" translation="Small Ride"/>
-		<entry key="Tag_Blueprint_Spinning" translation="Spinning Ride"/>
-		<entry key="Tag_Blueprint_Swinging" translation="Swinging Ride"/>
-		<entry key="Tag_Blueprint_ThrillRide" translation="Thrill Ride"/>
-		<entry key="Tag_Blueprint_Tower" translation="Tower Ride"/>
+		<entry key="Tag_Blueprint_SmallRide" translation="Attrazione Piccola"/>
+		<entry key="Tag_Blueprint_Spinning" translation="Attrazione Rotante"/>
+		<entry key="Tag_Blueprint_Swinging" translation="Attrazione Oscillante"/>
+		<entry key="Tag_Blueprint_ThrillRide" translation="Attrazione Eccitante"/>
+		<entry key="Tag_Blueprint_Tower" translation="Attrazione a Torre"/>
 		<entry key="Tag_Blueprint_TrackRide" translation="Circuiti di corse"/>
-		<entry key="Tag_Blueprint_Tracked" translation="Tracked Ride"/>
+		<entry key="Tag_Blueprint_Tracked" translation="Attrazione a percorso"/>
 		<entry key="Tag_Blueprint_TransportRide" translation="Trasporti"/>
 		<entry key="Tag_Blueprint_WaterRide" translation="Corse d'acqua"/>
-		<entry key="Tag_Blueprint_Wheel" translation="Wheel Ride"/>
+		<entry key="Tag_Blueprint_Wheel" translation="Attrazione a Ruota"/>
 		<entry key="Tag_EditableText" translation="Testo modificabile"/>
 		<entry key="Tag_Triggerable" translation="Azionabile"/>
 		<entry key="Theme_FT_Fairytale" translation="Fatato"/>
@@ -16885,7 +16885,7 @@
 		<entry key="Terrain_Edit_ToolTip_Pull" translation="Tira"/>
 		<entry key="Terrain_Edit_ToolTip_Push" translation="Spingi"/>
 		<entry key="Terrain_Edit_ToolTip_Roughen" translation="Irruvidisci"/>
-		<entry key="Terrain_Edit_ToolTip_SceneryLock" translation="La deformazione rispetta lo scnario o no"/>
+		<entry key="Terrain_Edit_ToolTip_SceneryLock" translation="La deformazione rispetta lo scenario o no"/>
 		<entry key="Terrain_Edit_ToolTip_Smooth" translation="Liscia"/>
 		<entry key="Terrain_Edit_ToolTip_SurfaceLock" translation="Deformazione bloccata sulla superficie o no"/>
 		<entry key="Terrain_Edit_ToolTip_WaterCalm" translation="Acqua calma"/>
