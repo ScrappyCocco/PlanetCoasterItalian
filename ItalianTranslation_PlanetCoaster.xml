@@ -499,7 +499,7 @@
 		<entry key="Blueprints_PirateToilets" translation="Blocco di bagni pirateschi"/>
 		<entry key="Blueprints_PirateToiletsDesc" translation="Non puoi farne a meno, devi averlo nel tuo parco a tema."/>
 		<entry key="Blueprints_PirateWatery" translation="Tomba acquatica"/>
-		<entry key="Blueprints_PirateWateryDesc" translation="Leggenda narra che il Capitano Coaster ha nascosto qui sotto il suo tesosoro."/>
+		<entry key="Blueprints_PirateWateryDesc" translation="Leggenda narra che il Capitano Coaster ha nascosto qui sotto il suo tesoro."/>
 		<entry key="Blueprints_PreviewItemDescrLabelDefault" translation="Inserisci la descrizione dell'oggetto"/>
 		<entry key="Blueprints_PreviewItemDescrTitle" translation="Descrizione oggetto:"/>
 		<entry key="Blueprints_PreviewItemLabelDefault" translation="Nome del progetto"/>
@@ -531,7 +531,7 @@
 		<entry key="Blueprints_SF_SupplyShip" translation="Nave merci"/>
 		<entry key="Blueprints_SF_SupplyShipDesc" translation="Una nave merci in grado di trasportare cibo e bevande tra i mondi."/>
 		<entry key="Blueprints_SF_Wall" translation="Muro difensivo"/>
-		<entry key="Blueprints_SF_WallDesc" translation="A section of a massive defensive sci-fi wall. ..Not so good at keeping out giant rock golems though."/>
+		<entry key="Blueprints_SF_WallDesc" translation="Una sezione massiccia di mura difensive sci-fi ...Non molto capace però di tenere alla larga i golem giganti di roccia."/>
 		<entry key="Blueprints_SampleBuilding" translation="Esempio di costruzione"/>
 		<entry key="Blueprints_SampleBuildingDesc" translation="Solo un esempio di costruzione"/>
 		<entry key="Blueprints_SciFiATM" translation="Bancomat Sci-Fi"/>
@@ -669,7 +669,7 @@
 		<entry key="Blueprints_WesternFountain2Desc" translation="Potresti cercare qui il tuo oro..ma di solito si cerca nei letti del fiume, non nelle fontane."/>
 		<entry key="Blueprints_WesternFountainDesc" translation="Non abbiamo molta acqua nel deserto, ma quando ne troviamo la usiamo a scopi decorativi."/>
 		<entry key="Blueprints_WesternGifts" translation="Negozio di souvenir Western"/>
-		<entry key="Blueprints_WesternGiftsDesc" translation="Old old Western style shop to fit right into your cowboy town park area."/>
+		<entry key="Blueprints_WesternGiftsDesc" translation="Un negozio in vecchissimo stile Western fatto apposta per l'area villaggio cowboy del parco"/>
 		<entry key="Blueprints_WesternInfo" translation="Cabina di informazioni Western"/>
 		<entry key="Blueprints_WesternInfoDesc" translation="Se trovate il parco disorientante potete trovare le nostre cartine qui!"/>
 		<entry key="Blueprints_WesternLargeEnt" translation="Entrata Western grande"/>
@@ -694,7 +694,7 @@
 		<entry key="Blueprints_WitchTreeHouseDesc" translation="Fuoco scoppiettante e calderone ribollente, la casa di questa strega di buono non ha niente!"/>
 		<entry key="Blueprints_WoodenBlueprint01" translation="The High Seas"/>
 		<entry key="Blueprints_WoodenBlueprint01Desc" translation="Un layout per il Wooden coaster"/>
-		<entry key="Blueprints_WorkshopAgreement" translation="Inviando questo progetto accetti i\n&lt;font color='#FF0000'&gt;Steam Workshop terms of service&lt;/font&gt;"/>
+		<entry key="Blueprints_WorkshopAgreement" translation="Inviando questo progetto accetti i\n&lt;font color='#FF0000'&gt;i termini di servizio dello Steam Workshop&lt;/font&gt;"/>
 		<entry key="Blueprints_WorkshopItemDescr" translation="Inserisci la descrizione dell'oggetto"/>
 		<entry key="Blueprints_WorkshopItemTitle" translation="Nome Oggetto"/>
 		<!--BuildWidgets-->
@@ -728,24 +728,24 @@
 		<entry key="BuildingPartCategory_Scenery_Trees" translation="Alberi"/>
 		<entry key="BuildingPartCategory_Scenery_VFX" translation="Effetti speciali"/>
 		<entry key="BuildingPartDesc_BK_CoasterWall_A" translation="Mattoni\nAlto 2m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_CoasterWall_B" translation="Mattoni Ruvidi\nAlto 4m\nTema Rustico"/>
+		<entry key="BuildingPartDesc_BK_CoasterWall_B" translation="Mattoni Grezzi\nAlto 4m\nTema Rustico"/>
 		<entry key="BuildingPartDesc_BK_Merge_ArchHalf_A" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_ArchHalf_C" translation="Mattoni Classici&#10;Alto 4m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Arch_A" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Arch_A_4m" translation="Mattoni\nAlto 4m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Arch_A_Half_4m" translation="Mattoni\nAlto 4m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Merge_Arch_B_4m" translation="Mattoni Ruvidi&#10;Alto 4m&#10;Tema Castello"/>
+		<entry key="BuildingPartDesc_BK_Merge_Arch_B_4m" translation="Mattoni Grezzi&#10;Alto 4m&#10;Tema Castello"/>
 		<entry key="BuildingPartDesc_BK_Merge_Arch_C" translation="Mattoni Classici&#10;Alto 4m&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_BK_Merge_Arch_Half_B_4m" translation="Mattoni Ruvidi&#10;Alto 4m&#10;Tema Castello"/>
+		<entry key="BuildingPartDesc_BK_Merge_Arch_Half_B_4m" translation="Mattoni Grezzi&#10;Alto 4m&#10;Tema Castello"/>
 		<entry key="BuildingPartDesc_BK_Merge_ShopFront_A" translation="Mattoni\nAlto 4m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Merge_ShopFront_B" translation="Mattoni Ruvidi\nAlto 4m\nTema Moderno"/>
+		<entry key="BuildingPartDesc_BK_Merge_ShopFront_B" translation="Mattoni Grezzi\nAlto 4m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_ShopFront_C" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_01_A" translation="Mattoni\nAlto 2m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_01_C" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_02_A" translation="Mattoni\nAlto 2m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_02_C" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_B_01" translation="Mattoni Ruvidi\nAlto 4m\nTema Rustico"/>
-		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_B_02" translation="Mattoni Ruvidi\nAlto 4m\nTema Rustico"/>
+		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_B_01" translation="Mattoni Grezzi\nAlto 4m\nTema Rustico"/>
+		<entry key="BuildingPartDesc_BK_Merge_Station_Surround_B_02" translation="Mattoni Grezzi\nAlto 4m\nTema Rustico"/>
 		<entry key="BuildingPartDesc_BK_Merge_WallTop_C_01" translation="Mattoni Classici&#10;Alto 1m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_WallTop_C_02" translation="Mattoni Classici&#10;Alto 2m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_WallTop_C_03" translation="Mattoni Classici&#10;Alto 4m&#10;Tema Western"/>
@@ -762,9 +762,9 @@
 		<entry key="BuildingPartDesc_BK_Merge_Wall_A_1m" translation="Mattoni\nAlto 1m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_A_2m" translation="Mattoni\nAlto 2m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_A_4m" translation="Mattoni\nAlto 4m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Merge_Wall_B_1m" translation="Mattoni Ruvidi\nAlto 1m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Merge_Wall_B_2m" translation="Mattoni Ruvidi\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_BK_Merge_Wall_B_4m" translation="Mattoni Ruvidi\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Merge_Wall_B_1m" translation="Mattoni Grezzi\nAlto 1m\nTema Moderno"/>
+		<entry key="BuildingPartDesc_BK_Merge_Wall_B_2m" translation="Mattoni Grezzi\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Merge_Wall_B_4m" translation="Mattoni Grezzi\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_C_1m" translation="Mattoni Moderni&#10;Alto 1m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_C_2m" translation="Mattoni Moderni&#10;Alto 2m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_C_4m" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Western"/>
@@ -773,22 +773,22 @@
 		<entry key="BuildingPartDesc_BK_Merge_Wall_RoofCurve_01_Inv" translation="Mattoni\nAlto 2m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_A_1m" translation="Mattoni Moderni&#10;Alto 1m&#10;Tema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_A_2m" translation="Mattoni\nAlto 2m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_B_1m" translation="Mattoni Ruvidi&#10;Alto 1m&#10;Tema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_B_2m" translation="Mattoni Ruvidi\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_B_4m" translation="Mattoni Ruvidi\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_B_1m" translation="Mattoni Grezzi&#10;Alto 1m&#10;Tema Moderno"/>
+		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_B_2m" translation="Mattoni Grezzi\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_B_4m" translation="Mattoni Grezzi\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_C_1m" translation="Mattoni Moderni&#10;Alto 1.0m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_C_2m" translation="Mattoni Moderni&#10;Alto 2.0m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Merge_Wall_Slope_C_4m" translation="Mattoni Moderni&#10;Alto 4.0m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Radius4_A_2m_90" translation="Mattoni Moderni&#10;Alto 2m&#10;Tema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Radius4_A_4m_90" translation="Mattoni Moderni&#10;Alto 4m&#10;Tema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Radius4_B_2m_90" translation="Mattoni Ruvidi\nAlto 2m\nTema Rustico"/>
-		<entry key="BuildingPartDesc_BK_Radius4_B_4m_90" translation="Mattoni Ruvidi\nAlto 4m\nTema Rustico"/>
+		<entry key="BuildingPartDesc_BK_Radius4_B_2m_90" translation="Mattoni Grezzi\nAlto 2m\nTema Rustico"/>
+		<entry key="BuildingPartDesc_BK_Radius4_B_4m_90" translation="Mattoni Grezzi\nAlto 4m\nTema Rustico"/>
 		<entry key="BuildingPartDesc_BK_Wall_GableTri_A_1m" translation="Mattoni\nAlto 1m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Wall_GableTri_A_2m" translation="Mattoni\nAlto 2m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_BK_Wall_GableTri_A_4m" translation="Mattoni\nAlto 4m\nTema Moderno"/>
-		<entry key="BuildingPartDesc_BK_Wall_GableTri_B_1m" translation="Mattoni Ruvidi\nAlto 1m\nTema Castello"/>
-		<entry key="BuildingPartDesc_BK_Wall_GableTri_B_2m" translation="Mattoni Ruvidi\nAlto 2m\nTema Castello"/>
-		<entry key="BuildingPartDesc_BK_Wall_GableTri_B_4m" translation="Mattoni Ruvidi\nAlto 4m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Wall_GableTri_B_1m" translation="Mattoni Grezzi\nAlto 1m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Wall_GableTri_B_2m" translation="Mattoni Grezzi\nAlto 2m\nTema Castello"/>
+		<entry key="BuildingPartDesc_BK_Wall_GableTri_B_4m" translation="Mattoni Grezzi\nAlto 4m\nTema Castello"/>
 		<entry key="BuildingPartDesc_BK_Wall_GableTri_C_1m" translation="Mattoni Moderni&#10;Alto 1.0m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Wall_GableTri_C_2m" translation="Mattoni Moderni&#10;Alto 2.0m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_BK_Wall_GableTri_C_4m" translation="Mattoni Moderni&#10;Alto 4.0m&#10;Tema Western"/>
@@ -1404,14 +1404,14 @@
 		<entry key="BuildingPartName_BK_Merge_Arch_C" translation="Mattoni - Arco Classico Quadrato"/>
 		<entry key="BuildingPartName_BK_Merge_Arch_Half_B_4m" translation="Mattoni - Muro Ruvido con Mezzo Arco Sottile"/>
 		<entry key="BuildingPartName_BK_Merge_ShopFront_A" translation="Muro di Mattoni 4m Fronte Negozio"/>
-		<entry key="BuildingPartName_BK_Merge_ShopFront_B" translation="Muro di Mattoni Ruvidi da 4m Fronte Negozio"/>
+		<entry key="BuildingPartName_BK_Merge_ShopFront_B" translation="Muro di Mattoni Grezzi da 4m Fronte Negozio"/>
 		<entry key="BuildingPartName_BK_Merge_ShopFront_C" translation="Muro di Mattoni Classico 4m Fronte Negozio"/>
 		<entry key="BuildingPartName_BK_Merge_Station_Surround_01_A" translation="Muro di Mattoni 4m Rivestimento Stazione 1"/>
 		<entry key="BuildingPartName_BK_Merge_Station_Surround_01_C" translation="Muro di Mattoni Classico 4m Rivestimento Stazione 1"/>
 		<entry key="BuildingPartName_BK_Merge_Station_Surround_02_A" translation="Muro di Mattoni 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_BK_Merge_Station_Surround_02_C" translation="Muro di Mattoni Classico 4m Rivestimento Stazione 2"/>
-		<entry key="BuildingPartName_BK_Merge_Station_Surround_B_01" translation="Mattoni Ruvidi 4m Rivestimento Stazione 1"/>
-		<entry key="BuildingPartName_BK_Merge_Station_Surround_B_02" translation="Mattoni Ruvidi 4m Rivestimento Stazione 2"/>
+		<entry key="BuildingPartName_BK_Merge_Station_Surround_B_01" translation="Mattoni Grezzi 4m Rivestimento Stazione 1"/>
+		<entry key="BuildingPartName_BK_Merge_Station_Surround_B_02" translation="Mattoni Grezzi 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_BK_Merge_WallTop_C_01" translation="Mattoni - Muro Classico - Bordo Superiore Piatto"/>
 		<entry key="BuildingPartName_BK_Merge_WallTop_C_02" translation="Mattoni - Muro Classico - Bordo Superiore ad Arco Piccolo"/>
 		<entry key="BuildingPartName_BK_Merge_WallTop_C_03" translation="Mattoni - Muro Classico - Bordo Superiore ad Angolo Ampio"/>
@@ -1439,22 +1439,22 @@
 		<entry key="BuildingPartName_BK_Merge_Wall_RoofCurve_01_Inv" translation="Muro di Mattoni da 2m con Curva Bassa"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_Slope_A_1m" translation="Muro di Mattoni Moderni Inclinato 1m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_Slope_A_2m" translation="Muro di Mattoni Inclinato 2m"/>
-		<entry key="BuildingPartName_BK_Merge_Wall_Slope_B_1m" translation="Muro di Mattoni Ruvidi Inclinato 1m"/>
-		<entry key="BuildingPartName_BK_Merge_Wall_Slope_B_2m" translation="Muro di Mattoni Ruvidi Inclinato 2m"/>
-		<entry key="BuildingPartName_BK_Merge_Wall_Slope_B_4m" translation="Muro di Mattoni Ruvidi Inclinato 4m"/>
+		<entry key="BuildingPartName_BK_Merge_Wall_Slope_B_1m" translation="Muro di Mattoni Grezzi Inclinato 1m"/>
+		<entry key="BuildingPartName_BK_Merge_Wall_Slope_B_2m" translation="Muro di Mattoni Grezzi Inclinato 2m"/>
+		<entry key="BuildingPartName_BK_Merge_Wall_Slope_B_4m" translation="Muro di Mattoni Grezzi Inclinato 4m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_Slope_C_1m" translation="Muro di Mattoni Classico Inclinato 1m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_Slope_C_2m" translation="Muro di Mattoni Classico Inclinato 2m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_Slope_C_4m" translation="Muro di Mattoni Classico Inclinato 4m"/>
 		<entry key="BuildingPartName_BK_Radius4_A_2m_90" translation="Muro di Mattoni Moderno 2m"/>
 		<entry key="BuildingPartName_BK_Radius4_A_4m_90" translation="Muro di Mattoni Moderno 4m"/>
-		<entry key="BuildingPartName_BK_Radius4_B_2m_90" translation="Muro di Mattoni Ruvidi 2m"/>
-		<entry key="BuildingPartName_BK_Radius4_B_4m_90" translation="Muro di Mattoni Ruvidi 4m"/>
+		<entry key="BuildingPartName_BK_Radius4_B_2m_90" translation="Muro di Mattoni Grezzi 2m"/>
+		<entry key="BuildingPartName_BK_Radius4_B_4m_90" translation="Muro di Mattoni Grezzi 4m"/>
 		<entry key="BuildingPartName_BK_Wall_GableTri_A_1m" translation="Muro di Mattoni 1m Frontone"/>
 		<entry key="BuildingPartName_BK_Wall_GableTri_A_2m" translation="Muro di Mattoni 2m Frontone"/>
 		<entry key="BuildingPartName_BK_Wall_GableTri_A_4m" translation="Muro di Mattoni 4m Frontone"/>
-		<entry key="BuildingPartName_BK_Wall_GableTri_B_1m" translation="Muro di Mattoni Ruvidi 1m Frontone"/>
-		<entry key="BuildingPartName_BK_Wall_GableTri_B_2m" translation="Muro di Mattoni Ruvidi 2m Frontone"/>
-		<entry key="BuildingPartName_BK_Wall_GableTri_B_4m" translation="Muro di Mattoni Ruvidi 4m Frontone"/>
+		<entry key="BuildingPartName_BK_Wall_GableTri_B_1m" translation="Muro di Mattoni Grezzi 1m Frontone"/>
+		<entry key="BuildingPartName_BK_Wall_GableTri_B_2m" translation="Muro di Mattoni Grezzi 2m Frontone"/>
+		<entry key="BuildingPartName_BK_Wall_GableTri_B_4m" translation="Muro di Mattoni Grezzi 4m Frontone"/>
 		<entry key="BuildingPartName_BK_Wall_GableTri_C_1m" translation="Muro di Mattoni Classico 1m Frontone"/>
 		<entry key="BuildingPartName_BK_Wall_GableTri_C_2m" translation="Muro di Mattoni Classico 2m Frontone"/>
 		<entry key="BuildingPartName_BK_Wall_GableTri_C_4m" translation="Muro di Mattoni Classico 4m Frontone"/>
@@ -2446,12 +2446,12 @@
 		<entry key="BuildingPartDesc_SF_WallAttachment_02" translation="4m x 2m"/>
 		<entry key="BuildingPartDesc_SF_WallAttachment_03" translation="4m x 1m"/>
 		<entry key="BuildingPartDesc_SF_WallAttachment_04" translation="4m x 4m"/>
-		<entry key="BuildingPartDesc_SF_WallPiece_Trim_03" translation="Qual'e' la sua funzione?&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_WallPiece_Trim_03" translation="Qual è la sua funzione?&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Wallpiece_01" translation="Illuminazione.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Wallpiece_02" translation="Per carichi pesanti.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Wallpiece_03" translation="Full Sci-Fi decorazioni per parete"/>
-		<entry key="BuildingPartDesc_SF_Wallpiece_Trim_01" translation="Qual'e' la sua funzione?&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_Wallpiece_Trim_02" translation="Qual'e' la sua funzione?&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Wallpiece_Trim_01" translation="Qual è la sua funzione?&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Wallpiece_Trim_02" translation="Qual è la sua funzione?&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SH_Awning_CCIcecream" translation="Una tenda per il tuo negozio.&#10;Set Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_SH_Awning_ChiefBeef" translation="Una tenda per il tuo negozio.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_SH_Awning_CosmicCow" translation="Una tenda per il tuo negozio.&#10;Set Mucca Cosmica"/>
@@ -4016,37 +4016,37 @@
 		<entry key="FR_GiantW_Desc" translation="Questa classica Ruota Panoramica è la preferita delle famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_GiantW_Prefix" translation="Big Wheel"/>
 		<entry key="FR_PathosIII" translation="Pathos III"/>
-		<entry key="FR_PathosIII_Desc" translation="Ruota su tutti gli assicon questa popolare attrazione da Luna Park.&#10;Attrazione Eccitante"/>
+		<entry key="FR_PathosIII_Desc" translation="Ruota su tutti gli assi con questa popolare attrazione da Luna Park.&#10;Attrazione Eccitante"/>
 		<entry key="FR_PathosIII_Prefix" translation="Pathos III"/>
 		<entry key="FR_Zozo" translation="Zozo"/>
 		<entry key="FR_Zozo_Desc" translation="Librati in alto sopra la terra con questa attrazione unica.&#10;Attrazione Eccitante"/>
 		<entry key="FR_Zozo_Prefix" translation="Zozo"/>
-		<entry key="Sequence_FR_ElixirM_ReverseSlowSpin" translation="Rotazione Inversa Lenta"/>
-		<entry key="Sequence_FR_ElixirM_ReverseSpin" translation="Rotazione Inversa"/>
-		<entry key="Sequence_FR_ElixirM_ReverseSpinFast" translation="Rotazione Inversa Veloce"/>
+		<entry key="Sequence_FR_ElixirM_ReverseSlowSpin" translation="Rotazione invertita Lenta"/>
+		<entry key="Sequence_FR_ElixirM_ReverseSpin" translation="Rotazione invertita"/>
+		<entry key="Sequence_FR_ElixirM_ReverseSpinFast" translation="Rotazione invertita Veloce"/>
 		<entry key="Sequence_FR_ElixirM_SlowSpin" translation="Rotazione In Avanti Lenta"/>
 		<entry key="Sequence_FR_ElixirM_Spin" translation="Rotazione In Avanti"/>
 		<entry key="Sequence_FR_ElixirM_SpinFast" translation="Rotazione in Avanti Veloce"/>
 		<entry key="Sequence_FR_GiantW_Main" translation="Sequenza Principale"/>
 		<entry key="Sequence_FR_PathosIII_SpinMid" translation="Mezza Rotazione"/>
 		<entry key="Sequence_FR_PathosIII_SpinMidFlip" translation="Mezza Rotazione Capovolta"/>
-		<entry key="Sequence_FR_PathosIII_SpinMidFlipReverse" translation="Mezza Rotazione Capovolta Inversa"/>
-		<entry key="Sequence_FR_PathosIII_SpinMidReverse" translation="Mezza Rotazione Inversa"/>
+		<entry key="Sequence_FR_PathosIII_SpinMidFlipReverse" translation="Mezza Rotazione Capovolta invertita"/>
+		<entry key="Sequence_FR_PathosIII_SpinMidReverse" translation="Mezza Rotazione invertita"/>
 		<entry key="Sequence_FR_PathosIII_SpinTop" translation="Rotazione Alta"/>
-		<entry key="Sequence_FR_PathosIII_SpinTopReverse" translation="Rotazione Alta Inversa"/>
+		<entry key="Sequence_FR_PathosIII_SpinTopReverse" translation="Rotazione Alta invertita"/>
 		<entry key="Sequence_FR_PathosIII_SpinTopTurn" translation="Rotazione Alta Giro"/>
 		<entry key="Sequence_FR_PathosIII_SpinTopTurnFlip" translation="Rotazione Alta Giro Capovolta"/>
-		<entry key="Sequence_FR_PathosIII_SpinTopTurnFlipReverse" translation="Rotazione Alta Giro Capovolta Inversa"/>
-		<entry key="Sequence_FR_PathosIII_SpinTopTurnReverse" translation="Rotazione Alta Giro Inverso"/>
+		<entry key="Sequence_FR_PathosIII_SpinTopTurnFlipReverse" translation="Rotazione Alta Giro Capovolta invertita"/>
+		<entry key="Sequence_FR_PathosIII_SpinTopTurnReverse" translation="Rotazione Alta Giro invertito"/>
 		<entry key="Sequence_FR_PathosIII_TopFlip" translation="Capriola Alta"/>
-		<entry key="Sequence_FR_PathosIII_TopFlipReverse" translation="Capriola Alta Inversa"/>
+		<entry key="Sequence_FR_PathosIII_TopFlipReverse" translation="Capriola Alta invertita"/>
 		<entry key="Sequence_FR_PathosIII_TopTurn" translation="Giro Alto"/>
 		<entry key="Sequence_FR_PathosIII_TopTurnFlip" translation="Giro Alto Capovolto"/>
-		<entry key="Sequence_FR_PathosIII_TopTurnFlipReverse" translation="Giro Alto Capovolto Inverso"/>
+		<entry key="Sequence_FR_PathosIII_TopTurnFlipReverse" translation="Giro Alto Capovolto invertito"/>
 		<entry key="Sequence_FR_Zozo_ForwardSpin" translation="Rotazione in Avanti"/>
 		<entry key="Sequence_FR_Zozo_HorizontalSpin" translation="Rotazione Orizzontale"/>
-		<entry key="Sequence_FR_Zozo_ReverseHorizontalSpin" translation="Rotazione Orizzontale Inversa"/>
-		<entry key="Sequence_FR_Zozo_ReverseSpin" translation="Rotazione Inversa"/>
+		<entry key="Sequence_FR_Zozo_ReverseHorizontalSpin" translation="Rotazione Orizzontale invertita"/>
+		<entry key="Sequence_FR_Zozo_ReverseSpin" translation="Rotazione invertita"/>
 		<!--C2_Research-->
 		<entry key="Research_Hint_Coaster_Bakasura" translation="Raddoppia l'eccitazione"/>
 		<entry key="Research_Hint_Coaster_SteelHydra" translation="In piena oscillazione"/>
@@ -4414,21 +4414,21 @@
 		<entry key="TrackElementDesc_180TurnRight" translation="Gira il tracciato 180 gradi a destra."/>
 		<entry key="TrackElementDesc_CableHillRevBot" translation="Tira i treni al contrario lungo un pendio."/>
 		<entry key="TrackElementDesc_CableHillRevMid" translation="Tira i treni al contrario lungo un pendio."/>
-		<entry key="TrackElementDesc_CableHillRevStart" translation="Trascina i treni al contrario orizzontalmente e conduce in una salita trainante."/>
-		<entry key="TrackElementDesc_CableHillRevTop" translation="Conclude una salita trainante invertita."/>
+		<entry key="TrackElementDesc_CableHillRevStart" translation="Trascina i treni al contrario orizzontalmente e li immette in una salita trainante a cavo."/>
+		<entry key="TrackElementDesc_CableHillRevTop" translation="Conclude una salita trainante a cavo invertita."/>
 		<entry key="TrackElementDesc_CableHillWhole" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerBot" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerMid" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerRevBot" translation="Tira i treni al contrario lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerRevMid" translation="Tira i treni al contrario lungo un pendio."/>
-		<entry key="TrackElementDesc_CableTowerRevStart" translation="Trascina i treni al contrario orizzontalmente e conduce in una torre trainante."/>
-		<entry key="TrackElementDesc_CableTowerRevTop" translation="Conclude una torre trainante invertita."/>
-		<entry key="TrackElementDesc_CableTowerStart" translation="Trascina i treni e conduce in una torre trainante."/>
-		<entry key="TrackElementDesc_CableTowerTop" translation="Conclude una torre trainante."/>
+		<entry key="TrackElementDesc_CableTowerRevStart" translation="Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo."/>
+		<entry key="TrackElementDesc_CableTowerRevTop" translation="Conclude una torre trainante a cavo invertita."/>
+		<entry key="TrackElementDesc_CableTowerStart" translation="Trascina i treni e conduce in una torre trainante a cavo."/>
+		<entry key="TrackElementDesc_CableTowerTop" translation="Conclude una torre trainante a cavo."/>
 		<entry key="TrackElementDesc_ChainHillBot" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_ChainHillMid" translation="Tira i treni lungo un pendio."/>
-		<entry key="TrackElementDesc_ChainHillStart" translation="Trascina i treni orizzontalmente e conduce in una salita trainante."/>
-		<entry key="TrackElementDesc_ChainHillTop" translation="Termina una salita trainante."/>
+		<entry key="TrackElementDesc_ChainHillStart" translation="Trascina i treni orizzontalmente e li immette in una salita trainante a catena."/>
+		<entry key="TrackElementDesc_ChainHillTop" translation="Conclude una salita trainante a catena."/>
 		<entry key="TrackElementDesc_ChicaneEnd" translation="Sezione Finale Chicane."/>
 		<entry key="TrackElementDesc_ChicaneEndRailings" translation="Sezione Finale Parapetto Chicane."/>
 		<entry key="TrackElementDesc_ChicaneSection" translation="Sezione Chicane."/>
@@ -4442,28 +4442,28 @@
 		<entry key="TrackElementDesc_NarrowTrack" translation="Stringe la sezione del tracciato."/>
 		<entry key="TrackElementDesc_NarrowTrackRailings" translation="Stringe la sezione Parapetto del tracciato."/>
 		<entry key="TrackElementDesc_NormalTrackRailings" translation="Sezione di Partenza Parapetto Chicane."/>
-		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Descrizione Rollio Cobra Sinistro Superficiale"/>
-		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Descrizione Rollio Cobra Destro Superficiale"/>
-		<entry key="TrackElementDesc_TK_SP_SteepCobraRollLeft" translation="Descrizione Rollio Cobra Sinistro Ripido"/>
-		<entry key="TrackElementDesc_TK_SP_SteepCobraRollRight" translation="Descrizione Rollio Cobra Destro Ripido"/>
-		<entry key="TrackElementName_180TurnLeft" translation="curva sinistra 180°"/>
-		<entry key="TrackElementName_180TurnRight" translation="curva destra 180°"/>
-		<entry key="TrackElementName_CableHillRevBot" translation="Base Salita Trainante Inversa"/>
-		<entry key="TrackElementName_CableHillRevMid" translation="Sezione Mediana Salita Trainante Inversa"/>
-		<entry key="TrackElementName_CableHillRevStart" translation="Cavo Orizzontale Spinta Inverso"/>
-		<entry key="TrackElementName_CableHillRevTop" translation="Cima Salita Trainante Inversa"/>
-		<entry key="TrackElementName_CableHillWhole" translation="Coppia Salita Trainante"/>
-		<entry key="TrackElementName_CableTowerBot" translation="Base Torre Trainante"/>
-		<entry key="TrackElementName_CableTowerMid" translation="Sezione Mediana Trainante"/>
-		<entry key="TrackElementName_CableTowerRevBot" translation="Base Torre Trainante Inversa"/>
-		<entry key="TrackElementName_CableTowerRevMid" translation="Sezione Mediana Torre Trainante Inversa"/>
-		<entry key="TrackElementName_CableTowerRevStart" translation="Spinta Cavo Orizzontale Inversa"/>
-		<entry key="TrackElementName_CableTowerRevTop" translation="Cima Torre Trainante Inversa"/>
-		<entry key="TrackElementName_CableTowerStart" translation="Cavo Orizzontale Spinta"/>
-		<entry key="TrackElementName_CableTowerTop" translation="Cima Torre Trainante"/>
-		<entry key="TrackElementName_ChainHillBot" translation="Base Salita Trainante"/>
-		<entry key="TrackElementName_ChainHillMid" translation="Sezione Mediana Trainante"/>
-		<entry key="TrackElementName_ChainHillTop" translation="Cima Salita Trainante"/>
+		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Basso"/>
+		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Descrizione Cobra Roll Destro Basso"/>
+		<entry key="TrackElementDesc_TK_SP_SteepCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Ripido"/>
+		<entry key="TrackElementDesc_TK_SP_SteepCobraRollRight" translation="Descrizione Cobra Roll Destro Ripido"/>
+		<entry key="TrackElementName_180TurnLeft" translation="Curva sinistra 180°"/>
+		<entry key="TrackElementName_180TurnRight" translation="Curva destra 180°"/>
+		<entry key="TrackElementName_CableHillRevBot" translation="Base Salita trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableHillRevMid" translation="Sezione Mediana Salita trainante invertita"/>
+		<entry key="TrackElementName_CableHillRevStart" translation="Cavo Orizzontale trainante invertito"/>
+		<entry key="TrackElementName_CableHillRevTop" translation="Cima Salita trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableHillWhole" translation="Coppia Salita trainante a cavo"/>
+		<entry key="TrackElementName_CableTowerBot" translation="Base Torre trainante a cavo"/>
+		<entry key="TrackElementName_CableTowerMid" translation="Sezione Mediana trainante a cavo"/>
+		<entry key="TrackElementName_CableTowerRevBot" translation="Base Torre trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerRevMid" translation="Sezione Mediana Torre trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerRevStart" translation="Cavo Orizzontale trainante invertito"/>
+		<entry key="TrackElementName_CableTowerRevTop" translation="Cima Torre trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerStart" translation="Cavo Orizzontale trainante"/>
+		<entry key="TrackElementName_CableTowerTop" translation="Cima Torre trainante a cavo"/>
+		<entry key="TrackElementName_ChainHillBot" translation="Base Salita trainante a catena"/>
+		<entry key="TrackElementName_ChainHillMid" translation="Sezione Mediana trainante a catena"/>
+		<entry key="TrackElementName_ChainHillTop" translation="Cima Salita trainante a catena"/>
 		<entry key="TrackElementName_ChicaneEnd" translation="Sezione Finale Chicane"/>
 		<entry key="TrackElementName_ChicaneEndRailings" translation="Sezione Finale Parapetti Chicane"/>
 		<entry key="TrackElementName_ChicaneSection" translation="Chicanes"/>
@@ -4471,53 +4471,53 @@
 		<entry key="TrackElementName_ChicaneStart" translation="Sezione di Partenza Chicane"/>
 		<entry key="TrackElementName_ChicaneStartRailings" translation="Sezione di Partenza Parapetti Chicane"/>
 		<entry key="TrackElementName_ContractSection" translation="Partenza Tracciato Stretto"/>
-		<entry key="TrackElementName_ContractSectionRailings" translation="Partenza/Fine Parapetto Tracciato Stretto "/>
+		<entry key="TrackElementName_ContractSectionRailings" translation="Inizio/Fine Parapetto Tracciato Stretto "/>
 		<entry key="TrackElementName_ExpandSection" translation="Fine Tracciato Stretto"/>
 		<entry key="TrackElementName_ExpandSectionRailings" translation="Espandi Sezione Parapetto"/>
-		<entry key="TrackElementName_NarrowTrack" translation="Stringe il Tracciato"/>
-		<entry key="TrackElementName_NarrowTrackRailings" translation="Stringe Parapetto del Tracciato"/>
-		<entry key="TrackElementName_NormalTrackRailings" translation="Parapetto"/>
-		<entry key="TrackElementName_TK_SP_ShallowCobraRollLeft" translation="Rollio Cobra Sinistro Superficiale"/>
-		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Rollio Cobra Destro Superficiale"/>
-		<entry key="TrackElementName_TK_SP_SteepCobraRollLeft" translation="Rollio Cobra Sinistro Ripido"/>
-		<entry key="TrackElementName_TK_SP_SteepCobraRollRight" translation="Rollio Cobra Destro Ripido"/>
-		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Spinta"/>
-		<entry key="TrackElementTool_180TurnLeft" translation="&lt;font color='accent'&gt;180° turn left&lt;/font&gt;&#10;Turns the track 180 degrees to the left."/>
-		<entry key="TrackElementTool_180TurnRight" translation="&lt;font color='accent'&gt;180° turn right&lt;/font&gt;&#10;Turns the track 180 degrees to the right."/>
-		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Reverse Cable Lift Hill Base&lt;/font&gt;&#10;Pulls trains up an incline in reverse.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableHillRevMid" translation="&lt;font color='accent'&gt;Reverse Cable Lift Mid-Section&lt;/font&gt;&#10;Pulls trains up an incline in reverse.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Reverse Horizontal Cable Pull&lt;/font&gt;&#10;Pulls trains along horizontally in reverse and leads into a cable lift Hill.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Reverse Cable Lift Hill Top&lt;/font&gt;&#10;Ends a reverse cable lift Hill.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Cable Lift Hill Pair&lt;/font&gt;&#10;Pulls trains up an incline.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Cable Lift Tower Base&lt;/font&gt;&#10;Pulls trains up an incline.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Cable Lift Mid-Section&lt;/font&gt;&#10;Pulls trains up an incline.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Reverse Cable Lift Tower Base&lt;/font&gt;&#10;Pulls trains up an incline in reverse.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Reverse Cable Lift Mid-Section&lt;/font&gt;&#10;Pulls trains up an incline in reverse.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Reverse Horizontal Cable Pull&lt;/font&gt;&#10;Pulls trains along horizontally in reverse and leads into a cable lift tower.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Reverse Cable Lift Tower Top&lt;/font&gt;&#10;Ends a reverse cable lift tower.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Horizontal Cable Pull&lt;/font&gt;&#10;Pulls trains along horizontally and leads into a cable lift tower.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cable Lift Tower Top&lt;/font&gt;&#10;Ends a cable lift tower.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Chain Lift Hill Base&lt;/font&gt;&#10;Pulls trains up an incline.&#10;&#10;EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Chain Lift Mid-Section&lt;/font&gt;&#10;Pulls trains up an incline.&#10;&#10;EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Horizontal Chain Pull&lt;/font&gt;&#10;Pulls trains along horizontally and leads into a chain lift Hill.&#10;&#10;EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Chain Lift Hill Top&lt;/font&gt;&#10;Ends a chain lift Hill.&#10;&#10;EFN values whilst on a chain lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_ChicaneEnd" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Chicane End Section."/>
-		<entry key="TrackElementTool_ChicaneEndRailings" translation="&lt;font color='accent'&gt;Chicanes Railings &lt;/font&gt;&#10;Chicane Railings End Section."/>
-		<entry key="TrackElementTool_ChicaneSection" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Chicane Section."/>
-		<entry key="TrackElementTool_ChicaneSectionRailings" translation="&lt;font color='accent'&gt;Chicanes Railings &lt;/font&gt;&#10;Chicane Railings Section."/>
-		<entry key="TrackElementTool_ChicaneStart" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Chicane Start Section."/>
-		<entry key="TrackElementTool_ChicaneStartRailings" translation="&lt;font color='accent'&gt;Chicanes Railings &lt;/font&gt;&#10;Chicane Railings Start Section."/>
-		<entry key="TrackElementTool_ContractSection" translation="&lt;font color='accent'&gt;Narrow Track Start&lt;/font&gt;&#10;Narrows the track."/>
-		<entry key="TrackElementTool_ContractSectionRailings" translation="&lt;font color='accent'&gt;Narrow Railings Track Start/End&lt;/font&gt;&#10;Narrows the track."/>
-		<entry key="TrackElementTool_ExpandSection" translation="&lt;font color='accent'&gt;Narrow Track End&lt;/font&gt;&#10;Widens the track."/>
-		<entry key="TrackElementTool_ExpandSectionRailings" translation="&lt;font color='accent'&gt;Narrow Section End&lt;/font&gt;&#10;Widens the track."/>
-		<entry key="TrackElementTool_NarrowTrack" translation="&lt;font color='accent'&gt;Narrow Track&lt;/font&gt;&#10;Narrow section of the track."/>
-		<entry key="TrackElementTool_NarrowTrackRailings" translation="&lt;font color='accent'&gt;Narrow Railings Track&lt;/font&gt;&#10;Narrow Railings section of the track."/>
-		<entry key="TrackElementTool_NormalTrackRailings" translation="&lt;font color='accent'&gt;Railings&lt;/font&gt;&#10;Normal track with Railings."/>
-		<entry key="TrackElementTool_TK_SP_ShallowCobraRollLeft" translation="Shallow Cobra Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_ShallowCobraRollRight" translation="Shallow Cobra Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_SteepCobraRollLeft" translation="Steep Cobra Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_SteepCobraRollRight" translation="Steep Cobra Roll Right"/>
+		<entry key="TrackElementName_NarrowTrack" translation="Stringi il Tracciato"/>
+		<entry key="TrackElementName_NarrowTrackRailings" translation="Stringi Binari del Tracciato"/>
+		<entry key="TrackElementName_NormalTrackRailings" translation="Binari"/>
+		<entry key="TrackElementName_TK_SP_ShallowCobraRollLeft" translation="Cobra Roll Sinistro Basso"/>
+		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
+		<entry key="TrackElementName_TK_SP_SteepCobraRollLeft" translation="Cobra Roll Sinistro Ripido"/>
+		<entry key="TrackElementName_TK_SP_SteepCobraRollRight" translation="Cobra Roll Destro Ripido"/>
+		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Trainante"/>
+		<entry key="TrackElementTool_180TurnLeft" translation="&lt;font color='accent'&gt;Curva sinistra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
+		<entry key="TrackElementTool_180TurnRight" translation="&lt;font color='accent'&gt;Curva destra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
+		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Base Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevMid" translation="&lt;font color='accent'&gt;Sezione Mediana Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una salita trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a cavo invertita&lt;/font&gt;&#10;Conclude una salita trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Coppia Salita trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre trainante a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Sezione Mediana trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre trainante a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Sezione Mediana Torre trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre trainante a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre trainante a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Base Salita trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Sezione Mediana trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Catena Orizzontale trainante &lt;/font&gt;&#10;Trascina i treni orizzontalmente e li immette in una salita trainante a catena.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a catena&lt;/font&gt;&#10;Conclude una salita trainante a catena.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChicaneEnd" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Finale Chicane."/>
+		<entry key="TrackElementTool_ChicaneEndRailings" translation="&lt;font color='accent'&gt;Parapetti Chicanes &lt;/font&gt;&#10;Sezione Finale Parapetti Chicane."/>
+		<entry key="TrackElementTool_ChicaneSection" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Chicane."/>
+		<entry key="TrackElementTool_ChicaneSectionRailings" translation="&lt;font color='accent'&gt;Parapetti Chicanes &lt;/font&gt;&#10;Sezione Parapetti Chicane."/>
+		<entry key="TrackElementTool_ChicaneStart" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione di Partenza Chicane."/>
+		<entry key="TrackElementTool_ChicaneStartRailings" translation="&lt;font color='accent'&gt;Parapetti Chicanes &lt;/font&gt;&#10;Sezione di Partenza Parapetti Chicane."/>
+		<entry key="TrackElementTool_ContractSection" translation="&lt;font color='accent'&gt;Inizio Tracciato Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
+		<entry key="TrackElementTool_ContractSectionRailings" translation="&lt;font color='accent'&gt;Inizio/Fine Parapetto Tracciato Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
+		<entry key="TrackElementTool_ExpandSection" translation="&lt;font color='accent'&gt;Fine Tracciato Stretto&lt;/font&gt;&#10;Allarga il tracciato."/>
+		<entry key="TrackElementTool_ExpandSectionRailings" translation="&lt;font color='accent'&gt;Fine Sezione Stretta&lt;/font&gt;&#10;Allarga il tracciato."/>
+		<entry key="TrackElementTool_NarrowTrack" translation="&lt;font color='accent'&gt;Stringi il Tracciato&lt;/font&gt;&#10;Stringe la Sezione del Tracciato."/>
+		<entry key="TrackElementTool_NarrowTrackRailings" translation="&lt;font color='accent'&gt;Stringi Parapetti del Tracciato&lt;/font&gt;&#10;Stringe la Sezione Parapetti del Tracciato."/>
+		<entry key="TrackElementTool_NormalTrackRailings" translation="&lt;font color='accent'&gt;Binari&lt;/font&gt;&#10;Percorso normale con Parapetti."/>
+		<entry key="TrackElementTool_TK_SP_ShallowCobraRollLeft" translation="Cobra Roll Sinistro Basso"/>
+		<entry key="TrackElementTool_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
+		<entry key="TrackElementTool_TK_SP_SteepCobraRollLeft" translation="Cobra Roll Sinistro Ripido"/>
+		<entry key="TrackElementTool_TK_SP_SteepCobraRollRight" translation="Cobra Roll Destro Ripido"/>
 		<!--C2_Trains-->
 		<entry key="Train_Trident" translation="Trident"/>
 		<!--C3_Blueprints-->
@@ -5611,10 +5611,10 @@
 		<entry key="FrontEndMenu_AlpineDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario freddo e montuoso!"/>
 		<entry key="FrontEndMenu_AlpineSimulation" translation="Alpino"/>
 		<entry key="FrontEndMenu_AlpineSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario freddo e montuoso!"/>
-		<entry key="FrontEndMenu_AlterChallengeCustom" translation="Load Challenge - Custom Environment"/>
-		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Load Sandbox - Custom Environment"/>
-		<entry key="FrontEndMenu_AutoSave" translation="Nascondi Autosaves"/>
-		<entry key="FrontEndMenu_AutosaveNumber" translation="Autosave {Number:int:minDigits=1}"/>
+		<entry key="FrontEndMenu_AlterChallengeCustom" translation="Carica Sfida - Ambiente Custom"/>
+		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Carica Sandbox - Ambiente Custom"/>
+		<entry key="FrontEndMenu_AutoSave" translation="Nascondi Salvataggi Automatici"/>
+		<entry key="FrontEndMenu_AutosaveNumber" translation="Salvataggio Automatico {Number:int:minDigits=1}"/>
 		<entry key="FrontEndMenu_AvatarEditor_InfoLabel" translation="Ora puoi essere parte dell'universo di Planet Coaster! Il tuo avatar sara' visibile dai tuoi amici e dagli altri giocatori di Planet Coaster.\n\nPuoi modificare il suo aspetto anche in seguito!"/>
 		<entry key="FrontEndMenu_AvatarEditor_InfoTitle" translation="Crea il tuo Avatar!"/>
 		<entry key="FrontEndMenu_AvatarGroupInvalid_Title" translation="Gruppo Famiglia non valido"/>
@@ -5885,7 +5885,7 @@
 		<entry key="ANGLE_DEGREE" translation="{Value:float:decimalPlaces=2}º"/>
 		<entry key="ANGLE_DEGREE_NO_DECIMALS" translation="{Value:float:decimalPlaces=0}º"/>
 		<entry key="Accept" translation="Accetta"/>
-		<entry key="AutosaveName" translation="Autosave"/>
+		<entry key="AutosaveName" translation="Salvataggio Automatico"/>
 		<entry key="Average" translation="Media"/>
 		<entry key="Back" translation="Indietro"/>
 		<entry key="BrokenDown" translation="Rotto"/>
@@ -6002,7 +6002,7 @@
 		<entry key="MONTH_LONG_7" translation="Luglio"/>
 		<entry key="MONTH_LONG_8" translation="Agosto"/>
 		<entry key="MONTH_LONG_9" translation="Settembre"/>
-		<entry key="MalformedPathPart" translation="Pezzo di sentiero Malformato"/>
+		<entry key="MalformedPathPart" translation="Pezzo di sentiero malformato"/>
 		<entry key="ObjectBrowser_DLCFilterLabel" translation="Oggetti DLC"/>
 		<entry key="ObjectBrowser_DLCFilterTooltip" translation="Disattiva oggetti DLC non acquistati"/>
 		<entry key="Obstructed" translation="Bloccato"/>
@@ -12124,7 +12124,7 @@
 		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di piazzarlo nel parco."/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Title" translation="Controlli Posizionamento Staff"/>
 		<entry key="HUD_HelpPopup_Terrain_Command_01" translation="Applica Pennello"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Applica Pennello Inverso\n(Spingi/Tira Pennelli)"/>
+		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Applica Pennello inverso\n(Spingi/Tira Pennelli)"/>
 		<entry key="HUD_HelpPopup_Terrain_Command_03" translation="Intensità Pennello"/>
 		<entry key="HUD_HelpPopup_Terrain_Command_04" translation="Misura Pennello"/>
 		<entry key="HUD_HelpPopup_Terrain_Description" translation="Cambia il paesaggio del tuo parco con questi strumenti creativi. Seleziona da una varietà di pennelli per scolpire, dipingere e aggiungere acqua, quindi applica nell'area attorno al cursore."/>
@@ -12377,7 +12377,7 @@
 		<entry key="PopUp_RideTesting_Nausea" translation="Nausea"/>
 		<entry key="PopUp_RideTesting_NoHeatmap" translation="NESSUNA"/>
 		<entry key="PopUp_RideTesting_NumAirTime" translation="Tempo in Volo"/>
-		<entry key="PopUp_RideTesting_NumInversions" translation="Numero inversioni"/>
+		<entry key="PopUp_RideTesting_Numinversions" translation="Numero inversioni"/>
 		<entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
 		<entry key="PopUp_RideTesting_Results" translation="Risultati"/>
 		<entry key="PopUp_RideTesting_Speed" translation="Velocita'"/>
@@ -12687,7 +12687,7 @@
 		<entry key="InfoPanel_Shop_Type" translation="Tipo di negozio"/>
 		<!--InfoPanel_FlatRide-->
 		<entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Visuale Vagone Frontale"/>
-		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Visuale Vagone Inversa"/>
+		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Visuale Vagone invertita"/>
 		<entry key="InfoPanel_FlatRide_CinematicCamera" translation="Visuale Cinematica"/>
 		<entry key="InfoPanel_FlatRide_Entrance" translation="Entrata"/>
 		<entry key="InfoPanel_FlatRide_Exit" translation="Uscita"/>
@@ -12880,7 +12880,7 @@
 		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting_Tooltip" translation="Il giro deve essere completato almeno una volta prima che la reputazione possa essere calcolata."/>
 		<entry key="InfoPanel_Ride_PrestigeState_New" translation="Nuova"/>
 		<entry key="InfoPanel_Ride_PrestigeState_New_Detail" translation="Nuova&#10;Quando un'attrazione è aperta per la prima volta, avrà un aumento di {StartPopularity} sul suo normale Prestigio."/>
-		<entry key="InfoPanel_Ride_PrestigeState_New_Detail_Unknown" translation="Nuova&#10;uando un'attrazione è aperta per la prima volta, avrà un aumento di {StartPopularity} sul suo normale Prestigio."/>
+		<entry key="InfoPanel_Ride_PrestigeState_New_Detail_Unknown" translation="Nuova&#10;Quando un'attrazione è aperta per la prima volta, avrà un aumento di {StartPopularity} sul suo normale Prestigio."/>
 		<entry key="InfoPanel_Ride_PrestigeState_Old" translation="Antiquata"/>
 		<entry key="InfoPanel_Ride_PrestigeState_Old_Detail" translation="Antiquata&#10;Questa attrazione diventa Antiquata tra {StartTime}. Le attrazioni Antiquate tendono a non essere molto popolari, con {StartPopularity} del loro normale Prestigio."/>
 		<entry key="InfoPanel_Ride_PrestigeState_Old_Detail_Unknown" translation="Antiquata&#10;Le attrazioni Antiquate tendono a non essere molto popolari, con {StartPopularity} del loro normale Prestigio."/>
@@ -13037,7 +13037,7 @@
 		<entry key="InfoPanel_Track_FrontLookCamera" translation="Visuale Frontale"/>
 		<entry key="InfoPanel_Track_GuestCamera" translation="Visuale Visitatori"/>
 		<entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale Visitatori"/>
-		<entry key="InfoPanel_Track_LookBackCamera" translation="Visuale Inversa"/>
+		<entry key="InfoPanel_Track_LookBackCamera" translation="Visuale invertita"/>
 		<entry key="InfoPanel_Track_Name" translation="Tracciato"/>
 		<entry key="InfoPanel_Track_NewBuilding" translation="Costruisci sulla Griglia della Stazione"/>
 		<entry key="InfoPanel_Track_NumCars" translation="Vagoni"/>
@@ -13884,7 +13884,7 @@
 		<entry key="OptionsMenu_InterfaceUnitsLabel" translation="Unità"/>
 		<entry key="OptionsMenu_Keybindings" translation="Controlli tastiera"/>
 		<entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Autosave {Count:int})"/>
-		<entry key="OptionsMenu_LoadMenu_AutosaveNumber" translation="Autosalvataggio {Count:int}"/>
+		<entry key="OptionsMenu_LoadMenu_AutosaveNumber" translation="Salvataggio Automatico {Count:int}"/>
 		<entry key="OptionsMenu_LoadMenu_LoadDate" translation="{TimeString} - {DateString}"/>
 		<entry key="OptionsMenu_LoadMenu_SaveName" translation="{Name}"/>
 		<entry key="OptionsMenu_LoadPrompt_ConfirmCancel" translation="Annulla"/>
@@ -13921,7 +13921,7 @@
 		<entry key="OptionsMenu_SaveMenu_TypeSandbox" translation="Sandbox"/>
 		<entry key="OptionsMenu_SaveMenu_TypeScenarioCareer" translation="Carriera"/>
 		<entry key="OptionsMenu_SaveMenu_UnknownType" translation="-"/>
-		<entry key="OptionsMenu_SavePrompt_EraseAutoSaveLabel" translation="Eliminare l'autosave '{Name}'?"/>
+		<entry key="OptionsMenu_SavePrompt_EraseAutoSaveLabel" translation="Eliminare il Salvataggio Automatico '{Name}'?"/>
 		<entry key="OptionsMenu_SavePrompt_EraseCancel" translation="Annulla"/>
 		<entry key="OptionsMenu_SavePrompt_EraseHeader" translation="Elimina salvataggio"/>
 		<entry key="OptionsMenu_SavePrompt_EraseLabel" translation="Eliminare il salvataggio '{Name}'?"/>
@@ -14121,7 +14121,7 @@
 		<entry key="ParkManagement_List_NoEntertainer" translation="Non animatori"/>
 		<entry key="ParkManagement_List_NoJanitor" translation="Non hai spazzini"/>
 		<entry key="ParkManagement_List_NoMechanic" translation="Non hai manutentori"/>
-		<entry key="ParkManagement_List_NoSecurity" translation="YNon hai guardie di sicurezza"/>
+		<entry key="ParkManagement_List_NoSecurity" translation="Non hai guardie di sicurezza"/>
 		<entry key="ParkManagement_List_NoVendor" translation="Non hai venditori"/>
 		<entry key="ParkManagement_List_PayHeader" translation="Paga"/>
 		<entry key="ParkManagement_List_PopularityHeader" translation="Popolarità"/>
@@ -14259,7 +14259,7 @@
 		<entry key="ParkManagement_Overview_RideCountWithIssues_1" translation="{rideCount}, {issue1}"/>
 		<entry key="ParkManagement_Overview_RideCountWithIssues_2" translation="{rideCount}, {issue1}, {issue2}"/>
 		<entry key="ParkManagement_Overview_RideCountWithIssues_3" translation="{rideCount}, {issue1}, {issue2}, {issue3}"/>
-		<entry key="ParkManagement_Overview_SecurityCount" translation="Guardi di sicurezza"/>
+		<entry key="ParkManagement_Overview_SecurityCount" translation="Guardie di sicurezza"/>
 		<entry key="ParkManagement_Overview_Tooltip" translation="Informazioni parco"/>
 		<entry key="ParkManagement_Overview_Tracked_Multiple" translation="{count:int} montagne russe"/>
 		<entry key="ParkManagement_Overview_Tracked_One" translation="1 montagna russa"/>
@@ -14269,7 +14269,7 @@
 		<entry key="ParkManagement_ParkCapacityTitle" translation="Capacità del parco"/>
 		<entry key="ParkManagement_ParkOperations" translation="Operazioni Parco"/>
 		<entry key="ParkManagement_ParkStatistics" translation="Statistiche parco"/>
-		<entry key="ParkManagement_ParkStats_BiggestDrop" translation="Biggest Drop"/>
+		<entry key="ParkManagement_ParkStats_BiggestDrop" translation="Discesa più grande"/>
 		<entry key="ParkManagement_ParkStats_FastestCoaster" translation="Montagne russe più veloci"/>
 		<entry key="ParkManagement_ParkStats_GuestHappiness" translation="Felicità Visitatori"/>
 		<entry key="ParkManagement_ParkStats_HighestCoaster" translation="Montagne russe più alte"/>
@@ -14299,7 +14299,7 @@
 		<entry key="ParkManagement_ResearchSummary" translation="Marketing &amp; Riepilogo ricerche"/>
 		<entry key="ParkManagement_ResearchTime" translation="Tempo di ricerca:"/>
 		<entry key="ParkManagement_Research_CantAfford" translation="Fondi insufficienti per la ricerca"/>
-		<entry key="ParkManagement_Research_ChooseResearch" translation="Choose something to research..."/>
+		<entry key="ParkManagement_Research_ChooseResearch" translation="Scegli qualcosa da ricercare..."/>
 		<entry key="ParkManagement_Research_CurrentSpending" translation="Spesa di ricerca corrente"/>
 		<entry key="ParkManagement_Research_CurrentStudies" translation="Progetti di ricerca attuali"/>
 		<entry key="ParkManagement_Research_Done" translation="Scopri ricerca"/>
@@ -14316,58 +14316,58 @@
 		<entry key="ParkManagement_Research_Tooltip" translation="Ricerca nuovi oggetti da posizionare nel parco"/>
 		<entry key="ParkManagement_Research_TotalCost" translation="Costi stimati di ricerca: {Value:currency}"/>
 		<entry key="ParkManagement_Research_TotalSpent" translation="Spese di ricerca totali"/>
-		<entry key="ParkManagement_RideStateAging" translation="Invecchiamento"/>
-		<entry key="ParkManagement_RideStateClassic" translation="Classico"/>
-		<entry key="ParkManagement_RideStateNew" translation="Nuovo"/>
-		<entry key="ParkManagement_RideStateOld" translation="Vecchio"/>
+		<entry key="ParkManagement_RideStateAging" translation="Attempata"/>
+		<entry key="ParkManagement_RideStateClassic" translation="Classica"/>
+		<entry key="ParkManagement_RideStateNew" translation="Nuova"/>
+		<entry key="ParkManagement_RideStateOld" translation="Antiquata"/>
 		<entry key="ParkManagement_RidesSummary" translation="Corse &amp; Riepilogo attrazioni"/>
 		<entry key="ParkManagement_Security" translation="Gestione Sicurezza"/>
 		<entry key="ParkManagement_SecurityStatistics" translation="Statistiche Sicurezza"/>
-		<entry key="ParkManagement_Security_Disabled_Tooltip" translation="To view crime and security information you must enable Security Features in the Game Options."/>
+		<entry key="ParkManagement_Security_Disabled_Tooltip" translation="Per vedere le informazioni su crimini e sicurezza devi abilitare le Funzioni Sicurezza nelle Opzioni di Gioco."/>
 		<entry key="ParkManagement_Security_Tooltip" translation="Informazioni su crimini e sicurezza"/>
 		<entry key="ParkManagement_Shops" translation="Negozi"/>
 		<entry key="ParkManagement_SpecialEffects" translation="Effetti Speciali"/>
-		<entry key="ParkManagement_SpecialEffects_BillboardDescription" translation="A list of all the Video Billboards in your park. Billboards can be connected to Sequences in the same way as Special Effects."/>
-		<entry key="ParkManagement_SpecialEffects_BillboardHeading" translation="Video Billboards"/>
-		<entry key="ParkManagement_SpecialEffects_BillboardMonthlyRunningCostHeading" translation="Monthly Running Cost"/>
-		<entry key="ParkManagement_SpecialEffects_BillboardNameHeading" translation="Name"/>
-		<entry key="ParkManagement_SpecialEffects_BillboardStateHeading" translation="Status"/>
+		<entry key="ParkManagement_SpecialEffects_BillboardDescription" translation="Una lista di tutti i Cartelloni Video nel tuo parco. I Cartelloni possono essere collegati a Sequenze nello stesso modo degli Effetti Speciali."/>
+		<entry key="ParkManagement_SpecialEffects_BillboardHeading" translation="Cartelloni Video"/>
+		<entry key="ParkManagement_SpecialEffects_BillboardMonthlyRunningCostHeading" translation="Costo di esercizio mensile"/>
+		<entry key="ParkManagement_SpecialEffects_BillboardNameHeading" translation="Nome"/>
+		<entry key="ParkManagement_SpecialEffects_BillboardStateHeading" translation="Stato"/>
 		<entry key="ParkManagement_SpecialEffects_BillboardStateOff" translation="Off"/>
 		<entry key="ParkManagement_SpecialEffects_BillboardStateOn" translation="On"/>
-		<entry key="ParkManagement_SpecialEffects_FlatRideSequenceDuration_Multiple" translation="{count:int} animations"/>
-		<entry key="ParkManagement_SpecialEffects_FlatRideSequenceDuration_One" translation="1 animation"/>
-		<entry key="ParkManagement_SpecialEffects_FlatRideSequenceDuration_Zero" translation="0 animations"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceCostPerRunHeading" translation="Cost Per Run"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayTypeHeading" translation="Display Type"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_CoasterTriggers" translation="Coaster Triggers"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_ContinuousLoop" translation="Continuous Loop"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_LoopingAndTrigger" translation="Looping and on Trigger"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_OnTriggerOnly" translation="On Trigger"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_RideSequence" translation="Ride Sequence"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_SetTimesAndTrigger" translation="At Specific Times and on Trigger"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceDurationHeading" translation="Duration"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceEstimatedMonthlyRunningCostHeading" translation="Monthly Running Cost"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceItemCountHeading" translation="Items"/>
-		<entry key="ParkManagement_SpecialEffects_SequenceNameHeading" translation="Name"/>
+		<entry key="ParkManagement_SpecialEffects_FlatRideSequenceDuration_Multiple" translation="{count:int} animazioni"/>
+		<entry key="ParkManagement_SpecialEffects_FlatRideSequenceDuration_One" translation="1 animazione"/>
+		<entry key="ParkManagement_SpecialEffects_FlatRideSequenceDuration_Zero" translation="0 animazioni"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceCostPerRunHeading" translation="Costo per attivazione"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayTypeHeading" translation="Tipo Dimostrazione "/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_CoasterTriggers" translation="Inneschi Coaster"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_ContinuousLoop" translation="In Loop Continuo"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_LoopingAndTrigger" translation="In Loop e su Innesco"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_OnTriggerOnly" translation="Su Innesco"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_RideSequence" translation="Sequenza Attrazione"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDisplayType_SetTimesAndTrigger" translation="In momenti specifici e su Innesco"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceDurationHeading" translation="Durata"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceEstimatedMonthlyRunningCostHeading" translation="Costo di esercizio mensile"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceItemCountHeading" translation="Elementi"/>
+		<entry key="ParkManagement_SpecialEffects_SequenceNameHeading" translation="Nome"/>
 		<entry key="ParkManagement_SpecialEffects_SequencerSequenceDuration" translation="{time:float:decimalPlaces=1} s"/>
-		<entry key="ParkManagement_SpecialEffects_SequencesDescription" translation="You can build special effects through the scenery browser. These effects can then be triggered by rides or display sequencers."/>
+		<entry key="ParkManagement_SpecialEffects_SequencesDescription" translation="Puoi creare effetti speciali attraverso il browser scenari. Questi effetti possono quindi essere attivati dalle attrazioni o dai sequenziatori di effetti."/>
 		<entry key="ParkManagement_SpecialEffects_SequencesHeading" translation="Sequenze effetti speciali"/>
 		<entry key="ParkManagement_SpecialEffects_SequencesTooltip" translation="Sequenze effetti speciali"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerDescription" translation="A list of all the Speakers in your park, their type and running costs."/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerHeading" translation="Speakers"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerMonthlyRunningCostHeading" translation="Monthly Running Cost"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerNameHeading" translation="Name"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerTypeAmbience" translation="Ambience"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerTypeDisplay" translation="Display"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerTypeHeading" translation="Type"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerTypeMusic" translation="Music"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakerTypeTrigger" translation="Trigger"/>
-		<entry key="ParkManagement_SpecialEffects_SpeakersTooltip" translation="Speakers"/>
-		<entry key="ParkManagement_SpecialEffects_Tooltip" translation="Special effects information"/>
-		<entry key="ParkManagement_SpecialEffects_TrackedRideSequenceDuration_Multiple" translation="{count:int} trigger points"/>
-		<entry key="ParkManagement_SpecialEffects_TrackedRideSequenceDuration_One" translation="1 trigger points"/>
-		<entry key="ParkManagement_SpecialEffects_TrackedRideSequenceDuration_Zero" translation="0 trigger points"/>
-		<entry key="ParkManagement_SpecialEffects_VideoBillboardsTooltip" translation="Video Billboards"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerDescription" translation="Una lista di tutti gli Altoparlanti nel parco, il loro tipo e il loro costo di esercizio."/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerHeading" translation="Altoparlanti"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerMonthlyRunningCostHeading" translation="Costo di esercizio mensile"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerNameHeading" translation="Nome"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerTypeAmbience" translation="Ambiente"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerTypeDisplay" translation="Schermo"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerTypeHeading" translation="Tipo"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerTypeMusic" translation="Musica"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakerTypeTrigger" translation="Innesco"/>
+		<entry key="ParkManagement_SpecialEffects_SpeakersTooltip" translation="Altoparlanti"/>
+		<entry key="ParkManagement_SpecialEffects_Tooltip" translation="Informazioni effetti speciali"/>
+		<entry key="ParkManagement_SpecialEffects_TrackedRideSequenceDuration_Multiple" translation="{count:int} punti di innesco"/>
+		<entry key="ParkManagement_SpecialEffects_TrackedRideSequenceDuration_One" translation="1 punto di innesco"/>
+		<entry key="ParkManagement_SpecialEffects_TrackedRideSequenceDuration_Zero" translation="0 punti di innesco"/>
+		<entry key="ParkManagement_SpecialEffects_VideoBillboardsTooltip" translation="Cartelloni Video"/>
 		<entry key="ParkManagement_Staff" translation="Dipendenti"/>
 		<entry key="ParkManagement_StaffList" translation="Lista dipendenti"/>
 		<entry key="ParkManagement_StaffListToolTip" translation="Apri informazioni dipendenti"/>
@@ -14380,7 +14380,7 @@
 		<entry key="ParkManagement_Staff_Quit_Tooltip" translation="Un dipendente si è licenziato e sta cercando di lasciare il parco"/>
 		<entry key="ParkManagement_Staff_Tooltip" translation="Visualizza e assumi dipendenti"/>
 		<entry key="ParkManagement_Staff_Workload_High" translation="Alto"/>
-		<entry key="ParkManagement_Staff_Workload_Low" translation="basso"/>
+		<entry key="ParkManagement_Staff_Workload_Low" translation="Basso"/>
 		<entry key="ParkManagement_Staff_Workload_Medium" translation="Normale"/>
 		<entry key="ParkManagement_TeenGroups" translation="Gruppi di ragazzi"/>
 		<entry key="ParkManagement_TicketLifetimeVisitors" translation="Visitatori dall'apertura del parco"/>
@@ -14391,14 +14391,14 @@
 		<entry key="ParkManagement_TicketStepperChildHint" translation="Costo di entrata per ogni membro di una famiglia."/>
 		<entry key="ParkManagement_TicketStepperFastPass" translation="Pass Salta-Coda"/>
 		<entry key="ParkManagement_TicketStepperFastPassHint" translation="Prezzo del Pass Salta-Coda venduto al banco informazioni (per visitatore)"/>
-		<entry key="ParkManagement_TicketStepperFastPass_NoFastPassFacilities" translation="è necessario un Chiosco informazioni Information per vendere i pass prioritari"/>
+		<entry key="ParkManagement_TicketStepperFastPass_NoFastPassFacilities" translation="E' necessario un Chiosco informazioni per vendere i pass prioritari"/>
 		<entry key="ParkManagement_TicketStepperStandard" translation="Standard"/>
 		<entry key="ParkManagement_TicketStepperStandardHint" translation="Il prezzo di entrata per ogni visitatore in un gruppo di adulti o ragazzi."/>
 		<entry key="ParkManagement_TicketVisitorsLastMonth" translation="Visitatori dell'ultimo mese"/>
-		<entry key="ParkManagement_Tickets_ParkCapacityCannotBeChangedInScenario" translation="La capacità del parco non può essere cambiato in questo scenario"/>
+		<entry key="ParkManagement_Tickets_ParkCapacityCannotBeChangedInScenario" translation="La capacità del parco non può essere cambiata in questo scenario"/>
 		<entry key="ParkManagement_TitleStatus" translation="Stato del parco: {STATUS}"/>
 		<entry key="ParkManagement_TopThoughts" translation="Migliori pensieri dei visitatori"/>
-		<entry key="ParkManagement_Triggers" translation="Triggers"/>
+		<entry key="ParkManagement_Triggers" translation="Inneschi"/>
 		<!--ParkUpload-->
 		<entry key="ParkUpload_ButtonBack" translation="Indietro"/>
 		<entry key="ParkUpload_ButtonCreateWorkshopItem" translation="Crea oggetto del workshop"/>
@@ -17631,7 +17631,7 @@
 		<entry key="Guest_Thought_ParkExit_Neutral_Teen_01" translation="Questo è un parco nella media, spero la prossima volta sia migliore!"/>
 		<entry key="Guest_Thought_ParkExit_Neutral_Teen_02" translation="Questo parco è un 6 su 10, meglio andare a casa ora."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketEjected_Common_01" translation="La sicurezza al parco era alta, ho borseggiato e sono stato preso."/>
-		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_01" translation="I had a terrible time, a pickpocket stole money from me and hasn't been caught! Security here is a joke!"/>
+		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_01" translation="Ho avuto una brutta esperienza, un borseggiatore mi ha rubato i soldi e non è stato preso! Qui la Sicurezza è uno scherzo!"/>
 		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_02" translation="I'm never coming back here again, someone managed to steal from me and get away with it. Where's the security?!"/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_01" translation="This visit wasn't a good experience, they need to increase security here, they caught the pickpocket that stole from me but only after they'd managed to spend most of my money!"/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Time to go home. Security at this park certainly could do with improvement, the pickpocket who stole from me got away with spending most of my money before he was caught."/>
@@ -17835,7 +17835,7 @@
 		<entry key="Guest_Thought_Vandalism_GoingToVandalisedObject_Common_04" translation="Cosa posso colpire? Sono cosi' arrabbiato!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_01" translation="Qualcuno sta vandalizzando le cose nel parco!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_02" translation="Qualcuno non è felice, stanno distruggendo le cose nel parco!"/>
-		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_03" translation="Someone needs to control their temper and not take it out on other people's property!"/>
+		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_03" translation="Qualcuno ha bisogno di controllare il proprio carattere e di non sfogarsi sulla proprietà altrui!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Child_01" translation="Sono spaventato, quella persone sta colpendo le cose!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Child_02" translation="Perchè questa persona sta rompendo le cose?"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Common_01" translation="Qualcuno sta rompendo le cose nel parco!"/>
