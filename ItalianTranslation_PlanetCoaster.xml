@@ -4016,7 +4016,7 @@
 		<entry key="FR_GiantW_Desc" translation="Questa classica Ruota Panoramica è la preferita delle famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_GiantW_Prefix" translation="Big Wheel"/>
 		<entry key="FR_PathosIII" translation="Pathos III"/>
-		<entry key="FR_PathosIII_Desc" translation="Ruota su tutti gli assicon questa popolare attrazione da Luna Park.&#10;Attrazione Eccitante"/>
+		<entry key="FR_PathosIII_Desc" translation="Ruota su tutti gli assi con questa popolare attrazione da Luna Park.&#10;Attrazione Eccitante"/>
 		<entry key="FR_PathosIII_Prefix" translation="Pathos III"/>
 		<entry key="FR_Zozo" translation="Zozo"/>
 		<entry key="FR_Zozo_Desc" translation="Librati in alto sopra la terra con questa attrazione unica.&#10;Attrazione Eccitante"/>
@@ -4442,8 +4442,8 @@
 		<entry key="TrackElementDesc_NarrowTrack" translation="Stringe la sezione del tracciato."/>
 		<entry key="TrackElementDesc_NarrowTrackRailings" translation="Stringe la sezione Parapetto del tracciato."/>
 		<entry key="TrackElementDesc_NormalTrackRailings" translation="Sezione di Partenza Parapetto Chicane."/>
-		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Superficiale"/>
-		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Descrizione Cobra Roll Destro Superficiale"/>
+		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Basso"/>
+		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Descrizione Cobra Roll Destro Basso"/>
 		<entry key="TrackElementDesc_TK_SP_SteepCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Ripido"/>
 		<entry key="TrackElementDesc_TK_SP_SteepCobraRollRight" translation="Descrizione Cobra Roll Destro Ripido"/>
 		<entry key="TrackElementName_180TurnLeft" translation="Curva sinistra 180°"/>
@@ -4481,7 +4481,7 @@
 		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
 		<entry key="TrackElementName_TK_SP_SteepCobraRollLeft" translation="Cobra Roll Sinistro Ripido"/>
 		<entry key="TrackElementName_TK_SP_SteepCobraRollRight" translation="Cobra Roll Destro Ripido"/>
-		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Spinta"/>
+		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Trainante"/>
 		<entry key="TrackElementTool_180TurnLeft" translation="&lt;font color='accent'&gt;Curva sinistra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementTool_180TurnRight" translation="&lt;font color='accent'&gt;Curva destra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Base Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
