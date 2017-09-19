@@ -12377,7 +12377,7 @@
 		<entry key="PopUp_RideTesting_Nausea" translation="Nausea"/>
 		<entry key="PopUp_RideTesting_NoHeatmap" translation="NESSUNA"/>
 		<entry key="PopUp_RideTesting_NumAirTime" translation="Tempo in Volo"/>
-		<entry key="PopUp_RideTesting_Numinversions" translation="Numero inversioni"/>
+		<entry key="PopUp_RideTesting_NumInversions" translation="Numero inversioni"/>
 		<entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
 		<entry key="PopUp_RideTesting_Results" translation="Risultati"/>
 		<entry key="PopUp_RideTesting_Speed" translation="Velocita'"/>
