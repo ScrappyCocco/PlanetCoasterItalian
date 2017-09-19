@@ -589,7 +589,7 @@
 		<entry key="Blueprints_SteamWorkshopItemDescr" translation="Descrizione Workshop"/>
 		<entry key="Blueprints_SteamWorkshopItemTitle" translation="Titolo Workshop"/>
 		<entry key="Blueprints_SteelHydraBlueprint01" translation="Serpentine"/>
-		<entry key="Blueprints_SteelHydraBlueprint01Desc" translation="A layout for the Suspended coaster"/>
+		<entry key="Blueprints_SteelHydraBlueprint01Desc" translation="Un layout per il Suspended coaster"/>
 		<entry key="Blueprints_Stingray01" translation="Stinger"/>
 		<entry key="Blueprints_Stingray01Desc" translation="Un layout per il Flying coaster"/>
 		<entry key="Blueprints_StingrayBlueprint01" translation="Stinger"/>
@@ -616,7 +616,7 @@
 		<entry key="Blueprints_TreasurePile" translation="Pila di Tesori"/>
 		<entry key="Blueprints_TreasurePileDesc" translation=" ooohh Arghhh, ecco l'oro!"/>
 		<entry key="Blueprints_TridentBlueprint01" translation="Cortez"/>
-		<entry key="Blueprints_TridentBlueprint01Desc" translation="A layout for the Boomerang coaster"/>
+		<entry key="Blueprints_TridentBlueprint01Desc" translation="Un layout per il Boomerang coaster"/>
 		<entry key="Blueprints_UFO" translation="UFO"/>
 		<entry key="Blueprints_UFODesc" translation="E' UN'OGGETTO VOLANTE NON IDENTIFICATO!"/>
 		<entry key="Blueprints_UpdateBlueprint" translation="Aggiorna un progetto salvato"/>
@@ -4395,10 +4395,10 @@
 		<entry key="BuildingPartName_SF_DefenceTower_01" translation="Torretta di Difesa Sci-Fi "/>
 		<entry key="BuildingPartName_SF_DefenceTower_02" translation="Torre di Difesa Sci-Fi "/>
 		<entry key="BuildingPartName_SF_DefenceTower_03" translation="Base Torre di Difesa Sci-Fi "/>
-		<entry key="BuildingPartName_WS_Cowboy_Idle_01" translation="Cowboy Fermo"/>
-		<entry key="BuildingPartName_WS_Cowboy_KickHeel_01" translation="Cowboy Scalciante"/>
+		<entry key="BuildingPartName_WS_Cowboy_Idle_01" translation="Cowboy Seduto"/>
+		<entry key="BuildingPartName_WS_Cowboy_KickHeel_01" translation="Cowboy che batte il tacco"/>
 		<entry key="BuildingPartName_WS_Cowboy_Lean_01" translation="Cowboy Appoggiato"/>
-		<entry key="BuildingPartName_WS_Cowboy_TipHat_01" translation="Cowboy Elemosinante"/>
+		<entry key="BuildingPartName_WS_Cowboy_TipHat_01" translation="Cowboy che saluta"/>
 		<entry key="BuildingPartName_WS_Fence_Painted_2m" translation="Recinto Western Dipinto 2m"/>
 		<entry key="BuildingPartName_WS_Fence_Painted_4m" translation="Recinto Western Dipinto 4m"/>
 		<entry key="BuildingPartName_WS_Fence_Rough_2m" translation="Recinto Western Grezzo 2m"/>
@@ -4441,7 +4441,7 @@
 		<entry key="TrackElementDesc_ExpandSectionRailings" translation="Allarga il Parapetto del tracciato."/>
 		<entry key="TrackElementDesc_NarrowTrack" translation="Stringe la sezione del tracciato."/>
 		<entry key="TrackElementDesc_NarrowTrackRailings" translation="Stringe la sezione Parapetto del tracciato."/>
-		<entry key="TrackElementDesc_NormalTrackRailings" translation="Sezione di Partenza Parapetto Chicane."/>
+		<entry key="TrackElementDesc_NormalTrackRailings" translation="Sezione di Partenza con Parapetto ."/>
 		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Basso"/>
 		<entry key="TrackElementDesc_TK_SP_ShallowCobraRollRight" translation="Descrizione Cobra Roll Destro Basso"/>
 		<entry key="TrackElementDesc_TK_SP_SteepCobraRollLeft" translation="Descrizione Cobra Roll Sinistro Ripido"/>
@@ -4521,94 +4521,94 @@
 		<!--C2_Trains-->
 		<entry key="Train_Trident" translation="Trident"/>
 		<!--C3_Blueprints-->
-		<entry key="Blueprints_DowntownBuildingBlueprint01" translation="Downtown Building 01"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint01Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint02" translation="Downtown Skyscraper 01"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint02Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint03" translation="Downtown Skyscraper 02"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint03Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint04" translation="Downtown Skyscraper 03"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint04Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint05" translation="Downtown Skyscraper 04"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint05Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint06" translation="Downtown Shopfront"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint06Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint07" translation="Downtown Building 02"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint07Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint08" translation="Downtown Building 03"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint08Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint09" translation="Downtown Building 04"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint09Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint10" translation="Downtown Building 05"/>
-		<entry key="Blueprints_DowntownBuildingBlueprint10Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownDocksBlueprint01" translation="Downtown Docks Building 01"/>
-		<entry key="Blueprints_DowntownDocksBlueprint01Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_DowntownDocksBlueprint02" translation="Downtown Docks Building 02"/>
-		<entry key="Blueprints_DowntownDocksBlueprint02Desc" translation="Downtown-themed building"/>
-		<entry key="Blueprints_FairytaleHotel" translation="Fairytale Hotel"/>
-		<entry key="Blueprints_FairytaleHotelDesc" translation="Spectacular fairytale hotel and casino"/>
-		<entry key="Blueprints_FireworksBlueprint01" translation="Fireworks - Catherine Wheel Sequence"/>
-		<entry key="Blueprints_FireworksBlueprint01Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint02" translation="Fireworks - Circle of Fireworks"/>
-		<entry key="Blueprints_FireworksBlueprint02Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint03" translation="Fireworks - Comet Circle"/>
-		<entry key="Blueprints_FireworksBlueprint03Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint04" translation="Fireworks - Four Way Explosion"/>
-		<entry key="Blueprints_FireworksBlueprint04Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint05" translation="Fireworks - Frantic Display"/>
-		<entry key="Blueprints_FireworksBlueprint05Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint06" translation="Fireworks - Ground Comets"/>
-		<entry key="Blueprints_FireworksBlueprint06Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint07" translation="Fireworks - Pearl Sequence"/>
-		<entry key="Blueprints_FireworksBlueprint07Desc" translation="Fireworks display."/>
-		<entry key="Blueprints_FireworksBlueprint08" translation="Fireworks - Steady Build Up"/>
-		<entry key="Blueprints_FireworksBlueprint08Desc" translation="Fireworks display."/>
+		<entry key="Blueprints_DowntownBuildingBlueprint01" translation="Downtown Edificio 01"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint01Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint02" translation="Downtown Grattacielo 01"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint02Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint03" translation="Downtown Grattacielo 02"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint03Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint04" translation="Downtown Grattacielo 03"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint04Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint05" translation="Downtown Grattacielo 04"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint05Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint06" translation="Downtown facciata Negozio"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint06Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint07" translation="Downtown Edificio 02"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint07Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint08" translation="Downtown Edificio 03"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint08Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint09" translation="Downtown Edificio 04"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint09Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint10" translation="Downtown Edificio 05"/>
+		<entry key="Blueprints_DowntownBuildingBlueprint10Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownDocksBlueprint01" translation="Downtown Edificio Molo 01"/>
+		<entry key="Blueprints_DowntownDocksBlueprint01Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_DowntownDocksBlueprint02" translation="Downtown Edificio Molo 02"/>
+		<entry key="Blueprints_DowntownDocksBlueprint02Desc" translation="Edificio a tema Downtown"/>
+		<entry key="Blueprints_FairytaleHotel" translation="Hotel Fiabesco"/>
+		<entry key="Blueprints_FairytaleHotelDesc" translation="Spettacolari hotel e casinò fiabeschi"/>
+		<entry key="Blueprints_FireworksBlueprint01" translation="Fuochi d'artificio - Sequenza Ruota Catherine "/>
+		<entry key="Blueprints_FireworksBlueprint01Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint02" translation="Fuochi d'artificio - Cerchio di Fuochi d'artificio"/>
+		<entry key="Blueprints_FireworksBlueprint02Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint03" translation="Fuochi d'artificio - Cerchio Cometa"/>
+		<entry key="Blueprints_FireworksBlueprint03Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint04" translation="Fuochi d'artificio - Esplosione quadrupla"/>
+		<entry key="Blueprints_FireworksBlueprint04Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint05" translation="Fuochi d'artificio - Spettacolo Frenetico"/>
+		<entry key="Blueprints_FireworksBlueprint05Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint06" translation="Fuochi d'artificio - Comete a terra"/>
+		<entry key="Blueprints_FireworksBlueprint06Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint07" translation="Fuochi d'artificio - Sequenza Perla"/>
+		<entry key="Blueprints_FireworksBlueprint07Desc" translation="Spettacolo di fuochi d'artificio."/>
+		<entry key="Blueprints_FireworksBlueprint08" translation="Fuochi d'artificio - Steady Build Up"/>
+		<entry key="Blueprints_FireworksBlueprint08Desc" translation="Spettacolo di fuochi d'artificio."/>
 		<entry key="Blueprints_GnarlerBlueprint01" translation="Woodfalls"/>
-		<entry key="Blueprints_GnarlerBlueprint01Desc" translation="A layout for the Gnarler coaster"/>
+		<entry key="Blueprints_GnarlerBlueprint01Desc" translation="Un layout per il Gnarler coaster"/>
 		<entry key="Blueprints_LunaAutos02" translation="Steam"/>
-		<entry key="Blueprints_LunaAutos02Desc" translation="A layout for the Luna Autos Powered Track Ride"/>
+		<entry key="Blueprints_LunaAutos02Desc" translation="Un layout per il Luna Autos Powered Track Ride"/>
 		<entry key="Blueprints_PowerUpBlueprint01" translation="Hoax"/>
-		<entry key="Blueprints_PowerUpBlueprint01Desc" translation="A layout for the Power Up coaster"/>
-		<entry key="Blueprints_RivieraBellTower" translation="Riviera Bell Tower"/>
-		<entry key="Blueprints_RivieraBellTowerDesc" translation="Riviera-themed bell tower"/>
-		<entry key="Blueprints_RivieraBuilding1" translation="Riviera Building 01"/>
-		<entry key="Blueprints_RivieraBuilding10" translation="Riviera Building 10"/>
-		<entry key="Blueprints_RivieraBuilding10Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding11" translation="Riviera Building 11"/>
-		<entry key="Blueprints_RivieraBuilding11Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding12" translation="Riviera Building 12"/>
-		<entry key="Blueprints_RivieraBuilding12Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding13" translation="Riviera Building 13"/>
-		<entry key="Blueprints_RivieraBuilding13Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding14" translation="Riviera Building 14"/>
-		<entry key="Blueprints_RivieraBuilding14Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding1Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding2" translation="Riviera Building 02"/>
-		<entry key="Blueprints_RivieraBuilding2Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding3" translation="Riviera Building 03"/>
-		<entry key="Blueprints_RivieraBuilding3Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding4" translation="Riviera Building 04"/>
-		<entry key="Blueprints_RivieraBuilding4Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding5" translation="Riviera Building 05"/>
-		<entry key="Blueprints_RivieraBuilding5Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding6" translation="Riviera Building 06"/>
-		<entry key="Blueprints_RivieraBuilding6Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding7" translation="Riviera Building 07"/>
-		<entry key="Blueprints_RivieraBuilding7Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding8" translation="Riviera Building 08"/>
-		<entry key="Blueprints_RivieraBuilding8Desc" translation="Riviera-themed building"/>
-		<entry key="Blueprints_RivieraBuilding9" translation="Riviera Building 09"/>
-		<entry key="Blueprints_RivieraBuilding9Desc" translation="Riviera-themed building"/>
+		<entry key="Blueprints_PowerUpBlueprint01Desc" translation="Un layout per il Power Up coaster"/>
+		<entry key="Blueprints_RivieraBellTower" translation="Riviera Campanile"/>
+		<entry key="Blueprints_RivieraBellTowerDesc" translation="Campanile a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding1" translation="Riviera Edificio 01"/>
+		<entry key="Blueprints_RivieraBuilding10" translation="Riviera Edificio 10"/>
+		<entry key="Blueprints_RivieraBuilding10Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding11" translation="Riviera Edificio 11"/>
+		<entry key="Blueprints_RivieraBuilding11Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding12" translation="Riviera Edificio 12"/>
+		<entry key="Blueprints_RivieraBuilding12Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding13" translation="Riviera Edificio 13"/>
+		<entry key="Blueprints_RivieraBuilding13Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding14" translation="Riviera Edificio 14"/>
+		<entry key="Blueprints_RivieraBuilding14Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding1Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding2" translation="Riviera Edificio 02"/>
+		<entry key="Blueprints_RivieraBuilding2Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding3" translation="Riviera Edificio 03"/>
+		<entry key="Blueprints_RivieraBuilding3Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding4" translation="Riviera Edificio 04"/>
+		<entry key="Blueprints_RivieraBuilding4Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding5" translation="Riviera Edificio 05"/>
+		<entry key="Blueprints_RivieraBuilding5Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding6" translation="Riviera Edificio 06"/>
+		<entry key="Blueprints_RivieraBuilding6Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding7" translation="Riviera Edificio 07"/>
+		<entry key="Blueprints_RivieraBuilding7Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding8" translation="Riviera Edificio 08"/>
+		<entry key="Blueprints_RivieraBuilding8Desc" translation="Edificio a tema Riviera"/>
+		<entry key="Blueprints_RivieraBuilding9" translation="Riviera Edificio 09"/>
+		<entry key="Blueprints_RivieraBuilding9Desc" translation="Edificio a tema Riviera"/>
 		<entry key="Blueprints_RivieraHotel1" translation="Riviera Hotel 1"/>
-		<entry key="Blueprints_RivieraHotel1Desc" translation="Riviera-themed hotel"/>
+		<entry key="Blueprints_RivieraHotel1Desc" translation="Hotel a tema Riviera"/>
 		<entry key="Blueprints_RivieraHotel2" translation="Riviera Hotel 2"/>
-		<entry key="Blueprints_RivieraHotel2Desc" translation="Riviera-themed hotel"/>
+		<entry key="Blueprints_RivieraHotel2Desc" translation="Hotel a tema Riviera"/>
 		<entry key="Blueprints_RivieraVilla" translation="Riviera Villa"/>
-		<entry key="Blueprints_RivieraVillaDesc" translation="Extravagant seafront villa"/>
+		<entry key="Blueprints_RivieraVillaDesc" translation="Stravagante villa davanti al mare"/>
 		<entry key="Blueprints_ViperBlueprint01" translation="Wrangler"/>
-		<entry key="Blueprints_ViperBlueprint01Desc" translation="A layout for the Viper coaster"/>
+		<entry key="Blueprints_ViperBlueprint01Desc" translation="Un layout per il Viper coaster"/>
 		<entry key="Blueprints_WoodenBlueprint02" translation="Tornado"/>
-		<entry key="Blueprints_WoodenBlueprint02Desc" translation="A layout for the Wooden coaster"/>
+		<entry key="Blueprints_WoodenBlueprint02Desc" translation="Un layout per il Wooden coaster"/>
 		<!--C3_Career-->
 		<entry key="FanfareCareerSetUnlocked_ELLY" translation="Miss Elly's looking for a hand on the ranch, except it's not cattle she's rounding up, it's customers!"/>
 		<entry key="FanfarePackCompletion_ELLY_1" translation="You collected all the Bronze stars for 'Miss Elly's Round Up'."/>
@@ -4719,11 +4719,11 @@
 		<entry key="BuildingPartDesc_FWK_Prop_FireworkPearlLauncher" translation="Special Effect - Multiple streamer fireworks."/>
 		<entry key="BuildingPartDesc_FWK_Prop_LargeLauncher" translation="Large firework launcher."/>
 		<entry key="BuildingPartDesc_FWK_Prop_RomanCandleLauncher" translation="Special Effect - Flaming candle firework."/>
-		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Fireworks display Sequenziatore."/>
-		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Fireworks display Sequenziatore."/>
+		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Sequenziatore Spettacolo di fuochi d'artificio ."/>
+		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Sequenziatore Spettacolo di fuochi d'artificio ."/>
 		<entry key="BuildingPartDesc_FWK_Prop_SmallLauncher" translation="Small firework launcher."/>
-		<entry key="BuildingPartDesc_FWK_Sequencer" translation="Fireworks display Sequenziatore."/>
-		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Fireworks display Sequenziatore."/>
+		<entry key="BuildingPartDesc_FWK_Sequencer" translation=" Sequanziatore Spettacolo di fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Sequenziatore Spettacolo di fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour bunting."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour bunting."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour bunting."/>
@@ -4811,11 +4811,11 @@
 		<entry key="BuildingPartName_FWK_Prop_FireworkPearlLauncher" translation="Pearl Launcher"/>
 		<entry key="BuildingPartName_FWK_Prop_LargeLauncher" translation="Large Launcher"/>
 		<entry key="BuildingPartName_FWK_Prop_RomanCandleLauncher" translation="Roman Candle Launcher"/>
-		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Display Sequenziatore"/>
-		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Display Sequenziatore Stand"/>
+		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Sequenziatore Spettacoli"/>
+		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Sequenziatore Spettacoli con piedistallo"/>
 		<entry key="BuildingPartName_FWK_Prop_SmallLauncher" translation="Small Launcher"/>
-		<entry key="BuildingPartName_FWK_Sequencer" translation="Display Sequenziatore"/>
-		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Display Sequenziatore Stand"/>
+		<entry key="BuildingPartName_FWK_Sequencer" translation="Sequenziatore Spettacoli"/>
+		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Sequenziatore Spettacoli con piedistallo"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour Bunting Straight Curved 2m"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour Bunting Straight Curved 4m"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour Bunting Drooping 2m"/>
@@ -4865,7 +4865,7 @@
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Screens"/>
 		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fireworks"/>
-		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Display Sequenziatore"/>
+		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Sequenziatore Spettacoli"/>
 		<!--C3_TrackElements-->
 		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Left Steep Description"/>
 		<entry key="TrackElementDesc_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Right Steep Description"/>
@@ -11998,7 +11998,7 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Elimina pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Seleziona pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva blocca angoli"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per piazzare il prossimo pezzo di tracciato."/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sul Pezzo Piazzato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalita' Modifica Coaster"/>
@@ -12006,8 +12006,8 @@
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Roller Coaster Triggers"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
 		<entry key="HUD_HelpPopup_Controls" translation="{ControlText}"/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="The display Sequenziatore allows you to trigger multiple objects and events by a schedule or from a a single ride or roller coaster trigger."/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Display Sequenziatore"/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="The Sequenziatore Spettacoli allows you to trigger multiple objects and events by a schedule or from a a single ride or roller coaster trigger."/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Sequenziatore Spettacoli"/>
 		<entry key="HUD_HelpPopup_DontShow" translation="Disabilita Consigli"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Conferma Posizione"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Annulla Posizione"/>
@@ -12036,7 +12036,7 @@
 		<entry key="HUD_HelpPopup_Paths_Command_08" translation="Regola altezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_09" translation="Resetta altezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_10" translation="Disabilita Giunti Sentiero"/>
-		<entry key="HUD_HelpPopup_Paths_Command_11" translation="Attiva/Disattiva blocca angoli"/>
+		<entry key="HUD_HelpPopup_Paths_Command_11" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_Paths_Command_12" translation="Riduci Lunghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_13" translation="Aumenta Lunghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_14" translation="Riduci Larghezza"/>
@@ -12090,7 +12090,7 @@
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_04" translation="Ruota di 90 gradi"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_05" translation="Alza/Abbassa"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_06" translation="Blocca su Assi di Superficie"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_07" translation="Attiva/Disattiva blocca angoli"/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_07" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_08" translation="Resetta Altezza"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_09" translation="Blocca su Assi di Superficie"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_10" translation="Attiva/Disattiva Allinea alla Superfice"/>
@@ -12230,7 +12230,7 @@
 		<entry key="HelperTooltips_ExitFromGroup" translation="Chiudi {NAME}"/>
 		<entry key="HelperTooltips_PickGrid" translation="Allinea agli oggetti"/>
 		<entry key="HelperTooltips_Rotate" translation="Ruota [{#LogicalButton.Editors_RotateObject#}]"/>
-		<entry key="HelperTooltips_StepRotation" translation="Blocca Angoli"/>
+		<entry key="HelperTooltips_StepRotation" translation="Angoli Fissi"/>
 		<!--InWorldPopUp-->
 		<entry key="PopUp_AddObjectToTrigger" translation="Aggiungi Oggetto da Innescare"/>
 		<entry key="PopUp_AddTrigger" translation="Aggiungi Innesco"/>
@@ -12790,7 +12790,7 @@
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
 		<!--InfoPanel_ModularScenery-->
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Costo Per Innesco"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Display Sequenziatore"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Sequenziatore Spettacoli"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySpeakersEntry" translation="Altoparlanti Collegati"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_Label" translation="Statistiche Economia"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_MonthlyRunningCostHeader" translation="Costo di Gestione Mensile"/>
@@ -13627,7 +13627,7 @@
 		<entry key="ObjectBrowser_Scenery_PickGridButton_Off" translation="Selezione griglia"/>
 		<entry key="ObjectBrowser_Scenery_PickGridToolTip" translation="Clicca sul pezzo di una costruzione esistente per settare l'altezza e la grandezza della griglia."/>
 		<entry key="ObjectBrowser_Scenery_PickPrompt" translation="Selezione un oggetto di una costruzione per utilizzare le sue impostazioni della griglia."/>
-		<entry key="ObjectBrowser_Scenery_RotationSnapSize" translation="Scatto angolare"/>
+		<entry key="ObjectBrowser_Scenery_RotationSnapSize" translation="Angoli Fissi"/>
 		<entry key="ObjectBrowser_Settings" translation="Impostazioni"/>
 		<entry key="ObjectBrowser_SortBy" translation="Ordina Per"/>
 		<entry key="ObjectBrowser_SortBy_Name" translation="Nome"/>
@@ -13811,7 +13811,7 @@
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Modifica Altezza"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Resetta Altezza"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Disabilita collegamento tra sentieri"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Attiva/Disattiva blocco angoli"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Lunghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Larghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Increase Path Length"/>
@@ -13827,7 +13827,7 @@
 		<entry key="OptionsMenu_Controls_Rebind_Button" translation="Rebind"/>
 		<entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Key Rebind In Progress"/>
 		<entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Press and release the buttons you wish to bind.&#10;Reverting in {Value:int} seconds..."/>
-		<entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Reset bindings to defaults"/>
+		<entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Resetta ai controlli di defaults"/>
 		<entry key="OptionsMenu_Controls_Rebind_Value" translation="Rebind to axis"/>
 		<entry key="OptionsMenu_Controls_ShowHideGUI" translation="Show / Hide User Interface"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit" translation="Modifica Terreno"/>
@@ -14441,7 +14441,7 @@
 		<entry key="ParkUpload_TitleUpdateWorkshopItem" translation="Caricamento oggetto del Workshop"/>
 		<entry key="ParkUpload_WorkshopAgreement" translation="Inviando questo parco, accetti gli\n&lt;font color='#FF0000'&gt;Steam Workshop terms of service&lt;/font&gt;"/>
 		<!--PathEdit-->
-		<entry key="PathEdit_AngleSnap" translation="Rotazione fissa"/>
+		<entry key="PathEdit_AngleSnap" translation="Angoli fissi"/>
 		<entry key="PathEdit_Build" translation="Costruisci"/>
 		<entry key="PathEdit_Camera" translation="Camera"/>
 		<entry key="PathEdit_CurvedElevated" translation="Curved Slopes"/>
@@ -15324,7 +15324,7 @@
 		<entry key="BuildingPartDesc_PC_Speaker_01" translation="Effetti Audio"/>
 		<entry key="BuildingPartDesc_PC_Speaker_02" translation="Effetti Audio"/>
 		<entry key="BuildingPartDesc_PC_Speaker_03" translation="Effetti Audio"/>
-		<entry key="BuildingPartDesc_PC_Speaker_04" translation="Plays the music from the display Sequenziatore the speaker is attached to."/>
+		<entry key="BuildingPartDesc_PC_Speaker_04" translation="Suona la musica del Sequenziatore Spettacoli al quale è attaccato l'altoparlante."/>
 		<entry key="BuildingPartDesc_PC_StandSign_Dollar" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_StandSign_Medic" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_StandSign_Toilet" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
@@ -18025,7 +18025,7 @@
 		<entry key="TrackEditParam_StationStopLocation" translation="Train Stop Location"/>
 		<entry key="TrackEditParam_TunnelRadius" translation="Tunnel Radius"/>
 		<entry key="TrackEditParam_WaitToReturnDelay" translation="Release Delay"/>
-		<entry key="TrackEdit_AngleSnap" translation="Angle Snap"/>
+		<entry key="TrackEdit_AngleSnap" translation="Angoli fissi"/>
 		<entry key="TrackEdit_AttachCamera" translation="Attach Camera"/>
 		<entry key="TrackEdit_AutoCompleteToolTip" translation="Auto Complete current design"/>
 		<entry key="TrackEdit_AutoTunnel" translation="Auto Tunnel"/>
