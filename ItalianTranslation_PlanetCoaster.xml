@@ -204,19 +204,19 @@
 		<entry key="Blueprints_ErrorBox_FailedToCreateEditItem" translation="Impossibile modificare il progetto WorkShop."/>
 		<entry key="Blueprints_ErrorBox_FailedToCreateItemContent" translation="Impossibile creare i contenuti del progetto da caricare nel WorkShop."/>
 		<entry key="Blueprints_ErrorBox_ListItemsSteamInsufficientPrivilege" translation="Il tuo account di steam non ha i permessi per usare lo Steam WorkShop."/>
-		<entry key="Blueprints_ErrorBox_ListItemsSteamInterrupted" translation="La richiesta dei tuoi progetti al WorkShop e' stata interrotta."/>
+		<entry key="Blueprints_ErrorBox_ListItemsSteamInterrupted" translation="La richiesta dei tuoi progetti al WorkShop è stata interrotta."/>
 		<entry key="Blueprints_ErrorBox_ListItemsSteamNotLoggedIn" translation="Non collegato a steam - Non posso trovare i tuoi progetti del WorkShop."/>
-		<entry key="Blueprints_ErrorBox_ListItemsSteamTimeout" translation="Il tempo per scaricare i tuoi progetti del WorkShop e' scaduto."/>
+		<entry key="Blueprints_ErrorBox_ListItemsSteamTimeout" translation="Il tempo per scaricare i tuoi progetti del WorkShop è scaduto."/>
 		<entry key="Blueprints_ErrorBox_ListItemsSteamTitle" translation="Errore nel mostrarti i progetti"/>
 		<entry key="Blueprints_ErrorBox_ListItemsSteamUnknownError" translation="Un errore sconosciuto ha impedito di scaricare i tuoi progetti dal WorkShop."/>
 		<entry key="Blueprints_ErrorBox_MissingInfoTitle" translation="Informazione Mancante"/>
-		<entry key="Blueprints_ErrorBox_NoDescriptionMessage" translation="Una descrizione e' necessaria per questo progetto"/>
+		<entry key="Blueprints_ErrorBox_NoDescriptionMessage" translation="Una descrizione è necessaria per questo progetto"/>
 		<entry key="Blueprints_ErrorBox_NoItemID" translation="Errore nel creare/Aggiornare il progetto del WorkShop - ID Oggetto non trovato."/>
-		<entry key="Blueprints_ErrorBox_NoNameMessage" translation="Un nome e' richiesto per questo progetto"/>
+		<entry key="Blueprints_ErrorBox_NoNameMessage" translation="Un nome è richiesto per questo progetto"/>
 		<entry key="Blueprints_ErrorBox_NoTagMessage" translation="E' richiesto almeno un tag per questo progetto"/>
 		<entry key="Blueprints_ErrorBox_NoUserTagMessage" translation="Per favore specifica almeno un Tag per questo tipo di progetto"/>
 		<entry key="Blueprints_ErrorBox_UploadSteamInsufficientPrivilege" translation="Il tuo account di steam non ha i permessi per usare lo Steam WorkShop."/>
-		<entry key="Blueprints_ErrorBox_UploadSteamInterrupted" translation="L'upload del progetto verso il WorkShop e' stato interrotto."/>
+		<entry key="Blueprints_ErrorBox_UploadSteamInterrupted" translation="L'upload del progetto verso il WorkShop è stato interrotto."/>
 		<entry key="Blueprints_ErrorBox_UploadSteamNotLoggedIn" translation="Non collegato a steam - non posso caricare il tuo progetto sul WorkShop."/>
 		<entry key="Blueprints_ErrorBox_UploadSteamTimeout" translation="Tempo scaduto nell'upload del progetto sul WorkShop"/>
 		<entry key="Blueprints_ErrorBox_UploadSteamTitle" translation="Errore nell'upload del progetto"/>
@@ -2072,7 +2072,7 @@
 		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalGlowSign" translation="Una splendente Pancetta di legge e ordine.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalSign" translation="Non troppo grosso, e non troppo piccolo.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeSign" translation="Aumentiamo il ManzoSegnale!\nSet Capitan Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeVerticalSign" translation="La giustizia e' onnipresente.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeVerticalSign" translation="La giustizia è onnipresente.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefNeonSign" translation="Per quando hai veramente bisogno di essere visto.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefPatrolLight" translation="Luce patriottica.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefVerticalSign" translation="Lascia che la luce ti guidi alla verita', giustizia e ai panini.\nSet Capitan Manzo"/>
@@ -2109,7 +2109,7 @@
 		<entry key="BuildingPartDesc_FT_Castle_Motif_Witch" translation="Motivo Strega di Ferro.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_ClockTower_Full" translation="Corre come il tempo.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Clock_01" translation="Come il tempo vola.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_Clock_02" translation="Un orologio fermo e' giusto due volte al giorno.\nTema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Clock_02" translation="Un orologio fermo è giusto due volte al giorno.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_CrownSign" translation="Un'insegna adatta ad un Re.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_DecorativeShield_Large" translation="Uno Scudo del Cavaliere.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_DecorativeShield_Small" translation="Uno Scudo dello Scudiero.\nTema Fantasy"/>
@@ -2142,7 +2142,7 @@
 		<entry key="BuildingPartDesc_FT_HangingBasket_01" translation="Contiene fiori stagionati.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_HangingBasket_02" translation="Un Cestino letteralmente appeso.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_LargeDecorativeSign" translation="Per fare un'entrata.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_ParchmentSign" translation="Il Bagliore magico e' gratis.\nTema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_ParchmentSign" translation="Il Bagliore magico è gratis.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Pennant_Blue_Large" translation="Dondolare nella Brezza.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Pennant_Blue_Small" translation="Dondolare nella Brezza.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Pennant_Double_Large" translation="Dondolare nella Brezza.\nTema Fantasy"/>
@@ -2455,7 +2455,7 @@
 		<entry key="BuildingPartDesc_SH_Awning_CCIcecream" translation="Una tenda per il tuo negozio.&#10;Set Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_SH_Awning_ChiefBeef" translation="Una tenda per il tuo negozio.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_SH_Awning_CosmicCow" translation="Una tenda per il tuo negozio.&#10;Set Mucca Cosmica"/>
-		<entry key="BuildingPartDesc_SH_Awning_FoxCoffee" translation="Una tenda per il tuo negozio.&#10;Set Caffe' strada della Volpe"/>
+		<entry key="BuildingPartDesc_SH_Awning_FoxCoffee" translation="Una tenda per il tuo negozio.&#10;Set Caffè strada della Volpe"/>
 		<entry key="BuildingPartDesc_SH_Awning_Frites" translation="Una tenda per il tuo negozio.&#10;Set Monsieur Frites"/>
 		<entry key="BuildingPartDesc_SH_Awning_GulpeeEnergy" translation="Una tenda per il tuo negozio.&#10;Set Gulpee"/>
 		<entry key="BuildingPartDesc_SH_Awning_GulpeeSlushie" translation="Una tenda per il tuo negozio.&#10;Set Gulpee"/>
@@ -4051,7 +4051,7 @@
 		<entry key="Research_Hint_Coaster_Bakasura" translation="Raddoppia l'eccitazione"/>
 		<entry key="Research_Hint_Coaster_SteelHydra" translation="In piena oscillazione"/>
 		<entry key="Research_Hint_Coaster_Trident" translation="Raddoppia il divertimento"/>
-		<entry key="Research_Hint_FR_ElixirM" translation="Gira GIra Gira!"/>
+		<entry key="Research_Hint_FR_ElixirM" translation="Gira Gira Gira!"/>
 		<entry key="Research_Hint_FR_GiantW" translation="Classico per Famiglie"/>
 		<entry key="Research_Hint_FR_PathosIII" translation="Avvita, Solleva, Rotea"/>
 		<entry key="Research_Hint_FR_Zozo" translation="Librarsi in alto"/>
@@ -4610,35 +4610,35 @@
 		<entry key="Blueprints_WoodenBlueprint02" translation="Tornado"/>
 		<entry key="Blueprints_WoodenBlueprint02Desc" translation="Un layout per il Wooden coaster"/>
 		<!--C3_Career-->
-		<entry key="FanfareCareerSetUnlocked_ELLY" translation="Miss Elly's looking for a hand on the ranch, except it's not cattle she's rounding up, it's customers!"/>
-		<entry key="FanfarePackCompletion_ELLY_1" translation="You collected all the Bronze stars for 'Miss Elly's Round Up'."/>
-		<entry key="FanfarePackCompletion_ELLY_2" translation="You collected all the Silver stars for 'Miss Elly's Round Up'."/>
-		<entry key="FanfarePackCompletion_ELLY_3" translation="You collected all the Gold stars for 'Miss Elly's Round Up'."/>
-		<entry key="FanfarePackCompletion_ELLY_All" translation="You have completed every objective in 'Miss Elly's Round Up'!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_DINE" translation="Miss Elly's Diner has some great facilities, including a big wooden coaster for a spot of excitement! But its remote location means it doesn’t see many visitors, and its potential isn’t being realised. Can you build on this location and draw in the crowds?"/>
-		<entry key="FrontEndMenu_ScenarioDetails_MARS" translation="They filmed some pretty famous movies out here in the desert. It kind of looks like Mars, don’t it. The place isn’t much in demand any more – it’s all CGI these days – but the company doesn’t want to let it go. They want you to turn it into a theme park instead!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_MINE" translation="Some poor fella bought this mine from a prospector, and took out some big loans to pay for it. Turns out it was a scam. The varmint had salted the mine! Now he’s trying to turn it into a tourist attraction with some fireworks he was given and Old West-style streets, but it’s not doing as well as he hoped and he needs your help."/>
-		<entry key="FrontEndMenu_ScenarioName_DINE" translation="Miss Elly's Diner"/>
-		<entry key="FrontEndMenu_ScenarioName_MARS" translation="Starship Hangar"/>
-		<entry key="FrontEndMenu_ScenarioName_MINE" translation="Goldmine Tower"/>
-		<entry key="FrontEndMenu_SetDescription_ELLY" translation="You gotta make a big splash to succeed here. Can you tame the wild frontier?"/>
-		<entry key="FrontEndMenu_SetName_ELLY" translation="Miss Elly's Round Up"/>
+		<entry key="FanfareCareerSetUnlocked_ELLY" translation="Miss Elly sta cercando un aiuto per il ranch, ma non è il bestiame che sta radunando, sono i visitatori!"/>
+		<entry key="FanfarePackCompletion_ELLY_1" translation="Hai collezionato tutte le stelle di Bronzo per 'Il raduno di Miss Elly'."/>
+		<entry key="FanfarePackCompletion_ELLY_2" translation="Hai collezionato tutte le stelle d'Argento per 'Il raduno di Miss Elly'."/>
+		<entry key="FanfarePackCompletion_ELLY_3" translation="Hai collezionato tutte le stelle d'Oro per 'Il raduno di Miss Elly'."/>
+		<entry key="FanfarePackCompletion_ELLY_All" translation="Hai completato ogni obiettivo per 'll raduno di Miss Elly'!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_DINE" translation="Il ristorante di Miss Elly ha delle strutture eccezionali, compreso un grande coaster di legno per un pò di eccitazione! Ma la posizione remota signica non avere molti visitatori e il suo potenziale non viene realizzato. Riesci a costruire in questo posto e attirarci le folle?"/>
+		<entry key="FrontEndMenu_ScenarioDetails_MARS" translation="Hanno girato alcuni film abbastanza famosi qua fuori nel deserto. Assomiglia a Marte, vero? Il posto non è più richiesto – è tutta computer grafica di questi tempi – ma la compagnia non vuole lasciarlo andare. Vogliono invece che tu lo trasformi in un parco a tema!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_MINE" translation="Un poveraccio ha comprato questa miniera da un cercatore e ha chiesto alcuni grandi prestiti per pagarla. E' venuto fuori che è una truffa. La canaglia aveva salato la miniera! Ora sta cercando di trasformarla in un'attrazione turistica con alcuni fuochi d'artificio e con strade stile Vecchio West, ma non sta andando così bene come sperava e ha bisogno del tuo aiuto."/>
+		<entry key="FrontEndMenu_ScenarioName_DINE" translation="Il ristorante di Miss Elly"/>
+		<entry key="FrontEndMenu_ScenarioName_MARS" translation="Hangar della Nave Spaziale"/>
+		<entry key="FrontEndMenu_ScenarioName_MINE" translation="Torre della Miniera d'Oro"/>
+		<entry key="FrontEndMenu_SetDescription_ELLY" translation="Devi fare un bel colpaccio per riuscire qui. Puoi domare la frontiera selvaggia?"/>
+		<entry key="FrontEndMenu_SetName_ELLY" translation="Il raduno di Miss Elly"/>
 		<!--C3_Coasters-->
 		<entry key="Coaster_Bolt" translation="Bolt"/>
-		<entry key="Coaster_Bolt_Desc" translation="Shuttle roller coaster, allowing the train to travel forwards to an end point before then travelling along the track in reverse back to the station."/>
+		<entry key="Coaster_Bolt_Desc" translation="Montagna russa Shuttle, che permette  al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
 		<entry key="Coaster_Degen" translation="Degen"/>
-		<entry key="Coaster_Degen_Desc" translation="Specially designed for inversions."/>
+		<entry key="Coaster_Degen_Desc" translation="Progettato specialmente per le inversioni."/>
 		<entry key="Coaster_Gnarler" translation="Gnarler"/>
-		<entry key="Coaster_Gnarler_Desc" translation="A traditional rollercoaster type that's primarily made of wood, which results in an exciting, rough and wild ride. This variant uses a more modern car compared to 'The Monster' Wooden Coaster."/>
+		<entry key="Coaster_Gnarler_Desc" translation="Una montagna russa tradizionale fatta principalmente in legno, il cui risultato è una eccitante, aspra e selvaggia attrazione. Questa variante utilizza una vettura più moderna del coaster in legno 'The Monster'."/>
 		<entry key="Coaster_PowerUp" translation="Power Up"/>
-		<entry key="Coaster_PowerUp_Desc" translation="A coaster where the train is chain-lifted vertically before then being inverted, which can also pass through the station multiple times."/>
+		<entry key="Coaster_PowerUp_Desc" translation="Una montagna russa dove il treno è trascinato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
 		<entry key="Coaster_Type_Bolt" translation="Boomerang"/>
 		<entry key="Coaster_Type_Degen" translation="Looping"/>
 		<entry key="Coaster_Type_Gnarler" translation="Wooden"/>
 		<entry key="Coaster_Type_PowerUp" translation="Star Loop"/>
 		<entry key="Coaster_Type_ViperOne" translation="Impulsion"/>
 		<entry key="Coaster_ViperOne" translation="Viper One"/>
-		<entry key="Coaster_ViperOne_Desc" translation="A launched, inverted coaster that passes back and forwards through the station multiple times, picking up speed as it does so."/>
+		<entry key="Coaster_ViperOne_Desc" translation="Una montagna russa invertita e lanciata che passa avanti e indietro attraverso la stazione più volte, prendendo velocità ad ogni passaggio."/>
 		<!--C3_Facilities-->
 		<entry key="ShopItem_Hat_JU_Liberty" translation="Statue of Liberty Hat"/>
 		<entry key="ShopItem_Hat_JU_UncleSam" translation="Uncle Sam Hat"/>
@@ -4880,7 +4880,7 @@
 		<!--Camera-->
 		<entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocita' Scorrimento al Bordo"/>
-		<entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Muove la visuale quando il mouse e' al bordo dello schermo."/>
+		<entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Muove la visuale quando il mouse è al bordo dello schermo."/>
 		<entry key="CameraOptionsMenu_FreelookToggle" translation="Visuale Libera"/>
 		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Muovi la visuale liberamente per il parco. Utile in zone strette o per fare screenshot.&#10;&#10;Puoi attivarla premendo [{#LogicalButton.GameCamera_FreelookMode#}] in gioco.&#10;&#10;[{#LogicalButton.GameCamera_RotateLeft#}] e [{#LogicalButton.GameCamera_RotateRight#}] muoveranno la camera in sù e in giù."/>
 		<entry key="CameraOptionsMenu_InvertY" translation="Inverti asse Y"/>
@@ -17690,7 +17690,7 @@
 		<entry key="Guest_Thought_Security_BeenPickpocketed_Common_02" translation="Qualcuno mi ha derubato!"/>
 		<entry key="Guest_Thought_Security_BeenPickpocketed_Common_03" translation="Sono stato borseggiato!"/>
 		<entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_01" translation="Non posso credere che qualcuno di noi sia stato borseggiato!"/>
-		<entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_02" translation="Uno di noi e' stato borseggiato! Ci sono dei ladri!"/>
+		<entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_02" translation="Uno di noi è stato borseggiato! Ci sono dei ladri!"/>
 		<entry key="Guest_Thought_Security_GroupMemberPickpocketed_Common_03" translation="Cosa?! Qualcuno ha derubato uno di noi?! Assurdo!"/>
 		<entry key="Guest_Thought_Security_GuardApprehension_Adult_01" translation="Siii! E' bello vedere la sicurezza prendere e aver a che fare coi criminali."/>
 		<entry key="Guest_Thought_Security_GuardApprehension_Adult_02" translation="Ottimo lavoro guardia, butta i criminali fuori di qui!"/>
@@ -17847,7 +17847,7 @@
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="It's pretty run down around here"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_02" translation="C'è un sacco di vandalismo qui"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_03" translation="Non possono sistemare le cose vandalizzate?"/>
-		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_01" translation="Perche' è tutto rotto?"/>
+		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_01" translation="Perchè è tutto rotto?"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_02" translation="Non sembra carino qui."/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Common_01" translation="Ci sono un sacco di cose danneggiate qui intorno"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Teen_01" translation="Sembra che qualcuno sia andato su tutte le furie!"/>
