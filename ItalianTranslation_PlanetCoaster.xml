@@ -3,8 +3,8 @@
 	<translation>
 		<!--AdvancedTriggerEditor-->
 		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
-		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questo Sequenziatore"/>
-		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico al Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questa Console"/>
+		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico alla Console"/>
 		<entry key="AdvancedTriggerEditor_CancelButton" translation="Annulla"/>
 		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Scollega tutti gli elementi da questo innesco"/>
 		<entry key="AdvancedTriggerEditor_CoasterAddGroup" translation="Aggiungi Innesco"/>
@@ -64,16 +64,16 @@
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipDisabled" translation="Non puoi collegare altri oggetti a questo Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipEnabled" translation="Collega oggetti innescabili al Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupLabelDefault" translation="Gruppo Scenico"/>
-		<entry key="AdvancedTriggerEditor_SequencerHeaderTitle" translation="Sequenziatore di Inneschi"/>
+		<entry key="AdvancedTriggerEditor_SequencerHeaderTitle" translation="Console Inneschi"/>
 		<entry key="AdvancedTriggerEditor_SequencerLenthValueLabel" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2} - {LoopType}"/>
-		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="I Gruppi Scenici si innescano solo dopo il tempo d'attesa specificato da quando si attiva il Sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="I Gruppi Scenici si innescano solo dopo il tempo d'attesa specificato da quando si attiva la Console"/>
 		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="La mia Sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Inizia Sequenza"/>
-		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Sequenziatore di Inneschi"/>
+		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Console Inneschi"/>
 		<entry key="AdvancedTriggerEditor_Sort" translation="Ordina Tutti"/>
 		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e gli oggetti"/>
 		<entry key="AdvancedTriggerEditor_SortTooltip" translation="L'interfaccia si ordinerà solo quando chiudi il pannello o premi il pulsante Ordina Tutti"/>
-		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti al sequenziatore"/>
+		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti alla Console"/>
 		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppi altoparlanti da collegare"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Altoparlanti Disponibili"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibili nel parco"/>
@@ -281,7 +281,7 @@
 		<entry key="Blueprints_FairyJesterStage" translation="Jester Stage"/>
 		<entry key="Blueprints_FairyJesterStageDesc" translation="Che performance!"/>
 		<entry key="Blueprints_FairyLargeEnt" translation="Entrata Fiabesca grande"/>
-		<entry key="Blueprints_FairyLargeEntDesc" translation="Una ancor più maestosa entrata per il tuo parco a tema mondo delle fiabe! – può anche portare all'entrate di un enorme palazzo se lo desideri."/>
+		<entry key="Blueprints_FairyLargeEntDesc" translation="Una ancor più maestosa entrata per il tuo parco a tema mondo delle fiabe! – può anche portare all'entrata di un enorme palazzo se lo desideri."/>
 		<entry key="Blueprints_FairyParkSet" translation="Stile Fantasy"/>
 		<entry key="Blueprints_FairyParkSetDesc" translation="Elementi da inserire in un particolare tema che aggiungeranno professionalità al design delle tue creazioni"/>
 		<entry key="Blueprints_FairyScenery" translation="Draghi, Cavalieri e Tende"/>
@@ -350,8 +350,8 @@
 		<entry key="Blueprints_MaliceUnchained01Desc" translation="Un layout per l'Hybrid - Steel Track coaster"/>
 		<entry key="Blueprints_MaliceUnchained02BlueprintDesc" translation="Un layout per l'Hybrid - Steel Track coaster"/>
 		<entry key="Blueprints_MaliceUnchainedBlueprint02" translation="Forerunner"/>
-		<entry key="Blueprints_MarketStalls" translation="Market Stalls"/>
-		<entry key="Blueprints_MarketStallsDesc" translation="A collection of market stalls"/>
+		<entry key="Blueprints_MarketStalls" translation="Bancarelle del Mercato"/>
+		<entry key="Blueprints_MarketStallsDesc" translation="Una collezione di Bancarelle del Mercato"/>
 		<entry key="Blueprints_MySavedBlueprints" translation="Progetti Salvati"/>
 		<entry key="Blueprints_MyWorkshopBlueprints" translation="I miei oggetti del WorkShop"/>
 		<entry key="Blueprints_NA_BushCollection_01" translation="Collezione di cespugli - Piccola"/>
@@ -512,8 +512,8 @@
 		<entry key="Blueprints_Rage01Desc" translation="Un layout per il Giga - Rage coaster"/>
 		<entry key="Blueprints_RageBlueprint01" translation="Frenzy"/>
 		<entry key="Blueprints_RageBlueprint01Desc" translation="Un layout per il Giga coaster"/>
-		<entry key="Blueprints_RedcoatSkirmish" translation="Redcoat Skirmish"/>
-		<entry key="Blueprints_RedcoatSkirmishDesc" translation="Redcoats with Cannon"/>
+		<entry key="Blueprints_RedcoatSkirmish" translation="Giubba rossa in Battaglia"/>
+		<entry key="Blueprints_RedcoatSkirmishDesc" translation="Giubbe rosse con cannone"/>
 		<entry key="Blueprints_Rival01" translation="Adversary"/>
 		<entry key="Blueprints_Rival01Desc" translation="Un layout per l'Inverted - 4 seater coaster"/>
 		<entry key="Blueprints_RivalBlueprint01" translation="Adversary"/>
@@ -535,9 +535,9 @@
 		<entry key="Blueprints_SampleBuilding" translation="Esempio di costruzione"/>
 		<entry key="Blueprints_SampleBuildingDesc" translation="Solo un esempio di costruzione"/>
 		<entry key="Blueprints_SciFiATM" translation="Bancomat Sci-Fi"/>
-		<entry key="Blueprints_SciFiATMDesc" translation="Su questo abbiamo usato bancomat per molto tempo, in futuro potremmo trasporare i nostri soldi all'interno delle retine (forse?)."/>
+		<entry key="Blueprints_SciFiATMDesc" translation="Su questo pianeta abbiamo usato bancomat per molto tempo, in futuro potremmo trasportare i nostri soldi all'interno delle retine (forse?)."/>
 		<entry key="Blueprints_SciFiCheefBeef" translation="Sci-Fi Capitan Manzo"/>
-		<entry key="Blueprints_SciFiCheefBeefDesc" translation="un semplice Capitan Manzo sci-fi"/>
+		<entry key="Blueprints_SciFiCheefBeefDesc" translation="Un semplice Capitan Manzo sci-fi"/>
 		<entry key="Blueprints_SciFiCollection" translation="Collezione di scenografie di Gustav’s"/>
 		<entry key="Blueprints_SciFiCollectionDesc" translation="Holst ha scritto la sinfonia ‘The Planets’.A quanto pare gli piacevano le montagne russe, così questa collezione è per lui."/>
 		<entry key="Blueprints_SciFiDrinks" translation="Chiosco di Bevande Sci-fi"/>
@@ -550,10 +550,10 @@
 		<entry key="Blueprints_SciFiFoodDesc" translation="Nessuna base spaziale è completa senza un chioschetto del cibo, anche gli astronauti hanno fame!"/>
 		<entry key="Blueprints_SciFiFountain" translation="Fontana Sci-fi"/>
 		<entry key="Blueprints_SciFiFountain2" translation="Fontana Enceladus"/>
-		<entry key="Blueprints_SciFiFountain2Desc" translation="Una fontana ispirata ai gayser della luna di saturno Enceladus."/>
+		<entry key="Blueprints_SciFiFountain2Desc" translation="Una fontana ispirata ai geyser della luna di saturno Enceladus."/>
 		<entry key="Blueprints_SciFiFountainDesc" translation="Le fontane nello spazio non funzionano benissimo a causa della gravità, questa fontana ne ha uno proprio...molto utile."/>
 		<entry key="Blueprints_SciFiGifts" translation="Negozio di souvenir Sci-fi"/>
-		<entry key="Blueprints_SciFiGiftsDesc" translation="Non viaggi fino a marte per tornare senza nulla. Qualsiasi astronauta vuole un ricordino da portare con se."/>
+		<entry key="Blueprints_SciFiGiftsDesc" translation="Non viaggi fino a Marte per tornare senza nulla. Qualsiasi astronauta vuole un ricordino da portare con se."/>
 		<entry key="Blueprints_SciFiInfo" translation="Cabina informativa Sci-fi"/>
 		<entry key="Blueprints_SciFiInfoDesc" translation="Diciamocelo chiaramente, l'universo è abbastanza grande e ci si potrebbe perdere. Magari con questa cabina spaziale i visitatori riusciranno a orientarsi?"/>
 		<entry key="Blueprints_SciFiLargeEnt" translation="Entrata Sci-fi grande"/>
@@ -610,7 +610,7 @@
 		<entry key="Blueprints_TitleCreateWorkshopItem" translation="Creando l'oggetto WorkShop"/>
 		<entry key="Blueprints_TitleUpdateWorkshopItem" translation="Aggiornando l'oggetto WorkShop"/>
 		<entry key="Blueprints_TorqueBlueprint01" translation="G-LOC"/>
-		<entry key="Blueprints_TorqueBlueprint01Desc" translation="Un layout per il  Torque coaster"/>
+		<entry key="Blueprints_TorqueBlueprint01Desc" translation="Un layout per il Torque coaster"/>
 		<entry key="Blueprints_TravellersCamp" translation="Accampamento viaggiatori"/>
 		<entry key="Blueprints_TravellersCampDesc" translation="Un accampamento per i viaggiatori e i festaioli"/>
 		<entry key="Blueprints_TreasurePile" translation="Pila di Tesori"/>
@@ -701,7 +701,7 @@
 		<entry key="Build_Widgets_Cancel" translation="Annulla (Esc)"/>
 		<entry key="Build_Widgets_Confirm" translation="Costruisci/Compra"/>
 		<entry key="Build_Widgets_Duplicate" translation="Duplica"/>
-		<entry key="Build_Widgets_Exit" translation="Esci Modalita' Avanzata"/>
+		<entry key="Build_Widgets_Exit" translation="Esci dalla Modalità Avanzata"/>
 		<entry key="Build_Widgets_Move" translation="Sposta"/>
 		<entry key="Build_Widgets_Object_Axis" translation="Usa Assi relativi"/>
 		<entry key="Build_Widgets_RequiresMove" translation="Questo oggetto dev'essere spostato prima di poter essere posizionato."/>
@@ -1394,15 +1394,15 @@
 		<entry key="BuildingPartDesc_WD_Wall_GableTri_E_4m" translation="Strisce di Legno&#10;Alto 4.0m&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_Wd_RoofTile_B_01_4m" translation="Piastrelle di Legno Piatto&#10;Alto 4.0m&#10;Tema Western"/>
 		<entry key="BuildingPartName_BK_CoasterWall_A" translation="Mattoni - Muro per Coaster da 2m"/>
-		<entry key="BuildingPartName_BK_CoasterWall_B" translation="Mattoni - Muro Ruvido per Coaster da 2m"/>
+		<entry key="BuildingPartName_BK_CoasterWall_B" translation="Mattoni - Muro Grezzo per Coaster da 2m"/>
 		<entry key="BuildingPartName_BK_Merge_ArchHalf_A" translation="Mattoni - Muro Moderno con Mezzo Arco Rettilineo"/>
 		<entry key="BuildingPartName_BK_Merge_ArchHalf_C" translation="Mattoni - Muro Classico con Mezzo Arco Rettilineo"/>
 		<entry key="BuildingPartName_BK_Merge_Arch_A" translation="Mattoni - Muro Moderno con Arco Rettilineo"/>
 		<entry key="BuildingPartName_BK_Merge_Arch_A_4m" translation="Mattoni - Muro con Arco da 4m"/>
 		<entry key="BuildingPartName_BK_Merge_Arch_A_Half_4m" translation="Mattoni - Muro con Mezzo Arco da 4m"/>
-		<entry key="BuildingPartName_BK_Merge_Arch_B_4m" translation="Mattoni - Muro Ruvido con Arco Sottile"/>
+		<entry key="BuildingPartName_BK_Merge_Arch_B_4m" translation="Mattoni - Muro Grezzo con Arco Sottile"/>
 		<entry key="BuildingPartName_BK_Merge_Arch_C" translation="Mattoni - Arco Classico Quadrato"/>
-		<entry key="BuildingPartName_BK_Merge_Arch_Half_B_4m" translation="Mattoni - Muro Ruvido con Mezzo Arco Sottile"/>
+		<entry key="BuildingPartName_BK_Merge_Arch_Half_B_4m" translation="Mattoni - Muro Grezzo con Mezzo Arco Sottile"/>
 		<entry key="BuildingPartName_BK_Merge_ShopFront_A" translation="Muro di Mattoni 4m Fronte Negozio"/>
 		<entry key="BuildingPartName_BK_Merge_ShopFront_B" translation="Muro di Mattoni Grezzi da 4m Fronte Negozio"/>
 		<entry key="BuildingPartName_BK_Merge_ShopFront_C" translation="Muro di Mattoni Classico 4m Fronte Negozio"/>
@@ -1428,9 +1428,9 @@
 		<entry key="BuildingPartName_BK_Merge_Wall_A_1m" translation="Mattoni - Muro da 1m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_A_2m" translation="Mattoni - Muro da 2m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_A_4m" translation="Mattoni - Muro da 4m"/>
-		<entry key="BuildingPartName_BK_Merge_Wall_B_1m" translation="Mattoni - Muro Ruvido da 1m"/>
-		<entry key="BuildingPartName_BK_Merge_Wall_B_2m" translation="Mattoni - Muro Ruvido da 2m"/>
-		<entry key="BuildingPartName_BK_Merge_Wall_B_4m" translation="Mattoni - Muro Ruvido da 4m"/>
+		<entry key="BuildingPartName_BK_Merge_Wall_B_1m" translation="Mattoni - Muro Grezzo da 1m"/>
+		<entry key="BuildingPartName_BK_Merge_Wall_B_2m" translation="Mattoni - Muro Grezzo da 2m"/>
+		<entry key="BuildingPartName_BK_Merge_Wall_B_4m" translation="Mattoni - Muro Grezzo da 4m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_C_1m" translation="Mattoni - Muro Classico da 1m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_C_2m" translation="Mattoni - Muro Classico da 1m"/>
 		<entry key="BuildingPartName_BK_Merge_Wall_C_4m" translation="Mattoni - Muro Classico da 1m"/>
@@ -1583,10 +1583,10 @@
 		<entry key="BuildingPartName_PC_Pipes_Curve" translation="Tubo per Modellazione Tetto - Curva Alta"/>
 		<entry key="BuildingPartName_PC_Pipes_CurveInv" translation="Tubo per Modellazione Tetto - Curva Bassa"/>
 		<entry key="BuildingPartName_PC_Pipes_Slope" translation="Tubo per Modellazione Tetto - Inclinato"/>
-		<entry key="BuildingPartName_PC_Radius4_2m_B_90" translation="Muro di Cemento Ruvido Curvato 2m"/>
+		<entry key="BuildingPartName_PC_Radius4_2m_B_90" translation="Muro di Cemento Grezzo Curvato 2m"/>
 		<entry key="BuildingPartName_PC_Radius4_2m_D_90" translation="Muro di Legno Moderno Curvato 2m"/>
 		<entry key="BuildingPartName_PC_Radius4_2m_E_90" translation="Muro di Cemento Liscio Curvato 2m"/>
-		<entry key="BuildingPartName_PC_Radius4_4m_B_90" translation="Muro di Cemento Ruvido Curvato 4m"/>
+		<entry key="BuildingPartName_PC_Radius4_4m_B_90" translation="Muro di Cemento Grezzo Curvato 4m"/>
 		<entry key="BuildingPartName_PC_Radius4_4m_D_90" translation="Muro di Legno Moderno Curvato 4m"/>
 		<entry key="BuildingPartName_PC_Radius4_4m_E_90" translation="Muro di Cemento Liscio Curvato 4m"/>
 		<entry key="BuildingPartName_PC_Radius4_A_2m_90" translation="Muro di Pannelli Curvato 2m"/>
@@ -1599,7 +1599,7 @@
 		<entry key="BuildingPartName_PC_Roof_Flat_D" translation="Tetto in Legno Piatto"/>
 		<entry key="BuildingPartName_PC_Roof_Flat_E" translation="Tetto in Cemento Liscio Piatto"/>
 		<entry key="BuildingPartName_PC_Roof_Flat_QtrCirc_A_4m" translation="Tetto in Pannelli Piatto - Quarto di Cerchio"/>
-		<entry key="BuildingPartName_PC_Roof_Flat_QtrCirc_B_4m" translation="Tetto in Cemento Ruvido Piatto - Quarto di Cerchio"/>
+		<entry key="BuildingPartName_PC_Roof_Flat_QtrCirc_B_4m" translation="Tetto in Cemento Grezzo Piatto - Quarto di Cerchio"/>
 		<entry key="BuildingPartName_PC_Roof_Flat_QtrCirc_D_4m" translation="Tetto in Legno Moderno Piatto - Quarto di Cerchio"/>
 		<entry key="BuildingPartName_PC_Roof_Flat_QtrCirc_E_4m" translation="Tetto in Cemento Liscio Piatto - Quarto di Cerchio"/>
 		<entry key="BuildingPartName_PC_Roof_Slope" translation="Tetto in Acciaio Inclinato"/>
@@ -2068,14 +2068,14 @@
 		<entry key="BuildingPartDesc_FAD_BurgerBasic_BurgerSign" translation="Insegna Neon Burger Semplice.\nSet Cibo Classico"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefBadge" translation="Il distintivo del Capitano.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefCrest" translation="E' un segno!\nSet Capitan Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefCutoutSign" translation="Lui è per la Liberta' e il manzo!\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefCutoutSign" translation="Lui è per la Libertà e il manzo!\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalGlowSign" translation="Una splendente Pancetta di legge e ordine.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefHorizontalSign" translation="Non troppo grosso, e non troppo piccolo.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeSign" translation="Aumentiamo il ManzoSegnale!\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefLargeVerticalSign" translation="La giustizia è onnipresente.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefNeonSign" translation="Per quando hai veramente bisogno di essere visto.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefPatrolLight" translation="Luce patriottica.\nSet Capitan Manzo"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefVerticalSign" translation="Lascia che la luce ti guidi alla verita', giustizia e ai panini.\nSet Capitan Manzo"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefVerticalSign" translation="Lascia che la luce ti guidi alla verità, giustizia e ai panini.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefWoodenSign" translation="Per un look grigliato, fiammante e rustico.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBanner" translation="Frullati che sono oltre questo mondo.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBannerGlowSign" translation="Latticini molto buoni, sanno di alieno.\nSet Mucca Cosmica"/>
@@ -2084,7 +2084,7 @@
 		<entry key="BuildingPartDesc_FAD_CosmicCowHeadStand" translation="Questo frullato viene dalla Luuuna!\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowLargeHead" translation="I migliori frullati del Luniverso .\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowNeonSign" translation="Per quei frullati di mezzanotte.\nSet Mucca Cosmica"/>
-		<entry key="BuildingPartDesc_FAD_CosmicCowSwingSign" translation="La piu' piccola insegna di tutto l'Universo.\nSet Mucca Cosmica"/>
+		<entry key="BuildingPartDesc_FAD_CosmicCowSwingSign" translation="La più piccola insegna di tutto l'Universo.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowUfoGlowSign" translation="Caricato con Potenza cosmica.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowUfoStand" translation="Un'impressionante insegna.\nSet Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowVerticalGlowSign" translation="Dai migliori manzi del sistema solare.\nSet Mucca Cosmica"/>
@@ -2198,7 +2198,7 @@
 		<entry key="BuildingPartDesc_MT_RoofVeranda_B_4m" translation="Pannello ondulato per Veranda Tetto."/>
 		<entry key="BuildingPartDesc_MT_RoofVeranda_B_LMitre" translation="Pannello ondulato per Veranda Tetto - Angolo sinistro."/>
 		<entry key="BuildingPartDesc_MT_RoofVeranda_B_RMitre" translation="Pannello ondulato per Veranda Tetto - Angolo destro."/>
-		<entry key="BuildingPartDesc_PC_AircoUnit_01" translation="Un'unita' Condizionatore esterna.\nTema Moderno"/>
+		<entry key="BuildingPartDesc_PC_AircoUnit_01" translation="Un'unità Condizionatore esterna.\nTema Moderno"/>
 		<entry key="BuildingPartDesc_PC_Door" translation="Una porta in metallo blu in un telaio bianco."/>
 		<entry key="BuildingPartDesc_PC_Event_Light_1" translation="Faretto forte Luce bianca.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Event_Light_2" translation="Faretto forte Luce blu.\nTema Planet Coaster"/>
@@ -2387,7 +2387,7 @@
 		<entry key="BuildingPartDesc_RR_RoofGable_A_R" translation="Granito\nAlto 2.5m\nTema Stucco"/>
 		<entry key="BuildingPartDesc_RR_RoofGable_Flat_A" translation="Granito\nAlto 0.5m\nTema Stucco"/>
 		<entry key="BuildingPartDesc_RR_ShopFascia_A_01" translation="Facciata negozio ornata."/>
-		<entry key="BuildingPartDesc_RR_ShopFascia_A_02" translation="Facciata negozio ornata piu' impressionante."/>
+		<entry key="BuildingPartDesc_RR_ShopFascia_A_02" translation="Facciata negozio ornata più impressionante."/>
 		<entry key="BuildingPartDesc_RR_WallBay_A" translation="Basamento di un espositore a parete - Aggiungere finestre!"/>
 		<entry key="BuildingPartDesc_RR_Window_A_01" translation="Finestra alta con persiane aperte."/>
 		<entry key="BuildingPartDesc_RR_Window_A_02" translation="Finestra piccola con persiane aperte."/>
@@ -2420,11 +2420,11 @@
 		<entry key="BuildingPartDesc_SF_Computer_01" translation="Uno sguardo nell'era atomica.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_ConsoleWithVents_01" translation="Bleep boop.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Elevator_01" translation="Per astronavi grosse come grattacieli.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_Gribble_01" translation="Dettagli pregiati per superfici piu' interessanti.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_Gribble_02" translation="Dettagli pregiati per superfici piu' interessanti.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_Gribble_03" translation="Dettagli pregiati per superfici piu' interessanti.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_Gribble_04" translation="Dettagli pregiati per superfici piu' interessanti.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_Gribble_05" translation="Dettagli pregiati per superfici piu' interessanti.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Gribble_01" translation="Dettagli pregiati per superfici più interessanti.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Gribble_02" translation="Dettagli pregiati per superfici più interessanti.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Gribble_03" translation="Dettagli pregiati per superfici più interessanti.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Gribble_04" translation="Dettagli pregiati per superfici più interessanti.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_Gribble_05" translation="Dettagli pregiati per superfici più interessanti.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_LightCylinder_01" translation="Illuminazione.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Light_01" translation="Illuminazione.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Light_02" translation="Illuminazione.&#10;Tema Sci-Fi"/>
@@ -2596,7 +2596,7 @@
 		<entry key="BuildingPartName_FAD_BurgerBasic_BurgerSign" translation="Insegna Burger Base"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefBadge" translation="Emblema Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefCrest" translation="Insegna piccolo logo Capitan Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefCutoutSign" translation="Insegna Capitan Manzo - Insegna da Muro 6 Saluto"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefCutoutSign" translation="Insegna Capitan Manzo - Insegna da parete 6 Saluto"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalGlowSign" translation="Insegna sospesa ampia larga Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalSign" translation="Insegna sospesa ampia media Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefLargeSign" translation="Capitan Manzo Emblema Grande Illuminato"/>
@@ -2726,7 +2726,7 @@
 		<entry key="BuildingPartName_MT_RoofVeranda_B_4m" translation="Tetto con Veranda in ferro ondulato"/>
 		<entry key="BuildingPartName_MT_RoofVeranda_B_LMitre" translation="Tetto con Veranda in ferro ondulato - angolo sinistro"/>
 		<entry key="BuildingPartName_MT_RoofVeranda_B_RMitre" translation="Tetto con Veranda in ferro ondulato - angolo destro"/>
-		<entry key="BuildingPartName_PC_AircoUnit_01" translation="Unita' aria condizionata"/>
+		<entry key="BuildingPartName_PC_AircoUnit_01" translation="Unità aria condizionata"/>
 		<entry key="BuildingPartName_PC_Door" translation="Porta blu Planet Coaster"/>
 		<entry key="BuildingPartName_PC_Event_Light_1" translation="Luce - Luce Evento Bianca"/>
 		<entry key="BuildingPartName_PC_Event_Light_2" translation="Luce - Luce Evento Blu"/>
@@ -2869,7 +2869,7 @@
 		<entry key="BuildingPartName_PR_Skull" translation="Teschio grande"/>
 		<entry key="BuildingPartName_PR_SkullAndCross" translation="Teschio e ossa incrociate"/>
 		<entry key="BuildingPartName_PR_Skull_Small" translation="Teschio piccolo"/>
-		<entry key="BuildingPartName_PR_ToiletSignsWoodenSign" translation="Insegna Toilet Legno"/>
+		<entry key="BuildingPartName_PR_ToiletSignsWoodenSign" translation="Insegna Toilette in Legno"/>
 		<entry key="BuildingPartName_PR_WallCannon" translation="Cannone a muro"/>
 		<entry key="BuildingPartName_PR_WallHangingSkeleton" translation="Scheletro appeso"/>
 		<entry key="BuildingPartName_RR_Awning_A" translation="Tenda in pietra"/>
@@ -2964,7 +2964,7 @@
 		<entry key="BuildingPartName_SF_ShopFascia_A_01" translation="Cruscotto negozio vetroresina 1"/>
 		<entry key="BuildingPartName_SF_ShopFascia_A_02" translation="Cruscotto negozio vetroresina 2"/>
 		<entry key="BuildingPartName_SF_Sphere_Corner_01" translation="Schermatura reattore Angolo 4m"/>
-		<entry key="BuildingPartName_SF_Vents_01" translation="Unita' ventilazione Vetroresina"/>
+		<entry key="BuildingPartName_SF_Vents_01" translation="Unità ventilazione Vetroresina"/>
 		<entry key="BuildingPartName_SF_WallAddon_Corner_01" translation="Angolo rinforzato Vetroresina"/>
 		<entry key="BuildingPartName_SF_WallAddon_Main_01" translation="Portello rinforzato Vetroresina"/>
 		<entry key="BuildingPartName_SF_WallAddon_Rounded_01" translation="Schermatura reattore Bordo 4m"/>
@@ -3007,7 +3007,7 @@
 		<entry key="BuildingPartName_ST_Door_A_06" translation="Porta arenaria rossa ad arco"/>
 		<entry key="BuildingPartName_ST_Door_A_07" translation="Porta larga in legno"/>
 		<entry key="BuildingPartName_ST_Door_A_08" translation="Porta in pietra 08"/>
-		<entry key="BuildingPartName_ST_Gaol_A" translation="Finestra arenaria barrata meta' circolare"/>
+		<entry key="BuildingPartName_ST_Gaol_A" translation="Finestra arenaria barrata metà circolare"/>
 		<entry key="BuildingPartName_ST_Quoin02_B_2m" translation="Concio d'angolo pesante in pietra 2m Opposto"/>
 		<entry key="BuildingPartName_ST_Quoin02_B_4m" translation="Concio d'angolo pesante in pietra 4m Opposto"/>
 		<entry key="BuildingPartName_ST_Quoin_B_2m" translation="Concio d'angolo pesante in pietra 2m"/>
@@ -3111,9 +3111,9 @@
 		<entry key="BuildingPartName_WS_Sign_B_01" translation="Insegna Western - Sporgente 1"/>
 		<entry key="BuildingPartName_WS_Sign_B_02" translation="Insegna Western - Sporgente 2"/>
 		<entry key="BuildingPartName_WS_Sign_B_03" translation="Insegna Western - Sporgente 3"/>
-		<entry key="BuildingPartName_WS_Sign_B_04" translation="Insegna Western - A muro 01"/>
-		<entry key="BuildingPartName_WS_Sign_B_05" translation="Insegna Western - A muro 02"/>
-		<entry key="BuildingPartName_WS_Sign_B_06" translation="Insegna Western - A muro 03"/>
+		<entry key="BuildingPartName_WS_Sign_B_04" translation="Insegna Western - Da parete 01"/>
+		<entry key="BuildingPartName_WS_Sign_B_05" translation="Insegna Western - Da parete 02"/>
+		<entry key="BuildingPartName_WS_Sign_B_06" translation="Insegna Western - Da parete 03"/>
 		<entry key="BuildingPartName_WS_Sign_B_07" translation="Insegna 07"/>
 		<entry key="BuildingPartName_WS_Sign_B_WantedPoster" translation="Poster da Ricercato"/>
 		<!--C1_Blueprints-->
@@ -3393,7 +3393,7 @@
 		<entry key="FanfarePackCompletion_CNGL_2" translation="Hai guadagnato tutte le Stelle d'Argento dei nostri Scenari Festivi."/>
 		<entry key="FanfarePackCompletion_CNGL_3" translation="Hai guadagnato tutte le Stelle d'Oro dei nostri Scenari Festivi."/>
 		<entry key="FanfarePackCompletion_CNGL_All" translation="Congratulazioni! Hai completato tutti i nostri Scenari Festivi!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_CVRN" translation="Un'esotica grotta è stata scoperta, e riservati permessi di pianificazione ti concedono l'opportunità di creare un parco unico in questo particolare habitat! Costruire in superficie è severamente vietato, il numero di visitatori estretamente limitato, per cui è necessario conquistare le profondità per garantire il successo di questa impresa."/>
+		<entry key="FrontEndMenu_ScenarioDetails_CVRN" translation="Un'esotica grotta è stata scoperta e riservati permessi di pianificazione ti concedono l'opportunità di creare un parco unico in questo particolare habitat! Costruire in superficie è severamente vietato, il numero di visitatori estremamente limitato, per cui è necessario conquistare le profondità per garantire il successo di questa impresa."/>
 		<entry key="FrontEndMenu_ScenarioDetails_NOMO" translation="Dovrai essere in forma smagliante per affrontare questa situazione! Gli ex proprietari hanno abbandonato questo parco, lasciandolo in condizioni disastrose; bilancio in negativo, un grosso prestito da restituire, layout ridicolo e alcune attrazioni gravemente inefficienti. Invertire le sue sorti sarà un vero e proprio miracolo."/>
 		<entry key="FrontEndMenu_ScenarioDetails_WNTR" translation="E' tempo di scartare i nostri piani per un parco a tema festivo in questa gioiosa location. Ricorda solo che il denaro a disposizione fa parte di un prestito, non è un regalo! Addobba il tuo paradiso invernale con uno scenario adeguato e attira le allegre folle da ogni dove."/>
 		<entry key="FrontEndMenu_ScenarioName_CVRN" translation="Coaster Cavernosi"/>
@@ -3407,60 +3407,60 @@
 		<entry key="Powered_SleighRide_Desc" translation="Vagoni Alimentati Elettricamente, viaggiano lungo un percorso a velocità predefinita."/>
 		<!--C1_FlatRides-->
 		<entry key="FR_BDerby" translation="Bumpin Derby"/>
-		<entry key="FR_BDerby_Desc" translation="Bash your way to victory on this classic fairground ride!&#10;Attrazione Tranquilla"/>
+		<entry key="FR_BDerby_Desc" translation="Fatti strada verso la vittoria su questa classica attrazione da fiera!&#10;Attrazione Tranquilla"/>
 		<entry key="FR_BDerby_Prefix" translation="Bumpin Derby"/>
 		<entry key="FR_Collider" translation="Collider"/>
-		<entry key="FR_Collider_Desc" translation="Defy gravity on this magnificent inverting gondola ride.&#10;Attrazione Tranquilla"/>
+		<entry key="FR_Collider_Desc" translation="Sfida la gravità su questa magnifica attrazione capovolgente a gondola.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Collider_Prefix" translation="Collider"/>
 		<entry key="FR_Sizzer" translation="Scizzer"/>
-		<entry key="FR_Sizzer_Desc" translation="Twist and spin at super fast speeds on this fairgound favourite!&#10;Thrill Ride"/>
+		<entry key="FR_Sizzer_Desc" translation="Gira e ruota a velocità super veloci su questa attrazione preferita delle fiere!&#10;Attrazione Eccitante"/>
 		<entry key="FR_Sizzer_Prefix" translation="Scizzer"/>
 		<entry key="FR_TriStorm" translation="Tri-Storm"/>
-		<entry key="FR_TriStorm_Desc" translation="The classic high flying spinning amusement ride.&#10;Thrill Ride"/>
+		<entry key="FR_TriStorm_Desc" translation="La classica divertente attrazione volante e rotante.&#10;Attrazione Eccitante"/>
 		<entry key="FR_TriStorm_Prefix" translation="Tri-Storm"/>
-		<entry key="Sequence_FR_BDerby_MainSequence" translation="Bump Around"/>
-		<entry key="Sequence_FR_Collider_Loop_Ground" translation="Senso Orario Loop Ground"/>
-		<entry key="Sequence_FR_Collider_Loop_High" translation="Senso Orario Loop High"/>
-		<entry key="Sequence_FR_Sizzer_Loop_Fast" translation="Spin Fast"/>
-		<entry key="Sequence_FR_Sizzer_Loop_Normal" translation="Spin"/>
-		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Fast" translation="Reverse Spin Fast"/>
-		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Normal" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_TriStorm_ForwardSpin" translation="Forward Spin"/>
-		<entry key="Sequence_FR_TriStorm_ForwardSpinLow" translation="Forward Spin Low"/>
-		<entry key="Sequence_FR_TriStorm_ReverseSpin" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_TriStorm_ReverseSpinLow" translation="Reverse Spin Low"/>
+		<entry key="Sequence_FR_BDerby_MainSequence" translation="Sbatti in giro"/>
+		<entry key="Sequence_FR_Collider_Loop_Ground" translation="Loop in Senso Orario a terra "/>
+		<entry key="Sequence_FR_Collider_Loop_High" translation="Loop in Senso Orario in alto"/>
+		<entry key="Sequence_FR_Sizzer_Loop_Fast" translation="Gira Veloce"/>
+		<entry key="Sequence_FR_Sizzer_Loop_Normal" translation="Gira"/>
+		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Fast" translation="Gira Veloce al contrario"/>
+		<entry key="Sequence_FR_Sizzer_Reverse_Loop_Normal" translation="Gira al contrario"/>
+		<entry key="Sequence_FR_TriStorm_ForwardSpin" translation="Gira in avanti"/>
+		<entry key="Sequence_FR_TriStorm_ForwardSpinLow" translation="Gira in avanti Basso"/>
+		<entry key="Sequence_FR_TriStorm_ReverseSpin" translation="Gira al contrario"/>
+		<entry key="Sequence_FR_TriStorm_ReverseSpinLow" translation="Gira al contrario Basso"/>
 		<!--C1_FrontEndMenu-->
 		<entry key="FrontEndMenu_Arctic" translation="Artico"/>
 		<entry key="FrontEndMenu_ArcticDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in un paesaggio invernale!"/>
 		<entry key="FrontEndMenu_ArcticSimulation" translation="Artico"/>
 		<entry key="FrontEndMenu_ArcticSimulationDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in un paesaggio invernale!"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic1" translation="Arctic 1"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic2" translation="Arctic 2"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic3" translation="Arctic 3"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic4" translation="Arctic 4"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic5" translation="Arctic 5"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic6" translation="Arctic 6"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic7" translation="Arctic 7"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic8" translation="Arctic 8"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic1" translation="Artico 1"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic2" translation="Artico 2"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic3" translation="Artico 3"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic4" translation="Artico 4"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic5" translation="Artico 5"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic6" translation="Artico 6"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic7" translation="Artico 7"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic8" translation="Artico 8"/>
 		<!--C1_Research-->
-		<entry key="Research_Hint_FR_BDerby" translation="Bump around"/>
-		<entry key="Research_Hint_FR_Collider" translation="Smashing the atom"/>
-		<entry key="Research_Hint_FR_Scizzer" translation="Twist and spin"/>
-		<entry key="Research_Hint_FR_TriStorm" translation="Three-armed classic"/>
-		<entry key="Research_Hint_Region_Arctic" translation="Arctic Flora"/>
-		<entry key="Research_Hint_Region_Festive" translation="Tema Festivo Scenery"/>
+		<entry key="Research_Hint_FR_BDerby" translation="Sbatti in giro"/>
+		<entry key="Research_Hint_FR_Collider" translation="Spacca l'Atomo"/>
+		<entry key="Research_Hint_FR_Scizzer" translation="Gira e ruota"/>
+		<entry key="Research_Hint_FR_TriStorm" translation="Classico con tre braccia"/>
+		<entry key="Research_Hint_Region_Arctic" translation="Flora Artica"/>
+		<entry key="Research_Hint_Region_Festive" translation="Scenario a Tema Festivo "/>
 		<entry key="Research_Hint_ShopsAndFacilities_Dough" translation="Missy Good"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Smoothie" translation="Pipshot"/>
-		<entry key="Research_Hint_SleighRide" translation="Festive expedition"/>
+		<entry key="Research_Hint_SleighRide" translation="Spedizione festiva"/>
 		<entry key="Research_Revealed_FR_BDerby" translation="Bumpin Derby"/>
 		<entry key="Research_Revealed_FR_Collider" translation="Collider"/>
 		<entry key="Research_Revealed_FR_Scizzer" translation="Scizzer"/>
 		<entry key="Research_Revealed_FR_TriStorm" translation="Tri-Storm"/>
 		<entry key="Research_Revealed_Region_Arctic" translation="Arctic Region"/>
-		<entry key="Research_Revealed_Region_Festive" translation="Festive Scenery"/>
+		<entry key="Research_Revealed_Region_Festive" translation="Scenario a Tema Festivo"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Dough" translation="Missy Good"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Smoothie" translation="Pipshot"/>
-		<entry key="Research_Revealed_SleighRide" translation="Sleigh Ride"/>
+		<entry key="Research_Revealed_SleighRide" translation="Corsa in slitta"/>
 		<!--C1_Scenery-->
 		<entry key="BuildingPartDesc_FAD_CosmicCow_Icecream_Banner" translation="Venduto bello fresco per la gioia del tuo palato.&#10;Set Mucca Cosmica"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCow_Icecream_BannerGlowSign" translation="Venduto bello fresco per la gioia del tuo palato.&#10;Set Mucca Cosmica"/>
@@ -3853,16 +3853,16 @@
 		<entry key="BuildingPartName_HOL_VienneseFinger" translation="Dolciumi - Biscotto Viennese al Cioccolato"/>
 		<entry key="BuildingPartName_HOL_Wreath_RingLarge" translation="Ghirlanda di Natale - Anello Grande"/>
 		<entry key="BuildingPartName_HOL_Wreath_RingSmall" translation="Ghirlanda di Natale - Anello Piccolo"/>
-		<entry key="BuildingPartName_HOL_Wreath_StarLarge" translation="Holly Wreath - Star Large"/>
-		<entry key="BuildingPartName_HOL_Wreath_StarSmall" translation="Holly Wreath - Star Small"/>
-		<entry key="BuildingPartName_HOL_Wreath_StraightEndL" translation="Holly Wreath - Straight End Left"/>
-		<entry key="BuildingPartName_HOL_Wreath_StraightEndR" translation="Holly Wreath - Straight End Right"/>
+		<entry key="BuildingPartName_HOL_Wreath_StarLarge" translation="Ghirlanda di Natale - Stella Grande"/>
+		<entry key="BuildingPartName_HOL_Wreath_StarSmall" translation="Ghirlanda di Natale - Stella Piccola"/>
+		<entry key="BuildingPartName_HOL_Wreath_StraightEndL" translation="Ghirlanda di Natale - Estremità Sinistra"/>
+		<entry key="BuildingPartName_HOL_Wreath_StraightEndR" translation="Ghirlanda di Natale - Estremità Destra"/>
 		<entry key="BuildingPartName_HOL_Wreath_SwagLargeL" translation="Ghirlanda di Natale - Festone Grande con Curva a Sinistra"/>
 		<entry key="BuildingPartName_HOL_Wreath_SwagLargeR" translation="Ghirlanda di Natale - Festone Grande con Curva a Destra"/>
 		<entry key="BuildingPartName_HOL_Wreath_SwagSmallL" translation="Ghirlanda di Natale - Festone Piccolo con Curva a Sinistra"/>
 		<entry key="BuildingPartName_HOL_Wreath_SwagSmallR" translation="Ghirlanda di Natale - Festone Piccolo con Curva a Destra"/>
-		<entry key="BuildingPartName_Light_Decoration_04" translation="Festive Sign - Wall Sign Star 1 Accesa"/>
-		<entry key="BuildingPartName_Light_Decoration_08" translation="Festive Sign - Wall Sign Scroll Accesa"/>
+		<entry key="BuildingPartName_Light_Decoration_04" translation="Insegna Festiva - Insegna da parete Stella 1 Accesa"/>
+		<entry key="BuildingPartName_Light_Decoration_08" translation="Insegna Festiva - Insegna da parete Pergamena Accesa"/>
 		<entry key="BuildingPartName_PC_FXBox_Glitter" translation="Effetti Speciali - Glitter"/>
 		<entry key="BuildingPartName_PC_FXBox_Snow_Blowing_Fall" translation="Effetti Speciali - Caduta Detriti di Neve"/>
 		<entry key="BuildingPartName_PC_FXBox_Snow_Blowing_Large" translation="Effetti Speciali - Polvere di Neve Grande"/>
@@ -3871,11 +3871,11 @@
 		<entry key="BuildingPartName_PC_FXBox_Snow_Flurry" translation="Effetti Speciali - Raffica di Neve"/>
 		<entry key="BuildingPartName_PC_FXBox_Snow_SnowFalling" translation="Effetti Speciali - Nevicata"/>
 		<entry key="BuildingPartName_PC_LifeRing" translation="Salvagente"/>
-		<entry key="BuildingPartName_SF_SpaceWall_01" translation="Starfield Panel 1"/>
-		<entry key="BuildingPartName_SF_SpaceWall_02" translation="Starfield Panel 2"/>
-		<entry key="BuildingPartName_WS_CoasterDoor_01" translation="Coaster Doors - Stables"/>
-		<entry key="BuildingPartName_WS_Sign_Metal_01" translation="Western Sign Metal - Wall Sign 1"/>
-		<entry key="BuildingPartName_WS_Sign_Metal_02" translation="Western Sign Metal - Wall Sign 2"/>
+		<entry key="BuildingPartName_SF_SpaceWall_01" translation="Pannello Navicella 1"/>
+		<entry key="BuildingPartName_SF_SpaceWall_02" translation="Pannello Navicella 2"/>
+		<entry key="BuildingPartName_WS_CoasterDoor_01" translation="Porte Coaster - Scuderie"/>
+		<entry key="BuildingPartName_WS_Sign_Metal_01" translation="Insegna Western in metallo - Insegna da parete1"/>
+		<entry key="BuildingPartName_WS_Sign_Metal_02" translation="Insegna Western in metallo - Insegna da parete 2"/>
 		<!--C1_Scenery_Nature-->
 		<entry key="BuildingPartDesc_AR_Arctic_01" translation="Una roccia ghiacciata ornamentale.&#10;Alpino"/>
 		<entry key="BuildingPartDesc_AR_Arctic_02a" translation="Una roccia ghiacciata ornamentale.&#10;Alpino"/>
@@ -3942,26 +3942,26 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
 		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="Una bandiera con un passato di luci ed ombre."/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;2m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;4m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;0.5m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;0.5m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;1.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;2.0m High&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;4.0m High&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;Alto 2m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;Alto 4m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
 		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Contorno Stazione 2"/>
 		<entry key="BuildingPartName_PC_Flags_Single_Small" translation="Bandiera Gara"/>
@@ -4182,7 +4182,7 @@
 		<entry key="BuildingPartDesc_PC_Flags_Stand" translation="Appendi fuori i colori!"/>
 		<entry key="BuildingPartDesc_PC_OilDrum" translation="Carburante non incluso."/>
 		<entry key="BuildingPartDesc_PC_PosterStand_07" translation="Un poster a colonna.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_PosterWall_07" translation="Un poster a muro.&#10;Tema Moderno"/>
+		<entry key="BuildingPartDesc_PC_PosterWall_07" translation="Un poster da parete.&#10;Tema Moderno"/>
 		<entry key="BuildingPartDesc_PC_RaceBarrier" translation="Per go-karts vaganti."/>
 		<entry key="BuildingPartDesc_PC_RaceBridge_01" translation="Guarda entrambi i lati prima di attraversare"/>
 		<entry key="BuildingPartDesc_PC_RoadSigns_ChevronLong" translation="Segnale stradale largo.&#10;Set Segnali Stradali"/>
@@ -4337,7 +4337,7 @@
 		<entry key="BuildingPartName_PC_Core_Lamp_02" translation="Lampione Corto"/>
 		<entry key="BuildingPartName_PC_Core_Lamp_Post_02" translation="Lampione 2"/>
 		<entry key="BuildingPartName_PC_Core_security" translation="Telecamera di Sicurezza - Raggio 15m"/>
-		<entry key="BuildingPartName_PC_Core_security_02" translation="Telecamera di Sicurezza a Muro - Raggio 15m"/>
+		<entry key="BuildingPartName_PC_Core_security_02" translation="Telecamera di Sicurezza da parete - Raggio 15m"/>
 		<entry key="BuildingPartName_PC_Fence_HalfCircle_2m" translation="Recinto Mezzo Cerchio 2m"/>
 		<entry key="BuildingPartName_PC_Fence_Logo_A_2m" translation="Recinto Logo Planet Coaster"/>
 		<entry key="BuildingPartName_PC_Fence_Metal_1m" translation="Recinto di metallo 1m"/>
@@ -4354,7 +4354,7 @@
 		<entry key="BuildingPartName_PC_Flags_Stand" translation="Fila di Bandiere"/>
 		<entry key="BuildingPartName_PC_OilDrum" translation="Barile"/>
 		<entry key="BuildingPartName_PC_PosterStand_07" translation="Poster con Supporto 7 - Sicurezza"/>
-		<entry key="BuildingPartName_PC_PosterWall_07" translation="Poster a Muro 7 - Sicurezza"/>
+		<entry key="BuildingPartName_PC_PosterWall_07" translation="Poster da parete 7 - Sicurezza"/>
 		<entry key="BuildingPartName_PC_RaceBarrier" translation="Barriere per la Corsa"/>
 		<entry key="BuildingPartName_PC_RaceBridge_01" translation="Ponte per la Corsa"/>
 		<entry key="BuildingPartName_PC_RoadSigns_ChevronLong" translation="Segnale stradale Chevron - Lungo"/>
@@ -4615,17 +4615,17 @@
 		<entry key="FanfarePackCompletion_ELLY_2" translation="Hai collezionato tutte le stelle d'Argento per 'Il raduno di Miss Elly'."/>
 		<entry key="FanfarePackCompletion_ELLY_3" translation="Hai collezionato tutte le stelle d'Oro per 'Il raduno di Miss Elly'."/>
 		<entry key="FanfarePackCompletion_ELLY_All" translation="Hai completato ogni obiettivo per 'll raduno di Miss Elly'!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_DINE" translation="Il ristorante di Miss Elly ha delle strutture eccezionali, compreso un grande coaster di legno per un pò di eccitazione! Ma la posizione remota signica non avere molti visitatori e il suo potenziale non viene realizzato. Riesci a costruire in questo posto e attirarci le folle?"/>
+		<entry key="FrontEndMenu_ScenarioDetails_DINE" translation="Il ristorante di Miss Elly ha delle strutture eccezionali, compreso un grande coaster di legno per un pò di eccitazione! Ma visto che si trova in una località remota non ha molti visitatori e il suo potenziale è inespresso. Riuscirai a costruire in questa zona e attirare le folle?"/>
 		<entry key="FrontEndMenu_ScenarioDetails_MARS" translation="Hanno girato alcuni film abbastanza famosi qua fuori nel deserto. Assomiglia a Marte, vero? Il posto non è più richiesto – è tutta computer grafica di questi tempi – ma la compagnia non vuole lasciarlo andare. Vogliono invece che tu lo trasformi in un parco a tema!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_MINE" translation="Un poveraccio ha comprato questa miniera da un cercatore e ha chiesto alcuni grandi prestiti per pagarla. E' venuto fuori che è una truffa. La canaglia aveva salato la miniera! Ora sta cercando di trasformarla in un'attrazione turistica con alcuni fuochi d'artificio e con strade stile Vecchio West, ma non sta andando così bene come sperava e ha bisogno del tuo aiuto."/>
 		<entry key="FrontEndMenu_ScenarioName_DINE" translation="Il ristorante di Miss Elly"/>
 		<entry key="FrontEndMenu_ScenarioName_MARS" translation="Hangar della Nave Spaziale"/>
 		<entry key="FrontEndMenu_ScenarioName_MINE" translation="Torre della Miniera d'Oro"/>
-		<entry key="FrontEndMenu_SetDescription_ELLY" translation="Devi fare un bel colpaccio per riuscire qui. Puoi domare la frontiera selvaggia?"/>
+		<entry key="FrontEndMenu_SetDescription_ELLY" translation="Devi fare un bel colpaccio per vincere qui. Riesci a domare la frontiera selvaggia?"/>
 		<entry key="FrontEndMenu_SetName_ELLY" translation="Il raduno di Miss Elly"/>
 		<!--C3_Coasters-->
 		<entry key="Coaster_Bolt" translation="Bolt"/>
-		<entry key="Coaster_Bolt_Desc" translation="Montagna russa Shuttle, che permette  al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
+		<entry key="Coaster_Bolt_Desc" translation="Montagna russa Shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
 		<entry key="Coaster_Degen" translation="Degen"/>
 		<entry key="Coaster_Degen_Desc" translation="Progettato specialmente per le inversioni."/>
 		<entry key="Coaster_Gnarler" translation="Gnarler"/>
@@ -4640,35 +4640,35 @@
 		<entry key="Coaster_ViperOne" translation="Viper One"/>
 		<entry key="Coaster_ViperOne_Desc" translation="Una montagna russa invertita e lanciata che passa avanti e indietro attraverso la stazione più volte, prendendo velocità ad ogni passaggio."/>
 		<!--C3_Facilities-->
-		<entry key="ShopItem_Hat_JU_Liberty" translation="Statue of Liberty Hat"/>
-		<entry key="ShopItem_Hat_JU_UncleSam" translation="Uncle Sam Hat"/>
+		<entry key="ShopItem_Hat_JU_Liberty" translation="Cappello Statua della Libertà"/>
+		<entry key="ShopItem_Hat_JU_UncleSam" translation="Cappello di Zio Sam"/>
 		<!--C3_FlatRides-->
 		<entry key="FR_Blackout" translation="Blackout"/>
-		<entry key="FR_Blackout_Desc" translation="Blast into deep space aboard this swinging starship.&#10;Gentle Ride"/>
+		<entry key="FR_Blackout_Desc" translation="Addentrati nello spazio profondo a bordo di questa astronave dondolante.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Blackout_Prefix" translation="Blackout"/>
 		<entry key="FR_DragonHeart" translation="Iron Claw"/>
-		<entry key="FR_DragonHeart_Desc" translation="This thrilling pendulum will grip you.&#10;Thrill Ride"/>
+		<entry key="FR_DragonHeart_Desc" translation="Questo pendolo eccitante ti terrà attaccato.&#10;Attrazione Eccitante"/>
 		<entry key="FR_DragonHeart_Prefix" translation="Iron Claw"/>
 		<entry key="FR_SkyWatcher" translation="Sky Watcher"/>
-		<entry key="FR_SkyWatcher_Desc" translation="Climb high! See the world!&#10;Gentle Ride"/>
+		<entry key="FR_SkyWatcher_Desc" translation="Arrampicati in alto! Guarda il mondo!&#10;Attrazione Tranquilla"/>
 		<entry key="FR_SkyWatcher_Prefix" translation="Sky Watcher"/>
 		<entry key="Sequence_FR_Blackout_Loop" translation="Loop"/>
-		<entry key="Sequence_FR_Blackout_LoopReverse" translation="Reverse Loop"/>
-		<entry key="Sequence_FR_Blackout_Swing" translation="Swing"/>
-		<entry key="Sequence_FR_DragonHeart_Swing" translation="Swing"/>
-		<entry key="Sequence_FR_DragonHeart_SwingSpin" translation="Swing and Spin"/>
-		<entry key="Sequence_FR_DragonHeart_SwingSpinReverse" translation="Swing and Reverse Spin"/>
-		<entry key="Sequence_FR_SkyWatcher_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_SkyWatcher_SpinReverse" translation="Reverse Spin"/>
+		<entry key="Sequence_FR_Blackout_LoopReverse" translation="Loop Invertito"/>
+		<entry key="Sequence_FR_Blackout_Swing" translation="Oscillazione"/>
+		<entry key="Sequence_FR_DragonHeart_Swing" translation="Oscillazione"/>
+		<entry key="Sequence_FR_DragonHeart_SwingSpin" translation="Oscillazione e Rotazione"/>
+		<entry key="Sequence_FR_DragonHeart_SwingSpinReverse" translation="Oscillazione e Rotazione invertita"/>
+		<entry key="Sequence_FR_SkyWatcher_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_SkyWatcher_SpinReverse" translation="Rotazione invertita"/>
 		<!--C3_Research-->
-		<entry key="Research_Hint_Coaster_Bolt" translation="Redouble the fun"/>
-		<entry key="Research_Hint_Coaster_Degen" translation="Reborn to loop"/>
-		<entry key="Research_Hint_Coaster_Gnarler" translation="Natural materials"/>
-		<entry key="Research_Hint_Coaster_Powerup" translation="Round and around"/>
-		<entry key="Research_Hint_Coaster_ViperOne" translation="Back and forth"/>
-		<entry key="Research_Hint_FR_Blackout" translation="Family fun in space"/>
-		<entry key="Research_Hint_FR_IronClaw" translation="Attention Grabbing"/>
-		<entry key="Research_Hint_FR_Skywatcher" translation="Gazing Down"/>
+		<entry key="Research_Hint_Coaster_Bolt" translation="Raddoppia il divertimento"/>
+		<entry key="Research_Hint_Coaster_Degen" translation="Rinato per il loop"/>
+		<entry key="Research_Hint_Coaster_Gnarler" translation="Materiali naturali"/>
+		<entry key="Research_Hint_Coaster_Powerup" translation="Giro e girotondo"/>
+		<entry key="Research_Hint_Coaster_ViperOne" translation="Avanti e indietro"/>
+		<entry key="Research_Hint_FR_Blackout" translation="Divertimento per famiglie nello spazio "/>
+		<entry key="Research_Hint_FR_IronClaw" translation="Cattura l'attenzione"/>
+		<entry key="Research_Hint_FR_Skywatcher" translation="Guarda giù"/>
 		<entry key="Research_Revealed_Coaster_Bolt" translation="Bolt"/>
 		<entry key="Research_Revealed_Coaster_Degen" translation="Degen"/>
 		<entry key="Research_Revealed_Coaster_Gnarler" translation="Gnarler"/>
@@ -4719,11 +4719,11 @@
 		<entry key="BuildingPartDesc_FWK_Prop_FireworkPearlLauncher" translation="Special Effect - Multiple streamer fireworks."/>
 		<entry key="BuildingPartDesc_FWK_Prop_LargeLauncher" translation="Large firework launcher."/>
 		<entry key="BuildingPartDesc_FWK_Prop_RomanCandleLauncher" translation="Special Effect - Flaming candle firework."/>
-		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Sequenziatore Spettacolo di fuochi d'artificio ."/>
-		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Sequenziatore Spettacolo di fuochi d'artificio ."/>
+		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Console Effetti Speciali dei fuochi d'artificio ."/>
+		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Console Effetti Speciali dei fuochi d'artificio ."/>
 		<entry key="BuildingPartDesc_FWK_Prop_SmallLauncher" translation="Small firework launcher."/>
-		<entry key="BuildingPartDesc_FWK_Sequencer" translation=" Sequanziatore Spettacolo di fuochi d'artificio."/>
-		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Sequenziatore Spettacolo di fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Sequencer" translation="Console Effetti Speciali dei fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Console Effetti Speciali dei fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour bunting."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour bunting."/>
 		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour bunting."/>
@@ -4811,11 +4811,11 @@
 		<entry key="BuildingPartName_FWK_Prop_FireworkPearlLauncher" translation="Pearl Launcher"/>
 		<entry key="BuildingPartName_FWK_Prop_LargeLauncher" translation="Large Launcher"/>
 		<entry key="BuildingPartName_FWK_Prop_RomanCandleLauncher" translation="Roman Candle Launcher"/>
-		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Sequenziatore Spettacoli"/>
-		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Sequenziatore Spettacoli con piedistallo"/>
+		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Console Effetti Speciali"/>
+		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Console Effetti Speciali su supporto"/>
 		<entry key="BuildingPartName_FWK_Prop_SmallLauncher" translation="Small Launcher"/>
-		<entry key="BuildingPartName_FWK_Sequencer" translation="Sequenziatore Spettacoli"/>
-		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Sequenziatore Spettacoli con piedistallo"/>
+		<entry key="BuildingPartName_FWK_Sequencer" translation="Console Effetti Speciali"/>
+		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Console Effetti Speciali su piedistallo"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour Bunting Straight Curved 2m"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour Bunting Straight Curved 4m"/>
 		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour Bunting Drooping 2m"/>
@@ -4863,9 +4863,9 @@
 		<entry key="BuildingPartName_WS_Band_Piano" translation="Wagon Stand Piano"/>
 		<entry key="BuildingPartName_WS_Band_Stage" translation="Wagon Stand Empty"/>
 		<!--C3_Tags-->
-		<entry key="Browser_SubCat_Props_Screens" translation="Screens"/>
-		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fireworks"/>
-		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Sequenziatore Spettacoli"/>
+		<entry key="Browser_SubCat_Props_Screens" translation="Schermi"/>
+		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fuochi d'Artificio"/>
+		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Console Effetti Speciali"/>
 		<!--C3_TrackElements-->
 		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Left Steep Description"/>
 		<entry key="TrackElementDesc_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Right Steep Description"/>
@@ -4879,7 +4879,7 @@
 		<entry key="Train_PowerUp" translation="PowerUp"/>
 		<!--Camera-->
 		<entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
-		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocita' Scorrimento al Bordo"/>
+		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocità Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Muove la visuale quando il mouse è al bordo dello schermo."/>
 		<entry key="CameraOptionsMenu_FreelookToggle" translation="Visuale Libera"/>
 		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Muovi la visuale liberamente per il parco. Utile in zone strette o per fare screenshot.&#10;&#10;Puoi attivarla premendo [{#LogicalButton.GameCamera_FreelookMode#}] in gioco.&#10;&#10;[{#LogicalButton.GameCamera_RotateLeft#}] e [{#LogicalButton.GameCamera_RotateRight#}] muoveranno la camera in sù e in giù."/>
@@ -4912,10 +4912,10 @@
 		<entry key="CameraOptionsMenu_RotateFocus_Centre" translation="Ruota al centro"/>
 		<entry key="CameraOptionsMenu_RotateFocus_Cursor" translation="Ruota sul mouse"/>
 		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Determina attorno a cosa ruota la camera."/>
-		<entry key="CameraOptionsMenu_SensitivityKey" translation="Sensibilita' Tasti"/>
+		<entry key="CameraOptionsMenu_SensitivityKey" translation="Sensibilità Tasti"/>
 		<entry key="CameraOptionsMenu_SensitivityLabel" translation="Sensibilità"/>
-		<entry key="CameraOptionsMenu_SensitivityMouse" translation="Sensibilita' Mouse"/>
-		<entry key="CameraOptionsMenu_SensitivityWheel" translation="Sensibilita' Zoom"/>
+		<entry key="CameraOptionsMenu_SensitivityMouse" translation="Sensibilità Mouse"/>
+		<entry key="CameraOptionsMenu_SensitivityWheel" translation="Sensibilità Zoom"/>
 		<entry key="CameraOptionsMenu_WindowTitle" translation="Camera"/>
 		<entry key="CameraOptionsMenu_ZoomFocus" translation="Comportamento Zoom"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Centre" translation="Zoom al centro"/>
@@ -5005,7 +5005,7 @@
 		<entry key="CoasterEditor_ShowBank" translation="Mostra Curva"/>
 		<entry key="CoasterEditor_Smooth" translation="Appiattisci tutto"/>
 		<entry key="CoasterEditor_SmoothBanking" translation="Appiattisci Curva"/>
-		<entry key="CoasterEditor_Speed" translation="Velocita'"/>
+		<entry key="CoasterEditor_Speed" translation="Velocità"/>
 		<entry key="CoasterEditor_Station" translation="Stazione"/>
 		<entry key="CoasterEditor_StopTest" translation="Stop Test"/>
 		<entry key="CoasterEditor_SupportColor" translation="Colore Sostegni"/>
@@ -5615,7 +5615,7 @@
 		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Carica Sandbox - Ambiente Custom"/>
 		<entry key="FrontEndMenu_AutoSave" translation="Nascondi Salvataggi Automatici"/>
 		<entry key="FrontEndMenu_AutosaveNumber" translation="Salvataggio Automatico {Number:int:minDigits=1}"/>
-		<entry key="FrontEndMenu_AvatarEditor_InfoLabel" translation="Ora puoi essere parte dell'universo di Planet Coaster! Il tuo avatar sara' visibile dai tuoi amici e dagli altri giocatori di Planet Coaster.\n\nPuoi modificare il suo aspetto anche in seguito!"/>
+		<entry key="FrontEndMenu_AvatarEditor_InfoLabel" translation="Ora puoi essere parte dell'universo di Planet Coaster! Il tuo avatar sarà visibile dai tuoi amici e dagli altri giocatori di Planet Coaster.\n\nPuoi modificare il suo aspetto anche in seguito!"/>
 		<entry key="FrontEndMenu_AvatarEditor_InfoTitle" translation="Crea il tuo Avatar!"/>
 		<entry key="FrontEndMenu_AvatarGroupInvalid_Title" translation="Gruppo Famiglia non valido"/>
 		<entry key="FrontEndMenu_AvatarGroup_Reqs_Family" translation="Un gruppo famiglia deve contenere da uno a due adulti e da uno a quattro bambini."/>
@@ -5646,7 +5646,7 @@
 		<entry key="FrontEndMenu_CareerTotal" translation="/{Value:int}"/>
 		<entry key="FrontEndMenu_Celebrity" translation="Celebrità"/>
 		<entry key="FrontEndMenu_ChangePicture" translation="Cambia Immagine"/>
-		<entry key="FrontEndMenu_Community" translation="Comunita'"/>
+		<entry key="FrontEndMenu_Community" translation="Comunità"/>
 		<entry key="FrontEndMenu_Connecting" translation="Connessione..."/>
 		<entry key="FrontEndMenu_CreatedBy" translation="Creato da: {Name}"/>
 		<entry key="FrontEndMenu_Credits" translation="Crediti"/>
@@ -5754,8 +5754,8 @@
 		<entry key="FrontEndMenu_Play" translation="Gioca"/>
 		<entry key="FrontEndMenu_PlayButton" translation="Carica un Parco"/>
 		<entry key="FrontEndMenu_PlayDetails" translation="Inizia una nuova partita in Carriera, Sandbox o Sfida!"/>
-		<entry key="FrontEndMenu_PlayDownloadAsChallenge" translation="Play as Challenge"/>
-		<entry key="FrontEndMenu_PlayDownloadAsSandbox" translation="Play as Sandbox"/>
+		<entry key="FrontEndMenu_PlayDownloadAsChallenge" translation="Gioca in Sfida"/>
+		<entry key="FrontEndMenu_PlayDownloadAsSandbox" translation="Gioca in Sandbox"/>
 		<entry key="FrontEndMenu_PlayTime" translation="Totale tempo di gioco: {Value:float:decimalPlaces=1} ore"/>
 		<entry key="FrontEndMenu_Player" translation="Sei tu!"/>
 		<entry key="FrontEndMenu_PromptNo" translation="No"/>
@@ -5841,7 +5841,7 @@
 		<entry key="FrontEndMenu_TerrainPaintTooltip_Detail" translation="Dettaglio"/>
 		<entry key="FrontEndMenu_TerrainPaintTooltip_Ground" translation="Terreno"/>
 		<entry key="FrontEndMenu_TerrainPaintTooltip_Steep" translation="Ripido"/>
-		<entry key="FrontEndMenu_TestDetails" translation="Divertiti nel fantastico mondo di Planet Coaster, scopri le possibilita' illimitate e costruisci il tuo parco."/>
+		<entry key="FrontEndMenu_TestDetails" translation="Divertiti nel fantastico mondo di Planet Coaster, scopri le possibilità illimitate e costruisci il tuo parco."/>
 		<entry key="FrontEndMenu_TestSaveName" translation="Carica Parco"/>
 		<entry key="FrontEndMenu_Tooltip_Offline" translation="Sei Offline!"/>
 		<entry key="FrontEndMenu_Tooltip_OldParkSteam" translation="Questo parco è di una vecchia versione del gioco. Salva di nuovo per fare l'upload su Steam."/>
@@ -5852,7 +5852,7 @@
 		<entry key="FrontEndMenu_TropicalSimulationDescription" translation="Inizia un parco in uno scenario tropicale con soldi limitati e costruisci la strada verso la tua meta!"/>
 		<entry key="FrontEndMenu_Tutorial" translation="Tutorial"/>
 		<entry key="FrontEndMenu_TutorialDescription" translation="Prossimamente!"/>
-		<entry key="FrontEndMenu_Unfollow" translation="Non Seguire Piu'"/>
+		<entry key="FrontEndMenu_Unfollow" translation="Non Seguire Più"/>
 		<entry key="FrontEndMenu_Unsubscribe" translation="Disiscrivi"/>
 		<entry key="FrontEndMenu_UploadToWorkshop" translation="Carica nel Workshop"/>
 		<entry key="FrontEndMenu_UserAway" translation="AFK"/>
@@ -5873,7 +5873,7 @@
 		<entry key="FrontEndMenu_WelcomeWindowButtonLabel" translation="Crea il mio avatar!"/>
 		<entry key="FrontEndMenu_WelcomeWindowLabel" translation="Grazie per esserti unito a noi, sei solo a pochi passi dal provare il mondo di Planet Coaster!\n\nPer prima cosa creeremo un avatar di te stesso per rappresentare le tue meravigliose creazioni nella comunità di Planet Coaster.\n\nAssicurati di creare qualcuno che i tuoi amici riconosceranno!"/>
 		<entry key="FrontEndMenu_WelcomeWindowTitle" translation="Benvenuto su Planet Coaster!"/>
-		<entry key="FrontEndMenu_WhatsNew" translation="Novita'?"/>
+		<entry key="FrontEndMenu_WhatsNew" translation="Novità?"/>
 		<entry key="FrontEndMenu_WhatsNewDescription" translation="Prossimamente!"/>
 		<entry key="FrontEndMenu_WorkshopItemDesc" translation="{Name}"/>
 		<entry key="FrontEndMenu_WorkshopItemName" translation="{Name}"/>
@@ -6171,7 +6171,7 @@
 		<entry key="GraphicsOptionsMenu_Multisample_Q5" translation="Bilanciato per Qualità"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q6" translation="Alto"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q7" translation="Molto Alto"/>
-		<entry key="GraphicsOptionsMenu_RefreshRate" translation="Velocita' aggiornamento"/>
+		<entry key="GraphicsOptionsMenu_RefreshRate" translation="Velocità aggiornamento"/>
 		<entry key="GraphicsOptionsMenu_RefreshRateOption" translation="{RATE:float} Hz."/>
 		<entry key="GraphicsOptionsMenu_Resolution" translation="Risoluzione"/>
 		<entry key="GraphicsOptionsMenu_ResolutionOption" translation="{WIDTH:int} x {HEIGHT:int}"/>
@@ -6179,7 +6179,7 @@
 		<entry key="GraphicsOptionsMenu_SSR" translation="Riflesso dello Schermo"/>
 		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Off"/>
 		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="On"/>
-		<entry key="GraphicsOptionsMenu_ScreenMode" translation="Modalita' Schermo"/>
+		<entry key="GraphicsOptionsMenu_ScreenMode" translation="Modalità Schermo"/>
 		<entry key="GraphicsOptionsMenu_Shadows" translation="Ombre"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q1" translation="Off"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q2" translation="Basso"/>
@@ -11985,8 +11985,8 @@
 		<entry key="Guests_Status_Wander" translation="Vagando"/>
 		<!--HUD-->
 		<entry key="HUD_AdultGroupMemberCount" translation="Gruppi di visitatori Adulti"/>
-		<entry key="HUD_AverageGuestHappinessTitle" translation="Media felicita' visitatori"/>
-		<entry key="HUD_AverageHappiness" translation="Media felicita' visitatori"/>
+		<entry key="HUD_AverageGuestHappinessTitle" translation="Media felicità visitatori"/>
+		<entry key="HUD_AverageHappiness" translation="Media felicità visitatori"/>
 		<entry key="HUD_AverageHappinessMultiplier" translation="Felicità visitatori"/>
 		<entry key="HUD_BalanceBonus" translation="Bonus Bilancio Parco"/>
 		<entry key="HUD_ConstructionCosts" translation="Costo Costruzioni"/>
@@ -12001,13 +12001,13 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per piazzare il prossimo pezzo di tracciato."/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sul Pezzo Piazzato"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalita' Modifica Coaster"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Coaster"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Roller coaster triggers allow you to trigger animated objects and special effects when a roller coaster car reaches a specified point on the track."/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Roller Coaster Triggers"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
 		<entry key="HUD_HelpPopup_Controls" translation="{ControlText}"/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="The Sequenziatore Spettacoli allows you to trigger multiple objects and events by a schedule or from a a single ride or roller coaster trigger."/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Sequenziatore Spettacoli"/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="La Console Effetti Speciali ti permette di innescare più oggetti e eventi tramite pianificazione, un singolo passaggio o un innesco della montagna russa."/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Console Effetti Speciali"/>
 		<entry key="HUD_HelpPopup_DontShow" translation="Disabilita Consigli"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Conferma Posizione"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Annulla Posizione"/>
@@ -12202,7 +12202,7 @@
 		<entry key="HUD_ToolTip_AttractionsLists" translation="Lista attrazioni"/>
 		<entry key="HUD_ToolTip_ChallengesPopup" translation="Sfide"/>
 		<entry key="HUD_ToolTip_Delete" translation="Delete Mode (Coming Soon)"/>
-		<entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocita' Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
+		<entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocità Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
 		<entry key="HUD_ToolTip_HelpPopup" translation="Aiuto [{#LogicalButton.Editors_ToggleControlHelp#}]"/>
 		<entry key="HUD_ToolTip_Lighting" translation="Imposta Luce"/>
 		<entry key="HUD_ToolTip_MultiSelect" translation="Selezione Multipla"/>
@@ -12326,7 +12326,7 @@
 		<entry key="PopUp_Overview" translation="Panoramica"/>
 		<entry key="PopUp_Peeps_HeadingTo" translation="Diretto a: {LOCATIONNAME}"/>
 		<entry key="PopUp_Peeps_Needs_Energy" translation="Energia"/>
-		<entry key="PopUp_Peeps_Needs_Happiness" translation="Felicita'"/>
+		<entry key="PopUp_Peeps_Needs_Happiness" translation="Felicità"/>
 		<entry key="PopUp_Peeps_Needs_Header" translation="Bisogni Di {PEEPNAME}"/>
 		<entry key="PopUp_Peeps_Needs_Hunger" translation="Fame"/>
 		<entry key="PopUp_Peeps_Needs_Nausea" translation="Nausea"/>
@@ -12339,7 +12339,7 @@
 		<entry key="PopUp_PlaceTriggerOnTrack" translation="Place a Trigger on Track"/>
 		<entry key="PopUp_Prestige" translation="Prestigio"/>
 		<entry key="PopUp_Ratings" translation="Giudizi"/>
-		<entry key="PopUp_RidePlacement_AttachPassQueue" translation="Connetti la coda con Priorita'"/>
+		<entry key="PopUp_RidePlacement_AttachPassQueue" translation="Connetti la coda con Priorità"/>
 		<entry key="PopUp_RidePlacement_AttachQueue" translation="Aggiungi una coda all'entrata"/>
 		<entry key="PopUp_RidePlacement_AttachTicketBooth" translation="Aggiungi una biglietteria alla coda"/>
 		<entry key="PopUp_RidePlacement_AttachTicketBoothTooltip" translation="La biglietteria collega la coda al sentiero. Assicurati di lasciarle abbastanza spazio ."/>
@@ -12380,7 +12380,7 @@
 		<entry key="PopUp_RideTesting_NumInversions" translation="Numero inversioni"/>
 		<entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
 		<entry key="PopUp_RideTesting_Results" translation="Risultati"/>
-		<entry key="PopUp_RideTesting_Speed" translation="Velocita'"/>
+		<entry key="PopUp_RideTesting_Speed" translation="Velocità"/>
 		<entry key="PopUp_RideTesting_StartTest" translation="Inizia test"/>
 		<entry key="PopUp_RideTesting_StopTest" translation="Stop test"/>
 		<entry key="PopUp_RideTesting_TotalAirTime" translation="Durata Totale Tempo in Volo"/>
@@ -12390,7 +12390,7 @@
 		<entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
 		<entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
 		<entry key="PopUp_Ride_BlockSectionedMode" translation="Block Sectioned"/>
-		<entry key="PopUp_Ride_Capacity" translation="Capacita'"/>
+		<entry key="PopUp_Ride_Capacity" translation="Capacità"/>
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
 		<entry key="PopUp_Ride_CarsPerTrainHint" translation="Cannot edit trains or cars while ride is Open"/>
 		<entry key="PopUp_Ride_Count" translation="{COUNT:separatedint}"/>
@@ -12428,8 +12428,8 @@
 		<entry key="PopUp_Ride_EntranceAndExit" translation="Entrata e uscita"/>
 		<entry key="PopUp_Ride_FastPassFraction" translation="Priority Over Queue"/>
 		<entry key="PopUp_Ride_FastPassFractionHint" translation="How quickly Priority Pass holders rejoin main queue."/>
-		<entry key="PopUp_Ride_FastPassFraction_High" translation="Alta priorita'"/>
-		<entry key="PopUp_Ride_FastPassFraction_Low" translation="Bassa priorita'"/>
+		<entry key="PopUp_Ride_FastPassFraction_High" translation="Alta priorità"/>
+		<entry key="PopUp_Ride_FastPassFraction_Low" translation="Bassa priorità"/>
 		<entry key="PopUp_Ride_FastPassFraction_Medium" translation="Equal Priority"/>
 		<entry key="PopUp_Ride_FastPassQueue" translation="Priority Pass Queue"/>
 		<entry key="PopUp_Ride_FastPassQueueSize" translation="Priority Pass queue size: {LAST:float} ({AVERAGE:float} average)"/>
@@ -12567,85 +12567,85 @@
 		<entry key="InfoPanel_Tooltip_AdvancedMove" translation="Imposta Spostamento/Rotazione avanzati [X]"/>
 		<entry key="InfoPanel_Tooltip_Blueprint" translation="Salva come Progetto"/>
 		<entry key="InfoPanel_Tooltip_BlueprintTooBig" translation="Non posso creare un progetto con più di 1000 pezzi."/>
-		<entry key="InfoPanel_Tooltip_Cameras" translation="Cameras"/>
+		<entry key="InfoPanel_Tooltip_Cameras" translation="Telecamere"/>
 		<entry key="InfoPanel_Tooltip_Destroy" translation="Demolisci [{#LogicalButton.Editors_Delete#}]"/>
 		<entry key="InfoPanel_Tooltip_Duplicate" translation="Duplica [{#LogicalButton.Editors_Clone#}]"/>
 		<entry key="InfoPanel_Tooltip_Locked" translation="Questo oggetto è bloccato"/>
 		<entry key="InfoPanel_Tooltip_Move" translation="Sposta [{#LogicalButton.Editors_Move#}]"/>
 		<!--InfoPanel_DisplaySequencer-->
-		<entry key="InfoPanel_DisplaySequencer_ActivateOnTrigger" translation="Activate only on trigger"/>
-		<entry key="InfoPanel_DisplaySequencer_AddTime" translation="Add time"/>
+		<entry key="InfoPanel_DisplaySequencer_ActivateOnTrigger" translation="Attiva solo su innesco"/>
+		<entry key="InfoPanel_DisplaySequencer_AddTime" translation="Aggiungi tempo"/>
 		<entry key="InfoPanel_DisplaySequencer_Audio" translation="Audio"/>
-		<entry key="InfoPanel_DisplaySequencer_CalendarTitle" translation="Months"/>
-		<entry key="InfoPanel_DisplaySequencer_Cameras" translation="Cameras"/>
-		<entry key="InfoPanel_DisplaySequencer_ConnectCamera" translation="Edit Cameras"/>
-		<entry key="InfoPanel_DisplaySequencer_ConnectSpeaker" translation="Edit Speakers"/>
-		<entry key="InfoPanel_DisplaySequencer_ContinuousLoop" translation="Continuous activation"/>
-		<entry key="InfoPanel_DisplaySequencer_Customise" translation="Customise"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayCameras" translation="Display Cameras"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayCamerasDescription" translation="Place and edit Display Cameras for this Sequenziatore."/>
-		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakers" translation="Display Speakers"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakersDescription" translation="Place Display Speakers from the scenery browser and connect them to the Sequenziatore."/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayTriggers" translation="Display Triggers"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayType" translation="Self Activation type"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayTypeTooltip" translation="Settings for the Sequenziatore to trigger itself"/>
-		<entry key="InfoPanel_DisplaySequencer_EditSequence" translation="Edit Sequence"/>
+		<entry key="InfoPanel_DisplaySequencer_CalendarTitle" translation="Mesi"/>
+		<entry key="InfoPanel_DisplaySequencer_Cameras" translation="Riprese"/>
+		<entry key="InfoPanel_DisplaySequencer_ConnectCamera" translation="Modifica Riprese"/>
+		<entry key="InfoPanel_DisplaySequencer_ConnectSpeaker" translation="Modifica Altoparlanti"/>
+		<entry key="InfoPanel_DisplaySequencer_ContinuousLoop" translation="Attivazione continua"/>
+		<entry key="InfoPanel_DisplaySequencer_Customise" translation="Personalizza"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayCameras" translation="Riprese Spettacoli"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayCamerasDescription" translation="Posiziona e modifica le Riprese per questa Console Effetti Speciali."/>
+		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakers" translation="Altoparlanti Spettacoli"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakersDescription" translation="Posiziona gli altoparlanti dal navigatore scenari e collegali alla Console Effetti Speciali."/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayTriggers" translation="Inneschi Spettacoli"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayType" translation="Modalità auto-attivazione"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayTypeTooltip" translation="Impostazioni per l'auto attivazione della Console"/>
+		<entry key="InfoPanel_DisplaySequencer_EditSequence" translation="Modifica Sequenza"/>
 		<entry key="InfoPanel_DisplaySequencer_Loop" translation="Loop"/>
-		<entry key="InfoPanel_DisplaySequencer_LoopAndTrigger" translation="Looping and on trigger"/>
-		<entry key="InfoPanel_DisplaySequencer_LoopMode_FourHourly" translation="Every Four Hours"/>
-		<entry key="InfoPanel_DisplaySequencer_LoopMode_Hourly" translation="Hourly"/>
-		<entry key="InfoPanel_DisplaySequencer_LoopMode_ThreeHourly" translation="Every Three Hours"/>
-		<entry key="InfoPanel_DisplaySequencer_LoopMode_TwoHourly" translation="Every Two Hours"/>
-		<entry key="InfoPanel_DisplaySequencer_Overview" translation="Overview"/>
-		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTimes" translation="Restrict activation times"/>
-		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTooltip" translation="This lets you choose a time period in which your display will be able to start.&#10;Outside of these times the display will not start."/>
-		<entry key="InfoPanel_DisplaySequencer_RestrictCloseTooltip" translation="Active until"/>
-		<entry key="InfoPanel_DisplaySequencer_RestrictOpenTooltip" translation="Active from"/>
-		<entry key="InfoPanel_DisplaySequencer_Scheduler" translation="Scheduler"/>
-		<entry key="InfoPanel_DisplaySequencer_SelectingCamera" translation="Selecting Camera"/>
-		<entry key="InfoPanel_DisplaySequencer_SelectingSpeaker" translation="Selecting Speaker"/>
-		<entry key="InfoPanel_DisplaySequencer_SetDisplaySchedule" translation="Set Display Schedule"/>
+		<entry key="InfoPanel_DisplaySequencer_LoopAndTrigger" translation="In loop e su innesco"/>
+		<entry key="InfoPanel_DisplaySequencer_LoopMode_FourHourly" translation="Ogni quattro ore"/>
+		<entry key="InfoPanel_DisplaySequencer_LoopMode_Hourly" translation="Ogni ora"/>
+		<entry key="InfoPanel_DisplaySequencer_LoopMode_ThreeHourly" translation="Ogni tre ore"/>
+		<entry key="InfoPanel_DisplaySequencer_LoopMode_TwoHourly" translation="Ogni due ore"/>
+		<entry key="InfoPanel_DisplaySequencer_Overview" translation="Panoramica"/>
+		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTimes" translation="Stringi tempi di attivazione"/>
+		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTooltip" translation="Permette di scegliere un periodo di tempo nel quale l'effetto potrà avviarsi.&#10;Al di fuori di questi periodi l'effetto non si avvierà."/>
+		<entry key="InfoPanel_DisplaySequencer_RestrictCloseTooltip" translation="Attivo fino"/>
+		<entry key="InfoPanel_DisplaySequencer_RestrictOpenTooltip" translation="Attivo da"/>
+		<entry key="InfoPanel_DisplaySequencer_Scheduler" translation="Pianificatore"/>
+		<entry key="InfoPanel_DisplaySequencer_SelectingCamera" translation="Seleziona Ripresa"/>
+		<entry key="InfoPanel_DisplaySequencer_SelectingSpeaker" translation="Seleziona Altoparlante"/>
+		<entry key="InfoPanel_DisplaySequencer_SetDisplaySchedule" translation="Imposta Pianificatore Spettacoli"/>
 		<entry key="InfoPanel_DisplaySequencer_ShowTime_Time" translation="{Value:int:minDigits=2}"/>
-		<entry key="InfoPanel_DisplaySequencer_ShowTimes" translation="Show times"/>
-		<entry key="InfoPanel_DisplaySequencer_SpecificAndTrigger" translation="At specific times"/>
-		<entry key="InfoPanel_DisplaySequencer_ToolTip_Camera" translation="Enter display camera mode"/>
-		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAll" translation="Select all parts connected to this display, including all Sequenziatore children recursively"/>
-		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForRides" translation="Select the ride and all sequence parts, including all Sequenziatore children recursively"/>
+		<entry key="InfoPanel_DisplaySequencer_ShowTimes" translation="Mostra i tempi"/>
+		<entry key="InfoPanel_DisplaySequencer_SpecificAndTrigger" translation="In specifici momenti"/>
+		<entry key="InfoPanel_DisplaySequencer_ToolTip_Camera" translation="Entra in modalità Ripresa dello spettacolo"/>
+		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAll" translation="Seleziona tutti gli elementi connessi a questo spettacolo, inclusi quelli legati alla Console"/>
+		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForRides" translation="Seleziona l'attrazione e tutte le parti della sequenza, inclusi quelli legati alla Console"/>
 		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsLabel" translation="Total Scenery Events"/>
-		<entry key="InfoPanel_DisplaySequencer_TriggerableToggleTooltip" translation="If this Sequenziatore can be triggered from an outside source"/>
-		<entry key="PopUp_DisplayCamera" translation="Display Camera Selector"/>
-		<entry key="PopUp_DisplayCamera_AddCamera" translation="+ Add Camera"/>
-		<entry key="PopUp_DisplayCamera_AddCamera_Tooltip" translation="Cannot add more than {COUNT:separatedFloat:decimalPlaces=0} cameras."/>
-		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Connected Cameras"/>
+		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsLabel" translation="Totale Eventi Scenario"/>
+		<entry key="InfoPanel_DisplaySequencer_TriggerableToggleTooltip" translation="Se questa Console può essere innescata da una sorgente esterna"/>
+		<entry key="PopUp_DisplayCamera" translation="Selettore Videocamera"/>
+		<entry key="PopUp_DisplayCamera_AddCamera" translation="+ Aggiungi Videocamera"/>
+		<entry key="PopUp_DisplayCamera_AddCamera_Tooltip" translation="Non è possibile aggiungere più di {COUNT:separatedFloat:decimalPlaces=0} Videocamere."/>
+		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Videocamere Connesse"/>
 		<entry key="PopUp_DisplayCamera_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_DisplayCamera_DefaultName" translation="Display Camera {Value:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_DisplayCamera_Description" translation="Use the freelook camera to frame the perfect shot. Click Add Camera to Connect the current view as a new Display Camera."/>
-		<entry key="PopUp_DisplayCamera_Edit_Tooltip" translation="Overwrite Display Camera"/>
-		<entry key="PopUp_DisplayCamera_Focus_Tooltip" translation="Locate Display Camera"/>
-		<entry key="PopUp_DisplayCamera_Header" translation="Connect Display Cameras"/>
+		<entry key="PopUp_DisplayCamera_DefaultName" translation="Videocamera {Value:separatedFloat:decimalPlaces=0}"/>
+		<entry key="PopUp_DisplayCamera_Description" translation="Usa la visuale libera per inquadrare lo scatto perfetto. Clicca Aggiungi Videocamera per collegare la vista corrente alla nuova Videocamera."/>
+		<entry key="PopUp_DisplayCamera_Edit_Tooltip" translation="Sovrascrivi Videocamera"/>
+		<entry key="PopUp_DisplayCamera_Focus_Tooltip" translation="Localizza Videocamera"/>
+		<entry key="PopUp_DisplayCamera_Header" translation="Collega Videocamera"/>
 		<entry key="PopUp_DisplayCamera_Name" translation="{Value}"/>
-		<entry key="PopUp_DisplayCamera_NumSelected" translation="Move the camera and then click Confirm to connect a new camera."/>
-		<entry key="PopUp_DisplayCamera_NumSelected_Label" translation="Connected Display Cameras"/>
-		<entry key="PopUp_DisplayCamera_Preview_Tooltip" translation="Preview Display Camera"/>
-		<entry key="PopUp_DisplayCamera_RemoveAll_Tooltip" translation="Remove All Display Cameras"/>
-		<entry key="PopUp_DisplayCamera_Remove_Tooltip" translation="Remove Display Camera"/>
-		<entry key="PopUp_DisplaySpeaker" translation="Display Speaker Selector"/>
-		<entry key="PopUp_DisplaySpeaker_AddSpeaker" translation="+ Connect Speaker"/>
-		<entry key="PopUp_DisplaySpeaker_AddSpeaker_Tooltip" translation="Cannot connect more than {COUNT:separatedFloat:decimalPlaces=0} Speakers."/>
-		<entry key="PopUp_DisplaySpeaker_ConnectedSpeakers_Label" translation="Connected Speakers"/>
+		<entry key="PopUp_DisplayCamera_NumSelected" translation="Sposta la camera e quindi clicca Conferma per collegare una nuova camera."/>
+		<entry key="PopUp_DisplayCamera_NumSelected_Label" translation="Videocamere collegate"/>
+		<entry key="PopUp_DisplayCamera_Preview_Tooltip" translation="Anteprima Ripresa"/>
+		<entry key="PopUp_DisplayCamera_RemoveAll_Tooltip" translation="Rimuovi Riprese"/>
+		<entry key="PopUp_DisplayCamera_Remove_Tooltip" translation="Rimuovi Ripresa"/>
+		<entry key="PopUp_DisplaySpeaker" translation="Selettore Altoparlanti"/>
+		<entry key="PopUp_DisplaySpeaker_AddSpeaker" translation="+ Collega Altoparlante"/>
+		<entry key="PopUp_DisplaySpeaker_AddSpeaker_Tooltip" translation="Non è possibile collegare più di {COUNT:separatedFloat:decimalPlaces=0} Altoparlanti."/>
+		<entry key="PopUp_DisplaySpeaker_ConnectedSpeakers_Label" translation="Altoparlanti Collegati"/>
 		<entry key="PopUp_DisplaySpeaker_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_DisplaySpeaker_DefaultName" translation="Display Speaker {Value:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_DisplaySpeaker_Description" translation="Click Connect Speaker to to select speakers to play music from during the sequence."/>
-		<entry key="PopUp_DisplaySpeaker_Edit_Tooltip" translation="Overwrite Display Speaker"/>
-		<entry key="PopUp_DisplaySpeaker_Focus_Tooltip" translation="Locate Display Speaker"/>
-		<entry key="PopUp_DisplaySpeaker_Header" translation="Connect Display Speakers"/>
+		<entry key="PopUp_DisplaySpeaker_DefaultName" translation="Altoparlante {Value:separatedFloat:decimalPlaces=0}"/>
+		<entry key="PopUp_DisplaySpeaker_Description" translation="Clicca Collega Altoparlante per selezionare gli altoparlanti che riprodurranno la musica durante la sequenza."/>
+		<entry key="PopUp_DisplaySpeaker_Edit_Tooltip" translation="Sovrascrivi Altoparlante"/>
+		<entry key="PopUp_DisplaySpeaker_Focus_Tooltip" translation="Localizza Altoparlante"/>
+		<entry key="PopUp_DisplaySpeaker_Header" translation="Collega Altoparlanti"/>
 		<entry key="PopUp_DisplaySpeaker_Name" translation="{Value}"/>
-		<entry key="PopUp_DisplaySpeaker_NumSelected" translation="Click Connect Speaker to to select speakers to play music from during the sequence."/>
-		<entry key="PopUp_DisplaySpeaker_NumSelected_Label" translation="Connected Display Speakers"/>
-		<entry key="PopUp_DisplaySpeaker_Preview_Tooltip" translation="Preview Display Speaker"/>
-		<entry key="PopUp_DisplaySpeaker_RemoveAll_Tooltip" translation="Disconnect All Display Speakers"/>
-		<entry key="PopUp_DisplaySpeaker_Remove_Tooltip" translation="Disconnect Display Speaker"/>
+		<entry key="PopUp_DisplaySpeaker_NumSelected" translation="Clicca Collega Altoparlante per selezionare gli altoparlanti che riprodurranno la musica durante la sequenza."/>
+		<entry key="PopUp_DisplaySpeaker_NumSelected_Label" translation="Altoparlanti Collegati"/>
+		<entry key="PopUp_DisplaySpeaker_Preview_Tooltip" translation="Anteprima Altoparlante"/>
+		<entry key="PopUp_DisplaySpeaker_RemoveAll_Tooltip" translation="Scollega tutti gli Altoparlanti"/>
+		<entry key="PopUp_DisplaySpeaker_Remove_Tooltip" translation="Scollega Altoparlante"/>
 		<!--InfoPanel_Facility-->
 		<entry key="InfoPanel_Facility_Finance" translation="Economia"/>
 		<entry key="InfoPanel_Facility_Finances" translation="Statistiche Economiche"/>
@@ -12790,7 +12790,7 @@
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
 		<!--InfoPanel_ModularScenery-->
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Costo Per Innesco"/>
-		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Sequenziatore Spettacoli"/>
+		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Console Effetti Speciali"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySpeakersEntry" translation="Altoparlanti Collegati"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_Label" translation="Statistiche Economia"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_MonthlyRunningCostHeader" translation="Costo di Gestione Mensile"/>
@@ -13058,7 +13058,7 @@
 		<entry key="Input_XInput_Button_0" translation="Xbox Pad A"/>
 		<entry key="Input_XInput_Button_1" translation="Xbox Pad B"/>
 		<entry key="Input_XInput_Button_10" translation="Xbox Pad Start/Menu"/>
-		<entry key="Input_XInput_Button_11" translation="Xbox Pad Indietro/View"/>
+		<entry key="Input_XInput_Button_11" translation="Xbox Pad Indietro/Vista"/>
 		<entry key="Input_XInput_Button_12" translation="Xbox Pad Stick Sinistro Premuto"/>
 		<entry key="Input_XInput_Button_13" translation="Xbox Pad Stick Destro Premuto"/>
 		<entry key="Input_XInput_Button_2" translation="Xbox Pad X"/>
@@ -13066,15 +13066,15 @@
 		<entry key="Input_XInput_Button_4" translation="Xbox Pad RB"/>
 		<entry key="Input_XInput_Button_5" translation="Xbox Pad LB"/>
 		<entry key="Input_XInput_Button_6" translation="Xbox D-Pad Su"/>
-		<entry key="Input_XInput_Button_7" translation="Xbox D-Pad Giu'"/>
+		<entry key="Input_XInput_Button_7" translation="Xbox D-Pad Giù"/>
 		<entry key="Input_XInput_Button_8" translation="Xbox D-Pad Sinistra"/>
 		<entry key="Input_XInput_Button_9" translation="Xbox D-Pad Destra"/>
 		<entry key="Input_XInput_Value_0" translation="Xbox Pad LT"/>
 		<entry key="Input_XInput_Value_1" translation="Xbox Pad RT"/>
-		<entry key="Input_XInput_Value_2" translation="Xbox Pad Left Stick Left/Right"/>
-		<entry key="Input_XInput_Value_3" translation="Xbox Pad Left Stick Up/Down"/>
-		<entry key="Input_XInput_Value_4" translation="Xbox Pad Right Stick Left/Right"/>
-		<entry key="Input_XInput_Value_5" translation="Xbox Pad Right Stick Up/Down"/>
+		<entry key="Input_XInput_Value_2" translation="Xbox Pad Stick Sinistro Sinistra/Destra"/>
+		<entry key="Input_XInput_Value_3" translation="Xbox Pad Sick Sinistro Su/Giù"/>
+		<entry key="Input_XInput_Value_4" translation="Xbox Pad Stick Destro Sinistra/Destra"/>
+		<entry key="Input_XInput_Value_5" translation="Xbox Pad Stick Destro Su/Giù"/>
 		<!--LoadingScreen-->
 		<entry key="LoadingScreen_Input_MouseButtonLeft" translation="click-sinistro"/>
 		<entry key="LoadingScreen_Input_MouseButtonMiddle" translation="click-centrale"/>
@@ -13095,7 +13095,7 @@
 		<entry key="LoadingScreen_Tooltip_20" translation="Puoi accedere alla griglia di costruzione di una stazione dal pannello informazioni di quell'attrazione"/>
 		<entry key="LoadingScreen_Tooltip_21" translation="Costruendo un Coaster, clicca con il sinistro per posizionare un pezzo di tracciato ovunque"/>
 		<entry key="LoadingScreen_Tooltip_22" translation="Ogni tipo di Coaster ha diversi strumenti e diversi pezzi speciali"/>
-		<entry key="LoadingScreen_Tooltip_23" translation="Il Surface Lock per il terreno è relativo a dov'è stato inizialmente settato"/>
+		<entry key="LoadingScreen_Tooltip_23" translation="Il Blocca Superficie per il terreno è relativo a dov'è stato inizialmente settato"/>
 		<entry key="LoadingScreen_Tooltip_24" translation="Premere 'Ctrl' attiverà temporaneamente il pennello inverso a quello che stai utilizzando"/>
 		<entry key="LoadingScreen_Tooltip_25" translation="Puoi ricevere idee su come migliorare il tuo parco guardando i pensieri dei visitatori"/>
 		<entry key="LoadingScreen_Tooltip_26" translation="Puoi scegliere tra i controlli ‘world’ e ‘relativo’ mentre sei in Modalità Avanzata"/>
@@ -13168,27 +13168,27 @@
 		<entry key="MULTIPART_Variant_Large" translation="Sovrappeso"/>
 		<entry key="MULTIPART_Variant_Regular" translation="Normale"/>
 		<!--Music-->
-		<entry key="Ambience_Ambience" translation="Effetti Posizinabili "/>
-		<entry key="Ambience_Event_AMB_1950s_Diner" translation="1950's Diner"/>
-		<entry key="Ambience_Event_AMB_1950s_Street" translation="1950's Street"/>
-		<entry key="Ambience_Event_AMB_80s_SynthLoop1" translation="80s Synth Sequence"/>
-		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Aircraft Carrier Bridge"/>
+		<entry key="Ambience_Ambience" translation="Effetti Posizionabili "/>
+		<entry key="Ambience_Event_AMB_1950s_Diner" translation="Ristorante Anni '50"/>
+		<entry key="Ambience_Event_AMB_1950s_Street" translation="Strada Anni '50"/>
+		<entry key="Ambience_Event_AMB_80s_SynthLoop1" translation="Sequenza Synth anni '80"/>
+		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Ponte Portaerei"/>
 		<entry key="Ambience_Event_AMB_AlienForest" translation="Foresta Aliena"/>
 		<entry key="Ambience_Event_AMB_BewitchedForest" translation="Foresta Stregata"/>
-		<entry key="Ambience_Event_AMB_Blacksmith" translation="Blacksmith's Forge"/>
+		<entry key="Ambience_Event_AMB_Blacksmith" translation="Forgia del fabbro"/>
 		<entry key="Ambience_Event_AMB_CanyonBattle" translation="Battaglia al Canyon"/>
 		<entry key="Ambience_Event_AMB_CaveDrippy" translation="Grotta"/>
 		<entry key="Ambience_Event_AMB_CaveDrippyBats" translation="Grotta con Pipistrelli"/>
 		<entry key="Ambience_Event_AMB_CaveScary" translation="Grotta Spaventosa"/>
-		<entry key="Ambience_Event_AMB_CityTraffic" translation="City Traffic"/>
-		<entry key="Ambience_Event_AMB_Clock_Ticking" translation="Clock Ticking"/>
-		<entry key="Ambience_Event_AMB_Crime_City" translation="Downtown (Reacts to Crime Level)"/>
-		<entry key="Ambience_Event_AMB_Crime_City_Docks" translation="Downtown Docks"/>
+		<entry key="Ambience_Event_AMB_CityTraffic" translation="Traffico della Città"/>
+		<entry key="Ambience_Event_AMB_Clock_Ticking" translation="Ticchettio dell'orologio"/>
+		<entry key="Ambience_Event_AMB_Crime_City" translation="Downtown (Reagisce al livello di crimine)"/>
+		<entry key="Ambience_Event_AMB_Crime_City_Docks" translation="il molo di Downtown "/>
 		<entry key="Ambience_Event_AMB_DistantDragon" translation="Drago in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantFiddle" translation="Violino in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantHarmonica" translation="Armonica in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantSpaceBattle" translation="Battaglia Spaziale in Lontananza"/>
-		<entry key="Ambience_Event_AMB_DrChimpLab" translation="Dr Chimp's Laboratory"/>
+		<entry key="Ambience_Event_AMB_DrChimpLab" translation="Il Laboratorio del Dr. Scimmia"/>
 		<entry key="Ambience_Event_AMB_Dungeon" translation="Una Notte in Prigione"/>
 		<entry key="Ambience_Event_AMB_DwarfForge" translation="Fucina del Nano"/>
 		<entry key="Ambience_Event_AMB_HauntedCastle" translation="Castello Infestato in una Notte Piovosa"/>
@@ -13197,25 +13197,25 @@
 		<entry key="Ambience_Event_AMB_LakeShore" translation="Riva del Lago"/>
 		<entry key="Ambience_Event_AMB_MagicalForestQuiet" translation="Foresta Magica"/>
 		<entry key="Ambience_Event_AMB_MedievalStreet" translation="Borgo Medievale"/>
-		<entry key="Ambience_Event_AMB_PeacefulForest" translation="Tranquil Forest"/>
+		<entry key="Ambience_Event_AMB_PeacefulForest" translation="Foresta Tranquilla"/>
 		<entry key="Ambience_Event_AMB_PirateHarbour" translation="Baia Pirata"/>
-		<entry key="Ambience_Event_AMB_PirateShipAtSea" translation="Ship At Sea"/>
+		<entry key="Ambience_Event_AMB_PirateShipAtSea" translation="Nave al Largo"/>
 		<entry key="Ambience_Event_AMB_PirateSwordFight" translation="Duello Pirata"/>
 		<entry key="Ambience_Event_AMB_QuietRiver" translation="Fiume Tranquillo"/>
-		<entry key="Ambience_Event_AMB_RaceWay" translation="Raceway"/>
-		<entry key="Ambience_Event_AMB_Raceway_Pits" translation="Raceway Pits"/>
-		<entry key="Ambience_Event_AMB_Riviera_City" translation="Riviera City"/>
-		<entry key="Ambience_Event_AMB_Riviera_Harbour" translation="Riviera Harbour"/>
-		<entry key="Ambience_Event_AMB_Riviera_Town" translation="Riviera Town"/>
+		<entry key="Ambience_Event_AMB_RaceWay" translation="Pista"/>
+		<entry key="Ambience_Event_AMB_Raceway_Pits" translation="Buche della Pista"/>
+		<entry key="Ambience_Event_AMB_Riviera_City" translation="Città Riviera"/>
+		<entry key="Ambience_Event_AMB_Riviera_Harbour" translation="Porto Riviera"/>
+		<entry key="Ambience_Event_AMB_Riviera_Town" translation="Paese Riviera"/>
 		<entry key="Ambience_Event_AMB_RowdyPirateTavern" translation="Taverna Pirata Chiassosa"/>
 		<entry key="Ambience_Event_AMB_ScaryForest" translation="Foresta Spaventosa"/>
 		<entry key="Ambience_Event_AMB_SeaShore" translation="Riva del Mare"/>
 		<entry key="Ambience_Event_AMB_SpaceStationDockingBay" translation="Attracco alla Stazione Spaziale"/>
 		<entry key="Ambience_Event_AMB_SpaceshipBridge" translation="Ponte della Navicella Spaziale"/>
-		<entry key="Ambience_Event_AMB_TribalDrumming" translation="Drum Group"/>
-		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Western Saloon (Inc. Piano)"/>
-		<entry key="Ambience_Event_AMB_Western_Town" translation="Western Town"/>
-		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Western Town Showdown"/>
+		<entry key="Ambience_Event_AMB_TribalDrumming" translation="Gruppo Percussioni"/>
+		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Saloon Western  (Inc. Piano)"/>
+		<entry key="Ambience_Event_AMB_Western_Town" translation="Villaggio Western"/>
+		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Duello al Villaggio Western"/>
 		<entry key="Music_Heading_Classic" translation="Classica"/>
 		<entry key="Music_Heading_Coaster" translation="Musica da Rollercoaster"/>
 		<entry key="Music_Heading_Electronica" translation="Elettronica"/>
@@ -13237,7 +13237,7 @@
 		<entry key="Music_Reset" translation="Ripristina le Impostazioni di Default"/>
 		<entry key="Music_SpeakerEffect" translation="Effetti dell'altoparlante"/>
 		<entry key="Music_Track_BelongInTheAir" translation="Librarsi nell'Aria"/>
-		<entry key="Music_Track_BumperCarMedley" translation="Autoscontro Medley"/>
+		<entry key="Music_Track_BumperCarMedley" translation="Medley Autoscontro "/>
 		<entry key="Music_Track_CLD" translation="Collisione tra Pianeti"/>
 		<entry key="Music_Track_CSL" translation="Doppio Strato di Piacere (Classica)"/>
 		<entry key="Music_Track_Chairoplane" translation="Pianeta Carnevale (Classica)"/>
@@ -13251,8 +13251,8 @@
 		<entry key="Music_Track_FantasyMood_DarkFairytale" translation="Nella Tana del Drago"/>
 		<entry key="Music_Track_FantasyMood_LightFairytale" translation="La Città Magica"/>
 		<entry key="Music_Track_FantasyMood_MediumFairytale" translation="Il Fanta Castello"/>
-		<entry key="Music_Track_FantasyMood_Organ" translation="Travelling Organ"/>
-		<entry key="Music_Track_Fireworks" translation="The Wonderful Planet of Coaster - Fireworks Mix"/>
+		<entry key="Music_Track_FantasyMood_Organ" translation="Organo Viaggiante"/>
+		<entry key="Music_Track_Fireworks" translation="Il meraviglioso Pianeta dei Coaster - Mix Fuochi d'artificio "/>
 		<entry key="Music_Track_Forge" translation="Orchestra Elementale Parte II"/>
 		<entry key="Music_Track_Genie" translation="Il Genio"/>
 		<entry key="Music_Track_Gondola" translation="Gli Aeronauti (Classica)"/>
@@ -13274,9 +13274,9 @@
 		<entry key="Music_Track_PirateMood_01" translation="Baraccopoli"/>
 		<entry key="Music_Track_PirateMood_02" translation="Navigando Per i Sette Mari"/>
 		<entry key="Music_Track_PirateMood_03" translation="La Dama e la Canaglia"/>
-		<entry key="Music_Track_PirateMood_04" translation="Tub Thumper Trio 1"/>
-		<entry key="Music_Track_PirateMood_05" translation="Tub Thumper Trio 2"/>
-		<entry key="Music_Track_PirateMood_06" translation="Tub Thumper Trio 3"/>
+		<entry key="Music_Track_PirateMood_04" translation="Trio tamburella tinozze 1"/>
+		<entry key="Music_Track_PirateMood_05" translation="Trio tamburella tinozze 2"/>
+		<entry key="Music_Track_PirateMood_06" translation="Trio tamburella tinozze 3"/>
 		<entry key="Music_Track_Polyp" translation="Rock Around the Polp"/>
 		<entry key="Music_Track_PolypInstr" translation="Rock Around the Polp (Strumentale)"/>
 		<entry key="Music_Track_RideTheStorm" translation="Cavalcata nella Tempesta"/>
@@ -13284,14 +13284,14 @@
 		<entry key="Music_Track_SCMAlt" translation="Urlator Alt"/>
 		<entry key="Music_Track_SF" translation="Fluttuare in Aria"/>
 		<entry key="Music_Track_SKY" translation="Asso dei Cieli"/>
-		<entry key="Music_Track_SciFiMood_Band1" translation="Tin Can Quartet 1"/>
-		<entry key="Music_Track_SciFiMood_Band2" translation="Tin Can Quartet 2"/>
-		<entry key="Music_Track_SciFiMood_Band3" translation="Tin Can Quartet 3"/>
+		<entry key="Music_Track_SciFiMood_Band1" translation="Quartetto lattina 1"/>
+		<entry key="Music_Track_SciFiMood_Band2" translation="Quartetto lattina 2"/>
+		<entry key="Music_Track_SciFiMood_Band3" translation="Quartetto lattina 3"/>
 		<entry key="Music_Track_SciFiMood_Dark" translation="Pianeta Epoch - Dark Ride"/>
 		<entry key="Music_Track_SciFiMood_DarkCoasterApproaches" translation="Il Lato Oscuro della Forza G"/>
 		<entry key="Music_Track_SciFiMood_PeoplesOfTheSand" translation="Popolo della Sabbia"/>
 		<entry key="Music_Track_SciFiMood_TheCosmicBalance" translation="L'Equilibrio Cosmico"/>
-		<entry key="Music_Track_Sizzer" translation="Friendship Drive Engaged"/>
+		<entry key="Music_Track_Sizzer" translation="Amicizia Marcia in più"/>
 		<entry key="Music_Track_SunDial" translation="Orchestra Elementale Parte IV"/>
 		<entry key="Music_Track_TAW" translation="Guai in Vista"/>
 		<entry key="Music_Track_TFW" translation="La Ballata di Tentifu"/>
@@ -13302,9 +13302,9 @@
 		<entry key="Music_Track_VanillaMood_PCHomage" translation="Benvenuti al Planet Coaster"/>
 		<entry key="Music_Track_VanillaMood_WonderfulPlanet" translation="Il Meraviglioso Planet Coaster"/>
 		<entry key="Music_Track_WesternMood_Campfire" translation="C'era una Volta un Bivacco"/>
-		<entry key="Music_Track_WesternMood_Piano1" translation="Western Piano 1"/>
-		<entry key="Music_Track_WesternMood_Piano2" translation="Western Piano 2"/>
-		<entry key="Music_Track_WesternMood_Piano3" translation="Western Piano 3"/>
+		<entry key="Music_Track_WesternMood_Piano1" translation="Piano Western 1"/>
+		<entry key="Music_Track_WesternMood_Piano2" translation="Piano Western 2"/>
+		<entry key="Music_Track_WesternMood_Piano3" translation="Piano Western 3"/>
 		<entry key="Music_Track_WesternMood_ThroughTheDesert" translation="Spaghetti Rollercoaster"/>
 		<entry key="Music_Track_WesternMood_Townsville" translation="Per un Pugno di Ospiti"/>
 		<entry key="Music_Track_WildBlue" translation="La Cavalcata delle Valchirie"/>
@@ -13382,7 +13382,7 @@
 		<entry key="NewsletterLanguage_uk" translation="Ukrainian"/>
 		<entry key="NewsletterLanguage_zh-Hans" translation="Simplified Chinese"/>
 		<entry key="NewsletterLanguage_zh-Hant" translation="Traditional Chinese"/>
-		<entry key="NewsletterSignup_AgreeTheTnC" translation="termini e condizioni."/>
+		<entry key="NewsletterSignup_AgreeTheTnC" translation="Termini e condizioni."/>
 		<entry key="NewsletterSignup_AgreeTo" translation="Accetto "/>
 		<entry key="NewsletterSignup_Country" translation="Nazione"/>
 		<entry key="NewsletterSignup_Email" translation="Il tuo indirizzo email (obbligatorio)"/>
@@ -13687,9 +13687,9 @@
 		<entry key="OptionsMenu_Camera_Forward" translation="Visuale avanti"/>
 		<entry key="OptionsMenu_Camera_InvertPan" translation="Inverti panoramica"/>
 		<entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Inverti pendenza rotazione"/>
-		<entry key="OptionsMenu_Camera_KeySensitivity" translation="Sensibilita' Tasti"/>
+		<entry key="OptionsMenu_Camera_KeySensitivity" translation="Sensibilità Tasti"/>
 		<entry key="OptionsMenu_Camera_Left" translation="Visuale sinistra"/>
-		<entry key="OptionsMenu_Camera_MouseSensitivity" translation="Sensibilita' Mouse"/>
+		<entry key="OptionsMenu_Camera_MouseSensitivity" translation="Sensibilità Mouse"/>
 		<entry key="OptionsMenu_Camera_Pan" translation="Visuale panoramica"/>
 		<entry key="OptionsMenu_Camera_Right" translation="Visuale destra"/>
 		<entry key="OptionsMenu_Camera_Speed" translation="Velocità Visuale"/>
@@ -13697,7 +13697,7 @@
 		<entry key="OptionsMenu_Camera_Speed_Medium" translation="Media"/>
 		<entry key="OptionsMenu_Camera_Speed_Slow" translation="Lenta"/>
 		<entry key="OptionsMenu_Camera_Up" translation="Visuale su"/>
-		<entry key="OptionsMenu_Camera_WheelSensitivity" translation="Sensibilita' Rotella"/>
+		<entry key="OptionsMenu_Camera_WheelSensitivity" translation="Sensibilità Rotella"/>
 		<entry key="OptionsMenu_ColorPickerPreview" translation="Anteprima"/>
 		<entry key="OptionsMenu_ColorPickerTitle" translation="Colore Interfaccia"/>
 		<entry key="OptionsMenu_Controls" translation="Controlli"/>
@@ -13833,7 +13833,7 @@
 		<entry key="OptionsMenu_Controls_Terrain_Edit" translation="Modifica Terreno"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Applica Pennello"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Applica Pennello Inverso (Push/Pull Brushes)"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Intensita' Pennello"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Intensità Pennello"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Dimensione Pennello"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Decrease Brush Size"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Increase Brush Size"/>
@@ -13870,7 +13870,7 @@
 		<entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Kilometres (km)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMetres" translation="Metri (m)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMiles" translation="Miglia (mi)"/>
-		<entry key="OptionsMenu_InterfaceDistanceUnit" translation="Unita' di Misura Distanza"/>
+		<entry key="OptionsMenu_InterfaceDistanceUnit" translation="Unità di Misura Distanza"/>
 		<entry key="OptionsMenu_InterfaceDistanceUnitTooltip" translation="Mostra le distanze nel gioco con questa unità"/>
 		<entry key="OptionsMenu_InterfaceDistanceYards" translation="Yards (yd)"/>
 		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Dimensione Interfaccia"/>
@@ -13879,7 +13879,7 @@
 		<entry key="OptionsMenu_InterfaceSpeedKPH" translation="Kilometri all'ora (kmh)"/>
 		<entry key="OptionsMenu_InterfaceSpeedMPH" translation="Miglia all'ora (mph)"/>
 		<entry key="OptionsMenu_InterfaceSpeedMS" translation="Metri al secondo (m/s)"/>
-		<entry key="OptionsMenu_InterfaceSpeedUnit" translation="Unita' di Misura Velocità"/>
+		<entry key="OptionsMenu_InterfaceSpeedUnit" translation="Unità di Misura Velocità"/>
 		<entry key="OptionsMenu_InterfaceSpeedUnitTooltip" translation="Mostra le velocità nel gioco con questa unità"/>
 		<entry key="OptionsMenu_InterfaceUnitsLabel" translation="Unità"/>
 		<entry key="OptionsMenu_Keybindings" translation="Controlli tastiera"/>
@@ -14350,7 +14350,7 @@
 		<entry key="ParkManagement_SpecialEffects_SequenceItemCountHeading" translation="Elementi"/>
 		<entry key="ParkManagement_SpecialEffects_SequenceNameHeading" translation="Nome"/>
 		<entry key="ParkManagement_SpecialEffects_SequencerSequenceDuration" translation="{time:float:decimalPlaces=1} s"/>
-		<entry key="ParkManagement_SpecialEffects_SequencesDescription" translation="Puoi creare effetti speciali attraverso il browser scenari. Questi effetti possono quindi essere attivati dalle attrazioni o dai sequenziatori di effetti."/>
+		<entry key="ParkManagement_SpecialEffects_SequencesDescription" translation="Puoi creare effetti speciali attraverso il browser scenari. Questi effetti possono quindi essere attivati dalle attrazioni o dalle Console di Effetti Speciali."/>
 		<entry key="ParkManagement_SpecialEffects_SequencesHeading" translation="Sequenze effetti speciali"/>
 		<entry key="ParkManagement_SpecialEffects_SequencesTooltip" translation="Sequenze effetti speciali"/>
 		<entry key="ParkManagement_SpecialEffects_SpeakerDescription" translation="Una lista di tutti gli Altoparlanti nel parco, il loro tipo e il loro costo di esercizio."/>
@@ -15324,7 +15324,7 @@
 		<entry key="BuildingPartDesc_PC_Speaker_01" translation="Effetti Audio"/>
 		<entry key="BuildingPartDesc_PC_Speaker_02" translation="Effetti Audio"/>
 		<entry key="BuildingPartDesc_PC_Speaker_03" translation="Effetti Audio"/>
-		<entry key="BuildingPartDesc_PC_Speaker_04" translation="Suona la musica del Sequenziatore Spettacoli al quale è attaccato l'altoparlante."/>
+		<entry key="BuildingPartDesc_PC_Speaker_04" translation="Riproduce la musica della Console Effetti Speciali alla quale è attaccato l'altoparlante."/>
 		<entry key="BuildingPartDesc_PC_StandSign_Dollar" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_StandSign_Medic" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_StandSign_Toilet" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
@@ -16707,7 +16707,7 @@
 		<entry key="Browser_SubCat_Walls_Arches" translation="Archi"/>
 		<entry key="Browser_SubCat_Walls_Columns" translation="Colonne"/>
 		<entry key="Browser_SubCat_Walls_Framework" translation="Cornici"/>
-		<entry key="Browser_SubCat_Walls_Misc" translation="Decorazioni da muro"/>
+		<entry key="Browser_SubCat_Walls_Misc" translation="Decorazioni da parete"/>
 		<entry key="Browser_SubCat_Walls_Walls" translation="Pezzi di muro"/>
 		<entry key="Set_Brick" translation="Mattone"/>
 		<entry key="Set_Castle" translation="Castello"/>
@@ -17665,7 +17665,7 @@
 		<entry key="Guest_Thought_ParkExit_Unhappy_TooSmall_Common_05" translation="Non c'è ragione di continuare a gironzolare qui."/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_TooSmall_Common_06" translation="Non c'è altro da fare qui, me ne vado a casa."/>
 		<entry key="Guest_Thought_ParkExit_UnsuccessfulPickpocketing_Common_01" translation="La sicurezza è troppo alta in questo parco, proverò in un altro."/>
-		<entry key="Guest_Thought_ParkExit_UnsuccessfulPickpocketing_Common_02" translation="Questo parco ha una sicurezza piu' alta di Fort Knox! Me ne vado."/>
+		<entry key="Guest_Thought_ParkExit_UnsuccessfulPickpocketing_Common_02" translation="Questo parco ha una sicurezza più alta di Fort Knox! Me ne vado."/>
 		<entry key="Guest_Thought_ParkExit_UnsuccessfulPickpocketing_Common_03" translation="I Gioielli della Corona hanno meno sicurezza di questo parco, mi arrendo."/>
 		<entry key="Guest_Thought_ParkExit_VandalEjected_Common_01" translation="Hanno ragione a buttarmi fuori dal parco, ho rotto qualcosa per rabbia, non avrei dovuto farlo."/>
 		<entry key="Guest_Thought_QueueEntranceOccupied_Common_01" translation="Potrei far un altro giro su {reference}"/>
