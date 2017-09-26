@@ -1669,8 +1669,8 @@
 		<entry key="BuildingPartName_RR_Merge_Station_Surround_B_02" translation="Muro in Intonaco 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_RR_Merge_WallTop_A_01" translation="Cima di Muro in Stucco - Piatta"/>
 		<entry key="BuildingPartName_RR_Merge_WallTop_A_02" translation="Cima di Muro in Stucco - Arco Piccolo"/>
-		<entry key="BuildingPartName_RR_Merge_WallTop_A_03" translation="Cima di Muro in Stucco - Angolo Largo"/>
-		<entry key="BuildingPartName_RR_Merge_WallTop_A_04" translation="Cima di Muro in Stucco - Arco Largo"/>
+		<entry key="BuildingPartName_RR_Merge_WallTop_A_03" translation="Cima di Muro in Stucco - Angolo Grande"/>
+		<entry key="BuildingPartName_RR_Merge_WallTop_A_04" translation="Cima di Muro in Stucco - Arco Grande"/>
 		<entry key="BuildingPartName_RR_Merge_WallTop_A_05" translation="Cima di Muro in Stucco - Tonda"/>
 		<entry key="BuildingPartName_RR_Merge_WallTop_A_06" translation="Cima di Muro in Stucco - A Scalini Tondi"/>
 		<entry key="BuildingPartName_RR_Merge_Wall_1m" translation="Muro in Stucco 1m"/>
@@ -1952,8 +1952,8 @@
 		<entry key="BuildingPartName_WD_Merge_Station_Surround_02_E" translation="Muro rivestito di Strisce di Legno verniciato 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_B_01" translation="Muro rivestito di Legno Naturale Testa piatta"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_B_02" translation="Muro rivestito di Legno Naturale Testa a piccolo Arco"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_B_03" translation="Muro rivestito di Legno Naturale Testa angolo largo"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_B_04" translation="Muro rivestito di Legno Naturale Testa Arco largo"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_B_03" translation="Muro rivestito di Legno Naturale Testa angolo Grande"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_B_04" translation="Muro rivestito di Legno Naturale Testa Arco Grande"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_B_05" translation="Muro rivestito di Legno Naturale Testa piatta a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_B_06" translation="Muro rivestito di Legno Naturale Testa piatta a Gradini arquati"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_B_07" translation="Muro rivestito di Legno Naturale Testa ad Arco arrotondato"/>
@@ -1965,8 +1965,8 @@
 		<entry key="BuildingPartName_WD_Merge_WallTop_B_10_R" translation="Muro rivestito di Legno Naturale Testa inclinata a destra"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_C_01" translation="Muro rivestito di Strisce di Legno Naturale Testa piatta"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_C_02" translation="Muro rivestito di Strisce di Legno Naturale Testa a piccolo Arco"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_C_03" translation="Muro rivestito di Strisce di Legno Naturale Testa angolo largo"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_C_04" translation="Muro rivestito di Strisce di Legno Naturale Testa Arco largo"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_C_03" translation="Muro rivestito di Strisce di Legno Naturale Testa angolo Grande"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_C_04" translation="Muro rivestito di Strisce di Legno Naturale Testa Arco Grande"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_C_05" translation="Muro rivestito di Strisce di Legno Naturale Testa piatta a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_C_06" translation="Muro rivestito di Strisce di Legno Naturale Testa a Gradini arquati"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_C_07" translation="Muro rivestito di Strisce di Legno Naturale Testa Arco arrotondato"/>
@@ -1978,8 +1978,8 @@
 		<entry key="BuildingPartName_WD_Merge_WallTop_C_10_R" translation="Muro rivestito di Strisce di Legno Naturale Testa inclinata a destra"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_D_01" translation="Muro rivestito di Legno verniciato Testa piatta"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_D_02" translation="Muro rivestito di Legno verniciato Testa a piccolo Arco"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_D_03" translation="Muro rivestito di Legno verniciato Testa angolo largo"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_D_04" translation="Muro rivestito di Legno verniciato Testa Arco largo"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_D_03" translation="Muro rivestito di Legno verniciato Testa angolo Grande"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_D_04" translation="Muro rivestito di Legno verniciato Testa Arco Grande"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_D_05" translation="Muro rivestito di Legno verniciato Testa piatta a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_D_06" translation="Muro rivestito di Legno verniciato Testa piatta a Gradini arquati"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_D_07" translation="Muro rivestito di Legno verniciato Testa ad Arco arrotondato"/>
@@ -1991,8 +1991,8 @@
 		<entry key="BuildingPartName_WD_Merge_WallTop_D_10_R" translation="Muro rivestito di Legno verniciato Testa inclinata a destra"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_01" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_02" translation="Muro rivestito di Strisce di Legno verniciato Testa a piccolo Arco"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_E_03" translation="Muro rivestito di Strisce di Legno verniciato Testa angolo largo"/>
-		<entry key="BuildingPartName_WD_Merge_WallTop_E_04" translation="Muro rivestito di Strisce di Legno verniciato Testa Arco largo"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_E_03" translation="Muro rivestito di Strisce di Legno verniciato Testa angolo Grande"/>
+		<entry key="BuildingPartName_WD_Merge_WallTop_E_04" translation="Muro rivestito di Strisce di Legno verniciato Testa Arco Grande"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_05" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta - a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_06" translation="Muro rivestito di Strisce di Legno verniciato Testa piatta - Arco a Gradini"/>
 		<entry key="BuildingPartName_WD_Merge_WallTop_E_07" translation="Muro rivestito di Strisce di Legno verniciato Testa ad Arco arrotondato"/>
@@ -2207,7 +2207,7 @@
 		<entry key="BuildingPartDesc_PC_Event_Light_5" translation="Faretto forte Luce azzurra.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Event_Light_6" translation="Faretto forte Luce magenta.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Event_Light_7" translation="Faretto forte Luce gialla.\nTema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_Event_Light_Flood_01" translation="Largo cono di Luce.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Event_Light_Flood_01" translation="Grande cono di Luce.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Event_Light_Point_01" translation="Luce flebile in area ampia.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Light_01" translation="Piccola luce per illuminazione diretta forte.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Light_02" translation="Piccola luce per illuminazione diretta forte.\nTema Planet Coaster"/>
@@ -2223,7 +2223,7 @@
 		<entry key="BuildingPartDesc_PC_Parksign_09" translation="Rotaia stilizzata per Coaster con testo bianco illuminato.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Parksign_10" translation="Insegna ampia con testo rosso illuminato.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Parksign_11" translation="Include un Coaster in Legno stilizzato.\nSet Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_Parksign_12" translation="Schermo largo con rotaia stilizzata.\nSet Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Parksign_12" translation="Schermo Grande con rotaia stilizzata.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Parksign_13" translation="Arco fatto di forme colorate e marcate.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Parksign_14" translation="Insegna Neon per Parco.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Parksign_15" translation="Insegna Neon per Parco.\nSet Planet Coaster"/>
@@ -2347,7 +2347,7 @@
 		<entry key="BuildingPartDesc_RR_Awning_A" translation="La rende una finestra impressionante."/>
 		<entry key="BuildingPartDesc_RR_BalconyRailing_A_02_4m" translation="Ringhiera in pietra lunghezza 4m."/>
 		<entry key="BuildingPartDesc_RR_Balcony_A_01" translation="Balconcino finestra piccolo e stretto."/>
-		<entry key="BuildingPartDesc_RR_Balcony_A_02" translation="Balconcino finestra largo e stretto."/>
+		<entry key="BuildingPartDesc_RR_Balcony_A_02" translation="Balconcino finestra Grande e stretto."/>
 		<entry key="BuildingPartDesc_RR_Bell_Large" translation="Risuona per celebrazione o avviso.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_RR_Bell_Small" translation="Risuona per celebrazione o avviso.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_RR_Bracket_A" translation="Le staffe tengono su le strutture orizzontali."/>
@@ -2369,7 +2369,7 @@
 		<entry key="BuildingPartDesc_RR_Dec_B_WoodPlank4m" translation="Piccola tavola di legno colorabile.\nTema Rustico"/>
 		<entry key="BuildingPartDesc_RR_Dec_B_WoodPost_01" translation="Funziona bene sugli angoli degli edifici.\nTema Rustico"/>
 		<entry key="BuildingPartDesc_RR_Dec_B_WoodSkirting" translation="Battiscopa solido in legno.\nTema Rustico"/>
-		<entry key="BuildingPartDesc_RR_Dec_B_WoodSupport_01" translation="Supporto largo in legno.\nTema Rustico"/>
+		<entry key="BuildingPartDesc_RR_Dec_B_WoodSupport_01" translation="Supporto Grande in legno.\nTema Rustico"/>
 		<entry key="BuildingPartDesc_RR_Dec_B_WoodSupport_02" translation="Supporto piccolo in legno.\nTema Rustico"/>
 		<entry key="BuildingPartDesc_RR_Door_A_01" translation="Porta di Legno rossa in Telaio di Gesso."/>
 		<entry key="BuildingPartDesc_RR_Door_A_02" translation="Porta di Legno blu in Telaio di Gesso."/>
@@ -2380,7 +2380,7 @@
 		<entry key="BuildingPartDesc_RR_Door_A_07" translation="Porta di Legno rossa in Telaio di Gesso."/>
 		<entry key="BuildingPartDesc_RR_Frieze_A_01" translation="Facciata muro semplice."/>
 		<entry key="BuildingPartDesc_RR_Frieze_A_02" translation="Facciata muro decorata."/>
-		<entry key="BuildingPartDesc_RR_GrandFascia_A" translation="Ampio e largo Balcone in pietra con supporti"/>
+		<entry key="BuildingPartDesc_RR_GrandFascia_A" translation="Ampio e Grande Balcone in pietra con supporti"/>
 		<entry key="BuildingPartDesc_RR_Quoin_A_01_4m" translation="Stucco\nAlto 4m\nTema Moderno"/>
 		<entry key="BuildingPartDesc_RR_RoofGable_A" translation="Granito\nAlto 2.5m\nTema Stucco"/>
 		<entry key="BuildingPartDesc_RR_RoofGable_A_L" translation="Granito\nAlto 2.5m\nTema Stucco"/>
@@ -2639,7 +2639,7 @@
 		<entry key="BuildingPartName_FT_Clock_01" translation="Orologio con Quadrante Piccolo"/>
 		<entry key="BuildingPartName_FT_Clock_02" translation="Orologio con Quadrante Grande"/>
 		<entry key="BuildingPartName_FT_CrownSign" translation="Insegna Corona"/>
-		<entry key="BuildingPartName_FT_DecorativeShield_Large" translation="Scudo decorativo largo"/>
+		<entry key="BuildingPartName_FT_DecorativeShield_Large" translation="Scudo decorativo Grande"/>
 		<entry key="BuildingPartName_FT_DecorativeShield_Small" translation="Scudo decorativo piccolo"/>
 		<entry key="BuildingPartName_FT_DecorativeSign" translation="Insegna decorativa"/>
 		<entry key="BuildingPartName_FT_DecorativeSword_Large" translation="Spada decorativa larga"/>
@@ -2669,7 +2669,7 @@
 		<entry key="BuildingPartName_FT_Gargoyle_Witch" translation="Gargoyle Strega"/>
 		<entry key="BuildingPartName_FT_HangingBasket_01" translation="Cestino pendente - Cone"/>
 		<entry key="BuildingPartName_FT_HangingBasket_02" translation="Cestino pendente - Arrotondato"/>
-		<entry key="BuildingPartName_FT_LargeDecorativeSign" translation="Insegna Rotolo decorativo largo"/>
+		<entry key="BuildingPartName_FT_LargeDecorativeSign" translation="Insegna Rotolo decorativo Grande"/>
 		<entry key="BuildingPartName_FT_ParchmentSign" translation="Insegna Negozio Pozioni"/>
 		<entry key="BuildingPartName_FT_Pennant_Blue_Large" translation="Gagliardetto - Grande Blu"/>
 		<entry key="BuildingPartName_FT_Pennant_Blue_Small" translation="Gagliardetto - Piccola Blu"/>
@@ -2751,7 +2751,7 @@
 		<entry key="BuildingPartName_PC_Parksign_09" translation="Planet Coaster Insegna rotaia larga"/>
 		<entry key="BuildingPartName_PC_Parksign_10" translation="Planet Coaster Insegna retroillimunata larga"/>
 		<entry key="BuildingPartName_PC_Parksign_11" translation="Planet Coaster Insegna Legno"/>
-		<entry key="BuildingPartName_PC_Parksign_12" translation="Planet Coaster Schermo elettronico largo"/>
+		<entry key="BuildingPartName_PC_Parksign_12" translation="Planet Coaster Schermo elettronico Grande"/>
 		<entry key="BuildingPartName_PC_Parksign_13" translation="Planet Coaster Arco astratto"/>
 		<entry key="BuildingPartName_PC_Parksign_14" translation="Planet Coaster Arco"/>
 		<entry key="BuildingPartName_PC_Parksign_15" translation="Planet Coaster Insegna piatta - Grande"/>
@@ -2843,7 +2843,7 @@
 		<entry key="BuildingPartName_PC_ToiletSigns_Plate" translation="Insegna Toilet uomo/donna - Piccola"/>
 		<entry key="BuildingPartName_PC_Window" translation="Finestra rettangolare nera"/>
 		<entry key="BuildingPartName_PR_Awning_01" translation="Tenda pirata"/>
-		<entry key="BuildingPartName_PR_Bone" translation="Osso largo"/>
+		<entry key="BuildingPartName_PR_Bone" translation="Osso Grande"/>
 		<entry key="BuildingPartName_PR_Cutlass" translation="Sciabole"/>
 		<entry key="BuildingPartName_PR_Cutlass_Left" translation="Sciabola sinistra"/>
 		<entry key="BuildingPartName_PR_Cutlass_Right" translation="Sciabola destra"/>
@@ -3456,7 +3456,7 @@
 		<entry key="Research_Revealed_FR_Collider" translation="Collider"/>
 		<entry key="Research_Revealed_FR_Scizzer" translation="Scizzer"/>
 		<entry key="Research_Revealed_FR_TriStorm" translation="Tri-Storm"/>
-		<entry key="Research_Revealed_Region_Arctic" translation="Arctic Region"/>
+		<entry key="Research_Revealed_Region_Arctic" translation="Regione Artica"/>
 		<entry key="Research_Revealed_Region_Festive" translation="Scenario a Tema Festivo"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Dough" translation="Missy Good"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Smoothie" translation="Pipshot"/>
@@ -3715,8 +3715,8 @@
 		<entry key="BuildingPartName_HOL_ChristmasTree_01" translation="Albero di Natale - Grande"/>
 		<entry key="BuildingPartName_HOL_ChristmasTree_02" translation="Albero di Natale - Piccolo"/>
 		<entry key="BuildingPartName_HOL_CoconutSlice" translation="Dolciumi - Porzione di Torta al Cocco"/>
-		<entry key="BuildingPartName_HOL_Coconut_Cube" translation="Confectionary - Coconut Cube"/>
-		<entry key="BuildingPartName_HOL_Coconut_Cube_Pink" translation="Confectionary - Coconut Cube Pink"/>
+		<entry key="BuildingPartName_HOL_Coconut_Cube" translation="Dolciumi - Cubo di cocco"/>
+		<entry key="BuildingPartName_HOL_Coconut_Cube_Pink" translation="Dolciumi - Cubo di cocco rosa"/>
 		<entry key="BuildingPartName_HOL_ComplexBauble" translation="Pallina di Natale - Lanterna Grande"/>
 		<entry key="BuildingPartName_HOL_ComplexBauble_Small" translation="Pallina di Natale - Lanterna Piccola"/>
 		<entry key="BuildingPartName_HOL_ConeWafer" translation="Dolciumi - Cialda Wafer a Ventaglio"/>
@@ -4185,7 +4185,7 @@
 		<entry key="BuildingPartDesc_PC_PosterWall_07" translation="Un poster da parete.&#10;Tema Moderno"/>
 		<entry key="BuildingPartDesc_PC_RaceBarrier" translation="Per go-karts vaganti."/>
 		<entry key="BuildingPartDesc_PC_RaceBridge_01" translation="Guarda entrambi i lati prima di attraversare"/>
-		<entry key="BuildingPartDesc_PC_RoadSigns_ChevronLong" translation="Segnale stradale largo.&#10;Set Segnali Stradali"/>
+		<entry key="BuildingPartDesc_PC_RoadSigns_ChevronLong" translation="Segnale stradale Grande.&#10;Set Segnali Stradali"/>
 		<entry key="BuildingPartDesc_PC_RoadSigns_ChevronShort" translation="Segnale stradale stretto.&#10;Set Segnali Stradali"/>
 		<entry key="BuildingPartDesc_PC_RoadSigns_Pole" translation="Palo segnale stradale."/>
 		<entry key="BuildingPartDesc_PC_RoadSigns_SpeedLimit" translation="Segnale stradale con limite di velocità modificabile.&#10;Set Segnali Stradali"/>
@@ -4678,190 +4678,190 @@
 		<entry key="Research_Revealed_FR_IronClaw" translation="Iron Claw"/>
 		<entry key="Research_Revealed_FR_Skywatcher" translation="Sky Watcher"/>
 		<!--C3_Scenery-->
-		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel" translation="Special Effect - Spinning firework emitter."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel_Large" translation="Special Effect - Spinning firework emitter."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Chrysanthemum" translation="Special Effect - Single burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Chrysanthemum_Large" translation="Special Effect - Single burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Comet" translation="Special Effect - Non-bursting firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Comet_Multi_Launch" translation="Special Effect - Non-bursting fireworks."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Crossette" translation="Special Effect - Two-stage burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Crossette_Large" translation="Special Effect - Two-stage burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Disc" translation="Special Effect - Ring bursting firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Disc_Large" translation="Special Effect - Ring bursting firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Disc_Small" translation="Special Effect - Ring bursting firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Flare" translation="Special Effect - Flare gun-style firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_FlyingFish" translation="Special Effect - Oscillating burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_FourWay" translation="Special Effect - Cross-shaped burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_FourWay_Large" translation="Special Effect - Cross-shaped burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_HorseTail" translation="Special Effect - Reverse-direction burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_HorseTail_Large" translation="Special Effect - Reverse-direction burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_MultiBursts" translation="Special Effect - Multiple burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Palm" translation="Special Effect - Lingering burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Palm_Large" translation="Special Effect - Lingering burst firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Pearls" translation="Special Effect - Multiple streamer fireworks."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Pearls_Large" translation="Special Effect - Multiple streamer fireworks."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Pearls_Multi_Launch" translation="Special Effect - Multiple streamer fireworks."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Pearls_Multi_Launch_Large" translation="Special Effect - Multiple streamer fireworks."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Bursts" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Bursts_Large" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Bursts_Multi_Launch" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Small" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Sparkle" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Sparkle_Large" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Triple" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_Peony_Triple_Large" translation="Special Effect - Burst launch firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_RomanCandle" translation="Special Effect - Flaming candle firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_RomanCandle_Large" translation="Special Effect - Flaming candle firework."/>
-		<entry key="BuildingPartDesc_FWK_Prop_BarrageLauncher" translation="Special Effect - Barrage firework launcher."/>
-		<entry key="BuildingPartDesc_FWK_Prop_CatherineWheel_Large" translation="Special Effect - Spinning firework emitter."/>
-		<entry key="BuildingPartDesc_FWK_Prop_CatherineWheel_Small" translation="Special Effect - Spinning firework emitter."/>
-		<entry key="BuildingPartDesc_FWK_Prop_FireworkPearlLauncher" translation="Special Effect - Multiple streamer fireworks."/>
-		<entry key="BuildingPartDesc_FWK_Prop_LargeLauncher" translation="Large firework launcher."/>
-		<entry key="BuildingPartDesc_FWK_Prop_RomanCandleLauncher" translation="Special Effect - Flaming candle firework."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel_Large" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Chrysanthemum" translation="Effetto Speciale - Fuoco d'artificio a singolo scoppio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Chrysanthemum_Large" translation="Effetto Speciale - Fuoco d'artificio a singolo scoppio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Comet" translation="Effetto Speciale - Fuoco d'artificio senza scoppio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Comet_Multi_Launch" translation="Effetto Speciale - Fuochi d'artificio senza scoppio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Crossette" translation="Effetto Speciale - Fuoco d'artificio a due fasi di scoppio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Crossette_Large" translation="Effetto Speciale - Fuoco d'artificio a due fasi di scoppio."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Disc" translation="Effetto Speciale - Fuoco d'artificio con scoppio ad anello."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Disc_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio ad anello."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Disc_Small" translation="Effetto Speciale - Fuoco d'artificio con scoppio ad anello."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Flare" translation="Effetto Speciale - Fuoco d'artificio stile bengala."/>
+		<entry key="BuildingPartDesc_FWK_Firework_FlyingFish" translation="Effetto Speciale - Fuoco d'artificio con scoppio oscillante."/>
+		<entry key="BuildingPartDesc_FWK_Firework_FourWay" translation="Effetto Speciale - Fuoco d'artificio con scoppio a croce."/>
+		<entry key="BuildingPartDesc_FWK_Firework_FourWay_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio a croce."/>
+		<entry key="BuildingPartDesc_FWK_Firework_HorseTail" translation="Effetto Speciale - Fuoco d'artificio con scoppio a direzione inversa."/>
+		<entry key="BuildingPartDesc_FWK_Firework_HorseTail_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio a direzione inversa."/>
+		<entry key="BuildingPartDesc_FWK_Firework_MultiBursts" translation="Effetto Speciale - Fuoco d'artificio con scoppi multipli."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Palm" translation="Effetto Speciale -Fuoco d'artificio con scoppio persistente."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Palm_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio persistente."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Pearls" translation="Effetto Speciale - Fuochi d'artificio a scie multiple."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Pearls_Large" translation="Effetto Speciale - Fuochi d'artificio a scie multiple."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Pearls_Multi_Launch" translation="Effetto Speciale - Fuochi d'artificio a scie multiple."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Pearls_Multi_Launch_Large" translation="Effetto Speciale - Fuochi d'artificio a scie multiple."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Bursts" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Bursts_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Bursts_Multi_Launch" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Small" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Sparkle" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Sparkle_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Triple" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_Peony_Triple_Large" translation="Effetto Speciale - Fuoco d'artificio con scoppio a sfera."/>
+		<entry key="BuildingPartDesc_FWK_Firework_RomanCandle" translation="Effetto Speciale - Fuoco d'artificio a candela fiammeggiante."/>
+		<entry key="BuildingPartDesc_FWK_Firework_RomanCandle_Large" translation="Effetto Speciale -  Fuoco d'artificio a candela fiammeggiante."/>
+		<entry key="BuildingPartDesc_FWK_Prop_BarrageLauncher" translation="Effetto Speciale - Lanciatore Fuochi d'artificio a raffica."/>
+		<entry key="BuildingPartDesc_FWK_Prop_CatherineWheel_Large" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Prop_CatherineWheel_Small" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
+		<entry key="BuildingPartDesc_FWK_Prop_FireworkPearlLauncher" translation="Effetto Speciale - Fuochi d'artificio a scie multiple."/>
+		<entry key="BuildingPartDesc_FWK_Prop_LargeLauncher" translation="Lanciatore Fuochi d'artificio grande."/>
+		<entry key="BuildingPartDesc_FWK_Prop_RomanCandleLauncher" translation="Effetto Speciale - Fuoco d'artificio a candela fiammeggiante."/>
 		<entry key="BuildingPartDesc_FWK_Prop_Sequencer" translation="Console Effetti Speciali dei fuochi d'artificio ."/>
 		<entry key="BuildingPartDesc_FWK_Prop_Sequencer_Stand" translation="Console Effetti Speciali dei fuochi d'artificio ."/>
-		<entry key="BuildingPartDesc_FWK_Prop_SmallLauncher" translation="Small firework launcher."/>
+		<entry key="BuildingPartDesc_FWK_Prop_SmallLauncher" translation="Lanciatore Fuochi d'artificio piccolo."/>
 		<entry key="BuildingPartDesc_FWK_Sequencer" translation="Console Effetti Speciali dei fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_FWK_Sequencer_Stand" translation="Console Effetti Speciali dei fuochi d'artificio."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour bunting."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour bunting."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour bunting."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_4m" translation="Multicolour bunting."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Straight_2m" translation="Multicolour bunting."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Straight_4m" translation="Multicolour bunting."/>
-		<entry key="BuildingPartDesc_JUL_Flags_Large_Stand_IMG" translation="Large standing flag for custom images"/>
-		<entry key="BuildingPartDesc_JU_BalloonCharacter_Eagle" translation="Giant balloon character."/>
-		<entry key="BuildingPartDesc_JU_BalloonCharacter_UncleSam" translation="Giant balloon character."/>
-		<entry key="BuildingPartDesc_JU_BalloonColumn_2m" translation="Balloon column."/>
-		<entry key="BuildingPartDesc_JU_BalloonColumn_2m_Curve" translation="Balloon column."/>
-		<entry key="BuildingPartDesc_JU_Bunting_Straight_Curve_2m" translation="American bunting."/>
-		<entry key="BuildingPartDesc_JU_Bunting_Straight_Curve_4m" translation="American bunting."/>
-		<entry key="BuildingPartDesc_JU_Cannon" translation="A barrel full of confetti."/>
-		<entry key="BuildingPartDesc_JU_Flags_Bunting_Droop_2m" translation="American bunting."/>
-		<entry key="BuildingPartDesc_JU_Flags_Bunting_Droop_4m" translation="American bunting."/>
-		<entry key="BuildingPartDesc_JU_Flags_Bunting_Straight_2M" translation="American bunting."/>
-		<entry key="BuildingPartDesc_JU_Flags_Bunting_Straight_4m" translation="American bunting."/>
-		<entry key="BuildingPartDesc_JU_Flags_Large_Hanging" translation="Large hanging flag."/>
-		<entry key="BuildingPartDesc_JU_Flags_Large_Hanging_IMG" translation="Large hanging flag for custom images."/>
-		<entry key="BuildingPartDesc_JU_Flags_Large_Stand" translation="Large standing flag."/>
-		<entry key="BuildingPartDesc_JU_Flags_Single_Small" translation="Small standing flag."/>
-		<entry key="BuildingPartDesc_JU_Flags_Single_Small_IMG" translation="Small standing flag for custom images."/>
-		<entry key="BuildingPartDesc_PC_IMG_Mount_Ceiling" translation="Screen mount."/>
-		<entry key="BuildingPartDesc_PC_IMG_Mount_Pole" translation="Screen mount."/>
-		<entry key="BuildingPartDesc_PC_IMG_Mount_Wall" translation="Screen mount."/>
-		<entry key="BuildingPartDesc_PC_IMG_Projector" translation="A modern home theatre projector."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold" translation="Metal scaffolding with wooden boards."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m" translation="Projection screen, lit"/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m_NonLit" translation="Projection screen."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_32m" translation="Projection screen, lit"/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_32m_NonLit" translation="Projection screen."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_4m" translation="Projection screen, lit"/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_4m_NonLit" translation="Projection screen."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_8m" translation="Projection screen, lit"/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_8m_NonLit" translation="Projection screen."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_2M" translation="Video panel, lit"/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_2M_NonLit" translation="Video panel."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_4M" translation="Video panel, lit"/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_4M_NonLit" translation="Video panel."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_1m" translation="TV screen."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_2m" translation="TV screen."/>
-		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_4m" translation="TV screen."/>
-		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Pop up entertainment.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Pop up entertainment.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Pop up entertainment.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartName_FWK_Firework_CatherineWheel" translation="Catherine Wheel Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_CatherineWheel_Large" translation="Catherine Wheel Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Chrysanthemum" translation="Chrysanthemum Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Chrysanthemum_Large" translation="Chrysanthemum Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Comet" translation="Comet Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Comet_Multi_launch" translation="Comet Multi Launch Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Crossette" translation="Crossette Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Crossette_Large" translation="Crossette Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Disc" translation="Disc Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Disc_Large" translation="Disc Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Disc_Small" translation="Disc Small Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Flare" translation="Flare Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_FlyingFish" translation="Flying Fish Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_FourWay" translation="Four Way Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_FourWay_Large" translation="Four Way Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_HorseTail" translation="Horse Tail Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_HorseTail_Large" translation="Horse Tail Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_MultiBursts" translation="Multi Bursts Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Palm" translation="Palm Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Palm_Large" translation="Palm Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Pearls" translation="Pearls Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Pearls_Large" translation="Pearls Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Pearls_Multi_Launch" translation="Pearls Multi Launch Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Pearls_Multi_Launch_Large" translation="Pearls Multi Launch Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony" translation="Peony Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Bursts" translation="Peony Bursts Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Bursts_Large" translation="Peony Bursts Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Bursts_Multi_Launch" translation="Peony Bursts Multi Launch Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Small" translation="Peony Small Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Sparkle" translation="Peony Sparkle Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Sparkle_Large" translation="Peony Sparkle Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Triple" translation="Peony Triple Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_Peony_Triple_Large" translation="Peony Triple Large Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_RomanCandle" translation="Roman Candle Firework"/>
-		<entry key="BuildingPartName_FWK_Firework_RomanCandle_Large" translation="Roman Candle Large Firework"/>
-		<entry key="BuildingPartName_FWK_Prop_BarrageLauncher" translation="Barrage Launcher"/>
-		<entry key="BuildingPartName_FWK_Prop_CatherineWheel_Large" translation="Catherine Wheel Large"/>
-		<entry key="BuildingPartName_FWK_Prop_CatherineWheel_Small" translation="Catherine Wheel Small"/>
-		<entry key="BuildingPartName_FWK_Prop_FireworkPearlLauncher" translation="Pearl Launcher"/>
-		<entry key="BuildingPartName_FWK_Prop_LargeLauncher" translation="Large Launcher"/>
-		<entry key="BuildingPartName_FWK_Prop_RomanCandleLauncher" translation="Roman Candle Launcher"/>
+		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_2m" translation="Festoni Multicolori."/>
+		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Curve_4m" translation="Festoni Multicolori."/>
+		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_2m" translation="Festoni Multicolori."/>
+		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Droop_4m" translation="Festoni Multicolori."/>
+		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Straight_2m" translation="Festoni Multicolori."/>
+		<entry key="BuildingPartDesc_JUL_Flags_Bunting_Colored_Straight_4m" translation="Festoni Multicolori."/>
+		<entry key="BuildingPartDesc_JUL_Flags_Large_Stand_IMG" translation="Grande bandiera con supporto per immagini personalizzate"/>
+		<entry key="BuildingPartDesc_JU_BalloonCharacter_Eagle" translation="Personaggio gonfiabile gigante."/>
+		<entry key="BuildingPartDesc_JU_BalloonCharacter_UncleSam" translation="Personaggio gonfiabile gigante."/>
+		<entry key="BuildingPartDesc_JU_BalloonColumn_2m" translation="Colonna gonfiabile."/>
+		<entry key="BuildingPartDesc_JU_BalloonColumn_2m_Curve" translation="Colonna gonfiabile."/>
+		<entry key="BuildingPartDesc_JU_Bunting_Straight_Curve_2m" translation="Festoni Americani."/>
+		<entry key="BuildingPartDesc_JU_Bunting_Straight_Curve_4m" translation="Festoni Americani."/>
+		<entry key="BuildingPartDesc_JU_Cannon" translation="Un barile pieno di coriandoli."/>
+		<entry key="BuildingPartDesc_JU_Flags_Bunting_Droop_2m" translation="Festoni Americani."/>
+		<entry key="BuildingPartDesc_JU_Flags_Bunting_Droop_4m" translation="Festoni Americani."/>
+		<entry key="BuildingPartDesc_JU_Flags_Bunting_Straight_2M" translation="Festoni Americani."/>
+		<entry key="BuildingPartDesc_JU_Flags_Bunting_Straight_4m" translation="Festoni Americani."/>
+		<entry key="BuildingPartDesc_JU_Flags_Large_Hanging" translation="Grande bandiera appesa."/>
+		<entry key="BuildingPartDesc_JU_Flags_Large_Hanging_IMG" translation="Grande bandiera appesa per immagini personalizzate."/>
+		<entry key="BuildingPartDesc_JU_Flags_Large_Stand" translation="Grande bandiera con supporto."/>
+		<entry key="BuildingPartDesc_JU_Flags_Single_Small" translation="Piccola bandiera con supporto."/>
+		<entry key="BuildingPartDesc_JU_Flags_Single_Small_IMG" translation="Piccola bandiera con supporto per immagini personalizzate."/>
+		<entry key="BuildingPartDesc_PC_IMG_Mount_Ceiling" translation="Supporto per schermo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Mount_Pole" translation="Supporto per schermo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Mount_Wall" translation="Supporto per schermo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Projector" translation="Un moderno proiettore con home theatre."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold" translation="Impalcatura di metallo con tavole di legno."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m" translation="Schermo di proiezione, acceso"/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m_NonLit" translation="Schermo di proiezione."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_32m" translation="Schermo di proiezione, acceso"/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_32m_NonLit" translation="Schermo di proiezione."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_4m" translation="Schermo di proiezione, acceso"/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_4m_NonLit" translation="Schermo di proiezione."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_8m" translation="Schermo di proiezione, acceso"/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_8m_NonLit" translation="Schermo di proiezione."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_2M" translation="Pannello video, acceso"/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_2M_NonLit" translation="Pannello video."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_4M" translation="Pannello video, acceso"/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Panel_4M_NonLit" translation="Pannello video."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_1m" translation="Schermo TV."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_2m" translation="Schermo TV."/>
+		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_4m" translation="Schermo TV."/>
+		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartName_FWK_Firework_CatherineWheel" translation="Fuoco d'artificio Ruota di Catherine"/>
+		<entry key="BuildingPartName_FWK_Firework_CatherineWheel_Large" translation="Fuoco d'artificio Ruota di Catherine grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Chrysanthemum" translation="Fuoco d'artificio Crisantemo"/>
+		<entry key="BuildingPartName_FWK_Firework_Chrysanthemum_Large" translation="Fuoco d'artificio Crisantemo grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Comet" translation="Fuoco d'artificio Cometa"/>
+		<entry key="BuildingPartName_FWK_Firework_Comet_Multi_launch" translation="Fuoco d'artificio Cometa lanci multipli"/>
+		<entry key="BuildingPartName_FWK_Firework_Crossette" translation="Fuoco d'artificio Crossette"/>
+		<entry key="BuildingPartName_FWK_Firework_Crossette_Large" translation="Fuoco d'artificio Crossette grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Disc" translation="Fuoco d'artificio a Disco"/>
+		<entry key="BuildingPartName_FWK_Firework_Disc_Large" translation="Fuoco d'artificio a Disco grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Disc_Small" translation="Fuoco d'artificio a Disco piccolo"/>
+		<entry key="BuildingPartName_FWK_Firework_Flare" translation="Fuoco d'artificio Bengala"/>
+		<entry key="BuildingPartName_FWK_Firework_FlyingFish" translation="Fuoco d'artificio Pesce Volante"/>
+		<entry key="BuildingPartName_FWK_Firework_FourWay" translation="Fuoco d'artificio a Quattro Vie"/>
+		<entry key="BuildingPartName_FWK_Firework_FourWay_Large" translation="Fuoco d'artificio a Quattro Vie grande"/>
+		<entry key="BuildingPartName_FWK_Firework_HorseTail" translation="Fuoco d'artificio a Coda di Cavallo"/>
+		<entry key="BuildingPartName_FWK_Firework_HorseTail_Large" translation="Fuoco d'artificio a Coda di Cavallo grande"/>
+		<entry key="BuildingPartName_FWK_Firework_MultiBursts" translation="Fuoco d'artificio a scoppi multipli"/>
+		<entry key="BuildingPartName_FWK_Firework_Palm" translation="Fuoco d'artificio a Palma"/>
+		<entry key="BuildingPartName_FWK_Firework_Palm_Large" translation="Fuoco d'artificio a Palma grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Pearls" translation="Fuoco d'artificio a perle"/>
+		<entry key="BuildingPartName_FWK_Firework_Pearls_Large" translation="Fuoco d'artificio a perle grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Pearls_Multi_Launch" translation="Fuoco d'artificio a perle con lanci multipli"/>
+		<entry key="BuildingPartName_FWK_Firework_Pearls_Multi_Launch_Large" translation="Fuoco d'artificio a perle con lanci multipli grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony" translation="Fuoco d'artificio a Peonia"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Bursts" translation="Fuoco d'artificio con scoppi a Peonia"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Bursts_Large" translation="Fuoco d'artificio con scoppi a Peonia grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Bursts_Multi_Launch" translation="Fuoco d'artificio con scoppi a Peona e lanci multipli"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Small" translation="Fuoco d'artificio a Peonia piccolo"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Sparkle" translation="Fuoco d'artificio a Peonia scintillante"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Sparkle_Large" translation="Fuoco d'artificio a Peonia scintillante grande"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Triple" translation="Fuoco d'artificio a Peonia triplo"/>
+		<entry key="BuildingPartName_FWK_Firework_Peony_Triple_Large" translation="Fuoco d'artificio a Peonia triplo grande"/>
+		<entry key="BuildingPartName_FWK_Firework_RomanCandle" translation="Fuoco d'artificio a candela Romana"/>
+		<entry key="BuildingPartName_FWK_Firework_RomanCandle_Large" translation="Fuoco d'artificio a candela Romana grande"/>
+		<entry key="BuildingPartName_FWK_Prop_BarrageLauncher" translation="Lanciatore a raffica"/>
+		<entry key="BuildingPartName_FWK_Prop_CatherineWheel_Large" translation="Ruota di Catherine grande"/>
+		<entry key="BuildingPartName_FWK_Prop_CatherineWheel_Small" translation="Ruota di Catherine piccola"/>
+		<entry key="BuildingPartName_FWK_Prop_FireworkPearlLauncher" translation="Lanciatore a Perla"/>
+		<entry key="BuildingPartName_FWK_Prop_LargeLauncher" translation="Lanciatore grande"/>
+		<entry key="BuildingPartName_FWK_Prop_RomanCandleLauncher" translation="Lanciatore a candela Romana"/>
 		<entry key="BuildingPartName_FWK_Prop_Sequencer" translation="Console Effetti Speciali"/>
 		<entry key="BuildingPartName_FWK_Prop_Sequencer_Stand" translation="Console Effetti Speciali su supporto"/>
-		<entry key="BuildingPartName_FWK_Prop_SmallLauncher" translation="Small Launcher"/>
+		<entry key="BuildingPartName_FWK_Prop_SmallLauncher" translation="Lanciatore piccolo"/>
 		<entry key="BuildingPartName_FWK_Sequencer" translation="Console Effetti Speciali"/>
 		<entry key="BuildingPartName_FWK_Sequencer_Stand" translation="Console Effetti Speciali su piedistallo"/>
-		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_2m" translation="Multicolour Bunting Straight Curved 2m"/>
-		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_4m" translation="Multicolour Bunting Straight Curved 4m"/>
-		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_2m" translation="Multicolour Bunting Drooping 2m"/>
-		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_4m" translation="Multicolour Bunting Drooping 4m"/>
-		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Straight_2m" translation="Multicolour Bunting Straight 2m"/>
-		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Straight_4m" translation="Multicolour Bunting Straight 4m"/>
-		<entry key="BuildingPartName_JUL_Flags_Large_Stand_IMG" translation="Large Customisable Standing Flag"/>
-		<entry key="BuildingPartName_JU_BalloonCharacter_Eagle" translation="Balloon Character Eagle"/>
-		<entry key="BuildingPartName_JU_BalloonCharacter_UncleSam" translation="Balloon Character Uncle Sam"/>
-		<entry key="BuildingPartName_JU_BalloonColumn_2m" translation="Balloon Column 2m"/>
-		<entry key="BuildingPartName_JU_BalloonColumn_2m_Curve" translation="Balloon Column Curved 2m"/>
-		<entry key="BuildingPartName_JU_Bunting_Straight_Curve_2m" translation="American Bunting Straight Curved 2m"/>
-		<entry key="BuildingPartName_JU_Bunting_Straight_Curve_4m" translation="American Bunting Straight Curved 4m"/>
-		<entry key="BuildingPartName_JU_Cannon" translation="Confetti Cannon"/>
-		<entry key="BuildingPartName_JU_Flags_Bunting_Droop_2m" translation="American Bunting Drooping 2m"/>
-		<entry key="BuildingPartName_JU_Flags_Bunting_Droop_4m" translation="American Bunting Drooping 4m"/>
-		<entry key="BuildingPartName_JU_Flags_Bunting_Straight_2M" translation="American Bunting Straight 2m"/>
-		<entry key="BuildingPartName_JU_Flags_Bunting_Straight_4m" translation="American Bunting Straight 4m"/>
-		<entry key="BuildingPartName_JU_Flags_Large_Hanging" translation="Large Hanging American Flag"/>
-		<entry key="BuildingPartName_JU_Flags_Large_Hanging_IMG" translation="Large Customisable Hanging Flag"/>
-		<entry key="BuildingPartName_JU_Flags_Large_Stand" translation="Large Standing American Flag"/>
-		<entry key="BuildingPartName_JU_Flags_Single_Small" translation="Small Standing American Flag"/>
-		<entry key="BuildingPartName_JU_Flags_Single_Small_IMG" translation="Small Customisable Standing Flag"/>
-		<entry key="BuildingPartName_PC_IMG_Mount_Ceiling" translation="Screen Mount Ceiling"/>
-		<entry key="BuildingPartName_PC_IMG_Mount_Pole" translation="Screen Mounting Pole"/>
-		<entry key="BuildingPartName_PC_IMG_Mount_Wall" translation="Screen Mount Wall"/>
-		<entry key="BuildingPartName_PC_IMG_Projector" translation="Projector"/>
-		<entry key="BuildingPartName_PC_IMG_Scaffold" translation="Metal Scaffolding"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_16m" translation="Projection Screen 16m - Lit"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_16m_NonLit" translation="Projection Screen 16m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_32m" translation="Projection Screen 32m - Lit"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_32m_NonLit" translation="Projection Screen 32m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_4m" translation="Projection Screen 4m - Lit"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_4m_NonLit" translation="Projection Screen 4m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_8m" translation="Projection Screen 8m - Lit"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_8m_NonLit" translation="Projection Screen 8m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Panel_2M" translation="Video Wall Panel 2m - Lit"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Panel_2M_NonLit" translation="Video Wall Panel 2m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Panel_4M" translation="Video Wall Panel 4m - Lit"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Panel_4M_NonLit" translation="Video Wall Panel 4m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Wide_1m" translation="TV Screen 1m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Wide_2m" translation="TV Screen 2m"/>
-		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="TV Screen 4m"/>
+		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_2m" translation="Festone multicolore Curvo 2m"/>
+		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Curve_4m" translation="Festone multicolore Curvo 4m"/>
+		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_2m" translation="Festone multicolore Ricurvo 2m"/>
+		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Droop_4m" translation="Festone multicolore Ricurvo 4m"/>
+		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Straight_2m" translation="Festone multicolore Dritto 2m"/>
+		<entry key="BuildingPartName_JUL_Flags_Bunting_Colored_Straight_4m" translation="Festone multicolore Dritto 4m"/>
+		<entry key="BuildingPartName_JUL_Flags_Large_Stand_IMG" translation="Bandiera con supporto grande personalizzabile"/>
+		<entry key="BuildingPartName_JU_BalloonCharacter_Eagle" translation="Personaggio Aquila Gonfiabile"/>
+		<entry key="BuildingPartName_JU_BalloonCharacter_UncleSam" translation="Personaggio Zio Sam Gonfiabile"/>
+		<entry key="BuildingPartName_JU_BalloonColumn_2m" translation="Colonna Gonfiabile 2m"/>
+		<entry key="BuildingPartName_JU_BalloonColumn_2m_Curve" translation="Colonna Gonfiabile Curva 2m"/>
+		<entry key="BuildingPartName_JU_Bunting_Straight_Curve_2m" translation="Festone Americano Curvo 2m"/>
+		<entry key="BuildingPartName_JU_Bunting_Straight_Curve_4m" translation="Festone Americano Curvo 4m"/>
+		<entry key="BuildingPartName_JU_Cannon" translation="Cannone per coriandoli"/>
+		<entry key="BuildingPartName_JU_Flags_Bunting_Droop_2m" translation="Festone Americano Ricurvo 2m"/>
+		<entry key="BuildingPartName_JU_Flags_Bunting_Droop_4m" translation="Festone Americano Ricurvo 4m"/>
+		<entry key="BuildingPartName_JU_Flags_Bunting_Straight_2M" translation="Festone Americano Dritto 2m"/>
+		<entry key="BuildingPartName_JU_Flags_Bunting_Straight_4m" translation="Festone Americano Dritto 4m"/>
+		<entry key="BuildingPartName_JU_Flags_Large_Hanging" translation="Bandiera Americana Appesa Grande "/>
+		<entry key="BuildingPartName_JU_Flags_Large_Hanging_IMG" translation="Bandiera Personalizzabile Appesa Grande"/>
+		<entry key="BuildingPartName_JU_Flags_Large_Stand" translation="Bandiera Americana con supporto Grande"/>
+		<entry key="BuildingPartName_JU_Flags_Single_Small" translation="Bandiera Americana con supporto Piccola"/>
+		<entry key="BuildingPartName_JU_Flags_Single_Small_IMG" translation="Bandiera Personalizzabile con supporto Piccola"/>
+		<entry key="BuildingPartName_PC_IMG_Mount_Ceiling" translation="Supporto Schermo da Soffitto"/>
+		<entry key="BuildingPartName_PC_IMG_Mount_Pole" translation="Supporto Schermo ad Asta"/>
+		<entry key="BuildingPartName_PC_IMG_Mount_Wall" translation="Supporto Schermo a Parete"/>
+		<entry key="BuildingPartName_PC_IMG_Projector" translation="Proiettore"/>
+		<entry key="BuildingPartName_PC_IMG_Scaffold" translation="Impalcatura di metallo"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_16m" translation="Schermo di Proiezione 16m - Acceso"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_16m_NonLit" translation="Schermo di Proiezione 16m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_32m" translation="Schermo di Proiezione 32m - Acceso"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_32m_NonLit" translation="Schermo di Proiezione 32m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_4m" translation="Schermo di Proiezione 4m - Acceso"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_4m_NonLit" translation="Schermo di Proiezione 4m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_8m" translation="Schermo di Proiezione 8m - Acceso"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Cinema_8m_NonLit" translation="Schermo di Proiezione 8m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Panel_2M" translation="Pannello Video a Parete 2m - Acceso"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Panel_2M_NonLit" translation="Pannello Video a Parete 2m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Panel_4M" translation="Pannello Video a Parete 4m - Acceso"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Panel_4M_NonLit" translation="Pannello Video a Parete 4m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Wide_1m" translation="Schermo TV 1m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Wide_2m" translation="Schermo TV 2m"/>
+		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="Schermo TV 4m"/>
 		<entry key="BuildingPartName_WS_Band_Bar" translation="Wagon Stand Bar"/>
 		<entry key="BuildingPartName_WS_Band_Piano" translation="Wagon Stand Piano"/>
-		<entry key="BuildingPartName_WS_Band_Stage" translation="Wagon Stand Empty"/>
+		<entry key="BuildingPartName_WS_Band_Stage" translation="Wagon Stand Vuoto"/>
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Schermi"/>
 		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fuochi d'Artificio"/>
@@ -6002,7 +6002,7 @@
 		<entry key="MONTH_LONG_7" translation="Luglio"/>
 		<entry key="MONTH_LONG_8" translation="Agosto"/>
 		<entry key="MONTH_LONG_9" translation="Settembre"/>
-		<entry key="MalformedPathPart" translation="Pezzo di sentiero malformato"/>
+		<entry key="MalformedPathPart" translation="Pezzo di sentiero deformato"/>
 		<entry key="ObjectBrowser_DLCFilterLabel" translation="Oggetti DLC"/>
 		<entry key="ObjectBrowser_DLCFilterTooltip" translation="Disattiva oggetti DLC non acquistati"/>
 		<entry key="Obstructed" translation="Bloccato"/>
@@ -12194,7 +12194,7 @@
 		<entry key="HUD_ShopMenu_Scenery" translation="Scenario"/>
 		<entry key="HUD_ShopMenu_Shops" translation="Negozi e Servizi"/>
 		<entry key="HUD_ShopMenu_Staff" translation="Staff"/>
-		<entry key="HUD_ShopMenu_TrackedRides" translation="Track Rides"/>
+		<entry key="HUD_ShopMenu_TrackedRides" translation="Attrazioni a Circuito"/>
 		<entry key="HUD_TeenGroupMemberCount" translation="Gruppi di Giovani"/>
 		<entry key="HUD_TimeAM" translation="{Hour12}:{Minute} am"/>
 		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
@@ -12336,7 +12336,7 @@
 		<entry key="PopUp_Peeps_Needs_Toilet" translation="Bisognini"/>
 		<entry key="PopUp_Peeps_PeepName" translation="{PEEPNAME}"/>
 		<entry key="PopUp_Peeps_Thought" translation="&quot;{THOUGHT}&quot;"/>
-		<entry key="PopUp_PlaceTriggerOnTrack" translation="Place a Trigger on Track"/>
+		<entry key="PopUp_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Percorso"/>
 		<entry key="PopUp_Prestige" translation="Prestigio"/>
 		<entry key="PopUp_Ratings" translation="Giudizi"/>
 		<entry key="PopUp_RidePlacement_AttachPassQueue" translation="Connetti la coda con Priorità"/>
@@ -12350,7 +12350,7 @@
 		<entry key="PopUp_RidePlacement_PlaceExit" translation="Piazza uscita"/>
 		<entry key="PopUp_RidePlacement_PlaceQueueMerge" translation="Piazza uscita prioritaria"/>
 		<entry key="PopUp_RidePlacement_PlaceQueueSplit" translation="Piazza entrata prioritaria"/>
-		<entry key="PopUp_RidePlacement_StationListHeader" translation="Station List"/>
+		<entry key="PopUp_RidePlacement_StationListHeader" translation="Lista Stazioni"/>
 		<entry key="PopUp_RideRatings" translation="Giudizi Corsa"/>
 		<entry key="PopUp_RideStats" translation="Statistiche Corsa"/>
 		<entry key="PopUp_RideTesting_AverageSpeed" translation="Velocità media"/>
@@ -12358,16 +12358,16 @@
 		<entry key="PopUp_RideTesting_Duration" translation="Durata"/>
 		<entry key="PopUp_RideTesting_Excitement" translation="Eccitazione"/>
 		<entry key="PopUp_RideTesting_Fear" translation="Paura"/>
-		<entry key="PopUp_RideTesting_Heatmaps" translation="Heatmaps"/>
-		<entry key="PopUp_RideTesting_Heatmaps_Live" translation="Live Data"/>
-		<entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Dati Mappa Calore"/>
-		<entry key="PopUp_RideTesting_Heatmaps_Pass_N" translation="Pass {VALUE:int}"/>
-		<entry key="PopUp_RideTesting_Heatmaps_PreviousRun" translation="Previous Run Data"/>
+		<entry key="PopUp_RideTesting_Heatmaps" translation="Mappe di Calore"/>
+		<entry key="PopUp_RideTesting_Heatmaps_Live" translation="Dati attuali"/>
+		<entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Dati Mappa di Calore"/>
+		<entry key="PopUp_RideTesting_Heatmaps_Pass_N" translation="Passaggi {VALUE:int}"/>
+		<entry key="PopUp_RideTesting_Heatmaps_PreviousRun" translation="Dati corsa precedente"/>
 		<entry key="PopUp_RideTesting_LateralG" translation="Accelerazione Laterale"/>
 		<entry key="PopUp_RideTesting_Length" translation="Lunghezza"/>
-		<entry key="PopUp_RideTesting_LiveData" translation="Live data"/>
+		<entry key="PopUp_RideTesting_LiveData" translation="Dati attuali"/>
 		<entry key="PopUp_RideTesting_LongG" translation="Accelerazione Anteriore"/>
-		<entry key="PopUp_RideTesting_MaxDrop" translation="Biggest Drop"/>
+		<entry key="PopUp_RideTesting_MaxDrop" translation="Caduta più alta"/>
 		<entry key="PopUp_RideTesting_MaxLateralG" translation="Massima Accelerazione Laterale"/>
 		<entry key="PopUp_RideTesting_MaxNegLongG" translation="Massima Accelerazione Posteriore"/>
 		<entry key="PopUp_RideTesting_MaxNegVertG" translation="Massima Accelerazione Negativa"/>
@@ -13528,14 +13528,14 @@
 		<entry key="ObjectBrowser_Blueprint_Title" translation="{NAME}"/>
 		<entry key="ObjectBrowser_Blueprints_AllBlueprints" translation="Tutti i Progetti"/>
 		<entry key="ObjectBrowser_Blueprints_DeleteItem" translation="Cancella Progetti Recenti"/>
-		<entry key="ObjectBrowser_Blueprints_RecentBlueprints" translation="Recent Blueprints"/>
+		<entry key="ObjectBrowser_Blueprints_RecentBlueprints" translation="Progetti Recenti"/>
 		<entry key="ObjectBrowser_Blueprints_UnsubscribeFromSteam" translation="Disiscrivi dal workshop"/>
 		<entry key="ObjectBrowser_Blueprints_UploadToSteam" translation="Carica nello Steam Workshop"/>
 		<entry key="ObjectBrowser_Blueprints_ViewOnSteam" translation="Guarda sullo Steam Workshop"/>
 		<entry key="ObjectBrowser_Category_Blueprint" translation="Progetti"/>
 		<entry key="ObjectBrowser_Category_BreadCrumb" translation="{CATEGORY} -"/>
 		<entry key="ObjectBrowser_Category_Custom" translation="Personalizzato"/>
-		<entry key="ObjectBrowser_Category_Rides" translation="Ride"/>
+		<entry key="ObjectBrowser_Category_Rides" translation="Attrazioni"/>
 		<entry key="ObjectBrowser_Coaster" translation="Roller Coaster"/>
 		<entry key="ObjectBrowser_CoasterBlueprint" translation="Progetti"/>
 		<entry key="ObjectBrowser_CoasterCustom" translation="Personalizzato"/>
@@ -13558,11 +13558,11 @@
 		<entry key="ObjectBrowser_EFN_Fear_ToolTip" translation="Paura"/>
 		<entry key="ObjectBrowser_EFN_Label" translation="{Value:float:decimalPlaces=2}"/>
 		<entry key="ObjectBrowser_EFN_Nausea_ToolTip" translation="Nausea"/>
-		<entry key="ObjectBrowser_EmptyBrowser_NoFilters" translation="No items"/>
-		<entry key="ObjectBrowser_EmptyBrowser_NoneResearched" translation="No objects researched"/>
-		<entry key="ObjectBrowser_EmptyBrowser_Search" translation="No objects match your search"/>
-		<entry key="ObjectBrowser_EmptyBrowser_SearchAndTags" translation="No objects match your search and filters"/>
-		<entry key="ObjectBrowser_EmptyBrowser_Tags" translation="No objects match your filters"/>
+		<entry key="ObjectBrowser_EmptyBrowser_NoFilters" translation="Nessun elemento"/>
+		<entry key="ObjectBrowser_EmptyBrowser_NoneResearched" translation="Nessun oggetto ricercato"/>
+		<entry key="ObjectBrowser_EmptyBrowser_Search" translation="Nessun oggetto corrisponde a quanto cercato"/>
+		<entry key="ObjectBrowser_EmptyBrowser_SearchAndTags" translation="Nessun oggetto corrisponde a quanto cercato e ai filtri"/>
+		<entry key="ObjectBrowser_EmptyBrowser_Tags" translation="Nessun oggetto corrisponde ai filtri"/>
 		<entry key="ObjectBrowser_EmptySearch" translation="Scrivi per cercare"/>
 		<entry key="ObjectBrowser_Excitement" translation="Eccitamento"/>
 		<entry key="ObjectBrowser_Facility" translation="Strutture"/>
@@ -13572,11 +13572,11 @@
 		<entry key="ObjectBrowser_FilterButtonOn" translation="Filtro Attivo"/>
 		<entry key="ObjectBrowser_FilterDatabase" translation="Frontier"/>
 		<entry key="ObjectBrowser_FilterFairytail" translation="Fiabe"/>
-		<entry key="ObjectBrowser_FilterLocal" translation="Your Creations"/>
+		<entry key="ObjectBrowser_FilterLocal" translation="Le Tue Creazioni"/>
 		<entry key="ObjectBrowser_FilterPirate" translation="Pirati"/>
 		<entry key="ObjectBrowser_FilterReset" translation="Mostra tutti i gruppi"/>
 		<entry key="ObjectBrowser_FilterScifi" translation="Sci-Fi"/>
-		<entry key="ObjectBrowser_FilterSource" translation="Source"/>
+		<entry key="ObjectBrowser_FilterSource" translation="Origine"/>
 		<entry key="ObjectBrowser_FilterSteam" translation="Steam Workshop"/>
 		<entry key="ObjectBrowser_FilterTags" translation="Tags"/>
 		<entry key="ObjectBrowser_FilterTheme" translation="Scenografie"/>
@@ -13611,7 +13611,7 @@
 		<entry key="ObjectBrowser_Powered" translation="Attrazioni a motore"/>
 		<entry key="ObjectBrowser_PriceHigh" translation="Prezzo Alto"/>
 		<entry key="ObjectBrowser_PriceLow" translation="Prezzo Basso"/>
-		<entry key="ObjectBrowser_Recent" translation="Recente"/>
+		<entry key="ObjectBrowser_Recent" translation="Recenti"/>
 		<entry key="ObjectBrowser_Scenery_AddToBuilding" translation="Aggiungi alla costruzione"/>
 		<entry key="ObjectBrowser_Scenery_AddToBuildingHint" translation="Aggiungi un oggetto ad una costruzione esistente"/>
 		<entry key="ObjectBrowser_Scenery_AlignSurface" translation="Allinea alla superfice/Aggiungi alla costruzione"/>
@@ -13631,7 +13631,7 @@
 		<entry key="ObjectBrowser_Settings" translation="Impostazioni"/>
 		<entry key="ObjectBrowser_SortBy" translation="Ordina Per"/>
 		<entry key="ObjectBrowser_SortBy_Name" translation="Nome"/>
-		<entry key="ObjectBrowser_SortBy_Recent" translation="Recently Added"/>
+		<entry key="ObjectBrowser_SortBy_Recent" translation="Aggiunto Recentemente"/>
 		<entry key="ObjectBrowser_Stats" translation="Statistiche"/>
 		<entry key="ObjectBrowser_TestDescription" translation="Un segnaposto per future descrizioni."/>
 		<entry key="ObjectBrowser_TestStat" translation="Dimensioni griglia"/>
@@ -14017,7 +14017,7 @@
 		<entry key="ParkManagement_DutyRoster_Contains_RideStation_1" translation="1 Attrazione"/>
 		<entry key="ParkManagement_DutyRoster_Contains_Shop" translation="{count:int} negozi"/>
 		<entry key="ParkManagement_DutyRoster_Contains_Shop_1" translation="1 negozio"/>
-		<entry key="ParkManagement_DutyRoster_Description" translation="La coda di lavoro permette di definire quali circuiti, attrazioni, negozi, strutture o punti di intrattenimento hanno la propriorità per i membri dello staff. Assegna&#10;una coda di lavoro a un membro dello staff selezionandolo e aprendo la scheda occupazione."/>
+		<entry key="ParkManagement_DutyRoster_Description" translation="La coda di lavoro permette di definire quali circuiti, attrazioni, negozi, strutture o punti di intrattenimento hanno la priorità per i membri dello staff. Assegna&#10;una coda di lavoro a un membro dello staff selezionandolo e aprendo la scheda occupazione."/>
 		<entry key="ParkManagement_DutyRosters" translation="Code di lavoro"/>
 		<entry key="ParkManagement_DutyRosters_AssignedTo" translation="Assegnato a"/>
 		<entry key="ParkManagement_DutyRosters_Contains" translation="Contiene"/>
@@ -14269,7 +14269,7 @@
 		<entry key="ParkManagement_ParkCapacityTitle" translation="Capacità del parco"/>
 		<entry key="ParkManagement_ParkOperations" translation="Operazioni Parco"/>
 		<entry key="ParkManagement_ParkStatistics" translation="Statistiche parco"/>
-		<entry key="ParkManagement_ParkStats_BiggestDrop" translation="Discesa più grande"/>
+		<entry key="ParkManagement_ParkStats_BiggestDrop" translation="Caduta più alta"/>
 		<entry key="ParkManagement_ParkStats_FastestCoaster" translation="Montagne russe più veloci"/>
 		<entry key="ParkManagement_ParkStats_GuestHappiness" translation="Felicità Visitatori"/>
 		<entry key="ParkManagement_ParkStats_HighestCoaster" translation="Montagne russe più alte"/>
@@ -14621,7 +14621,7 @@
 		<entry key="Research_Hint_Region_Alpine" translation="Flora alpina"/>
 		<entry key="Research_Hint_Region_Deciduous" translation="Flora decidua"/>
 		<entry key="Research_Hint_Region_Desert" translation="Flora Desertica"/>
-		<entry key="Research_Hint_Region_Grassland" translation="Grassland Flora"/>
+		<entry key="Research_Hint_Region_Grassland" translation="Flora della prateria"/>
 		<entry key="Research_Hint_Region_Park" translation="Flora tipica del parco"/>
 		<entry key="Research_Hint_Region_Tropical" translation="Flora tropicale"/>
 		<entry key="Research_Hint_RollingRiver" translation="Acqua veloce"/>
@@ -14709,12 +14709,12 @@
 		<entry key="Research_Revealed_Pioneer" translation="Pioneer"/>
 		<entry key="Research_Revealed_Polyp" translation="Rocktopus"/>
 		<entry key="Research_Revealed_Powered_MgcKatz" translation="Magic Katz"/>
-		<entry key="Research_Revealed_Region_Alpine" translation="Alpine Region"/>
-		<entry key="Research_Revealed_Region_Deciduous" translation="Deciduous Region"/>
-		<entry key="Research_Revealed_Region_Desert" translation="Desert Region"/>
-		<entry key="Research_Revealed_Region_Grassland" translation="Grassland Region"/>
-		<entry key="Research_Revealed_Region_Park" translation="Park Region"/>
-		<entry key="Research_Revealed_Region_Tropical" translation="Tropicale Region"/>
+		<entry key="Research_Revealed_Region_Alpine" translation="Regione Alpina"/>
+		<entry key="Research_Revealed_Region_Deciduous" translation="Regione Decidua"/>
+		<entry key="Research_Revealed_Region_Desert" translation="Regione Desertica"/>
+		<entry key="Research_Revealed_Region_Grassland" translation="Regione della Prateria"/>
+		<entry key="Research_Revealed_Region_Park" translation="Regione del Parco"/>
+		<entry key="Research_Revealed_Region_Tropical" translation="Regione Tropicale"/>
 		<entry key="Research_Revealed_RollingRiver" translation="Rolling River"/>
 		<entry key="Research_Revealed_Scenery_Fairytale" translation="Scenario Fiabesco"/>
 		<entry key="Research_Revealed_Scenery_Generic" translation="Scenario del Parco"/>
@@ -15771,7 +15771,7 @@
 		<entry key="BuildingPartName_FT_VasesAndPots_Market_03" translation="Vasi e Pentole - Anfora"/>
 		<entry key="BuildingPartName_FT_VasesAndPots_Market_04" translation="Vasi e Pentole - Brocca"/>
 		<entry key="BuildingPartName_FT_VasesAndPots_Market_05" translation="Vasi e Pentole - Pentola per Stufato con Supporto"/>
-		<entry key="BuildingPartName_FT_VasesAndPots_Palace_01" translation="Vasi e Pentole - Vaso Largo"/>
+		<entry key="BuildingPartName_FT_VasesAndPots_Palace_01" translation="Vasi e Pentole - Vaso Grande"/>
 		<entry key="BuildingPartName_FT_VasesAndPots_Palace_02" translation="Vasi e Pentole - Vaso Piccolo"/>
 		<entry key="BuildingPartName_FT_VasesAndPots_Palace_03" translation="Vasi e Pentole - Vaso Alto"/>
 		<entry key="BuildingPartName_FT_VasesAndPots_Palace_04" translation="Vasi e Pentole - Vaso Stretto"/>
@@ -15819,7 +15819,7 @@
 		<entry key="BuildingPartName_PC_FXBox_Confetti_Metallic" translation="Effetti Speciali - Confetti Metallici"/>
 		<entry key="BuildingPartName_PC_FXBox_Dirt_Falling" translation="Effetti Speciali - Caduta di Terra"/>
 		<entry key="BuildingPartName_PC_FXBox_ElectricSparks" translation="Effetti Speciali - Scintille Elettriche"/>
-		<entry key="BuildingPartName_PC_FXBox_Electric_Grid_Large" translation="Effetti Speciali - Griglia Elettrifacata Grande"/>
+		<entry key="BuildingPartName_PC_FXBox_Electric_Grid_Large" translation="Effetti Speciali - Griglia Elettrificata Grande"/>
 		<entry key="BuildingPartName_PC_FXBox_Electric_Grid_Medium" translation="Effetti Speciali - Griglia Elettrificata Media"/>
 		<entry key="BuildingPartName_PC_FXBox_Electric_Rod_2m" translation="Effetti Speciali - Asta Elettrificata 2m"/>
 		<entry key="BuildingPartName_PC_FXBox_Electric_Rod_4m" translation="Effetti Speciali - Asta Elettrificata 4m"/>
@@ -16652,7 +16652,7 @@
 		<entry key="Blueprints_TagCategory_Coasters" translation="Coasters"/>
 		<entry key="Blueprints_TagCategory_Scenery" translation="Scenografie"/>
 		<entry key="Blueprints_TagCategory_Shops" translation="Negozi"/>
-		<entry key="Blueprints_TagCategory_TrackRides" translation="Attrazioni a circuito"/>
+		<entry key="Blueprints_TagCategory_TrackRides" translation="Circuiti"/>
 		<entry key="Browser_Cat_Shop_ATM" translation="Bancomat"/>
 		<entry key="Browser_Cat_Shop_Decoration" translation="Decorazioni negozi"/>
 		<entry key="Browser_Cat_Shop_Drink" translation="Negozi di bibite"/>
@@ -16676,7 +16676,7 @@
 		<entry key="Browser_SubCat_Nature_Rock" translation="Rocce"/>
 		<entry key="Browser_SubCat_Nature_Topiary" translation="Arte topiaria"/>
 		<entry key="Browser_SubCat_Nature_Tree" translation="Alberi"/>
-		<entry key="Browser_SubCat_PathExtra_Bench" translation="Staccionate"/>
+		<entry key="Browser_SubCat_PathExtra_Bench" translation="Panchine"/>
 		<entry key="Browser_SubCat_PathExtra_Bin" translation="Cestini"/>
 		<entry key="Browser_SubCat_PathExtra_Misc" translation="Varie"/>
 		<entry key="Browser_SubCat_Primitives_Edges" translation="Angoli retti"/>
@@ -16735,7 +16735,7 @@
 		<entry key="Set_Wooden" translation="Legno"/>
 		<entry key="Set_WoodenSlat" translation="Strisce di Legno"/>
 		<entry key="TagGroup_Material" translation="Materiale di costruzione"/>
-		<entry key="TagGroup_PDLC" translation="Pacchi Contenuti"/>
+		<entry key="TagGroup_PDLC" translation="Contenuti Scaricabili"/>
 		<entry key="TagGroup_Property" translation="Proprietà"/>
 		<entry key="TagGroup_Region" translation="Regione"/>
 		<entry key="TagGroup_Set" translation="Set di costruzione"/>
@@ -16749,35 +16749,35 @@
 		<entry key="TagRegion_RN_Tundra" translation="Tundra"/>
 		<entry key="Tag_Blueprint_Blueprint" translation="Progetti"/>
 		<entry key="Tag_Blueprint_Building" translation="Costruzioni"/>
-		<entry key="Tag_Blueprint_BuildingCoasterStation" translation="Stazione montagne russe"/>
-		<entry key="Tag_Blueprint_BuildingLarge" translation="Largo"/>
+		<entry key="Tag_Blueprint_BuildingCoasterStation" translation="Stazioni Montagne Russe"/>
+		<entry key="Tag_Blueprint_BuildingLarge" translation="Grandi"/>
 		<entry key="Tag_Blueprint_BuildingOther" translation="Altre costruzioni"/>
-		<entry key="Tag_Blueprint_BuildingSmall" translation="Piccolo"/>
-		<entry key="Tag_Blueprint_BuildingTicketBooth" translation="Cabina dei biglietti"/>
-		<entry key="Tag_Blueprint_ClassicRide" translation="Attrazione Classica"/>
+		<entry key="Tag_Blueprint_BuildingSmall" translation="Piccole"/>
+		<entry key="Tag_Blueprint_BuildingTicketBooth" translation="Biglietterie"/>
+		<entry key="Tag_Blueprint_ClassicRide" translation="Attrazioni Classiche"/>
 		<entry key="Tag_Blueprint_Coaster" translation="Montagna russa"/>
-		<entry key="Tag_Blueprint_CoasterHybrid" translation="Hybrid"/>
+		<entry key="Tag_Blueprint_CoasterHybrid" translation="Ibride"/>
 		<entry key="Tag_Blueprint_CoasterSteel4D" translation="4D"/>
 		<entry key="Tag_Blueprint_CoasterSteelEuro" translation="Euro-Fighter"/>
 		<entry key="Tag_Blueprint_CoasterSteelFamily" translation="Famiglia"/>
 		<entry key="Tag_Blueprint_CoasterSteelGiga" translation="Giga"/>
 		<entry key="Tag_Blueprint_CoasterSteelHyper" translation="Hypercoaster"/>
-		<entry key="Tag_Blueprint_CoasterSteelInverted" translation="Inverted"/>
+		<entry key="Tag_Blueprint_CoasterSteelInverted" translation="Invertite"/>
 		<entry key="Tag_Blueprint_CoasterSteelMisc" translation="Altre - Acciaio"/>
 		<entry key="Tag_Blueprint_CoasterSteelPoweredLaunch" translation="Lancio a motore"/>
-		<entry key="Tag_Blueprint_CoasterSteelWing" translation="Ala"/>
+		<entry key="Tag_Blueprint_CoasterSteelWing" translation="Ad Ala"/>
 		<entry key="Tag_Blueprint_CoasterWooden" translation="Di Legno"/>
-		<entry key="Tag_Blueprint_GentleRide" translation="Attrazione Tranquilla"/>
-		<entry key="Tag_Blueprint_Interactive" translation="Attrazione Interattiva"/>
-		<entry key="Tag_Blueprint_Inverting" translation="Attrazione Capovolta"/>
-		<entry key="Tag_Blueprint_LargeRide" translation="Attrazione Grande"/>
-		<entry key="Tag_Blueprint_MediumRide" translation="Attrazione Media"/>
-		<entry key="Tag_Blueprint_ModernRide" translation="Attrazione Moderna"/>
+		<entry key="Tag_Blueprint_GentleRide" translation="Attrazioni Tranquille"/>
+		<entry key="Tag_Blueprint_Interactive" translation="Attrazioni Interattive"/>
+		<entry key="Tag_Blueprint_Inverting" translation="Attrazioni Capovolte"/>
+		<entry key="Tag_Blueprint_LargeRide" translation="Attrazioni Grandi"/>
+		<entry key="Tag_Blueprint_MediumRide" translation="Attrazioni Medie"/>
+		<entry key="Tag_Blueprint_ModernRide" translation="Attrazioni Moderne"/>
 		<entry key="Tag_Blueprint_Park" translation="Parco"/>
 		<entry key="Tag_Blueprint_ParkEntrance" translation="Entrate del parco"/>
 		<entry key="Tag_Blueprint_PoweredRide" translation="Attrazioni a motore"/>
-		<entry key="Tag_Blueprint_Ride" translation="Corse"/>
-		<entry key="Tag_Blueprint_RideSkin" translation="Ride Skin"/>
+		<entry key="Tag_Blueprint_Ride" translation="Attrazioni"/>
+		<entry key="Tag_Blueprint_RideSkin" translation="Skin Attrazioni"/>
 		<entry key="Tag_Blueprint_Scenery" translation="Scenografie"/>
 		<entry key="Tag_Blueprint_SceneryAnimatronic" translation="Animatronics"/>
 		<entry key="Tag_Blueprint_SceneryAudio" translation="Audio"/>
@@ -16787,7 +16787,7 @@
 		<entry key="Tag_Blueprint_SceneryScene" translation="Scene"/>
 		<entry key="Tag_Blueprint_ScenerySpecialEffect" translation="Effetti Speciali"/>
 		<entry key="Tag_Blueprint_SceneryStatue" translation="Statue"/>
-		<entry key="Tag_Blueprint_Shop" translation="Negozio"/>
+		<entry key="Tag_Blueprint_Shop" translation="Negozi"/>
 		<entry key="Tag_Blueprint_ShopATM" translation="Bancomat"/>
 		<entry key="Tag_Blueprint_ShopDrink" translation="Negozi di bibite"/>
 		<entry key="Tag_Blueprint_ShopFirstAid" translation="Primo Soccorso"/>
@@ -16796,19 +16796,19 @@
 		<entry key="Tag_Blueprint_ShopInfo" translation="Informazioni"/>
 		<entry key="Tag_Blueprint_ShopOther" translation="Altro"/>
 		<entry key="Tag_Blueprint_ShopToilet" translation="Bagni"/>
-		<entry key="Tag_Blueprint_SmallRide" translation="Attrazione Piccola"/>
-		<entry key="Tag_Blueprint_Spinning" translation="Attrazione Rotante"/>
-		<entry key="Tag_Blueprint_Swinging" translation="Attrazione Oscillante"/>
-		<entry key="Tag_Blueprint_ThrillRide" translation="Attrazione Eccitante"/>
-		<entry key="Tag_Blueprint_Tower" translation="Attrazione a Torre"/>
+		<entry key="Tag_Blueprint_SmallRide" translation="Attrazioni Piccole"/>
+		<entry key="Tag_Blueprint_Spinning" translation="Attrazioni Rotanti"/>
+		<entry key="Tag_Blueprint_Swinging" translation="Attrazioni Oscillanti"/>
+		<entry key="Tag_Blueprint_ThrillRide" translation="Attrazioni Eccitanti"/>
+		<entry key="Tag_Blueprint_Tower" translation="Attrazioni a Torre"/>
 		<entry key="Tag_Blueprint_TrackRide" translation="Circuiti di corse"/>
-		<entry key="Tag_Blueprint_Tracked" translation="Attrazione a percorso"/>
+		<entry key="Tag_Blueprint_Tracked" translation="Attrazioni a percorso"/>
 		<entry key="Tag_Blueprint_TransportRide" translation="Trasporti"/>
 		<entry key="Tag_Blueprint_WaterRide" translation="Corse d'acqua"/>
-		<entry key="Tag_Blueprint_Wheel" translation="Attrazione a Ruota"/>
+		<entry key="Tag_Blueprint_Wheel" translation="Attrazioni a Ruota"/>
 		<entry key="Tag_EditableText" translation="Testo modificabile"/>
-		<entry key="Tag_Triggerable" translation="Azionabile"/>
-		<entry key="Theme_FT_Fairytale" translation="Fatato"/>
+		<entry key="Tag_Triggerable" translation="Azionabili"/>
+		<entry key="Theme_FT_Fairytale" translation="Fiabesco"/>
 		<entry key="Theme_PR_Pirate" translation="Pirati"/>
 		<entry key="Theme_PlanetCoaster" translation="Planet Coaster"/>
 		<entry key="Theme_SF_Sci-Fi" translation="Sci-Fi"/>
@@ -16823,46 +16823,46 @@
 		<entry key="Terrain_Edit_BrushLock_Off" translation="Blocca"/>
 		<entry key="Terrain_Edit_BrushLock_Plane" translation="Blocca piano"/>
 		<entry key="Terrain_Edit_Deformation" translation="Scolpisci"/>
-		<entry key="Terrain_Edit_IconName_iconTerrain5" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrain6" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrain7" translation="Sand"/>
-		<entry key="Terrain_Edit_IconName_iconTerrain8" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine1" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine2" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine3" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine4" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine5" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine6" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine7" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainAlpine8" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous1" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous2" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous3" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous4" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous5" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous6" translation="Leaves"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous7" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous8" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert1" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert2" translation="Rock"/>
+		<entry key="Terrain_Edit_IconName_iconTerrain5" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrain6" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrain7" translation="Sabbia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrain8" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine1" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine2" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine3" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine4" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine5" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine6" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine7" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainAlpine8" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous1" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous2" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous3" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous4" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous5" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous6" translation="Foglie"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous7" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDeciduous8" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert1" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert2" translation="Roccia"/>
 		<entry key="Terrain_Edit_IconName_iconTerrainDesert3" translation="Sand"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert4" translation="Rocky Sand"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert5" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert6" translation="Mud"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert7" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainDesert8" translation="Sand"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrass" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland1" translation="Mud"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland2" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland3" translation="Dirt"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland4" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland5" translation="Rocky Mud"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland6" translation="Dry Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland7" translation="Grass"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainGrassland8" translation="Mud"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainRock" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainRockFlat" translation="Rock"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainSand" translation="Sand"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert4" translation="Sabbia Rocciosa"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert5" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert6" translation="Fango"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert7" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainDesert8" translation="Sabbia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrass" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland1" translation="Fango"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland2" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland3" translation="Sporco"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland4" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland5" translation="Fango Roccioso"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland6" translation="Prato Asciutto"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland7" translation="Prato"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainGrassland8" translation="Fango"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainRock" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainRockFlat" translation="Roccia"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainSand" translation="Sabbia"/>
 		<entry key="Terrain_Edit_Intensity" translation="Intensità"/>
 		<entry key="Terrain_Edit_Lakes" translation="Acqua"/>
 		<entry key="Terrain_Edit_PaintWhenDeforming" translation="Paint"/>
