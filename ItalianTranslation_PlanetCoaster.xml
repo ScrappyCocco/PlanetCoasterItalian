@@ -3413,10 +3413,10 @@
 		<entry key="FR_Collider_Desc" translation="Sfida la gravità su questa magnifica attrazione capovolgente a gondola.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Collider_Prefix" translation="Collider"/>
 		<entry key="FR_Sizzer" translation="Scizzer"/>
-		<entry key="FR_Sizzer_Desc" translation="Gira e ruota a velocità super veloci su questa attrazione preferita delle fiere!&#10;Attrazione Eccitante"/>
+		<entry key="FR_Sizzer_Desc" translation="Gira e ruota a velocità super veloci su questa attrazione preferita delle fiere!&#10;Attrazione Emozionante"/>
 		<entry key="FR_Sizzer_Prefix" translation="Scizzer"/>
 		<entry key="FR_TriStorm" translation="Tri-Storm"/>
-		<entry key="FR_TriStorm_Desc" translation="La classica divertente attrazione volante e rotante.&#10;Attrazione Eccitante"/>
+		<entry key="FR_TriStorm_Desc" translation="La classica divertente attrazione volante e rotante.&#10;Attrazione Emozionante"/>
 		<entry key="FR_TriStorm_Prefix" translation="Tri-Storm"/>
 		<entry key="Sequence_FR_BDerby_MainSequence" translation="Sbatti in giro"/>
 		<entry key="Sequence_FR_Collider_Loop_Ground" translation="Loop in Senso Orario a terra "/>
@@ -4000,7 +4000,7 @@
 		<entry key="Coaster_SHydra" translation="Steel Hydra"/>
 		<entry key="Coaster_SHydra_Desc" translation="Coaster sospeso in acciaio, dove le vetture sono appese al tracciato sovrastante e possono oscillare da lato a lato."/>
 		<entry key="Coaster_Trident" translation="Trident"/>
-		<entry key="Coaster_Trident_Desc" translation="Montagna russa shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
+		<entry key="Coaster_Trident_Desc" translation="Montagna Russa shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
 		<entry key="Coaster_Type_Bakasura" translation="Giant Inverted Boomerang"/>
 		<entry key="Coaster_Type_Gixxer" translation="Motorbike"/>
 		<entry key="Coaster_Type_GoKarts" translation="Go Karts"/>
@@ -4010,16 +4010,16 @@
 		<entry key="Powered_GoKarts_Desc" translation="I visitatori corrono uno contro l'altro sui go-karts."/>
 		<!--C2_FlatRides-->
 		<entry key="FR_ElixirM" translation="Elixir Machine"/>
-		<entry key="FR_ElixirM_Desc" translation="Ruota, oscilla e capovolgi in questa veloce ed emozionante attrazione.&#10;Attrazione Eccitante"/>
+		<entry key="FR_ElixirM_Desc" translation="Ruota, oscilla e capovolgi in questa veloce ed emozionante attrazione.&#10;Attrazione Emozionante"/>
 		<entry key="FR_ElixirM_Prefix" translation="Elixir Machine"/>
 		<entry key="FR_GiantW" translation="Big Wheel"/>
 		<entry key="FR_GiantW_Desc" translation="Questa classica Ruota Panoramica è la preferita delle famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_GiantW_Prefix" translation="Big Wheel"/>
 		<entry key="FR_PathosIII" translation="Pathos III"/>
-		<entry key="FR_PathosIII_Desc" translation="Ruota su tutti gli assi con questa popolare attrazione da Luna Park.&#10;Attrazione Eccitante"/>
+		<entry key="FR_PathosIII_Desc" translation="Ruota su tutti gli assi con questa popolare attrazione da Luna Park.&#10;Attrazione Emozionante"/>
 		<entry key="FR_PathosIII_Prefix" translation="Pathos III"/>
 		<entry key="FR_Zozo" translation="Zozo"/>
-		<entry key="FR_Zozo_Desc" translation="Librati in alto sopra la terra con questa attrazione unica.&#10;Attrazione Eccitante"/>
+		<entry key="FR_Zozo_Desc" translation="Librati in alto sopra la terra con questa attrazione unica.&#10;Attrazione Emozionante"/>
 		<entry key="FR_Zozo_Prefix" translation="Zozo"/>
 		<entry key="Sequence_FR_ElixirM_ReverseSlowSpin" translation="Rotazione invertita Lenta"/>
 		<entry key="Sequence_FR_ElixirM_ReverseSpin" translation="Rotazione invertita"/>
@@ -4385,7 +4385,7 @@
 		<entry key="BuildingPartName_PR_Pirate_Lean_01" translation="Pirata Appoggiato"/>
 		<entry key="BuildingPartName_PR_Pirate_Sit_01" translation="Pirata Seduto 1"/>
 		<entry key="BuildingPartName_PR_Pirate_Sit_02" translation="Pirata Seduto 2"/>
-		<entry key="BuildingPartName_PR_Sharkway" translation="Sharkway"/>
+		<entry key="BuildingPartName_PR_Sharkway" translation="Arcata a Squalo"/>
 		<entry key="BuildingPartName_PR_ShipWheel" translation="Timone Pirata"/>
 		<entry key="BuildingPartName_PR_Sign_01_Original" translation="Insegna Pirata Originale - Villaggio Pirata"/>
 		<entry key="BuildingPartName_PR_Sign_Wooden_Fleur" translation="Insegna Pirata Fiore di legno"/>
@@ -4421,10 +4421,10 @@
 		<entry key="TrackElementDesc_CableTowerMid" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerRevBot" translation="Tira i treni al contrario lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerRevMid" translation="Tira i treni al contrario lungo un pendio."/>
-		<entry key="TrackElementDesc_CableTowerRevStart" translation="Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo."/>
-		<entry key="TrackElementDesc_CableTowerRevTop" translation="Conclude una torre trainante a cavo invertita."/>
-		<entry key="TrackElementDesc_CableTowerStart" translation="Trascina i treni e conduce in una torre trainante a cavo."/>
-		<entry key="TrackElementDesc_CableTowerTop" translation="Conclude una torre trainante a cavo."/>
+		<entry key="TrackElementDesc_CableTowerRevStart" translation="Trascina i treni al contrario orizzontalmente e li immette in una torre di sollevamento a cavo."/>
+		<entry key="TrackElementDesc_CableTowerRevTop" translation="Conclude una torre di sollevamento a cavo invertita."/>
+		<entry key="TrackElementDesc_CableTowerStart" translation="Trascina i treni e conduce in una torre di sollevamento a cavo."/>
+		<entry key="TrackElementDesc_CableTowerTop" translation="Conclude una torre di sollevamento a cavo."/>
 		<entry key="TrackElementDesc_ChainHillBot" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_ChainHillMid" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_ChainHillStart" translation="Trascina i treni orizzontalmente e li immette in una salita trainante a catena."/>
@@ -4453,30 +4453,30 @@
 		<entry key="TrackElementName_CableHillRevStart" translation="Cavo Orizzontale trainante invertito"/>
 		<entry key="TrackElementName_CableHillRevTop" translation="Cima Salita trainante a cavo invertita"/>
 		<entry key="TrackElementName_CableHillWhole" translation="Coppia Salita trainante a cavo"/>
-		<entry key="TrackElementName_CableTowerBot" translation="Base Torre trainante a cavo"/>
-		<entry key="TrackElementName_CableTowerMid" translation="Sezione Mediana trainante a cavo"/>
-		<entry key="TrackElementName_CableTowerRevBot" translation="Base Torre trainante a cavo invertita"/>
-		<entry key="TrackElementName_CableTowerRevMid" translation="Sezione Mediana Torre trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerBot" translation="Base Torre di sollevamento a cavo"/>
+		<entry key="TrackElementName_CableTowerMid" translation="Sezione Mediana Torre di sollevamento a cavo"/>
+		<entry key="TrackElementName_CableTowerRevBot" translation="Base Torre di sollevamento a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerRevMid" translation="Sezione Mediana Torre di sollevamento a cavo invertita"/>
 		<entry key="TrackElementName_CableTowerRevStart" translation="Cavo Orizzontale trainante invertito"/>
-		<entry key="TrackElementName_CableTowerRevTop" translation="Cima Torre trainante a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerRevTop" translation="Cima Torre di sollevamento a cavo invertita"/>
 		<entry key="TrackElementName_CableTowerStart" translation="Cavo Orizzontale trainante"/>
-		<entry key="TrackElementName_CableTowerTop" translation="Cima Torre trainante a cavo"/>
+		<entry key="TrackElementName_CableTowerTop" translation="Cima Torre di sollevamento a cavo"/>
 		<entry key="TrackElementName_ChainHillBot" translation="Base Salita trainante a catena"/>
 		<entry key="TrackElementName_ChainHillMid" translation="Sezione Mediana trainante a catena"/>
 		<entry key="TrackElementName_ChainHillTop" translation="Cima Salita trainante a catena"/>
 		<entry key="TrackElementName_ChicaneEnd" translation="Sezione Finale Chicane"/>
-		<entry key="TrackElementName_ChicaneEndRailings" translation="Sezione Finale Parapetti Chicane"/>
+		<entry key="TrackElementName_ChicaneEndRailings" translation="Sezione Finale Chicane con guardrail"/>
 		<entry key="TrackElementName_ChicaneSection" translation="Chicanes"/>
-		<entry key="TrackElementName_ChicaneSectionRailings" translation="Parapetti Chicanes "/>
+		<entry key="TrackElementName_ChicaneSectionRailings" translation="Chicanes con guardrail "/>
 		<entry key="TrackElementName_ChicaneStart" translation="Sezione di Partenza Chicane"/>
-		<entry key="TrackElementName_ChicaneStartRailings" translation="Sezione di Partenza Parapetti Chicane"/>
+		<entry key="TrackElementName_ChicaneStartRailings" translation="Sezione di Partenza Chicane con guardrail"/>
 		<entry key="TrackElementName_ContractSection" translation="Partenza Tracciato Stretto"/>
-		<entry key="TrackElementName_ContractSectionRailings" translation="Inizio/Fine Parapetto Tracciato Stretto "/>
+		<entry key="TrackElementName_ContractSectionRailings" translation="Inizio/Fine Tracciato Stretto con guardrail"/>
 		<entry key="TrackElementName_ExpandSection" translation="Fine Tracciato Stretto"/>
-		<entry key="TrackElementName_ExpandSectionRailings" translation="Espandi Sezione Parapetto"/>
+		<entry key="TrackElementName_ExpandSectionRailings" translation="Espandi Sezione con guardrail"/>
 		<entry key="TrackElementName_NarrowTrack" translation="Stringi il Tracciato"/>
-		<entry key="TrackElementName_NarrowTrackRailings" translation="Stringi Binari del Tracciato"/>
-		<entry key="TrackElementName_NormalTrackRailings" translation="Binari"/>
+		<entry key="TrackElementName_NarrowTrackRailings" translation="Stringi Tracciato con guardrail"/>
+		<entry key="TrackElementName_NormalTrackRailings" translation="Guardrail"/>
 		<entry key="TrackElementName_TK_SP_ShallowCobraRollLeft" translation="Cobra Roll Sinistro Basso"/>
 		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
 		<entry key="TrackElementName_TK_SP_SteepCobraRollLeft" translation="Cobra Roll Sinistro Ripido"/>
@@ -4489,31 +4489,31 @@
 		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una salita trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a cavo invertita&lt;/font&gt;&#10;Conclude una salita trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Coppia Salita trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre trainante a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Sezione Mediana trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre trainante a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Sezione Mediana Torre trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Sezione Mediana di sollevamento a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Sezione Mediana Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre trainante a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre trainante a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Base Salita trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Sezione Mediana trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Catena Orizzontale trainante &lt;/font&gt;&#10;Trascina i treni orizzontalmente e li immette in una salita trainante a catena.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a catena&lt;/font&gt;&#10;Conclude una salita trainante a catena.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChicaneEnd" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Finale Chicane."/>
-		<entry key="TrackElementTool_ChicaneEndRailings" translation="&lt;font color='accent'&gt;Parapetti Chicanes &lt;/font&gt;&#10;Sezione Finale Parapetti Chicane."/>
+		<entry key="TrackElementTool_ChicaneEndRailings" translation="&lt;font color='accent'&gt;Chicanes con guardrail &lt;/font&gt;&#10;Sezione Finale Chicane.con guardrail"/>
 		<entry key="TrackElementTool_ChicaneSection" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Chicane."/>
-		<entry key="TrackElementTool_ChicaneSectionRailings" translation="&lt;font color='accent'&gt;Parapetti Chicanes &lt;/font&gt;&#10;Sezione Parapetti Chicane."/>
+		<entry key="TrackElementTool_ChicaneSectionRailings" translation="&lt;font color='accent'&gt;Chicanes con guardrail&lt;/font&gt;&#10;Sezione Chicane.con guardrail"/>
 		<entry key="TrackElementTool_ChicaneStart" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione di Partenza Chicane."/>
-		<entry key="TrackElementTool_ChicaneStartRailings" translation="&lt;font color='accent'&gt;Parapetti Chicanes &lt;/font&gt;&#10;Sezione di Partenza Parapetti Chicane."/>
+		<entry key="TrackElementTool_ChicaneStartRailings" translation="&lt;font color='accent'&gt;Chicanes con guardrail&lt;/font&gt;&#10;Sezione di Partenza Chicane con guardrail."/>
 		<entry key="TrackElementTool_ContractSection" translation="&lt;font color='accent'&gt;Inizio Tracciato Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
-		<entry key="TrackElementTool_ContractSectionRailings" translation="&lt;font color='accent'&gt;Inizio/Fine Parapetto Tracciato Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
+		<entry key="TrackElementTool_ContractSectionRailings" translation="&lt;font color='accent'&gt;Inizio/Fine Tracciato con guardrail Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
 		<entry key="TrackElementTool_ExpandSection" translation="&lt;font color='accent'&gt;Fine Tracciato Stretto&lt;/font&gt;&#10;Allarga il tracciato."/>
 		<entry key="TrackElementTool_ExpandSectionRailings" translation="&lt;font color='accent'&gt;Fine Sezione Stretta&lt;/font&gt;&#10;Allarga il tracciato."/>
 		<entry key="TrackElementTool_NarrowTrack" translation="&lt;font color='accent'&gt;Stringi il Tracciato&lt;/font&gt;&#10;Stringe la Sezione del Tracciato."/>
-		<entry key="TrackElementTool_NarrowTrackRailings" translation="&lt;font color='accent'&gt;Stringi Parapetti del Tracciato&lt;/font&gt;&#10;Stringe la Sezione Parapetti del Tracciato."/>
-		<entry key="TrackElementTool_NormalTrackRailings" translation="&lt;font color='accent'&gt;Binari&lt;/font&gt;&#10;Percorso normale con Parapetti."/>
+		<entry key="TrackElementTool_NarrowTrackRailings" translation="&lt;font color='accent'&gt;Stringi Tracciato con guardrail&lt;/font&gt;&#10;Stringe la Sezione del Tracciato.con guardrail"/>
+		<entry key="TrackElementTool_NormalTrackRailings" translation="&lt;font color='accent'&gt;Guardrail&lt;/font&gt;&#10;Percorso normale con guardrail."/>
 		<entry key="TrackElementTool_TK_SP_ShallowCobraRollLeft" translation="Cobra Roll Sinistro Basso"/>
 		<entry key="TrackElementTool_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
 		<entry key="TrackElementTool_TK_SP_SteepCobraRollLeft" translation="Cobra Roll Sinistro Ripido"/>
@@ -4625,20 +4625,20 @@
 		<entry key="FrontEndMenu_SetName_ELLY" translation="Il raduno di Miss Elly"/>
 		<!--C3_Coasters-->
 		<entry key="Coaster_Bolt" translation="Bolt"/>
-		<entry key="Coaster_Bolt_Desc" translation="Montagna russa Shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
+		<entry key="Coaster_Bolt_Desc" translation="Montagna Russa Shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
 		<entry key="Coaster_Degen" translation="Degen"/>
 		<entry key="Coaster_Degen_Desc" translation="Progettato specialmente per le inversioni."/>
 		<entry key="Coaster_Gnarler" translation="Gnarler"/>
-		<entry key="Coaster_Gnarler_Desc" translation="Una montagna russa tradizionale fatta principalmente in legno, il cui risultato è una eccitante, aspra e selvaggia attrazione. Questa variante utilizza una vettura più moderna del coaster in legno 'The Monster'."/>
+		<entry key="Coaster_Gnarler_Desc" translation="Una Montagna Russa tradizionale fatta principalmente in legno, il cui risultato è una eccitante, aspra e selvaggia attrazione. Questa variante utilizza una vettura più moderna del coaster in legno 'The Monster'."/>
 		<entry key="Coaster_PowerUp" translation="Power Up"/>
-		<entry key="Coaster_PowerUp_Desc" translation="Una montagna russa dove il treno è trascinato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
+		<entry key="Coaster_PowerUp_Desc" translation="Una Montagna Russa dove il treno è trascinato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
 		<entry key="Coaster_Type_Bolt" translation="Boomerang"/>
 		<entry key="Coaster_Type_Degen" translation="Looping"/>
 		<entry key="Coaster_Type_Gnarler" translation="Wooden"/>
 		<entry key="Coaster_Type_PowerUp" translation="Star Loop"/>
 		<entry key="Coaster_Type_ViperOne" translation="Impulsion"/>
 		<entry key="Coaster_ViperOne" translation="Viper One"/>
-		<entry key="Coaster_ViperOne_Desc" translation="Una montagna russa invertita e lanciata che passa avanti e indietro attraverso la stazione più volte, prendendo velocità ad ogni passaggio."/>
+		<entry key="Coaster_ViperOne_Desc" translation="Una Montagna Russa invertita e lanciata che passa avanti e indietro attraverso la stazione più volte, prendendo velocità ad ogni passaggio."/>
 		<!--C3_Facilities-->
 		<entry key="ShopItem_Hat_JU_Liberty" translation="Cappello Statua della Libertà"/>
 		<entry key="ShopItem_Hat_JU_UncleSam" translation="Cappello di Zio Sam"/>
@@ -4647,7 +4647,7 @@
 		<entry key="FR_Blackout_Desc" translation="Addentrati nello spazio profondo a bordo di questa astronave dondolante.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Blackout_Prefix" translation="Blackout"/>
 		<entry key="FR_DragonHeart" translation="Iron Claw"/>
-		<entry key="FR_DragonHeart_Desc" translation="Questo pendolo eccitante ti terrà attaccato.&#10;Attrazione Eccitante"/>
+		<entry key="FR_DragonHeart_Desc" translation="Questo pendolo eccitante ti terrà attaccato.&#10;Attrazione Emozionante"/>
 		<entry key="FR_DragonHeart_Prefix" translation="Iron Claw"/>
 		<entry key="FR_SkyWatcher" translation="Sky Watcher"/>
 		<entry key="FR_SkyWatcher_Desc" translation="Arrampicati in alto! Guarda il mondo!&#10;Attrazione Tranquilla"/>
@@ -4867,12 +4867,12 @@
 		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fuochi d'Artificio"/>
 		<entry key="BuildingPartCategory_Scenery_Sequencers" translation="Console Effetti Speciali"/>
 		<!--C3_TrackElements-->
-		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Left Steep Description"/>
-		<entry key="TrackElementDesc_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Right Steep Description"/>
-		<entry key="TrackElementName_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Left Steep"/>
-		<entry key="TrackElementName_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Right Steep"/>
-		<entry key="TrackElementTool_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Left Steep"/>
-		<entry key="TrackElementTool_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Right Steep"/>
+		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeftSteep" translation="Descrizione Snake Dive Sinistro Ripido"/>
+		<entry key="TrackElementDesc_TK_SP_SnakeDiveRightSteep" translation="Descrizione Snake Dive Destro Ripido"/>
+		<entry key="TrackElementName_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Sinistro Ripido"/>
+		<entry key="TrackElementName_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Destro Ripido"/>
+		<entry key="TrackElementTool_TK_SP_SnakeDiveLeftSteep" translation="Snake Dive Sinistro Ripido"/>
+		<entry key="TrackElementTool_TK_SP_SnakeDiveRightSteep" translation="Snake Dive Destro Ripido"/>
 		<!--C3_Trains-->
 		<entry key="Train_Bolt" translation="Bolt"/>
 		<entry key="Train_Degen" translation="Degen"/>
@@ -4985,7 +4985,7 @@
 		<entry key="CoasterEditor_AttachedGizmoCamera" translation="Dinamica"/>
 		<entry key="CoasterEditor_AttachedRotateGizmoCamera" translation="Dinamica e Ruota"/>
 		<entry key="CoasterEditor_Autocomplete" translation="Autocompleta"/>
-		<entry key="CoasterEditor_AutocompleteCalculating" translation="Completamento in calcolo..."/>
+		<entry key="CoasterEditor_AutocompleteCalculating" translation="Calcolo Completamento..."/>
 		<entry key="CoasterEditor_AutocompleteCancel" translation="Annulla"/>
 		<entry key="CoasterEditor_AutocompleteCannotBeAttempted" translation="Autocompletamento non possibile tra gli attuali segmenti finali"/>
 		<entry key="CoasterEditor_AutocompleteDisabled" translation="Autocompletamento non disponibile per questa attrazione"/>
@@ -5007,7 +5007,7 @@
 		<entry key="CoasterEditor_SmoothBanking" translation="Appiattisci Curva"/>
 		<entry key="CoasterEditor_Speed" translation="Velocità"/>
 		<entry key="CoasterEditor_Station" translation="Stazione"/>
-		<entry key="CoasterEditor_StopTest" translation="Stop Test"/>
+		<entry key="CoasterEditor_StopTest" translation="Ferma Test"/>
 		<entry key="CoasterEditor_SupportColor" translation="Colore Sostegni"/>
 		<entry key="CoasterEditor_Test" translation="Test"/>
 		<entry key="CoasterEditor_Tools" translation="Strumenti"/>
@@ -5023,142 +5023,142 @@
 		<entry key="CoasterEditor_Utilities" translation="Varie"/>
 		<!--Coasters-->
 		<entry key="Coaster_Aethon" translation="Aethon"/>
-		<entry key="Coaster_Aethon_Desc" translation="Vertical drop coaster using wide, high capacity floorless cars for an extra feeling of rider vulnerability."/>
+		<entry key="Coaster_Aethon_Desc" translation="Montagna Russa a caduta verticale, vetture senza fondo ad alta capacità per una sensazione extra di vulnerabiiltà ai passeggeri."/>
 		<entry key="Coaster_Anubis" translation="Anubis"/>
-		<entry key="Coaster_Anubis_Desc" translation="Hypercoaster that's all about airtime and high vertical G forces."/>
+		<entry key="Coaster_Anubis_Desc" translation="Hypercoaster dedicato tutto al tempo in volo e alle alte forze di gravità verticali."/>
 		<entry key="Coaster_BFalcon" translation="Black Falcon"/>
-		<entry key="Coaster_BFalcon_Desc" translation="Chain-lift powered coaster that positions riders either side of the track, with nothing above or below them, giving an unparalleled sense of freedom."/>
+		<entry key="Coaster_BFalcon_Desc" translation="Montagna Russa spinta a catena che posiziona i passeggeri ad entrambi i lati della pista, senza niente al di sopra o sotto di essi, dando un senso senza precedenti di libertà.."/>
 		<entry key="Coaster_BLisk" translation="Basilisk"/>
-		<entry key="Coaster_BLisk_Desc" translation="Single Rail coaster track that can invert."/>
+		<entry key="Coaster_BLisk_Desc" translation="Montagna Russa a binario singolo che può invertirsi."/>
 		<entry key="Coaster_Barghest" translation="Barghest"/>
-		<entry key="Coaster_Barghest_Desc" translation="Highly versatile Euro-Fighter Coaster featuring an un-paralleled drop angle of 121 degrees, along with chain lift and powered launches."/>
+		<entry key="Coaster_Barghest_Desc" translation="Montagna Russa Euro-Fighter ad alta versatilità che ha come protagonista un angolo di caduta senza precedenti di 121 gradi, insieme a sollevamenti a catena e lanci a motore."/>
 		<entry key="Coaster_Boa" translation="Boa"/>
-		<entry key="Coaster_Boa_Desc" translation="Inverted Coaster that lends itself to twisting, snaking track designs."/>
+		<entry key="Coaster_Boa_Desc" translation="Montagna Russa invertita che si presta a torsioni e serpentine lungo il tracciato."/>
 		<entry key="Coaster_CanyonRun" translation="Canyon Runner"/>
-		<entry key="Coaster_CanyonRun_Desc" translation="Mine Train themed coaster, with a locomotive styled front car."/>
+		<entry key="Coaster_CanyonRun_Desc" translation="Montagna Russa a tema Miniera, con una vettura di testa a forma di locomotiva."/>
 		<entry key="Coaster_CloudR" translation="Cloud Runner"/>
-		<entry key="Coaster_CloudR_Desc" translation="LSM powered coaster that positions riders either side of the track, with nothing above or below them, giving an unparalleled sense of freedom."/>
+		<entry key="Coaster_CloudR_Desc" translation="Montagna Russa alimentata da LSM che posiziona i passeggeri ad entrambi i lati della pista, senza niente al di sopra o sotto di essi, dando un senso senza precedenti di libertà."/>
 		<entry key="Coaster_Dragon" translation="Dragon"/>
-		<entry key="Coaster_Dragon_Desc" translation="A coaster with dragon styled cars to thrill both adults and children."/>
+		<entry key="Coaster_Dragon_Desc" translation="Una Montagna Russa con vetture a forma di drago per emozionare sia gli adulti che i bambini."/>
 		<entry key="Coaster_Enigma" translation="Enigma"/>
-		<entry key="Coaster_Enigma_Desc" translation="Secures riders in a standing position as they travel along the track."/>
+		<entry key="Coaster_Enigma_Desc" translation="Assicura i passeggeri in posizione in piedi mentre percorrono la pista."/>
 		<entry key="Coaster_Equalizer" translation="Equalizer"/>
-		<entry key="Coaster_Equalizer_Desc" translation="Hypercoaster with 80's styled trains."/>
+		<entry key="Coaster_Equalizer_Desc" translation="Hypercoaster con treni in stile anni '80."/>
 		<entry key="Coaster_Fury" translation="Iron Fury"/>
-		<entry key="Coaster_Fury_Desc" translation="Wooden coaster with a steel plate added to the upper track layers, allowing it to invert."/>
+		<entry key="Coaster_Fury_Desc" translation="Montagna Russa in legno con con una piastra in acciaio aggiunta agli strati superiori della pista, permettendole di invertire."/>
 		<entry key="Coaster_GASM" translation="The American Arrow"/>
-		<entry key="Coaster_GASM_Desc" translation="Specially designed for inversions."/>
+		<entry key="Coaster_GASM_Desc" translation="Specialmente progettato per le inversioni."/>
 		<entry key="Coaster_Invincible" translation="Invincible"/>
-		<entry key="Coaster_Invincible_Desc" translation="Giga coaster that uses a cable lift system."/>
+		<entry key="Coaster_Invincible_Desc" translation="Giga coaster che utilizza un sistema di sollevamento a cavo."/>
 		<entry key="Coaster_LTurns" translation="Loony Turns"/>
-		<entry key="Coaster_LTurns_Desc" translation="These coasters feature abnormal banking, past-vertical drops and tight corners."/>
+		<entry key="Coaster_LTurns_Desc" translation="Queste montagne russe hanno come protagoniste virate anormali, cadute quasi verticali e angoli stretti."/>
 		<entry key="Coaster_MUC" translation="Malice Unchained"/>
-		<entry key="Coaster_MUC_Desc" translation="Steel track and wooden coaster supports combine to create a hybrid coaster that can invert, whilst retaining the look and characteristics of a wooden coaster."/>
+		<entry key="Coaster_MUC_Desc" translation="Pista d'acciaio e Montagna Russa di legno combinate per creare un coaster ibrido che può invertirsi, pur mantenendo l'aspetto e le caratteristiche di un coaster in legno."/>
 		<entry key="Coaster_MtSplash" translation="Chopper's Creek"/>
-		<entry key="Coaster_MtSplash_Desc" translation="Log Flume water ride, which can be used to build a gentle river ride or a thrill ride with big drops."/>
+		<entry key="Coaster_MtSplash_Desc" translation="Attrazione di tronchi nell'acqua, che può essere usata per costruire una tranquilla attrazione nel fiume o un'emozionante attrazione con grandi discese."/>
 		<entry key="Coaster_Pioneer" translation="Pioneer"/>
-		<entry key="Coaster_Pioneer_Desc" translation="Riders sit in carriages that are suspended out to the side of the track and can freely spin longitudinally."/>
+		<entry key="Coaster_Pioneer_Desc" translation="I passeggeri siedono in carrozze che sono sospese sul lato della pista e possono liberamente ruotare longitudinalmente."/>
 		<entry key="Coaster_Rage" translation="Rage"/>
-		<entry key="Coaster_Rage_Desc" translation="Capable of dizzying heights and drops."/>
+		<entry key="Coaster_Rage_Desc" translation="Capace di vertiginose salite e discese ."/>
 		<entry key="Coaster_Rival" translation="Rival"/>
-		<entry key="Coaster_Rival_Desc" translation="Inverted Coaster where riders are secured below the track."/>
+		<entry key="Coaster_Rival_Desc" translation="Montagna Russa invertita dove i passeggeri sono assicurati al di sotto della pista."/>
 		<entry key="Coaster_SRay" translation="Stingray"/>
-		<entry key="Coaster_SRay_Desc" translation="Restrains riders in a suspended, head first prone position, giving them the sensation of flying along the track."/>
+		<entry key="Coaster_SRay_Desc" translation="Costringe i passeggeri in una posizione prona, con la testa in avanti, dando loro la sensazione di volare lungo la pista."/>
 		<entry key="Coaster_Sp500" translation="Sprint 500"/>
-		<entry key="Coaster_Sp500_Desc" translation="Accelerates faster than a racing car thanks to a hydraulic launch system."/>
+		<entry key="Coaster_Sp500_Desc" translation="Accelera più velocemente di un'auto da corsa grazie ad un sistema di lancio idraulico."/>
 		<entry key="Coaster_Spiral" translation="Spiral"/>
-		<entry key="Coaster_Spiral_Desc" translation="Features cars that can freely spin on a vertical axis."/>
+		<entry key="Coaster_Spiral_Desc" translation="Ha come protagonista auto che possono ruotare liberamente su un asse verticale."/>
 		<entry key="Coaster_TestPilot" translation="Test Pilot"/>
-		<entry key="Coaster_TestPilot_Desc" translation="4th dimension coaster where the cabins can be given set rotation angles."/>
+		<entry key="Coaster_TestPilot_Desc" translation="Montagna Russa a 4 dimensioni in cui le cabine possono essere dotate di angoli di rotazione impostati."/>
 		<entry key="Coaster_Tiamat" translation="Tiamat"/>
-		<entry key="Coaster_Tiamat_Desc" translation="Coaster where the outer seats are positioned over the edge of the track."/>
+		<entry key="Coaster_Tiamat_Desc" translation="Montagna Russa dove i sedili esterni sono posizionati oltre il bordo della pista."/>
 		<entry key="Coaster_Torque" translation="Torque"/>
-		<entry key="Coaster_Torque_Desc" translation="Launched coaster which includes a loop with integrated top hat."/>
-		<entry key="Coaster_Type_Basilisk" translation="Single Rail"/>
-		<entry key="Coaster_Type_BlackFalcon" translation="Wing"/>
-		<entry key="Coaster_Type_Connie" translation="Steam Train Railroad"/>
-		<entry key="Coaster_Type_CustomLooping" translation="Custom Looping"/>
-		<entry key="Coaster_Type_Dive" translation="Dive"/>
+		<entry key="Coaster_Torque_Desc" translation="Montagna Russa lanciata che include un giro della morte con parabola integrata."/>
+		<entry key="Coaster_Type_Basilisk" translation="Singolo Binario"/>
+		<entry key="Coaster_Type_BlackFalcon" translation="Alata"/>
+		<entry key="Coaster_Type_Connie" translation="Ferrovia con treno a vapore"/>
+		<entry key="Coaster_Type_CustomLooping" translation="Looping Personalizzato"/>
+		<entry key="Coaster_Type_Dive" translation="Picchiata"/>
 		<entry key="Coaster_Type_ElLoco" translation="El Loco"/>
-		<entry key="Coaster_Type_Floorless" translation="Floorless"/>
-		<entry key="Coaster_Type_Flying" translation="Flying"/>
-		<entry key="Coaster_Type_FourthDimension" translation="Fourth Dimension"/>
-		<entry key="Coaster_Type_FreeFly" translation="Free Swing"/>
+		<entry key="Coaster_Type_Floorless" translation="Senza fondo"/>
+		<entry key="Coaster_Type_Flying" translation="Volante"/>
+		<entry key="Coaster_Type_FourthDimension" translation="Quarta Dimensione"/>
+		<entry key="Coaster_Type_FreeFly" translation="Oscillazione libera"/>
 		<entry key="Coaster_Type_GigaInvincible" translation="Giga"/>
 		<entry key="Coaster_Type_GigaRage" translation="Giga"/>
 		<entry key="Coaster_Type_HypercoasterAnubis" translation="Hypercoaster"/>
 		<entry key="Coaster_Type_HypercoasterEqualizer" translation="Hypercoaster"/>
-		<entry key="Coaster_Type_InvertedBoa" translation="Inverted"/>
-		<entry key="Coaster_Type_InvertedRival" translation="Inverted"/>
-		<entry key="Coaster_Type_IronHorse" translation="Steam Train Railroad"/>
+		<entry key="Coaster_Type_InvertedBoa" translation="Invertito"/>
+		<entry key="Coaster_Type_InvertedRival" translation="Invertito"/>
+		<entry key="Coaster_Type_IronHorse" translation="Ferrovia con treno a vapore"/>
 		<entry key="Coaster_Type_Junior" translation="Junior"/>
 		<entry key="Coaster_Type_JuniorDragon" translation="Junior"/>
-		<entry key="Coaster_Type_LaunchedSprint500" translation="Launched"/>
-		<entry key="Coaster_Type_LaunchedTorque" translation="Launched"/>
-		<entry key="Coaster_Type_LogFlume" translation="Log Flume"/>
-		<entry key="Coaster_Type_LunaAutos" translation="Powered Track Ride"/>
-		<entry key="Coaster_Type_MgcKatz" translation="Powered Track Ride"/>
-		<entry key="Coaster_Type_MineTrain" translation="Mine Train"/>
+		<entry key="Coaster_Type_LaunchedSprint500" translation="Lanciato"/>
+		<entry key="Coaster_Type_LaunchedTorque" translation="Lanciato"/>
+		<entry key="Coaster_Type_LogFlume" translation="Tronchi nell'acqua"/>
+		<entry key="Coaster_Type_LunaAutos" translation="Attrazione a motore"/>
+		<entry key="Coaster_Type_MgcKatz" translation="Attrazione a motore"/>
+		<entry key="Coaster_Type_MineTrain" translation="Treno nella miniera"/>
 		<entry key="Coaster_Type_OverDive" translation="Euro-Fighter"/>
-		<entry key="Coaster_Type_PrototypeWing" translation="Prototype Wing"/>
-		<entry key="Coaster_Type_RollingRiver" translation="River Rapids"/>
-		<entry key="Coaster_Type_SilvStar" translation="Monorail"/>
-		<entry key="Coaster_Type_Spinning" translation="Spinning"/>
-		<entry key="Coaster_Type_StandupCoaster" translation="Standup"/>
-		<entry key="Coaster_Type_WingCoaster" translation="Wing"/>
-		<entry key="Coaster_Type_WoodenSteelHybridMaliceUnchained" translation="Hybrid - Steel Track"/>
-		<entry key="Coaster_Type_WoodenSwitchbackReversing" translation="Wooden"/>
-		<entry key="Coaster_Type_WoodenTopperTrack" translation="Hybrid - Steel Topped"/>
+		<entry key="Coaster_Type_PrototypeWing" translation="Prototipo Alata"/>
+		<entry key="Coaster_Type_RollingRiver" translation="Rapide nel fiume"/>
+		<entry key="Coaster_Type_SilvStar" translation="Monorotaia"/>
+		<entry key="Coaster_Type_Spinning" translation="Rotante"/>
+		<entry key="Coaster_Type_StandupCoaster" translation="In Piedi"/>
+		<entry key="Coaster_Type_WingCoaster" translation="Alata"/>
+		<entry key="Coaster_Type_WoodenSteelHybridMaliceUnchained" translation="Ibrido -  Pista in Acciaio"/>
+		<entry key="Coaster_Type_WoodenSwitchbackReversing" translation="Di Legno"/>
+		<entry key="Coaster_Type_WoodenTopperTrack" translation="Ibrido - Acciaio inossidabile"/>
 		<entry key="Coaster_WWolf" translation="Werewolf"/>
-		<entry key="Coaster_WWolf_Desc" translation="Restrains riders in a seated position, with no floor so their legs dangle freely above the track."/>
+		<entry key="Coaster_WWolf_Desc" translation="Costringe i passeggeri in posizione seduta, ma senza fondo in modo che le gambe penzolino liberamente sopra la pista."/>
 		<entry key="Coaster_Wend" translation="Wendigo"/>
-		<entry key="Coaster_Wend_Desc" translation="A Coaster to thrill both adults and children."/>
+		<entry key="Coaster_Wend_Desc" translation="Una Montagna Russa per emozionare sia adulti che bambini."/>
 		<entry key="Coaster_WoodenSwitchbackReversing" translation="The Monster"/>
-		<entry key="Coaster_WoodenSwitchbackReversing_Desc" translation="A traditional rollercoaster type that's primarily made of wood, which results in an exciting, rough and wild ride."/>
+		<entry key="Coaster_WoodenSwitchbackReversing_Desc" translation="Una Montagna Russa di tipo tradizionale prevalentemente in legno, che si traduce in una corsa entusiasmante, ruvida e selvaggia."/>
 		<entry key="Powered_LunaAutos" translation="Luna Autos"/>
-		<entry key="Powered_LunaAutos_Desc" translation="Gas powered cars travel along a track at a fixed speed."/>
+		<entry key="Powered_LunaAutos_Desc" translation="Automobili a gas che corrono lungo una pista ad una velocità fissa."/>
 		<entry key="Powered_MgcKatz" translation="Magic Katz"/>
-		<entry key="Powered_MgcKatz_Desc" translation="Electrically powered cars travel along a track at a fixed speed."/>
-		<entry key="Station_Type_station_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_boomerang_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_boomerang_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_boomerang_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_boomerang_leftleft" translation="Station with left entry and left exit"/>
-		<entry key="Station_Type_station_leftleft" translation="Station with left entry and left exit"/>
-		<entry key="Station_Type_station_log_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_log_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_log_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_log_leftleft" translation="Station with left entry and left exit"/>
-		<entry key="TrackFeature_CableAndChainLift" translation="- Cable and Chain Lifts"/>
-		<entry key="TrackFeature_CableLift" translation="- Cable Lift"/>
-		<entry key="TrackFeature_CanInvert" translation="- Can Invert"/>
-		<entry key="TrackFeature_CanPartiallyInvert" translation="- Can Partially Invert"/>
-		<entry key="TrackFeature_CannotInvert" translation="- Cannot Invert"/>
-		<entry key="TrackFeature_ChainLift" translation="- Chain Lift"/>
-		<entry key="TrackFeature_CompressedAirLaunch" translation="- Compressed Air Launch"/>
-		<entry key="TrackFeature_ConveyerBeltLift" translation="- Conveyer Belt Lift"/>
-		<entry key="TrackFeature_ForAdultsAndTeensOnly" translation="- For Adults and Teens Only"/>
-		<entry key="TrackFeature_ForEveryone" translation="- For All Ages"/>
-		<entry key="TrackFeature_FrictionWheelLift" translation="- Friction Wheel Lift"/>
-		<entry key="TrackFeature_HydraulicLaunch" translation="- Hydraulic Launch"/>
-		<entry key="TrackFeature_LiftWithCatchCar" translation="- Lift With Catch Car"/>
-		<entry key="TrackFeature_LinearInductionMotor" translation="- Linear Induction Motor"/>
-		<entry key="TrackFeature_LinearSyncronousMotor" translation="- Linear Syncronous Motor"/>
-		<entry key="TrackFeature_PoweredCar" translation="- Powered Car"/>
-		<entry key="TrackFeature_PoweredTrain" translation="- Powered Train"/>
-		<entry key="TrackFeature_TrackInvertsRidersDont" translation="- Track Inverts, Riders Don't"/>
-		<entry key="TrackFeature_VerticalChainLift" translation="- Vertical Chain Lift"/>
-		<entry key="TrackFeature_VerticalChainLiftAndLinearSyncronousMotor" translation="- Vertical Chain Lift and LSM"/>
+		<entry key="Powered_MgcKatz_Desc" translation="Automobili elettriche che corrono lungo una pista ad una velocità fissa."/>
+		<entry key="Station_Type_station_LeftRight" translation="Stazione con ingresso a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
+		<entry key="Station_Type_station_boomerang_LeftRight" translation="Stazione con ingresso a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_boomerang_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_boomerang_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
+		<entry key="Station_Type_station_boomerang_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
+		<entry key="Station_Type_station_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
+		<entry key="Station_Type_station_log_LeftRight" translation="Stazione con ingresso a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_log_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_log_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
+		<entry key="Station_Type_station_log_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
+		<entry key="TrackFeature_CableAndChainLift" translation="- Sollevamento a cavo e a catena"/>
+		<entry key="TrackFeature_CableLift" translation="- Sollevamento a cavo"/>
+		<entry key="TrackFeature_CanInvert" translation="-  Può invertirsi"/>
+		<entry key="TrackFeature_CanPartiallyInvert" translation="- Può parzialmente invertirsi"/>
+		<entry key="TrackFeature_CannotInvert" translation="- Non può invertirsi"/>
+		<entry key="TrackFeature_ChainLift" translation="- Sollevamento a catena"/>
+		<entry key="TrackFeature_CompressedAirLaunch" translation="- Lancio ad Aria Compressa"/>
+		<entry key="TrackFeature_ConveyerBeltLift" translation="- Elevatore cinghia trasportatore"/>
+		<entry key="TrackFeature_ForAdultsAndTeensOnly" translation="- Solo per adulti e adolescenti"/>
+		<entry key="TrackFeature_ForEveryone" translation="- Per tutte le età"/>
+		<entry key="TrackFeature_FrictionWheelLift" translation="- Sollevamento a ruota di attrito"/>
+		<entry key="TrackFeature_HydraulicLaunch" translation="- Lancio Idraulico"/>
+		<entry key="TrackFeature_LiftWithCatchCar" translation="- Sollevamento con catch car"/>
+		<entry key="TrackFeature_LinearInductionMotor" translation="- Motore a induzione lineare"/>
+		<entry key="TrackFeature_LinearSyncronousMotor" translation="- Motore sincrono lineare"/>
+		<entry key="TrackFeature_PoweredCar" translation="- Auto a motore"/>
+		<entry key="TrackFeature_PoweredTrain" translation="- Treno a motore"/>
+		<entry key="TrackFeature_TrackInvertsRidersDont" translation="- La pista si inverte, i passeggeri no."/>
+		<entry key="TrackFeature_VerticalChainLift" translation="- Sollevamento a catena verticale"/>
+		<entry key="TrackFeature_VerticalChainLiftAndLinearSyncronousMotor" translation="- Sollevamento a catena verticale e LSM"/>
 		<entry key="Transport_Connie" translation="Connie Express"/>
-		<entry key="Transport_Connie_Desc" translation="Classic Steam Train Railroad for scenic guest excursions or transportation around your park."/>
+		<entry key="Transport_Connie_Desc" translation="Classica Ferrovia con treno a vapore per escursioni sceniche con i visitatori o trasporto intorno al parco."/>
 		<entry key="Transport_IronHorse" translation="Iron Horse"/>
-		<entry key="Transport_IronHorse_Desc" translation="Classic Steam Train Railroad for scenic guest excursions or transportation around your park."/>
+		<entry key="Transport_IronHorse_Desc" translation="Classica Ferrovia con treno a vapore per escursioni sceniche con i visitatori o trasporto intorno al parco."/>
 		<entry key="Transport_SilvStar" translation="Light Line"/>
-		<entry key="Transport_SilvStar_Desc" translation="Fast and efficient monorail for scenic guest excursions or transportation around your park."/>
+		<entry key="Transport_SilvStar_Desc" translation="Veloce ed efficente monorotaia per escursioni sceniche con i visitatori o trasporto intorno al parco."/>
 		<entry key="Water_RollingRiver" translation="Rolling River"/>
-		<entry key="Water_RollingRiver_Desc" translation="River Rapids water ride, where riders sit in circular boats and travel along fast flowing sections of water."/>
+		<entry key="Water_RollingRiver_Desc" translation="Attrazione acquatica sulle rapide del fiume, dove i passeggeri siedono in gommoni circolari e viaggiano lungo sezioni d'acqua a scorrimento veloce."/>
 		<!--CommunityTranslation-->
 		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
 		<!--Facilities-->
@@ -5718,7 +5718,7 @@
 		<entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Send a group out into the parks of the Planet Coaster universe!"/>
 		<entry key="FrontEndMenu_GroupEditor_InfoTitle" translation="Create your VIP Group Ticket!"/>
 		<entry key="FrontEndMenu_HQPlacement_InfoLabel" translation="The HQ is where other players will see your avatar and access any parks or blueprints you have shared.\n\nPosition your avatar anywhere on the globe. You can edit your avatar HQ position later."/>
-		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Piazza il tuo HQ!"/>
+		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo HQ!"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptCancel" translation="No"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Sì"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptLabel" translation="Sei sicuro?\n\nPotrai modificarlo in seguito."/>
@@ -6057,7 +6057,7 @@
 		<entry key="time_separator" translation=":"/>
 		<!--GameMenu-->
 		<entry key="MainMenu_Build" translation="Crea"/>
-		<entry key="MainMenu_Build_Coasters" translation="Coasters"/>
+		<entry key="MainMenu_Build_Coasters" translation="Montagne Russe"/>
 		<entry key="MainMenu_Build_Facilities" translation="Edifici"/>
 		<entry key="MainMenu_Build_FlatRides" translation="Altre Attrazioni"/>
 		<entry key="MainMenu_Build_Paths" translation="Sentieri"/>
@@ -11999,14 +11999,14 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Seleziona pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per piazzare il prossimo pezzo di tracciato."/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sul Pezzo Piazzato"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Coaster"/>
-		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Roller coaster triggers allow you to trigger animated objects and special effects when a roller coaster car reaches a specified point on the track."/>
-		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Roller Coaster Triggers"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per posizionare il prossimo pezzo di tracciato."/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sull'elemento posizionato"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Montagna Russa"/>
+		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Gli Inneschi sulle Montagne Russe permettono di attivare oggetti animati ed effetti speciali quando una vettura raggiunge uno specifico punto della pista."/>
+		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
 		<entry key="HUD_HelpPopup_Controls" translation="{ControlText}"/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="La Console Effetti Speciali ti permette di innescare più oggetti e eventi tramite pianificazione, un singolo passaggio o un innesco della montagna russa."/>
+		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="La Console Effetti Speciali ti permette di innescare più oggetti ed eventi tramite pianificazione, un singolo passaggio o un innesco della Montagna Russa."/>
 		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Console Effetti Speciali"/>
 		<entry key="HUD_HelpPopup_DontShow" translation="Disabilita Consigli"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Conferma Posizione"/>
@@ -12056,10 +12056,10 @@
 		<entry key="HUD_HelpPopup_RidePlacement_Command_07" translation="Rotazione fissa On/Off"/>
 		<entry key="HUD_HelpPopup_RidePlacement_Command_08" translation="Resetta Altezza"/>
 		<entry key="HUD_HelpPopup_RidePlacement_Command_09" translation="Blocca su asse superficie"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Description" translation="Posiziona gli oggetti con il cursore prima di piazzarli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
+		<entry key="HUD_HelpPopup_RidePlacement_Description" translation="Posiziona gli oggetti con il cursore prima di inserirli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
 		<entry key="HUD_HelpPopup_RidePlacement_Title" translation="Controlli Posizionamento"/>
-		<entry key="HUD_HelpPopup_RideTriggers_Description" translation="Ride triggers allow you to trigger animated objects and special effects when ride sequences begin."/>
-		<entry key="HUD_HelpPopup_RideTriggers_Title" translation="Ride Triggers"/>
+		<entry key="HUD_HelpPopup_RideTriggers_Description" translation="Gli Inneschi Attrazione permettono di attivare oggetti animati ed effetti speciali quando inizia la sequenza di corsa."/>
+		<entry key="HUD_HelpPopup_RideTriggers_Title" translation="Inneschi Attrazione"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_01" translation="Conferma Posizionamento"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_02" translation="Annulla Posizionamento"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_03" translation="Attiva Muovi/Ruota avanzato"/>
@@ -12075,7 +12075,7 @@
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_07" translation="Rotazione a scatti On/Off"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_08" translation="Resetta Altezza"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_09" translation="Blocca su assi di superficie"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Description" translation="Posiziona gli oggetti con il cursore prima di piazzarli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Description" translation="Posiziona gli oggetti con il cursore prima di inserirli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Title" translation="Controlli Posizionamento"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_01" translation="Conferma Posizionamento"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_02" translation="Annulla Posizionamento"/>
@@ -12094,7 +12094,7 @@
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_08" translation="Resetta Altezza"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_09" translation="Blocca su Assi di Superficie"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_10" translation="Attiva/Disattiva Allinea alla Superfice"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Description" translation="Posiziona gli oggetti con il cursore prima di piazzarli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Description" translation="Posiziona gli oggetti con il cursore prima di inserirli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Controlli Posizionamento"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_PathExtra_Description" translation="Gli Extra Sentieri possono rendere il tuo parco un posto più bello per i visitatori. Usa il cursore per posizionare gli Extra sopra o lungo gli angoli dei tuoi sentieri, così che i visitatori possano usarli."/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Seleziona Elemento"/>
@@ -12121,7 +12121,7 @@
 		<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_01" translation="Posiziona Membro dello Staff"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_02" translation="Annulla Posizionamento"/>
-		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di piazzarlo nel parco."/>
+		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di inserirlo nel parco."/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Title" translation="Controlli Posizionamento Staff"/>
 		<entry key="HUD_HelpPopup_Terrain_Command_01" translation="Applica Pennello"/>
 		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Applica Pennello inverso\n(Spingi/Tira Pennelli)"/>
@@ -12187,14 +12187,14 @@
 		<entry key="HUD_ShopAndFacilityProfits" translation="Negozi &amp; Strutture Profitti"/>
 		<entry key="HUD_ShopMenu_Blueprints" translation="Progetti"/>
 		<entry key="HUD_ShopMenu_Buildings" translation="Strutture"/>
-		<entry key="HUD_ShopMenu_Coasters" translation="Coasters"/>
+		<entry key="HUD_ShopMenu_Coasters" translation="Montagne Russe"/>
 		<entry key="HUD_ShopMenu_Path_Extras" translation="Extra Sentieri"/>
 		<entry key="HUD_ShopMenu_RecentBlueprints" translation="Progetti Recenti"/>
 		<entry key="HUD_ShopMenu_Rides" translation="Attrazioni"/>
 		<entry key="HUD_ShopMenu_Scenery" translation="Scenario"/>
 		<entry key="HUD_ShopMenu_Shops" translation="Negozi e Servizi"/>
 		<entry key="HUD_ShopMenu_Staff" translation="Staff"/>
-		<entry key="HUD_ShopMenu_TrackedRides" translation="Attrazioni a Circuito"/>
+		<entry key="HUD_ShopMenu_TrackedRides" translation="Circuiti"/>
 		<entry key="HUD_TeenGroupMemberCount" translation="Gruppi di Giovani"/>
 		<entry key="HUD_TimeAM" translation="{Hour12}:{Minute} am"/>
 		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
@@ -12251,11 +12251,11 @@
 		<entry key="PopUp_CannotTest_NoStations" translation="Non si può testare perchè non sono state costruite stazioni"/>
 		<entry key="PopUp_Checklist" translation="Checklist"/>
 		<entry key="PopUp_Closed" translation="Chiudi"/>
-		<entry key="PopUp_CoasterStats" translation="Statistiche Coaster"/>
-		<entry key="PopUp_CoasterTriggerDescription" translation="Piazza inneschi sul tracciato e collegali a scenari animati"/>
+		<entry key="PopUp_CoasterStats" translation="Statistiche Montagna Russa"/>
+		<entry key="PopUp_CoasterTriggerDescription" translation="Posiziona inneschi sul tracciato e collegali a scenari animati"/>
 		<entry key="PopUp_CoasterTriggerId" translation="{VALUE:int}"/>
-		<entry key="PopUp_CoasterTriggerNameDefault" translation="Innesco Coaster"/>
-		<entry key="PopUp_CoasterTriggerTitle" translation="Inneschi Coaster"/>
+		<entry key="PopUp_CoasterTriggerNameDefault" translation="Innesco Montagna Russa"/>
+		<entry key="PopUp_CoasterTriggerTitle" translation="Inneschi Montagna Russa"/>
 		<entry key="PopUp_Customise" translation="Personalizza"/>
 		<entry key="PopUp_DropItem" translation="Getta Elemento"/>
 		<entry key="PopUp_FastPass_MergeName" translation="Unisci Passaggio Prioritario"/>
@@ -12346,10 +12346,10 @@
 		<entry key="PopUp_RidePlacement_CheckListHeader" translation="Per aprire qeust'attrazione, devi:"/>
 		<entry key="PopUp_RidePlacement_ConnectEntranceToPath" translation="Collega entrata al sentiero"/>
 		<entry key="PopUp_RidePlacement_PassCheckListHeader" translation="Per avere una corsia prioritaria, devi:"/>
-		<entry key="PopUp_RidePlacement_PlaceEntrance" translation="Piazza entrata"/>
-		<entry key="PopUp_RidePlacement_PlaceExit" translation="Piazza uscita"/>
-		<entry key="PopUp_RidePlacement_PlaceQueueMerge" translation="Piazza uscita prioritaria"/>
-		<entry key="PopUp_RidePlacement_PlaceQueueSplit" translation="Piazza entrata prioritaria"/>
+		<entry key="PopUp_RidePlacement_PlaceEntrance" translation="Posiziona entrata"/>
+		<entry key="PopUp_RidePlacement_PlaceExit" translation="Posiziona uscita"/>
+		<entry key="PopUp_RidePlacement_PlaceQueueMerge" translation="Posiziona uscita prioritaria"/>
+		<entry key="PopUp_RidePlacement_PlaceQueueSplit" translation="Posiziona entrata prioritaria"/>
 		<entry key="PopUp_RidePlacement_StationListHeader" translation="Lista Stazioni"/>
 		<entry key="PopUp_RideRatings" translation="Giudizi Corsa"/>
 		<entry key="PopUp_RideStats" translation="Statistiche Corsa"/>
@@ -13534,27 +13534,27 @@
 		<entry key="ObjectBrowser_Blueprints_ViewOnSteam" translation="Guarda sullo Steam Workshop"/>
 		<entry key="ObjectBrowser_Category_Blueprint" translation="Progetti"/>
 		<entry key="ObjectBrowser_Category_BreadCrumb" translation="{CATEGORY} -"/>
-		<entry key="ObjectBrowser_Category_Custom" translation="Personalizzato"/>
+		<entry key="ObjectBrowser_Category_Custom" translation="Personalizzati"/>
 		<entry key="ObjectBrowser_Category_Rides" translation="Attrazioni"/>
-		<entry key="ObjectBrowser_Coaster" translation="Roller Coaster"/>
+		<entry key="ObjectBrowser_Coaster" translation="Montagne Russe"/>
 		<entry key="ObjectBrowser_CoasterBlueprint" translation="Progetti"/>
-		<entry key="ObjectBrowser_CoasterCustom" translation="Personalizzato"/>
-		<entry key="ObjectBrowser_Coaster_HybridParent" translation="Hybrid Coasters"/>
+		<entry key="ObjectBrowser_CoasterCustom" translation="Personalizzata"/>
+		<entry key="ObjectBrowser_Coaster_HybridParent" translation="Montagne Russe Ibride"/>
 		<entry key="ObjectBrowser_Coaster_Steel4D" translation="4D"/>
 		<entry key="ObjectBrowser_Coaster_SteelEuro" translation="Euro-Fighter"/>
-		<entry key="ObjectBrowser_Coaster_SteelFamily" translation="Family"/>
+		<entry key="ObjectBrowser_Coaster_SteelFamily" translation="Per Famiglie"/>
 		<entry key="ObjectBrowser_Coaster_SteelGiga" translation="Giga"/>
 		<entry key="ObjectBrowser_Coaster_SteelHyper" translation="Hypercoaster"/>
-		<entry key="ObjectBrowser_Coaster_SteelInverted" translation="Inverted"/>
+		<entry key="ObjectBrowser_Coaster_SteelInverted" translation="Invertita"/>
 		<entry key="ObjectBrowser_Coaster_SteelMisc" translation="Altre"/>
-		<entry key="ObjectBrowser_Coaster_SteelParent" translation="Steel Coasters"/>
-		<entry key="ObjectBrowser_Coaster_SteelPoweredLaunch" translation="Launched"/>
-		<entry key="ObjectBrowser_Coaster_SteelWing" translation="Wing"/>
-		<entry key="ObjectBrowser_Coaster_WoodenParent" translation="Wooden Coasters"/>
+		<entry key="ObjectBrowser_Coaster_SteelParent" translation="Montagne Russe d'Acciaio"/>
+		<entry key="ObjectBrowser_Coaster_SteelPoweredLaunch" translation="Lanciata"/>
+		<entry key="ObjectBrowser_Coaster_SteelWing" translation="Alata"/>
+		<entry key="ObjectBrowser_Coaster_WoodenParent" translation="Montagne Russe di Legno"/>
 		<entry key="ObjectBrowser_Descending" translation="Discendente"/>
 		<entry key="ObjectBrowser_Drink" translation="Chiosco di bevande"/>
 		<entry key="ObjectBrowser_EFN_EmptyLabel" translation="-"/>
-		<entry key="ObjectBrowser_EFN_Excitement_ToolTip" translation="Eccitamento"/>
+		<entry key="ObjectBrowser_EFN_Excitement_ToolTip" translation="Eccitazione"/>
 		<entry key="ObjectBrowser_EFN_Fear_ToolTip" translation="Paura"/>
 		<entry key="ObjectBrowser_EFN_Label" translation="{Value:float:decimalPlaces=2}"/>
 		<entry key="ObjectBrowser_EFN_Nausea_ToolTip" translation="Nausea"/>
@@ -13564,7 +13564,7 @@
 		<entry key="ObjectBrowser_EmptyBrowser_SearchAndTags" translation="Nessun oggetto corrisponde a quanto cercato e ai filtri"/>
 		<entry key="ObjectBrowser_EmptyBrowser_Tags" translation="Nessun oggetto corrisponde ai filtri"/>
 		<entry key="ObjectBrowser_EmptySearch" translation="Scrivi per cercare"/>
-		<entry key="ObjectBrowser_Excitement" translation="Eccitamento"/>
+		<entry key="ObjectBrowser_Excitement" translation="Eccitazione"/>
 		<entry key="ObjectBrowser_Facility" translation="Strutture"/>
 		<entry key="ObjectBrowser_Fear" translation="Paura"/>
 		<entry key="ObjectBrowser_FilterAccept" translation="Applica"/>
@@ -13586,23 +13586,23 @@
 		<entry key="ObjectBrowser_Gentle" translation="Attrazioni tranquille"/>
 		<entry key="ObjectBrowser_Help" translation="Aiuto"/>
 		<entry key="ObjectBrowser_HelpLabel_Blueprints" translation="Clicca su un progetto per costruirlo nel parco."/>
-		<entry key="ObjectBrowser_HelpLabel_BuildCoasters" translation="Clicca su un coaster per inziare a costruire le tue montagne russe personali."/>
+		<entry key="ObjectBrowser_HelpLabel_BuildCoasters" translation="Clicca su una Montagna Russa coaster per inziare a costruire le tue montagne russe personali."/>
 		<entry key="ObjectBrowser_HelpLabel_BuildTrackedRides" translation="Clicca su un attrazione per posizionarla nel tuo parco, o costruiscine una dalla tab personalizzato."/>
 		<entry key="ObjectBrowser_HelpLabel_Buildings" translation="Clicca un oggetto per iniziare a costruire scenografie e strutture nel tuo parco."/>
 		<entry key="ObjectBrowser_HelpLabel_ButtonSteamWorkshop" translation="Vai allo Steam Workshop"/>
-		<entry key="ObjectBrowser_HelpLabel_Coasters" translation="Clicca su un coaster per piazzarlo nel parco."/>
-		<entry key="ObjectBrowser_HelpLabel_ResearchBuildings" translation="Più scenografie sono dispoibili per la ricerca."/>
+		<entry key="ObjectBrowser_HelpLabel_Coasters" translation="Clicca su una Montagna Russa per posizionarla nel parco."/>
+		<entry key="ObjectBrowser_HelpLabel_ResearchBuildings" translation="Più scenografie sono disponibili per la ricerca."/>
 		<entry key="ObjectBrowser_HelpLabel_ResearchButton" translation="Inizia Ricerca"/>
-		<entry key="ObjectBrowser_HelpLabel_ResearchCoasters" translation="Più Coaster sono disponibili per la ricerca."/>
+		<entry key="ObjectBrowser_HelpLabel_ResearchCoasters" translation="Più Montagne Russe sono disponibili per la ricerca."/>
 		<entry key="ObjectBrowser_HelpLabel_ResearchRides" translation="Più Giostre sono disponibili per la ricerca."/>
 		<entry key="ObjectBrowser_HelpLabel_ResearchScenery" translation="Più scenografie sono disponibili per la ricerca."/>
 		<entry key="ObjectBrowser_HelpLabel_ResearchShops" translation="Più negozi e strutture sono disponibili per la ricerca."/>
 		<entry key="ObjectBrowser_HelpLabel_ResearchTrackedRides" translation="Più circuiti sono disponibili per la ricerca."/>
 		<entry key="ObjectBrowser_HelpLabel_Rides" translation="Clicca su un'attrazione per iniziare ad aggiungerne al tuo parco."/>
-		<entry key="ObjectBrowser_HelpLabel_Scenery" translation="Clicca su una scenografia per posizionarla nel tuo parco, o posiziona i singoli oggetti dalla tab personalizzato."/>
+		<entry key="ObjectBrowser_HelpLabel_Scenery" translation="Clicca su una scenografia per posizionarla nel tuo parco, o posiziona i singoli oggetti dalla scheda Personalizzato."/>
 		<entry key="ObjectBrowser_HelpLabel_Shops" translation="Clicca su un negozio per iniziare a costruirne nel tuo parco."/>
 		<entry key="ObjectBrowser_HelpLabel_Staff" translation="Clicca su un membro dello staff per aggiungerlo al parco"/>
-		<entry key="ObjectBrowser_HelpLabel_TrackedRides" translation="Clicca su un circuito per posizionarlo nel tuo parco, o costruiscine una dalla tab personalizzato."/>
+		<entry key="ObjectBrowser_HelpLabel_TrackedRides" translation="Clicca su un Circuito per posizionarlo nel tuo parco, o costruiscine uno dalla scheda Personalizzato."/>
 		<entry key="ObjectBrowser_Info" translation="Info"/>
 		<entry key="ObjectBrowser_InfoItem_Author" translation="Autore"/>
 		<entry key="ObjectBrowser_InfoItem_Description" translation="Descrizione"/>
@@ -13790,9 +13790,9 @@
 		<entry key="OptionsMenu_Controls_Mouse_Command_04" translation="Ruota/Inclina Telecamera"/>
 		<entry key="OptionsMenu_Controls_Mouse_Command_05" translation="Zoom Visuale"/>
 		<entry key="OptionsMenu_Controls_Mouse_Input_05" translation="[MouseMiddle](Scroll)"/>
-		<entry key="OptionsMenu_Controls_Object_Placement" translation="Controlli Piazzamento Oggetto"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_01" translation="Piazza Oggetto"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_02" translation="Annulla Piazzamento"/>
+		<entry key="OptionsMenu_Controls_Object_Placement" translation="Controlli Posizionamento Oggetto"/>
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_01" translation="Posiziona Oggetto"/>
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_02" translation="Annulla Posizionamento"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_03" translation="Ruota"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_04" translation="Ruota di 90 gradi"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_05" translation="Modifica Altezza"/>
@@ -13802,10 +13802,10 @@
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Attiva/Disattiva Allinea alla Superficie"/>
 		<entry key="OptionsMenu_Controls_Object_Placement_Command_10" translation="Attiva /Disattiva Appiattisci Terreno"/>
 		<entry key="OptionsMenu_Controls_Path_Edit" translation="Modifica Sentieri"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Piazza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Posiziona Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Elimina Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Alza/Abbassa Sentiero"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Alza/Abbassa Sentiero (Senza Piazzarlo)"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Alza/Abbassa Sentiero (Senza Posizionarlo)"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Ruota Angolo di giunzione"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Acute Angle Join"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Modifica Altezza"/>
@@ -13849,10 +13849,10 @@
 		<entry key="OptionsMenu_GameGlobalSettings" translation="Impostazioni Globali"/>
 		<entry key="OptionsMenu_Gameplay" translation="Gameplay"/>
 		<entry key="OptionsMenu_GameplaySettings" translation="Impostazioni Gameplay"/>
-		<entry key="OptionsMenu_GlobalDisableCoasterObstruction" translation="Disabilita Collisioni Coaster"/>
-		<entry key="OptionsMenu_GlobalDisableCoasterObstructionHint" translation="Permetti ai coasters di essere piazzati attraverso scenari o terreni esistenti."/>
+		<entry key="OptionsMenu_GlobalDisableCoasterObstruction" translation="Disabilita Collisioni Montagne Russe"/>
+		<entry key="OptionsMenu_GlobalDisableCoasterObstructionHint" translation="Permetti alle Montagne Russe di essere posizionate attraverso scenari o terreni esistenti."/>
 		<entry key="OptionsMenu_GlobalDisableRideObstruction" translation="Disabilita Collisioni Attrazioni"/>
-		<entry key="OptionsMenu_GlobalDisableRideObstructionHint" translation="Permette alle attrazioni di essere piazzate attraverso scenari o terreni esistenti."/>
+		<entry key="OptionsMenu_GlobalDisableRideObstructionHint" translation="Permette alle Attrazioni di essere posizionate attraverso scenari o terreni esistenti."/>
 		<entry key="OptionsMenu_GlobalDisableSceneryObstruction" translation="Disabilita Collisioni Scenario"/>
 		<entry key="OptionsMenu_GlobalDisableSceneryObstructionHint" translation="Impedisci alle attrazioni e alle stazioni di partenza di bloccare il posizionamento degli oggetti scenario."/>
 		<entry key="OptionsMenu_GlobalDisableTerrainObstruction" translation="Disabilita Collisioni Terreno"/>
@@ -14094,7 +14094,7 @@
 		<entry key="ParkManagement_GuestThoughts" translation="Pensieri dei Visitatori"/>
 		<entry key="ParkManagement_Guests" translation="Visitatori"/>
 		<entry key="ParkManagement_Guests_AverageATMWithdrawal" translation="Prelievi medi bancomat"/>
-		<entry key="ParkManagement_Guests_AverageCoasterSpend" translation="Spesa media Montagne russe"/>
+		<entry key="ParkManagement_Guests_AverageCoasterSpend" translation="Spesa media Montagne Russe"/>
 		<entry key="ParkManagement_Guests_AverageDrinkSpend" translation="Spesa media bevande"/>
 		<entry key="ParkManagement_Guests_AverageFlatRideSpend" translation="Spesa media Attrazioni"/>
 		<entry key="ParkManagement_Guests_AverageFoodSpend" translation="Spesa media cibo"/>
@@ -14262,18 +14262,18 @@
 		<entry key="ParkManagement_Overview_SecurityCount" translation="Guardie di sicurezza"/>
 		<entry key="ParkManagement_Overview_Tooltip" translation="Informazioni parco"/>
 		<entry key="ParkManagement_Overview_Tracked_Multiple" translation="{count:int} montagne russe"/>
-		<entry key="ParkManagement_Overview_Tracked_One" translation="1 montagna russa"/>
+		<entry key="ParkManagement_Overview_Tracked_One" translation="1 Montagna Russa"/>
 		<entry key="ParkManagement_Overview_Tracked_Zero" translation="0 montagne russe"/>
 		<entry key="ParkManagement_Overview_VendorCount" translation="Venditori"/>
 		<entry key="ParkManagement_ParkCapacityMaxGuests" translation="Visitatori massimi"/>
 		<entry key="ParkManagement_ParkCapacityTitle" translation="Capacità del parco"/>
 		<entry key="ParkManagement_ParkOperations" translation="Operazioni Parco"/>
 		<entry key="ParkManagement_ParkStatistics" translation="Statistiche parco"/>
-		<entry key="ParkManagement_ParkStats_BiggestDrop" translation="Caduta più alta"/>
-		<entry key="ParkManagement_ParkStats_FastestCoaster" translation="Montagne russe più veloci"/>
+		<entry key="ParkManagement_ParkStats_BiggestDrop" translation="Discesa più alta"/>
+		<entry key="ParkManagement_ParkStats_FastestCoaster" translation="Montagne Russe più veloci"/>
 		<entry key="ParkManagement_ParkStats_GuestHappiness" translation="Felicità Visitatori"/>
-		<entry key="ParkManagement_ParkStats_HighestCoaster" translation="Montagne russe più alte"/>
-		<entry key="ParkManagement_ParkStats_LongestCoaster" translation="Montagne russe più lunghe"/>
+		<entry key="ParkManagement_ParkStats_HighestCoaster" translation="Montagne Russe più alte"/>
+		<entry key="ParkManagement_ParkStats_LongestCoaster" translation="Montagne Russe più lunghe"/>
 		<entry key="ParkManagement_ParkStats_MarketingBonus" translation="Bonus Marketing"/>
 		<entry key="ParkManagement_ParkStats_MonthsOpen" translation="Numero di mesi di apertura del parco"/>
 		<entry key="ParkManagement_ParkStats_ParkBalanceBonus" translation="Bonus bilancio del parco"/>
@@ -14281,7 +14281,7 @@
 		<entry key="ParkManagement_ParkStats_RideRating" translation="Valutazione Attrazione"/>
 		<entry key="ParkManagement_ParkStats_SceneryRating" translation="Valutazione scenario"/>
 		<entry key="ParkManagement_ParkStats_TotalDaysOpen" translation="Totale giorni di apertura"/>
-		<entry key="ParkManagement_ParkStats_TotalLengthCoasters" translation="Lunghezza totale di tutte le montagne russe"/>
+		<entry key="ParkManagement_ParkStats_TotalLengthCoasters" translation="Lunghezza totale di tutte le Montagne Russe"/>
 		<entry key="ParkManagement_ParkStats_TotalLifeSpanGuests" translation="Totale Visitatori dall'apertura del parco"/>
 		<entry key="ParkManagement_ParkStats_VomitAmount" translation="Totale rigurgiti dall'apertura del parco"/>
 		<entry key="ParkManagement_PathStatistics" translation="Statistiche percorso"/>
@@ -14740,7 +14740,7 @@
 		<entry key="Research_Revealed_ShopsAndFacilities_Toilet" translation="Toilette"/>
 		<entry key="Research_Revealed_Transport_Connie" translation="Connie Express"/>
 		<entry key="Research_Revealed_Transport_SilvStar" translation="Light Line"/>
-		<entry key="Research_Type_Coaster" translation="Montagna russa"/>
+		<entry key="Research_Type_Coaster" translation="Montagna Russa"/>
 		<entry key="Research_Type_Facility" translation="Edificio"/>
 		<entry key="Research_Type_Flatride" translation="Attrazione Forte"/>
 		<entry key="Research_Type_FlatrideFamily" translation="Giostra per famiglie"/>
@@ -14782,18 +14782,18 @@
 		<entry key="RideCam_Train" translation="Treno"/>
 		<entry key="RideCam_Wing" translation="Visuale laterale"/>
 		<!--Scenario-->
-		<entry key="Challenges_BuildCoaster_AverageSpeed" translation="Costruisci una montagna russa che abbia una Velocità Media di almeno {Target}"/>
-		<entry key="Challenges_BuildCoaster_CycleTime" translation="Costruisci una montagna russa che abbia una durata di almeno {Target:float:decimalPlaces=0} secondi"/>
-		<entry key="Challenges_BuildCoaster_Excitement" translation="Costruisci una montagna russa che abbia un livello di Eccitazione di almeno {Target:float:decimalPlaces=1}"/>
+		<entry key="Challenges_BuildCoaster_AverageSpeed" translation="Costruisci una Montagna Russa che abbia una Velocità Media di almeno {Target}"/>
+		<entry key="Challenges_BuildCoaster_CycleTime" translation="Costruisci una Montagna Russa che abbia una durata di almeno {Target:float:decimalPlaces=0} secondi"/>
+		<entry key="Challenges_BuildCoaster_Excitement" translation="Costruisci una Montagna Russa che abbia un livello di Eccitazione di almeno {Target:float:decimalPlaces=1}"/>
 		<entry key="Challenges_BuildCoaster_Label" translation="Sfida montagne russe"/>
-		<entry key="Challenges_BuildCoaster_Length" translation="Costruisci una montagna russa che abbia una lunghezza di almeno {Target}"/>
-		<entry key="Challenges_BuildCoaster_MaxDrop" translation="Costruisci una montagna russa che abbia una Discesa Massima di almeno {Target}"/>
-		<entry key="Challenges_BuildCoaster_MaxSpeed" translation="Costruisci una montagna russa che raggiunga {Target}"/>
-		<entry key="Challenges_BuildCoaster_NumAirTime" translation="Costruisci una montagna russa che abbia almeno {Target:float:decimalPlaces=0} sezioni di Air Time"/>
-		<entry key="Challenges_BuildCoaster_NumInversions" translation="Costruisci una montagna russa che abbia almeno {Target:float:decimalPlaces=0} Inversioni"/>
-		<entry key="Challenges_BuildCoaster_TotalAirTime" translation="Costruisci una montagna russa che abbia almeno {Target:float:decimalPlaces=0} secondi di Air Time"/>
+		<entry key="Challenges_BuildCoaster_Length" translation="Costruisci una Montagna Russa che abbia una lunghezza di almeno {Target}"/>
+		<entry key="Challenges_BuildCoaster_MaxDrop" translation="Costruisci una Montagna Russa che abbia una Discesa Massima di almeno {Target}"/>
+		<entry key="Challenges_BuildCoaster_MaxSpeed" translation="Costruisci una Montagna Russa che raggiunga {Target}"/>
+		<entry key="Challenges_BuildCoaster_NumAirTime" translation="Costruisci una Montagna Russa che abbia almeno {Target:float:decimalPlaces=0} sezioni di Air Time"/>
+		<entry key="Challenges_BuildCoaster_NumInversions" translation="Costruisci una Montagna Russa che abbia almeno {Target:float:decimalPlaces=0} Inversioni"/>
+		<entry key="Challenges_BuildCoaster_TotalAirTime" translation="Costruisci una Montagna Russa che abbia almeno {Target:float:decimalPlaces=0} secondi di Air Time"/>
 		<entry key="Challenges_CashProfitAll" translation="Raggiungi un Profitto Mensile di {Target:currency}"/>
-		<entry key="Challenges_CashProfitCoasters" translation="Raggiungi un Profitto Mensile dalle montagne russe di {Target:currency}"/>
+		<entry key="Challenges_CashProfitCoasters" translation="Raggiungi un Profitto Mensile dalle Montagne Russe di {Target:currency}"/>
 		<entry key="Challenges_CashProfitRides" translation="Raggiungi un Profitto Mensile di {Target:currency} dalle Attrazioni"/>
 		<entry key="Challenges_CashProfitShopsFacilities" translation="Raggiungi un Profitto Mensile di {Target:currency} da Negozi e Servizi"/>
 		<entry key="Challenges_CashProfit_Label" translation="Sfida Profitto"/>
@@ -14827,14 +14827,14 @@
 		<entry key="Objectives_BuildRides_View" translation="Costruisci {Value:int} Attrazioni"/>
 		<entry key="Objectives_BuildRides_ViewSingular" translation="Costruisci un'Attrazione"/>
 		<entry key="Objectives_BuildTrackedRides_View" translation="Costruisci {Value:int} Montagne russe"/>
-		<entry key="Objectives_BuildTrackedRides_ViewSingular" translation="Costruisci una montagna russa"/>
+		<entry key="Objectives_BuildTrackedRides_ViewSingular" translation="Costruisci una Montagna Russa"/>
 		<entry key="Objectives_CashProfitAll_View" translation="Raggiungi un Profitto Mensile di {Value:currency}"/>
-		<entry key="Objectives_CashProfitCoasters_View" translation="Raggiungi un Profitto Mensile di {Value:currency} dalle montagne russe"/>
+		<entry key="Objectives_CashProfitCoasters_View" translation="Raggiungi un Profitto Mensile di {Value:currency} dalle Montagne Russe"/>
 		<entry key="Objectives_CashProfitOverTimeAll_View" translation="Mantieni un Profitto Mensile di {Value:currency} per {Months:int} mesi"/>
-		<entry key="Objectives_CashProfitOverTimeCoasters_View" translation="Mantieni un Profitto Mensile dai Coaster di {Value:currency} per {Months:int} mesi"/>
+		<entry key="Objectives_CashProfitOverTimeCoasters_View" translation="Mantieni un Profitto Mensile dalle Montagne Russe di {Value:currency} per {Months:int} mesi"/>
 		<entry key="Objectives_CashProfitOverTimeRides_View" translation="Mantieni un Profitto Mensile dalle Attrazioni di {Value:currency} per {Months:int} mesi"/>
 		<entry key="Objectives_CashProfitOverTimeShopsFacilities_View" translation="Mantieni un Profitto Mensile da Negozi e Servizi di {Value:currency} per {Months:int} mesi"/>
-		<entry key="Objectives_CashProfitRides_View" translation="Raggiungi un Profitto Mensile dalle Attrzioni pari a {Value:currency}"/>
+		<entry key="Objectives_CashProfitRides_View" translation="Raggiungi un Profitto Mensile dalle Attrazioni pari a {Value:currency}"/>
 		<entry key="Objectives_CashProfitShopsFacilities_View" translation="Raggiungi un Profitto Mensile da Negozi e Servizi di {Value:currency}"/>
 		<entry key="Objectives_CashTotal_View" translation="Ottieni {Value:currency}"/>
 		<entry key="Objectives_CatchPickpockets_View" translation="Prendi {Value:int} borseggiatori"/>
@@ -15099,9 +15099,9 @@
 		<entry key="BuildingPartDesc_FT_Witch_Flying" translation="Occhi aperti, là sotto!\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_dragon" translation="Un drago curioso.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_LaunchTrailer" translation="LaunchTrailer PLACEHOLDER DESCRIPTION TEXT"/>
-		<entry key="BuildingPartDesc_PC_Archway_Large" translation="Un grande arco costruito con le rotaie di una montagna russa.\nTema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Archway_Large" translation="Un grande arco costruito con le rotaie di una Montagna Russa.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Archway_Large_01" translation="Un passaggio ad arco a forma di binario di coaster stilizzato.\nTema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_Archway_Small" translation="Un arco costruito con le rotaie di una montagna russa.\nTema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Archway_Small" translation="Un arco costruito con le rotaie di una Montagna Russa.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_CoasterDoor_01" translation="Apriti sesamo.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Core_Bench" translation="Una tipica panchina da parco.\nTema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Core_Bin" translation="Un tipico cestino da parco.\nTema Planet Coaster"/>
@@ -16649,7 +16649,7 @@
 		<entry key="Placeholder_Toilet" translation="Bagni"/>
 		<!--Tags-->
 		<entry key="Blueprints_TagCategory_Buildings" translation="Strutture"/>
-		<entry key="Blueprints_TagCategory_Coasters" translation="Coasters"/>
+		<entry key="Blueprints_TagCategory_Coasters" translation="Montagne Russe"/>
 		<entry key="Blueprints_TagCategory_Scenery" translation="Scenografie"/>
 		<entry key="Blueprints_TagCategory_Shops" translation="Negozi"/>
 		<entry key="Blueprints_TagCategory_TrackRides" translation="Circuiti"/>
@@ -16755,17 +16755,17 @@
 		<entry key="Tag_Blueprint_BuildingSmall" translation="Piccole"/>
 		<entry key="Tag_Blueprint_BuildingTicketBooth" translation="Biglietterie"/>
 		<entry key="Tag_Blueprint_ClassicRide" translation="Attrazioni Classiche"/>
-		<entry key="Tag_Blueprint_Coaster" translation="Montagna russa"/>
+		<entry key="Tag_Blueprint_Coaster" translation="Montagne Russe"/>
 		<entry key="Tag_Blueprint_CoasterHybrid" translation="Ibride"/>
 		<entry key="Tag_Blueprint_CoasterSteel4D" translation="4D"/>
 		<entry key="Tag_Blueprint_CoasterSteelEuro" translation="Euro-Fighter"/>
-		<entry key="Tag_Blueprint_CoasterSteelFamily" translation="Famiglia"/>
+		<entry key="Tag_Blueprint_CoasterSteelFamily" translation="Per Famiglie"/>
 		<entry key="Tag_Blueprint_CoasterSteelGiga" translation="Giga"/>
 		<entry key="Tag_Blueprint_CoasterSteelHyper" translation="Hypercoaster"/>
 		<entry key="Tag_Blueprint_CoasterSteelInverted" translation="Invertite"/>
-		<entry key="Tag_Blueprint_CoasterSteelMisc" translation="Altre - Acciaio"/>
+		<entry key="Tag_Blueprint_CoasterSteelMisc" translation="Altre - Pista in Acciaio"/>
 		<entry key="Tag_Blueprint_CoasterSteelPoweredLaunch" translation="Lancio a motore"/>
-		<entry key="Tag_Blueprint_CoasterSteelWing" translation="Ad Ala"/>
+		<entry key="Tag_Blueprint_CoasterSteelWing" translation="Alate"/>
 		<entry key="Tag_Blueprint_CoasterWooden" translation="Di Legno"/>
 		<entry key="Tag_Blueprint_GentleRide" translation="Attrazioni Tranquille"/>
 		<entry key="Tag_Blueprint_Interactive" translation="Attrazioni Interattive"/>
@@ -16799,7 +16799,7 @@
 		<entry key="Tag_Blueprint_SmallRide" translation="Attrazioni Piccole"/>
 		<entry key="Tag_Blueprint_Spinning" translation="Attrazioni Rotanti"/>
 		<entry key="Tag_Blueprint_Swinging" translation="Attrazioni Oscillanti"/>
-		<entry key="Tag_Blueprint_ThrillRide" translation="Attrazioni Eccitanti"/>
+		<entry key="Tag_Blueprint_ThrillRide" translation="Attrazioni Emozionanti"/>
 		<entry key="Tag_Blueprint_Tower" translation="Attrazioni a Torre"/>
 		<entry key="Tag_Blueprint_TrackRide" translation="Circuiti di corse"/>
 		<entry key="Tag_Blueprint_Tracked" translation="Attrazioni a percorso"/>
