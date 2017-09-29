@@ -4474,8 +4474,8 @@
 		<entry key="TrackElementName_ContractSectionRailings" translation="Inizio/Fine Tracciato Stretto con guardrail"/>
 		<entry key="TrackElementName_ExpandSection" translation="Fine Tracciato Stretto"/>
 		<entry key="TrackElementName_ExpandSectionRailings" translation="Espandi Sezione con guardrail"/>
-		<entry key="TrackElementName_NarrowTrack" translation="Stringi il Tracciato"/>
-		<entry key="TrackElementName_NarrowTrackRailings" translation="Stringi Tracciato con guardrail"/>
+		<entry key="TrackElementName_NarrowTrack" translation="Tracciato Stretto"/>
+		<entry key="TrackElementName_NarrowTrackRailings" translation="Tracciato Stretto con guardrail"/>
 		<entry key="TrackElementName_NormalTrackRailings" translation="Guardrail"/>
 		<entry key="TrackElementName_TK_SP_ShallowCobraRollLeft" translation="Cobra Roll Sinistro Basso"/>
 		<entry key="TrackElementName_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
@@ -4508,11 +4508,11 @@
 		<entry key="TrackElementTool_ChicaneStart" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione di Partenza Chicane."/>
 		<entry key="TrackElementTool_ChicaneStartRailings" translation="&lt;font color='accent'&gt;Chicanes con guardrail&lt;/font&gt;&#10;Sezione di Partenza Chicane con guardrail."/>
 		<entry key="TrackElementTool_ContractSection" translation="&lt;font color='accent'&gt;Inizio Tracciato Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
-		<entry key="TrackElementTool_ContractSectionRailings" translation="&lt;font color='accent'&gt;Inizio/Fine Tracciato con guardrail Stretto&lt;/font&gt;&#10;Stringe il Tracciato."/>
+		<entry key="TrackElementTool_ContractSectionRailings" translation="&lt;font color='accent'&gt;Inizio/Fine Tracciato Stretto con guardrail &lt;/font&gt;&#10;Stringe il Tracciato."/>
 		<entry key="TrackElementTool_ExpandSection" translation="&lt;font color='accent'&gt;Fine Tracciato Stretto&lt;/font&gt;&#10;Allarga il tracciato."/>
 		<entry key="TrackElementTool_ExpandSectionRailings" translation="&lt;font color='accent'&gt;Fine Sezione Stretta&lt;/font&gt;&#10;Allarga il tracciato."/>
-		<entry key="TrackElementTool_NarrowTrack" translation="&lt;font color='accent'&gt;Stringi il Tracciato&lt;/font&gt;&#10;Stringe la Sezione del Tracciato."/>
-		<entry key="TrackElementTool_NarrowTrackRailings" translation="&lt;font color='accent'&gt;Stringi Tracciato con guardrail&lt;/font&gt;&#10;Stringe la Sezione del Tracciato.con guardrail"/>
+		<entry key="TrackElementTool_NarrowTrack" translation="&lt;font color='accent'&gt;Tracciato Stretto&lt;/font&gt;&#10;Stringe la Sezione del Tracciato."/>
+		<entry key="TrackElementTool_NarrowTrackRailings" translation="&lt;font color='accent'&gt;Tracciato Stretto con guardrail&lt;/font&gt;&#10;Stringe la Sezione del Tracciato.con guardrail"/>
 		<entry key="TrackElementTool_NormalTrackRailings" translation="&lt;font color='accent'&gt;Guardrail&lt;/font&gt;&#10;Percorso normale con guardrail."/>
 		<entry key="TrackElementTool_TK_SP_ShallowCobraRollLeft" translation="Cobra Roll Sinistro Basso"/>
 		<entry key="TrackElementTool_TK_SP_ShallowCobraRollRight" translation="Cobra Roll Destro Basso"/>
@@ -5088,8 +5088,8 @@
 		<entry key="Coaster_Type_GigaRage" translation="Giga"/>
 		<entry key="Coaster_Type_HypercoasterAnubis" translation="Hypercoaster"/>
 		<entry key="Coaster_Type_HypercoasterEqualizer" translation="Hypercoaster"/>
-		<entry key="Coaster_Type_InvertedBoa" translation="Invertito"/>
-		<entry key="Coaster_Type_InvertedRival" translation="Invertito"/>
+		<entry key="Coaster_Type_InvertedBoa" translation="Invertita"/>
+		<entry key="Coaster_Type_InvertedRival" translation="Invertita"/>
 		<entry key="Coaster_Type_IronHorse" translation="Ferrovia con treno a vapore"/>
 		<entry key="Coaster_Type_Junior" translation="Junior"/>
 		<entry key="Coaster_Type_JuniorDragon" translation="Junior"/>
@@ -5106,7 +5106,7 @@
 		<entry key="Coaster_Type_Spinning" translation="Rotante"/>
 		<entry key="Coaster_Type_StandupCoaster" translation="In Piedi"/>
 		<entry key="Coaster_Type_WingCoaster" translation="Alata"/>
-		<entry key="Coaster_Type_WoodenSteelHybridMaliceUnchained" translation="Ibrido -  Pista in Acciaio"/>
+		<entry key="Coaster_Type_WoodenSteelHybridMaliceUnchained" translation="Ibrida -  Pista in Acciaio"/>
 		<entry key="Coaster_Type_WoodenSwitchbackReversing" translation="Di Legno"/>
 		<entry key="Coaster_Type_WoodenTopperTrack" translation="Ibrido - Acciaio inossidabile"/>
 		<entry key="Coaster_WWolf" translation="Werewolf"/>
@@ -5422,85 +5422,85 @@
 		<entry key="FR_WBlue" translation="Blu Profondo"/>
 		<entry key="FR_WBlue_Desc" translation="Capovolgiti e plana, e diventa una stella di questo glorioso spettacolo aereo.\nAttrazione Forte"/>
 		<entry key="FR_WBlue_Prefix" translation="Blu Profondo"/>
-		<entry key="Sequence_FR_360PWR_HalfSwing" translation="Halfswing"/>
-		<entry key="Sequence_FR_360PWR_Loop" translation="Loop"/>
-		<entry key="Sequence_FR_360PWR_ReverseHalfSwing" translation="Reverse Half Swing"/>
-		<entry key="Sequence_FR_360PWR_ReverseLoop" translation="Reverse Loop"/>
-		<entry key="Sequence_FR_360PWR_ReverseStall" translation="Reverse Stall"/>
-		<entry key="Sequence_FR_360PWR_ReverseStallLoop" translation="Reverse Stall Loop"/>
-		<entry key="Sequence_FR_360PWR_Stall" translation="Stall"/>
-		<entry key="Sequence_FR_360PWR_StallLoop" translation="Stall Loop"/>
-		<entry key="Sequence_FR_COP_CenterSpin" translation="Flat Spin"/>
-		<entry key="Sequence_FR_COP_LeftSpin" translation="Left Tilt Spin"/>
-		<entry key="Sequence_FR_COP_RightSpin" translation="Right Tilt Spin"/>
-		<entry key="Sequence_FR_COP_RollAroundCCW" translation="Senso Antiorario Tilt Spin"/>
-		<entry key="Sequence_FR_COP_RollAroundCW" translation="Senso Orario Tilt Spin"/>
+		<entry key="Sequence_FR_360PWR_HalfSwing" translation="Mezza oscillazione"/>
+		<entry key="Sequence_FR_360PWR_Loop" translation="Giro della morte"/>
+		<entry key="Sequence_FR_360PWR_ReverseHalfSwing" translation="Mezza oscillazione inversa"/>
+		<entry key="Sequence_FR_360PWR_ReverseLoop" translation="Giro della morte Inverso"/>
+		<entry key="Sequence_FR_360PWR_ReverseStall" translation="Stallo Inverso"/>
+		<entry key="Sequence_FR_360PWR_ReverseStallLoop" translation="Giro della morte Stallo Inverso"/>
+		<entry key="Sequence_FR_360PWR_Stall" translation="Stallo"/>
+		<entry key="Sequence_FR_360PWR_StallLoop" translation="Giro della morte Stallo"/>
+		<entry key="Sequence_FR_COP_CenterSpin" translation="Rotazione Piatta"/>
+		<entry key="Sequence_FR_COP_LeftSpin" translation="Rotazione Inclinata Sinistra"/>
+		<entry key="Sequence_FR_COP_RightSpin" translation="Rotazione Inclinata Destra"/>
+		<entry key="Sequence_FR_COP_RollAroundCCW" translation="Rotazione Inclinata Senso Antiorario"/>
+		<entry key="Sequence_FR_COP_RollAroundCW" translation="Rotazione Inclinata Senso Orario"/>
 		<entry key="Sequence_FR_Caro_Spin" translation="Rotazione"/>
-		<entry key="Sequence_FR_Caro_SpinFast" translation="Spin Fast"/>
-		<entry key="Sequence_FR_Cube_AllSpin" translation="All Spin"/>
-		<entry key="Sequence_FR_Cube_ForwardFlip" translation="Forward Flip"/>
-		<entry key="Sequence_FR_Cube_LockedTurnOver" translation="Locked Turn Over"/>
-		<entry key="Sequence_FR_Cube_ReverseAllSpin" translation="Reverse All Spin"/>
-		<entry key="Sequence_FR_Cube_TurnAround" translation="Turn Around"/>
-		<entry key="Sequence_FR_Demonic_BackwardDive" translation="Backward Dive"/>
-		<entry key="Sequence_FR_Demonic_BackwardDiveFlip" translation="Backward Dive Flip"/>
-		<entry key="Sequence_FR_Demonic_BackwardLoop" translation="Backward Loop"/>
-		<entry key="Sequence_FR_Demonic_BigFrontFlips" translation="Big Front Flips"/>
-		<entry key="Sequence_FR_Demonic_ForwardDive" translation="Forward Dive"/>
-		<entry key="Sequence_FR_Demonic_ForwardDiveFlip" translation="Forward Dive Flip"/>
-		<entry key="Sequence_FR_Demonic_ForwardLoop" translation="Forward Loop"/>
-		<entry key="Sequence_FR_Demonic_HoldInverted" translation="Hold Inverted"/>
-		<entry key="Sequence_FR_Demonic_HoldTop" translation="Hold Top"/>
-		<entry key="Sequence_FR_Demonic_InvertedTwist" translation="Inverted Twist"/>
-		<entry key="Sequence_FR_Demonic_TiltedLoop" translation="Tilted Loop"/>
-		<entry key="Sequence_FR_Demonic_Twist" translation="Twist"/>
-		<entry key="Sequence_FR_Demonic_TwistedFlips" translation="Twisted Flips"/>
-		<entry key="Sequence_FR_Gondola_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_Gondola_SpinFast" translation="Spin Fast"/>
-		<entry key="Sequence_FR_Gondola_SpinFastTilt" translation="Spin Fast Tilt"/>
-		<entry key="Sequence_FR_Gondola_SpinTilt" translation="Spin Tilt"/>
-		<entry key="Sequence_FR_HRing_Loop" translation="Forward Loop"/>
-		<entry key="Sequence_FR_HRing_ReverseLoop" translation="Backward Loop"/>
-		<entry key="Sequence_FR_HRing_StallSwing" translation="Stall Swing"/>
-		<entry key="Sequence_FR_HRing_Swing" translation="Swing"/>
-		<entry key="Sequence_FR_HSwing_SwingHigh" translation="Swing High"/>
-		<entry key="Sequence_FR_HSwing_SwingLow" translation="Swing Low"/>
-		<entry key="Sequence_FR_Insan_DoubleLoop" translation="Double Loop"/>
-		<entry key="Sequence_FR_Insan_DoubleReverseLoop" translation="Reverse Double Loop"/>
-		<entry key="Sequence_FR_Insan_Loop" translation="Loop"/>
-		<entry key="Sequence_FR_Insan_ReverseLoop" translation="Reverse Loop"/>
-		<entry key="Sequence_FR_Insan_ReverseStallLoop" translation="Reverse Stall Loop"/>
-		<entry key="Sequence_FR_Insan_ReverseSwing" translation="Reverse Swing"/>
-		<entry key="Sequence_FR_Insan_StallLoop" translation="Stall Loop"/>
-		<entry key="Sequence_FR_Insan_Swing" translation="Swing"/>
-		<entry key="Sequence_FR_Kick_BackwardSpin" translation="Backward Spin"/>
-		<entry key="Sequence_FR_Kick_BackwardStall" translation="Backward Stall"/>
-		<entry key="Sequence_FR_Kick_BackwardSwitch" translation="Backward Switch"/>
-		<entry key="Sequence_FR_Kick_ForwardSpin" translation="Forward Spin"/>
-		<entry key="Sequence_FR_Kick_ForwardStall" translation="Forward Stall"/>
-		<entry key="Sequence_FR_Kick_ForwardSwitch" translation="Forward Switch"/>
-		<entry key="Sequence_FR_Looper_BarrelRoll" translation="Barrel Roll"/>
-		<entry key="Sequence_FR_Looper_BarrelRoll_Reversed" translation="Barrel Roll Reversed"/>
-		<entry key="Sequence_FR_Looper_FastLoop" translation="Fast Loop"/>
-		<entry key="Sequence_FR_Looper_FastLoop_Reversed" translation="Fast Loop Reversed"/>
-		<entry key="Sequence_FR_Looper_SlowTumble" translation="Slow Tumble"/>
-		<entry key="Sequence_FR_Looper_SlowTumble_Reversed" translation="Slow Tumble Reversed"/>
+		<entry key="Sequence_FR_Caro_SpinFast" translation="Rotazione Veloce"/>
+		<entry key="Sequence_FR_Cube_AllSpin" translation="Rotazione Intera"/>
+		<entry key="Sequence_FR_Cube_ForwardFlip" translation="Capriola in avanti"/>
+		<entry key="Sequence_FR_Cube_LockedTurnOver" translation="Capovolta Bloccata"/>
+		<entry key="Sequence_FR_Cube_ReverseAllSpin" translation="Rotazione intera inversa"/>
+		<entry key="Sequence_FR_Cube_TurnAround" translation="Giravolta"/>
+		<entry key="Sequence_FR_Demonic_BackwardDive" translation="Tuffo a rovescio"/>
+		<entry key="Sequence_FR_Demonic_BackwardDiveFlip" translation="Capriola Tuffo a rovescio"/>
+		<entry key="Sequence_FR_Demonic_BackwardLoop" translation="Giro della morte a rovescio"/>
+		<entry key="Sequence_FR_Demonic_BigFrontFlips" translation="Capriole Grande Fronte"/>
+		<entry key="Sequence_FR_Demonic_ForwardDive" translation="Tuffo in avanti"/>
+		<entry key="Sequence_FR_Demonic_ForwardDiveFlip" translation="Capriola Tuffo in avanti"/>
+		<entry key="Sequence_FR_Demonic_ForwardLoop" translation="Giro della morte in avanti"/>
+		<entry key="Sequence_FR_Demonic_HoldInverted" translation="Fisso Invertito"/>
+		<entry key="Sequence_FR_Demonic_HoldTop" translation="Fisso in Alto"/>
+		<entry key="Sequence_FR_Demonic_InvertedTwist" translation="Torsione Invertita"/>
+		<entry key="Sequence_FR_Demonic_TiltedLoop" translation="Giro della morte inclinato"/>
+		<entry key="Sequence_FR_Demonic_Twist" translation="Torsione"/>
+		<entry key="Sequence_FR_Demonic_TwistedFlips" translation="Capriole contorte"/>
+		<entry key="Sequence_FR_Gondola_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_Gondola_SpinFast" translation="Rotazione Veloce"/>
+		<entry key="Sequence_FR_Gondola_SpinFastTilt" translation="Rotazione Veloce Inclinata"/>
+		<entry key="Sequence_FR_Gondola_SpinTilt" translation="Rotazione Inclinata"/>
+		<entry key="Sequence_FR_HRing_Loop" translation="Giro della morte in avanti"/>
+		<entry key="Sequence_FR_HRing_ReverseLoop" translation="Giro della morte a rovescio"/>
+		<entry key="Sequence_FR_HRing_StallSwing" translation="Oscillazione Stallo"/>
+		<entry key="Sequence_FR_HRing_Swing" translation="Oscillazione"/>
+		<entry key="Sequence_FR_HSwing_SwingHigh" translation="Oscillazione Alta"/>
+		<entry key="Sequence_FR_HSwing_SwingLow" translation="Oscillazione Bassa"/>
+		<entry key="Sequence_FR_Insan_DoubleLoop" translation="Doppio Giro della morte"/>
+		<entry key="Sequence_FR_Insan_DoubleReverseLoop" translation="Doppio Giro della morte inverso"/>
+		<entry key="Sequence_FR_Insan_Loop" translation="Giro della morte"/>
+		<entry key="Sequence_FR_Insan_ReverseLoop" translation="Giro della morte inverso"/>
+		<entry key="Sequence_FR_Insan_ReverseStallLoop" translation="Giro della morte Stallo Inverso"/>
+		<entry key="Sequence_FR_Insan_ReverseSwing" translation="Oscillazione Inversa"/>
+		<entry key="Sequence_FR_Insan_StallLoop" translation="Giro della morte Stallo"/>
+		<entry key="Sequence_FR_Insan_Swing" translation="Oscillazione"/>
+		<entry key="Sequence_FR_Kick_BackwardSpin" translation="Rotazione a rovescio"/>
+		<entry key="Sequence_FR_Kick_BackwardStall" translation="Stallo "/>
+		<entry key="Sequence_FR_Kick_BackwardSwitch" translation="Scambio a rovescio"/>
+		<entry key="Sequence_FR_Kick_ForwardSpin" translation="Rotazione in avanti"/>
+		<entry key="Sequence_FR_Kick_ForwardStall" translation="Stallo in avanti"/>
+		<entry key="Sequence_FR_Kick_ForwardSwitch" translation="Scambio in avanti"/>
+		<entry key="Sequence_FR_Looper_BarrelRoll" translation="Rotolo di Barile"/>
+		<entry key="Sequence_FR_Looper_BarrelRoll_Reversed" translation="Rotolo di Barile Inverso"/>
+		<entry key="Sequence_FR_Looper_FastLoop" translation="Giro della morte Veloce"/>
+		<entry key="Sequence_FR_Looper_FastLoop_Reversed" translation="Giro della morte Veloce Inverso"/>
+		<entry key="Sequence_FR_Looper_SlowTumble" translation="Caduta Lenta"/>
+		<entry key="Sequence_FR_Looper_SlowTumble_Reversed" translation="Caduta Lenta Inversa"/>
 		<entry key="Sequence_FR_Magtrl_Main" translation="Sequenza Principale"/>
 		<entry key="Sequence_FR_Orb_Loop" translation="Sequenza Principale"/>
-		<entry key="Sequence_FR_Overpower_BackwardDive" translation="Backward Loop"/>
-		<entry key="Sequence_FR_Overpower_BackwardDiveLocked" translation="Backward Locked"/>
-		<entry key="Sequence_FR_Overpower_BackwardSpin" translation="Backward Intense Flips"/>
-		<entry key="Sequence_FR_Overpower_BottomHoldSpin" translation="Forward Dive Flips 2"/>
-		<entry key="Sequence_FR_Overpower_ForwardDive" translation="Forward Loop"/>
-		<entry key="Sequence_FR_Overpower_ForwardDiveLocked" translation="Forward Locked"/>
-		<entry key="Sequence_FR_Overpower_ForwardHold" translation="Forward Dive Flips 1"/>
-		<entry key="Sequence_FR_Overpower_ForwardHoldLocked" translation="Forward Hold Locked"/>
-		<entry key="Sequence_FR_Overpower_ForwardSpin" translation="Forward Intense Flips"/>
-		<entry key="Sequence_FR_Overpower_Swing" translation="Low Swing"/>
-		<entry key="Sequence_FR_Overpower_TopHoldSpin" translation="Backward Dive Flips"/>
-		<entry key="Sequence_FR_SFlare_Spin" translation="Spin High"/>
+		<entry key="Sequence_FR_Overpower_BackwardDive" translation="Giro della morte a rovescio"/>
+		<entry key="Sequence_FR_Overpower_BackwardDiveLocked" translation="Bloccato a rovescio"/>
+		<entry key="Sequence_FR_Overpower_BackwardSpin" translation="Capriole Intense a rovescio"/>
+		<entry key="Sequence_FR_Overpower_BottomHoldSpin" translation="Capriole con Tuffo in avanti 2"/>
+		<entry key="Sequence_FR_Overpower_ForwardDive" translation="Giro della morte in avanti"/>
+		<entry key="Sequence_FR_Overpower_ForwardDiveLocked" translation="Bloccato in avanti"/>
+		<entry key="Sequence_FR_Overpower_ForwardHold" translation="Capriole con Tuffo in avanti 1"/>
+		<entry key="Sequence_FR_Overpower_ForwardHoldLocked" translation="Tenuta in avanti bloccata"/>
+		<entry key="Sequence_FR_Overpower_ForwardSpin" translation="Capriole Intense in avanti"/>
+		<entry key="Sequence_FR_Overpower_Swing" translation="Oscillazione Bassa"/>
+		<entry key="Sequence_FR_Overpower_TopHoldSpin" translation="Capriole con Tuffi al rovescio"/>
+		<entry key="Sequence_FR_SFlare_Spin" translation="Rotazione alta"/>
 		<entry key="Sequence_FR_SKFR_Main" translation="Sequenza Principale"/>
-		<entry key="Sequence_FR_Scream_Loop" translation="Tower Drop"/>
+		<entry key="Sequence_FR_Scream_Loop" translation="Discesa dalla Torre"/>
 		<entry key="Sequence_FR_StarW_Main" translation="Sequenza Principale"/>
 		<entry key="Sequence_FR_Sundial_LoopCCW" translation="Senso Antiorario"/>
 		<entry key="Sequence_FR_Sundial_LoopCW" translation="Senso Orario"/>
@@ -5510,100 +5510,100 @@
 		<entry key="Sequence_FR_TeaCups_CounterClockwiseLoop" translation="Senso Antiorario"/>
 		<entry key="Sequence_FR_TnyFrsWhl_RotCCW" translation="Senso Antiorario"/>
 		<entry key="Sequence_FR_TnyFrsWhl_RotCW" translation="Senso Orario"/>
-		<entry key="Sequence_FR_Victory_Swing" translation="Swing"/>
+		<entry key="Sequence_FR_Victory_Swing" translation="Oscillazione"/>
 		<entry key="Sequence_FR_WBlue_Loop" translation="Sequenza Principale"/>
-		<entry key="Sequence_Forge_BigDrop" translation="Big Drop"/>
-		<entry key="Sequence_Forge_CentrifugeBottom" translation="Spin Fast Bottom"/>
-		<entry key="Sequence_Forge_CentrifugeTop" translation="Spin Fast Top"/>
-		<entry key="Sequence_Forge_FakeOut" translation="Fakeout Drop"/>
-		<entry key="Sequence_Forge_FreeFall" translation="Inverted Drop"/>
-		<entry key="Sequence_Forge_ReachSky" translation="Inverted Spin"/>
-		<entry key="Sequence_Forge_SpinBottom" translation="Spin Bottom"/>
-		<entry key="Sequence_Forge_SpinDive" translation="Spin Dive"/>
-		<entry key="Sequence_Forge_SpinTop" translation="Spin Top"/>
-		<entry key="Sequence_Forge_TakeFlight" translation="Slow Rise"/>
-		<entry key="Sequence_Forge_TumbleFall" translation="Staged Fall"/>
-		<entry key="Sequence_Genie_AirGrab" translation="Stall Spin Middle"/>
-		<entry key="Sequence_Genie_Drifting" translation="Drifting Spin"/>
-		<entry key="Sequence_Genie_RailSlide" translation="Stall Spin Long"/>
-		<entry key="Sequence_Genie_StallTurn" translation="Stall Spin End"/>
-		<entry key="Sequence_Genie_Standard" translation="Standard Spin"/>
+		<entry key="Sequence_Forge_BigDrop" translation="Grande Discesa"/>
+		<entry key="Sequence_Forge_CentrifugeBottom" translation="Fondo Rotazione Veloce"/>
+		<entry key="Sequence_Forge_CentrifugeTop" translation="Apice Rotazione Veloce"/>
+		<entry key="Sequence_Forge_FakeOut" translation="Discesa a sorpresa"/>
+		<entry key="Sequence_Forge_FreeFall" translation="Discesa Invertita"/>
+		<entry key="Sequence_Forge_ReachSky" translation="Rotazione Invertita"/>
+		<entry key="Sequence_Forge_SpinBottom" translation="Fondo Rotazione"/>
+		<entry key="Sequence_Forge_SpinDive" translation="Rotazione in picchiata"/>
+		<entry key="Sequence_Forge_SpinTop" translation="Apice Rotazione"/>
+		<entry key="Sequence_Forge_TakeFlight" translation="Risalita lenta"/>
+		<entry key="Sequence_Forge_TumbleFall" translation="Caduta Controllata"/>
+		<entry key="Sequence_Genie_AirGrab" translation="Rotazione Stallo Media"/>
+		<entry key="Sequence_Genie_Drifting" translation="Rotazione derapante"/>
+		<entry key="Sequence_Genie_RailSlide" translation="Rotazione Stallo Lunga"/>
+		<entry key="Sequence_Genie_StallTurn" translation="Rotazione Stallo Finale"/>
+		<entry key="Sequence_Genie_Standard" translation="Rotazione Standard"/>
 		<entry key="Sequence_MindBender_Loop" translation="Sequenza Principale"/>
-		<entry key="Sequence_Polyp_MegaBounce" translation="Bounce Sequence"/>
-		<entry key="Sequence_Polyp_Oscillate" translation="Wave Sequence"/>
+		<entry key="Sequence_Polyp_MegaBounce" translation="Sequenza Rimbalzo"/>
+		<entry key="Sequence_Polyp_Oscillate" translation="Sequenza Onda"/>
 		<entry key="Sequence_Polyp_SpinLow" translation="Sequenza di Rotazione"/>
 		<!--FlexiColourLabels-->
-		<entry key="SemanticFlexiColour_Chrysanthemum_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Chrysanthemum_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Chrysanthemum_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Chrysanthemum_Large_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_Chrysanthemum_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Chrysanthemum_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_Comet_Multi_Launch_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Comet_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Crossette_FirstExplosion" translation="First Explosion"/>
-		<entry key="SemanticFlexiColour_Crossette_Large_FirstExplosion" translation="First Explosion"/>
-		<entry key="SemanticFlexiColour_Crossette_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Crossette_Large_SecondExplosion" translation="Second Explosion"/>
-		<entry key="SemanticFlexiColour_Crossette_Large_ThirdExplosion" translation="Third Explosion"/>
-		<entry key="SemanticFlexiColour_Crossette_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Crossette_SecondExplosion" translation="Second Explosion"/>
-		<entry key="SemanticFlexiColour_Crossette_ThirdExplosion" translation="Third Explosion"/>
-		<entry key="SemanticFlexiColour_Disc_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Disc_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Disc_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Disc_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Disc_Small_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Disc_Small_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Flare_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_FlyingFish_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_FlyingFish_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_FlyingFish_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_FourWay_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_FourWay_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_FourWay_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_FourWay_Large_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_FourWay_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_FourWay_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_HorseTail_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_HorseTail_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_HorseTail_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_HorseTail_Large_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_HorseTail_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_HorseTail_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_MultiBursts_FirstExplosion" translation="First Explosion"/>
-		<entry key="SemanticFlexiColour_MultiBursts_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_MultiBursts_Sub_FirstExplosion" translation="First Sub Explosion"/>
-		<entry key="SemanticFlexiColour_MultiBursts_Sub_SecondExplosion" translation="Second Sub Explosion"/>
-		<entry key="SemanticFlexiColour_Palm_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Palm_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Palm_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Palm_Large_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_Palm_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Palm_Trail" translation="Firework Trail"/>
-		<entry key="SemanticFlexiColour_Pearls_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Pearls_Multi_Launch_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Pearls_Multi_Launch_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Pearls_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Bursts_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Bursts_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Bursts_Multi_Launch_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Small_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Small_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Sparkle_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Sparkle_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Sparkle_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Sparkle_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_Large_FirstExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_Large_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_Large_SecondExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_Large_ThirdExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_RocketTrail" translation="Rocket Trail"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_SecondExplosion" translation="Explosion"/>
-		<entry key="SemanticFlexiColour_Peony_Triple_ThirdExplosion" translation="Explosion"/>
+		<entry key="SemanticFlexiColour_Chrysanthemum_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Chrysanthemum_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Chrysanthemum_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Chrysanthemum_Large_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_Chrysanthemum_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Chrysanthemum_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_Comet_Multi_Launch_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Comet_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Crossette_FirstExplosion" translation="Prima Esplosione"/>
+		<entry key="SemanticFlexiColour_Crossette_Large_FirstExplosion" translation="Prima Esplosione"/>
+		<entry key="SemanticFlexiColour_Crossette_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Crossette_Large_SecondExplosion" translation="Seconda Esplosione"/>
+		<entry key="SemanticFlexiColour_Crossette_Large_ThirdExplosion" translation="Terza Esplosione"/>
+		<entry key="SemanticFlexiColour_Crossette_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Crossette_SecondExplosion" translation="Seconda Esplosione"/>
+		<entry key="SemanticFlexiColour_Crossette_ThirdExplosion" translation="Terza Esplosione"/>
+		<entry key="SemanticFlexiColour_Disc_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Disc_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Disc_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Disc_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Disc_Small_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Disc_Small_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Flare_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_FlyingFish_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_FlyingFish_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_FlyingFish_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_FourWay_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_FourWay_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_FourWay_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_FourWay_Large_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_FourWay_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_FourWay_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_HorseTail_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_HorseTail_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_HorseTail_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_HorseTail_Large_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_HorseTail_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_HorseTail_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_MultiBursts_FirstExplosion" translation="Prima Esplosione"/>
+		<entry key="SemanticFlexiColour_MultiBursts_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_MultiBursts_Sub_FirstExplosion" translation="Prima Esplosione Parziale"/>
+		<entry key="SemanticFlexiColour_MultiBursts_Sub_SecondExplosion" translation="Seconda Esplosione Parziale"/>
+		<entry key="SemanticFlexiColour_Palm_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Palm_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Palm_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Palm_Large_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_Palm_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Palm_Trail" translation="Scia di Fuoco d'Artificio"/>
+		<entry key="SemanticFlexiColour_Pearls_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Pearls_Multi_Launch_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Pearls_Multi_Launch_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Pearls_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Bursts_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Bursts_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Bursts_Multi_Launch_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Small_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Small_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Sparkle_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Sparkle_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Sparkle_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Sparkle_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_Large_FirstExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_Large_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_Large_SecondExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_Large_ThirdExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_RocketTrail" translation="Scia di Razzo"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_SecondExplosion" translation="Esplosione"/>
+		<entry key="SemanticFlexiColour_Peony_Triple_ThirdExplosion" translation="Esplosione"/>
 		<!--FrontEndMenu-->
 		<entry key="FrontEndMenu_All" translation="Tutti"/>
 		<entry key="FrontEndMenu_AllUploads" translation="Guarda tutti gli Uploads"/>
@@ -5652,25 +5652,25 @@
 		<entry key="FrontEndMenu_Credits" translation="Crediti"/>
 		<entry key="FrontEndMenu_CreditsButton" translation="Crediti"/>
 		<entry key="FrontEndMenu_Custom" translation="Custom"/>
-		<entry key="FrontEndMenu_CustomAmbienceDescription" translation="Pick the ambient environmental audio for this new environment."/>
-		<entry key="FrontEndMenu_CustomAmbienceHeader" translation="Custom Ambience"/>
-		<entry key="FrontEndMenu_CustomBiomeDescription" translation="Pick the terrain you wish to base this custom environment on."/>
-		<entry key="FrontEndMenu_CustomBiomeHeader" translation="Starting Environment"/>
-		<entry key="FrontEndMenu_CustomDescription" translation="Start your park with unlimited money and build in a custom environment!"/>
-		<entry key="FrontEndMenu_CustomPaint_ConfirmCancel" translation="Cancel"/>
+		<entry key="FrontEndMenu_CustomAmbienceDescription" translation="Scegli l'audio ambientale per questo nuovo ambiente."/>
+		<entry key="FrontEndMenu_CustomAmbienceHeader" translation="Atmosfera Personalizzata"/>
+		<entry key="FrontEndMenu_CustomBiomeDescription" translation="Scegli il terreno su cui desideri basarti per l'ambiente personalizzato."/>
+		<entry key="FrontEndMenu_CustomBiomeHeader" translation="Ambiente di partenza"/>
+		<entry key="FrontEndMenu_CustomDescription" translation="Comincia a costruire il tuo parco con denaro illimitato e costruisci in un ambiente personalizzato!"/>
+		<entry key="FrontEndMenu_CustomPaint_ConfirmCancel" translation="Annulla"/>
 		<entry key="FrontEndMenu_CustomPaint_ConfirmOK" translation="OK"/>
-		<entry key="FrontEndMenu_CustomPaint_Title" translation="Paint Picker"/>
-		<entry key="FrontEndMenu_CustomSandbox_Terrain" translation="Starting Terrain"/>
-		<entry key="FrontEndMenu_CustomSimulation" translation="Custom"/>
-		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Start your park with limited money and build in a custom environment"/>
-		<entry key="FrontEndMenu_CustomTerrainPaintFilter" translation="Filter"/>
-		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Swap Paint Style"/>
-		<entry key="FrontEndMenu_Deciduous" translation="Deciduous"/>
+		<entry key="FrontEndMenu_CustomPaint_Title" translation="Scelta Vernice"/>
+		<entry key="FrontEndMenu_CustomSandbox_Terrain" translation="Terreno di Partenza"/>
+		<entry key="FrontEndMenu_CustomSimulation" translation="Personalizzato"/>
+		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Comincia a costruire il tuo parco con denaro limitato e costruisci in un ambiente personalizzato"/>
+		<entry key="FrontEndMenu_CustomTerrainPaintFilter" translation="Filtro"/>
+		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Scambio Vernice"/>
+		<entry key="FrontEndMenu_Deciduous" translation="Deciduo"/>
 		<entry key="FrontEndMenu_DeciduousDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario lussureggiante!"/>
-		<entry key="FrontEndMenu_DeciduousSimulation" translation="Deciduous"/>
+		<entry key="FrontEndMenu_DeciduousSimulation" translation="Deciduo"/>
 		<entry key="FrontEndMenu_DeciduousSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario lussureggiante!"/>
-		<entry key="FrontEndMenu_DefaultChallengeParkName" translation="Challenge Park"/>
-		<entry key="FrontEndMenu_DefaultSandboxParkName" translation="Sandbox Park"/>
+		<entry key="FrontEndMenu_DefaultChallengeParkName" translation="Parco Sfida"/>
+		<entry key="FrontEndMenu_DefaultSandboxParkName" translation="Parco Sandbox"/>
 		<entry key="FrontEndMenu_DeleteButton" translation="Elimina"/>
 		<entry key="FrontEndMenu_Desert" translation="Deserto"/>
 		<entry key="FrontEndMenu_DesertDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario sabbioso!"/>
@@ -5680,7 +5680,7 @@
 		<entry key="FrontEndMenu_Difficulty" translation="Difficoltà"/>
 		<entry key="FrontEndMenu_DifficultyEasy" translation="Facile"/>
 		<entry key="FrontEndMenu_DifficultyEasy_Description" translation="Budget Iniziale: $8000&#10;Tasso di Restituzione: 75%&#10;&#10;Ricerca veloce ed illimitata&#10;I visitatori restano felici a lungo&#10;Le attrazioni si rovinano lentamente"/>
-		<entry key="FrontEndMenu_DifficultyExplanation" translation="In harder difficulties you can expect:&#10;• Less starting cash.&#10;• Fewer items researched.&#10;• Guest happiness to drop more quickly.&#10;• More frequent breakdowns.&#10;• Faster ride reputation decline.&#10;• Guests to be harder to attract."/>
+		<entry key="FrontEndMenu_DifficultyExplanation" translation="A difficoltà più elevate potrai aspettarti:&#10;• meno denaro in partenza.&#10;• Pochissimi elementi ricercati.&#10;• Felicità dei visitatori che scende più velocemente.&#10;• Guasti più frequenti.&#10;• Declino reputazione attrazioni più veloce.&#10;• Visitatori più difficili da attirare."/>
 		<entry key="FrontEndMenu_DifficultyHard" translation="Difficile"/>
 		<entry key="FrontEndMenu_DifficultyHard_Description" translation="Budget Iniziale: $2000 (no loans available)&#10;Tasso di Restituzione: 25%&#10;&#10;Ricerca lenta e costosa&#10;I visitatori diventano tristi in fretta &#10;Le attrazioni si rovinano in fretta"/>
 		<entry key="FrontEndMenu_DifficultyHarder" translation="Harder"/>
@@ -5689,7 +5689,7 @@
 		<entry key="FrontEndMenu_DifficultyMedium" translation="Media"/>
 		<entry key="FrontEndMenu_DifficultyMedium_Description" translation="Budget Iniziale: $4000&#10;Tasso di Restituzione: 50%&#10;&#10;Ricerca con costo e velocità normali&#10;La felicità dei visitatori è normale&#10;Le attrazioni si rovinano in tempi standard"/>
 		<entry key="FrontEndMenu_Disconnected" translation="Sei Offline!"/>
-		<entry key="FrontEndMenu_Downloads" translation="Downloads"/>
+		<entry key="FrontEndMenu_Downloads" translation="Scaricamenti"/>
 		<entry key="FrontEndMenu_DownloadsDescription" translation="Guarda i parchi ed i progetti che hai scaricato"/>
 		<entry key="FrontEndMenu_EditAvatar" translation="Modifica Avatar"/>
 		<entry key="FrontEndMenu_EditAvatarGroup" translation="Modifica VIP Group Ticket"/>
@@ -5706,8 +5706,8 @@
 		<entry key="FrontEndMenu_Follow" translation="Segui"/>
 		<entry key="FrontEndMenu_Followers" translation="Followers"/>
 		<entry key="FrontEndMenu_Friend" translation="Amico"/>
-		<entry key="FrontEndMenu_FrontierDeveloper" translation="Frontier Developer"/>
-		<entry key="FrontEndMenu_FrontierParks" translation="Frontier Parks"/>
+		<entry key="FrontEndMenu_FrontierDeveloper" translation="Sviluppatore Frontier"/>
+		<entry key="FrontEndMenu_FrontierParks" translation="Parchi Frontier"/>
 		<entry key="FrontEndMenu_GlobeFilter_All" translation="Tutti"/>
 		<entry key="FrontEndMenu_GlobeFilter_Celebs" translation="Creatori Popolari"/>
 		<entry key="FrontEndMenu_GlobeFilter_Friends" translation="Amici"/>
@@ -5715,16 +5715,16 @@
 		<entry key="FrontEndMenu_GrasslandDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in queste ricche praterie!"/>
 		<entry key="FrontEndMenu_GrasslandSimulation" translation="Prateria"/>
 		<entry key="FrontEndMenu_GrasslandSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in queste ricche praterie!"/>
-		<entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Send a group out into the parks of the Planet Coaster universe!"/>
-		<entry key="FrontEndMenu_GroupEditor_InfoTitle" translation="Create your VIP Group Ticket!"/>
-		<entry key="FrontEndMenu_HQPlacement_InfoLabel" translation="The HQ is where other players will see your avatar and access any parks or blueprints you have shared.\n\nPosition your avatar anywhere on the globe. You can edit your avatar HQ position later."/>
-		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo HQ!"/>
+		<entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Spedisci un gruppo là fuori nei parchi dell'universo Planet Coaster!"/>
+		<entry key="FrontEndMenu_GroupEditor_InfoTitle" translation="Crea il tuo Biglietto VIP Gruppo!"/>
+		<entry key="FrontEndMenu_HQPlacement_InfoLabel" translation="Il Quartier Generale è dove gli altri giocatori vedranno il tuo avatar e avranno accesso ad ogni parco o progetto che hai condiviso.\n\nPosiziona il tuo avatar in qualsiasi parte del globo. Puoi modificare la posizione del Quartier Generale del tuo avatar anche dopo."/>
+		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo Quartier Generale!"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptCancel" translation="No"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Sì"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptLabel" translation="Sei sicuro?\n\nPotrai modificarlo in seguito."/>
-		<entry key="FrontEndMenu_HQPlacement_PromptTitle" translation="HQ Placement"/>
-		<entry key="FrontEndMenu_LastUpdated" translation="Ultimo Update: {Date}"/>
-		<entry key="FrontEndMenu_LevelUnlock" translation="You need to be at least level {Value:int} to unlock this level."/>
+		<entry key="FrontEndMenu_HQPlacement_PromptTitle" translation="Posizionamento Quartier Generale"/>
+		<entry key="FrontEndMenu_LastUpdated" translation="Ultimo Aggiornamento: {Date}"/>
+		<entry key="FrontEndMenu_LevelUnlock" translation="Devi essere almeno di livello {Value:int} per sbloccare questo livello."/>
 		<entry key="FrontEndMenu_Load" translation="Carica"/>
 		<entry key="FrontEndMenu_LoadDate" translation="{TimeString} - {DateString}"/>
 		<entry key="FrontEndMenu_LoadFailed_Desc" translation="Caricamento Salvataggio Fallito"/>
@@ -5760,8 +5760,8 @@
 		<entry key="FrontEndMenu_Player" translation="Sei tu!"/>
 		<entry key="FrontEndMenu_PromptNo" translation="No"/>
 		<entry key="FrontEndMenu_PromptYes" translation="Sì"/>
-		<entry key="FrontEndMenu_Rating" translation="Rating"/>
-		<entry key="FrontEndMenu_RepositionHQ" translation="Modifica HQ Avatar"/>
+		<entry key="FrontEndMenu_Rating" translation="Valutazione"/>
+		<entry key="FrontEndMenu_RepositionHQ" translation="Modifica Avatar su Quartier Generale "/>
 		<entry key="FrontEndMenu_Resume" translation="Continua"/>
 		<entry key="FrontEndMenu_Sandbox" translation="Sandbox"/>
 		<entry key="FrontEndMenu_SandboxDescription" translation="Avvia un nuovo parco in una fresca pianura e lascia volare la tua immaginazione! Sei libero di costruire senza restrizioni!"/>
@@ -5863,7 +5863,7 @@
 		<entry key="FrontEndMenu_UserOnline" translation="Online"/>
 		<entry key="FrontEndMenu_Username" translation="{Name}"/>
 		<entry key="FrontEndMenu_VIPEditor_InfoLabel" translation="Crea un ospite per visitare il parco degli altri giocatori."/>
-		<entry key="FrontEndMenu_VIPEditor_InfoTitle" translation="Create your VIP Single Ticket!"/>
+		<entry key="FrontEndMenu_VIPEditor_InfoTitle" translation="Crea il tuo Biglietto VIP Singolo!"/>
 		<entry key="FrontEndMenu_ViewInDownloads" translation="Guarda in Downloads"/>
 		<entry key="FrontEndMenu_ViewInWorkshop" translation="Guarda in Workshop"/>
 		<entry key="FrontEndMenu_ViewSteamProfile" translation="Guarda tutti gli Upload"/>
@@ -6030,7 +6030,7 @@
 		<entry key="Start" translation="Start"/>
 		<entry key="StationPrefix" translation="Stazione"/>
 		<entry key="TIME" translation="{Hours:int}:{Minutes:int}"/>
-		<entry key="TIME_MONTHS" translation="{Months:int} months"/>
+		<entry key="TIME_MONTHS" translation="{Months:int} mesi"/>
 		<entry key="TIME_MONTHS_AND_YEARS" translation="{Years}, {Months}"/>
 		<entry key="TIME_MONTHS_SINGULAR" translation="1 mese"/>
 		<entry key="TIME_MONTHS_ZERO" translation="&amp;lt;1 mese"/>
@@ -12358,14 +12358,14 @@
 		<entry key="PopUp_RideTesting_Duration" translation="Durata"/>
 		<entry key="PopUp_RideTesting_Excitement" translation="Eccitazione"/>
 		<entry key="PopUp_RideTesting_Fear" translation="Paura"/>
-		<entry key="PopUp_RideTesting_Heatmaps" translation="Mappe di Calore"/>
-		<entry key="PopUp_RideTesting_Heatmaps_Live" translation="Dati attuali"/>
-		<entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Dati Mappa di Calore"/>
+		<entry key="PopUp_RideTesting_Heatmaps" translation="Mappe di Intensità"/>
+		<entry key="PopUp_RideTesting_Heatmaps_Live" translation="Dati in diretta"/>
+		<entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Dati Mappa di Intensità"/>
 		<entry key="PopUp_RideTesting_Heatmaps_Pass_N" translation="Passaggi {VALUE:int}"/>
 		<entry key="PopUp_RideTesting_Heatmaps_PreviousRun" translation="Dati corsa precedente"/>
 		<entry key="PopUp_RideTesting_LateralG" translation="Accelerazione Laterale"/>
 		<entry key="PopUp_RideTesting_Length" translation="Lunghezza"/>
-		<entry key="PopUp_RideTesting_LiveData" translation="Dati attuali"/>
+		<entry key="PopUp_RideTesting_LiveData" translation="Dati in diretta"/>
 		<entry key="PopUp_RideTesting_LongG" translation="Accelerazione Anteriore"/>
 		<entry key="PopUp_RideTesting_MaxDrop" translation="Caduta più alta"/>
 		<entry key="PopUp_RideTesting_MaxLateralG" translation="Massima Accelerazione Laterale"/>
@@ -12935,8 +12935,8 @@
 		<entry key="InfoPanel_Ride_Tooltip_Parent" translation="Seleziona attrazione"/>
 		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Telecamera attrazione"/>
 		<entry key="InfoPanel_Ride_Type" translation="Tipo di attrazione"/>
-		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Calore per vedere quali aree della tua attrazione sono problematiche."/>
-		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Calore per vedere quali aree della tua attrazione sono problematiche."/>
+		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
+		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
 		<!--InfoPanel_Scenery-->
 		<entry key="InfoPanel_Scenery_BuildingStatistics" translation="Statistiche Struttura"/>
 		<entry key="InfoPanel_Scenery_ButtonShop" translation="{NAME}"/>
