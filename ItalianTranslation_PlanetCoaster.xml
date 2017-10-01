@@ -162,7 +162,7 @@
 		<entry key="Blueprints_CanyonRunner01" translation="Rebel"/>
 		<entry key="Blueprints_CanyonRunner01Desc" translation="Un layout per il Mine Train coaster"/>
 		<entry key="Blueprints_Cargo" translation="Cargo"/>
-		<entry key="Blueprints_CargoDesc" translation="A pile of cargo"/>
+		<entry key="Blueprints_CargoDesc" translation="Un mucchio di casse da carico"/>
 		<entry key="Blueprints_CastleATMmachine" translation="Il bancomat del castello fatato"/>
 		<entry key="Blueprints_CastleATMmachineDesc" translation="Il bancomat del castello fatato"/>
 		<entry key="Blueprints_CastleArchway" translation="Arcata Castello Fatato"/>
@@ -195,7 +195,7 @@
 		<entry key="Blueprints_DragonBlueprint01" translation="Flight of the Dragon"/>
 		<entry key="Blueprints_DragonBlueprint01Desc" translation="Un layout per il Junior coaster"/>
 		<entry key="Blueprints_DragonSlayer" translation="A Dragon whispering scene"/>
-		<entry key="Blueprints_DragonSlayerDesc" translation="A Dragon whispering scene"/>
+		<entry key="Blueprints_DragonSlayerDesc" translation="Scenario del Dragone Sussurrante"/>
 		<entry key="Blueprints_Enigma01" translation="Twister"/>
 		<entry key="Blueprints_Enigma01Desc" translation="Un layout per lo Standup coaster"/>
 		<entry key="Blueprints_EnigmaBlueprint01" translation="Twister"/>
@@ -1838,7 +1838,7 @@
 		<entry key="BuildingPartName_ST_Merge_Station_Surround_01_A" translation="Muro in arenaria 4m Rivestimento Stazione 1"/>
 		<entry key="BuildingPartName_ST_Merge_Station_Surround_01_B" translation="Muro per Castello 4m Rivestimento Stazione 1"/>
 		<entry key="BuildingPartName_ST_Merge_Station_Surround_02_A" translation="Muro Arenaria 4m Rivestimento Stazione 2"/>
-		<entry key="BuildingPartName_ST_Merge_Station_Surround_02_B" translation="Castle Wall 4m Rivestimento Stazione 2"/>
+		<entry key="BuildingPartName_ST_Merge_Station_Surround_02_B" translation="Muro del Castello 4m Rivestimento Stazione 2"/>
 		<entry key="BuildingPartName_ST_Merge_WallTop_A_01" translation="Merlatura superiore per Muro in arenaria"/>
 		<entry key="BuildingPartName_ST_Merge_WallTop_A_02" translation="Parte superiore Muro in arenaria"/>
 		<entry key="BuildingPartName_ST_Merge_WallTop_A_03" translation="Campanile superiore Muro in arenaria"/>
@@ -1909,7 +1909,7 @@
 		<entry key="BuildingPartName_ST_Roof_Spire_TowerRoundSlim_B" translation="Torre con guglie sottile arrotondata Castello"/>
 		<entry key="BuildingPartName_ST_Roof_Spire_TowerRound_B" translation="Torre con guglie arrotondata Castello"/>
 		<entry key="BuildingPartName_ST_Roof_Spire_TowerRound_Short_B" translation="Torre con guglie piccola arrotondata Castello"/>
-		<entry key="BuildingPartName_ST_Roof_Spire_Tower_B" translation="Square Torre con guglie quadrata Castello"/>
+		<entry key="BuildingPartName_ST_Roof_Spire_Tower_B" translation="Torre Quadrata con guglie Castello"/>
 		<entry key="BuildingPartName_ST_Support_B_2m" translation="Supporto Castello"/>
 		<entry key="BuildingPartName_ST_Support_B_4m" translation="Supporto Balcone Castello"/>
 		<entry key="BuildingPartName_ST_TowerOct_B_2m" translation="Colonna ottogonale Castello 2m"/>
@@ -2603,15 +2603,15 @@
 		<entry key="BuildingPartName_BK_Pillar_C_01_4m" translation="Pilastro di mattoni classici 4m"/>
 		<entry key="BuildingPartName_FAD_BurgerBasic_BurgerNeon" translation="Insegna Neon Burger Base"/>
 		<entry key="BuildingPartName_FAD_BurgerBasic_BurgerSign" translation="Insegna Burger Base"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefBadge" translation="Emblema Capitan Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefCrest" translation="Insegna piccolo logo Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefBadge" translation="Emblema di Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefCrest" translation="Insegna piccola con logo di Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefCutoutSign" translation="Insegna Capitan Manzo - Insegna da parete 6 Saluto"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalGlowSign" translation="Insegna sospesa ampia larga Capitan Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalSign" translation="Insegna sospesa ampia media Capitan Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefLargeSign" translation="Capitan Manzo Emblema Grande Illuminato"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefLargeVerticalSign" translation="Capitan Manzo Insegna Alta Illuminata"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefNeonSign" translation="Insegna Neon Capitan Manzo"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefPatrolLight" translation="Capitan Manzo Luce di pattuglia"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalGlowSign" translation="Insegna sospesa ampia larga di Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefHorizontalSign" translation="Insegna sospesa ampia media di Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefLargeSign" translation="Emblema Grande Illuminato di Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefLargeVerticalSign" translation="Insegna Alta Illuminata di Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefNeonSign" translation="Insegna Neon di Capitan Manzo"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefPatrolLight" translation="Luce di pattuglia di Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefVerticalSign" translation="Insegna alta illuminata Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefWoodenSign" translation="Insegna scudo di Legno Capitan Manzo"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBanner" translation="Stendardo Mucca Cosmica"/>
@@ -2697,7 +2697,7 @@
 		<entry key="BuildingPartName_FT_Torch_01" translation="Torcia a staffa"/>
 		<entry key="BuildingPartName_FT_WallLamps_01" translation="Lampada Candela"/>
 		<entry key="BuildingPartName_FT_WallLamps_02" translation="Lampada Cottage"/>
-		<entry key="BuildingPartName_FT_WallLamps_03" translation="Lampada Dragon"/>
+		<entry key="BuildingPartName_FT_WallLamps_03" translation="Lampada Dragone"/>
 		<entry key="BuildingPartName_FT_WallLamps_04" translation="Lampada Fiore"/>
 		<entry key="BuildingPartName_FT_WallLamps_05" translation="Lampada Fungo"/>
 		<entry key="BuildingPartName_FT_WallLamps_06" translation="Lampada Orientale"/>
@@ -2840,8 +2840,8 @@
 		<entry key="BuildingPartName_PC_Signs_Feature_12" translation="Sagoma 12 - Passerella"/>
 		<entry key="BuildingPartName_PC_Signs_Feature_13" translation="Sagoma 13 - Bang"/>
 		<entry key="BuildingPartName_PC_Signs_Feature_14" translation="Sagoma 14 - Traccia"/>
-		<entry key="BuildingPartName_PC_Signs_Glasses_Boys" translation="Insegna mista - Sunglasses 1 piccola"/>
-		<entry key="BuildingPartName_PC_Signs_Glasses_Girls" translation="Insegna mista - Sunglasses 2 piccola"/>
+		<entry key="BuildingPartName_PC_Signs_Glasses_Boys" translation="Insegna mista - Occhiali da Sole 1 piccola"/>
+		<entry key="BuildingPartName_PC_Signs_Glasses_Girls" translation="Insegna mista - Occhiali da Sole 2 piccola"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Coaster" translation="Insegna mista - Coaster Loop Small Accesa"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Globe" translation="Insegna mista - Luce piccola globo"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Hand" translation="Insegna mista - Luce piccola mano"/>
@@ -3072,11 +3072,11 @@
 		<entry key="BuildingPartName_WD_Pillar_B_01_2m" translation="Colonna in Calcestruzzo 2m"/>
 		<entry key="BuildingPartName_WD_Pillar_B_01_4m" translation="Colonna in Calcestruzzo 4m"/>
 		<entry key="BuildingPartName_WD_Pillar_B_01_8m" translation="Colonna in Calcestruzzo 8m"/>
-		<entry key="BuildingPartName_WD_Pillar_B_01_Capital" translation="Colonna in Calcestruzzo Cap"/>
+		<entry key="BuildingPartName_WD_Pillar_B_01_Capital" translation="Punta di Colonna in Calcestruzzo"/>
 		<entry key="BuildingPartName_WD_Pillar_B_02_2m" translation="Trave di legno spessa 2m"/>
 		<entry key="BuildingPartName_WD_Pillar_B_02_4m" translation="Trave di legno spessa 4m"/>
 		<entry key="BuildingPartName_WD_Pillar_B_02_8m" translation="Trave di legno spessa 8m"/>
-		<entry key="BuildingPartName_WD_Post_B_01_4m" translation="Pilastro in legno 4m - Carved"/>
+		<entry key="BuildingPartName_WD_Post_B_01_4m" translation="Pilastro in legno 4m - Intagliato"/>
 		<entry key="BuildingPartName_WD_Railing_A_4m" translation="Ringhiera in legno"/>
 		<entry key="BuildingPartName_WD_Railing_Angle_A_4m" translation="Ringhiera in legno Angolo"/>
 		<entry key="BuildingPartName_WD_Railing_Corner_A_4m" translation="Ringhiera in legno Spigolo"/>
@@ -3640,7 +3640,7 @@
 		<entry key="BuildingPartDesc_HOL_Sweets_Jelly_Drop" translation="Delizioso zucchero.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Sweets_Marshmallow_01" translation="Delizioso zucchero.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Sweets_Marshmallow_02" translation="Delizioso zucchero.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Sweets_Scarf" translation="Snowman&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Sweets_Scarf" translation="Pupazzo di Neve&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Sweets_Strawberries_Cream" translation="Delizioso zucchero.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_TaperedBauble" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_TaperedBauble_Small" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
@@ -3650,8 +3650,8 @@
 		<entry key="BuildingPartDesc_HOL_TreeBauble" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_TreeBauble_Small" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Truffle_A" translation="Delizioso zucchero.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Truffle_B" translation="Delicious sugar.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Truffle_C" translation="Delicious sugar.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Truffle_B" translation="Delizioso zucchero.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Truffle_C" translation="Delizioso zucchero.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Trumpet" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_TubeWafer" translation="Decorazione per gelato.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_VienneseFinger" translation="Delizioso zucchero.&#10;Tema Festivo"/>
@@ -3665,8 +3665,8 @@
 		<entry key="BuildingPartDesc_HOL_Wreath_SwagLargeR" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Wreath_SwagSmallL" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Wreath_SwagSmallR" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_Light_Decoration_04" translation="Festive Sign.&#10;Festive Theme"/>
-		<entry key="BuildingPartDesc_Light_Decoration_08" translation="Festive Sign.&#10;Festive Theme"/>
+		<entry key="BuildingPartDesc_Light_Decoration_04" translation="Insegna Festiva.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_Light_Decoration_08" translation="Insegna Festiva.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Glitter" translation="Effetto Speciale - "/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Fall" translation="Effetto Speciale - Detriti di Neve"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Large" translation="Effetto Speciale - Polvere di Neve"/>
@@ -3675,11 +3675,11 @@
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Flurry" translation="Effetto Speciale - Polvere di Neve"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_SnowFalling" translation="Effetto Speciale - Nevicata"/>
 		<entry key="BuildingPartDesc_PC_LifeRing" translation="Utilizzare in caso di Kraken.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_SF_SpaceWall_01" translation="A starry view.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SF_SpaceWall_02" translation="A starry view.&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_WS_CoasterDoor_01" translation="The horses are bolting!.&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WS_Sign_Metal_01" translation="Advertising from a different era.&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WS_Sign_Metal_02" translation="Advertising from a different era.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_SF_SpaceWall_01" translation="Una vista stellata.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_SpaceWall_02" translation="Una vista stellata.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_WS_CoasterDoor_01" translation="I cavalli stanno scappando!.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WS_Sign_Metal_01" translation="Pubblicità da un'altra era.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WS_Sign_Metal_02" translation="Pubblicità da un'altra era.&#10;Tema Western"/>
 		<entry key="BuildingPartName_FAD_CosmicCow_Icecream_Banner" translation="Insegna Gelato Mucca Cosmica - Da Parete 1"/>
 		<entry key="BuildingPartName_FAD_CosmicCow_Icecream_BannerGlowSign" translation="Insegna Gelato Mucca Cosmica - Da Parete 2 Accesa"/>
 		<entry key="BuildingPartName_FAD_CosmicCow_Icecream_BannerStand" translation="Insegna Gelato Mucca Cosmica - Con Supporto 1"/>
@@ -3847,7 +3847,7 @@
 		<entry key="BuildingPartName_HOL_Sweets_Jelly_Drop" translation="Dolciumi - Goccia di Gelatina"/>
 		<entry key="BuildingPartName_HOL_Sweets_Marshmallow_01" translation="Dolciumi - Marshmallow 1"/>
 		<entry key="BuildingPartName_HOL_Sweets_Marshmallow_02" translation="Dolciumi - Marshmallow 2"/>
-		<entry key="BuildingPartName_HOL_Sweets_Scarf" translation="Snowman Clothing - Scarf 2"/>
+		<entry key="BuildingPartName_HOL_Sweets_Scarf" translation="Abiti Pupazzo di Neve - Sciarpa 2"/>
 		<entry key="BuildingPartName_HOL_Sweets_Strawberries_Cream" translation="Dolciumi - Caramella Panna e Fragola"/>
 		<entry key="BuildingPartName_HOL_TaperedBauble" translation="Pallina di Natale - Affusolata Grande"/>
 		<entry key="BuildingPartName_HOL_TaperedBauble_Small" translation="Pallina di Natale - Affusolata Piccola"/>
@@ -3857,8 +3857,8 @@
 		<entry key="BuildingPartName_HOL_TreeBauble" translation="Pallina di Natale - Albero Grande"/>
 		<entry key="BuildingPartName_HOL_TreeBauble_Small" translation="Pallina di Natale - Albero Piccolo"/>
 		<entry key="BuildingPartName_HOL_Truffle_A" translation="Dolciumi - Tartufo 1"/>
-		<entry key="BuildingPartName_HOL_Truffle_B" translation="Confectionary - Truffle 2"/>
-		<entry key="BuildingPartName_HOL_Truffle_C" translation="Confectionary - Truffle 3"/>
+		<entry key="BuildingPartName_HOL_Truffle_B" translation="Dolciumi - Tartufo 2"/>
+		<entry key="BuildingPartName_HOL_Truffle_C" translation="Dolciumi - Tartufo 3"/>
 		<entry key="BuildingPartName_HOL_Trumpet" translation="Tromba Decorativa"/>
 		<entry key="BuildingPartName_HOL_TubeWafer" translation="Dolciumi - Cialda Wafer a Cannuccia con Cioccolato"/>
 		<entry key="BuildingPartName_HOL_VienneseFinger" translation="Dolciumi - Biscotto Viennese al Cioccolato"/>
@@ -4338,7 +4338,7 @@
 		<entry key="BuildingPartName_FT_StoneArchway" translation="Arcata di Pietra"/>
 		<entry key="BuildingPartName_FT_TreeArchway" translation="Arcata di Alberi Fiabesca"/>
 		<entry key="BuildingPartName_HOL_Snowman_Coal" translation="Pezzo di Carbone"/>
-		<entry key="BuildingPartName_HOL_StandardPinkWafer" translation="PAsticceria - Biscotto Wafer Rosa"/>
+		<entry key="BuildingPartName_HOL_StandardPinkWafer" translation="Pasticceria - Biscotto Wafer Rosa"/>
 		<entry key="BuildingPartName_HOL_Wreath_Straight" translation="Ghirlanda Agrifoglio - Dritta"/>
 		<entry key="BuildingPartName_PC_Champagne" translation="Champagne"/>
 		<entry key="BuildingPartName_PC_Core_Bench_02" translation="Panchina Parco 2"/>
