@@ -306,7 +306,7 @@
 		<entry key="Blueprints_FairyWindmill" translation="Il mulino del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyWindmillDesc" translation="Ottimo per decorare un grazioso laghetto."/>
 		<entry key="Blueprints_Fayre" translation="Fiera"/>
-		<entry key="Blueprints_FayreDesc" translation="Un pittoresca fiera"/>
+		<entry key="Blueprints_FayreDesc" translation="Una pittoresca fiera"/>
 		<entry key="Blueprints_FlowerStall" translation="Chiosco di fiori"/>
 		<entry key="Blueprints_FlowerStallDesc" translation="Un simpatico chiosco di fiori"/>
 		<entry key="Blueprints_GoKart01BlueprintDesc" translation="Un layout per il Go Karts Track"/>
@@ -339,7 +339,7 @@
 		<entry key="Blueprints_KrakenAttack" translation="Kraken Attack"/>
 		<entry key="Blueprints_KrakenAttackDesc" translation="Una nave pirata che viene trascinata sul fondo del mare da una mistica creatura."/>
 		<entry key="Blueprints_LightLine01" translation="Beam Runner"/>
-		<entry key="Blueprints_LightLine01Desc" translation="Un layout per il Monorail"/>
+		<entry key="Blueprints_LightLine01Desc" translation="Un layout per la Monorotaia"/>
 		<entry key="Blueprints_LoadingPage" translation="Caricamento..."/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01" translation="The Madness"/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01Desc" translation="Un layout per il Loony Turns coaster"/>
@@ -3667,7 +3667,7 @@
 		<entry key="BuildingPartDesc_HOL_Wreath_SwagSmallR" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_Light_Decoration_04" translation="Insegna Festiva.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_Light_Decoration_08" translation="Insegna Festiva.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_PC_FXBox_Glitter" translation="Effetto Speciale - "/>
+		<entry key="BuildingPartDesc_PC_FXBox_Glitter" translation="Effetto Glitter"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Fall" translation="Effetto Speciale - Detriti di Neve"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Large" translation="Effetto Speciale - Polvere di Neve"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Medium" translation="Effetto Speciale - Polvere di Neve"/>
@@ -14878,27 +14878,27 @@
 		<entry key="PathResource_Path_09_Description" translation="Il tuo percorso standard con un bel cordolo."/>
 		<entry key="PathResource_Path_09_Title" translation="Un percorso naturale segnato sul terreno con una bordatura in legno."/>
 		<entry key="PathResource_Path_10_Description" translation="Il tuo percorso standard con un bel cordolo."/>
-		<entry key="PathResource_Path_10_Title" translation="Un percorso naturale con una bordatura in legno."/>
+		<entry key="PathResource_Path_10_Title" translation="Un sentiero naturale con una bordatura in legno."/>
 		<entry key="PathResource_Path_11_Description" translation="Ghiaia Cementata"/>
-		<entry key="PathResource_Path_11_Title" translation="Un rustico percorso di ghiaia cementata con cornice in legno."/>
+		<entry key="PathResource_Path_11_Title" translation="Un rustico sentiero di ghiaia cementata con cornice in legno."/>
 		<entry key="PathResource_Path_12_Description" translation="Nero Sci-Fi"/>
 		<entry key="PathResource_Path_12_Title" translation="Un lucido percorso in vinile con cornice in metallo."/>
 		<entry key="PathResource_Path_13_Description" translation="Sanpietrini"/>
 		<entry key="PathResource_Path_13_Title" translation="Piccoli sanpietrini con cornice in legno."/>
 		<entry key="PathResource_Path_14_Description" translation="Ciottoli"/>
-		<entry key="PathResource_Path_14_Title" translation="Colorati ciottoli incorniciati da una bordatura in pietra"/>
+		<entry key="PathResource_Path_14_Title" translation="Ciottoli Colorati incorniciati da una bordatura in pietra"/>
 		<entry key="PathResource_Path_15_Description" translation="Lastre di pietra quadrate."/>
 		<entry key="PathResource_Path_15_Title" translation="Pesanti quadrati di pietra incorniciati nella stessa."/>
 		<entry key="PathResource_Path_16_Description" translation="Mattoni"/>
-		<entry key="PathResource_Path_16_Title" translation="Un colorato percorso di mattoni con bordatura in pietra."/>
-		<entry key="PathResource_Path_17_Description" translation="Wood"/>
-		<entry key="PathResource_Path_17_Title" translation="Your standard path piece with a nice kerb"/>
-		<entry key="PathResource_Path_18_Description" translation="Wood"/>
-		<entry key="PathResource_Path_18_Title" translation="Your standard path piece with a nice kerb"/>
-		<entry key="PathResource_Path_19_Description" translation="A asphalt path with stone kerb and metal railings."/>
-		<entry key="PathResource_Path_19_Title" translation="A standard asphalt path."/>
-		<entry key="PathResource_Path_21_Description" translation="A durable stone slab path."/>
-		<entry key="PathResource_Path_21_Title" translation="Stone Slab Path"/>
+		<entry key="PathResource_Path_16_Title" translation="Un colorato sentiero di mattoni con bordatura in pietra."/>
+		<entry key="PathResource_Path_17_Description" translation="Legno"/>
+		<entry key="PathResource_Path_17_Title" translation="Un normale sentiero con un piacevole bordo"/>
+		<entry key="PathResource_Path_18_Description" translation="Legno"/>
+		<entry key="PathResource_Path_18_Title" translation="Un normale sentiero con un piacevole bordo"/>
+		<entry key="PathResource_Path_19_Description" translation="Un percorso in asfalto, con bordi in pietra e ringhiere di metallo."/>
+		<entry key="PathResource_Path_19_Title" translation="Un normale percorso in asfalto."/>
+		<entry key="PathResource_Path_21_Description" translation="Un duraturo percorso in lastre di pietra"/>
+		<entry key="PathResource_Path_21_Title" translation="Percorso in Lastre di Pietra"/>
 		<entry key="PathResource_Queue_01_Description" translation="Un percorso d'attesa con una bella ringhiera"/>
 		<entry key="PathResource_Queue_01_Title" translation="Un percorso d'attesa blu."/>
 		<entry key="PathResource_Queue_02_Description" translation="Un percorso d'attesa con una bella ringhiera"/>
@@ -14913,20 +14913,20 @@
 		<entry key="PathResource_Queue_06_Title" translation="Un percorso d'attesa lucido in vinile con una cornice in metallo"/>
 		<entry key="PathResource_Queue_07_Description" translation="Lastre quadrate in pietra."/>
 		<entry key="PathResource_Queue_07_Title" translation="Piccole lastre quadrate in pietra incorniciate nella stessa."/>
-		<entry key="PathResource_Queue_08_Description" translation="Percorso d'attesa in legno."/>
-		<entry key="PathResource_Queue_08_Title" translation="Un resistente percorso d'attesa in legno."/>
-		<entry key="PathResource_Queue_09_Description" translation="Wood queue."/>
-		<entry key="PathResource_Queue_09_Title" translation="A hard wearing wooden queue."/>
-		<entry key="PathResource_Queue_10_Description" translation="Wood queue."/>
-		<entry key="PathResource_Queue_10_Title" translation="A hard wearing wooden queue."/>
-		<entry key="PathResource_Queue_11_Description" translation="A asphalt path with stone kerb and metal railings."/>
-		<entry key="PathResource_Queue_11_Title" translation="A standard asphalt path"/>
-		<entry key="PathResource_Queue_13_Description" translation="A durable stone slab queue."/>
-		<entry key="PathResource_Queue_13_Title" translation="Stone Slab Queue"/>
+		<entry key="PathResource_Queue_08_Description" translation="Un resistente percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_08_Title" translation="Percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_09_Description" translation="Un resistente percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_09_Title" translation="Percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_10_Description" translation="Un resistente percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_10_Title" translation="Percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_11_Description" translation="Un percorso d'attesa in asfalto, con bordi in pietra e ringhiere di metallo."/>
+		<entry key="PathResource_Queue_11_Title" translation="Un percorso d'attesa in asfalto"/>
+		<entry key="PathResource_Queue_13_Description" translation="Un duraturo percorso in lastre di pietra."/>
+		<entry key="PathResource_Queue_13_Title" translation="Percorso d'attesa in Lastre di Pietra"/>
 		<!--Research-->
 		<entry key="Research_Hint_CanyonRunner" translation="Trasportatore di carbone"/>
 		<entry key="Research_Hint_Coaster_Aethon" translation="Le cadute più ripide!"/>
-		<entry key="Research_Hint_Coaster_Anubis" translation="All about airtime"/>
+		<entry key="Research_Hint_Coaster_Anubis" translation="Tempo in aria"/>
 		<entry key="Research_Hint_Coaster_BFalcon" translation="Niente sopra, niente sotto"/>
 		<entry key="Research_Hint_Coaster_BLisk" translation="Tutto in uno!"/>
 		<entry key="Research_Hint_Coaster_Barghest" translation="Altamente versatile"/>
@@ -20169,7 +20169,7 @@
 		<entry key="TriggeredAudioEvents_Pitch" translation="Intensità"/>
 		<entry key="TriggeredAudioEvents_TestTrigger" translation="Test Innesco"/>
 		<entry key="TriggeredSFX_Alarms_Heading" translation="Allarmi"/>
-		<entry key="TriggeredSFX_Announcement_Heading" translation="Announcements"/>
+		<entry key="TriggeredSFX_Announcement_Heading" translation="Avvisi"/>
 		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
 		<entry key="TriggeredSFX_Horror_Heading" translation="Horror"/>
 		<entry key="TriggeredSFX_Human_Heading" translation="Umano"/>
@@ -20179,9 +20179,9 @@
 		<entry key="TriggeredSFX_Miscellaneous_Heading" translation="Varie"/>
 		<entry key="TriggeredSFX_Musical_Heading" translation="Musica"/>
 		<entry key="TriggeredSFX_Nature_Heading" translation="Natura"/>
-		<entry key="TriggeredSFX_Pirate_Heading" translation="Pirate"/>
+		<entry key="TriggeredSFX_Pirate_Heading" translation="Pirata"/>
 		<entry key="TriggeredSFX_SciFi_Heading" translation="Sci-Fi"/>
-		<entry key="TriggeredSFX_Spooky_Heading" translation="Spooky"/>
+		<entry key="TriggeredSFX_Spooky_Heading" translation="Spaventoso"/>
 		<entry key="TriggeredSFX_Western_Heading" translation="Western"/>
 		<entry key="TriggeredSFX_Whoosh_Heading" translation="Whoosh"/>
 	</translation>
