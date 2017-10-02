@@ -4897,9 +4897,9 @@
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_2m" translation="Schermo TV 2m"/>
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="Schermo TV 4m"/>
 		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Insegna Ufficiale di Steel Vengeance"/>
-		<entry key="BuildingPartName_WS_Band_Bar" translation="Wagon Stand Bar"/>
-		<entry key="BuildingPartName_WS_Band_Piano" translation="Wagon Stand Piano"/>
-		<entry key="BuildingPartName_WS_Band_Stage" translation="Wagon Stand Vuoto"/>
+		<entry key="BuildingPartName_WS_Band_Bar" translation="Stand Vagone - Bar"/>
+		<entry key="BuildingPartName_WS_Band_Piano" translation="Stand Vagone - Piano"/>
+		<entry key="BuildingPartName_WS_Band_Stage" translation="Stand Vagone - Vuoto"/>
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Schermi"/>
 		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fuochi d'Artificio"/>
@@ -16277,7 +16277,7 @@
 		<entry key="BuildingPartDesc_WS_Anvil" translation="Ferro caldo.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_01" translation="Pronto per il bestiame.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_Deco_01" translation="Yee haw!&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WS_Band" translation="Pop up entertainment.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_WS_Belt" translation="Per chi ha bisogno di spostarsi velocemente.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Refined" translation="Vecchio ma ben curato.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Rustic" translation="Messo insieme con robuste tavole.&#10;Tema Western"/>
