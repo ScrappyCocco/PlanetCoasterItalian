@@ -2318,7 +2318,7 @@
 		<entry key="BuildingPartDesc_PC_Signs_Graphic_Globe" translation="Set di Insegne di Vario Tipo"/>
 		<entry key="BuildingPartDesc_PC_Signs_Graphic_Hand" translation="Set di Insegne di Vario Tipo"/>
 		<entry key="BuildingPartDesc_PC_Signs_Graphic_Wings" translation="Insegna alata"/>
-		<entry key="BuildingPartDesc_PC_Signs_RobotArm" translation="Sci-Fi Sign.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_PC_Signs_RobotArm" translation="Insegna Sci-Fi.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_PC_Signs_Spaceship" translation="Insegna Sci-Fi.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_PC_ToiletSigns_MaleFemale" translation="Insegna larga toilet.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_ToiletSigns_Plate" translation="Insegna discreta toilet.\nSet Planet Coaster"/>
@@ -4617,7 +4617,7 @@
 		<entry key="Blueprints_RivieraVilla" translation="Riviera Villa"/>
 		<entry key="Blueprints_RivieraVillaDesc" translation="Stravagante villa davanti al mare"/>
 		<entry key="Blueprints_SteelVengeanceBlueprint01" translation="Steel Vengeance"/>
-		<entry key="Blueprints_SteelVengeanceBlueprint01Desc" translation="A layout for the Steel Vengeance coaster"/>
+		<entry key="Blueprints_SteelVengeanceBlueprint01Desc" translation="Un layout per il coaster Steel Vengeance"/>
 		<entry key="Blueprints_ViperBlueprint01" translation="Wrangler"/>
 		<entry key="Blueprints_ViperBlueprint01Desc" translation="Un layout per il Viper coaster"/>
 		<entry key="Blueprints_WoodenBlueprint02" translation="Tornado"/>
@@ -4648,7 +4648,7 @@
 		<entry key="Coaster_PowerUp" translation="Power Up"/>
 		<entry key="Coaster_PowerUp_Desc" translation="Una Montagna Russa dove il treno è trascinato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
 		<entry key="Coaster_SteelVengeance" translation="Steel Vengeance"/>
-		<entry key="Coaster_SteelVengeance_Desc" translation="Official track of Cedar Point's Steel Vengeance coaster. Steel track and wooden coaster supports combine to create a hybrid coaster that can invert, whilst retaining the look and characteristics of a wooden coaster."/>
+		<entry key="Coaster_SteelVengeance_Desc" translation="Percorso Ufficiale del coaster Steel Vengeance di Cedar Point. Tracciato d'acciaio e supporti al coaster di legno, si combinano per creare un coaster ibrido che può invertirsi, pur mantenendo un look e le caratteristiche di un coaster di legno."/>
 		<entry key="Coaster_Type_Bolt" translation="Boomerang"/>
 		<entry key="Coaster_Type_Degen" translation="Looping"/>
 		<entry key="Coaster_Type_Gnarler" translation="Wooden"/>
@@ -4666,7 +4666,7 @@
 		<entry key="FR_Blackout_Desc" translation="Addentrati nello spazio profondo a bordo di questa astronave dondolante.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Blackout_Prefix" translation="Blackout"/>
 		<entry key="FR_Coriolis" translation="Coriolis"/>
-		<entry key="FR_Coriolis_Desc" translation="Take control of the Coriolis force.&#10;Gentle Ride"/>
+		<entry key="FR_Coriolis_Desc" translation="Prendi il controllo della Forza di Coriolis.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_Coriolis_Prefix" translation="Coriolis"/>
 		<entry key="FR_DragonHeart" translation="Iron Claw"/>
 		<entry key="FR_DragonHeart_Desc" translation="Questo pendolo eccitante ti terrà attaccato.&#10;Attrazione Emozionante"/>
@@ -4677,10 +4677,10 @@
 		<entry key="Sequence_FR_Blackout_Loop" translation="Loop"/>
 		<entry key="Sequence_FR_Blackout_LoopReverse" translation="Loop Invertito"/>
 		<entry key="Sequence_FR_Blackout_Swing" translation="Oscillazione"/>
-		<entry key="Sequence_FR_Coriolis_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_Coriolis_SpinHigh" translation="Spin High"/>
-		<entry key="Sequence_FR_Coriolis_SpinHighReverse" translation="Spin High Reverse"/>
-		<entry key="Sequence_FR_Coriolis_SpinReverse" translation="Spin Reverse"/>
+		<entry key="Sequence_FR_Coriolis_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_Coriolis_SpinHigh" translation="Rotazione AltA"/>
+		<entry key="Sequence_FR_Coriolis_SpinHighReverse" translation="Rotazione Alta Invertita"/>
+		<entry key="Sequence_FR_Coriolis_SpinReverse" translation="Rotazione Invertita"/>
 		<entry key="Sequence_FR_DragonHeart_Swing" translation="Oscillazione"/>
 		<entry key="Sequence_FR_DragonHeart_SwingSpin" translation="Oscillazione e Rotazione"/>
 		<entry key="Sequence_FR_DragonHeart_SwingSpinReverse" translation="Oscillazione e Rotazione invertita"/>
@@ -4690,9 +4690,9 @@
 		<entry key="Research_Hint_Coaster_Bolt" translation="Raddoppia il divertimento"/>
 		<entry key="Research_Hint_Coaster_Degen" translation="Rinato per il loop"/>
 		<entry key="Research_Hint_Coaster_Gnarler" translation="Materiali naturali"/>
-		<entry key="Research_Hint_Coaster_ManicMouse" translation="Small and crazy."/>
+		<entry key="Research_Hint_Coaster_ManicMouse" translation="Piccolo e folle."/>
 		<entry key="Research_Hint_Coaster_Powerup" translation="Giro e girotondo"/>
-		<entry key="Research_Hint_Coaster_SteelVengeance" translation="Vengeance is yours."/>
+		<entry key="Research_Hint_Coaster_SteelVengeance" translation="La Vengeance è tua."/>
 		<entry key="Research_Hint_Coaster_ViperOne" translation="Avanti e indietro"/>
 		<entry key="Research_Hint_FR_Blackout" translation="Divertimento per famiglie nello spazio "/>
 		<entry key="Research_Hint_FR_Coriolis" translation="Control the spin"/>
@@ -4710,8 +4710,8 @@
 		<entry key="Research_Revealed_FR_IronClaw" translation="Iron Claw"/>
 		<entry key="Research_Revealed_FR_Skywatcher" translation="Sky Watcher"/>
 		<!--C3_Scenery-->
-		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign" translation="Official Cedar Point sign."/>
-		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign_Large" translation="Official Cedar Point sign."/>
+		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign" translation="Insegna Ufficiale di Cedar Point."/>
+		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign_Large" translation="Insegna Ufficiale Grande di Cedar Point."/>
 		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel_Large" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_FWK_Firework_Chrysanthemum" translation="Effetto Speciale - Fuoco d'artificio a singolo scoppio."/>
@@ -4801,12 +4801,12 @@
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_1m" translation="Schermo TV."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_2m" translation="Schermo TV."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_4m" translation="Schermo TV."/>
-		<entry key="BuildingPartDesc_Steel_Vengance_Sign" translation="Official sign for Cedar Point's Steel Vengeance roller coaster."/>
+		<entry key="BuildingPartDesc_Steel_Vengance_Sign" translation="Insegna Ufficiale per il coaster Steel Vengeance di Cedar Point."/>
 		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartName_CP_Cedar_Point_Sign" translation="Official Cedar Point Sign"/>
-		<entry key="BuildingPartName_CP_Cedar_Point_Sign_Large" translation="Official Cedar Point Large Sign"/>
+		<entry key="BuildingPartName_CP_Cedar_Point_Sign" translation="Insegna Ufficiale di Cedar Point"/>
+		<entry key="BuildingPartName_CP_Cedar_Point_Sign_Large" translation="Insegna Grande Ufficiale di Cedar Point"/>
 		<entry key="BuildingPartName_FWK_Firework_CatherineWheel" translation="Fuoco d'artificio Ruota di Catherine"/>
 		<entry key="BuildingPartName_FWK_Firework_CatherineWheel_Large" translation="Fuoco d'artificio Ruota di Catherine grande"/>
 		<entry key="BuildingPartName_FWK_Firework_Chrysanthemum" translation="Fuoco d'artificio Crisantemo"/>
@@ -4896,7 +4896,7 @@
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_1m" translation="Schermo TV 1m"/>
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_2m" translation="Schermo TV 2m"/>
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="Schermo TV 4m"/>
-		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Official Steel Vengeance Sign"/>
+		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Insegna Ufficiale di Steel Vengeance"/>
 		<entry key="BuildingPartName_WS_Band_Bar" translation="Wagon Stand Bar"/>
 		<entry key="BuildingPartName_WS_Band_Piano" translation="Wagon Stand Piano"/>
 		<entry key="BuildingPartName_WS_Band_Stage" translation="Wagon Stand Vuoto"/>
@@ -13627,9 +13627,9 @@
 		<entry key="Notification_StallTooCheapStacked" translation="I visitatori pensano che molti dei negozi siano convenienti"/>
 		<entry key="Notification_StallTooExpensive" translation="I visitatori pensano che gli oggetti da {Name} siano troppo costosi "/>
 		<entry key="Notification_StallTooExpensiveStacked" translation="I visitatori pensano che molti dei negozi siano troppo costosi"/>
-		<entry key="Notification_TriggerFailedForCost" translation="A triggered item failed to fire because you lack the funds for it."/>
-		<entry key="Notification_TriggerFailedForCostStacked" translation="Triggered items are failing to fire because you lack funds."/>
-		<entry key="Notification_TriggeredItemButton" translation="View Triggered Item"/>
+		<entry key="Notification_TriggerFailedForCost" translation="Un oggetto innescato non ha funzionato, perchè ti mancano i fondi per farlo."/>
+		<entry key="Notification_TriggerFailedForCostStacked" translation="Degli oggetti innescati non hanno funzionato, perchè ti mancano i fondi per farlo."/>
+		<entry key="Notification_TriggeredItemButton" translation="Vedi Oggetti Innescati"/>
 		<entry key="Notification_VandalisedObjectNearSecurityCamera" translation="Vandalismo registrato da una telecamera di sicurezza."/>
 		<entry key="Notification_VandalisedObjectNearSecurityCameraStacked" translation="Molti atti di vandalismo sono stati visti da una telecamera di sicurezza."/>
 		<entry key="Notification_Vandalism" translation="Visualizza"/>
@@ -15129,7 +15129,7 @@
 		<entry key="RideCam_CinematicCabin" translation="Cinematica Cabina"/>
 		<entry key="RideCam_CinematicTrack" translation="Cinematica tracciato"/>
 		<entry key="RideCam_Derail" translation="Scontro"/>
-		<entry key="RideCam_DisplayCamera" translation="Display Camera"/>
+		<entry key="RideCam_DisplayCamera" translation="Mostra Camera"/>
 		<entry key="RideCam_FirstPerson" translation="Prima persona"/>
 		<entry key="RideCam_Guest" translation="Visitatore"/>
 		<entry key="RideCam_GuestCamera" translation="Camera visitatore"/>
@@ -15142,7 +15142,7 @@
 		<entry key="RideCam_RideCamera" translation="Camera giostra"/>
 		<entry key="RideCam_Row" translation="Fila"/>
 		<entry key="RideCam_Seat" translation="Sedile"/>
-		<entry key="RideCam_ShowTestResults" translation="Test Results"/>
+		<entry key="RideCam_ShowTestResults" translation="Risultati Test"/>
 		<entry key="RideCam_Side" translation="Lato"/>
 		<entry key="RideCam_ThirdPerson" translation="Terza persona"/>
 		<entry key="RideCam_Train" translation="Treno"/>
@@ -15265,7 +15265,7 @@
 		<entry key="Objectives_TierName3" translation="Oro"/>
 		<entry key="Objectives_TotalAirTimeMax" translation="Al massimo {Value:float:decimalPlaces=0} secondi di Air Time"/>
 		<entry key="Objectives_TotalAirTimeMin" translation="Almeno {Value:float:decimalPlaces=0} secondi di Air Time"/>
-		<entry key="Objectives_WithLoansCleared" translation="With all loans cleared"/>
+		<entry key="Objectives_WithLoansCleared" translation="Con tutti i prestiti risolti"/>
 		<entry key="ScenarioFanfare_Cash" translation="Soldi Parco"/>
 		<entry key="ScenarioFanfare_Date" translation="Data completata"/>
 		<entry key="ScenarioFanfare_GuestsInPark" translation="Ospiti nel Parco"/>
@@ -15450,10 +15450,10 @@
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_03" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_04" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_plinth" translation="Estremamente resistente.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_01" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_02" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WaterTrough_Stone" translation="Parzialmente ricoperto di vegetazione.\nTema Fantasy"/>
