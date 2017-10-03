@@ -306,7 +306,7 @@
 		<entry key="Blueprints_FairyWindmill" translation="Il mulino del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyWindmillDesc" translation="Ottimo per decorare un grazioso laghetto."/>
 		<entry key="Blueprints_Fayre" translation="Fiera"/>
-		<entry key="Blueprints_FayreDesc" translation="Un pittoresca fiera"/>
+		<entry key="Blueprints_FayreDesc" translation="Una pittoresca fiera"/>
 		<entry key="Blueprints_FlowerStall" translation="Chiosco di fiori"/>
 		<entry key="Blueprints_FlowerStallDesc" translation="Un simpatico chiosco di fiori"/>
 		<entry key="Blueprints_GoKart01BlueprintDesc" translation="Uno schema per il Go Karts Track"/>
@@ -339,7 +339,7 @@
 		<entry key="Blueprints_KrakenAttack" translation="Kraken Attack"/>
 		<entry key="Blueprints_KrakenAttackDesc" translation="Una nave pirata che viene trascinata sul fondo del mare da una mistica creatura."/>
 		<entry key="Blueprints_LightLine01" translation="Beam Runner"/>
-		<entry key="Blueprints_LightLine01Desc" translation="Uno schema per la Monorotaia"/>
+		<entry key="Blueprints_LightLine01Desc" translation="Un layout per la Monorotaia"/>
 		<entry key="Blueprints_LoadingPage" translation="Caricamento..."/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01" translation="The Madness"/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01Desc" translation="Uno schema per il coaster Loony Turns"/>
@@ -2318,7 +2318,7 @@
 		<entry key="BuildingPartDesc_PC_Signs_Graphic_Globe" translation="Set di Insegne di Vario Tipo"/>
 		<entry key="BuildingPartDesc_PC_Signs_Graphic_Hand" translation="Set di Insegne di Vario Tipo"/>
 		<entry key="BuildingPartDesc_PC_Signs_Graphic_Wings" translation="Insegna alata"/>
-		<entry key="BuildingPartDesc_PC_Signs_RobotArm" translation="Sci-Fi Sign.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_PC_Signs_RobotArm" translation="Insegna Sci-Fi.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_PC_Signs_Spaceship" translation="Insegna Sci-Fi.&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_PC_ToiletSigns_MaleFemale" translation="Insegna larga toilet.\nSet Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_ToiletSigns_Plate" translation="Insegna discreta toilet.\nSet Planet Coaster"/>
@@ -3667,7 +3667,7 @@
 		<entry key="BuildingPartDesc_HOL_Wreath_SwagSmallR" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_Light_Decoration_04" translation="Insegna Festiva.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_Light_Decoration_08" translation="Insegna Festiva.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_PC_FXBox_Glitter" translation="Effetto Speciale - "/>
+		<entry key="BuildingPartDesc_PC_FXBox_Glitter" translation="Effetto Glitter"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Fall" translation="Effetto Speciale - Detriti di Neve"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Large" translation="Effetto Speciale - Polvere di Neve"/>
 		<entry key="BuildingPartDesc_PC_FXBox_Snow_Blowing_Medium" translation="Effetto Speciale - Polvere di Neve"/>
@@ -4617,7 +4617,7 @@
 		<entry key="Blueprints_RivieraVilla" translation="Riviera Villa"/>
 		<entry key="Blueprints_RivieraVillaDesc" translation="Stravagante villa davanti al mare"/>
 		<entry key="Blueprints_SteelVengeanceBlueprint01" translation="Steel Vengeance"/>
-		<entry key="Blueprints_SteelVengeanceBlueprint01Desc" translation="Uno schema per il coaster Steel Vengeance"/>
+		<entry key="Blueprints_SteelVengeanceBlueprint01Desc" translation="Un layout per il coaster Steel Vengeance"/>
 		<entry key="Blueprints_ViperBlueprint01" translation="Wrangler"/>
 		<entry key="Blueprints_ViperBlueprint01Desc" translation="Uno schema per il coaster Viper"/>
 		<entry key="Blueprints_WoodenBlueprint02" translation="Tornado"/>
@@ -4710,8 +4710,8 @@
 		<entry key="Research_Revealed_FR_IronClaw" translation="Iron Claw"/>
 		<entry key="Research_Revealed_FR_Skywatcher" translation="Sky Watcher"/>
 		<!--C3_Scenery-->
-		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign" translation="Insegna ufficiale Cedar Point."/>
-		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign_Large" translation="Insegna ufficiale Cedar Point."/>
+		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign" translation="Insegna Ufficiale di Cedar Point."/>
+		<entry key="BuildingPartDesc_CP_Cedar_Point_Sign_Large" translation="Insegna Ufficiale Grande di Cedar Point."/>
 		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_FWK_Firework_CatherineWheel_Large" translation="Effetto Speciale - Girandola di fuochi d'artificio."/>
 		<entry key="BuildingPartDesc_FWK_Firework_Chrysanthemum" translation="Effetto Speciale - Fuoco d'artificio a singolo scoppio."/>
@@ -4805,8 +4805,8 @@
 		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartName_CP_Cedar_Point_Sign" translation="Official Cedar Point Sign"/>
-		<entry key="BuildingPartName_CP_Cedar_Point_Sign_Large" translation="Official Cedar Point Large Sign"/>
+		<entry key="BuildingPartName_CP_Cedar_Point_Sign" translation="Insegna Ufficiale di Cedar Point"/>
+		<entry key="BuildingPartName_CP_Cedar_Point_Sign_Large" translation="Insegna Grande Ufficiale di Cedar Point"/>
 		<entry key="BuildingPartName_FWK_Firework_CatherineWheel" translation="Fuoco d'artificio Ruota di Catherine"/>
 		<entry key="BuildingPartName_FWK_Firework_CatherineWheel_Large" translation="Fuoco d'artificio Ruota di Catherine grande"/>
 		<entry key="BuildingPartName_FWK_Firework_Chrysanthemum" translation="Fuoco d'artificio Crisantemo"/>
@@ -4896,10 +4896,10 @@
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_1m" translation="Schermo TV 1m"/>
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_2m" translation="Schermo TV 2m"/>
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="Schermo TV 4m"/>
-		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Official Steel Vengeance Sign"/>
-		<entry key="BuildingPartName_WS_Band_Bar" translation="Wagon Stand Bar"/>
-		<entry key="BuildingPartName_WS_Band_Piano" translation="Wagon Stand Piano"/>
-		<entry key="BuildingPartName_WS_Band_Stage" translation="Wagon Stand Vuoto"/>
+		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Insegna Ufficiale di Steel Vengeance"/>
+		<entry key="BuildingPartName_WS_Band_Bar" translation="Stand Vagone - Bar"/>
+		<entry key="BuildingPartName_WS_Band_Piano" translation="Stand Vagone - Piano"/>
+		<entry key="BuildingPartName_WS_Band_Stage" translation="Stand Vagone - Vuoto"/>
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Schermi"/>
 		<entry key="Browser_SubCat_VFX_Fireworks" translation="Fuochi d'Artificio"/>
@@ -13627,9 +13627,9 @@
 		<entry key="Notification_StallTooCheapStacked" translation="I visitatori pensano che molti dei negozi siano convenienti"/>
 		<entry key="Notification_StallTooExpensive" translation="I visitatori pensano che gli oggetti da {Name} siano troppo costosi "/>
 		<entry key="Notification_StallTooExpensiveStacked" translation="I visitatori pensano che molti dei negozi siano troppo costosi"/>
-		<entry key="Notification_TriggerFailedForCost" translation="A triggered item failed to fire because you lack the funds for it."/>
-		<entry key="Notification_TriggerFailedForCostStacked" translation="Triggered items are failing to fire because you lack funds."/>
-		<entry key="Notification_TriggeredItemButton" translation="View Triggered Item"/>
+		<entry key="Notification_TriggerFailedForCost" translation="Un oggetto innescato non ha funzionato, perchè ti mancano i fondi per farlo."/>
+		<entry key="Notification_TriggerFailedForCostStacked" translation="Degli oggetti innescati non hanno funzionato, perchè ti mancano i fondi per farlo."/>
+		<entry key="Notification_TriggeredItemButton" translation="Vedi Oggetti Innescati"/>
 		<entry key="Notification_VandalisedObjectNearSecurityCamera" translation="Vandalismo registrato da una telecamera di sicurezza."/>
 		<entry key="Notification_VandalisedObjectNearSecurityCameraStacked" translation="Molti atti di vandalismo sono stati visti da una telecamera di sicurezza."/>
 		<entry key="Notification_Vandalism" translation="Visualizza"/>
@@ -14878,27 +14878,27 @@
 		<entry key="PathResource_Path_09_Description" translation="Il tuo percorso standard con un bel cordolo."/>
 		<entry key="PathResource_Path_09_Title" translation="Un percorso naturale segnato sul terreno con una bordatura in legno."/>
 		<entry key="PathResource_Path_10_Description" translation="Il tuo percorso standard con un bel cordolo."/>
-		<entry key="PathResource_Path_10_Title" translation="Un percorso naturale con una bordatura in legno."/>
+		<entry key="PathResource_Path_10_Title" translation="Un sentiero naturale con una bordatura in legno."/>
 		<entry key="PathResource_Path_11_Description" translation="Ghiaia Cementata"/>
-		<entry key="PathResource_Path_11_Title" translation="Un rustico percorso di ghiaia cementata con cornice in legno."/>
+		<entry key="PathResource_Path_11_Title" translation="Un rustico sentiero di ghiaia cementata con cornice in legno."/>
 		<entry key="PathResource_Path_12_Description" translation="Nero Sci-Fi"/>
 		<entry key="PathResource_Path_12_Title" translation="Un lucido percorso in vinile con cornice in metallo."/>
 		<entry key="PathResource_Path_13_Description" translation="Sanpietrini"/>
 		<entry key="PathResource_Path_13_Title" translation="Piccoli sanpietrini con cornice in legno."/>
 		<entry key="PathResource_Path_14_Description" translation="Ciottoli"/>
-		<entry key="PathResource_Path_14_Title" translation="Colorati ciottoli incorniciati da una bordatura in pietra"/>
+		<entry key="PathResource_Path_14_Title" translation="Ciottoli Colorati incorniciati da una bordatura in pietra"/>
 		<entry key="PathResource_Path_15_Description" translation="Lastre di pietra quadrate."/>
 		<entry key="PathResource_Path_15_Title" translation="Pesanti quadrati di pietra incorniciati nella stessa."/>
 		<entry key="PathResource_Path_16_Description" translation="Mattoni"/>
-		<entry key="PathResource_Path_16_Title" translation="Un colorato percorso di mattoni con bordatura in pietra."/>
-		<entry key="PathResource_Path_17_Description" translation="Wood"/>
-		<entry key="PathResource_Path_17_Title" translation="Your standard path piece with a nice kerb"/>
-		<entry key="PathResource_Path_18_Description" translation="Wood"/>
-		<entry key="PathResource_Path_18_Title" translation="Your standard path piece with a nice kerb"/>
-		<entry key="PathResource_Path_19_Description" translation="A asphalt path with stone kerb and metal railings."/>
-		<entry key="PathResource_Path_19_Title" translation="A standard asphalt path."/>
-		<entry key="PathResource_Path_21_Description" translation="A durable stone slab path."/>
-		<entry key="PathResource_Path_21_Title" translation="Stone Slab Path"/>
+		<entry key="PathResource_Path_16_Title" translation="Un colorato sentiero di mattoni con bordatura in pietra."/>
+		<entry key="PathResource_Path_17_Description" translation="Legno"/>
+		<entry key="PathResource_Path_17_Title" translation="Un normale sentiero con un piacevole bordo"/>
+		<entry key="PathResource_Path_18_Description" translation="Legno"/>
+		<entry key="PathResource_Path_18_Title" translation="Un normale sentiero con un piacevole bordo"/>
+		<entry key="PathResource_Path_19_Description" translation="Un percorso in asfalto, con bordi in pietra e ringhiere di metallo."/>
+		<entry key="PathResource_Path_19_Title" translation="Un normale percorso in asfalto."/>
+		<entry key="PathResource_Path_21_Description" translation="Un duraturo percorso in lastre di pietra"/>
+		<entry key="PathResource_Path_21_Title" translation="Percorso in Lastre di Pietra"/>
 		<entry key="PathResource_Queue_01_Description" translation="Un percorso d'attesa con una bella ringhiera"/>
 		<entry key="PathResource_Queue_01_Title" translation="Un percorso d'attesa blu."/>
 		<entry key="PathResource_Queue_02_Description" translation="Un percorso d'attesa con una bella ringhiera"/>
@@ -14913,20 +14913,20 @@
 		<entry key="PathResource_Queue_06_Title" translation="Un percorso d'attesa lucido in vinile con una cornice in metallo"/>
 		<entry key="PathResource_Queue_07_Description" translation="Lastre quadrate in pietra."/>
 		<entry key="PathResource_Queue_07_Title" translation="Piccole lastre quadrate in pietra incorniciate nella stessa."/>
-		<entry key="PathResource_Queue_08_Description" translation="Percorso d'attesa in legno."/>
-		<entry key="PathResource_Queue_08_Title" translation="Un resistente percorso d'attesa in legno."/>
-		<entry key="PathResource_Queue_09_Description" translation="Wood queue."/>
-		<entry key="PathResource_Queue_09_Title" translation="A hard wearing wooden queue."/>
-		<entry key="PathResource_Queue_10_Description" translation="Wood queue."/>
-		<entry key="PathResource_Queue_10_Title" translation="A hard wearing wooden queue."/>
-		<entry key="PathResource_Queue_11_Description" translation="A asphalt path with stone kerb and metal railings."/>
-		<entry key="PathResource_Queue_11_Title" translation="A standard asphalt path"/>
-		<entry key="PathResource_Queue_13_Description" translation="A durable stone slab queue."/>
-		<entry key="PathResource_Queue_13_Title" translation="Stone Slab Queue"/>
+		<entry key="PathResource_Queue_08_Description" translation="Un resistente percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_08_Title" translation="Percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_09_Description" translation="Un resistente percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_09_Title" translation="Percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_10_Description" translation="Un resistente percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_10_Title" translation="Percorso d'attesa in legno."/>
+		<entry key="PathResource_Queue_11_Description" translation="Un percorso d'attesa in asfalto, con bordi in pietra e ringhiere di metallo."/>
+		<entry key="PathResource_Queue_11_Title" translation="Un percorso d'attesa in asfalto"/>
+		<entry key="PathResource_Queue_13_Description" translation="Un duraturo percorso in lastre di pietra."/>
+		<entry key="PathResource_Queue_13_Title" translation="Percorso d'attesa in Lastre di Pietra"/>
 		<!--Research-->
 		<entry key="Research_Hint_CanyonRunner" translation="Trasportatore di carbone"/>
 		<entry key="Research_Hint_Coaster_Aethon" translation="Le cadute più ripide!"/>
-		<entry key="Research_Hint_Coaster_Anubis" translation="All about airtime"/>
+		<entry key="Research_Hint_Coaster_Anubis" translation="Tempo in aria"/>
 		<entry key="Research_Hint_Coaster_BFalcon" translation="Niente sopra, niente sotto"/>
 		<entry key="Research_Hint_Coaster_BLisk" translation="Tutto in uno!"/>
 		<entry key="Research_Hint_Coaster_Barghest" translation="Altamente versatile"/>
@@ -15129,7 +15129,7 @@
 		<entry key="RideCam_CinematicCabin" translation="Cinematica Cabina"/>
 		<entry key="RideCam_CinematicTrack" translation="Cinematica tracciato"/>
 		<entry key="RideCam_Derail" translation="Scontro"/>
-		<entry key="RideCam_DisplayCamera" translation="Display Camera"/>
+		<entry key="RideCam_DisplayCamera" translation="Mostra Camera"/>
 		<entry key="RideCam_FirstPerson" translation="Prima persona"/>
 		<entry key="RideCam_Guest" translation="Visitatore"/>
 		<entry key="RideCam_GuestCamera" translation="Camera visitatore"/>
@@ -15142,7 +15142,7 @@
 		<entry key="RideCam_RideCamera" translation="Camera giostra"/>
 		<entry key="RideCam_Row" translation="Fila"/>
 		<entry key="RideCam_Seat" translation="Sedile"/>
-		<entry key="RideCam_ShowTestResults" translation="Test Results"/>
+		<entry key="RideCam_ShowTestResults" translation="Risultati Test"/>
 		<entry key="RideCam_Side" translation="Lato"/>
 		<entry key="RideCam_ThirdPerson" translation="Terza persona"/>
 		<entry key="RideCam_Train" translation="Treno"/>
@@ -15265,7 +15265,7 @@
 		<entry key="Objectives_TierName3" translation="Oro"/>
 		<entry key="Objectives_TotalAirTimeMax" translation="Al massimo {Value:float:decimalPlaces=0} secondi di Air Time"/>
 		<entry key="Objectives_TotalAirTimeMin" translation="Almeno {Value:float:decimalPlaces=0} secondi di Air Time"/>
-		<entry key="Objectives_WithLoansCleared" translation="With all loans cleared"/>
+		<entry key="Objectives_WithLoansCleared" translation="Con tutti i prestiti risolti"/>
 		<entry key="ScenarioFanfare_Cash" translation="Soldi Parco"/>
 		<entry key="ScenarioFanfare_Date" translation="Data completata"/>
 		<entry key="ScenarioFanfare_GuestsInPark" translation="Ospiti nel Parco"/>
@@ -15450,10 +15450,10 @@
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_03" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_04" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_plinth" translation="Estremamente resistente.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Vases and Pots Set&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_01" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_02" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WaterTrough_Stone" translation="Parzialmente ricoperto di vegetazione.\nTema Fantasy"/>
@@ -16277,7 +16277,7 @@
 		<entry key="BuildingPartDesc_WS_Anvil" translation="Ferro caldo.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_01" translation="Pronto per il bestiame.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_Deco_01" translation="Yee haw!&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WS_Band" translation="Pop up entertainment.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
 		<entry key="BuildingPartDesc_WS_Belt" translation="Per chi ha bisogno di spostarsi velocemente.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Refined" translation="Vecchio ma ben curato.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Rustic" translation="Messo insieme con robuste tavole.&#10;Tema Western"/>
@@ -20169,7 +20169,7 @@
 		<entry key="TriggeredAudioEvents_Pitch" translation="Intensità"/>
 		<entry key="TriggeredAudioEvents_TestTrigger" translation="Test Innesco"/>
 		<entry key="TriggeredSFX_Alarms_Heading" translation="Allarmi"/>
-		<entry key="TriggeredSFX_Announcement_Heading" translation="Announcements"/>
+		<entry key="TriggeredSFX_Announcement_Heading" translation="Avvisi"/>
 		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
 		<entry key="TriggeredSFX_Horror_Heading" translation="Horror"/>
 		<entry key="TriggeredSFX_Human_Heading" translation="Umano"/>
@@ -20179,9 +20179,9 @@
 		<entry key="TriggeredSFX_Miscellaneous_Heading" translation="Varie"/>
 		<entry key="TriggeredSFX_Musical_Heading" translation="Musica"/>
 		<entry key="TriggeredSFX_Nature_Heading" translation="Natura"/>
-		<entry key="TriggeredSFX_Pirate_Heading" translation="Pirate"/>
+		<entry key="TriggeredSFX_Pirate_Heading" translation="Pirata"/>
 		<entry key="TriggeredSFX_SciFi_Heading" translation="Sci-Fi"/>
-		<entry key="TriggeredSFX_Spooky_Heading" translation="Spooky"/>
+		<entry key="TriggeredSFX_Spooky_Heading" translation="Spaventoso"/>
 		<entry key="TriggeredSFX_Western_Heading" translation="Western"/>
 		<entry key="TriggeredSFX_Whoosh_Heading" translation="Whoosh"/>
 	</translation>
