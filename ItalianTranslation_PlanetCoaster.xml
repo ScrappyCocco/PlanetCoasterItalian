@@ -158,9 +158,9 @@
 		<entry key="Blueprints_ButtonUpdateWorkshopItem" translation="Aggiorna Oggetto Workshop"/>
 		<entry key="Blueprints_CameraControls" translation="Posiziona la camera usando il mouse per catturare un'immagine del tuo progetto."/>
 		<entry key="Blueprints_CanyonBlueprint01" translation="Rebel"/>
-		<entry key="Blueprints_CanyonBlueprint01Desc" translation="Uno schema per il Treno nella Miniera "/>
+		<entry key="Blueprints_CanyonBlueprint01Desc" translation="Uno schema per il Treno nella Miniera"/>
 		<entry key="Blueprints_CanyonRunner01" translation="Rebel"/>
-		<entry key="Blueprints_CanyonRunner01Desc" translation="Un layout per il Mine Train coaster"/>
+		<entry key="Blueprints_CanyonRunner01Desc" translation="Uno schema per il Treno nella Miniera"/>
 		<entry key="Blueprints_Cargo" translation="Merce"/>
 		<entry key="Blueprints_CargoDesc" translation="Un mucchio di merce"/>
 		<entry key="Blueprints_CastleATMmachine" translation="Il bancomat del castello fatato"/>
@@ -191,13 +191,13 @@
 		<entry key="Blueprints_CreateBlueprint" translation="Crea un nuovo progetto"/>
 		<entry key="Blueprints_DefaultTagPrompt" translation="Scegli Tag"/>
 		<entry key="Blueprints_Dragon01" translation="Flight of the Dragon"/>
-		<entry key="Blueprints_Dragon01Desc" translation="Uno schema per il coaster Junior - Dragon "/>
+		<entry key="Blueprints_Dragon01Desc" translation="Uno schema per il coaster Junior - Dragon"/>
 		<entry key="Blueprints_DragonBlueprint01" translation="Flight of the Dragon"/>
-		<entry key="Blueprints_DragonBlueprint01Desc" translation="Un layout per il Junior coaster"/>
+		<entry key="Blueprints_DragonBlueprint01Desc" translation="Uno schema per il coaster Junior"/>
 		<entry key="Blueprints_DragonSlayer" translation="Il Sussurro del Drago"/>
 		<entry key="Blueprints_DragonSlayerDesc" translation="Il Sussurro del Drago"/>
 		<entry key="Blueprints_Enigma01" translation="Twister"/>
-		<entry key="Blueprints_Enigma01Desc" translation="Uno schema per il coaster In Piedi "/>
+		<entry key="Blueprints_Enigma01Desc" translation="Uno schema per il coaster In Piedi"/>
 		<entry key="Blueprints_EnigmaBlueprint01" translation="Twister"/>
 		<entry key="Blueprints_EnigmaBlueprint01Desc" translation="Uno schema per il coaster In Piedi"/>
 		<entry key="Blueprints_Equalizer01" translation="Digitiser"/>
@@ -312,7 +312,7 @@
 		<entry key="Blueprints_GoKart01BlueprintDesc" translation="Uno schema per il Go Karts Track"/>
 		<entry key="Blueprints_GoKartBlueprint01" translation="Ring Racers"/>
 		<entry key="Blueprints_HoaxBlueprint01" translation="Tana del Carceriere"/>
-		<entry key="Blueprints_HoaxBlueprint01Desc" translation="Uno schema per l'attrazione Hoax ."/>
+		<entry key="Blueprints_HoaxBlueprint01Desc" translation="Uno schema per l'attrazione Hoax."/>
 		<entry key="Blueprints_HuntsmanBlueprint01" translation="Caccia alle Streghe"/>
 		<entry key="Blueprints_HuntsmanBlueprint01Desc" translation="Uno schema per l'attrazione Huntsman."/>
 		<entry key="Blueprints_InProgress" translation="Caricamento su Steam"/>
@@ -339,7 +339,7 @@
 		<entry key="Blueprints_KrakenAttack" translation="Kraken Attack"/>
 		<entry key="Blueprints_KrakenAttackDesc" translation="Una nave pirata che viene trascinata sul fondo del mare da una mistica creatura."/>
 		<entry key="Blueprints_LightLine01" translation="Beam Runner"/>
-		<entry key="Blueprints_LightLine01Desc" translation="Un layout per la Monorotaia"/>
+		<entry key="Blueprints_LightLine01Desc" translation="Uno schema per la Monorotaia"/>
 		<entry key="Blueprints_LoadingPage" translation="Caricamento..."/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01" translation="The Madness"/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01Desc" translation="Uno schema per il coaster Loony Turns"/>
@@ -4617,7 +4617,7 @@
 		<entry key="Blueprints_RivieraVilla" translation="Riviera Villa"/>
 		<entry key="Blueprints_RivieraVillaDesc" translation="Stravagante villa davanti al mare"/>
 		<entry key="Blueprints_SteelVengeanceBlueprint01" translation="Steel Vengeance"/>
-		<entry key="Blueprints_SteelVengeanceBlueprint01Desc" translation="Un layout per il coaster Steel Vengeance"/>
+		<entry key="Blueprints_SteelVengeanceBlueprint01Desc" translation="Uno schema per il coaster Steel Vengeance"/>
 		<entry key="Blueprints_ViperBlueprint01" translation="Wrangler"/>
 		<entry key="Blueprints_ViperBlueprint01Desc" translation="Uno schema per il coaster Viper"/>
 		<entry key="Blueprints_WoodenBlueprint02" translation="Tornado"/>
@@ -12329,41 +12329,41 @@
 		<entry key="PopUp_FocusCam" translation="Centra Telecamera"/>
 		<entry key="PopUp_Guests" translation="Ospiti"/>
 		<entry key="PopUp_Maintenance" translation="Manutenzione"/>
-		<entry key="PopUp_MultiSelect_BlueprintTooManyFlatRides" translation="Blueprints cannot contain amusement rides."/>
-		<entry key="PopUp_MultiSelect_BlueprintTooManyProps" translation="I progetti non possono contenere di 1000 pezzi tra costruzioni e scenario."/>
-		<entry key="PopUp_MultiSelect_BlueprintTooManyRides" translation="Blueprints cannot contain more than 5 rides."/>
-		<entry key="PopUp_MultiSelect_BlueprintTooManyTrackedRides" translation="Blueprints cannot contain more than one coaster."/>
-		<entry key="PopUp_MultiSelect_BuildingMerge" translation="Add standalone scenery to selected building."/>
-		<entry key="PopUp_MultiSelect_BuildingMerge_TooBig" translation="Cannot Add scenery to create a building with more than 5000 scenery/building pieces."/>
+		<entry key="PopUp_MultiSelect_BlueprintTooManyFlatRides" translation="I progetti non possono contenere più di 5 attrazioni d'intrattenimento."/>
+		<entry key="PopUp_MultiSelect_BlueprintTooManyProps" translation="I progetti non possono contenere di 4000 pezzi tra costruzioni e scenario."/>
+		<entry key="PopUp_MultiSelect_BlueprintTooManyRides" translation="I progetti non possono contenere più di 5 attrazioni."/>
+		<entry key="PopUp_MultiSelect_BlueprintTooManyTrackedRides" translation="I progetti non possono contenere più di 5 montagne russe."/>
+		<entry key="PopUp_MultiSelect_BuildingMerge" translation="Aggiungi scenario indipendente all'edificio selezionato."/>
+		<entry key="PopUp_MultiSelect_BuildingMerge_TooBig" translation="Non è possibile aggiungere uno scenario per creare un edificio con più di 5000 pezzi tra costruzioni e scenario."/>
 		<entry key="PopUp_MultiSelect_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Coasters in Chain"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInSelection" translation="Coasters in Selection"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersLinkedToChain" translation="Coasters in Chain"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersLinkedToChain_Label" translation="Up to 5 coasters can be linked together."/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_Confirm_Label" translation="Cannot have more than {MAX:separatedFloat:decimalPlaces=0} coasters in a chain."/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_Description" translation="Use the multiselection tool to add Coasters to your Coaster Chain."/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_Header" translation="Create a Coaster Chain"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected" translation="Coasters Selected"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected_Label" translation="Drag or click to select Coasters you want to Chain together."/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_Title" translation="Coaster Chain"/>
-		<entry key="PopUp_MultiSelect_EditTooManyFlatRides" translation="Cannot move/delete an amusement ride using multi-select."/>
-		<entry key="PopUp_MultiSelect_EditTooManyProps" translation="Cannot move/delete more than 5000 scenery/building pieces at a time."/>
-		<entry key="PopUp_MultiSelect_EditTooManyRides" translation="Cannot move/delete more than 5 rides at a time."/>
-		<entry key="PopUp_MultiSelect_EditTooManyTrackedRides" translation="Cannot move/delete more than 1 coaster at a time."/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Montagne Russe a Catena"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInSelection" translation="Montagne Russe in Selezione"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersLinkedToChain" translation="Montagne Russe a Catena"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersLinkedToChain_Label" translation="E' possibile collegare insieme fino a 5 Montagne Russe."/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_Confirm_Label" translation="Non è possibile avere più di {MAX:separatedFloat:decimalPlaces=0} Montagne Russe in una catena."/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_Description" translation="Usa lo strumentio Selezione Multipla per aggiungere Montagne Russe alla tua Catena."/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_Header" translation="Crea una Catena di Montagne Russe"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected" translation="Montagne Russe selezionate"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected_Label" translation="Trascina o clicca per selezionare le Montagne russe da concatenare insieme."/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_Title" translation="Catena di Montagne Russe"/>
+		<entry key="PopUp_MultiSelect_EditTooManyFlatRides" translation="Non è possibile spostare/cancellare più di 5 attrazioni d'intrattenimento alla volta."/>
+		<entry key="PopUp_MultiSelect_EditTooManyProps" translation="Non è possibile spostare/cancellare più di 5000 pezzi tra costruzioni e scenario alla volta."/>
+		<entry key="PopUp_MultiSelect_EditTooManyRides" translation="Non è possibile spostare/cancellare più di 5 attrazioni alla volta."/>
+		<entry key="PopUp_MultiSelect_EditTooManyTrackedRides" translation="Non è possibile spostare/cancellare più di 5 Montagne Russe alla volta."/>
 		<entry key="PopUp_MultiSelect_FractionValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_MultiSelect_LabelCountBuilding" translation="Costruzioni"/>
 		<entry key="PopUp_MultiSelect_LabelCountFlatRides" translation="Attrazioni"/>
 		<entry key="PopUp_MultiSelect_LabelCountSceneryParts" translation="Scenario &amp; Elementi Costruzione"/>
-		<entry key="PopUp_MultiSelect_LabelCountTrackedRides" translation="Tracked Rides"/>
+		<entry key="PopUp_MultiSelect_LabelCountTrackedRides" translation="Attrazioni a Circuito"/>
 		<entry key="PopUp_MultiSelect_LabelSelectionStatistics" translation="Informazioni Selezione"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Commit" translation="Salva zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_DefaultName" translation="La mia nuova zona!"/>
-		<entry key="PopUp_MultiSelect_PatrolZones_Description" translation="Selezione multipla per definire attrazioni e strutture da assegnare ai membri dello staff."/>
+		<entry key="PopUp_MultiSelect_PatrolZones_Description" translation="Selezione multipla per definire attrazioni e strutture prioritarie da assegnare ai membri dello staff."/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Header" translation="Seleziona zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountBuildingElements" translation="Strutture &amp;amp; Negozi"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountFlatRideStations" translation="Attrazioni"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountMeetAndGreetPoints" translation="Punti di Intrattenimento"/>
-		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountTrackedRideStations" translation="Tracked Ride Stations"/>
+		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountTrackedRideStations" translation="Stazioni Attrazioni a Circuito"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Name" translation="Nome zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Unnamed" translation="Zona senza nome"/>
 		<entry key="PopUp_MultiSelect_Title_MultiBuilding" translation="Strutture selezionate( {Count:separatedFloat:decimalPlaces=0})"/>
@@ -12392,13 +12392,13 @@
 		<entry key="PopUp_Peeps_HeadingTo" translation="Diretto a: {LOCATIONNAME}"/>
 		<entry key="PopUp_Peeps_Needs_Energy" translation="Energia"/>
 		<entry key="PopUp_Peeps_Needs_Happiness" translation="Felicità"/>
-		<entry key="PopUp_Peeps_Needs_Header" translation="Bisogni Di {PEEPNAME}"/>
+		<entry key="PopUp_Peeps_Needs_Header" translation="Necessità di {PEEPNAME}"/>
 		<entry key="PopUp_Peeps_Needs_Hunger" translation="Fame"/>
 		<entry key="PopUp_Peeps_Needs_Nausea" translation="Nausea"/>
-		<entry key="PopUp_Peeps_Needs_TabName" translation="Bisogni"/>
-		<entry key="PopUp_Peeps_Needs_ThinksHeader" translation="{PEEPNAME} pensando..."/>
+		<entry key="PopUp_Peeps_Needs_TabName" translation="Necessità"/>
+		<entry key="PopUp_Peeps_Needs_ThinksHeader" translation="{PEEPNAME} pensa..."/>
 		<entry key="PopUp_Peeps_Needs_Thirst" translation="Sete"/>
-		<entry key="PopUp_Peeps_Needs_Toilet" translation="Bisognini"/>
+		<entry key="PopUp_Peeps_Needs_Toilet" translation="Toilette"/>
 		<entry key="PopUp_Peeps_PeepName" translation="{PEEPNAME}"/>
 		<entry key="PopUp_Peeps_Thought" translation="&quot;{THOUGHT}&quot;"/>
 		<entry key="PopUp_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Percorso"/>
@@ -12454,27 +12454,27 @@
 		<entry key="PopUp_RideTesting_Visualize" translation="Visualizza"/>
 		<entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
 		<entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
-		<entry key="PopUp_Ride_BlockSectionedMode" translation="Block Sectioned"/>
+		<entry key="PopUp_Ride_BlockSectionedMode" translation="Diviso a Settori"/>
 		<entry key="PopUp_Ride_Capacity" translation="Capacità"/>
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
-		<entry key="PopUp_Ride_CarsPerTrainHint" translation="Cannot edit trains or cars while ride is Open"/>
-		<entry key="PopUp_Ride_CarsPerTrainLimit" translation="Increase the length of all stations to allow more cars to be added."/>
-		<entry key="PopUp_Ride_CoasterFriction" translation="COASTER FRICTION"/>
-		<entry key="PopUp_Ride_CoasterFriction_Hint" translation="Apply a multiplier to the default friction for this coaster."/>
-		<entry key="PopUp_Ride_CoasterFriction_Label" translation="Friction Multiplier"/>
+		<entry key="PopUp_Ride_CarsPerTrainHint" translation="Non è possibile modificare treni o vetture mentre l'attrazione è Aperta"/>
+		<entry key="PopUp_Ride_CarsPerTrainLimit" translation="Aumenta la lunghezza di tutte le stazioni per permettere l'aggiunta di più vetture."/>
+		<entry key="PopUp_Ride_CoasterFriction" translation="ATTRITO COASTER"/>
+		<entry key="PopUp_Ride_CoasterFriction_Hint" translation="Applica un moltiplicatore all'attrito predefinito di questa montagna russa."/>
+		<entry key="PopUp_Ride_CoasterFriction_Label" translation="Moltiplicatore Attrito"/>
 		<entry key="PopUp_Ride_Count" translation="{COUNT:separatedint}"/>
 		<entry key="PopUp_Ride_Count_Unknown" translation=""/>
 		<entry key="PopUp_Ride_Currency" translation="{VALUE:currency}"/>
 		<entry key="PopUp_Ride_Currency_Unknown" translation="Sconosciuto"/>
-		<entry key="PopUp_Ride_CycleTime" translation="Cycle time: {LAST:float}s ({AVERAGE:float}s average)"/>
+		<entry key="PopUp_Ride_CycleTime" translation="Tempo ciclo: {LAST:float}s ({AVERAGE:float}s media)"/>
 		<entry key="PopUp_Ride_DateOpened" translation="Data apertura"/>
 		<entry key="PopUp_Ride_DisableFastPass" translation="Disattiva fila prioritaria"/>
-		<entry key="PopUp_Ride_DuellingCoasters_Add" translation="+ Add Coaster to Chain"/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_CannotSetOpen_ToolTip" translation="No coasters in this Coaster Chain are able to be opened."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Closed" translation="Chain Status: Closed"/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Header" translation="Set Chain Status"/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_NoStatus" translation="No Chain Status"/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open" translation="Chain Status: Open"/>
+		<entry key="PopUp_Ride_DuellingCoasters_Add" translation="+ Aggiungi Montagne Russe alla Catena"/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_CannotSetOpen_ToolTip" translation="Non è possibile aprire nessuna Montagna Russa in questa Catena."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Closed" translation="Stato Catena: Chiuso"/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Header" translation="Imposta Stato Catena"/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_NoStatus" translation="Nessun Stato Catena"/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open" translation="Stato Catena: Aperto"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open_ToolTip" translation=""/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetClosed_ToolTip" translation="Set all coasters in the chain to the Closed state."/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Set all coasters in the chain to the Open state, if they can be opened."/>
