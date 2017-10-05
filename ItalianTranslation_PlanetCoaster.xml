@@ -158,9 +158,9 @@
 		<entry key="Blueprints_ButtonUpdateWorkshopItem" translation="Aggiorna Oggetto Workshop"/>
 		<entry key="Blueprints_CameraControls" translation="Posiziona la camera usando il mouse per catturare un'immagine del tuo progetto."/>
 		<entry key="Blueprints_CanyonBlueprint01" translation="Rebel"/>
-		<entry key="Blueprints_CanyonBlueprint01Desc" translation="Uno schema per il Treno nella Miniera"/>
+		<entry key="Blueprints_CanyonBlueprint01Desc" translation="Uno schema per il Treno della Miniera"/>
 		<entry key="Blueprints_CanyonRunner01" translation="Rebel"/>
-		<entry key="Blueprints_CanyonRunner01Desc" translation="Uno schema per il Treno nella Miniera"/>
+		<entry key="Blueprints_CanyonRunner01Desc" translation="Uno schema per il Treno della Miniera"/>
 		<entry key="Blueprints_Cargo" translation="Merce"/>
 		<entry key="Blueprints_CargoDesc" translation="Un mucchio di merce"/>
 		<entry key="Blueprints_CastleATMmachine" translation="Il bancomat del castello fatato"/>
@@ -405,8 +405,8 @@
 		<entry key="Blueprints_PCParkSetDesc" translation="Questi set di design sono stati decorati per potersi integrare perfettamente con il tuo parco a tema Planet Coaster"/>
 		<entry key="Blueprints_PCScenery" translation="Scenografie Planet Coaster"/>
 		<entry key="Blueprints_PCSceneryDesc" translation="Questi set di scenografie sono stati decorati per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
-		<entry key="Blueprints_PCSceneryPlanet" translation="Off the Planet"/>
-		<entry key="Blueprints_PCSceneryPlanetDesc" translation="A larger scenery set that would make a nice centrepiece."/>
+		<entry key="Blueprints_PCSceneryPlanet" translation="Fuori dal Pianeta"/>
+		<entry key="Blueprints_PCSceneryPlanetDesc" translation="Un set scenario più grande che potrebbe diventare un bel pezzo forte."/>
 		<entry key="Blueprints_PCShopping" translation="Area shopping Planet Coaster"/>
 		<entry key="Blueprints_PCShoppingDesc" translation="Più negozi in una piccola area, faciliteranno la vita ai visitatori che non vogliono camminare."/>
 		<entry key="Blueprints_PCSmallEnt" translation="Piccola entrata Planet Coaster"/>
@@ -5136,7 +5136,7 @@
 		<entry key="Coaster_Type_LogFlume" translation="Tronchi nell'acqua"/>
 		<entry key="Coaster_Type_LunaAutos" translation="Attrazione a motore"/>
 		<entry key="Coaster_Type_MgcKatz" translation="Attrazione a motore"/>
-		<entry key="Coaster_Type_MineTrain" translation="Treno nella miniera"/>
+		<entry key="Coaster_Type_MineTrain" translation="Treno della miniera"/>
 		<entry key="Coaster_Type_OverDive" translation="Euro-Fighter"/>
 		<entry key="Coaster_Type_PrototypeWing" translation="Prototipo Alata"/>
 		<entry key="Coaster_Type_RollingRiver" translation="Rapide nel fiume"/>
@@ -12476,161 +12476,161 @@
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_NoStatus" translation="Nessun Stato Catena"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open" translation="Stato Catena: Aperto"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open_ToolTip" translation=""/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetClosed_ToolTip" translation="Set all coasters in the chain to the Closed state."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Set all coasters in the chain to the Open state, if they can be opened."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetTesting_ToolTip" translation="Set all coasters in the chain to the Testing state, if they can be tested."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Testing" translation="Chain Status: Testing"/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_ToolTip" translation="Setting the Chain Status will put all coasters in the chain into the same ride state, if possible."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Chain_Title" translation="COASTER CHAIN"/>
-		<entry key="PopUp_Ride_DuellingCoasters_Coaster_Locate_ToolTip" translation="Locate this coaster in the world."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Coaster_Remove_ToolTip" translation="Delete this coaster from the chain."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Description" translation="Create a Coaster Chain to make Coasters start at the same time, provided their Load Rules have been met."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Link" translation="Create Coaster Chain"/>
-		<entry key="PopUp_Ride_DuellingCoasters_Remove_ToolTip" translation="Delete this Coaster Chain entirely."/>
-		<entry key="PopUp_Ride_DuellingCoasters_RideClosed" translation="Closed or broken down coasters will be ignored."/>
-		<entry key="PopUp_Ride_DuellingCoasters_RideOpen" translation="Open coasters all depart at the same time."/>
-		<entry key="PopUp_Ride_DuellingCoasters_RideTesting" translation="Testing coasters all depart at the same time."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Title" translation="Coaster Chain"/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetClosed_ToolTip" translation="Imposta tutte le Montagne russe nella catena su stato Chiuso."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Imposta tutte le Montagne russe nella catena su stato Aperto, se possono essere aperte."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetTesting_ToolTip" translation="Imposta tutte le Montagne russe nella catena su stato di Test, se possono essere provate."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Testing" translation="Stato Catena: Test"/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_ToolTip" translation="Impostare lo Stato della Catena metterà tutte le Montagne Russe della catena nello stesso stato, se possibile."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Chain_Title" translation="CATENA DI COASTERS"/>
+		<entry key="PopUp_Ride_DuellingCoasters_Coaster_Locate_ToolTip" translation="Localizza questa Montagna Russa nel mondo di gioco."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Coaster_Remove_ToolTip" translation="Cancella questa Montagna Russa dalla catena."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Description" translation="Crea una Catena di Coasters per fare in modo che le Montagne Russe partano nello stesso momento, fatto salvo che vengano rispettate le Regole di Carico."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Link" translation="Crea una Catena di Coaster"/>
+		<entry key="PopUp_Ride_DuellingCoasters_Remove_ToolTip" translation="Cancella del tutto questa Catena di Coasters."/>
+		<entry key="PopUp_Ride_DuellingCoasters_RideClosed" translation="Montagne Russe chiuse o guaste verranno ignorate."/>
+		<entry key="PopUp_Ride_DuellingCoasters_RideOpen" translation="Le Montagne Russe Aperte partono tutte nello stesso momento."/>
+		<entry key="PopUp_Ride_DuellingCoasters_RideTesting" translation="Le Montagne Russe in fase di Test partono tutte nello stesso momento."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Title" translation="Catena di Coasters"/>
 		<entry key="PopUp_Ride_EnableFastPass" translation="Attiva fila prioritaria"/>
-		<entry key="PopUp_Ride_EnableFastPassHint" translation="Build a special section of the queue exclusive to Priority Pass holders"/>
-		<entry key="PopUp_Ride_EnableFastPassLabel" translation="You need an Information Booth to sell Priority Passes"/>
+		<entry key="PopUp_Ride_EnableFastPassHint" translation="Costruisci una sezione speciale della coda esclusiva per i possessori di Pass Prioritari"/>
+		<entry key="PopUp_Ride_EnableFastPassLabel" translation="Hai bisogno di uno Stand Informazioni per vendere i Pass Prioritari"/>
 		<entry key="PopUp_Ride_EntranceAndExit" translation="Entrata e uscita"/>
-		<entry key="PopUp_Ride_FastPassFraction" translation="Priority Over Queue"/>
-		<entry key="PopUp_Ride_FastPassFractionHint" translation="How quickly Priority Pass holders rejoin main queue."/>
-		<entry key="PopUp_Ride_FastPassFraction_High" translation="Alta priorità"/>
-		<entry key="PopUp_Ride_FastPassFraction_Low" translation="Bassa priorità"/>
-		<entry key="PopUp_Ride_FastPassFraction_Medium" translation="Equal Priority"/>
-		<entry key="PopUp_Ride_FastPassQueue" translation="Priority Pass Queue"/>
-		<entry key="PopUp_Ride_FastPassQueueSize" translation="Priority Pass queue size: {LAST:float} ({AVERAGE:float} average)"/>
-		<entry key="PopUp_Ride_FastPassQueueTime" translation="Priority Pass Queue Time"/>
-		<entry key="PopUp_Ride_FastPassQueueTime_Debug" translation="Priority Pass queue time: {LAST:float}s ({AVERAGE:float}s average)"/>
-		<entry key="PopUp_Ride_Finances_Soon" translation="Ride finances coming soon"/>
-		<entry key="PopUp_Ride_GuestsPerHour" translation="Guests per hour: {LAST:float} ({AVERAGE:float} average)"/>
-		<entry key="PopUp_Ride_Guests_Soon" translation="Ride thoughts coming soon"/>
-		<entry key="PopUp_Ride_IdealPrice" translation="Ideal ticket price: {VALUE:currency}"/>
-		<entry key="PopUp_Ride_LapsHint" translation="Cannot edit number of laps while ride is Open"/>
-		<entry key="PopUp_Ride_LastMonthsProfit" translation="Last month's profit"/>
-		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Don't block station"/>
-		<entry key="PopUp_Ride_LeaveIfWaitingHint" translation="Departure interval overrides other loading rules"/>
-		<entry key="PopUp_Ride_LifetimeArrivals" translation="Lifetime disembarkments"/>
-		<entry key="PopUp_Ride_LifetimeDepartures" translation="Lifetime boarders"/>
-		<entry key="PopUp_Ride_LifetimeGuests" translation="Lifetime guests"/>
-		<entry key="PopUp_Ride_LifetimeGuests_Debug" translation="Lifetime guests: {GUESTS:int}"/>
-		<entry key="PopUp_Ride_LifetimeProfit" translation="Lifetime profit"/>
-		<entry key="PopUp_Ride_LoadFraction" translation="Wait for"/>
-		<entry key="PopUp_Ride_LoadFractionTooltip" translation="How full must the train be before it can leave the station."/>
-		<entry key="PopUp_Ride_LoadFractionTooltipRides" translation="How full must the ride be before it can start."/>
-		<entry key="PopUp_Ride_LoadFraction_All" translation="Full Load"/>
-		<entry key="PopUp_Ride_LoadFraction_Half" translation="1/2 Load"/>
-		<entry key="PopUp_Ride_LoadFraction_None" translation="Any Load"/>
-		<entry key="PopUp_Ride_LoadFraction_Quarter" translation="1/4 Load"/>
-		<entry key="PopUp_Ride_LoadFraction_ThreeQuarters" translation="3/4 Load"/>
-		<entry key="PopUp_Ride_LoadRules" translation="Load Rules"/>
-		<entry key="PopUp_Ride_LoadSize" translation="Load size: {LAST:float} ({AVERAGE:float} average)"/>
-		<entry key="PopUp_Ride_LoadTime" translation="Load time: {LAST:float}s ({AVERAGE:float}s average)"/>
-		<entry key="PopUp_Ride_LoadedGuestsPerHour" translation="Guests per hour (fully loaded): {LAST:float} ({AVERAGE:float} average)"/>
-		<entry key="PopUp_Ride_MaxWaitingTime" translation="Max. tempo d'attesa"/>
-		<entry key="PopUp_Ride_MaxWaitingTimeHint" translation="Maximum time between the first passenger boarding and the train leaving the station, regardless of Minimum Passenger Load."/>
-		<entry key="PopUp_Ride_MaxWaitingTimeRideHint" translation="Maximum time between the first passenger boarding and the ride starting, regardless of Minimum Passenger Load."/>
-		<entry key="PopUp_Ride_MaximumGroupSize" translation="Maximum group size: {VALUE:int}"/>
-		<entry key="PopUp_Ride_MinWaitingTime" translation="Min. tempo d'attesa"/>
-		<entry key="PopUp_Ride_MinWaitingTimeHint" translation="Minimum time between the first passenger boarding and the train leaving the station. Shortens queue times."/>
-		<entry key="PopUp_Ride_MinWaitingTimeRideHint" translation="Minimum time between the first passenger boarding and the ride starting. Shortens queue times."/>
-		<entry key="PopUp_Ride_MinimumRiderHeight" translation="Minimum rider height"/>
+		<entry key="PopUp_Ride_FastPassFraction" translation="Priorità sulla Coda"/>
+		<entry key="PopUp_Ride_FastPassFractionHint" translation="Quanto velocemente i possessori di Pass Prioritari si ricongiungono alla coda principale."/>
+		<entry key="PopUp_Ride_FastPassFraction_High" translation="Alta Priorità"/>
+		<entry key="PopUp_Ride_FastPassFraction_Low" translation="Bassa Priorità"/>
+		<entry key="PopUp_Ride_FastPassFraction_Medium" translation="Media Priorità"/>
+		<entry key="PopUp_Ride_FastPassQueue" translation="Coda Pass Prioritari"/>
+		<entry key="PopUp_Ride_FastPassQueueSize" translation="Lunghezza Coda Pass Prioritari: {LAST:float} ({AVERAGE:float} media)"/>
+		<entry key="PopUp_Ride_FastPassQueueTime" translation="Tempo Coda Pass Prioritari"/>
+		<entry key="PopUp_Ride_FastPassQueueTime_Debug" translation="Tempo Coda Pass Prioritari: {LAST:float}s ({AVERAGE:float}s media)"/>
+		<entry key="PopUp_Ride_Finances_Soon" translation="Economia Attrazione in elaborazione"/>
+		<entry key="PopUp_Ride_GuestsPerHour" translation="Visitatori per ora: {LAST:float} ({AVERAGE:float} media)"/>
+		<entry key="PopUp_Ride_Guests_Soon" translation="Pensieri sull'attrazione in elaborazione"/>
+		<entry key="PopUp_Ride_IdealPrice" translation="Costo Biglietto Ideale: {VALUE:currency}"/>
+		<entry key="PopUp_Ride_LapsHint" translation="Non è possibile modificare il numero dei giri mentre l'attrazione è Aperta"/>
+		<entry key="PopUp_Ride_LastMonthsProfit" translation="Profitto ultimo mese"/>
+		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Non ostruire la stazione"/>
+		<entry key="PopUp_Ride_LeaveIfWaitingHint" translation="L'intervallo tra le partenze prevale sulle altre regole di carico"/>
+		<entry key="PopUp_Ride_LifetimeArrivals" translation="Discese totali"/>
+		<entry key="PopUp_Ride_LifetimeDepartures" translation="Salite totali"/>
+		<entry key="PopUp_Ride_LifetimeGuests" translation="Visitatori totali"/>
+		<entry key="PopUp_Ride_LifetimeGuests_Debug" translation="Visitatori totali: {GUESTS:int}"/>
+		<entry key="PopUp_Ride_LifetimeProfit" translation="Profitto totale"/>
+		<entry key="PopUp_Ride_LoadFraction" translation="Attendi"/>
+		<entry key="PopUp_Ride_LoadFractionTooltip" translation="Quanto deve essere pieno il treno prima che possa lasciare la stazione."/>
+		<entry key="PopUp_Ride_LoadFractionTooltipRides" translation="Quanto deve essere piena l'attrazione prima che possa avviarsi."/>
+		<entry key="PopUp_Ride_LoadFraction_All" translation="Pieno Carico"/>
+		<entry key="PopUp_Ride_LoadFraction_Half" translation="1/2 Carico"/>
+		<entry key="PopUp_Ride_LoadFraction_None" translation="Qualsiasi Carico"/>
+		<entry key="PopUp_Ride_LoadFraction_Quarter" translation="1/4 Carico"/>
+		<entry key="PopUp_Ride_LoadFraction_ThreeQuarters" translation="3/4 Carico"/>
+		<entry key="PopUp_Ride_LoadRules" translation="Regole di Carico"/>
+		<entry key="PopUp_Ride_LoadSize" translation="Misura del Carico: {LAST:float} ({AVERAGE:float} media)"/>
+		<entry key="PopUp_Ride_LoadTime" translation="Tempo di Carico: {LAST:float}s ({AVERAGE:float}s media)"/>
+		<entry key="PopUp_Ride_LoadedGuestsPerHour" translation="Visitatori per ora (pieno carico): {LAST:float} ({AVERAGE:float} media)"/>
+		<entry key="PopUp_Ride_MaxWaitingTime" translation="Tempo d'attesa Massimo"/>
+		<entry key="PopUp_Ride_MaxWaitingTimeHint" translation="Tempo massimo tra il primo passeggero che sale e il treno che lascia la stazione, senza contare il Carico Passeggeri Minimo."/>
+		<entry key="PopUp_Ride_MaxWaitingTimeRideHint" translation="Tempo massimo tra il primo passeggero che sale e l'avvio dell'attrazione, senza contare il Carico Passeggeri Minimo."/>
+		<entry key="PopUp_Ride_MaximumGroupSize" translation="Grandezza massima gruppo: {VALUE:int}"/>
+		<entry key="PopUp_Ride_MinWaitingTime" translation="Tempo d'attesa Minimo"/>
+		<entry key="PopUp_Ride_MinWaitingTimeHint" translation="Tempo minimo tra il primo passeggero che sale e il treno che lascia la stazione. Accorcia i tempi della coda."/>
+		<entry key="PopUp_Ride_MinWaitingTimeRideHint" translation="Tempo minimo tra il primo passeggero che sale e l'avvio dell'attrazione. Accorcia i tempi della coda."/>
+		<entry key="PopUp_Ride_MinimumRiderHeight" translation="Altezza minima passeggero"/>
 		<entry key="PopUp_Ride_MinimumRiderHeight_Child" translation="Bambino"/>
 		<entry key="PopUp_Ride_MinimumRiderHeight_TeenAdult" translation="Giovane/Adulto"/>
-		<entry key="PopUp_Ride_MonthlyArrivals" translation="Salite mensili"/>
-		<entry key="PopUp_Ride_MonthlyCarRunningCost" translation=" - car costs"/>
-		<entry key="PopUp_Ride_MonthlyDepartures" translation="Discese mensili"/>
-		<entry key="PopUp_Ride_MonthlyGuests" translation="Ospiti mensili"/>
+		<entry key="PopUp_Ride_MonthlyArrivals" translation="Discese mensili"/>
+		<entry key="PopUp_Ride_MonthlyCarRunningCost" translation=" - costi vettura"/>
+		<entry key="PopUp_Ride_MonthlyDepartures" translation="Salite mensili"/>
+		<entry key="PopUp_Ride_MonthlyGuests" translation="Visitatori mensili"/>
 		<entry key="PopUp_Ride_MonthlyRunningCost" translation="Costi esercizio mensili"/>
-		<entry key="PopUp_Ride_MonthlyStationRunningCost" translation=" - station costs"/>
-		<entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - utility costs"/>
+		<entry key="PopUp_Ride_MonthlyStationRunningCost" translation=" - costi stazione"/>
+		<entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - costi servizio"/>
 		<entry key="PopUp_Ride_MoveEntrance" translation="Sposta entrata"/>
 		<entry key="PopUp_Ride_MoveExit" translation="Sposta uscita"/>
 		<entry key="PopUp_Ride_NumCars" translation="Numero vetture"/>
 		<entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
-		<entry key="PopUp_Ride_NumPasses" translation="Stop at station on pass"/>
+		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
 		<entry key="PopUp_Ride_NumTrains" translation="Numero di treni"/>
-		<entry key="PopUp_Ride_NumTrainsLimit" translation="To add more trains try increasing the length of the station, or reducing the number of cars per train."/>
-		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="To add more trains try adding additional block sections."/>
+		<entry key="PopUp_Ride_NumTrainsLimit" translation="Per aggiungere più treni prova ad aumentare la lunghezza della stazione, o ridurre il numero delle vetture per treno."/>
+		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più tremi prova ad aggiungere sezioni aggiuntive."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
 		<entry key="PopUp_Ride_Occupancy" translation="Riempimento: {LAST:float}% ({AVERAGE:float}% average)"/>
-		<entry key="PopUp_Ride_Operations_Soon" translation="Ride operations coming soon"/>
+		<entry key="PopUp_Ride_Operations_Soon" translation="Operazioni sull'attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_Options" translation="Opzioni Corsa"/>
-		<entry key="PopUp_Ride_Overview_Soon" translation="Ride overview coming soon"/>
-		<entry key="PopUp_Ride_PassesHint" translation="Cannot edit number of passes through station while ride is Open"/>
+		<entry key="PopUp_Ride_Overview_Soon" translation="Panoramica attrazione in elaborazione"/>
+		<entry key="PopUp_Ride_PassesHint" translation="Non è possibile modificare il numero di passaggi attraverso la stazione mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
-		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} average)"/>
-		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Prestige Deterioration Multiplier: {VALUE:float}"/>
-		<entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Projected monthly income"/>
-		<entry key="PopUp_Ride_ProjectedMonthlyProfit" translation="Projected monthly profit"/>
-		<entry key="PopUp_Ride_QueueScenery" translation="Queue scenery quality"/>
-		<entry key="PopUp_Ride_QueueSize" translation="Queue size: {LAST:float} ({AVERAGE:float} average)"/>
-		<entry key="PopUp_Ride_QueueTime" translation="Queue time"/>
-		<entry key="PopUp_Ride_QueueTime_Debug" translation="Queue time: {LAST:float}s ({AVERAGE:float}s average)"/>
+		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} media)"/>
+		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Moltiplicatore diminuzione prestigio: {VALUE:float}"/>
+		<entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Entrate mensili stimate"/>
+		<entry key="PopUp_Ride_ProjectedMonthlyProfit" translation="Profitto mensile stimato"/>
+		<entry key="PopUp_Ride_QueueScenery" translation="Qualità scenario coda"/>
+		<entry key="PopUp_Ride_QueueSize" translation="Lunghezza Coda: {LAST:float} ({AVERAGE:float} media)"/>
+		<entry key="PopUp_Ride_QueueTime" translation="Tempo Coda"/>
+		<entry key="PopUp_Ride_QueueTime_Debug" translation="Tempo Coda: {LAST:float}s ({AVERAGE:float}s media)"/>
 		<entry key="PopUp_Ride_Racing" translation="Opzioni Corsa"/>
 		<entry key="PopUp_Ride_Refresh" translation="Aggiorna"/>
-		<entry key="PopUp_Ride_TimeBetweenDepartures" translation="Departure interval"/>
-		<entry key="PopUp_Ride_TimeBetweenDeparturesHint" translation="The time that must elapse before the train can depart&#10;- Useful for spacing out cars&#10;- Applies even when the ride is fully loaded"/>
-		<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minutes"/>
-		<entry key="PopUp_Ride_Time_1" translation="{TIME:int} Minute"/>
-		<entry key="PopUp_Ride_Time_N" translation="{TIME:int} Minutes"/>
+		<entry key="PopUp_Ride_TimeBetweenDepartures" translation="Intervallo Partenze"/>
+		<entry key="PopUp_Ride_TimeBetweenDeparturesHint" translation="Il tempo che deve trascorrere prima di permettere al treno di partire&#10;- Utile per far spazio tra le vetture&#10;- Si applica anche quando l'attrazione è completamente carica"/>
+		<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minuti"/>
+		<entry key="PopUp_Ride_Time_1" translation="{TIME:int} Minuto"/>
+		<entry key="PopUp_Ride_Time_N" translation="{TIME:int} Minuti"/>
 		<entry key="PopUp_Ride_Time_Unknown" translation=""/>
-		<entry key="PopUp_Ride_TrainSpeed" translation="Train Speed"/>
-		<entry key="PopUp_Ride_TransportRideFinanceHint" translation="Prices are set on a per station basis."/>
-		<entry key="PopUp_Ride_Transport_StationBrokenDown" translation="Cannot open station whilst broken-down"/>
-		<entry key="PopUp_Ride_Transport_StationIncompleteHint" translation="Station checklist must be complete before it can be opened"/>
-		<entry key="PopUp_Ride_Transport_StationOpenCloseHint" translation="Ride must be open before station can be opened or closed"/>
-		<entry key="PopUp_Ride_TriggerBreakdown" translation="Enqueue breakdown"/>
-		<entry key="PopUp_Ride_WaitingTime" translation="Waiting Time"/>
-		<entry key="PopUp_Ride_Wear" translation="Wear rate:{LAST:float}"/>
-		<entry key="PopUp_Rides_ExitingRideNameToGoToRideName" translation="{RIDENAME} to go to {RIDENAME2}"/>
-		<entry key="PopUp_Rides_Guests" translation="Guests"/>
-		<entry key="PopUp_Rides_GuestsThoughts" translation="Guests think... &quot;{THOUGHT}&quot;"/>
+		<entry key="PopUp_Ride_TrainSpeed" translation="Velocità Treno"/>
+		<entry key="PopUp_Ride_TransportRideFinanceHint" translation="I prezzi sono fissati per stazione."/>
+		<entry key="PopUp_Ride_Transport_StationBrokenDown" translation="Non è possibile aprire la stazione mentre è guasta"/>
+		<entry key="PopUp_Ride_Transport_StationIncompleteHint" translation="La checklist della stazione deve essere completata prima che possa essere aperta"/>
+		<entry key="PopUp_Ride_Transport_StationOpenCloseHint" translation="L'attrazione deve aprire prima che la stazione possa essere aperta o chiusa"/>
+		<entry key="PopUp_Ride_TriggerBreakdown" translation="Guasto sistema di coda"/>
+		<entry key="PopUp_Ride_WaitingTime" translation="Tempo d'attesa"/>
+		<entry key="PopUp_Ride_Wear" translation="Tasso di usura:{LAST:float}"/>
+		<entry key="PopUp_Rides_ExitingRideNameToGoToRideName" translation="{RIDENAME} per andare da {RIDENAME2}"/>
+		<entry key="PopUp_Rides_Guests" translation="Visitatori"/>
+		<entry key="PopUp_Rides_GuestsThoughts" translation="I visitatori pensano che... &quot;{THOUGHT}&quot;"/>
 		<entry key="PopUp_Rides_Guests_Stat" translation="{STAT}"/>
-		<entry key="PopUp_Rides_Guests_StatsHeader" translation="Guests statistics"/>
-		<entry key="PopUp_Rides_Guests_ThoughtsPing" translation="Ping guest thoughts"/>
-		<entry key="PopUp_Rides_NavigateToRideNameViaName" translation="{RIDENAME} via {RIDENAME2}"/>
-		<entry key="PopUp_Rides_OnRideNameToGoToRideName" translation="{RIDENAME} to go to {RIDENAME2}"/>
-		<entry key="PopUp_Rides_Profit" translation="Total profit"/>
-		<entry key="PopUp_Rides_QueueAtRideNameToGoToRideName" translation="{RIDENAME} to go to {RIDENAME2}"/>
+		<entry key="PopUp_Rides_Guests_StatsHeader" translation="Statistiche visitatori"/>
+		<entry key="PopUp_Rides_Guests_ThoughtsPing" translation="Analizza i pensieri dei visitatori"/>
+		<entry key="PopUp_Rides_NavigateToRideNameViaName" translation="{RIDENAME} attraverso {RIDENAME2}"/>
+		<entry key="PopUp_Rides_OnRideNameToGoToRideName" translation="{RIDENAME} per andare da {RIDENAME2}"/>
+		<entry key="PopUp_Rides_Profit" translation="Profitto totale"/>
+		<entry key="PopUp_Rides_QueueAtRideNameToGoToRideName" translation="{RIDENAME} per andare da {RIDENAME2}"/>
 		<entry key="PopUp_Rides_RideName" translation="{RIDENAME}"/>
 		<entry key="PopUp_Rides_RideNameAndStationName" translation="{RIDENAME} ({STATIONNAME})"/>
 		<entry key="PopUp_Rides_StationList" translation="{RIDENAME} - {STATUS}"/>
 		<entry key="PopUp_Rides_ViaName" translation="via {RIDENAME}"/>
-		<entry key="PopUp_SelectObjectToAdd" translation="Select Object to Add"/>
+		<entry key="PopUp_SelectObjectToAdd" translation="Seleziona Oggetto da aggiungere"/>
 		<entry key="PopUp_Sequence" translation="Sequenza"/>
-		<entry key="PopUp_Sequence_AddAnimation" translation="Add Animation"/>
-		<entry key="PopUp_Sequence_DeleteDisabled" translation="There must be at least 1 operation in the sequence"/>
-		<entry key="PopUp_Sequence_EditorTitle" translation="Ride Sequence"/>
-		<entry key="PopUp_Sequence_Reset" translation="Reset to default"/>
-		<entry key="PopUp_Sequence_RideOpen" translation="Cannot modify the sequence while the ride is open"/>
-		<entry key="PopUp_Sequence_Tooltip" translation="Click and drag animations to change your ride sequence"/>
-		<entry key="PopUp_Shops_ItemExtras" translation="Extras"/>
+		<entry key="PopUp_Sequence_AddAnimation" translation="Aggiungi Animazione"/>
+		<entry key="PopUp_Sequence_DeleteDisabled" translation="E' necessaria almeno 1 operazione nella sequenza"/>
+		<entry key="PopUp_Sequence_EditorTitle" translation="Sequenza Attrazione"/>
+		<entry key="PopUp_Sequence_Reset" translation="Reimposta alla predefinita"/>
+		<entry key="PopUp_Sequence_RideOpen" translation="Non è possibile modificare la sequenza mentre l'attrazione è aperta"/>
+		<entry key="PopUp_Sequence_Tooltip" translation="Clicca e trascina le animazioni per cambiare la tua sequenza dell'attrazione"/>
+		<entry key="PopUp_Shops_ItemExtras" translation="Extra"/>
 		<entry key="PopUp_StartTesting" translation="Test"/>
-		<entry key="PopUp_StationList" translation="Stations"/>
+		<entry key="PopUp_StationList" translation="Stazioni"/>
 		<entry key="PopUp_Statistics" translation="Statistiche"/>
-		<entry key="PopUp_TestRatings" translation="Test ratings"/>
-		<entry key="PopUp_Testing" translation="Testing"/>
-		<entry key="PopUp_TitleStatus" translation="Ride status: {STATUS}"/>
-		<entry key="PopUp_TitleStatusStation" translation="Station status: {STATUS}"/>
-		<entry key="PopUp_Tools" translation="Tools"/>
-		<entry key="PopUp_TransportStats" translation="Transport Statistics"/>
-		<entry key="PopUp_TriggerAddSceneryDescription" translation="Select a piece of triggerable scenery to attach it to the trigger point"/>
-		<entry key="PopUp_TriggerAddSceneryTitle" translation="Add Triggerable Scenery"/>
-		<entry key="PopUp_TriggerObject" translation="{VALUE:int} Object"/>
-		<entry key="PopUp_TriggerObjects" translation="{VALUE:int} Object(s)"/>
-		<entry key="PopUp_TriggerPiecesAvailable" translation="Pieces available"/>
-		<entry key="PopUp_TriggerTimeDelay" translation="Time Delay"/>
-		<entry key="PopUp_Triggers" translation="Triggers"/>
-		<entry key="PopUp_Triggers_Cancel" translation="Cancel"/>
-		<entry key="PopUp_Triggers_FavouritesTab" translation="Favourites"/>
+		<entry key="PopUp_TestRatings" translation="Valutazioni Test"/>
+		<entry key="PopUp_Testing" translation="Facendo un Test"/>
+		<entry key="PopUp_TitleStatus" translation="Stato attrazione: {STATUS}"/>
+		<entry key="PopUp_TitleStatusStation" translation="Stato stazione: {STATUS}"/>
+		<entry key="PopUp_Tools" translation="Strumenti"/>
+		<entry key="PopUp_TransportStats" translation="Statistiche di trasporto"/>
+		<entry key="PopUp_TriggerAddSceneryDescription" translation="Seleziona un pezzo dello scenario innescabile per collegarlo al punto di innesco"/>
+		<entry key="PopUp_TriggerAddSceneryTitle" translation="Aggiungi Scenario Innescabile"/>
+		<entry key="PopUp_TriggerObject" translation="{VALUE:int} Oggetto"/>
+		<entry key="PopUp_TriggerObjects" translation="{VALUE:int} Oggetto(i)"/>
+		<entry key="PopUp_TriggerPiecesAvailable" translation="Pezzi disponibili"/>
+		<entry key="PopUp_TriggerTimeDelay" translation="Ritardo di Tempo"/>
+		<entry key="PopUp_Triggers" translation="Inneschi"/>
+		<entry key="PopUp_Triggers_Cancel" translation="Annulla"/>
+		<entry key="PopUp_Triggers_FavouritesTab" translation="Preferiti"/>
 		<entry key="PopUp_Triggers_Ok" translation="OK"/>
-		<entry key="PopUp_Triggers_PlanetCoasterTab" translation="Planet Coaster Triggers"/>
-		<entry key="PopUp_Triggers_UserTriggersTab" translation="User Triggers"/>
-		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Cannot open incomplete ride"/>
-		<entry key="PopUp_UnknownOperation" translation="Unknown Operation"/>
+		<entry key="PopUp_Triggers_PlanetCoasterTab" translation="Inneschi Planet Coaster"/>
+		<entry key="PopUp_Triggers_UserTriggersTab" translation="Inneschi utente"/>
+		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Non è possibile aprire un'attrazione incompleta"/>
+		<entry key="PopUp_UnknownOperation" translation="Operazione sconosciuta"/>
 		<!--InfoPanel-->
 		<entry key="InfoPanel_Close" translation="X"/>
 		<entry key="InfoPanel_Title" translation="Informazioni"/>
@@ -12920,7 +12920,7 @@
 		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="Gli ospiti non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_Finances" translation="Statistiche Finanziarie"/>
 		<entry key="InfoPanel_Ride_FocusCam" translation="Centra Camera"/>
-		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Coaster "/>
+		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Coasters "/>
 		<entry key="InfoPanel_Ride_InspectionDelay" translation="Orario di ispezione"/>
 		<entry key="InfoPanel_Ride_InspectionDelayEntry" translation="Ogni {minutes:int} minuti"/>
 		<entry key="InfoPanel_Ride_InspectionDelayNone" translation="Mai"/>
