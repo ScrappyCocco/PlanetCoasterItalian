@@ -4898,7 +4898,7 @@
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="Schermo TV 4m"/>
 		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Insegna Ufficiale di Steel Vengeance"/>
 		<entry key="BuildingPartName_WS_Band_Bar" translation="Stand Vagone - Bar"/>
-		<entry key="BuildingPartName_WS_Band_Piano" translation="Stand Vagone - Piano"/>
+		<entry key="BuildingPartName_WS_Band_Piano" translation="Stand Vagone - Pianoforte"/>
 		<entry key="BuildingPartName_WS_Band_Stage" translation="Stand Vagone - Vuoto"/>
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Schermi"/>
@@ -13289,7 +13289,7 @@
 		<entry key="Ambience_Event_AMB_Graveyard" translation="Graveyard"/>
 		<entry key="Ambience_Event_AMB_HauntedCastle" translation="Castello Infestato in una Notte Piovosa"/>
 		<entry key="Ambience_Event_AMB_HauntedDungeon" translation="Haunted Dungeon"/>
-		<entry key="Ambience_Event_AMB_HauntedPianoRecord" translation="Haunted Piano Record"/>
+		<entry key="Ambience_Event_AMB_HauntedPianoRecord" translation="Haunted Pianoforte Record"/>
 		<entry key="Ambience_Event_AMB_HouseOfHorrors" translation="House of Horrors"/>
 		<entry key="Ambience_Event_AMB_HowlingAbyss" translation="Lamento degli Abissi"/>
 		<entry key="Ambience_Event_AMB_KnockingOnTheCoffin" translation="Let Me Out of this Coffin"/>
@@ -13298,15 +13298,15 @@
 		<entry key="Ambience_Event_AMB_MagicalForestQuiet" translation="Foresta Magica"/>
 		<entry key="Ambience_Event_AMB_MedievalStreet" translation="Borgo Medievale"/>
 		<entry key="Ambience_Event_AMB_PeacefulForest" translation="Foresta Tranquilla"/>
-		<entry key="Ambience_Event_AMB_PianoScrapes1" translation="Atonal Piano"/>
-		<entry key="Ambience_Event_AMB_PianoScrapes2" translation="Atonal Piano 2"/>
+		<entry key="Ambience_Event_AMB_PianoScrapes1" translation="Atonal Pianoforte"/>
+		<entry key="Ambience_Event_AMB_PianoScrapes2" translation="Atonal Pianoforte 2"/>
 		<entry key="Ambience_Event_AMB_PirateHarbour" translation="Baia Pirata"/>
 		<entry key="Ambience_Event_AMB_PirateShipAtSea" translation="Nave al Largo"/>
 		<entry key="Ambience_Event_AMB_PirateSwordFight" translation="Duello Pirata"/>
 		<entry key="Ambience_Event_AMB_QuietRiver" translation="Fiume Tranquillo"/>
 		<entry key="Ambience_Event_AMB_RaceWay" translation="Pista"/>
 		<entry key="Ambience_Event_AMB_Raceway_Pits" translation="Buche della Pista"/>
-		<entry key="Ambience_Event_AMB_ReversedPiano" translation="Reversed Piano"/>
+		<entry key="Ambience_Event_AMB_ReversedPiano" translation="Reversed Pianoforte"/>
 		<entry key="Ambience_Event_AMB_Rise1" translation="Perpetual SciFi Rise"/>
 		<entry key="Ambience_Event_AMB_Riviera_City" translation="Città Riviera"/>
 		<entry key="Ambience_Event_AMB_Riviera_Harbour" translation="Porto Riviera"/>
@@ -13321,7 +13321,7 @@
 		<entry key="Ambience_Event_AMB_StringCluster" translation="Creeping Strings"/>
 		<entry key="Ambience_Event_AMB_TribalDrumming" translation="Gruppo Percussioni"/>
 		<entry key="Ambience_Event_AMB_Waterphone" translation="Eerie Waterphone"/>
-		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Saloon Western  (Inc. Piano)"/>
+		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Saloon Western  (Inc. Pianoforte)"/>
 		<entry key="Ambience_Event_AMB_Western_Town" translation="Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Duello al Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Whispering in the Darkness"/>
@@ -13419,9 +13419,9 @@
 		<entry key="Music_Track_VanillaMood_PCHomage" translation="Benvenuti al Planet Coaster"/>
 		<entry key="Music_Track_VanillaMood_WonderfulPlanet" translation="Il Meraviglioso Planet Coaster"/>
 		<entry key="Music_Track_WesternMood_Campfire" translation="C'era una Volta un Bivacco"/>
-		<entry key="Music_Track_WesternMood_Piano1" translation="Piano Western 1"/>
-		<entry key="Music_Track_WesternMood_Piano2" translation="Piano Western 2"/>
-		<entry key="Music_Track_WesternMood_Piano3" translation="Piano Western 3"/>
+		<entry key="Music_Track_WesternMood_Piano1" translation="Pianoforte Western 1"/>
+		<entry key="Music_Track_WesternMood_Piano2" translation="Pianoforte Western 2"/>
+		<entry key="Music_Track_WesternMood_Piano3" translation="Pianoforte Western 3"/>
 		<entry key="Music_Track_WesternMood_ThroughTheDesert" translation="Spaghetti Rollercoaster"/>
 		<entry key="Music_Track_WesternMood_Townsville" translation="Per un Pugno di Ospiti"/>
 		<entry key="Music_Track_WildBlue" translation="La Cavalcata delle Valchirie"/>
@@ -19947,69 +19947,69 @@
 		<entry key="Train_Wend" translation="Wendigo"/>
 		<entry key="Train_WendJnr" translation="Wendigo"/>
 		<!--TriggeredEvents-->
-		<entry key="Trigger_Heading_UserTriggers" translation="User triggers"/>
+		<entry key="Trigger_Heading_UserTriggers" translation="Inneschi utente"/>
 		<entry key="TriggeredAudioEvents_Event_Default_Triggered_Audio_Event" translation="Silenzio"/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_IAmTheVoice" translation="KITT VO 1: I am the voice..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_IbegYourPardon" translation="KITT VO 2: I beg your pardon..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_KITTsigningOff" translation="KITT VO 3: KITT signing off..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_MichaelAccident" translation="KITT VO 4: Michael, that was no accident."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_Powerbooster" translation="KITT VO 5: You seem to be repositioning my main power booster."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_PreprogramMe" translation="KITT VO 6: Yes, well. Don't you think you should pre-program me..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_RightAwayMichael" translation="KITT VO 7: Right away, Michael."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_ThankYouSir" translation="KITT VO 8: Thank you, Sir."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatIsItMichael" translation="KITT VO 9: What is it, Michael?"/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatShalliDo" translation="KITT VO 10: What shall I do..?."/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_321_Countdown" translation="Countdown: 3,2,1: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_54321_Countdown" translation="Countdown: 5,4,3,2,1: Go!"/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_IAmTheVoice" translation="KITT VO 1: Sono la voce..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_IbegYourPardon" translation="KITT VO 2: Chiedo scusa..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_KITTsigningOff" translation="KITT VO 3: KITT chiude la trasmissione..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_MichaelAccident" translation="KITT VO 4: Michael, non è stato un caso."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_Powerbooster" translation="KITT VO 5: Sembra che stai riposizionando il mio amplificatore di potenza."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_PreprogramMe" translation="KITT VO 6: Sì, bene. Non credi che dovresti pre-programmarmi..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_RightAwayMichael" translation="KITT VO 7: Subito, Michael."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_ThankYouSir" translation="KITT VO 8: Grazie, Signore."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatIsItMichael" translation="KITT VO 9: Cos'è, Michael?"/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatShalliDo" translation="KITT VO 10: Cosa devo fare..?."/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_321_Countdown" translation="Countdown: 3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_54321_Countdown" translation="Countdown: 5,4,3,2,1: Via!"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_01" translation="Allarme 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_02" translation="Allarme 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_03" translation="Allarme 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_01" translation="Sirena 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_02" translation="Sirena 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_03" translation="Sirena 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_04" translation="Siren 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_05" translation="Siren 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Bell_Ring" translation="Bell Ring"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_BoilingCauldron" translation="Bubbling Cauldron"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_CannonFire" translation="Cannon Fire"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_ChurchDoor" translation="Knocking at a Church Door"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_04" translation="Sirena 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_05" translation="Sirena 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Bell_Ring" translation="Suono Campana"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BoilingCauldron" translation="Calderone Bollente"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_CannonFire" translation="Cannonata"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_ChurchDoor" translation="Bussare alla Porta di una Chiesa"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_1" translation="Countdown: 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_2" translation="Countdown: 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_3" translation="Countdown: 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_4" translation="Countdown: 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_5" translation="Countdown: 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_Go" translation="Countdown: Go"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_CreatureAtTheDoor" translation="Creature at the Door"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_Go" translation="Countdown: Via"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_CreatureAtTheDoor" translation="Creatura alla Porta"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_AnimalRoar" translation="Ruggito Animale"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_AnimalWolf" translation="Wolf Howl"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_Crow" translation="Crow"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_AnimalWolf" translation="Ululato di Lupo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_Crow" translation="Corvo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_Kraken" translation="Ruggito del Kraken"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_KrakenTentacles" translation="Tentacoli del Kraken"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_DistantDrumming" translation="Distant Drumming"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_FlyBy" translation="Aircraft Fly-By"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy1" translation="Supernatural Whispers"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy2" translation="Ghost Passing Through"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_GlassScratch" translation="Fingernails Scraping Down Glass"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Down" translation="Glockenspiel Glissando Down"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Up" translation="Glockenspiel Glissando Up"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_DistantDrumming" translation="Tamburi Lontani"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_FlyBy" translation="Passaggio in Volo di un Aereo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy1" translation="Sussurri Sovrannaturali"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy2" translation="Passaggio di Fantasma"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_GlassScratch" translation="Unghie Graffiano un Vetro"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Down" translation="Glockenspiel Glissando Giù"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Up" translation="Glockenspiel Glissando Su"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_1" translation="Glockenspiel Phrase 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_2" translation="Glockenspiel Phrase 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_3" translation="Glockenspiel Phrase 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_4" translation="Glockenspiel Phrase 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gong" translation="Gong"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet" translation="Gun Ricochet 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet2" translation="Gun Ricochet 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunfight" translation="Cowboy Gun Fight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot1" translation="Gunshot 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot2" translation="Gunshot 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot3" translation="Gunshot 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot4" translation="Gunshot 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_High" translation="Harp Glissando Down High"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_Low" translation="Harp Glissando Down Low"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_High" translation="Harp Glissando Up High"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_Low" translation="Harp Glissando Up Low"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_1" translation="Harp Phrase 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_2" translation="Harp Phrase 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet" translation="Rimbalzo Proiettile 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet2" translation="Rimbalzo Proiettile 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunfight" translation="Duello di Pistole dei Cowboy"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot1" translation="Sparo 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot2" translation="Sparo 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot3" translation="Sparo 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot4" translation="Sparo 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_High" translation="Arpa Glissando Giù Alto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_Low" translation="Arpa Glissando Giù Basso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_High" translation="Arpa Glissando Su Alto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_Low" translation="Arpa Glissando Su Basso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_1" translation="Arpa Phrase 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_2" translation="Arpa Phrase 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Creaky_Squeaky_Metal" translation="Metallo Scricchiolante"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Creaky_Wood" translation="Legno Scricchiolante"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Demented_Laughter" translation="Risata Folle"/>
@@ -20025,20 +20025,20 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Witch_Cackle" translation="Crepitio della Strega"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Human_Heartbeat_01" translation="Battito Cardiaco Umano 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Human_Heartbeat_02" translation="Battito Cardiaco Umano 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_Land" translation="Jet Land"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_TakeOff" translation="Jet Take Off"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_KnockingOnTheCoffin" translation="Let Me Out of this Coffin"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_1" translation="Light Tunnel SFX 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_10" translation="Light Tunnel SFX 10"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_2" translation="Light Tunnel SFX 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_3" translation="Light Tunnel SFX 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_4" translation="Light Tunnel SFX 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_5" translation="Light Tunnel SFX 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_6" translation="Light Tunnel SFX 6"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_7" translation="Light Tunnel SFX 7"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_8" translation="Light Tunnel SFX 8"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_9" translation="Light Tunnel SFX 9"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Explosion" translation="Magic Explosion"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_Land" translation="Jet Atterra"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_TakeOff" translation="Jet Decolla"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_KnockingOnTheCoffin" translation="Lasciami uscire da questa Bara"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_1" translation="Tunnel di Luce SFX 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_10" translation="Tunnel di Luce SFX 10"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_2" translation="Tunnel di Luce SFX 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_3" translation="Tunnel di Luce SFX 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_4" translation="Tunnel di Luce SFX 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_5" translation="Tunnel di Luce SFX 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_6" translation="Tunnel di Luce SFX 6"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_7" translation="Tunnel di Luce SFX 7"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_8" translation="Tunnel di Luce SFX 8"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_9" translation="Tunnel di Luce SFX 9"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Explosion" translation="Esplosione Magica"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Incantation" translation="Incantesimo Magico"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Light" translation="Luci Magiche"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Spells" translation="Lancio Incantesimo"/>
@@ -20046,16 +20046,16 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Misc_Impact" translation="Impatto"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Misc_Rumble" translation="Rombo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Glockenspiel" translation="Carillon"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra" translation="Musical: Low Orchestra"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra_Short" translation="Musical: Low Orchestra (Short)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_MusicBox" translation="Musical: Music Box"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano" translation="Musical: Honky-Tonk Piano"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano_OutOfTune" translation="Musical: Out of Tune Piano"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1" translation="Musical: Synthesiser"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1_Delay" translation="Musical: Synthesiser (with Delay)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFight" translation="Pirate Gun Fight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFire" translation="Musket Fire"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_NailsBlackboard" translation="Nails Down a Blackboard"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra" translation="Musical: Orchestra Bassa"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra_Short" translation="Musical: Orchestra Bassa (Corta)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_MusicBox" translation="Musical: Carillon"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano" translation="Musical: Pianoforte Honky-Tonk"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano_OutOfTune" translation="Musical: Pianoforte Stonato"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1" translation="Musical: Sintetizzatore"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1_Delay" translation="Musical: Sintetizzatore (con Ritardo)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFight" translation="Sparatoria tra Pirati"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFire" translation="Sparo da Moschetto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_NailsBlackboard" translation="Unghie su Lavagna"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Breeze" translation="Brezza"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Earthquake" translation="Terremoto"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Explosion" translation="Esplosione"/>
@@ -20063,102 +20063,102 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Hurricane" translation="Uragano"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Lightning" translation="Fulmine"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Thunder" translation="Tuono"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_TropicalBirds" translation="Tropical Birds"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_TropicalBirds" translation="Uccelli Tropicali"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Water" translation="Acqua"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_WaterSplash" translation="Tuffo in Acqua"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_OrchChaos" translation="Orchestra Chaos"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_High" translation="Piano Scrape 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Long" translation="Piano Scrape 7"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_1" translation="Piano Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_2" translation="Piano Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_3" translation="Piano_Scrape 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_1" translation="Piano Scrape 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_2" translation="Piano Scrape 6"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_PiratePistolFire" translation="Pirate Pistol Fire"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Rats" translation="Scurrying Rats"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAllAboard" translation="Ride Announcement: All Aboard"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAreYouReady" translation="Ride Announcement: Are You Ready"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementEnjoyYourRide" translation="Ride Announcement: Enjoy Your Ride"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementHoldOnTight" translation="Ride Announcement: Hold On Tight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementRemainSeated" translation="Ride Announcement: Remain Seated"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyMessage" translation="Ride Announcement: Safety Message"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyWarning" translation="Ride Announcement: Safety Warning"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Robot_Transmission" translation="Sci-Fi Transmission"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_High" translation="Pianoforte Inquietante 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Long" translation="Pianoforte Inquietante 7"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_1" translation="Pianoforte Inquietante 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_2" translation="Pianoforte Inquietante 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_3" translation="Pianoforte Inquietante 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_1" translation="Pianoforte Inquietante 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_2" translation="Pianoforte Inquietante 6"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_PiratePistolFire" translation="Spari di Pistola tra Pirati"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Rats" translation="Topi che scorrazzano"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAllAboard" translation="Annunciatore: Tutti a Bordo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAreYouReady" translation="Annunciatore: Siete Pronti?"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementEnjoyYourRide" translation="Annunciatore: Godetevi il Giro"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementHoldOnTight" translation="Annunciatore: Tenetevi Stretti"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementRemainSeated" translation="Annunciatore: Restate Seduti"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyMessage" translation="Annunciatore: Messaggio di Sicurezza"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyWarning" translation="Annunciatore: Avviso di Sicurezza"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Robot_Transmission" translation="Trasmissione Sci-Fi"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_Computer" translation="Computer"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_DoorClose" translation="Chiusura Porta Sci-Fi"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_DoorOpen" translation="Apertura Porta Sci-Fi"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse1" translation="Energy Pulse 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse2" translation="Energy Pulse 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse1" translation="Impulso di Energia 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse2" translation="Impulso di Energia 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_Engine" translation="Motore Sci-Fi"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_Forcefield" translation="Campo di Forza Sci-Fi"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserFight" translation="Laser Gun Fight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserLarge" translation="Laser Fire (Large)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserMed" translation="Laser Fire (Medium)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserSmall" translation="Laser Fire (Small)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Skeleton_Laugh" translation="Skeleton Laugh"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SnowSteps" translation="Footsteps in Snow"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SpookyTrem_Guitar" translation="Spooky Tremolo Guitar"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Guillotine" translation="Spooky Guillotine"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Splat" translation="Gooey Splat"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AllAboard" translation="Spooky Announcer: 'All Aboard'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AreYouReady" translation="Spooky Announcer: 'Are You Ready?'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown1" translation="Spooky Countdown '1'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown2" translation="Spooky Countdown '2'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown3" translation="Spooky Countdown '3'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown4" translation="Spooky Countdown '4'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown5" translation="Spooky Countdown '5'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown54321" translation="Spooky Countdown '5,4,3,2,1'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_DontLoseYourHead" translation="Spooky Announcer: 'Don't Lose Your Head'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_EnjoyYourRide" translation="Spooky Announcer: 'Enjoy Your Ride'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HaveFun" translation="Spooky Announcer: 'Have Fun'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HoldOnTight" translation="Spooky Announcer: 'Hold On Tight'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Laugh" translation="Spooky Announcer: Laugh"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_MindYourHead" translation="Spooky Announcer: 'Mind Your Head'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SteamWhistle" translation="Steam Train Whistle"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserFight" translation="Sparatoria Laser"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserLarge" translation="Sparo Laser (Largo)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserMed" translation="Sparo Laser (Medio)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserSmall" translation="Sparo Laser (Piccolo)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Skeleton_Laugh" translation="Risata di Scheletro"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SnowSteps" translation="Passi nella Neve"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SpookyTrem_Guitar" translation="Tremolo Chitarra Spaventoso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Guillotine" translation="Ghigliottina Spaventosa"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Splat" translation="Spiaccicamento Appiccicoso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AllAboard" translation="Annunciatore Spaventoso: 'Tutti a Bordo'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AreYouReady" translation="Annunciatore Spaventoso: 'Siete Pronti?'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown1" translation="Countdown Spaventoso '1'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown2" translation="Countdown Spaventoso '2'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown3" translation="Countdown Spaventoso '3'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown4" translation="Countdown Spaventoso '4'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown5" translation="Countdown Spaventoso '5'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown54321" translation="Countdown Spaventoso '5,4,3,2,1'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_DontLoseYourHead" translation="Annunciatore Spaventoso: 'Non perdete la testa'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_EnjoyYourRide" translation="Annunciatore Spaventoso: 'Godetevi il Giro'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HaveFun" translation="Annunciatore Spaventoso: 'Divertitevi'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HoldOnTight" translation="Annunciatore Spaventoso: 'Tenetevi Stretti'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Laugh" translation="Annunciatore Spaventoso: Risata"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_MindYourHead" translation="Annunciatore Spaventoso: 'Attenti alla Testa'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SteamWhistle" translation="Fischio di Treno a Vapore"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_DoorClose" translation="Chiusura Porta Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_DoorOpen" translation="Apertura Porta Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_Engine" translation="Motore Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_GateClose" translation="Chiusura Cancello Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_GateOpen" translation="Apertura Cancello Steampunk"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeLong" translation="Strings and Piano Scare - Long"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeShort" translation="Strings and Piano Scare - Short"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_1" translation="String Bounce 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_2" translation="String Bounce 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_3" translation="String Bounce 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Creepy_Rise" translation="String Creepy Rise"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_1" translation="String High Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_2" translation="String High Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_1" translation="String High Screech 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_2" translation="String High Screech 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_3" translation="String High Screech 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_4" translation="String High Screech 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_1" translation="String High Trill 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_2" translation="String High Trill 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_3" translation="String High Trill 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_1" translation="String Low Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_2" translation="String Low Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_3" translation="String Low Scrape 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_1" translation="String Mid Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_2" translation="String Mid Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_1" translation="String Mid Trill 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_2" translation="String Mid Trill 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_321_Countdown" translation="Megaphone Countdown: 3,2,1: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_54321_Countdown" translation="Megaphone Countdown: 5,4,3,2,1: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_1" translation="Megaphone Countdown: 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_2" translation="Megaphone Countdown: 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_3" translation="Megaphone Countdown: 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_4" translation="Megaphone Countdown: 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_5" translation="Megaphone Countdown: 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_Go" translation="Megaphone Countdown: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tortured_Scream" translation="Tortured Scream"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_1" translation="Waterphone Long 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_2" translation="Waterphone Long 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_3" translation="Waterphone Long 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_4" translation="Waterphone Long 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_1" translation="Waterphone Short 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_2" translation="Waterphone Short 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_3" translation="Waterphone Short 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_4" translation="Waterphone Short 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeLong" translation="Corde e Pianoforte Spaventoso - Lungo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeShort" translation="Corde e Pianoforte Spventoso - Corto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_1" translation="Corde Pizzicate 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_2" translation="Corde Pizzicate 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_3" translation="Corde Pizzicate 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Creepy_Rise" translation="Corda Cupa Crescente"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_1" translation="Corda Pizzicata Alta 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_2" translation="Corda Pizzicata Alta 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_1" translation="Corda Stridio Alto 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_2" translation="Corda Stridio Alto 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_3" translation="Corda Stridio Alto 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_4" translation="Corda Stridio Alto 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_1" translation="Corda Trillo Alto 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_2" translation="Corda Trillo Alto 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_3" translation="Corda Trillo Alto 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_1" translation="Corda Pizzicata Bassa 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_2" translation="Corda Pizzicata Bassa 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_3" translation="Corda Pizzicata Bassa 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_1" translation="Corda Pizzicata Media 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_2" translation="Corda Pizzicata Media 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_1" translation="Corda Trillo Medio 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_2" translation="Corda Trillo Medio 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_321_Countdown" translation="Countdown Megafono: 3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_54321_Countdown" translation="Countdown Megafono: 5,4,3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_1" translation="Countdown Megafono: 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_2" translation="Countdown Megafono: 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_3" translation="Countdown Megafono: 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_4" translation="Countdown Megafono: 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_5" translation="Countdown Megafono: 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_Go" translation="Countdown Megafono: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tortured_Scream" translation="Urlo di Tortura"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_1" translation="Waterphone Lungo 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_2" translation="Waterphone Lungo 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_3" translation="Waterphone Lungo 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_4" translation="Waterphone Lungo 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_1" translation="Waterphone Corto 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_2" translation="Waterphone Corto 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_3" translation="Waterphone Corto 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_4" translation="Waterphone Corto 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Whoosh_Whoosh" translation="Sibilo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Wood_DoorClose" translation="Chiusura Porta in Legno"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Wood_DoorOpen" translation="Apertura Porta in Legno"/>
