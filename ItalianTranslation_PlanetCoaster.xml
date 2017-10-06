@@ -12057,14 +12057,14 @@
 		<entry key="HUD_CurrentMonth" translation="Mese Corrente"/>
 		<entry key="HUD_FamilyGroupMemberCount" translation="Famiglie"/>
 		<entry key="HUD_HelpPopup_BlueprintPlacement_Title" translation="Controlli posizionamento progetti"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Usa Handles"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Usa Regolatori Blu a Schermo"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_02" translation="Costruisci pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Elimina pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Seleziona pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per posizionare il prossimo pezzo di tracciato."/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sull'elemento posizionato"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} su Pezzo Posizionato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Montagna Russa"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Gli Inneschi sulle Montagne Russe permettono di attivare oggetti animati ed effetti speciali quando una vettura raggiunge uno specifico punto della pista."/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
@@ -12510,7 +12510,7 @@
 		<entry key="PopUp_Ride_IdealPrice" translation="Ideal ticket price: {VALUE:currency}"/>
 		<entry key="PopUp_Ride_LapsHint" translation="Cannot edit number of laps while ride is Open"/>
 		<entry key="PopUp_Ride_LastMonthsProfit" translation="Last month's profit"/>
-		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Don't block station"/>
+		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Don't block Stazione"/>
 		<entry key="PopUp_Ride_LeaveIfWaitingHint" translation="Departure interval overrides other loading rules"/>
 		<entry key="PopUp_Ride_LifetimeArrivals" translation="Lifetime disembarkments"/>
 		<entry key="PopUp_Ride_LifetimeDepartures" translation="Lifetime boarders"/>
@@ -12518,7 +12518,7 @@
 		<entry key="PopUp_Ride_LifetimeGuests_Debug" translation="Lifetime guests: {GUESTS:int}"/>
 		<entry key="PopUp_Ride_LifetimeProfit" translation="Lifetime profit"/>
 		<entry key="PopUp_Ride_LoadFraction" translation="Wait for"/>
-		<entry key="PopUp_Ride_LoadFractionTooltip" translation="How full must the train be before it can leave the station."/>
+		<entry key="PopUp_Ride_LoadFractionTooltip" translation="How full must the train be before it can leave the Stazione."/>
 		<entry key="PopUp_Ride_LoadFractionTooltipRides" translation="How full must the ride be before it can start."/>
 		<entry key="PopUp_Ride_LoadFraction_All" translation="Full Load"/>
 		<entry key="PopUp_Ride_LoadFraction_Half" translation="1/2 Load"/>
@@ -12530,11 +12530,11 @@
 		<entry key="PopUp_Ride_LoadTime" translation="Load time: {LAST:float}s ({AVERAGE:float}s average)"/>
 		<entry key="PopUp_Ride_LoadedGuestsPerHour" translation="Guests per hour (fully loaded): {LAST:float} ({AVERAGE:float} average)"/>
 		<entry key="PopUp_Ride_MaxWaitingTime" translation="Max. tempo d'attesa"/>
-		<entry key="PopUp_Ride_MaxWaitingTimeHint" translation="Maximum time between the first passenger boarding and the train leaving the station, regardless of Minimum Passenger Load."/>
+		<entry key="PopUp_Ride_MaxWaitingTimeHint" translation="Maximum time between the first passenger boarding and the train leaving the Stazione, regardless of Minimum Passenger Load."/>
 		<entry key="PopUp_Ride_MaxWaitingTimeRideHint" translation="Maximum time between the first passenger boarding and the ride starting, regardless of Minimum Passenger Load."/>
 		<entry key="PopUp_Ride_MaximumGroupSize" translation="Maximum group size: {VALUE:int}"/>
 		<entry key="PopUp_Ride_MinWaitingTime" translation="Min. tempo d'attesa"/>
-		<entry key="PopUp_Ride_MinWaitingTimeHint" translation="Minimum time between the first passenger boarding and the train leaving the station. Shortens queue times."/>
+		<entry key="PopUp_Ride_MinWaitingTimeHint" translation="Minimum time between the first passenger boarding and the train leaving the Stazione. Shortens queue times."/>
 		<entry key="PopUp_Ride_MinWaitingTimeRideHint" translation="Minimum time between the first passenger boarding and the ride starting. Shortens queue times."/>
 		<entry key="PopUp_Ride_MinimumRiderHeight" translation="Minimum rider height"/>
 		<entry key="PopUp_Ride_MinimumRiderHeight_Child" translation="Bambino"/>
@@ -12544,22 +12544,22 @@
 		<entry key="PopUp_Ride_MonthlyDepartures" translation="Discese mensili"/>
 		<entry key="PopUp_Ride_MonthlyGuests" translation="Ospiti mensili"/>
 		<entry key="PopUp_Ride_MonthlyRunningCost" translation="Costi esercizio mensili"/>
-		<entry key="PopUp_Ride_MonthlyStationRunningCost" translation=" - station costs"/>
+		<entry key="PopUp_Ride_MonthlyStationRunningCost" translation=" - Stazione costs"/>
 		<entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - utility costs"/>
 		<entry key="PopUp_Ride_MoveEntrance" translation="Sposta entrata"/>
 		<entry key="PopUp_Ride_MoveExit" translation="Sposta uscita"/>
 		<entry key="PopUp_Ride_NumCars" translation="Numero vetture"/>
 		<entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
-		<entry key="PopUp_Ride_NumPasses" translation="Stop at station on pass"/>
+		<entry key="PopUp_Ride_NumPasses" translation="Stop at Stazione on pass"/>
 		<entry key="PopUp_Ride_NumTrains" translation="Numero di treni"/>
-		<entry key="PopUp_Ride_NumTrainsLimit" translation="To add more trains try increasing the length of the station, or reducing the number of cars per train."/>
+		<entry key="PopUp_Ride_NumTrainsLimit" translation="To add more trains try increasing the length of the Stazione, or reducing the number of cars per train."/>
 		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="To add more trains try adding additional block sections."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
 		<entry key="PopUp_Ride_Occupancy" translation="Riempimento: {LAST:float}% ({AVERAGE:float}% average)"/>
 		<entry key="PopUp_Ride_Operations_Soon" translation="Ride operations coming soon"/>
 		<entry key="PopUp_Ride_Options" translation="Opzioni Corsa"/>
 		<entry key="PopUp_Ride_Overview_Soon" translation="Ride overview coming soon"/>
-		<entry key="PopUp_Ride_PassesHint" translation="Cannot edit number of passes through station while ride is Open"/>
+		<entry key="PopUp_Ride_PassesHint" translation="Cannot edit number of passes through Stazione while ride is Open"/>
 		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
 		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} average)"/>
 		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Prestige Deterioration Multiplier: {VALUE:float}"/>
@@ -12578,10 +12578,10 @@
 		<entry key="PopUp_Ride_Time_N" translation="{TIME:int} Minutes"/>
 		<entry key="PopUp_Ride_Time_Unknown" translation=""/>
 		<entry key="PopUp_Ride_TrainSpeed" translation="Train Speed"/>
-		<entry key="PopUp_Ride_TransportRideFinanceHint" translation="Prices are set on a per station basis."/>
-		<entry key="PopUp_Ride_Transport_StationBrokenDown" translation="Cannot open station whilst broken-down"/>
-		<entry key="PopUp_Ride_Transport_StationIncompleteHint" translation="Station checklist must be complete before it can be opened"/>
-		<entry key="PopUp_Ride_Transport_StationOpenCloseHint" translation="Ride must be open before station can be opened or closed"/>
+		<entry key="PopUp_Ride_TransportRideFinanceHint" translation="Prices are set on a per Stazione basis."/>
+		<entry key="PopUp_Ride_Transport_StationBrokenDown" translation="Cannot open Stazione whilst broken-down"/>
+		<entry key="PopUp_Ride_Transport_StationIncompleteHint" translation="Stazione checklist must be complete before it can be opened"/>
+		<entry key="PopUp_Ride_Transport_StationOpenCloseHint" translation="Ride must be open before Stazione can be opened or closed"/>
 		<entry key="PopUp_Ride_TriggerBreakdown" translation="Enqueue breakdown"/>
 		<entry key="PopUp_Ride_WaitingTime" translation="Waiting Time"/>
 		<entry key="PopUp_Ride_Wear" translation="Wear rate:{LAST:float}"/>
@@ -12614,7 +12614,7 @@
 		<entry key="PopUp_TestRatings" translation="Test ratings"/>
 		<entry key="PopUp_Testing" translation="Testing"/>
 		<entry key="PopUp_TitleStatus" translation="Ride status: {STATUS}"/>
-		<entry key="PopUp_TitleStatusStation" translation="Station status: {STATUS}"/>
+		<entry key="PopUp_TitleStatusStation" translation="Stazione status: {STATUS}"/>
 		<entry key="PopUp_Tools" translation="Tools"/>
 		<entry key="PopUp_TransportStats" translation="Transport Statistics"/>
 		<entry key="PopUp_TriggerAddSceneryDescription" translation="Select a piece of triggerable scenery to attach it to the trigger point"/>
@@ -13255,17 +13255,17 @@
 		<entry key="Ambience_Ambience" translation="Effetti Posizionabili "/>
 		<entry key="Ambience_Event_AMB_1950s_Diner" translation="Ristorante Anni '50"/>
 		<entry key="Ambience_Event_AMB_1950s_Street" translation="Strada Anni '50"/>
-		<entry key="Ambience_Event_AMB_1980s_Computer_Lab" translation="1980's Computer Lab"/>
+		<entry key="Ambience_Event_AMB_1980s_Computer_Lab" translation="Laboratorio Computer anni '80"/>
 		<entry key="Ambience_Event_AMB_80s_SynthLoop1" translation="Sequenza Synth anni '80"/>
-		<entry key="Ambience_Event_AMB_80s_SynthLoop2" translation="80s Synth Sequence 2"/>
-		<entry key="Ambience_Event_AMB_80s_SynthLoop3" translation="80s Synth Sequence 3"/>
+		<entry key="Ambience_Event_AMB_80s_SynthLoop2" translation="Sequenza Synth anni '80 - 2"/>
+		<entry key="Ambience_Event_AMB_80s_SynthLoop3" translation="Sequenza Synth anni '80 - 3"/>
 		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Ponte Portaerei"/>
 		<entry key="Ambience_Event_AMB_AlienForest" translation="Foresta Aliena"/>
 		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Backwards Voices"/>
 		<entry key="Ambience_Event_AMB_BewitchedForest" translation="Foresta Stregata"/>
 		<entry key="Ambience_Event_AMB_Blacksmith" translation="Forgia del fabbro"/>
 		<entry key="Ambience_Event_AMB_CanyonBattle" translation="Battaglia al Canyon"/>
-		<entry key="Ambience_Event_AMB_CarChase" translation="Car Chase"/>
+		<entry key="Ambience_Event_AMB_CarChase" translation="Inseguimento tra auto"/>
 		<entry key="Ambience_Event_AMB_Car_FlyWay" translation="Car Fly-way"/>
 		<entry key="Ambience_Event_AMB_CaveDrippy" translation="Grotta"/>
 		<entry key="Ambience_Event_AMB_CaveDrippyBats" translation="Grotta con Pipistrelli"/>
@@ -14269,7 +14269,7 @@
 		<entry key="Powered_TheMunsters_Desc" translation="Guests race against each other in Munster Koach and DRAG-U-LA styled go-karts."/>
 		<!--PDLC_Spooky_Coasters-->
 		<entry key="Coaster_DarkTower" translation="In-Descent"/>
-		<entry key="Coaster_DarkTower_Desc" translation="Shuttle roller coaster that launches the train backwards out of the station and up a vertical incline. As it comes to a stop it gives the riders a weightless moment before coming back down the drop and back into the station."/>
+		<entry key="Coaster_DarkTower_Desc" translation="Shuttle roller coaster that launches the train backwards out of the Stazione and up a vertical incline. As it comes to a stop it gives the riders a weightless moment before coming back down the drop and back into the Stazione."/>
 		<entry key="Coaster_Type_DarkTower" translation="Reverse Freefall Coaster"/>
 		<entry key="Coaster_Type_Hoax" translation="Ghost Train"/>
 		<entry key="Coaster_Type_Huntsman" translation="Tracked Motion Platform"/>
@@ -14279,10 +14279,10 @@
 		<entry key="Powered_Huntsman_Desc" translation="Electrically powered motion platforms move along a track, from which the platform's rotation angles can be set in three dimensions."/>
 		<entry key="Research_Hint_Coaster_InDescent" translation="Summit and Plummet."/>
 		<entry key="Research_Revealed_Coaster_InDescent" translation="In-Descent"/>
-		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_mono_dir_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_mono_dir_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Stazione with left entry and right exit"/>
+		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Stazione with right entry and left exit"/>
+		<entry key="Station_Type_station_mono_dir_RightRight" translation="Stazione with right entry and right exit"/>
+		<entry key="Station_Type_station_mono_dir_leftleft" translation="Stazione with left entry and left exit"/>
 		<entry key="TrackEditParam_CabinPitch" translation="Car Pitch Angle"/>
 		<entry key="TrackEditParam_CabinPitchSet" translation="Control Pitch"/>
 		<entry key="TrackEditParam_CabinRoll" translation="Car Roll Angle"/>
@@ -17030,8 +17030,8 @@
 		<entry key="BuildingPartName_SP_CT_Merge_ArchHalf" translation="Crypt Arch Half"/>
 		<entry key="BuildingPartName_SP_CT_Merge_CryptWall_4m" translation="Crypt Wall 4m Detailed"/>
 		<entry key="BuildingPartName_SP_CT_Merge_ShopFront" translation="Crypt Shop Front"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_01" translation="Crypt Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_02" translation="Crypt Wall 2m Station Surround 2"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_01" translation="Crypt Wall 4m Stazione Surround 1"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_02" translation="Crypt Wall 2m Stazione Surround 2"/>
 		<entry key="BuildingPartName_SP_CT_Merge_Wall_1m" translation="Crypt Wall 1m"/>
 		<entry key="BuildingPartName_SP_CT_Merge_Wall_2m" translation="Crypt Wall 2m"/>
 		<entry key="BuildingPartName_SP_CT_Merge_Wall_4m" translation="Crypt Wall 4m Base"/>
@@ -17154,8 +17154,8 @@
 		<entry key="BuildingPartName_SP_HH_Merge_Arch" translation="Haunted House Arch"/>
 		<entry key="BuildingPartName_SP_HH_Merge_ArchHalf" translation="Haunted House Arch Half"/>
 		<entry key="BuildingPartName_SP_HH_Merge_ShopFront" translation="Haunted House Shop Front"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_01" translation="Haunted House Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_02" translation="Haunted House Wall 2m Station Surround 2"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_01" translation="Haunted House Wall 4m Stazione Surround 1"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_02" translation="Haunted House Wall 2m Stazione Surround 2"/>
 		<entry key="BuildingPartName_SP_HH_Merge_Wall_1m" translation="Haunted House Wall 1m"/>
 		<entry key="BuildingPartName_SP_HH_Merge_Wall_2m" translation="Haunted House Wall 2m"/>
 		<entry key="BuildingPartName_SP_HH_Merge_Wall_4m" translation="Haunted House Wall 4m"/>
@@ -17811,15 +17811,15 @@
 		<entry key="Staff_Status_Entertain_N" translation="Intrattiene {count:int} ospiti"/>
 		<entry key="Staff_Status_HeadingToRepairVandalism" translation="Va a riparare un oggetto vandalizzato"/>
 		<entry key="Staff_Status_Idle" translation="Sfaccendato"/>
-		<entry key="Staff_Status_Inspection" translation="Ispeziona {station}"/>
+		<entry key="Staff_Status_Inspection" translation="Ispeziona {Stazione}"/>
 		<entry key="Staff_Status_Litter" translation="Raccoglie i rifiuti"/>
 		<entry key="Staff_Status_Lost" translation="Si è perso"/>
 		<entry key="Staff_Status_Nav_Bin" translation="Si reca al cestino"/>
 		<entry key="Staff_Status_Nav_Litter" translation="Va a raccogliere i rifiuti"/>
 		<entry key="Staff_Status_Nav_Vomit" translation="Va a pulire il vomito"/>
 		<entry key="Staff_Status_Quit" translation="Abbandona il parco"/>
-		<entry key="Staff_Status_Refurbishment" translation="Effettua la manutenzione - {station}"/>
-		<entry key="Staff_Status_Repair" translation="Ripara un guasto presso {station}"/>
+		<entry key="Staff_Status_Refurbishment" translation="Effettua la manutenzione - {Stazione}"/>
+		<entry key="Staff_Status_Repair" translation="Ripara un guasto presso {Stazione}"/>
 		<entry key="Staff_Status_RepairingVandalism" translation="Ripara un oggetto vandalizzato"/>
 		<entry key="Staff_Status_ReportCrime" translation="Fa rapporto"/>
 		<entry key="Staff_Status_Suspended" translation="Girovagando"/>
@@ -18175,10 +18175,10 @@
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Teen_01" translation="Ho finito i soldi per {reference}"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Teen_02" translation="Ho speso talmente tanto che non posso salire su {reference}!"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Teen_03" translation="Oh cavolo! Non ho abbastanza soldi per {reference}"/>
-		<entry key="Guest_Thought_Assessment_FireworksHighIntensity_Common_01" translation="Those fireworks were really impressive."/>
-		<entry key="Guest_Thought_Assessment_FireworksLong_Common_01" translation="I like long firework displays, and this one did not disappoint!"/>
-		<entry key="Guest_Thought_Assessment_FireworksLowIntensity_Common_01" translation="Those fireworks weren't very impressive."/>
-		<entry key="Guest_Thought_Assessment_FireworksShort_Common_01" translation="This firework display could have lasted longer."/>
+		<entry key="Guest_Thought_Assessment_FireworksHighIntensity_Common_01" translation="Quei fuochi d'artificio sono stati davvero fantastici."/>
+		<entry key="Guest_Thought_Assessment_FireworksLong_Common_01" translation="Adoro i fuochi d'artificio che durano a lungo, e non sono stato deluso!"/>
+		<entry key="Guest_Thought_Assessment_FireworksLowIntensity_Common_01" translation="I fuochi d'artificio non sono stati così impressionanti."/>
+		<entry key="Guest_Thought_Assessment_FireworksShort_Common_01" translation="Vorrei che i fuochi d'artificio fossero durati più a lungo."/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Adult_01" translation="{reference} sembra davvero fico!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Adult_02" translation="{reference} sembra stupefacente!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Adult_03" translation="Mi piace l'aspetto di {reference}!"/>
@@ -18242,7 +18242,7 @@
 		<entry key="Guest_Thought_Assessment_PPQueue_Short_Common_01" translation="Sto risparmiando un sacco di tempo con il mio Pass Salta-Coda! - {reference}"/>
 		<entry key="Guest_Thought_Assessment_PPQueue_Short_Common_02" translation="Il mio Pass Salta-Coda mi sta facendo risparmiare tantissimo tempo su {reference}"/>
 		<entry key="Guest_Thought_Assessment_PPQueue_Short_Common_03" translation="Usare il mio Pass Salta-Coda su {reference} è bellissimo!"/>
-		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_01" translation="Il Pass Salta-Codaes è per i perdenti"/>
+		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_01" translation="Il Pass Salta-Coda è per i perdenti"/>
 		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_02" translation="Non credo che acquisterò mai un Pass Salta-Coda"/>
 		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_03" translation="Non mi importa di aspettare per fare un giro su un attrazione, non mi serve un Pass Salta-Coda"/>
 		<entry key="Guest_Thought_Assessment_QueueFinished_Bad_Common_01" translation="Finalmente! La coda per {reference} è durata tantissimo!"/>
@@ -18379,10 +18379,10 @@
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Child_02" translation="Che prezzi alti che ha {reference}"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Child_03" translation="Niente da {reference} vale il suo prezzo!"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Common_01" translation="Tutto da {reference} è troppo costoso per me"/>
-		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_01" translation="Non comprerò niente da {reference} for those prices"/>
+		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_01" translation="Non comprerò niente da {reference} a quei prezzi"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_02" translation="Non esiste che mi faccio spennare da {reference}"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_03" translation="{reference} è così costoso!"/>
-		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_01" translation="There's nothing to use {reference} for"/>
+		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_01" translation="Non vale la pena usare {reference} "/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_02" translation="Non c'è ragione di prendere{reference} per andare da qualche parte"/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_03" translation="Perchè ho buttato i miei soldi per {reference}? Non va da nessuna parte!"/>
 		<entry key="Guest_Thought_Assessment_Transport_Good_Common_01" translation="Potrei raggiungere facilmente le attrazzioni pi belle se prendo {reference}"/>
@@ -18703,7 +18703,7 @@
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_03" translation="Questo posto è fantastico, voglio comprare un souvenir"/>
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_04" translation="Mi sto divertendo, voglio comprare un regalo per i miei amici subito"/>
 		<entry key="Guest_Thought_Luxury_WontBuy_Common_01" translation="Voglio fare qualcosa di divertente, non voglio andare a fare compere al {reference} adesso"/>
-		<entry key="Guest_Thought_Luxury_WontBuy_Common_02" translation="I don't feel like spending money at {reference} right now"/>
+		<entry key="Guest_Thought_Luxury_WontBuy_Common_02" translation="Non mi sento di spendere i miei soldi adesso al {reference} "/>
 		<entry key="Guest_Thought_Luxury_WontBuy_Common_03" translation="Adesso non voglio comprare un souvenir - {reference}"/>
 		<entry key="Guest_Thought_Luxury_WontBuy_Common_04" translation="Non mi sto divertendo abbastanza per volere qualsiasi cosa da {reference}"/>
 		<entry key="Guest_Thought_Mascot_Common_01" translation="{reference} è il migliore!"/>
@@ -18782,14 +18782,14 @@
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Adult_03" translation="Il biglietto famiglia è un terribile affare!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_01" translation="Il biglietto famiglia sembra davvero costoso"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_02" translation="Wow! Il Biglietto famiglia non è economico!"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_03" translation="Il biglietto famiglai ha un prezzo davvero alto!"/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_03" translation="Il biglietto famiglia ha un prezzo davvero alto!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Common_01" translation="Non pagherò così tanto per un normale biglietto famiglia"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Teen_01" translation="Non pagherò assolutamente così tanto per un normale biglietto famiglia"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Teen_02" translation="Guardo quanto è sovraprezzo il biglietto famiglia!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Teen_03" translation="Non posso credere che questo sia il costo del biglietto famiglia"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_01" translation="This park isn't even worth entering to steal from, what a joke!"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_02" translation="There's no good money to be made here for that Standard Ticket price"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_03" translation="That Standard Ticket price is outrageous. Why are any of my targets paying for it?"/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_01" translation="Non vale la pena entrare in questo parco, nemmeno per rubare. Che beffa!"/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_02" translation="Non ci sono abbastanza soldi da fare qui per il prezzo del biglietto Standard."/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_03" translation="Il prezzo del biglietto standard è un oltraggio. Perchè c'è qualcuno che lo paga?"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Teen_01" translation="Non pagherò assolutamente così tanto per un biglietto"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Teen_02" translation="Oh, Il biglietto costa davvero troppo!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Teen_03" translation="Non posso credere che un biglietto normale costi così tanto"/>
@@ -18803,7 +18803,7 @@
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_01" translation="Oh cavolo, non ho abbastanza soldi per comprare i biglietti!"/>
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_02" translation="I biglietti sono... fuori dalla mia portata..."/>
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_03" translation="Non posso permettermi di entrare nel parco!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjected_Common_01" translation="I'm never going back to that park again! They ejected me but I'm innocent! I'm going to spread the word about this injustice!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjected_Common_01" translation="Non tornerò mai più in quel parco! Mi hanno espulso ma sono innocente! Diffonderò la notizia di questa ingiustizia!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_01" translation="Se non dovessi tornare a casa, starei qui per sempre!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_02" translation="Tutte le belle cose finiscono, anche questa giornata al parco divertimenti."/>
 		<entry key="Guest_Thought_ParkExit_Happy_Child_01" translation="Questo parco è davvero figo! Sicuramente ci tornerò!"/>
@@ -18820,18 +18820,18 @@
 		<entry key="Guest_Thought_ParkExit_Neutral_Teen_02" translation="Questo parco è un 6 su 10, meglio andare a casa ora."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketEjected_Common_01" translation="La sicurezza al parco era alta, ho borseggiato e sono stato preso."/>
 		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_01" translation="Ho avuto una brutta esperienza, un borseggiatore mi ha rubato i soldi e non è stato preso! Qui la Sicurezza è uno scherzo!"/>
-		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_02" translation="I'm never coming back here again, someone managed to steal from me and get away with it. Where's the security?!"/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_01" translation="This visit wasn't a good experience, they need to increase security here, they caught the pickpocket that stole from me but only after they'd managed to spend most of my money!"/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Time to go home. Security at this park certainly could do with improvement, the pickpocket who stole from me got away with spending most of my money before he was caught."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="Security here is average, a pickpocket managed to steal from me and spend a reasonable amount of it before being caught. Maybe I'll come back, maybe not."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_02" translation="Looking back, at least they caught the pickpocket, it would have been good if they could have caught them before a reasonable amount of my money had been spent. Hope they improve security if I do come back here again."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="Security here is good, they caught the pickpocket who stole from me before they could spend much of my money. I'd come back here again."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_02" translation="I'm glad security managed to catch that pickpocket before they managed to spend much of my money, security here is of a good level, I'd come back."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_01" translation="Security at this park is great, even though I was pick-pocketed they managed to catch them and reclaim the whole amount taken from me!"/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_02" translation="Can't fault security during my time here, they caught the pickpocket who stole from me and returned all of my money!"/>
-		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_01" translation="I’ve stolen enough for now, time to leave and enjoy the proceeds of crime."/>
-		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_02" translation="That’s enough pick pocketing for now, I’m off to enjoy my takings."/>
-		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_03" translation="My pockets are loaded, I’ve picked enough of other people’s for now. Time to leave."/>
+		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_02" translation="Non tornerò mai più. Qualcuno mi ha derubato ed è riuscito a scappare. Dov'è la sicurezza?!"/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_01" translation="Questa visita non è stata una bella esperienza. Devono migliorare la sicurezza. Hanno preso il borseggiatore che mi aveva derubato, ma solo dopo che aveva speso molti miei soldi!"/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Tempo di andare a casa. La Sicurezza di questo parco, sicuramente può migliorare. Il borseggiatore che mi ha derubato, è andato via ed ha speso molti miei soldi prima che fosse catturato."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="La Sicurezza qui è mediocre. Un borseggiatore mi ha derubato ed è riuscito a spendere molti miei soldi prima che fosse catturato. Forse tornerò, forse no."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_02" translation="Ripensandoci, almeno hanno preso il borseggiatore. Sarebbe stato meglio se l'avessero preso prima che spendesse quasi tutti i miei soldi. Spero migliorino la sicurezza, così tornerò ancora."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="La Sicurezza qui è buona. Hanno preso il borseggiare prima che potesse spendere molti miei soldi. Tornerò ancora."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_02" translation="Sono felice che la sicurezza abbia preso il borseggiatore prima che potesse spendere molti miei soldi. La Sicurezza è di buon livello qui. Tornerò."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_01" translation="La Sicurezza nel Parco è fantastica, anche quando mi hanno borseggiato, hanno subito catturato il ladro e restituito tutti miei averi!"/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_02" translation="Non posso prendermela con la Sicurezza. Hanno catturato il borseggiatore e mi hanno restituito tutti i miei soldi!"/>
+		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_01" translation="Ho rubato abbastanza per oggi. E' tempo di andare via e godersi i proventi del crimine."/>
+		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_02" translation="Ho borseggiato abbastanza per oggi. Andrò via per godere di quello che ho preso."/>
+		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_03" translation="Le mie tasche sono piene. Ho preso abbastanza dalle tasche altrui, per oggi. E' tempo di andare."/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Adult_01" translation="Questo parco è stato uno completo spreco di tempo, me ne vado!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Adult_02" translation="Non mi sono per niente divertito oggi,me ne torno a casa!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Child_01" translation="Che giornata terribile!, andiamocene!"/>
@@ -18893,38 +18893,38 @@
 		<entry key="Guest_Thought_Security_GuardChase_Common_01" translation="Quella guardia deve star inseguendo qualcuno!"/>
 		<entry key="Guest_Thought_Security_GuardChase_Common_02" translation="C'è un inseguimento in corso!"/>
 		<entry key="Guest_Thought_Security_GuardChase_Common_03" translation="Wow quella guardia sta volando!"/>
-		<entry key="Guest_Thought_Security_GuardChase_Common_04" translation="They're in a hurry!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_01" translation="Outrageous! I've been asked to leave the park but I haven't done anything wrong! I'm going to the newspapers about this!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_02" translation="I'm innocent! Why have I been asked to leave? This isn't the last they've heard of this!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_03" translation="How dare they ask me to leave when I've done nothing wrong. They'll pay for this!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_04" translation="I cannot believe they've asked me to leave, I've never broken the law in my life! This isn't the end...!"/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_01" translation="Oh no, I've been caught by security!"/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_02" translation="I've been busted by security."/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_03" translation="Game over, security have caught me."/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_04" translation="Caught by security, maybe it’s time to change my ways."/>
-		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_01" translation="Security evaded, I live to steal another day."/>
-		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_02" translation="I’m too fast for these security guards."/>
-		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_03" translation="These security guards are slow."/>
-		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_01" translation="Security has spotted me, run!"/>
-		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_02" translation="I’ve been spotted by security, run!"/>
-		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_01" translation="I’m going to pick your pocket."/>
-		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_02" translation="There's my next pickpocket victim."/>
-		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_03" translation="Aha! You look like you might have a good amount to steal."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_01" translation="Security caught the pickpocket! Shame they couldn't recover more of what was stolen from me."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_02" translation="At least they caught the pickpocket who stole from me, shame they've not been able to return more of what was taken."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_01" translation="I'm glad the pickpocket who stole from me has been caught and at least some of my money has been returned"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_02" translation="That's good news, security caught the pickpocket who stole from me and managed to recover a reasonable amount of my money."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_01" translation="That's great, security managed to recover most of my stolen money!"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_02" translation="Almost all of the money that pickpocket stole has been returned to me, I'm very thankful to the security team here!"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_01" translation="Fantastic! They've caught the pickpocket and returned all of my stolen money to me, security here is great!"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_02" translation="Amazing! All of the money that pickpocket stole has been returned to me! Thank you park security!"/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_01" translation="Consider your pocket picked."/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_02" translation="Picked from your pocket, into mine."/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_03" translation="Another pocket successfully picked."/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_04" translation="What's yours is mine, courtesy of pickpocketing."/>
-		<entry key="Guest_Thought_Security_VandalEjected_Common_01" translation="I've been asked to leave because I vandalised!"/>
-		<entry key="Guest_Thought_Security_VandalEjected_Common_02" translation="I shouldn't have lost my temper and vandalised, now I'm being ejected from the park!"/>
-		<entry key="Guest_Thought_Security_VandalEjected_Common_03" translation="Why did I vandalise? Now I'm being ejected!"/>
+		<entry key="Guest_Thought_Security_GuardChase_Common_04" translation="Vanno di fretta!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_01" translation="Che oltraggio! Mi hanno chiesto di lasciare il parco, ma non ho fatto nulla di male! Lo dirò alla stampa!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_02" translation="Sono innocente! Perchè mi hanno chiesto di andare via? Sentiranno ancora il mio nome!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_03" translation="Come si permettono di chiedermi di andare via, quando non ho fatto nulla si sbagliato. La pagheranno!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_04" translation="Non posso credere che mi abbiano chiesto di andare via. Non ho mai infranto la legge in vita mia! Non finisce qui...!"/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_01" translation="Oh no, sono stato catturato dalla Sicurezza!"/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_02" translation="Sono stato preso dalla Sicurezza."/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_03" translation="Game over, la sicurezza mi ha beccato."/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_04" translation="Preso dalla sicurezza, forse è tempo di riflettere sulla mia vita."/>
+		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_01" translation="Sicurezza Superata. Vivrò un altro giorno per rubare."/>
+		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_02" translation="Sono troppo veloce per queste Guardie di Sicurezza."/>
+		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_03" translation="Queste Guardie di Sicurezza sono lente."/>
+		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_01" translation="La Sicurezza mi ha trovato, corro!"/>
+		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_02" translation="Sono stato trovato dalla sicurezza, corro!"/>
+		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_01" translation="Sto per rubare il tuo portafoglio."/>
+		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_02" translation="Ecco la mia prossima vittima di borseggio."/>
+		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_03" translation="Aha! Sembri qualcuno che ha un bel pò di roba da rubare."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_01" translation="La Sicurezza ha preso il borseggiatore! Che peccato che non abbiano trovato altro di quello che mi è stato rubato."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_02" translation="Almeno hanno preso il borseggiare che mi ha derubato. Peccato che non abbiano potuto restiuirmi qualcosa in più dei miei averi."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_01" translation="Sono felice che il borseggiatore che mi ha derubato sia stato preso, ed almeno un pò dei miei soldi mi siano stati restituiti."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_02" translation="Che bella notizia, la Sicurezza ha preso il borseggiatore che mi ha derubato, e sono riusciti a ritrovare una buona parte dei miei soldi."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_01" translation="Grandioso, la Sicurezza è riuscita a ritrovare gran parte dei miei soldi rubati!"/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_02" translation="Quasi tutti i soldi che il borseggiatore mi ha rubato, mi sono stati restituiti. Sono davvero grato al team della Sicurezza!"/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_01" translation="Fantastico! Hanno preso il borseggiatore e mi hanno restituito tutti i soldi rubati. La Sicurezza qui è grandiosa!"/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_02" translation="Stupendo! Ho avuto indietro tutti i soldi che mi sono stati rubati! Grazie Sicurezza!"/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_01" translation="Considera il tuo portafoglio, prelevato."/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_02" translation="Dalla tua tasca, dritto nella mia."/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_03" translation="Un altro portafoglio borseggiato con successo."/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_04" translation="Quello che è tuo, è mio. Educazione al borseggio."/>
+		<entry key="Guest_Thought_Security_VandalEjected_Common_01" translation="Mi è stato chiesto di andare via per aver commesso atti vandalici!"/>
+		<entry key="Guest_Thought_Security_VandalEjected_Common_02" translation="Non avrei dovuto perdere la calma e vandalizzare, perchè ora sarò espulso dal parco!"/>
+		<entry key="Guest_Thought_Security_VandalEjected_Common_03" translation="Perchè vandalizzo? Ora sarò espulso!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_01" translation="Evvai! Ho un palloncino!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_02" translation="Amo i palloncini!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_03" translation="Che fighi i palloncini!"/>
@@ -18963,7 +18963,7 @@
 		<entry key="Guest_Thought_ShopItem_NeedSatisfied_Thirst_Teen_03" translation="Mi sento pieno di energie e rinfrescato."/>
 		<entry key="Guest_Thought_ShopQueueFull_Adult_01" translation="è incredibile che {reference} sia così impegnato"/>
 		<entry key="Guest_Thought_ShopQueueFull_Adult_02" translation="tornerò dopo, quando {reference} sarà meno impesembra troppo lunga ora"/>
-		<entry key="Guest_Thought_ShopQueueFull_Adult_03" translation="The line for {reference} looks too big right now"/>
+		<entry key="Guest_Thought_ShopQueueFull_Adult_03" translation="La fila per {reference} sembra enorme adesso"/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_01" translation="Aw! {reference} è troppo impegnata"/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_02" translation="Non ci mettiamo in fila?? Ma io voglio qualcosa da {reference}! "/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_03" translation="Non c'è spazio in fila per {reference}"/>
@@ -19032,7 +19032,7 @@
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_01" translation="Molto meglio, mi sento meno arrabbiato dopo averlo rotto!"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_02" translation="Romperlo mi ha fatto sentire un po' meglio, per ora...."/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_03" translation="Romperlo mi ha fatto calmare!"/>
-		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="It's pretty run down around here"/>
+		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="E' piuttosto malridotto da queste parti"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_02" translation="C'è un sacco di vandalismo qui"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_03" translation="Non possono sistemare le cose vandalizzate?"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_01" translation="Perchè è tutto rotto?"/>
@@ -19062,7 +19062,7 @@
 		<entry key="Guest_Thought_VisitedRide_Neutral_Adult_01" translation="Penso che {reference} sia ok"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Adult_02" translation="{reference} è ok, niente di speciale"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Adult_03" translation="{reference} va bene ma non è la mia attrazione preferita"/>
-		<entry key="Guest_Thought_VisitedRide_Neutral_Child_01" translation="Meh, I thought {reference} was so-so"/>
+		<entry key="Guest_Thought_VisitedRide_Neutral_Child_01" translation="Meh, Penso che {reference} era così-così"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Child_02" translation="{reference} poteva essere migliore, ma anche peggiore!"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Child_03" translation="Preferisco altre attrazioni a {reference}"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Common_01" translation="{reference} è un attrazione nella media"/>
@@ -19165,95 +19165,95 @@
 		<entry key="Staff_Thought_Workload_VeryLow_Common_04" translation="Potrei anche smetterla, se non dovessi avere più lavoro da fare"/>
 		<entry key="Staff_Thought_Workload_VeryLow_Common_05" translation="Posso fare molto meglio di così"/>
 		<!--TrackEdit-->
-		<entry key="TK_023_Tunnel01_0" translation="Unlit"/>
-		<entry key="TK_023_Tunnel01_1" translation="Forwards"/>
-		<entry key="TK_023_Tunnel01_2" translation="Reverse"/>
-		<entry key="TK_023_Tunnel01_3" translation="Spiral"/>
-		<entry key="TK_023_Tunnel01_4" translation="Reverse Spiral"/>
-		<entry key="TrackEditParam_BankPivotRange" translation="Banking Offset"/>
-		<entry key="TrackEditParam_BankingRangeDegrees" translation="Banking Range Degrees"/>
-		<entry key="TrackEditParam_BlockBrakeMinSpeed" translation="Brake Target Speed"/>
-		<entry key="TrackEditParam_BlockSectionMaxSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_BoosterAcceleration" translation="Acceleration Rate"/>
-		<entry key="TrackEditParam_BoosterDirection" translation="Booster Direction"/>
-		<entry key="TrackEditParam_BoosterMaxSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_BrakeDeceleration" translation="Deceleration Rate"/>
-		<entry key="TrackEditParam_BrakeDirection" translation="Brake Direction"/>
-		<entry key="TrackEditParam_BrakeMinSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_CabinAngle" translation="Cabin Rotation Angle"/>
-		<entry key="TrackEditParam_CabinAngleSet" translation="Seat rotation"/>
-		<entry key="TrackEditParam_CatchOnReturnProportion" translation="Catch Car Return Position"/>
-		<entry key="TrackEditParam_ChainLiftDropLocation" translation="Chain Lift Drop Location"/>
-		<entry key="TrackEditParam_ChainLiftSpeed" translation="Chain Speed"/>
-		<entry key="TrackEditParam_CurveRangeDegrees" translation="Curve Range Degrees"/>
-		<entry key="TrackEditParam_DropSupports" translation="Coaster Supports"/>
-		<entry key="TrackEditParam_DualDirectionBoostSpeed" translation="Boost Target Speed"/>
-		<entry key="TrackEditParam_DualDirectionBrakeLap" translation="Passes Remaining Before Braking"/>
-		<entry key="TrackEditParam_DualDirectionBrakeSpeed" translation="Brake Target Speed"/>
-		<entry key="TrackEditParam_ForwardsLaunchAcceleration" translation="Reverse Launch Acceleration"/>
-		<entry key="TrackEditParam_ForwardsLaunchSpeed" translation="Reverse Launch Speed"/>
-		<entry key="TrackEditParam_FrictionWheelLiftSpeed" translation="Wheel Lift Speed"/>
-		<entry key="TrackEditParam_HoldingSectionMaxTime" translation="Maximum Hold Delay"/>
-		<entry key="TrackEditParam_HoldingSectionMinTime" translation="Minimum Hold Delay"/>
-		<entry key="TrackEditParam_HoldingSectionReleaseAcceleration" translation="Release Acceleration"/>
-		<entry key="TrackEditParam_HoldingSectionReleaseSpeed" translation="Release Speed"/>
-		<entry key="TrackEditParam_HoldingSectionStopLocation" translation="Stop Distance"/>
-		<entry key="TrackEditParam_HydraulicLaunchAcceleration" translation="Acceleration"/>
-		<entry key="TrackEditParam_HydraulicLaunchDelay" translation="Launch Delay"/>
-		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Catch Car Return Speed"/>
-		<entry key="TrackEditParam_LengthRangeMetres" translation="Length Range Metres"/>
-		<entry key="TrackEditParam_OptionalCatwalk" translation="Optional Catwalk"/>
-		<entry key="TrackEditParam_OptionalRailing" translation="Optional Railing"/>
-		<entry key="TrackEditParam_ReverseLaunchAcceleration" translation="Forwards Boost Acceleration"/>
-		<entry key="TrackEditParam_ReverseLaunchOverride" translation="Reverse Launch Direction"/>
-		<entry key="TrackEditParam_ReverseLaunchSpeed" translation="Forwards Boost Speed"/>
-		<entry key="TrackEditParam_ScaleRange" translation="Scale Range"/>
-		<entry key="TrackEditParam_SlopeRangeDegrees" translation="Slope Range Degrees"/>
-		<entry key="TrackEditParam_SplitCatchCarOffset" translation="Split Catch Car Offset"/>
-		<entry key="TrackEditParam_StationEntranceSide" translation="Station Entrance Side"/>
-		<entry key="TrackEditParam_StationEntrySpeed" translation="Entry Speed"/>
-		<entry key="TrackEditParam_StationExitSide" translation="Station Exit Side"/>
-		<entry key="TrackEditParam_StationExitSpeed" translation="Exit Speed"/>
-		<entry key="TrackEditParam_StationStopLocation" translation="Train Stop Location"/>
-		<entry key="TrackEditParam_TrackMeshIndex" translation="Track Type"/>
-		<entry key="TrackEditParam_TrackMeshIndex_Tunnel" translation="Tunnel Lights"/>
-		<entry key="TrackEditParam_TunnelRadius" translation="Tunnel Radius"/>
-		<entry key="TrackEditParam_WaitToReturnDelay" translation="Release Delay"/>
+		<entry key="TK_023_Tunnel01_0" translation="Spegni"/>
+		<entry key="TK_023_Tunnel01_1" translation="Avanti"/>
+		<entry key="TK_023_Tunnel01_2" translation="Inverso"/>
+		<entry key="TK_023_Tunnel01_3" translation="Spirale"/>
+		<entry key="TK_023_Tunnel01_4" translation="Spirale Inversa"/>
+		<entry key="TrackEditParam_BankPivotRange" translation="Bilanciamento Accumulo"/>
+		<entry key="TrackEditParam_BankingRangeDegrees" translation="Raggio Accumulo"/>
+		<entry key="TrackEditParam_BlockBrakeMinSpeed" translation="Velocità di Frenatura"/>
+		<entry key="TrackEditParam_BlockSectionMaxSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_BoosterAcceleration" translation="Velocità di Accelerazione"/>
+		<entry key="TrackEditParam_BoosterDirection" translation="Direzione Booster"/>
+		<entry key="TrackEditParam_BoosterMaxSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_BrakeDeceleration" translation="Velocità di Decelerazione"/>
+		<entry key="TrackEditParam_BrakeDirection" translation="Direzione Freni"/>
+		<entry key="TrackEditParam_BrakeMinSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_CabinAngle" translation="Angolo Rotazione Cabina"/>
+		<entry key="TrackEditParam_CabinAngleSet" translation="Rotazione Sedili"/>
+		<entry key="TrackEditParam_CatchOnReturnProportion" translation="Posizione di Aggancio Vagoni"/>
+		<entry key="TrackEditParam_ChainLiftDropLocation" translation="Posizione di Sgancio della Catena"/>
+		<entry key="TrackEditParam_ChainLiftSpeed" translation="Velocità della Catena"/>
+		<entry key="TrackEditParam_CurveRangeDegrees" translation="Raggio di Curvatura"/>
+		<entry key="TrackEditParam_DropSupports" translation="Supporti del Coaster"/>
+		<entry key="TrackEditParam_DualDirectionBoostSpeed" translation="Velocità di Arrivo della Spinta"/>
+		<entry key="TrackEditParam_DualDirectionBrakeLap" translation="Passaggi Rimanenti Prima della Frenata"/>
+		<entry key="TrackEditParam_DualDirectionBrakeSpeed" translation="Velocità di Frenatura"/>
+		<entry key="TrackEditParam_ForwardsLaunchAcceleration" translation="Accelerazione Lancio Inverso"/>
+		<entry key="TrackEditParam_ForwardsLaunchSpeed" translation="Velocità Lancio Inverso"/>
+		<entry key="TrackEditParam_FrictionWheelLiftSpeed" translation="Velocità Sollevamento Ruota"/>
+		<entry key="TrackEditParam_HoldingSectionMaxTime" translation="Ritardo Massimo di Attesa"/>
+		<entry key="TrackEditParam_HoldingSectionMinTime" translation="Ritardo Minimo di Attesa"/>
+		<entry key="TrackEditParam_HoldingSectionReleaseAcceleration" translation="Accelerazione di Rilascio"/>
+		<entry key="TrackEditParam_HoldingSectionReleaseSpeed" translation="Velocità di Rilascio"/>
+		<entry key="TrackEditParam_HoldingSectionStopLocation" translation="Distanza di Fermata"/>
+		<entry key="TrackEditParam_HydraulicLaunchAcceleration" translation="Accelerazione"/>
+		<entry key="TrackEditParam_HydraulicLaunchDelay" translation="Ritardo del Lancio"/>
+		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Velocità di Aggancio Vagoni"/>
+		<entry key="TrackEditParam_LengthRangeMetres" translation="Metri di Lunghezza"/>
+		<entry key="TrackEditParam_OptionalCatwalk" translation="Passerella Opzionale"/>
+		<entry key="TrackEditParam_OptionalRailing" translation="Ringhiere Opzionali"/>
+		<entry key="TrackEditParam_ReverseLaunchAcceleration" translation="Accelerazione in Avanti"/>
+		<entry key="TrackEditParam_ReverseLaunchOverride" translation="Direzione Lancio Inversa"/>
+		<entry key="TrackEditParam_ReverseLaunchSpeed" translation="Velocità in Avanti"/>
+		<entry key="TrackEditParam_ScaleRange" translation="Scala"/>
+		<entry key="TrackEditParam_SlopeRangeDegrees" translation="Raggio di Inclinazione"/>
+		<entry key="TrackEditParam_SplitCatchCarOffset" translation="Divisione Aggancio Vagoni"/>
+		<entry key="TrackEditParam_StationEntranceSide" translation="Lato Entrata Stazione"/>
+		<entry key="TrackEditParam_StationEntrySpeed" translation="Velocità di Ingresso"/>
+		<entry key="TrackEditParam_StationExitSide" translation="Lato Uscita Stazione"/>
+		<entry key="TrackEditParam_StationExitSpeed" translation="Velocità di Uscita"/>
+		<entry key="TrackEditParam_StationStopLocation" translation="Posizione Fermata Treno"/>
+		<entry key="TrackEditParam_TrackMeshIndex" translation="Tipo Tracciato"/>
+		<entry key="TrackEditParam_TrackMeshIndex_Tunnel" translation="Luci del Tunnel"/>
+		<entry key="TrackEditParam_TunnelRadius" translation="Raggio del Tunnel"/>
+		<entry key="TrackEditParam_WaitToReturnDelay" translation="Ritardo di Rilascio"/>
 		<entry key="TrackEdit_AngleSnap" translation="Angoli fissi"/>
-		<entry key="TrackEdit_AttachCamera" translation="Attach Camera"/>
-		<entry key="TrackEdit_AutoCompleteToolTip" translation="Auto Complete current design"/>
-		<entry key="TrackEdit_AutoTunnel" translation="Auto Tunnel"/>
-		<entry key="TrackEdit_Banking" translation="Banking"/>
+		<entry key="TrackEdit_AttachCamera" translation="Attacca Camera"/>
+		<entry key="TrackEdit_AutoCompleteToolTip" translation="Auto Completa design corrente"/>
+		<entry key="TrackEdit_AutoTunnel" translation="Tunnel Auto"/>
+		<entry key="TrackEdit_Banking" translation="Accumulo"/>
 		<entry key="TrackEdit_Banking_AngleIndicator" translation="{Value:float:decimalPlaces=2}º"/>
-		<entry key="TrackEdit_Build" translation="Build"/>
+		<entry key="TrackEdit_Build" translation="Costruisci"/>
 		<entry key="TrackEdit_Delete" translation="Elimina"/>
-		<entry key="TrackEdit_Elevation" translation="Elevation"/>
-		<entry key="TrackEdit_HeightMarkers" translation="Height Markers"/>
+		<entry key="TrackEdit_Elevation" translation="Elevazione"/>
+		<entry key="TrackEdit_HeightMarkers" translation="Segnali Altezza"/>
 		<entry key="TrackEdit_HeightMarkers_Off" translation="Off"/>
-		<entry key="TrackEdit_HeightMarkers_SeaLevel" translation="Sea Level"/>
-		<entry key="TrackEdit_HeightMarkers_TerrainRelative" translation="Terrain Relative"/>
-		<entry key="TrackEdit_KeepCurve" translation="Keep Curve"/>
-		<entry key="TrackEdit_Length" translation="Length"/>
-		<entry key="TrackEdit_NextSelectionToolTip" translation="Move selection to next piece"/>
-		<entry key="TrackEdit_PieceSelection" translation="Piece selection"/>
-		<entry key="TrackEdit_PreviousSelectionToolTip" translation="Move selection to previous piece"/>
+		<entry key="TrackEdit_HeightMarkers_SeaLevel" translation="Livello del Mare"/>
+		<entry key="TrackEdit_HeightMarkers_TerrainRelative" translation="Livello del Terreno"/>
+		<entry key="TrackEdit_KeepCurve" translation="Tieni Curva"/>
+		<entry key="TrackEdit_Length" translation="Lunghezza"/>
+		<entry key="TrackEdit_NextSelectionToolTip" translation="Sposta selezione al pezzo successivo"/>
+		<entry key="TrackEdit_PieceSelection" translation="Selezione Pezzo"/>
+		<entry key="TrackEdit_PreviousSelectionToolTip" translation="Sposta selezione al pezzo precedente"/>
 		<entry key="TrackEdit_Redo" translation="Redo"/>
-		<entry key="TrackEdit_RemoveTrains" translation="Remove Trains"/>
-		<entry key="TrackEdit_RollOffset" translation="Bank Pivot Height"/>
-		<entry key="TrackEdit_Scale" translation="Scale"/>
-		<entry key="TrackEdit_Smooth" translation="Smooth"/>
-		<entry key="TrackEdit_Title" translation="Track Options"/>
-		<entry key="TrackEdit_TrackRelativeHandles" translation="Track Relative Controls"/>
-		<entry key="TrackEdit_Turn" translation="Turn"/>
-		<entry key="TrackEdit_Undo" translation="Undo"/>
+		<entry key="TrackEdit_RemoveTrains" translation="Rimuovi Treni"/>
+		<entry key="TrackEdit_RollOffset" translation="Altezza cardine di accumulo"/>
+		<entry key="TrackEdit_Scale" translation="Scala"/>
+		<entry key="TrackEdit_Smooth" translation="Liscio"/>
+		<entry key="TrackEdit_Title" translation="Opzioni Tracciato"/>
+		<entry key="TrackEdit_TrackRelativeHandles" translation="Monitorare Controlli Tracciato"/>
+		<entry key="TrackEdit_Turn" translation="Gira"/>
+		<entry key="TrackEdit_Undo" translation="Annulla"/>
 		<!--TrackElements-->
 		<entry key="TrackElementDesc_BarghestChainLiftBot" translation="Chain Lift Start Description"/>
 		<entry key="TrackElementDesc_BarghestChainLiftMid" translation="Chain Lift Mid-Section Description"/>
 		<entry key="TrackElementDesc_BarghestChainLiftTop01" translation="Overhanging Chain Lift End Description"/>
 		<entry key="TrackElementDesc_BarghestChainLiftTop02" translation="Rounded Chain Lift End Description"/>
-		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Barrel Roll Left Description"/>
-		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Barrel Roll Right Description"/>
+		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Tonneau Left Description"/>
+		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Tonneau Right Description"/>
 		<entry key="TrackElementDesc_BlockSection" translation="Slows trains down to a stop, propelling them out when the next section of track is clear. Requires block sectioning to be enabled in the coaster's settings."/>
 		<entry key="TrackElementDesc_Booster" translation="Pushes trains along slowly. Useful for moving the train into another utility."/>
 		<entry key="TrackElementDesc_Brakes" translation="Slows trains down."/>
@@ -19458,14 +19458,14 @@
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterBottom" translation="Can only be placed directly after a Chain Lift Hill Base."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterMid" translation="Can only be placed directly after a Chain Lift Hill Base or Mid-Section."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStart" translation="Can only be placed directly after a Horizontal Chain Pull."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the station."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the Stazione."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseBottom" translation="Can only be placed directly behind a Reverse Cable Lift Hill Base."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseMid" translation="Can only be placed directly behind a Reverse Cable Lift Base or Mid-Section."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseStart" translation="Can only be placed directly behind a Reverse Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the station or existing Reverse Horizontal Cable Pull sections."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the Stazione or existing Reverse Horizontal Cable Pull sections."/>
 		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStart" translation="Can only be placed after a chain lift start."/>
 		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStartOrMidSection" translation="Can only be placed after a chain lift start or chain lift mid-section."/>
-		<entry key="TrackElementDisabled_CanOnlyPlaceNextToStationOfSameType" translation="Can only be placed directly next to existing station of the same type."/>
+		<entry key="TrackElementDisabled_CanOnlyPlaceNextToStationOfSameType" translation="Can only be placed directly next to existing Stazione of the same type."/>
 		<entry key="TrackElementDisabled_CannotPlace" translation="Cannot place here."/>
 		<entry key="TrackElementDisabled_CannotPlaceOnBanked" translation="Can only be placed on unbanked track."/>
 		<entry key="TrackElementDisabled_CannotPlaceOnBankedOrSloped" translation="Can only be placed on flat and unbanked track."/>
@@ -19477,17 +19477,17 @@
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterBottom" translation="Can only be placed directly after a Cable Lift Tower Base."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterMid" translation="Can only be placed directly after a Cable Lift Mid-Section."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStart" translation="Can only be placed directly after a Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the station that's also not banked or sloped."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the Stazione that's also not banked or sloped."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseBottom" translation="Can only be placed directly above a Reverse Cable Lift Tower Base."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseMid" translation="Can only be placed directly above a Reverse Cable Lift Mid-Section."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseStart" translation="Can only be placed directly behind a Reverse Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the station or existing Reverse Horizontal Cable Pull sections."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the Stazione or existing Reverse Horizontal Cable Pull sections."/>
 		<entry key="TrackElementName_BarghestChainLiftBot" translation="Chain Lift Start"/>
 		<entry key="TrackElementName_BarghestChainLiftMid" translation="Chain Lift Mid-Section"/>
 		<entry key="TrackElementName_BarghestChainLiftTop01" translation="Overhanging Chain Lift End"/>
 		<entry key="TrackElementName_BarghestChainLiftTop02" translation="Rounded Chain Lift End"/>
-		<entry key="TrackElementName_BarrelRollLeft" translation="OLD Barrel Roll Left"/>
-		<entry key="TrackElementName_BarrelRollRight" translation="OLD Barrel Roll Right"/>
+		<entry key="TrackElementName_BarrelRollLeft" translation="OLD Tonneau Left"/>
+		<entry key="TrackElementName_BarrelRollRight" translation="OLD Tonneau Right"/>
 		<entry key="TrackElementName_BlockSection" translation="Block Section"/>
 		<entry key="TrackElementName_Booster" translation="Drive Tyres"/>
 		<entry key="TrackElementName_Brakes" translation="Friction Brakes"/>
@@ -19544,15 +19544,15 @@
 		<entry key="TrackElementName_RiverRapidsWideStart" translation="Wide Section Start"/>
 		<entry key="TrackElementName_SpinningStart" translation="Unlock Car-Spin"/>
 		<entry key="TrackElementName_SpinningStop" translation="Lock and Centre Car-Spin"/>
-		<entry key="TrackElementName_Station" translation="Station"/>
-		<entry key="TrackElementName_StationLeftLeft" translation="Station"/>
-		<entry key="TrackElementName_StationLeftOff" translation="Station"/>
-		<entry key="TrackElementName_StationLeftOn" translation="Station"/>
-		<entry key="TrackElementName_StationLeftRight" translation="Station"/>
-		<entry key="TrackElementName_StationRightLeft" translation="Station"/>
-		<entry key="TrackElementName_StationRightOff" translation="Station"/>
-		<entry key="TrackElementName_StationRightOn" translation="Station"/>
-		<entry key="TrackElementName_StationRightRight" translation="Station"/>
+		<entry key="TrackElementName_Station" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftLeft" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftOff" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftOn" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftRight" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightLeft" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightOff" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightOn" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightRight" translation="Stazione"/>
 		<entry key="TrackElementName_SteepslopeZeroGRollLeft" translation="OLD Steep Slope Zero-G Roll Left"/>
 		<entry key="TrackElementName_SteepslopeZeroGRollRight" translation="OLD Steep Slope Zero-G Roll Right"/>
 		<entry key="TrackElementName_TK_SP_BananaRollLeft" translation="Banana Roll Left"/>
@@ -19693,8 +19693,8 @@
 		<entry key="TrackElementTool_BarghestChainLiftMid" translation="Chain Lift Mid-Section"/>
 		<entry key="TrackElementTool_BarghestChainLiftTop01" translation="Overhanging Chain Lift End"/>
 		<entry key="TrackElementTool_BarghestChainLiftTop02" translation="Rounded Chain Lift End"/>
-		<entry key="TrackElementTool_BarrelRollLeft" translation="OLD Barrel Roll Left"/>
-		<entry key="TrackElementTool_BarrelRollRight" translation="OLD Barrel Roll Right"/>
+		<entry key="TrackElementTool_BarrelRollLeft" translation="OLD Tonneau Left"/>
+		<entry key="TrackElementTool_BarrelRollRight" translation="OLD Tonneau Right"/>
 		<entry key="TrackElementTool_BlockSection" translation="&lt;font color='accent'&gt;Block Section&lt;/font&gt;\nSlows trains down to a stop, propelling them out when the next section of track is clear."/>
 		<entry key="TrackElementTool_Booster" translation="&lt;font color='accent'&gt;Drive Tyres&lt;/font&gt;\nPushes trains along slowly."/>
 		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Friction Brakes&lt;/font&gt;\nSlows trains down."/>
@@ -19901,7 +19901,7 @@
 		<entry key="Train_Anubis" translation="Anubi"/>
 		<entry key="Train_BFalcon" translation="Falco Nero"/>
 		<entry key="Train_BLisk" translation="Basilisco"/>
-		<entry key="Train_BackToTheFuture" translation="Back To The Future"/>
+		<entry key="Train_BackToTheFuture" translation="Ritorno al Futuro"/>
 		<entry key="Train_Barghest" translation="Barghest"/>
 		<entry key="Train_Boa" translation="Boa"/>
 		<entry key="Train_Bsura" translation="Bakasura"/>
@@ -19920,7 +19920,7 @@
 		<entry key="Train_IronHorse" translation="Iron Horse"/>
 		<entry key="Train_KnightRider" translation="Knight Rider"/>
 		<entry key="Train_LTurns" translation="Curve Matte"/>
-		<entry key="Train_LunaAutos" translation="Luna's Automobili"/>
+		<entry key="Train_LunaAutos" translation="Automobili Luna"/>
 		<entry key="Train_MUC" translation="Malice Unchained"/>
 		<entry key="Train_MgcKatz" translation="Magic Katz"/>
 		<entry key="Train_Mnstr" translation="Bestia"/>
@@ -19933,7 +19933,7 @@
 		<entry key="Train_SPR" translation="Spirale"/>
 		<entry key="Train_SRay" translation="Stingray"/>
 		<entry key="Train_SilvStar" translation="Light Line"/>
-		<entry key="Train_SleighRide" translation="Sleigh Ride"/>
+		<entry key="Train_SleighRide" translation="Corsa in Slitta"/>
 		<entry key="Train_Sp500" translation="Sprint 500"/>
 		<entry key="Train_SuperDrift" translation="Super Drift"/>
 		<entry key="Train_TK_010_CableHookCar" translation="Track 10 Cable Lift Hook Car"/>
