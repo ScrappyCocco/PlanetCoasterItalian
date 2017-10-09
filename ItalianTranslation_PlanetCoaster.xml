@@ -103,7 +103,7 @@
 		<entry key="AvatarCreator_CreateAdultGroup" translation="Crea Gruppo di Adulti"/>
 		<entry key="AvatarCreator_CreateFamilyGroup" translation="Crea Gruppo Famiglia"/>
 		<entry key="AvatarCreator_CreateGroup" translation="Crea un Gruppo!"/>
-		<entry key="AvatarCreator_CreateGroupDescription" translation="Aggiungi e Rimuovi Ospiti dal Gruppo. !PLACEHOLDER TEXT!"/>
+		<entry key="AvatarCreator_CreateGroupDescription" translation="Aggiungi e Rimuovi Visitatori dal Gruppo. !PLACEHOLDER TEXT!"/>
 		<entry key="AvatarCreator_CreateTeenCouple" translation="Crea Coppia di Ragazzi"/>
 		<entry key="AvatarCreator_CreateTeenGroup" translation="Crea Gruppo di Ragazzi"/>
 		<entry key="AvatarCreator_DoEditGroup" translation="Modifica il tuo Gruppo"/>
@@ -696,7 +696,7 @@
 		<entry key="Blueprints_WesternSmallEnt" translation="Piccola entrata Western"/>
 		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è nulla di male a iniziare il proprio parco con quest'entrata."/>
 		<entry key="Blueprints_WesternThemedShops" translation="Negozi a tema Western"/>
-		<entry key="Blueprints_WesternThemedShopsDesc" translation="Gli ospiti che attraversano il parco, potranno fermarsi qui per portarsi a casa Guests riding through town are bound to stop off here to make use of the facilities."/>
+		<entry key="Blueprints_WesternThemedShopsDesc" translation="I Visitatori che attraversano il parco, potranno fermarsi qui per portarsi a casa Guests riding through town are bound to stop off here to make use of the facilities."/>
 		<entry key="Blueprints_WesternToilets" translation="Blocco di bagni Western"/>
 		<entry key="Blueprints_WesternToiletsDesc" translation="I Cowboys hanno richiesto dei bagni per loro, per favore lavatevi le mani e niente cavalli..."/>
 		<entry key="Blueprints_WitchTreeHouse" translation="Casa sull'albero della Strega"/>
@@ -4977,7 +4977,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_GLLY" translation="Hanno detto che nessuno riuscirebbe a costruire un parco al Burrone Molly. Dimostra che si sbagliano! Attento ai limiti costruttivi di altezza, e finanzia la costruzione di un colossale coaster!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_GOLM" translation="La furia dell'enorme golem è stata finalmente placata, congelata dall'eterna lotta contro i F.I.D.O.. I nostri esperti confermano che la creatura sia inattiva, ma i membri dello staff non sembrano convinti; pretendono un aumento per la loro permanenza! Utilizza la monotoraia per sfruttare al massimo lo spazio a disposizione e crea un parco a tema sci-fi davvero unico."/>
 		<entry key="FrontEndMenu_ScenarioDetails_KRKN" translation="Secondo alcune voci gli ingegneri del parco avrebbero avuto incontri... spiacevoli, causando la fuga a gambe levate dello staff, e questo ha portato alla sua recente vendita. Il prezzo è un vero affare, per cui assumi del personale, porta a termine la costruzione del parco e ignora eventuali segnalazioni di sinistri rumori provenienti dal sottosuolo. Sono sicuro che non ci sia nulla di cui preoccuparsi..."/>
-		<entry key="FrontEndMenu_ScenarioDetails_MNLH" translation="Uno strano oggetto trovato nel deserto sembra esercitare una strana influenza sulle attrazioni del parco – tutto continua a guastarsi e stiamo terminando le finanze. Assumi alcuni meccanici, organizza i loro turni di lavoro per riparare le attrazioni e mantenerle operative, sconfiggi il potere del Monolito e fai in modo che il parco torni a guadagnare."/>
+		<entry key="FrontEndMenu_ScenarioDetails_MNLH" translation="Uno strano oggetto trovato nel deserto sembra esercitare una strana influenza sulle attrazioni del parco – tutto continua a guastarsi e stiamo terminando le finanze. Assumi alcuni manutentori, organizza i loro turni di lavoro per riparare le attrazioni e mantenerle operative, sconfiggi il potere del Monolito e fai in modo che il parco torni a guadagnare."/>
 		<entry key="FrontEndMenu_ScenarioDetails_NENC" translation="Il governo ha recentemente venduto un piccolo tratto di terra ad acquirenti privati, i quali hanno colto al volo la possibilità di investire su un nuovo parco a tema. Poco tempo dopo la grande apertura, la gestione di questo parco a tema sci-fi è misteriosamente scomparsa, insieme a tutti i risultati delle loro ricerche. Porta il parco al successo finanziario, guadagna abbastanza da poterti permettere la ricerca di nuove attrazioni e trasforma questo luogo di stranezze in un clamoroso trionfo."/>
 		<entry key="FrontEndMenu_ScenarioDetails_ODML" translation="Gli affiliati di questo futuristico centro dello shopping hanno messo in dubbio il loro impegno a lungo termine dopo i deludenti risultati finanziari. Ottieni e mantieni la loro fiducia ottenendo il maggior profitto possibile dai tuoi negozi e dalle tue strutture. L'organizzazione degli ambienti e la giusta tariffazione saranno le chiavi della svolta, i magnati più astuti sfrutteranno al meglio le insegne pre-costruite per le facciate dei negozi."/>
 		<entry key="FrontEndMenu_ScenarioDetails_PBTL" translation="Attraccate, ciurma! Ben arrrr...rivato a Planet Coaster! Dai fuoco alle polveri e prendi il controllo di questo esplosivo parco piratesco. Costruisci attrazioni, attira le folle e fai vivere ai visitatori indimenticabili momenti di cappa e spada!"/>
@@ -12028,7 +12028,7 @@
 		<entry key="Guests_Status_AtSecurityGuard" translation="Arrestato dalla Sicurezza"/>
 		<entry key="Guests_Status_Bench" translation="Cercando una panchina"/>
 		<entry key="Guests_Status_Bin" translation="Cercando un cestino"/>
-		<entry key="Guests_Status_CrowdMember" translation="Pedinando ospiti da borseggiare"/>
+		<entry key="Guests_Status_CrowdMember" translation="Pedinando visitatori da borseggiare"/>
 		<entry key="Guests_Status_EnterPark" translation="Arrivando al parco"/>
 		<entry key="Guests_Status_Fireworks" translation="Guardando i fuochi d'artificio"/>
 		<entry key="Guests_Status_GuestDestination_AtBench" translation="Rilassando"/>
@@ -12161,7 +12161,7 @@
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_11" translation="Modalità di posizionamento Snap Point"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Description" translation="Posiziona gli oggetti con il cursore prima di inserirli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Controlli Posizionamento"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_PathExtra_Description" translation="Gli Extra Sentieri possono rendere il tuo parco un posto più bello per i visitatori. Usa il cursore per posizionare gli Extra sopra o lungo gli angoli dei tuoi sentieri, così che i visitatori possano usarli."/>
+		<entry key="HUD_HelpPopup_SceneryPlacement_PathExtra_Description" translation="Gli Extra per Sentieri possono rendere il tuo parco un posto più bello per i visitatori. Usa il cursore per posizionare gli Extra sopra o lungo gli angoli dei tuoi sentieri, così che i visitatori possano usarli."/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Seleziona Elemento"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Selezione Multipla"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Cancella Selezione"/>
@@ -12220,7 +12220,7 @@
 		<entry key="HUD_NotificationsAll" translation="Tutte"/>
 		<entry key="HUD_NotificationsAutoMarkRead" translation="Segna automaticamente come lette"/>
 		<entry key="HUD_NotificationsGameplay" translation="Gameplay"/>
-		<entry key="HUD_NotificationsGuests" translation="Ospiti"/>
+		<entry key="HUD_NotificationsGuests" translation="Visitatori"/>
 		<entry key="HUD_NotificationsImportant" translation="Importanti"/>
 		<entry key="HUD_NotificationsListAndPopUp" translation="Notifica e pop up"/>
 		<entry key="HUD_NotificationsListOnly" translation="Solo Notifica"/>
@@ -12327,7 +12327,7 @@
 		<entry key="PopUp_FastPass_SplitName" translation="Dividi Passaggio Prioritario"/>
 		<entry key="PopUp_Finances" translation="Economia"/>
 		<entry key="PopUp_FocusCam" translation="Centra Telecamera"/>
-		<entry key="PopUp_Guests" translation="Ospiti"/>
+		<entry key="PopUp_Guests" translation="Visitatori"/>
 		<entry key="PopUp_Maintenance" translation="Manutenzione"/>
 		<entry key="PopUp_MultiSelect_BlueprintTooManyFlatRides" translation="I progetti non possono contenere più di 5 attrazioni d'intrattenimento."/>
 		<entry key="PopUp_MultiSelect_BlueprintTooManyProps" translation="I progetti non possono contenere di 4000 pezzi tra costruzioni e scenario."/>
@@ -12336,15 +12336,15 @@
 		<entry key="PopUp_MultiSelect_BuildingMerge" translation="Aggiungi scenario indipendente all'edificio selezionato."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge_TooBig" translation="Non è possibile aggiungere uno scenario per creare un edificio con più di 5000 pezzi tra costruzioni e scenario."/>
 		<entry key="PopUp_MultiSelect_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Montagne Russe a Catena"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInSelection" translation="Montagne Russe in Selezione"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Montagne Russe nella Catena"/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInSelection" translation="Montagne Russe nella Selezione"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersLinkedToChain" translation="Montagne Russe a Catena"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersLinkedToChain_Label" translation="E' possibile collegare insieme fino a 5 Montagne Russe."/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_Confirm_Label" translation="Non è possibile avere più di {MAX:separatedFloat:decimalPlaces=0} Montagne Russe in una catena."/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_Description" translation="Usa lo strumentio Selezione Multipla per aggiungere Montagne Russe alla tua Catena."/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_Header" translation="Crea una Catena di Montagne Russe"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected" translation="Montagne Russe selezionate"/>
-		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected_Label" translation="Trascina o clicca per selezionare le Montagne russe da concatenare insieme."/>
+		<entry key="PopUp_MultiSelect_DuellingCoasters_NumSelected_Label" translation="Trascina o clicca per selezionare le Montagne Russe da concatenare insieme."/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_Title" translation="Catena di Montagne Russe"/>
 		<entry key="PopUp_MultiSelect_EditTooManyFlatRides" translation="Non è possibile spostare/cancellare più di 5 attrazioni d'intrattenimento alla volta."/>
 		<entry key="PopUp_MultiSelect_EditTooManyProps" translation="Non è possibile spostare/cancellare più di 5000 pezzi tra costruzioni e scenario alla volta."/>
@@ -12446,8 +12446,8 @@
 		<entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
 		<entry key="PopUp_RideTesting_Results" translation="Risultati"/>
 		<entry key="PopUp_RideTesting_Speed" translation="Velocità"/>
-		<entry key="PopUp_RideTesting_StartTest" translation="Inizia test"/>
-		<entry key="PopUp_RideTesting_StopTest" translation="Stop test"/>
+		<entry key="PopUp_RideTesting_StartTest" translation="Inizia Test"/>
+		<entry key="PopUp_RideTesting_StopTest" translation="Ferma Test"/>
 		<entry key="PopUp_RideTesting_TotalAirTime" translation="Durata Totale Tempo in Volo"/>
 		<entry key="PopUp_RideTesting_UnknownStatValue" translation="-"/>
 		<entry key="PopUp_RideTesting_VerticalG" translation="Accelerazione Verticale"/>
@@ -12459,7 +12459,7 @@
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
 		<entry key="PopUp_Ride_CarsPerTrainHint" translation="Non è possibile modificare treni o vetture mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_CarsPerTrainLimit" translation="Aumenta la lunghezza di tutte le stazioni per permettere l'aggiunta di più vetture."/>
-		<entry key="PopUp_Ride_CoasterFriction" translation="ATTRITO COASTER"/>
+		<entry key="PopUp_Ride_CoasterFriction" translation="ATTRITO MONTAGNA RUSSA"/>
 		<entry key="PopUp_Ride_CoasterFriction_Hint" translation="Applica un moltiplicatore all'attrito predefinito di questa montagna russa."/>
 		<entry key="PopUp_Ride_CoasterFriction_Label" translation="Moltiplicatore Attrito"/>
 		<entry key="PopUp_Ride_Count" translation="{COUNT:separatedint}"/>
@@ -12476,21 +12476,21 @@
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_NoStatus" translation="Nessun Stato Catena"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open" translation="Stato Catena: Aperto"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open_ToolTip" translation=""/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetClosed_ToolTip" translation="Imposta tutte le Montagne russe nella catena su stato Chiuso."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Imposta tutte le Montagne russe nella catena su stato Aperto, se possono essere aperte."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetTesting_ToolTip" translation="Imposta tutte le Montagne russe nella catena su stato di Test, se possono essere provate."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetClosed_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato Chiuso."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato Aperto, se possono essere aperte."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetTesting_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato di Test, se possono essere provate."/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Testing" translation="Stato Catena: Test"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_ToolTip" translation="Impostare lo Stato della Catena metterà tutte le Montagne Russe della catena nello stesso stato, se possibile."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Chain_Title" translation="CATENA DI COASTERS"/>
+		<entry key="PopUp_Ride_DuellingCoasters_Chain_Title" translation="CATENA DI MONTAGNE RUSSE"/>
 		<entry key="PopUp_Ride_DuellingCoasters_Coaster_Locate_ToolTip" translation="Localizza questa Montagna Russa nel mondo di gioco."/>
 		<entry key="PopUp_Ride_DuellingCoasters_Coaster_Remove_ToolTip" translation="Cancella questa Montagna Russa dalla catena."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Description" translation="Crea una Catena di Coasters per fare in modo che le Montagne Russe partano nello stesso momento, fatto salvo che vengano rispettate le Regole di Carico."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Link" translation="Crea una Catena di Coaster"/>
-		<entry key="PopUp_Ride_DuellingCoasters_Remove_ToolTip" translation="Cancella del tutto questa Catena di Coasters."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Description" translation="Crea una Catena di Montagne Russe per fare in modo che partano nello stesso momento, salvo vengano rispettate le Regole di Carico."/>
+		<entry key="PopUp_Ride_DuellingCoasters_Link" translation="Crea una Catena di Montagne Russe"/>
+		<entry key="PopUp_Ride_DuellingCoasters_Remove_ToolTip" translation="Cancella del tutto questa Catena di Montagne Russe."/>
 		<entry key="PopUp_Ride_DuellingCoasters_RideClosed" translation="Montagne Russe chiuse o guaste verranno ignorate."/>
 		<entry key="PopUp_Ride_DuellingCoasters_RideOpen" translation="Le Montagne Russe Aperte partono tutte nello stesso momento."/>
 		<entry key="PopUp_Ride_DuellingCoasters_RideTesting" translation="Le Montagne Russe in fase di Test partono tutte nello stesso momento."/>
-		<entry key="PopUp_Ride_DuellingCoasters_Title" translation="Catena di Coasters"/>
+		<entry key="PopUp_Ride_DuellingCoasters_Title" translation="Catena di Montagne Russe"/>
 		<entry key="PopUp_Ride_EnableFastPass" translation="Attiva fila prioritaria"/>
 		<entry key="PopUp_Ride_EnableFastPassHint" translation="Costruisci una sezione speciale della coda esclusiva per i possessori di Pass Prioritari"/>
 		<entry key="PopUp_Ride_EnableFastPassLabel" translation="Hai bisogno di uno Stand Informazioni per vendere i Pass Prioritari"/>
@@ -12510,7 +12510,7 @@
 		<entry key="PopUp_Ride_IdealPrice" translation="Costo Biglietto Ideale: {VALUE:currency}"/>
 		<entry key="PopUp_Ride_LapsHint" translation="Non è possibile modificare il numero dei giri mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_LastMonthsProfit" translation="Profitto ultimo mese"/>
-		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Non ostruire la stazione"/>
+		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Non bloccare la stazione"/>
 		<entry key="PopUp_Ride_LeaveIfWaitingHint" translation="L'intervallo tra le partenze prevale sulle altre regole di carico"/>
 		<entry key="PopUp_Ride_LifetimeArrivals" translation="Discese totali"/>
 		<entry key="PopUp_Ride_LifetimeDepartures" translation="Salite totali"/>
@@ -12628,7 +12628,7 @@
 		<entry key="PopUp_Triggers_FavouritesTab" translation="Preferiti"/>
 		<entry key="PopUp_Triggers_Ok" translation="OK"/>
 		<entry key="PopUp_Triggers_PlanetCoasterTab" translation="Inneschi Planet Coaster"/>
-		<entry key="PopUp_Triggers_UserTriggersTab" translation="Inneschi utente"/>
+		<entry key="PopUp_Triggers_UserTriggersTab" translation="Inneschi Utente"/>
 		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Non è possibile aprire un'attrazione incompleta"/>
 		<entry key="PopUp_UnknownOperation" translation="Operazione sconosciuta"/>
 		<!--InfoPanel-->
@@ -12688,7 +12688,7 @@
 		<entry key="PopUp_DisplayCamera" translation="Selettore Videocamera"/>
 		<entry key="PopUp_DisplayCamera_AddCamera" translation="+ Aggiungi Videocamera"/>
 		<entry key="PopUp_DisplayCamera_AddCamera_Tooltip" translation="Non è possibile aggiungere più di {COUNT:separatedFloat:decimalPlaces=0} Videocamere."/>
-		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Videocamere Connesse"/>
+		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Videocamere Collegate"/>
 		<entry key="PopUp_DisplayCamera_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_DisplayCamera_DefaultName" translation="Videocamera {Value:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_DisplayCamera_Description" translation="Usa la visuale libera per inquadrare lo scatto perfetto. Clicca Aggiungi Videocamera per collegare la vista corrente alla nuova Videocamera."/>
@@ -12776,8 +12776,8 @@
 		<entry key="InfoPanel_FlatRide_MoveEntrance" translation="Sposta Entrata"/>
 		<entry key="InfoPanel_FlatRide_MoveExit" translation="Sposta Uscita"/>
 		<entry key="InfoPanel_FlatRide_Name" translation="Visitatori"/>
-		<entry key="InfoPanel_FlatRide_Start" translation="Start"/>
-		<entry key="InfoPanel_FlatRide_Stop" translation="Stop"/>
+		<entry key="InfoPanel_FlatRide_Start" translation="Avvia"/>
+		<entry key="InfoPanel_FlatRide_Stop" translation="Ferma"/>
 		<!--InfoPanel_Guest-->
 		<entry key="InfoPanel_GlobalThoughts_Entry" translation="{percentage:separatedInt}%: {thought}"/>
 		<entry key="InfoPanel_GlobalThoughts_Name" translation="Pensieri parco"/>
@@ -12799,7 +12799,7 @@
 		<entry key="InfoPanel_Guest_EjectGroup_AlreadyEjected_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•A questo gruppo è stato già chiesto di andare via"/>
 		<entry key="InfoPanel_Guest_EjectGroup_AlreadyWaitingForEjection_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Una guardia di sicurezza è già in movimento"/>
 		<entry key="InfoPanel_Guest_EjectGroup_NoCapableSecurity_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Hai bisogno di una guardia di sicurezza che sia in grado di cacciare gruppi per fare questo."/>
-		<entry key="InfoPanel_Guest_EjectGroup_NoSecurity_ToolTip" translation="IOrdina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Hai bisogno di assumere una guardia di sicurezza per fare questo."/>
+		<entry key="InfoPanel_Guest_EjectGroup_NoSecurity_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Hai bisogno di assumere una guardia di sicurezza per fare questo."/>
 		<entry key="InfoPanel_Guest_EjectGroup_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo"/>
 		<entry key="InfoPanel_Guest_Energy" translation="Energia"/>
 		<entry key="InfoPanel_Guest_Expenses_Drink" translation="Bibita"/>
@@ -12812,11 +12812,11 @@
 		<entry key="InfoPanel_Guest_FinancesDetails" translation="Dettagli"/>
 		<entry key="InfoPanel_Guest_FinancesSummary" translation="Riepilogo"/>
 		<entry key="InfoPanel_Guest_FocusCam" translation="Centra camera"/>
-		<entry key="InfoPanel_Guest_GroupCashHeader" translation="Soldi rimanenti al gruppo"/>
-		<entry key="InfoPanel_Guest_GroupInfo" translation="Informazioni gruppo"/>
-		<entry key="InfoPanel_Guest_GroupMembers" translation="Membri gruppo"/>
+		<entry key="InfoPanel_Guest_GroupCashHeader" translation="Soldi rimanenti al Gruppo"/>
+		<entry key="InfoPanel_Guest_GroupInfo" translation="Informazioni Gruppo"/>
+		<entry key="InfoPanel_Guest_GroupMembers" translation="Membri Gruppo"/>
 		<entry key="InfoPanel_Guest_GroupOperations" translation="Gestione Gruppo"/>
-		<entry key="InfoPanel_Guest_GroupType" translation="Tipo gruppo"/>
+		<entry key="InfoPanel_Guest_GroupType" translation="Tipo Gruppo"/>
 		<entry key="InfoPanel_Guest_GuestName" translation="{name}"/>
 		<entry key="InfoPanel_Guest_Happiness" translation="Felicità"/>
 		<entry key="InfoPanel_Guest_Hunger" translation="Fame"/>
@@ -12826,7 +12826,7 @@
 		<entry key="InfoPanel_Guest_IntensityTolerance_Value" translation="{min:float:decimalPlaces=1}-{max:float:decimalPlaces=1}"/>
 		<entry key="InfoPanel_Guest_Inventory" translation="Oggetti trasportati"/>
 		<entry key="InfoPanel_Guest_Item_Empty" translation="Vuoto"/>
-		<entry key="InfoPanel_Guest_MoveGroup" translation="Muovi gruppo [{#LogicalButton.GuestInfoPopUp_Move#}]"/>
+		<entry key="InfoPanel_Guest_MoveGroup" translation="Muovi Gruppo [{#LogicalButton.GuestInfoPopUp_Move#}]"/>
 		<entry key="InfoPanel_Guest_Nausea" translation="Nausea"/>
 		<entry key="InfoPanel_Guest_NauseaTolerance" translation="Tolleranza alla nausea"/>
 		<entry key="InfoPanel_Guest_NauseaTolerance_Value" translation="{min:float:decimalPlaces=1}-{max:float:decimalPlaces=1}"/>
@@ -12906,8 +12906,8 @@
 		<entry key="InfoPanel_ModularScenery_TitleGroup" translation="{NAME}"/>
 		<entry key="InfoPanel_ModularScenery_Tooltip_Edit" translation="Modifica Struttura [{#LogicalButton.Editors_StartEditing#}]"/>
 		<!--InfoPanel_Ride-->
-		<entry key="InfoPanel_Date_PrestigeStateTooltip" translation="Reputazione Attrazione&#10;Riflette l'età e la popolarità di una Attrazione&#10;Diminuisce quando l'attrazione invecchia e ha effetto sulla reputazione dell'attrazione&#10;&#10;(Attrazione aperta il {dateOpened})"/>
-		<entry key="InfoPanel_Date_PrestigeStateTooltipUnopen" translation="Reputazione Giostr&#10;Riflette l'età e la popolarità di un attrazione&#10;Diminuisce quando l'attrazione invecchia e ha effetto sulla reputazione dell'attrazione&#10;&#10;(Attrazione non aperta)"/>
+		<entry key="InfoPanel_Date_PrestigeStateTooltip" translation="Reputazione&#10;Riflette l'età e la popolarità di una Attrazione e può influire sul suo Prestigio.&#10;&#10;Reputazione Corrente&#10;{Reputation}"/>
+		<entry key="InfoPanel_Date_PrestigeStateTooltipUnopen" translation="Reputazione&#10;Riflette l'età e la popolarità di una Attrazione e contribuisce sul suo Prestigio.&#10;&#10;(Attrazione non aperta)"/>
 		<entry key="InfoPanel_Date_Workload" translation="Carico di lavoro&#10;Indica la quantità di lavoro che i dipendenti hanno svolto nei mesi recenti&#10;Un carico di lavoro alto o basso può avere effetti sulla felicità di un dipendente&#10;L'addestramento permette ai dipendenti di affrontare più lavoro"/>
 		<entry key="InfoPanel_Ride_Close" translation="Chiudi"/>
 		<entry key="InfoPanel_Ride_CloseBeforeMove" translation="Devi chiudere l'attrazione prima di spostarla"/>
@@ -12917,14 +12917,14 @@
 		<entry key="InfoPanel_Ride_Downtime_Header" translation="Recente malfunzionamento"/>
 		<entry key="InfoPanel_Ride_Downtime_HeaderTooltip" translation="Tempo di inattività durante gli ultimi 8 mesi"/>
 		<entry key="InfoPanel_Ride_FearTooHigh" translation="La tua attrazione è troppo spaventosa!"/>
-		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="Gli ospiti non vorranno salirci su."/>
+		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="I Visitatori non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_Finances" translation="Statistiche Finanziarie"/>
 		<entry key="InfoPanel_Ride_FocusCam" translation="Centra Camera"/>
-		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Coasters "/>
+		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Montagne Russe "/>
 		<entry key="InfoPanel_Ride_InspectionDelay" translation="Orario di ispezione"/>
 		<entry key="InfoPanel_Ride_InspectionDelayEntry" translation="Ogni {minutes:int} minuti"/>
 		<entry key="InfoPanel_Ride_InspectionDelayNone" translation="Mai"/>
-		<entry key="InfoPanel_Ride_InspectionDelayTooltip" translation="Quanto frequentemente i tuoi meccanici ispezioneranno l'attrazione"/>
+		<entry key="InfoPanel_Ride_InspectionDelayTooltip" translation="Quanto frequentemente i tuoi manutentori ispezioneranno l'attrazione"/>
 		<entry key="InfoPanel_Ride_InspectionRequested" translation="Ispezione richiesta"/>
 		<entry key="InfoPanel_Ride_LastBreakdown_Never" translation="Mai"/>
 		<entry key="InfoPanel_Ride_LastBreakdown_Tooltip" translation="Ultima rottura"/>
@@ -12935,7 +12935,7 @@
 		<entry key="InfoPanel_Ride_Manage" translation="Gestione attrazione"/>
 		<entry key="InfoPanel_Ride_Name" translation="Attrazione"/>
 		<entry key="InfoPanel_Ride_NauseaTooHigh" translation="La tua attrazione provoca troppa nausea!"/>
-		<entry key="InfoPanel_Ride_NauseaTooHigh_Detail" translation="Gli ospiti non vorranno salirci su."/>
+		<entry key="InfoPanel_Ride_NauseaTooHigh_Detail" translation="I Visitatori non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_NextInspection" translation="{minutes:int} minuti"/>
 		<entry key="InfoPanel_Ride_NextInspection_1" translation="1 minuto"/>
 		<entry key="InfoPanel_Ride_NextInspection_Never" translation="Mai"/>
@@ -12953,7 +12953,7 @@
 		<entry key="InfoPanel_Ride_PrestigeState_Established" translation="Affermata"/>
 		<entry key="InfoPanel_Ride_PrestigeState_Established_Detail" translation="Affermata&#10;Questa attrazione diventa Affermata tra {StartTime}. Quando svanisce l'hype da Nuova Attrazione, le attrazioni Affermate iniziano a perdere l'aumento di Prestigio iniziale."/>
 		<entry key="InfoPanel_Ride_PrestigeState_Established_Detail_Unknown" translation="Affermata&#10;Quando svanisce l'hype da Nuova Attrazione, le attrazioni Affermate iniziano a perdere l'aumento di Prestigio iniziale."/>
-		<entry key="InfoPanel_Ride_PrestigeState_NA" translation="N/A"/>
+		<entry key="InfoPanel_Ride_PrestigeState_NA" translation="Non Disp."/>
 		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting" translation="Aspettando i risultati"/>
 		<entry key="InfoPanel_Ride_PrestigeState_NA_RideNeedsTesting_Tooltip" translation="Il giro deve essere completato almeno una volta prima che la reputazione possa essere calcolata."/>
 		<entry key="InfoPanel_Ride_PrestigeState_New" translation="Nuova"/>
@@ -12968,9 +12968,9 @@
 		<entry key="InfoPanel_Ride_PrestigeState_Unopened" translation="Chiusa"/>
 		<entry key="InfoPanel_Ride_PrestigeState_WithPercentage" translation="{StateName} {Percentage}"/>
 		<entry key="InfoPanel_Ride_PrestigeTimelineScale" translation="Anni"/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTip" translation="Prestigio attrazione&#10;Questo è l'interessamento che hanno i visitatori per l'attrazione&#10;Può aumentare migliorando l'esperienza della giostra o aggiungendo elementi scenografici&#10;Può diminuire se diminuisce la reputazione dell'attrazione&#10;(Aggiornata ogni ad corsa)"/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTipAlt" translation="Prestigio attrazione&#10;Questo è l'interessamento che hanno i visitatori per l'attrazione&#10;Può aumentare migliorando l'esperienza della giostra o aggiungendo elementi scenografici&#10;Può diminuire se diminuisce la reputazione dell'attrazione&#10;(Aggiornata ogni ad corsa)"/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTip_UnknownReputation" translation="Prestige&#10;&#10;This is the appeal and value of a ride to guests.&#10;The Prestige of a ride is the sum of its:&#10;- Ride Experience&#10;- Queue Scenery Rating ( {QueueRating} )&#10;- Reputation&#10;&#10;Guests are willing to pay more for rides with a higher Prestige."/>
+		<entry key="InfoPanel_Ride_Prestige_ToolTip" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione ( {Reputation} )&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
+		<entry key="InfoPanel_Ride_Prestige_ToolTipAlt" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
+		<entry key="InfoPanel_Ride_Prestige_ToolTip_UnknownReputation" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
 		<entry key="InfoPanel_Ride_Prestige_ValueUnknown" translation="-"/>
 		<entry key="InfoPanel_Ride_RebrandAcceptToolTip" translation="Accetta"/>
 		<entry key="InfoPanel_Ride_RebrandButton" translation="Rinnovamento ({cost:currency})"/>
@@ -12989,21 +12989,21 @@
 		<entry key="InfoPanel_Ride_RequestInspection" translation="Richiesta ispezione"/>
 		<entry key="InfoPanel_Ride_RequestInspectionTooltip" translation="Richiedi un ispezione in anticipo"/>
 		<entry key="InfoPanel_Ride_RequestInspection_AlreadyRequested" translation="Ispezione già richiesta."/>
-		<entry key="InfoPanel_Ride_RequestInspection_NoAssignedMechanic" translation="Nessun meccanico è assegnato all'ispezione di questa attrazione."/>
+		<entry key="InfoPanel_Ride_RequestInspection_NoAssignedMechanic" translation="Nessun Manutentore è assegnato all'ispezione di questa attrazione."/>
 		<entry key="InfoPanel_Ride_RequestInspection_NoInspectionPoint" translation="Attrazione incompleta."/>
-		<entry key="InfoPanel_Ride_RequestInspection_NoMechanic" translation="Un meccanico è richiesto per ispezionare l'attrazione."/>
-		<entry key="InfoPanel_Ride_RequestInspection_NoMechanicAccess" translation="Il meccanico assegnato all'ispezione di questa attrazione non può raggiungere l'uscita."/>
+		<entry key="InfoPanel_Ride_RequestInspection_NoMechanic" translation="Un Manutentore è richiesto per ispezionare l'attrazione."/>
+		<entry key="InfoPanel_Ride_RequestInspection_NoMechanicAccess" translation="Il Manutentore assegnato all'ispezione di questa attrazione non può raggiungere l'uscita."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment" translation="Richiesta una ristrutturazione ({cost:currency})"/>
 		<entry key="InfoPanel_Ride_RequestRefurbishmentTooltip" translation="La ristrutturazione risolve i problemi causati dall'età e dall'usura."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_AlreadyRequested" translation="Ristrutturazione già richiesta."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_CannotAfford" translation="Fondi insufficienti."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_Futile" translation="L'attrazione non ha bisogno di ristrutturazione."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_NoAssignedMechanic" translation="Nessun meccanico è assegnato alla ristrutturazione di questa attrazione."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_NoAssignedMechanic" translation="Nessun Manutentore è assegnato alla ristrutturazione di questa attrazione."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_NoInspectionPoint" translation="Attrazione incompleta."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanic" translation="Un meccanico è richiesto per ristrutturare l'attrazione."/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanicAccess" translation="Il meccanico assegnato alla ristrutturazione di questa attrazione non può raggiungere l'uscita."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanic" translation="Un Manutentore è richiesto per ristrutturare l'attrazione."/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanicAccess" translation="Il Manutentore assegnato alla ristrutturazione di questa attrazione non può raggiungere l'uscita."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_NoNeed" translation="Ristrutturazione non richiesta"/>
-		<entry key="InfoPanel_Ride_RequestRefurbishment_Untested" translation="Ristruttura (testa prima)"/>
+		<entry key="InfoPanel_Ride_RequestRefurbishment_Untested" translation="Ristruttura (fai un Test prima)"/>
 		<entry key="InfoPanel_Ride_Statistics" translation="Statistiche attrazione"/>
 		<entry key="InfoPanel_Ride_Thoughts" translation="Pensieri dei Visitatori"/>
 		<entry key="InfoPanel_Ride_TicketPrice" translation="Prezzo Biglietto"/>
@@ -13029,7 +13029,7 @@
 		<entry key="InfoPanel_Scenery_PlayerDefinedName" translation="{SCENERYNAME}"/>
 		<entry key="InfoPanel_Scenery_RepairVandalisedObject" translation="Rimpiazza ({cost:currency})"/>
 		<entry key="InfoPanel_Scenery_RepairVandalisedObject_NotNeeded" translation="Rimpiazza"/>
-		<entry key="InfoPanel_Scenery_RepairVandalisedObject_ToolTip" translation="rimpiazza oggetto vandalizzato per ({cost:currency})"/>
+		<entry key="InfoPanel_Scenery_RepairVandalisedObject_ToolTip" translation="Rimpiazza oggetto vandalizzato per ({cost:currency})"/>
 		<entry key="InfoPanel_Scenery_RepairVandalisedObject_ToolTip_NoMoney" translation="Fondi insufficienti"/>
 		<entry key="InfoPanel_Scenery_RepairVandalisedObject_ToolTip_NotNeeded" translation="L'elemento non ha bisogno di essere rimpiazzato"/>
 		<entry key="InfoPanel_Scenery_RunningCostLabel" translation="Costo Mensile"/>
@@ -13071,7 +13071,7 @@
 		<entry key="InfoPanel_Staff_TrainingLevel_2" translation="Capace"/>
 		<entry key="InfoPanel_Staff_TrainingLevel_3" translation="Qualificato"/>
 		<entry key="InfoPanel_Staff_TrainingLevel_4" translation="Esperto"/>
-		<entry key="InfoPanel_Staff_TrainingLevel_5" translation="Master"/>
+		<entry key="InfoPanel_Staff_TrainingLevel_5" translation="Maestro"/>
 		<entry key="InfoPanel_Staff_TrainingMaxed" translation="ADDESTRAMENTO MASSIMO"/>
 		<entry key="InfoPanel_Staff_TrainingToLevel_2" translation="Addestra {cost:currency}"/>
 		<entry key="InfoPanel_Staff_TrainingToLevel_3" translation="Addestra {cost:currency}"/>
@@ -13085,7 +13085,7 @@
 		<entry key="InfoPanel_Staff_WorkTask_EjectGuestGroup" translation="Caccia via Gruppi di Visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestEntertained" translation="Intrattiene i visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestServed" translation="Serve i visitatori"/>
-		<entry key="InfoPanel_Staff_WorkTask_LitterCleared" translation="Sporcizia"/>
+		<entry key="InfoPanel_Staff_WorkTask_LitterCleared" translation="Rifiuti"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideInspected" translation="Ispezioni"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideRefurbished" translation="Ristrutturazioni"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideRepaired" translation="Guasti"/>
@@ -13096,10 +13096,10 @@
 		<entry key="InfoPanel_Staff_WorkType_Stat_ChasedPickpocket" translation="Borseggiatori acciuffati/ricercati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_ChasedVandal" translation="Vandali cacciati via il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_EjectGuestGroup" translation="Gruppi di Visitatori cacciati via il mese scorso"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_GuestEntertained" translation="Ospiti Intrattenuti"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_GuestServed" translation="Ospiti Serviti"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_GuestEntertained" translation="Visitatori Intrattenuti"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_GuestServed" translation="Visitatori Serviti"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_Level" translation="Livello Staff"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_LitterCleared" translation="Sporcizia Pulita"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_LitterCleared" translation="Rifiuti Eliminati"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideInspected" translation="Ispezioni questo mese"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideRefurbished" translation="Ristrutturazioni questo mese"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideRepaired" translation="Guasti riparati questo mese"/>
@@ -13164,56 +13164,56 @@
 		<entry key="LoadingScreen_Input_MouseButtonMiddle" translation="click-centrale"/>
 		<entry key="LoadingScreen_Input_MouseButtonRight" translation="click-destro"/>
 		<entry key="LoadingScreen_Loading" translation="Caricamento..."/>
-		<entry key="LoadingScreen_Tooltip_1" translation="Percorsi più grandi ridurranno l'ammassamento della folla"/>
-		<entry key="LoadingScreen_Tooltip_10" translation="Decorazioni e Abbellimenti possono essere messi su quasi tutte le superfici, non solo sui muri"/>
-		<entry key="LoadingScreen_Tooltip_11" translation="Puoi tener premuta la rotella del mouse per guardarti intorno su alcune visuali (es. attrazione)"/>
-		<entry key="LoadingScreen_Tooltip_12" translation="I bottoni per la visuale negli strumenti ti aiuteranno a creare percorsi migliori"/>
-		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione di angolazione negli strumenti di percorso ti permette di creare curve secche o morbide"/>
-		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Ride Camera per vivere l'esperienza in più visuali"/>
-		<entry key="LoadingScreen_Tooltip_15" translation="Puoi premere 't' per attivare o disattivare la visuale libera"/>
-		<entry key="LoadingScreen_Tooltip_16" translation="Tenendo Premuto 'Shift' muoverai la telecamera libera molto più velocemente"/>
-		<entry key="LoadingScreen_Tooltip_17" translation="Costruendo Sentieri, tieni premuto 'z' per creare giunzioni tra gli angoli"/>
-		<entry key="LoadingScreen_Tooltip_18" translation="Modificando una struttura, clicca con il sinistro e trascina per selezionare più oggetti"/>
-		<entry key="LoadingScreen_Tooltip_19" translation="Costruendo Sentieri, puoi attivare l'altitudine per creare sentieri e scale curve"/>
-		<entry key="LoadingScreen_Tooltip_2" translation="Crea colline e sentieri elevati trascinando il mouse in su o in giù mentre costruisci i sentieri"/>
-		<entry key="LoadingScreen_Tooltip_20" translation="Puoi accedere alla griglia di costruzione di una stazione dal pannello informazioni di quell'attrazione"/>
-		<entry key="LoadingScreen_Tooltip_21" translation="Costruendo un Coaster, clicca con il sinistro per posizionare un pezzo di tracciato ovunque"/>
-		<entry key="LoadingScreen_Tooltip_22" translation="Ogni tipo di Coaster ha diversi strumenti e diversi pezzi speciali"/>
-		<entry key="LoadingScreen_Tooltip_23" translation="Il Blocca Superficie per il terreno è relativo a dov'è stato inizialmente settato"/>
-		<entry key="LoadingScreen_Tooltip_24" translation="Premere 'Ctrl' attiverà temporaneamente il pennello inverso a quello che stai utilizzando"/>
-		<entry key="LoadingScreen_Tooltip_25" translation="Puoi ricevere idee su come migliorare il tuo parco guardando i pensieri dei visitatori"/>
-		<entry key="LoadingScreen_Tooltip_26" translation="Puoi scegliere tra i controlli ‘world’ e ‘relativo’ mentre sei in Modalità Avanzata"/>
-		<entry key="LoadingScreen_Tooltip_27" translation="Usa “Filtra per Gruppo” per mostrare solo gli oggetti di un certo tipo"/>
-		<entry key="LoadingScreen_Tooltip_28" translation="Puoi gestire lo staff di un negozio dal menù informazioni di quel negozio"/>
+		<entry key="LoadingScreen_Tooltip_1" translation="Sentieri più larghi ridurranno l'ammassarsi della folla"/>
+		<entry key="LoadingScreen_Tooltip_10" translation="Le Decorazioni si possono essere aggiungere su quasi tutte le superfici, non solo sui muri"/>
+		<entry key="LoadingScreen_Tooltip_11" translation="Puoi tenere premuto {#LogicalButton.MouseMiddle#} per guardarti attorno in alcune visuali dell'Attrazione"/>
+		<entry key="LoadingScreen_Tooltip_12" translation="I pulsanti per la visuale nello strumento Sentieri ti aiuteranno a creare percorsi migliori e più velocemente"/>
+		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve secche o morbide"/>
+		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Camera Attrazione per vivere l'esperienza da prospettive diverse"/>
+		<entry key="LoadingScreen_Tooltip_15" translation="Puoi premere '{#LogicalButton.GameCamera_FreelookMode#}' per attivare o disattivare la visuale libera"/>
+		<entry key="LoadingScreen_Tooltip_16" translation="Puoi rifare ogni azione utilizzando {#LogicalButton.Editors_Redo#}"/>
+		<entry key="LoadingScreen_Tooltip_17" translation="Quando si costruiscono i Sentieri, tieni premuto '{#LogicalButton.Editors_PathYJunctionModifier#}' per creare giunzioni ad angolo o congiungerli a sentieri con angoli più acuti"/>
+		<entry key="LoadingScreen_Tooltip_18" translation="Quando si modifica una Struttura, premi {#LogicalButton.MouseLeft#} e trascina per selezionare più oggetti"/>
+		<entry key="LoadingScreen_Tooltip_19" translation="Quando si costruiscono i Sentieri, puoi attivare l'Elevazione Curva per creare discese curve e scale"/>
+		<entry key="LoadingScreen_Tooltip_2" translation="Crea discese e percorsi elevati trascinando il mouse in su o in giù mentre costruisci i sentieri"/>
+		<entry key="LoadingScreen_Tooltip_20" translation="Puoi annullare ogni azione utilizzando {#LogicalButton.Editors_Undo#}"/>
+		<entry key="LoadingScreen_Tooltip_21" translation="Quando si costruisce una Montagna Russa, premi {#LogicalButton.MouseLeft#} ovunque per posizionare un pezzo di tracciato"/>
+		<entry key="LoadingScreen_Tooltip_22" translation="Ogni tipo di Montagna Russa ha diversi strumenti e pezzi speciali"/>
+		<entry key="LoadingScreen_Tooltip_23" translation="Il Blocca Superficie permette che le modifiche al terreno siano relative al piano di superficie su cui si è cliccato inizialmente"/>
+		<entry key="LoadingScreen_Tooltip_24" translation="Quando si modifica il terreno, tieni premuto '{#LogicalButton.Editors_FlipDeformationDirectionModifier#}' per applicare temporaneamente il pennello Tira invece che Spingi e viceversa"/>
+		<entry key="LoadingScreen_Tooltip_25" translation="Puoi ricevere idee su come migliorare il tuo parco leggendo i pensieri dei visitatori"/>
+		<entry key="LoadingScreen_Tooltip_26" translation="Puoi passare tra i controlli ‘mondo’ e ‘relativo’ mentre sei in Modalità Avanzata"/>
+		<entry key="LoadingScreen_Tooltip_27" translation="Usa “Filtra per Gruppo” per mostrare solo i pezzi di Scenario e di Edifici di un certo tipo"/>
+		<entry key="LoadingScreen_Tooltip_28" translation="Puoi gestire lo Staff di un negozio selezionando il pulsante Staff Venditore dal Menù Informazioni di quel negozio"/>
 		<entry key="LoadingScreen_Tooltip_29" translation="La Selezione Multipla ti permette di selezionare più oggetti da salvare come progetto"/>
-		<entry key="LoadingScreen_Tooltip_3" translation="Puoi regolare la visuale in vari modi dal menù Impostazioni"/>
-		<entry key="LoadingScreen_Tooltip_30" translation="Salva un progetto per ricostruire velocemente una struttura e condividerla"/>
-		<entry key="LoadingScreen_Tooltip_31" translation="Mentre modifichi una struttura, puoi usare lo strumenti dividi per crearne un'altra"/>
+		<entry key="LoadingScreen_Tooltip_3" translation="Puoi regolare le impostazioni della visuale dal Menù Impostazioni"/>
+		<entry key="LoadingScreen_Tooltip_30" translation="Salva un progetto per ricostruire velocemente una struttura in futuro e condividerla con la comunità"/>
+		<entry key="LoadingScreen_Tooltip_31" translation="Mentre modifichi una struttura, puoi usare lo strumenti Dividi per crearne una nuova dalla tua selezione"/>
 		<entry key="LoadingScreen_Tooltip_32" translation="Puoi scaricare nuovi Progetti dallo Steam Workshop"/>
 		<entry key="LoadingScreen_Tooltip_33" translation="Puoi caricare i tuoi progetti sullo Steam WorkShop e condividerli con il mondo!"/>
-		<entry key="LoadingScreen_Tooltip_34" translation="Il menù impostazioni di una struttura ti permette di modificare la griglia su cui lavori"/>
-		<entry key="LoadingScreen_Tooltip_35" translation="Puoi allineare i sentieri ad una griglia usando lo strumento Griglia"/>
-		<entry key="LoadingScreen_Tooltip_36" translation="Puoi cambiare il prezzo di un'attrazione nella sezione Finanza"/>
-		<entry key="LoadingScreen_Tooltip_37" translation="Rendi le attrazioni più efficienti regolando le impostazioni di salita dei passeggeri"/>
-		<entry key="LoadingScreen_Tooltip_38" translation="Prova ad aggiungere una coda prioritaria nelle attrazioni popolari"/>
-		<entry key="LoadingScreen_Tooltip_39" translation="Il Chiosco Informazioni vende i pass Prioritari per saltare le file"/>
-		<entry key="LoadingScreen_Tooltip_4" translation="Puoi cambiare il colore della tua interfaccia nel menù Impostazioni"/>
-		<entry key="LoadingScreen_Tooltip_40" translation="Puoi cambiare il colore di molti tracciati e oggetti "/>
-		<entry key="LoadingScreen_Tooltip_41" translation="I visitatori andranno sulle attrazioni con un livello di paura che possono sopportare"/>
-		<entry key="LoadingScreen_Tooltip_42" translation="Più alta sarà la valutazione del tuo parco, più gente ci verrà!"/>
-		<entry key="LoadingScreen_Tooltip_43" translation="Puoi vedere i pensieri più popolari su un'attrazione nella sua schermata generale"/>
-		<entry key="LoadingScreen_Tooltip_44" translation="Gli ospiti pagheranno di più per attrazioni con più scenario"/>
-		<entry key="LoadingScreen_Tooltip_45" translation="Spostare l'entrata o l'uscita di un'attrazione può velocizzare la salita/discesa dei passeggeri"/>
-		<entry key="LoadingScreen_Tooltip_46" translation="Coasters con meno pezzi utility avranno un costo mensile inferiore"/>
-		<entry key="LoadingScreen_Tooltip_47" translation="Ogni Coaster ha diversi pezzi meccanici per il suo tracciato"/>
-		<entry key="LoadingScreen_Tooltip_48" translation="Puoi attivare o disattivare i supporti del Coaster nella scheda Utilità"/>
-		<entry key="LoadingScreen_Tooltip_49" translation="I Coaster devono completare un test prima che i visitatori possano salirci"/>
+		<entry key="LoadingScreen_Tooltip_34" translation="Il Menù Impostazioni di una struttura ti permette di modificare la griglia su cui lavori"/>
+		<entry key="LoadingScreen_Tooltip_35" translation="Puoi allineare i sentieri ad una griglia usando lo strumento Griglia nelle Impostazioni Sentiero"/>
+		<entry key="LoadingScreen_Tooltip_36" translation="Puoi cambiare il prezzo di un'Attrazione nella sezione Economia"/>
+		<entry key="LoadingScreen_Tooltip_37" translation="Rendi le attrazioni più efficienti regolando le impostazioni di carico dei passeggeri"/>
+		<entry key="LoadingScreen_Tooltip_38" translation="Prova ad aggiungere una coda prioritaria nelle attrazioni più popolari"/>
+		<entry key="LoadingScreen_Tooltip_39" translation="Il Chiosco Informazioni vende i Pass Salta-Coda che permettono ai Visitatori di accedere alle code prioritarie"/>
+		<entry key="LoadingScreen_Tooltip_4" translation="Puoi cambiare il colore della tua interfaccia nel Menù Impostazioni"/>
+		<entry key="LoadingScreen_Tooltip_40" translation="Puoi cambiare il colore di molti oggetti ed Attrazioni "/>
+		<entry key="LoadingScreen_Tooltip_41" translation="I Visitatori andranno sulle Attrazioni con un livello di Paura e Nausea che possono tollerare"/>
+		<entry key="LoadingScreen_Tooltip_42" translation="Più alta sarà la valutazione del tuo parco, più visitatori avrà!"/>
+		<entry key="LoadingScreen_Tooltip_43" translation="Puoi vedere i pensieri più popolari su di un'attrazione nella sua schermata generale"/>
+		<entry key="LoadingScreen_Tooltip_44" translation="I Visitatori pagheranno di più per attrazioni con uno Scenario più bello attorno alla coda"/>
+		<entry key="LoadingScreen_Tooltip_45" translation="Spostare l'entrata o l'uscita di un'Attrazione può velocizzare la salita/discesa dei passeggeri"/>
+		<entry key="LoadingScreen_Tooltip_46" translation="Montagne Russe con meno componenti avranno un costo mensile inferiore"/>
+		<entry key="LoadingScreen_Tooltip_47" translation="Ogni Montagna Russa ha diversi vincoli tecnici sul suo tracciato"/>
+		<entry key="LoadingScreen_Tooltip_48" translation="Puoi attivare o disattivare i supporti delle Montagne Russe nella scheda Utilità"/>
+		<entry key="LoadingScreen_Tooltip_49" translation="Le Montagne Russe devono completare un Test prima che i visitatori possano salirci"/>
 		<entry key="LoadingScreen_Tooltip_5" translation="Il tasto Duplica clonerà un oggetto o una struttura"/>
-		<entry key="LoadingScreen_Tooltip_50" translation="I Coaster migliori mettono un pò di paura, ma non troppa!"/>
-		<entry key="LoadingScreen_Tooltip_6" translation="I muri si auto-allineano durante la costruzione. Disattiva quest'opzione per un controllo preciso"/>
-		<entry key="LoadingScreen_Tooltip_7" translation="Puoi tener premuto 'Shift' mentre costruisci, per alzare la maggior parte degli oggetti"/>
+		<entry key="LoadingScreen_Tooltip_50" translation="Le Montagne Russe migliori mettono un pò di paura, ma non troppa!"/>
+		<entry key="LoadingScreen_Tooltip_6" translation="I muri si auto-allineano durante la costruzione. Disattiva quest'opzione per un controllo più preciso"/>
+		<entry key="LoadingScreen_Tooltip_7" translation="Puoi tener premuto '{#LogicalButton.Editors_UpwardPlacementModifier#}' mentre costruisci, per sollevare la maggior parte degli oggetti"/>
 		<entry key="LoadingScreen_Tooltip_8" translation="Le entrate per le attrazioni possono essere decorate come le strutture"/>
-		<entry key="LoadingScreen_Tooltip_9" translation="Usa le decorazioni e gli oggetti da attaccare per migliorare le tue strutture"/>
+		<entry key="LoadingScreen_Tooltip_9" translation="Usa le decorazioni per migliorare le tue strutture e renderle più attraenti"/>
 		<entry key="LoadingScreen_Tooltip_Text" translation="{Text}"/>
 		<!--Marketing-->
 		<entry key="Marketing_HighImpact_Adult_Info" translation="Marketing di Alto Impatto.&#10;Richiama molti gruppi di adulti."/>
@@ -13423,7 +13423,7 @@
 		<entry key="Music_Track_WesternMood_Piano2" translation="Piano Western 2"/>
 		<entry key="Music_Track_WesternMood_Piano3" translation="Piano Western 3"/>
 		<entry key="Music_Track_WesternMood_ThroughTheDesert" translation="Spaghetti Rollercoaster"/>
-		<entry key="Music_Track_WesternMood_Townsville" translation="Per un Pugno di Ospiti"/>
+		<entry key="Music_Track_WesternMood_Townsville" translation="Per un Pugno di Visitatori"/>
 		<entry key="Music_Track_WildBlue" translation="La Cavalcata delle Valchirie"/>
 		<entry key="Music_Track_WildBlueKids" translation="La Cavalcata delle Valchirie (baby)"/>
 		<entry key="Music_Track_XmasMood_01" translation="La Gioia è in Tutti Noi"/>
@@ -13536,7 +13536,7 @@
 		<entry key="Notification_GuestsToiletNeed" translation="Molti visitatori necessitano di bagni"/>
 		<entry key="Notification_GuestsTrapped" translation="Molti visitatori sono intrappolati nel parco."/>
 		<entry key="Notification_HighPickpocketing" translation="Nel tuo parco ci sono alti livelli di crimine, il risultato è molti visitatori infelici e a cui capitano più borseggi. Considera di migliorare la sicurezza."/>
-		<entry key="Notification_HighVandalism" translation="Nel parco ci sono molti oggetti vandalizzati, che ridurranno la felicità degli ospiti e la valutazione del parco. Considera di assumere un meccanico, migliorare la sicurezza e pensare alla felicità degli ospiti."/>
+		<entry key="Notification_HighVandalism" translation="Nel parco ci sono molti oggetti vandalizzati, che ridurranno la felicità dei visitatorii e la valutazione del parco. Considera di assumere un Manutentore, migliorare la sicurezza e pensare alla felicità dei visitatori."/>
 		<entry key="Notification_MarketingButton" translation="Visualizza Marketing"/>
 		<entry key="Notification_MarketingCampaignCompleted" translation="La campagna di marketing si è conclusa&#10;'{Name}'"/>
 		<entry key="Notification_MarketingCampaignCompletedCantRenew" translation="La campagna di marketing è fallita per mancanza di fondi&#10;'{Name}'"/>
@@ -13547,7 +13547,7 @@
 		<entry key="Notification_ObjectiveCompletedStacked" translation="Multipli obiettivi sono stati completati"/>
 		<entry key="Notification_OpenNotificationsButton" translation="Apri notifiche"/>
 		<entry key="Notification_ParkBins" translation="Ci sono molti cestini strabordanti&#10;Assicurati che gli spazzini li svuotino regolarmente"/>
-		<entry key="Notification_ParkBreakdowns" translation="Il tasso di rotture del tuo parco è alto&#10;Assicurati che i meccanici ispezionino le attrazioni regolarmente"/>
+		<entry key="Notification_ParkBreakdowns" translation="Il tasso di rotture del tuo parco è alto&#10;Assicurati che i manutentori ispezionino le attrazioni regolarmente"/>
 		<entry key="Notification_ParkLitter" translation="C'è un sacco di spazzatura nel parco&#10;Assicurati che ci siano abbastanza cestini"/>
 		<entry key="Notification_ParkMonthlySummary" translation="Riepilogo della fine del mese:&#10;   Profitto mensile: {ProfitChange}&#10;   Cambio di valutazione del parco: {RatingChange}"/>
 		<entry key="Notification_ParkMonthlySummaryStacked" translation="Più riepiloghi mensili disponibili"/>
@@ -13562,7 +13562,7 @@
 		<entry key="Notification_ResearchCompleted" translation="Progetto di ricerca pronto"/>
 		<entry key="Notification_ResearchCompletedStacked" translation="Multipli progetti di ricerca disponibili"/>
 		<entry key="Notification_RideBroken" translation="{Name} si è guastata"/>
-		<entry key="Notification_RideBrokenStacked" translation="Molte attrazione si sono guastate&#10;Assicurati che i meccanici le ispezionino spesso"/>
+		<entry key="Notification_RideBrokenStacked" translation="Molte attrazione si sono guastate&#10;Assicurati che i manutentori le ispezionino spesso"/>
 		<entry key="Notification_RideButton" translation="Visualizza attrazione"/>
 		<entry key="Notification_RideCrashed" translation="{Name} si è schiantata!"/>
 		<entry key="Notification_RideCrashedStacked" translation="Molte attrazioni si sono schiantate!"/>
@@ -13982,15 +13982,15 @@
 		<entry key="OptionsMenu_GlobalRideDeclineHint" translation="Disabilita il cambiamento della reputazione delle attrazioni col passare del tempo. Si applica solo a specifici Scenari e a difficoltà in modalità Sfida."/>
 		<entry key="OptionsMenu_GlobalSecurityFeatures" translation="Gestione Sicurezza Parco"/>
 		<entry key="OptionsMenu_GlobalSecurityFeaturesHint" translation="Attiva le funzioni Sicurezza. Alcuni Scenari la prevedono e ignoreranno questa impostazione."/>
-		<entry key="OptionsMenu_GlobalShowCoasterFrictionSlider" translation="Coaster Friction Controls"/>
-		<entry key="OptionsMenu_GlobalShowCoasterFrictionSliderHint" translation="Show the coaster friction control in the info panel"/>
+		<entry key="OptionsMenu_GlobalShowCoasterFrictionSlider" translation="Controlli Attrito Montagna Russa"/>
+		<entry key="OptionsMenu_GlobalShowCoasterFrictionSliderHint" translation="Mostra il controllo attrito della montagna russa nel pannello informazioni"/>
 		<entry key="OptionsMenu_Graphics" translation="Grafica"/>
 		<entry key="OptionsMenu_HidePlayerName" translation="Nascondi Nome Giocatore"/>
 		<entry key="OptionsMenu_Interface" translation="Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceAutoScale" translation="Dimensione Automatica Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Disable interface auto scale to manually specify scale percentage."/>
 		<entry key="OptionsMenu_InterfaceDistanceFeet" translation="Feet (ft)"/>
-		<entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Kilometres (km)"/>
+		<entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Chilometri (km)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMetres" translation="Metri (m)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMiles" translation="Miglia (mi)"/>
 		<entry key="OptionsMenu_InterfaceDistanceUnit" translation="Unità di Misura Distanza"/>
@@ -14358,7 +14358,7 @@
 		<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismo"/>
 		<entry key="ParkManagement_Crime_VandalismHeading" translation="Cestini; Panchine"/>
 		<entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Statistiche"/>
-		<entry key="ParkManagement_Crime_VandalismSummary" translation="Alcuni visitatori vandalizzano gli oggetti se si sentono molto infelici nel tuo parco.&#10; Queste statistiche aiutano a localizzare aree problematiche e ripararli in fretta.&#10; Ricorda che i tuoi meccanici riparano anche gli oggetti rotti.. "/>
+		<entry key="ParkManagement_Crime_VandalismSummary" translation="Alcuni visitatori vandalizzano gli oggetti se si sentono molto infelici nel tuo parco.&#10; Queste statistiche aiutano a localizzare aree problematiche e ripararli in fretta.&#10; Ricorda che i tuoi manutentori riparano anche gli oggetti rotti.. "/>
 		<entry key="ParkManagement_Crime_VandalsApprehended" translation="Vandali Arrestati (dall'inizio)"/>
 		<entry key="ParkManagement_Crime_XOfYAndProp" translation="{countX:int}/{countY:int} ({percentage:float:decimalPlaces=0}%)"/>
 		<entry key="ParkManagement_DemographicBreakdown" translation="Ripartizione demografica"/>
@@ -14386,34 +14386,34 @@
 		<entry key="ParkManagement_DutyRosters_CreateNew" translation="Crea nuova coda"/>
 		<entry key="ParkManagement_DutyRosters_Name" translation="Nome della coda"/>
 		<entry key="ParkManagement_DutyRosters_NoItems" translation="Non hai compiti in coda"/>
-		<entry key="ParkManagement_DutyRosters_Tools" translation="Tools"/>
-		<entry key="ParkManagement_EntranceTicketPrices" translation="Prezzo del biglietto di entrata"/>
-		<entry key="ParkManagement_ExpenditureCategory_CoasterRunningCosts" translation="Costi di esecuzione dell'attrazione"/>
-		<entry key="ParkManagement_ExpenditureCategory_CoasterTickets" translation="Vendita biglietti dell'attrazione"/>
+		<entry key="ParkManagement_DutyRosters_Tools" translation="Strumenti"/>
+		<entry key="ParkManagement_EntranceTicketPrices" translation="Prezzi del biglietto di entrata"/>
+		<entry key="ParkManagement_ExpenditureCategory_CoasterRunningCosts" translation="Costi di esercizio delle Montagne Russe"/>
+		<entry key="ParkManagement_ExpenditureCategory_CoasterTickets" translation="Vendita biglietti delle Montagne Russe"/>
 		<entry key="ParkManagement_ExpenditureCategory_FacilityConstruction" translation="Costruzione Negozi e strutture"/>
-		<entry key="ParkManagement_ExpenditureCategory_FacilityRunningCosts" translation="Costi di esecuzione di Negozi e strutture"/>
-		<entry key="ParkManagement_ExpenditureCategory_FacilitySales" translation="Vendite struttura"/>
-		<entry key="ParkManagement_ExpenditureCategory_FastPassSales" translation="Vendite del Pass Salta-Coda"/>
+		<entry key="ParkManagement_ExpenditureCategory_FacilityRunningCosts" translation="Costi di esercizio di Negozi e strutture"/>
+		<entry key="ParkManagement_ExpenditureCategory_FacilitySales" translation="Vendite Strutture"/>
+		<entry key="ParkManagement_ExpenditureCategory_FastPassSales" translation="Vendite dei Pass Salta-Coda"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanInterest" translation="Pagamenti interessi del prestito"/>
-		<entry key="ParkManagement_ExpenditureCategory_LoanLumpRepayment" translation="Loan Cash Paid Off"/>
+		<entry key="ParkManagement_ExpenditureCategory_LoanLumpRepayment" translation="Restituzione prestito"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanMonthlyRepayment" translation="Pagamenti mensili del prestito"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanRecieved" translation="Soldi del prestito ricevuti"/>
 		<entry key="ParkManagement_ExpenditureCategory_MarketingMonthlyPayment" translation="Costi marketing"/>
-		<entry key="ParkManagement_ExpenditureCategory_ParkEntranceTickets" translation="Vendite del bieglietto di entrata"/>
-		<entry key="ParkManagement_ExpenditureCategory_PathPlacement" translation="Costruzione percorsi"/>
-		<entry key="ParkManagement_ExpenditureCategory_ResearchMonthlyPayment" translation="Costi di ricerca"/>
+		<entry key="ParkManagement_ExpenditureCategory_ParkEntranceTickets" translation="Vendite del biglietto di entrata"/>
+		<entry key="ParkManagement_ExpenditureCategory_PathPlacement" translation="Costruzione Sentieri"/>
+		<entry key="ParkManagement_ExpenditureCategory_ResearchMonthlyPayment" translation="Costi di Ricerca"/>
 		<entry key="ParkManagement_ExpenditureCategory_Rewards" translation="Premi in denaro"/>
-		<entry key="ParkManagement_ExpenditureCategory_RideConstruction" translation="Costruzione Attrazione"/>
-		<entry key="ParkManagement_ExpenditureCategory_RideRebrand" translation="Ride Rebranding"/>
+		<entry key="ParkManagement_ExpenditureCategory_RideConstruction" translation="Costruzione Attrazioni"/>
+		<entry key="ParkManagement_ExpenditureCategory_RideRebrand" translation="Rinnovamento Attrazioni"/>
 		<entry key="ParkManagement_ExpenditureCategory_RideRefurbishment" translation="Ristrutturazioni"/>
-		<entry key="ParkManagement_ExpenditureCategory_RideRunningCosts" translation="Costi di esecuzioni delle attrazioni"/>
-		<entry key="ParkManagement_ExpenditureCategory_RideTickets" translation="Vendita biglietti dell'attrazione"/>
-		<entry key="ParkManagement_ExpenditureCategory_SceneryConstruction" translation="Costruzione scenario"/>
-		<entry key="ParkManagement_ExpenditureCategory_SceneryRunningCosts" translation="Costi di esecuzione dello scenario"/>
-		<entry key="ParkManagement_ExpenditureCategory_ShopSales" translation="Vendite dei negozi"/>
+		<entry key="ParkManagement_ExpenditureCategory_RideRunningCosts" translation="Costi di esercizio delle Attrazioni"/>
+		<entry key="ParkManagement_ExpenditureCategory_RideTickets" translation="Vendita biglietti delle Attrazioni"/>
+		<entry key="ParkManagement_ExpenditureCategory_SceneryConstruction" translation="Costruzione Scenario"/>
+		<entry key="ParkManagement_ExpenditureCategory_SceneryRunningCosts" translation="Costi di esercizio dello Scenario"/>
+		<entry key="ParkManagement_ExpenditureCategory_ShopSales" translation="Vendite dei Negozi"/>
 		<entry key="ParkManagement_ExpenditureCategory_StaffWages" translation="Stipendi dei dipendenti"/>
 		<entry key="ParkManagement_ExpenditureCategory_Terraforming" translation="Terraformazione"/>
-		<entry key="ParkManagement_ExpenditureCategory_TriggeredSceneryCosts" translation="Triggered Scenery Costs"/>
+		<entry key="ParkManagement_ExpenditureCategory_TriggeredSceneryCosts" translation="Costi Scenari innescati"/>
 		<entry key="ParkManagement_ExpenditureCategory_Uncategorised" translation="Non categorizzato"/>
 		<entry key="ParkManagement_Facilities" translation="Strutture"/>
 		<entry key="ParkManagement_FamilyGroups" translation="Gruppi Famiglia"/>
@@ -14422,7 +14422,7 @@
 		<entry key="ParkManagement_Finance_Cash" translation="Soldi parco"/>
 		<entry key="ParkManagement_Finance_CashAxisName" translation="Soldi"/>
 		<entry key="ParkManagement_Finance_CashFlow" translation="Entrate"/>
-		<entry key="ParkManagement_Finance_CompanyValue" translation="Valore della compagnia"/>
+		<entry key="ParkManagement_Finance_CompanyValue" translation="Valore della Compagnia"/>
 		<entry key="ParkManagement_Finance_ConstructionCosts" translation="Costi di costruzione"/>
 		<entry key="ParkManagement_Finance_GraphDate_Month_Year" translation="{MonthName}, Anno {Year:int}"/>
 		<entry key="ParkManagement_Finance_GraphDate_Year" translation="Anno {Year:int}"/>
@@ -14431,7 +14431,7 @@
 		<entry key="ParkManagement_Finance_ParkValue" translation="Valore parco"/>
 		<entry key="ParkManagement_Finance_Profit" translation="Profitti"/>
 		<entry key="ParkManagement_Finance_RidesAndTickets" translation="Attrazioni e biglietti"/>
-		<entry key="ParkManagement_Finance_ShopsAndFacilities" translation="Negozi e strutture"/>
+		<entry key="ParkManagement_Finance_ShopsAndFacilities" translation="Negozi e Strutture"/>
 		<entry key="ParkManagement_Finances" translation="Economia"/>
 		<entry key="ParkManagement_Finances_AverageMonth" translation="Media mensile"/>
 		<entry key="ParkManagement_Finances_Graphs_NoDataAvailableYet" translation="I grafici saranno disponibili all'inizio del mese di {MONTHNAME}"/>
@@ -14444,7 +14444,7 @@
 		<entry key="ParkManagement_GraphHorizontalLinesToggle" translation="Mostra linee orizzontali"/>
 		<entry key="ParkManagement_GraphSettings" translation="Impostazioni grafico"/>
 		<entry key="ParkManagement_GraphVariables" translation="Variabili grafico"/>
-		<entry key="ParkManagement_GraphVerticalLinesToggle" translation="mostra linee verticali"/>
+		<entry key="ParkManagement_GraphVerticalLinesToggle" translation="Mostra linee verticali"/>
 		<entry key="ParkManagement_GraphZoom_LastNYears_Multiple" translation="Ultimi {count:int} anni"/>
 		<entry key="ParkManagement_GraphZoom_LastNYears_One" translation="Ultimo anno"/>
 		<entry key="ParkManagement_Graphs" translation="Grafici"/>
@@ -14467,7 +14467,7 @@
 		<entry key="ParkManagement_Guests_Graph_Total_Count" translation="Visitatori totali"/>
 		<entry key="ParkManagement_Guests_Tooltip" translation="Pensieri dei visitatori e informazioni"/>
 		<entry key="ParkManagement_HireStaff" translation="Assumi dipendente"/>
-		<entry key="ParkManagement_LeavingGuestThoughts" translation="Lascia i pensieri dei visitatori"/>
+		<entry key="ParkManagement_LeavingGuestThoughts" translation="Pensieri dei visitatori che vanno via"/>
 		<entry key="ParkManagement_List_Age" translation="Età"/>
 		<entry key="ParkManagement_List_AllStaff" translation="Tutti i dipendenti"/>
 		<entry key="ParkManagement_List_CustomersLastMonth" translation="Clienti ultimo mese"/>
@@ -14480,7 +14480,7 @@
 		<entry key="ParkManagement_List_MonthlyGuests" translation="Visitatori mensili"/>
 		<entry key="ParkManagement_List_NameHeader" translation="Nome"/>
 		<entry key="ParkManagement_List_NoAllStaff" translation="Non hai dipendenti"/>
-		<entry key="ParkManagement_List_NoEntertainer" translation="Non animatori"/>
+		<entry key="ParkManagement_List_NoEntertainer" translation="Non hai animatori"/>
 		<entry key="ParkManagement_List_NoJanitor" translation="Non hai spazzini"/>
 		<entry key="ParkManagement_List_NoMechanic" translation="Non hai manutentori"/>
 		<entry key="ParkManagement_List_NoSecurity" translation="Non hai guardie di sicurezza"/>
@@ -15103,7 +15103,7 @@
 		<entry key="Research_Revealed_ShopsAndFacilities_Mexican" translation="Mexelente"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Milkshake" translation="Mucca Cosmica"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Souvenir" translation="Just A Momento"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_Toilet" translation="Toilette"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_Toilet" translation="Bagni"/>
 		<entry key="Research_Revealed_Transport_Connie" translation="Connie Express"/>
 		<entry key="Research_Revealed_Transport_SilvStar" translation="Light Line"/>
 		<entry key="Research_Type_Coaster" translation="Montagna Russa"/>
@@ -15139,7 +15139,7 @@
 		<entry key="RideCam_LookAtGuest" translation="Visuale frontale"/>
 		<entry key="RideCam_NumberedCamera" translation="{Name} - {Number:int}"/>
 		<entry key="RideCam_Orbit" translation="Visuale aerea"/>
-		<entry key="RideCam_RideCamera" translation="Camera giostra"/>
+		<entry key="RideCam_RideCamera" translation="Camera Attrazione"/>
 		<entry key="RideCam_Row" translation="Fila"/>
 		<entry key="RideCam_Seat" translation="Sedile"/>
 		<entry key="RideCam_ShowTestResults" translation="Risultati Test"/>
@@ -15268,7 +15268,7 @@
 		<entry key="Objectives_WithLoansCleared" translation="Con tutti i prestiti risolti"/>
 		<entry key="ScenarioFanfare_Cash" translation="Soldi Parco"/>
 		<entry key="ScenarioFanfare_Date" translation="Data completata"/>
-		<entry key="ScenarioFanfare_GuestsInPark" translation="Ospiti nel Parco"/>
+		<entry key="ScenarioFanfare_GuestsInPark" translation="Visitatori nel Parco"/>
 		<entry key="Scenario_RideLocked" translation="Bloccato in questo scenario"/>
 		<!--Scenery-->
 		<entry key="Blueprints_Delorean01" translation="Back to the Future 1985"/>
@@ -16674,9 +16674,9 @@
 		<entry key="BuildingPartName_PC_MedicSigns_Large" translation="Insegna Planet Coaster - Primo Soccorso"/>
 		<entry key="BuildingPartName_PC_Parksign_01" translation="Statua - Re Coaster"/>
 		<entry key="BuildingPartName_PC_Parksign_02" translation="Statua - Planet Coaster con Tracciato Coaster"/>
-		<entry key="BuildingPartName_PC_PosterStand_01" translation="Poster Verticale con Sostegno 1 - Ospite"/>
+		<entry key="BuildingPartName_PC_PosterStand_01" translation="Poster Verticale con Sostegno 1 - Visitatore"/>
 		<entry key="BuildingPartName_PC_PosterStand_02" translation="Poster Verticale con Sostegno 2 - Re Coaster"/>
-		<entry key="BuildingPartName_PC_PosterStand_03" translation="Poster Verticale con Sostegno 3 - Sicurezza"/>
+		<entry key="BuildingPartName_PC_PosterStand_03" translation="Poster Verticale con Sostegno 3 - Gulpee"/>
 		<entry key="BuildingPartName_PC_PosterStand_04" translation="Poster Verticale con Sostegno 4 - Capitano Lockjaw"/>
 		<entry key="BuildingPartName_PC_PosterStand_05" translation="Poster Verticale con Sostegno 5 - Octoposter"/>
 		<entry key="BuildingPartName_PC_PosterStand_06" translation="Poster Verticale con Sostegno 6 - Kraken"/>
@@ -16812,11 +16812,11 @@
 		<entry key="BuildingPartName_PC_Speaker_04" translation="Park Speaker - Display"/>
 		<entry key="BuildingPartName_PC_StandSign_Dollar" translation="Insegna Planet Coaster - Bancomat (ATM) con Supporto Lit"/>
 		<entry key="BuildingPartName_PC_StandSign_Medic" translation="Insegna Planet Coaster - Primo Soccorso con Supporto"/>
-		<entry key="BuildingPartName_PC_StandSign_Toilet" translation="Insegna Planet Coaster - Toilet con Supporto"/>
+		<entry key="BuildingPartName_PC_StandSign_Toilet" translation="Insegna Planet Coaster - Bagno con Supporto"/>
 		<entry key="BuildingPartName_PC_WallSign_Dollar" translation="Insegna Planet Coaster - Bancomat (ATM) da Parete"/>
 		<entry key="BuildingPartName_PC_WallSign_Info" translation="Insegna Planet Coaster - Informazioni da Parete"/>
 		<entry key="BuildingPartName_PC_WallSign_Medic" translation="Insegna Planet Coaster - Primo Soccorso da Parete"/>
-		<entry key="BuildingPartName_PC_WallSign_Toilet" translation="Insegna Planet Coaster - Toilet da Parete"/>
+		<entry key="BuildingPartName_PC_WallSign_Toilet" translation="Insegna Planet Coaster - Bagno da Parete"/>
 		<entry key="BuildingPartName_PDLC_BackToTheFuture1Car" translation="Back to the Future Complete 1985"/>
 		<entry key="BuildingPartName_PDLC_BackToTheFuture2Car" translation="Back to the Future Complete 2015"/>
 		<entry key="BuildingPartName_PDLC_BackToTheFuture3Car" translation="Back to the Future Complete 1955"/>
@@ -17798,17 +17798,17 @@
 		<entry key="Staff_Janitor" translation="Spazzino"/>
 		<entry key="Staff_Janitor_Desc" translation="Mantiene immacolato il tuo parco"/>
 		<entry key="Staff_Janitor_Plural" translation="Spazzini"/>
-		<entry key="Staff_Mechanic" translation="Meccanico"/>
+		<entry key="Staff_Mechanic" translation="Manutentore"/>
 		<entry key="Staff_Mechanic_Desc" translation="Ripara le attrazioni ed effettua le opere di manutenzione"/>
-		<entry key="Staff_Mechanic_Plural" translation="Meccanici"/>
+		<entry key="Staff_Mechanic_Plural" translation="Manutentori"/>
 		<entry key="Staff_Security" translation="Guardia di Sicurezza"/>
 		<entry key="Staff_Security_Desc" translation="Prende i criminali e previene crimini in un raggio di 15m"/>
 		<entry key="Staff_Security_Plural" translation="Guardie di Sicurezza"/>
 		<entry key="Staff_Status_Bin" translation="Svuota il Cestino"/>
 		<entry key="Staff_Status_Chasing" translation="Acciuffa un furfante"/>
-		<entry key="Staff_Status_Entertain_0" translation="Intrattiene 0 ospiti"/>
-		<entry key="Staff_Status_Entertain_1" translation="Intrattiene 1 ospite"/>
-		<entry key="Staff_Status_Entertain_N" translation="Intrattiene {count:int} ospiti"/>
+		<entry key="Staff_Status_Entertain_0" translation="Intrattiene 0 visitatori"/>
+		<entry key="Staff_Status_Entertain_1" translation="Intrattiene 1 visitatore"/>
+		<entry key="Staff_Status_Entertain_N" translation="Intrattiene {count:int} visitatori"/>
 		<entry key="Staff_Status_HeadingToRepairVandalism" translation="Va a riparare un oggetto vandalizzato"/>
 		<entry key="Staff_Status_Idle" translation="Sfaccendato"/>
 		<entry key="Staff_Status_Inspection" translation="Ispeziona {station}"/>
@@ -18242,7 +18242,7 @@
 		<entry key="Guest_Thought_Assessment_PPQueue_Short_Common_01" translation="Sto risparmiando un sacco di tempo con il mio Pass Salta-Coda! - {reference}"/>
 		<entry key="Guest_Thought_Assessment_PPQueue_Short_Common_02" translation="Il mio Pass Salta-Coda mi sta facendo risparmiare tantissimo tempo su {reference}"/>
 		<entry key="Guest_Thought_Assessment_PPQueue_Short_Common_03" translation="Usare il mio Pass Salta-Coda su {reference} è bellissimo!"/>
-		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_01" translation="Il Pass Salta-Codaes è per i perdenti"/>
+		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_01" translation="Il Pass Salta-Coda è per i perdenti"/>
 		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_02" translation="Non credo che acquisterò mai un Pass Salta-Coda"/>
 		<entry key="Guest_Thought_Assessment_PPUnwanted_Common_03" translation="Non mi importa di aspettare per fare un giro su un attrazione, non mi serve un Pass Salta-Coda"/>
 		<entry key="Guest_Thought_Assessment_QueueFinished_Bad_Common_01" translation="Finalmente! La coda per {reference} è durata tantissimo!"/>
@@ -18473,7 +18473,7 @@
 		<entry key="Guest_Thought_FluffRideOld_Teen_03" translation="Chi vorrebbe mai salire su qualcosa di vecchio come {reference}?"/>
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_01" translation="{reference} sarebbe sicuramente più bella con un po più di scenografia!"/>
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_02" translation="Non c'è quasi alcuna scenografia attorno a {reference}!"/>
-		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_03" translation="{reference} ha una scenografia per la coda che è un po una monnezza."/>
+		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_03" translation="{reference} ha una scenografia per la coda che è un po una schifezza."/>
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_04" translation="Non c'è molto da vedere quando si è in coda per {reference}"/>
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Child_01" translation="Speravo che la coda per {reference} fosse migliore"/>
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Child_02" translation="Sono stufo di stare in coda per {reference}"/>
@@ -18672,7 +18672,7 @@
 		<entry key="Guest_Thought_HungerSatisfied_Destination_Teen_02" translation="Non potrei mangiare nient'altro dopo {reference}"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Adult_01" translation="Odio quando tirano giù le attrazioni! - {reference}"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Adult_02" translation="Forse ritornerò a {reference} quando sarà di nuovo aggiustato"/>
-		<entry key="Guest_Thought_InQueue_Breakdown_Adult_03" translation="Spero che i meccanici non ci mettano troppo ad aggiustare {reference}"/>
+		<entry key="Guest_Thought_InQueue_Breakdown_Adult_03" translation="Spero che i manutentori non ci mettano troppo ad aggiustare {reference}"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Child_01" translation="Aw! {reference} rotto!"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Child_02" translation="Non vale! Ero sul punto di salire su {reference}"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Child_03" translation="Rotto? Ho sprecato tutto il tempo a fare la fila per {reference}!"/>
@@ -18682,7 +18682,7 @@
 		<entry key="Guest_Thought_InQueue_Breakdown_Teen_03" translation="Maledizione! Non c'è un punto per mettersi in fila per {reference} adesso"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Adult_01" translation="Spero {reference} che non ci sia un'interruzione mentre sto facendo la fila"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Adult_02" translation="Ti prego non di nuovo un'altra interruzione! - {reference}"/>
-		<entry key="Guest_Thought_InQueue_DownTime_Bad_Adult_03" translation="Mi domando quando sia stata l'ultima ispezione dei meccanici per {reference}?"/>
+		<entry key="Guest_Thought_InQueue_DownTime_Bad_Adult_03" translation="Mi domando quando sia stata l'ultima ispezione dei manutentori per {reference}?"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Child_01" translation="Spero {reference} non si rompa!"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Child_02" translation="Ti prego non romperti {reference}!"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Child_03" translation="Sono preoccupato che {reference} si stia per rompere"/>
@@ -18845,7 +18845,7 @@
 		<entry key="Guest_Thought_ParkExit_Unhappy_Refund_Teen_01" translation="Ma è uno scherzo? ora chiederò il rimborso!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Refund_Teen_02" translation="Questo parco è orribile!. E' TEMPO DI RIMBORSO!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Teen_01" translation="Non mi sono divertito per niente... è ora di andare"/>
-		<entry key="Guest_Thought_ParkExit_Unhappy_Teen_02" translation="Ho avuto un esperienza talmente negativa che non tornerò mai più"/>
+		<entry key="Guest_Thought_ParkExit_Unhappy_Teen_02" translation="Ho avuto un'esperienza talmente negativa che non tornerò mai più"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_TooSmall_Common_01" translation="Non c'è molto da fare. Me ne vado a casa!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_TooSmall_Common_02" translation="Ho visto tutto quello che c'era da vedere. Si torna a casa!!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_TooSmall_Common_03" translation="Sarei rimasto di più, ma non c'è nulla da fare."/>
@@ -19000,7 +19000,7 @@
 		<entry key="Guest_Thought_ToiletCritical_Natural_Child_01" translation="Devo fare la pipì!"/>
 		<entry key="Guest_Thought_ToiletCritical_Natural_Child_02" translation="Devo pisciare!!"/>
 		<entry key="Guest_Thought_ToiletCritical_Natural_Child_03" translation="Ho bisogno di un bagno... subito!"/>
-		<entry key="Guest_Thought_ToiletCritical_Natural_Child_04" translation="é tempo di pipì!"/>
+		<entry key="Guest_Thought_ToiletCritical_Natural_Child_04" translation="E' tempo di pipì!"/>
 		<entry key="Guest_Thought_ToiletCritical_Natural_Common_01" translation="Ho bisogno del bagno"/>
 		<entry key="Guest_Thought_ToiletCritical_Natural_Teen_01" translation="Ho bisogno di usare il bagno"/>
 		<entry key="Guest_Thought_ToiletCritical_Natural_Teen_02" translation="Ho veramente bisogno di un bagno"/>
@@ -19024,16 +19024,16 @@
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_01" translation="Qualcuno sta vandalizzando le cose nel parco!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_02" translation="Qualcuno non è felice, stanno distruggendo le cose nel parco!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Adult_03" translation="Qualcuno ha bisogno di controllare il proprio carattere e di non sfogarsi sulla proprietà altrui!"/>
-		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Child_01" translation="Sono spaventato, quella persone sta colpendo le cose!"/>
+		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Child_01" translation="Sono spaventato, quella persona sta colpendo le cose!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Child_02" translation="Perchè questa persona sta rompendo le cose?"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Common_01" translation="Qualcuno sta rompendo le cose nel parco!"/>
 		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Teen_01" translation="Non posso credere che stiano rompendo le cose!"/>
-		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Teen_02" translation="That's not cool, someone's breaking things!"/>
+		<entry key="Guest_Thought_Vandalism_ReactToCurrentVandalism_Teen_02" translation="Non è bello, qualcuno sta rompendo le cose!"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_01" translation="Molto meglio, mi sento meno arrabbiato dopo averlo rotto!"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_02" translation="Romperlo mi ha fatto sentire un pò meglio, per ora...."/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_03" translation="Romperlo mi ha fatto calmare!"/>
-		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="It's pretty run down around here"/>
-		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_02" translation="C'è un sacco di vandalismo qui"/>
+		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="E' piuttosto trascurato qui attorno."/>
+		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_02" translation="C'è un sacco di vandalismo qui."/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_03" translation="Non possono sistemare le cose vandalizzate?"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_01" translation="Perchè è tutto rotto?"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_02" translation="Non sembra carino qui."/>
@@ -19071,7 +19071,7 @@
 		<entry key="Guest_Thought_VisitedRide_Neutral_Teen_03" translation="Hmm, {reference} un'attrazione nella media"/>
 		<entry key="Guest_Thought_VisitedRide_Teen_01" translation="Grande attrazione! - {reference}"/>
 		<entry key="Guest_Thought_VisitedRide_Teen_02" translation="{reference} è la migliore attrazione!"/>
-		<entry key="Guest_Thought_VisitedRide_Teen_03" translation="Uao! {reference}!"/>
+		<entry key="Guest_Thought_VisitedRide_Teen_03" translation="Wow! {reference}!"/>
 		<entry key="Guest_Thought_VisitedRide_Teen_04" translation="Non riesco a smettere di pensare a {reference}!"/>
 		<entry key="Guest_Thought_Vomited_Adult_01" translation="Oops! Ciao ciao, colazione!"/>
 		<entry key="Guest_Thought_Vomited_Adult_02" translation="Ho vomitato le mie stesse budella"/>
