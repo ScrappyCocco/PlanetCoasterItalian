@@ -4898,7 +4898,7 @@
 		<entry key="BuildingPartName_PC_IMG_Screen_Wide_4m" translation="Schermo TV 4m"/>
 		<entry key="BuildingPartName_Steel_Vengance_Sign" translation="Insegna Ufficiale di Steel Vengeance"/>
 		<entry key="BuildingPartName_WS_Band_Bar" translation="Stand Vagone - Bar"/>
-		<entry key="BuildingPartName_WS_Band_Piano" translation="Stand Vagone - Piano"/>
+		<entry key="BuildingPartName_WS_Band_Piano" translation="Stand Vagone - Pianoforte"/>
 		<entry key="BuildingPartName_WS_Band_Stage" translation="Stand Vagone - Vuoto"/>
 		<!--C3_Tags-->
 		<entry key="Browser_SubCat_Props_Screens" translation="Schermi"/>
@@ -12057,14 +12057,14 @@
 		<entry key="HUD_CurrentMonth" translation="Mese Corrente"/>
 		<entry key="HUD_FamilyGroupMemberCount" translation="Famiglie"/>
 		<entry key="HUD_HelpPopup_BlueprintPlacement_Title" translation="Controlli posizionamento progetti"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Usa Handles"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Usa Regolatori Blu a Schermo"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_02" translation="Costruisci pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Elimina pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Seleziona pezzo di tracciato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per posizionare il prossimo pezzo di tracciato."/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} sull'elemento posizionato"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} su Pezzo Posizionato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Montagna Russa"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Gli Inneschi sulle Montagne Russe permettono di attivare oggetti animati ed effetti speciali quando una vettura raggiunge uno specifico punto della pista."/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
@@ -12106,7 +12106,7 @@
 		<entry key="HUD_HelpPopup_Paths_Command_14" translation="Riduci Larghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_15" translation="Aumenta Larghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_16" translation="Attiva Appiattisci Terreno"/>
-		<entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella di continuo"/>
+		<entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella Continuo"/>
 		<entry key="HUD_HelpPopup_Paths_Description" translation="Posiziona i sentieri per permettere ai visitatori di andare in giro. I sentieri collegano l'entrata del parco alle attrazioni e ai negozi in tutto il parco."/>
 		<entry key="HUD_HelpPopup_Paths_Title" translation="Controlli dei sentieri"/>
 		<entry key="HUD_HelpPopup_Ping" translation="Clicca qui per aiuto sui controlli"/>
@@ -13255,59 +13255,59 @@
 		<entry key="Ambience_Ambience" translation="Effetti Posizionabili "/>
 		<entry key="Ambience_Event_AMB_1950s_Diner" translation="Ristorante Anni '50"/>
 		<entry key="Ambience_Event_AMB_1950s_Street" translation="Strada Anni '50"/>
-		<entry key="Ambience_Event_AMB_1980s_Computer_Lab" translation="1980's Computer Lab"/>
+		<entry key="Ambience_Event_AMB_1980s_Computer_Lab" translation="Laboratorio Computer anni '80"/>
 		<entry key="Ambience_Event_AMB_80s_SynthLoop1" translation="Sequenza Synth anni '80"/>
-		<entry key="Ambience_Event_AMB_80s_SynthLoop2" translation="80s Synth Sequence 2"/>
-		<entry key="Ambience_Event_AMB_80s_SynthLoop3" translation="80s Synth Sequence 3"/>
+		<entry key="Ambience_Event_AMB_80s_SynthLoop2" translation="Sequenza Synth anni '80 - 2"/>
+		<entry key="Ambience_Event_AMB_80s_SynthLoop3" translation="Sequenza Synth anni '80 - 3"/>
 		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Ponte Portaerei"/>
 		<entry key="Ambience_Event_AMB_AlienForest" translation="Foresta Aliena"/>
-		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Backwards Voices"/>
+		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Voci da dietro"/>
 		<entry key="Ambience_Event_AMB_BewitchedForest" translation="Foresta Stregata"/>
 		<entry key="Ambience_Event_AMB_Blacksmith" translation="Forgia del fabbro"/>
 		<entry key="Ambience_Event_AMB_CanyonBattle" translation="Battaglia al Canyon"/>
-		<entry key="Ambience_Event_AMB_CarChase" translation="Car Chase"/>
+		<entry key="Ambience_Event_AMB_CarChase" translation="Inseguimento tra auto"/>
 		<entry key="Ambience_Event_AMB_Car_FlyWay" translation="Car Fly-way"/>
 		<entry key="Ambience_Event_AMB_CaveDrippy" translation="Grotta"/>
 		<entry key="Ambience_Event_AMB_CaveDrippyBats" translation="Grotta con Pipistrelli"/>
 		<entry key="Ambience_Event_AMB_CaveScary" translation="Grotta Spaventosa"/>
-		<entry key="Ambience_Event_AMB_ChimesOnTheWind" translation="Ghostly Wind Chimes"/>
+		<entry key="Ambience_Event_AMB_ChimesOnTheWind" translation="Campane a vento spettrali"/>
 		<entry key="Ambience_Event_AMB_CityTraffic" translation="Traffico della Città"/>
 		<entry key="Ambience_Event_AMB_Clock_Ticking" translation="Ticchettio dell'orologio"/>
 		<entry key="Ambience_Event_AMB_Crime_City" translation="Downtown (Reagisce al livello di crimine)"/>
-		<entry key="Ambience_Event_AMB_Crime_City_Docks" translation="il molo di Downtown "/>
-		<entry key="Ambience_Event_AMB_DescendingOrgan" translation="Forever Descending Organ"/>
+		<entry key="Ambience_Event_AMB_Crime_City_Docks" translation="Il molo di Downtown "/>
+		<entry key="Ambience_Event_AMB_DescendingOrgan" translation="Organo calante"/>
 		<entry key="Ambience_Event_AMB_DistantDragon" translation="Drago in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantFiddle" translation="Violino in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantHarmonica" translation="Armonica in Lontananza"/>
-		<entry key="Ambience_Event_AMB_DistantOrgan" translation="Distant Organ"/>
+		<entry key="Ambience_Event_AMB_DistantOrgan" translation="Organo in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantSpaceBattle" translation="Battaglia Spaziale in Lontananza"/>
-		<entry key="Ambience_Event_AMB_Door_Knocking" translation="Let Me Out of this Room"/>
+		<entry key="Ambience_Event_AMB_Door_Knocking" translation="Fammi uscire da questa stanza"/>
 		<entry key="Ambience_Event_AMB_DrChimpLab" translation="Il Laboratorio del Dr. Scimmia"/>
-		<entry key="Ambience_Event_AMB_Drips" translation="Slow Drips"/>
+		<entry key="Ambience_Event_AMB_Drips" translation="Gocciolio Lento"/>
 		<entry key="Ambience_Event_AMB_Dungeon" translation="Una Notte in Prigione"/>
 		<entry key="Ambience_Event_AMB_DwarfForge" translation="Fucina del Nano"/>
-		<entry key="Ambience_Event_AMB_Graveyard" translation="Graveyard"/>
+		<entry key="Ambience_Event_AMB_Graveyard" translation="Tomba"/>
 		<entry key="Ambience_Event_AMB_HauntedCastle" translation="Castello Infestato in una Notte Piovosa"/>
-		<entry key="Ambience_Event_AMB_HauntedDungeon" translation="Haunted Dungeon"/>
-		<entry key="Ambience_Event_AMB_HauntedPianoRecord" translation="Haunted Piano Record"/>
-		<entry key="Ambience_Event_AMB_HouseOfHorrors" translation="House of Horrors"/>
+		<entry key="Ambience_Event_AMB_HauntedDungeon" translation="Sotterraneo Infestato"/>
+		<entry key="Ambience_Event_AMB_HauntedPianoRecord" translation="Pianoforte Spettrale"/>
+		<entry key="Ambience_Event_AMB_HouseOfHorrors" translation="Casa degli Orrori"/>
 		<entry key="Ambience_Event_AMB_HowlingAbyss" translation="Lamento degli Abissi"/>
-		<entry key="Ambience_Event_AMB_KnockingOnTheCoffin" translation="Let Me Out of this Coffin"/>
+		<entry key="Ambience_Event_AMB_KnockingOnTheCoffin" translation="Fammi uscire da questa bara"/>
 		<entry key="Ambience_Event_AMB_Kraken" translation="Fossa del Kraken"/>
 		<entry key="Ambience_Event_AMB_LakeShore" translation="Riva del Lago"/>
 		<entry key="Ambience_Event_AMB_MagicalForestQuiet" translation="Foresta Magica"/>
 		<entry key="Ambience_Event_AMB_MedievalStreet" translation="Borgo Medievale"/>
 		<entry key="Ambience_Event_AMB_PeacefulForest" translation="Foresta Tranquilla"/>
-		<entry key="Ambience_Event_AMB_PianoScrapes1" translation="Atonal Piano"/>
-		<entry key="Ambience_Event_AMB_PianoScrapes2" translation="Atonal Piano 2"/>
+		<entry key="Ambience_Event_AMB_PianoScrapes1" translation="Pianoforte atonale"/>
+		<entry key="Ambience_Event_AMB_PianoScrapes2" translation="Pianoforte atonale 2"/>
 		<entry key="Ambience_Event_AMB_PirateHarbour" translation="Baia Pirata"/>
 		<entry key="Ambience_Event_AMB_PirateShipAtSea" translation="Nave al Largo"/>
 		<entry key="Ambience_Event_AMB_PirateSwordFight" translation="Duello Pirata"/>
 		<entry key="Ambience_Event_AMB_QuietRiver" translation="Fiume Tranquillo"/>
 		<entry key="Ambience_Event_AMB_RaceWay" translation="Pista"/>
 		<entry key="Ambience_Event_AMB_Raceway_Pits" translation="Buche della Pista"/>
-		<entry key="Ambience_Event_AMB_ReversedPiano" translation="Reversed Piano"/>
-		<entry key="Ambience_Event_AMB_Rise1" translation="Perpetual SciFi Rise"/>
+		<entry key="Ambience_Event_AMB_ReversedPiano" translation="Pianoforte al contrario"/>
+		<entry key="Ambience_Event_AMB_Rise1" translation="Ascesa Perpetua SciFi"/>
 		<entry key="Ambience_Event_AMB_Riviera_City" translation="Città Riviera"/>
 		<entry key="Ambience_Event_AMB_Riviera_Harbour" translation="Porto Riviera"/>
 		<entry key="Ambience_Event_AMB_Riviera_Town" translation="Paese Riviera"/>
@@ -13316,17 +13316,17 @@
 		<entry key="Ambience_Event_AMB_SeaShore" translation="Riva del Mare"/>
 		<entry key="Ambience_Event_AMB_SpaceStationDockingBay" translation="Attracco alla Stazione Spaziale"/>
 		<entry key="Ambience_Event_AMB_SpaceshipBridge" translation="Ponte della Navicella Spaziale"/>
-		<entry key="Ambience_Event_AMB_SpookyChanting" translation="Demonic Chanting"/>
-		<entry key="Ambience_Event_AMB_SpookyHeartbeat" translation="Spooky Heartbeat"/>
-		<entry key="Ambience_Event_AMB_StringCluster" translation="Creeping Strings"/>
+		<entry key="Ambience_Event_AMB_SpookyChanting" translation="Canti Demoniaci"/>
+		<entry key="Ambience_Event_AMB_SpookyHeartbeat" translation="Battito di cuore spaventoso"/>
+		<entry key="Ambience_Event_AMB_StringCluster" translation="Archi viscidi"/>
 		<entry key="Ambience_Event_AMB_TribalDrumming" translation="Gruppo Percussioni"/>
-		<entry key="Ambience_Event_AMB_Waterphone" translation="Eerie Waterphone"/>
-		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Saloon Western  (Inc. Piano)"/>
+		<entry key="Ambience_Event_AMB_Waterphone" translation="Waterphone Inquietante"/>
+		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Saloon Western  (Inc. Pianoforte)"/>
 		<entry key="Ambience_Event_AMB_Western_Town" translation="Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Duello al Villaggio Western"/>
-		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Whispering in the Darkness"/>
+		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Sussurrando nell'Oscurità"/>
 		<entry key="Music_Heading_Classic" translation="Classica"/>
-		<entry key="Music_Heading_Coaster" translation="Musica da Rollercoaster"/>
+		<entry key="Music_Heading_Coaster" translation="Musica da Montagna Russa"/>
 		<entry key="Music_Heading_Electronica" translation="Elettronica"/>
 		<entry key="Music_Heading_FairyTale" translation="Fantasy"/>
 		<entry key="Music_Heading_FlatRide" translation="Musica da Giostra"/>
@@ -13336,7 +13336,7 @@
 		<entry key="Music_Heading_SciFi" translation="Sci-Fi"/>
 		<entry key="Music_Heading_Seasonal" translation="Festiva Speciale"/>
 		<entry key="Music_Heading_Speaker" translation="Musica degli altoparlanti del Parco"/>
-		<entry key="Music_Heading_Spooky" translation="Spooky"/>
+		<entry key="Music_Heading_Spooky" translation="Spettrale"/>
 		<entry key="Music_Heading_UserMusic" translation="Musica dell'Utente"/>
 		<entry key="Music_Heading_Vanilla" translation="Vanilla"/>
 		<entry key="Music_Heading_Western" translation="Western"/>
@@ -13397,18 +13397,18 @@
 		<entry key="Music_Track_SciFiMood_Band1" translation="Quartetto lattina 1"/>
 		<entry key="Music_Track_SciFiMood_Band2" translation="Quartetto lattina 2"/>
 		<entry key="Music_Track_SciFiMood_Band3" translation="Quartetto lattina 3"/>
-		<entry key="Music_Track_SciFiMood_Dark" translation="Pianeta Epoch - Dark Ride"/>
+		<entry key="Music_Track_SciFiMood_Dark" translation="Pianeta Epoch - Percorso al Buio"/>
 		<entry key="Music_Track_SciFiMood_DarkCoasterApproaches" translation="Il Lato Oscuro della Forza G"/>
 		<entry key="Music_Track_SciFiMood_PeoplesOfTheSand" translation="Popolo della Sabbia"/>
 		<entry key="Music_Track_SciFiMood_TheCosmicBalance" translation="L'Equilibrio Cosmico"/>
 		<entry key="Music_Track_Sizzer" translation="Amicizia Marcia in più"/>
-		<entry key="Music_Track_Spooky1" translation="Planet Spooky"/>
-		<entry key="Music_Track_Spooky2" translation="The Old Haunt"/>
-		<entry key="Music_Track_SpookyCarnival" translation="Spooky Carnival"/>
-		<entry key="Music_Track_SpookyWaltz" translation="Spooky Waltz"/>
-		<entry key="Music_Track_Spooky_DarkMagic" translation="Dark Magic"/>
-		<entry key="Music_Track_Spooky_DarkRide" translation="Spooky Dark Ride"/>
-		<entry key="Music_Track_Spooky_Monsters" translation="Spooky Monsters"/>
+		<entry key="Music_Track_Spooky1" translation="Pianeta Spettrale"/>
+		<entry key="Music_Track_Spooky2" translation="Il vecchio Covo"/>
+		<entry key="Music_Track_SpookyCarnival" translation="Carnevale Spettrale"/>
+		<entry key="Music_Track_SpookyWaltz" translation="Waltzer Spettrale"/>
+		<entry key="Music_Track_Spooky_DarkMagic" translation="Magia Oscura"/>
+		<entry key="Music_Track_Spooky_DarkRide" translation="Percorso al Buio Spettrale"/>
+		<entry key="Music_Track_Spooky_Monsters" translation="Mostri Spettrali"/>
 		<entry key="Music_Track_SunDial" translation="Orchestra Elementale Parte IV"/>
 		<entry key="Music_Track_TAW" translation="Guai in Vista"/>
 		<entry key="Music_Track_TFW" translation="La Ballata di Tentifu"/>
@@ -13419,9 +13419,9 @@
 		<entry key="Music_Track_VanillaMood_PCHomage" translation="Benvenuti al Planet Coaster"/>
 		<entry key="Music_Track_VanillaMood_WonderfulPlanet" translation="Il Meraviglioso Planet Coaster"/>
 		<entry key="Music_Track_WesternMood_Campfire" translation="C'era una Volta un Bivacco"/>
-		<entry key="Music_Track_WesternMood_Piano1" translation="Piano Western 1"/>
-		<entry key="Music_Track_WesternMood_Piano2" translation="Piano Western 2"/>
-		<entry key="Music_Track_WesternMood_Piano3" translation="Piano Western 3"/>
+		<entry key="Music_Track_WesternMood_Piano1" translation="Pianoforte Western 1"/>
+		<entry key="Music_Track_WesternMood_Piano2" translation="Pianoforte Western 2"/>
+		<entry key="Music_Track_WesternMood_Piano3" translation="Pianoforte Western 3"/>
 		<entry key="Music_Track_WesternMood_ThroughTheDesert" translation="Spaghetti Rollercoaster"/>
 		<entry key="Music_Track_WesternMood_Townsville" translation="Per un Pugno di Visitatori"/>
 		<entry key="Music_Track_WildBlue" translation="La Cavalcata delle Valchirie"/>
@@ -13510,7 +13510,7 @@
 		<entry key="NewsletterSignup_FreeHat" translation="Iscriviti e ottieni un cappello gratuitamente!"/>
 		<entry key="NewsletterSignup_Language" translation="Lingua"/>
 		<entry key="NewsletterSignup_LastName" translation="Cognome (obbligatorio)"/>
-		<entry key="NewsletterSignup_Name" translation="Nick (obbligatorio)"/>
+		<entry key="NewsletterSignup_Name" translation="Soprannome (obbligatorio)"/>
 		<entry key="NewsletterSignup_OK" translation="OK"/>
 		<entry key="NewsletterSignup_Submit" translation="Iscrivimi!"/>
 		<entry key="NewsletterSignup_Success" translation="Controlla il creatore dell'avatar per il tuo cappello regalo."/>
@@ -13745,10 +13745,10 @@
 		<entry key="ObjectBrowser_Scenery_PickGridToolTip" translation="Clicca sul pezzo di una costruzione esistente per settare l'altezza e la grandezza della griglia."/>
 		<entry key="ObjectBrowser_Scenery_PickPrompt" translation="Selezione un oggetto di una costruzione per utilizzare le sue impostazioni della griglia."/>
 		<entry key="ObjectBrowser_Scenery_RotationSnapSize" translation="Angoli Fissi"/>
-		<entry key="ObjectBrowser_Scenery_SnapPointUp" translation="Position Snap Rotation"/>
-		<entry key="ObjectBrowser_Scenery_SnapPointUp_Hint" translation="Rotate object to align to rotation of object being position snapped to."/>
-		<entry key="ObjectBrowser_Scenery_ToggleSnap" translation="Position Snap"/>
-		<entry key="ObjectBrowser_Scenery_ToggleSnap_Hint" translation="Snap placement position to existing scenery and building snap points."/>
+		<entry key="ObjectBrowser_Scenery_SnapPointUp" translation=" Rotazione fissa della Posizione"/>
+		<entry key="ObjectBrowser_Scenery_SnapPointUp_Hint" translation="Ruota l'oggetto per allinearlo alla rotazione dell'oggetto agganciato."/>
+		<entry key="ObjectBrowser_Scenery_ToggleSnap" translation="Aggancia Posizione"/>
+		<entry key="ObjectBrowser_Scenery_ToggleSnap_Hint" translation="Aggancia la posizione a punti fissi dello scenario e degli edifici esistenti."/>
 		<entry key="ObjectBrowser_Settings" translation="Impostazioni"/>
 		<entry key="ObjectBrowser_SortBy" translation="Ordina Per"/>
 		<entry key="ObjectBrowser_SortBy_Name" translation="Nome"/>
@@ -13758,7 +13758,7 @@
 		<entry key="ObjectBrowser_TestStat" translation="Dimensioni griglia"/>
 		<entry key="ObjectBrowser_TestTitle" translation="Un oggetto amorevole"/>
 		<entry key="ObjectBrowser_TestValue" translation="Dimensione attuale"/>
-		<entry key="ObjectBrowser_Thrill" translation="Giostre Paurose"/>
+		<entry key="ObjectBrowser_Thrill" translation="Attrazioni Eccitanti"/>
 		<entry key="ObjectBrowser_Tooltip_Filter" translation="Limita visualizzazione a un gruppo specifico di oggetti."/>
 		<entry key="ObjectBrowser_Tooltip_Items" translation="{ITEM_NAME}\n{COST}"/>
 		<entry key="ObjectBrowser_Tooltip_Items_Advanced" translation="{ITEM_NAME}&#10;{COST}&#10;{TYPE}"/>
@@ -13779,7 +13779,7 @@
 		<entry key="ObjectBrowser_Track_MaxTrackHeight" translation="Altezza massima del tracciato"/>
 		<entry key="ObjectBrowser_Transport" translation="Trasporti"/>
 		<entry key="ObjectBrowser_Type" translation="Tipologia"/>
-		<entry key="ObjectBrowser_Water" translation="Giostre d'acqua"/>
+		<entry key="ObjectBrowser_Water" translation="Attrazioni Acquatiche"/>
 		<!--OptionsMenu-->
 		<entry key="OptionsMenu_Audio" translation="Audio"/>
 		<entry key="OptionsMenu_Audio_Mute" translation="Silenzia"/>
@@ -13847,63 +13847,63 @@
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_04" translation="Telecamera di sicurezza - Successiva"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_05" translation="Attiva/Disattiva sovrimpressione telecamera di sicurezza"/>
 		<entry key="OptionsMenu_Controls_Coaster_Edit" translation="Modalità Modifica Coaster"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Use handles"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Delete Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Select Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Cancel/Close"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Toggle Angle Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Toggle Flatten Terrain On/Off"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] on Placed Piece"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera" translation="Controller based camera"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_01" translation="Camera Left"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_02" translation="Camera Right"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_03" translation="Camera Fowards"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_04" translation="Camera Backwards"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_05" translation="Raise Camera Up"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_06" translation="Lower Camera Down"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_07" translation="Rotate Left"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_08" translation="Rotate Right"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_09" translation="Look Up"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_10" translation="Look Down"/>
-		<entry key="OptionsMenu_Controls_GameCamera_Down" translation="Pan Camera Down (Freelook only)"/>
-		<entry key="OptionsMenu_Controls_GameCamera_Up" translation="Pan Camera Up (Freelook only)"/>
-		<entry key="OptionsMenu_Controls_General" translation="General Shortcuts"/>
-		<entry key="OptionsMenu_Controls_General_Command_01" translation="Controls Help (Show/Hide)"/>
-		<entry key="OptionsMenu_Controls_General_Command_02a" translation="Pan Camera Forwards"/>
-		<entry key="OptionsMenu_Controls_General_Command_02b" translation="Pan Camera Backwards"/>
-		<entry key="OptionsMenu_Controls_General_Command_02c" translation="Pan Camera Left"/>
-		<entry key="OptionsMenu_Controls_General_Command_02d" translation="Pan Camera Right"/>
-		<entry key="OptionsMenu_Controls_General_Command_03a" translation="Rotate Camera Left"/>
-		<entry key="OptionsMenu_Controls_General_Command_03b" translation="Rotate Camera Right"/>
-		<entry key="OptionsMenu_Controls_General_Command_04a" translation="Zoom Camera In"/>
-		<entry key="OptionsMenu_Controls_General_Command_04b" translation="Zoom Camera Out"/>
-		<entry key="OptionsMenu_Controls_General_Command_05" translation="Toggle Freelook Camera On/Off"/>
-		<entry key="OptionsMenu_Controls_General_Command_06" translation="Increase Freelook Camera Speed"/>
-		<entry key="OptionsMenu_Controls_General_Command_07" translation="Cancel Placement, Close Browser, Deselect Object, Open Options Menu"/>
-		<entry key="OptionsMenu_Controls_General_Command_08" translation="Delete Selected Object"/>
-		<entry key="OptionsMenu_Controls_General_Command_09" translation="Change Simulation Speed"/>
-		<entry key="OptionsMenu_Controls_General_Command_10" translation="Pause Simulation"/>
-		<entry key="OptionsMenu_Controls_General_Command_11" translation="Undo"/>
-		<entry key="OptionsMenu_Controls_General_Command_12" translation="Redo"/>
-		<entry key="OptionsMenu_Controls_General_Command_13" translation="Duplicate Object/Building"/>
-		<entry key="OptionsMenu_Controls_General_Command_13b" translation="Duplicate and Advanced Move/Rotate"/>
-		<entry key="OptionsMenu_Controls_General_Command_14" translation="Move Selection"/>
-		<entry key="OptionsMenu_Controls_General_Command_15" translation="Edit Building"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Usa Regolatori Blu a Schermo"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Costruisci Pezzo di Tracciato"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Cancella Pezzo di Tracciato"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Seleziona Pezzo di Tracciato"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Annulla/Chiudi"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Attiva/Disattiva Angoli Fissi"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Attiva/Disattiva Appiattisci Terreno"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] sul pezzo posizionato"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera" translation="Controlli Visuale"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_01" translation="Visuale a Sinistra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_02" translation="Visuale a Destra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_03" translation="Visuale Avanti"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_04" translation="Visuale Dietro"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_05" translation="Alza Visuale"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_06" translation="Abbassa Visuale"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_07" translation="Ruota a Sinistra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_08" translation="Ruota a Destra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_09" translation="Guarda Su"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_10" translation="Guarda Giù"/>
+		<entry key="OptionsMenu_Controls_GameCamera_Down" translation="Scorri Visuale in Giù (solo Visuale Libera)"/>
+		<entry key="OptionsMenu_Controls_GameCamera_Up" translation="Scorri Visuale in Su (solo Visuale Libera)"/>
+		<entry key="OptionsMenu_Controls_General" translation="Scorciatoie Generali"/>
+		<entry key="OptionsMenu_Controls_General_Command_01" translation="Aiuto Controlli (Mostra/Nascondi)"/>
+		<entry key="OptionsMenu_Controls_General_Command_02a" translation="Scorri Visuale Avanti"/>
+		<entry key="OptionsMenu_Controls_General_Command_02b" translation="Scorri Visuale Indietro"/>
+		<entry key="OptionsMenu_Controls_General_Command_02c" translation="Scorri Visuale a Sinistra"/>
+		<entry key="OptionsMenu_Controls_General_Command_02d" translation="Scorri Visuale a Destra"/>
+		<entry key="OptionsMenu_Controls_General_Command_03a" translation="Ruota Visuale a Sinistra"/>
+		<entry key="OptionsMenu_Controls_General_Command_03b" translation="Ruota Visuale a Destra"/>
+		<entry key="OptionsMenu_Controls_General_Command_04a" translation="Zoom Visuale Dentro"/>
+		<entry key="OptionsMenu_Controls_General_Command_04b" translation="Zoom Visuale Fuori"/>
+		<entry key="OptionsMenu_Controls_General_Command_05" translation="Attiva/Disattiva Visuale Libera"/>
+		<entry key="OptionsMenu_Controls_General_Command_06" translation="Aumenta Velocità Visuale Libera"/>
+		<entry key="OptionsMenu_Controls_General_Command_07" translation="Annulla Posizionamento, Chiudi Visualizzatore, Deseleziona Oggetto, Apri Menù Opzioni"/>
+		<entry key="OptionsMenu_Controls_General_Command_08" translation="Cancella Oggetto Selezionato"/>
+		<entry key="OptionsMenu_Controls_General_Command_09" translation="Cambia Velocità Simulazione"/>
+		<entry key="OptionsMenu_Controls_General_Command_10" translation="Pausa Simulazione"/>
+		<entry key="OptionsMenu_Controls_General_Command_11" translation="Annulla"/>
+		<entry key="OptionsMenu_Controls_General_Command_12" translation="Rifai"/>
+		<entry key="OptionsMenu_Controls_General_Command_13" translation="Duplica Oggetto/Edificio"/>
+		<entry key="OptionsMenu_Controls_General_Command_13b" translation="Duplica e Sposta/Ruota Avanzato"/>
+		<entry key="OptionsMenu_Controls_General_Command_14" translation="Sposta Selezione"/>
+		<entry key="OptionsMenu_Controls_General_Command_15" translation="Modifica Edificio"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickLoad" translation="Apri Menu Caricamento"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickSave" translation="Apri Menu Salvataggio"/>
-		<entry key="OptionsMenu_Controls_Menu" translation="Menu Shortcuts"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Blueprints" translation="Open My Blueprints"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Building" translation="Open Building"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Coasters" translation="Open Coasters"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_MultiSelect" translation="Open Multi-Select"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_ParkManagement" translation="Open Park Management"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Paths" translation="Open Paths"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Rides" translation="Open Rides"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Scenery" translation="Open Scenery"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Shops" translation="Open Shops and Facilities"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Terrain" translation="Open Terrain"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Open Track Rides"/>
+		<entry key="OptionsMenu_Controls_Menu" translation="Scorciatoie Menù"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Blueprints" translation="Apri i miei Progetti"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Building" translation="Apri Edifici"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Coasters" translation="Apri Montagne Russe"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_MultiSelect" translation="Apri Selezione Multipla"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_ParkManagement" translation="Apri Gestione Parco"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Paths" translation="Apri Sentieri"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Rides" translation="Apri Attrazioni"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Scenery" translation="Apri Scenari"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Shops" translation="Apri Negozi e Strutture"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Terrain" translation="Apri Terreno"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Apri Attrazioni a Circuito"/>
 		<entry key="OptionsMenu_Controls_Mouse" translation="Controlli Mouse"/>
 		<entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Muovi Cursore"/>
 		<entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Attiva Pulsante\nSeleziona Oggetto"/>
@@ -13928,41 +13928,41 @@
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Alza/Abbassa Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Alza/Abbassa Sentiero (Senza Posizionarlo)"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Ruota Angolo di giunzione"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Acute Angle Join"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Giunto ad Angolo Acuto"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Modifica Altezza"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Resetta Altezza"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Disabilita collegamento tra sentieri"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Lunghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Larghezza Sentiero"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Increase Path Length"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Decrease Path Width"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Increase Path Width"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Flatten Terrain"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Continuous Delete"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} on Path preview, then [MouseMoveV]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} on Junction preview, then [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, when path preview joins to a path."/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} during Path placement"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="{#LogicalButton.Editors_PathDeleteModifier#} hold while over path."/>
-		<entry key="OptionsMenu_Controls_Rebind_Button" translation="Rebind"/>
-		<entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Key Rebind In Progress"/>
-		<entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Press and release the buttons you wish to bind.&#10;Reverting in {Value:int} seconds..."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Aumenta Lunghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Diminuisci Larghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Aumenta Larghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Appiattisci Terreno"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Cancella Continuo"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} sull'anteprima Sentiero, quindi [MouseMoveV]"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} sull'anteprima Giunzione, quindi [MouseMove]"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, quando l'anteprima Sentiero raggiunge un Sentiero."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} durante il posizionamento del Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="Tieni premuto {#LogicalButton.Editors_PathDeleteModifier#} mentre ti trovi su un Sentiero."/>
+		<entry key="OptionsMenu_Controls_Rebind_Button" translation="Riassegna"/>
+		<entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Riassegnazione Tasti in esecuzione "/>
+		<entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Premi e rilascia i pulsanti che desideri assegnare.&#10;Annullamento tra {Value:int} secondi..."/>
 		<entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Resetta ai controlli di defaults"/>
-		<entry key="OptionsMenu_Controls_Rebind_Value" translation="Rebind to axis"/>
-		<entry key="OptionsMenu_Controls_ShowHideGUI" translation="Show / Hide User Interface"/>
+		<entry key="OptionsMenu_Controls_Rebind_Value" translation="Riassegna agli assi"/>
+		<entry key="OptionsMenu_Controls_ShowHideGUI" translation="Mostra / Nascondi Interfaccia Utente"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit" translation="Modifica Terreno"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Applica Pennello"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Applica Pennello Inverso (Push/Pull Brushes)"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Applica Pennello Inverso (Pennelli a Spinta/a Trazione)"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Intensità Pennello"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Dimensione Pennello"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Decrease Brush Size"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Increase Brush Size"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Diminuisci Dimensione Pennello"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Aumenta Dimensione Pennello"/>
 		<entry key="OptionsMenu_Controls_Text" translation="{ControlText}"/>
-		<entry key="OptionsMenu_Controls_Unbind_Button" translation="Reset"/>
-		<entry key="OptionsMenu_Controls_Unbind_Value" translation="Reset"/>
-		<entry key="OptionsMenu_Controls_ValueRebind_InProgress" translation="Axis Rebind In Progress"/>
-		<entry key="OptionsMenu_Controls_ValueRebind_InProgress_Label" translation="Press the thumbstick or trigger in the direction you wish to bind.&#10;Reverting in {Value:int} seconds..."/>
+		<entry key="OptionsMenu_Controls_Unbind_Button" translation="Resetta"/>
+		<entry key="OptionsMenu_Controls_Unbind_Value" translation="Resetta"/>
+		<entry key="OptionsMenu_Controls_ValueRebind_InProgress" translation="Riassegnazione Tasti in esecuzione"/>
+		<entry key="OptionsMenu_Controls_ValueRebind_InProgress_Label" translation="Premi il tasto levetta o il grilletto nella direzione che desideri assegnare.&#10;Annullamento tra {Value:int} secondi..."/>
 		<entry key="OptionsMenu_DisableHints" translation="Disabilita Consigli"/>
 		<entry key="OptionsMenu_EnableNewsFeed" translation="Mostra notizie all'avvio del gioco."/>
 		<entry key="OptionsMenu_Exit" translation="Torna al Menu Principale"/>
@@ -13988,14 +13988,14 @@
 		<entry key="OptionsMenu_HidePlayerName" translation="Nascondi Nome Giocatore"/>
 		<entry key="OptionsMenu_Interface" translation="Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceAutoScale" translation="Dimensione Automatica Interfaccia"/>
-		<entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Disable interface auto scale to manually specify scale percentage."/>
-		<entry key="OptionsMenu_InterfaceDistanceFeet" translation="Feet (ft)"/>
+		<entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Disabilita Dimensione Automatica Interfaccia per specificare manualmente la percentuale di scala."/>
+		<entry key="OptionsMenu_InterfaceDistanceFeet" translation="Piedi (ft)"/>
 		<entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Chilometri (km)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMetres" translation="Metri (m)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMiles" translation="Miglia (mi)"/>
 		<entry key="OptionsMenu_InterfaceDistanceUnit" translation="Unità di Misura Distanza"/>
 		<entry key="OptionsMenu_InterfaceDistanceUnitTooltip" translation="Mostra le distanze nel gioco con questa unità"/>
-		<entry key="OptionsMenu_InterfaceDistanceYards" translation="Yards (yd)"/>
+		<entry key="OptionsMenu_InterfaceDistanceYards" translation="Yarde (yd)"/>
 		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Dimensione Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceScale_Tooltip" translation="Ingrandire oltre il 100% è raccomandato solo per l'uso con schermi ad alta risoluzione (1440p / 4K). Potrebbe causare problemi di visibilità dell'interfaccia a risoluzioni più basse."/>
 		<entry key="OptionsMenu_InterfaceSpeedFS" translation="Piedi al secondo (ft/s)"/>
@@ -14006,7 +14006,7 @@
 		<entry key="OptionsMenu_InterfaceSpeedUnitTooltip" translation="Mostra le velocità nel gioco con questa unità"/>
 		<entry key="OptionsMenu_InterfaceUnitsLabel" translation="Unità"/>
 		<entry key="OptionsMenu_Keybindings" translation="Controlli tastiera"/>
-		<entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Autosave {Count:int})"/>
+		<entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Salvataggio Automatico {Count:int})"/>
 		<entry key="OptionsMenu_LoadMenu_AutosaveNumber" translation="Salvataggio Automatico {Count:int}"/>
 		<entry key="OptionsMenu_LoadMenu_LoadDate" translation="{TimeString} - {DateString}"/>
 		<entry key="OptionsMenu_LoadMenu_SaveName" translation="{Name}"/>
@@ -14269,7 +14269,7 @@
 		<entry key="Powered_TheMunsters_Desc" translation="Guests race against each other in Munster Koach and DRAG-U-LA styled go-karts."/>
 		<!--PDLC_Spooky_Coasters-->
 		<entry key="Coaster_DarkTower" translation="In-Descent"/>
-		<entry key="Coaster_DarkTower_Desc" translation="Shuttle roller coaster that launches the train backwards out of the station and up a vertical incline. As it comes to a stop it gives the riders a weightless moment before coming back down the drop and back into the station."/>
+		<entry key="Coaster_DarkTower_Desc" translation="Shuttle roller coaster that launches the train backwards out of the Stazione and up a vertical incline. As it comes to a stop it gives the riders a weightless moment before coming back down the drop and back into the Stazione."/>
 		<entry key="Coaster_Type_DarkTower" translation="Reverse Freefall Coaster"/>
 		<entry key="Coaster_Type_Hoax" translation="Ghost Train"/>
 		<entry key="Coaster_Type_Huntsman" translation="Tracked Motion Platform"/>
@@ -14279,10 +14279,10 @@
 		<entry key="Powered_Huntsman_Desc" translation="Electrically powered motion platforms move along a track, from which the platform's rotation angles can be set in three dimensions."/>
 		<entry key="Research_Hint_Coaster_InDescent" translation="Summit and Plummet."/>
 		<entry key="Research_Revealed_Coaster_InDescent" translation="In-Descent"/>
-		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_mono_dir_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_mono_dir_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Stazione with left entry and right exit"/>
+		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Stazione with right entry and left exit"/>
+		<entry key="Station_Type_station_mono_dir_RightRight" translation="Stazione with right entry and right exit"/>
+		<entry key="Station_Type_station_mono_dir_leftleft" translation="Stazione with left entry and left exit"/>
 		<entry key="TrackEditParam_CabinPitch" translation="Car Pitch Angle"/>
 		<entry key="TrackEditParam_CabinPitchSet" translation="Control Pitch"/>
 		<entry key="TrackEditParam_CabinRoll" translation="Car Roll Angle"/>
@@ -17030,8 +17030,8 @@
 		<entry key="BuildingPartName_SP_CT_Merge_ArchHalf" translation="Crypt Arch Half"/>
 		<entry key="BuildingPartName_SP_CT_Merge_CryptWall_4m" translation="Crypt Wall 4m Detailed"/>
 		<entry key="BuildingPartName_SP_CT_Merge_ShopFront" translation="Crypt Shop Front"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_01" translation="Crypt Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_02" translation="Crypt Wall 2m Station Surround 2"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_01" translation="Crypt Wall 4m Stazione Surround 1"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_02" translation="Crypt Wall 2m Stazione Surround 2"/>
 		<entry key="BuildingPartName_SP_CT_Merge_Wall_1m" translation="Crypt Wall 1m"/>
 		<entry key="BuildingPartName_SP_CT_Merge_Wall_2m" translation="Crypt Wall 2m"/>
 		<entry key="BuildingPartName_SP_CT_Merge_Wall_4m" translation="Crypt Wall 4m Base"/>
@@ -17154,8 +17154,8 @@
 		<entry key="BuildingPartName_SP_HH_Merge_Arch" translation="Haunted House Arch"/>
 		<entry key="BuildingPartName_SP_HH_Merge_ArchHalf" translation="Haunted House Arch Half"/>
 		<entry key="BuildingPartName_SP_HH_Merge_ShopFront" translation="Haunted House Shop Front"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_01" translation="Haunted House Wall 4m Station Surround 1"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_02" translation="Haunted House Wall 2m Station Surround 2"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_01" translation="Haunted House Wall 4m Stazione Surround 1"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_02" translation="Haunted House Wall 2m Stazione Surround 2"/>
 		<entry key="BuildingPartName_SP_HH_Merge_Wall_1m" translation="Haunted House Wall 1m"/>
 		<entry key="BuildingPartName_SP_HH_Merge_Wall_2m" translation="Haunted House Wall 2m"/>
 		<entry key="BuildingPartName_SP_HH_Merge_Wall_4m" translation="Haunted House Wall 4m"/>
@@ -18175,10 +18175,10 @@
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Teen_01" translation="Ho finito i soldi per {reference}"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Teen_02" translation="Ho speso talmente tanto che non posso salire su {reference}!"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Teen_03" translation="Oh cavolo! Non ho abbastanza soldi per {reference}"/>
-		<entry key="Guest_Thought_Assessment_FireworksHighIntensity_Common_01" translation="Those fireworks were really impressive."/>
-		<entry key="Guest_Thought_Assessment_FireworksLong_Common_01" translation="I like long firework displays, and this one did not disappoint!"/>
-		<entry key="Guest_Thought_Assessment_FireworksLowIntensity_Common_01" translation="Those fireworks weren't very impressive."/>
-		<entry key="Guest_Thought_Assessment_FireworksShort_Common_01" translation="This firework display could have lasted longer."/>
+		<entry key="Guest_Thought_Assessment_FireworksHighIntensity_Common_01" translation="Quei fuochi d'artificio sono stati davvero fantastici."/>
+		<entry key="Guest_Thought_Assessment_FireworksLong_Common_01" translation="Adoro i fuochi d'artificio che durano a lungo, e non sono stato deluso!"/>
+		<entry key="Guest_Thought_Assessment_FireworksLowIntensity_Common_01" translation="I fuochi d'artificio non sono stati così impressionanti."/>
+		<entry key="Guest_Thought_Assessment_FireworksShort_Common_01" translation="Vorrei che i fuochi d'artificio fossero durati più a lungo."/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Adult_01" translation="{reference} sembra davvero fico!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Adult_02" translation="{reference} sembra stupefacente!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Adult_03" translation="Mi piace l'aspetto di {reference}!"/>
@@ -18379,10 +18379,10 @@
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Child_02" translation="Che prezzi alti che ha {reference}"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Child_03" translation="Niente da {reference} vale il suo prezzo!"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Common_01" translation="Tutto da {reference} è troppo costoso per me"/>
-		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_01" translation="Non comprerò niente da {reference} for those prices"/>
+		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_01" translation="Non comprerò niente da {reference} a quei prezzi"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_02" translation="Non esiste che mi faccio spennare da {reference}"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_03" translation="{reference} è così costoso!"/>
-		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_01" translation="There's nothing to use {reference} for"/>
+		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_01" translation="Non vale la pena usare {reference} "/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_02" translation="Non c'è ragione di prendere{reference} per andare da qualche parte"/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_03" translation="Perchè ho buttato i miei soldi per {reference}? Non va da nessuna parte!"/>
 		<entry key="Guest_Thought_Assessment_Transport_Good_Common_01" translation="Potrei raggiungere facilmente le attrazzioni pi belle se prendo {reference}"/>
@@ -18703,7 +18703,7 @@
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_03" translation="Questo posto è fantastico, voglio comprare un souvenir"/>
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_04" translation="Mi sto divertendo, voglio comprare un regalo per i miei amici subito"/>
 		<entry key="Guest_Thought_Luxury_WontBuy_Common_01" translation="Voglio fare qualcosa di divertente, non voglio andare a fare compere al {reference} adesso"/>
-		<entry key="Guest_Thought_Luxury_WontBuy_Common_02" translation="I don't feel like spending money at {reference} right now"/>
+		<entry key="Guest_Thought_Luxury_WontBuy_Common_02" translation="Non mi sento di spendere i miei soldi adesso al {reference} "/>
 		<entry key="Guest_Thought_Luxury_WontBuy_Common_03" translation="Adesso non voglio comprare un souvenir - {reference}"/>
 		<entry key="Guest_Thought_Luxury_WontBuy_Common_04" translation="Non mi sto divertendo abbastanza per volere qualsiasi cosa da {reference}"/>
 		<entry key="Guest_Thought_Mascot_Common_01" translation="{reference} è il migliore!"/>
@@ -18782,14 +18782,14 @@
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Adult_03" translation="Il biglietto famiglia è un terribile affare!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_01" translation="Il biglietto famiglia sembra davvero costoso"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_02" translation="Wow! Il Biglietto famiglia non è economico!"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_03" translation="Il biglietto famiglai ha un prezzo davvero alto!"/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Child_03" translation="Il biglietto famiglia ha un prezzo davvero alto!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Common_01" translation="Non pagherò così tanto per un normale biglietto famiglia"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Teen_01" translation="Non pagherò assolutamente così tanto per un normale biglietto famiglia"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Teen_02" translation="Guardo quanto è sovraprezzo il biglietto famiglia!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Family_Teen_03" translation="Non posso credere che questo sia il costo del biglietto famiglia"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_01" translation="This park isn't even worth entering to steal from, what a joke!"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_02" translation="There's no good money to be made here for that Standard Ticket price"/>
-		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_03" translation="That Standard Ticket price is outrageous. Why are any of my targets paying for it?"/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_01" translation="Non vale la pena entrare in questo parco, nemmeno per rubare. Che beffa!"/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_02" translation="Non ci sono abbastanza soldi da fare qui per il prezzo del biglietto Standard."/>
+		<entry key="Guest_Thought_ParkEntry_TooExpensive_Pickpocket_Common_03" translation="Il prezzo del biglietto standard è un oltraggio. Perchè c'è qualcuno che lo paga?"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Teen_01" translation="Non pagherò assolutamente così tanto per un biglietto"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Teen_02" translation="Oh, Il biglietto costa davvero troppo!"/>
 		<entry key="Guest_Thought_ParkEntry_TooExpensive_Teen_03" translation="Non posso credere che un biglietto normale costi così tanto"/>
@@ -18803,7 +18803,7 @@
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_01" translation="Oh cavolo, non ho abbastanza soldi per comprare i biglietti!"/>
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_02" translation="I biglietti sono... fuori dalla mia portata..."/>
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_03" translation="Non posso permettermi di entrare nel parco!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjected_Common_01" translation="I'm never going back to that park again! They ejected me but I'm innocent! I'm going to spread the word about this injustice!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjected_Common_01" translation="Non tornerò mai più in quel parco! Mi hanno espulso ma sono innocente! Diffonderò la notizia di questa ingiustizia!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_01" translation="Se non dovessi tornare a casa, starei qui per sempre!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_02" translation="Tutte le belle cose finiscono, anche questa giornata al parco divertimenti."/>
 		<entry key="Guest_Thought_ParkExit_Happy_Child_01" translation="Questo parco è davvero figo! Sicuramente ci tornerò!"/>
@@ -18820,18 +18820,18 @@
 		<entry key="Guest_Thought_ParkExit_Neutral_Teen_02" translation="Questo parco è un 6 su 10, meglio andare a casa ora."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketEjected_Common_01" translation="La sicurezza al parco era alta, ho borseggiato e sono stato preso."/>
 		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_01" translation="Ho avuto una brutta esperienza, un borseggiatore mi ha rubato i soldi e non è stato preso! Qui la Sicurezza è uno scherzo!"/>
-		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_02" translation="I'm never coming back here again, someone managed to steal from me and get away with it. Where's the security?!"/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_01" translation="This visit wasn't a good experience, they need to increase security here, they caught the pickpocket that stole from me but only after they'd managed to spend most of my money!"/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Time to go home. Security at this park certainly could do with improvement, the pickpocket who stole from me got away with spending most of my money before he was caught."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="Security here is average, a pickpocket managed to steal from me and spend a reasonable amount of it before being caught. Maybe I'll come back, maybe not."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_02" translation="Looking back, at least they caught the pickpocket, it would have been good if they could have caught them before a reasonable amount of my money had been spent. Hope they improve security if I do come back here again."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="Security here is good, they caught the pickpocket who stole from me before they could spend much of my money. I'd come back here again."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_02" translation="I'm glad security managed to catch that pickpocket before they managed to spend much of my money, security here is of a good level, I'd come back."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_01" translation="Security at this park is great, even though I was pick-pocketed they managed to catch them and reclaim the whole amount taken from me!"/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_02" translation="Can't fault security during my time here, they caught the pickpocket who stole from me and returned all of my money!"/>
-		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_01" translation="I’ve stolen enough for now, time to leave and enjoy the proceeds of crime."/>
-		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_02" translation="That’s enough pick pocketing for now, I’m off to enjoy my takings."/>
-		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_03" translation="My pockets are loaded, I’ve picked enough of other people’s for now. Time to leave."/>
+		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_02" translation="Non tornerò mai più. Qualcuno mi ha derubato ed è riuscito a scappare. Dov'è la sicurezza?!"/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_01" translation="Questa visita non è stata una bella esperienza. Devono migliorare la sicurezza. Hanno preso il borseggiatore che mi aveva derubato, ma solo dopo che aveva speso molti miei soldi!"/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Tempo di andare a casa. La Sicurezza di questo parco, sicuramente può migliorare. Il borseggiatore che mi ha derubato, è andato via ed ha speso molti miei soldi prima che fosse catturato."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="La Sicurezza qui è mediocre. Un borseggiatore mi ha derubato ed è riuscito a spendere molti miei soldi prima che fosse catturato. Forse tornerò, forse no."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_02" translation="Ripensandoci, almeno hanno preso il borseggiatore. Sarebbe stato meglio se l'avessero preso prima che spendesse quasi tutti i miei soldi. Spero migliorino la sicurezza, così tornerò ancora."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="La Sicurezza qui è buona. Hanno preso il borseggiare prima che potesse spendere molti miei soldi. Tornerò ancora."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_02" translation="Sono felice che la sicurezza abbia preso il borseggiatore prima che potesse spendere molti miei soldi. La Sicurezza è di buon livello qui. Tornerò."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_01" translation="La Sicurezza nel Parco è fantastica, anche quando mi hanno borseggiato, hanno subito catturato il ladro e restituito tutti miei averi!"/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_02" translation="Non posso prendermela con la Sicurezza. Hanno catturato il borseggiatore e mi hanno restituito tutti i miei soldi!"/>
+		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_01" translation="Ho rubato abbastanza per oggi. E' tempo di andare via e godersi i proventi del crimine."/>
+		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_02" translation="Ho borseggiato abbastanza per oggi. Andrò via per godere di quello che ho preso."/>
+		<entry key="Guest_Thought_ParkExit_SuccessfulPickpocketing_Common_03" translation="Le mie tasche sono piene. Ho preso abbastanza dalle tasche altrui, per oggi. E' tempo di andare."/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Adult_01" translation="Questo parco è stato uno completo spreco di tempo, me ne vado!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Adult_02" translation="Non mi sono per niente divertito oggi,me ne torno a casa!"/>
 		<entry key="Guest_Thought_ParkExit_Unhappy_Child_01" translation="Che giornata terribile!, andiamocene!"/>
@@ -18893,38 +18893,38 @@
 		<entry key="Guest_Thought_Security_GuardChase_Common_01" translation="Quella guardia deve star inseguendo qualcuno!"/>
 		<entry key="Guest_Thought_Security_GuardChase_Common_02" translation="C'è un inseguimento in corso!"/>
 		<entry key="Guest_Thought_Security_GuardChase_Common_03" translation="Wow quella guardia sta volando!"/>
-		<entry key="Guest_Thought_Security_GuardChase_Common_04" translation="They're in a hurry!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_01" translation="Outrageous! I've been asked to leave the park but I haven't done anything wrong! I'm going to the newspapers about this!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_02" translation="I'm innocent! Why have I been asked to leave? This isn't the last they've heard of this!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_03" translation="How dare they ask me to leave when I've done nothing wrong. They'll pay for this!"/>
-		<entry key="Guest_Thought_Security_GuestEjected_Common_04" translation="I cannot believe they've asked me to leave, I've never broken the law in my life! This isn't the end...!"/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_01" translation="Oh no, I've been caught by security!"/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_02" translation="I've been busted by security."/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_03" translation="Game over, security have caught me."/>
-		<entry key="Guest_Thought_Security_PickpocketEjected_Common_04" translation="Caught by security, maybe it’s time to change my ways."/>
-		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_01" translation="Security evaded, I live to steal another day."/>
-		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_02" translation="I’m too fast for these security guards."/>
-		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_03" translation="These security guards are slow."/>
-		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_01" translation="Security has spotted me, run!"/>
-		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_02" translation="I’ve been spotted by security, run!"/>
-		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_01" translation="I’m going to pick your pocket."/>
-		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_02" translation="There's my next pickpocket victim."/>
-		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_03" translation="Aha! You look like you might have a good amount to steal."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_01" translation="Security caught the pickpocket! Shame they couldn't recover more of what was stolen from me."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_02" translation="At least they caught the pickpocket who stole from me, shame they've not been able to return more of what was taken."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_01" translation="I'm glad the pickpocket who stole from me has been caught and at least some of my money has been returned"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_02" translation="That's good news, security caught the pickpocket who stole from me and managed to recover a reasonable amount of my money."/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_01" translation="That's great, security managed to recover most of my stolen money!"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_02" translation="Almost all of the money that pickpocket stole has been returned to me, I'm very thankful to the security team here!"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_01" translation="Fantastic! They've caught the pickpocket and returned all of my stolen money to me, security here is great!"/>
-		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_02" translation="Amazing! All of the money that pickpocket stole has been returned to me! Thank you park security!"/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_01" translation="Consider your pocket picked."/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_02" translation="Picked from your pocket, into mine."/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_03" translation="Another pocket successfully picked."/>
-		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_04" translation="What's yours is mine, courtesy of pickpocketing."/>
-		<entry key="Guest_Thought_Security_VandalEjected_Common_01" translation="I've been asked to leave because I vandalised!"/>
-		<entry key="Guest_Thought_Security_VandalEjected_Common_02" translation="I shouldn't have lost my temper and vandalised, now I'm being ejected from the park!"/>
-		<entry key="Guest_Thought_Security_VandalEjected_Common_03" translation="Why did I vandalise? Now I'm being ejected!"/>
+		<entry key="Guest_Thought_Security_GuardChase_Common_04" translation="Vanno di fretta!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_01" translation="Che oltraggio! Mi hanno chiesto di lasciare il parco, ma non ho fatto nulla di male! Lo dirò alla stampa!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_02" translation="Sono innocente! Perchè mi hanno chiesto di andare via? Sentiranno ancora il mio nome!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_03" translation="Come si permettono di chiedermi di andare via, quando non ho fatto nulla si sbagliato. La pagheranno!"/>
+		<entry key="Guest_Thought_Security_GuestEjected_Common_04" translation="Non posso credere che mi abbiano chiesto di andare via. Non ho mai infranto la legge in vita mia! Non finisce qui...!"/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_01" translation="Oh no, sono stato catturato dalla Sicurezza!"/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_02" translation="Sono stato preso dalla Sicurezza."/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_03" translation="Game over, la sicurezza mi ha beccato."/>
+		<entry key="Guest_Thought_Security_PickpocketEjected_Common_04" translation="Preso dalla sicurezza, forse è tempo di riflettere sulla mia vita."/>
+		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_01" translation="Sicurezza Superata. Vivrò un altro giorno per rubare."/>
+		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_02" translation="Sono troppo veloce per queste Guardie di Sicurezza."/>
+		<entry key="Guest_Thought_Security_PickpocketEscapeChase_Common_03" translation="Queste Guardie di Sicurezza sono lente."/>
+		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_01" translation="La Sicurezza mi ha trovato, corro!"/>
+		<entry key="Guest_Thought_Security_PickpocketSpotted_Common_02" translation="Sono stato trovato dalla sicurezza, corro!"/>
+		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_01" translation="Sto per rubare il tuo portafoglio."/>
+		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_02" translation="Ecco la mia prossima vittima di borseggio."/>
+		<entry key="Guest_Thought_Security_ReadyToPickpocket_Common_03" translation="Aha! Sembri qualcuno che ha un bel pò di roba da rubare."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_01" translation="La Sicurezza ha preso il borseggiatore! Che peccato che non abbiano trovato altro di quello che mi è stato rubato."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashLittle_Common_02" translation="Almeno hanno preso il borseggiare che mi ha derubato. Peccato che non abbiano potuto restiuirmi qualcosa in più dei miei averi."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_01" translation="Sono felice che il borseggiatore che mi ha derubato sia stato preso, ed almeno un pò dei miei soldi mi siano stati restituiti."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMid_Common_02" translation="Che bella notizia, la Sicurezza ha preso il borseggiatore che mi ha derubato, e sono riusciti a ritrovare una buona parte dei miei soldi."/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_01" translation="Grandioso, la Sicurezza è riuscita a ritrovare gran parte dei miei soldi rubati!"/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCashMost_Common_02" translation="Quasi tutti i soldi che il borseggiatore mi ha rubato, mi sono stati restituiti. Sono davvero grato al team della Sicurezza!"/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_01" translation="Fantastico! Hanno preso il borseggiatore e mi hanno restituito tutti i soldi rubati. La Sicurezza qui è grandiosa!"/>
+		<entry key="Guest_Thought_Security_RecoveredStolenCash_Common_02" translation="Stupendo! Ho avuto indietro tutti i soldi che mi sono stati rubati! Grazie Sicurezza!"/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_01" translation="Considera il tuo portafoglio, prelevato."/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_02" translation="Dalla tua tasca, dritto nella mia."/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_03" translation="Un altro portafoglio borseggiato con successo."/>
+		<entry key="Guest_Thought_Security_SuccessfulPickpocket_Common_04" translation="Quello che è tuo, è mio. Educazione al borseggio."/>
+		<entry key="Guest_Thought_Security_VandalEjected_Common_01" translation="Mi è stato chiesto di andare via per aver commesso atti vandalici!"/>
+		<entry key="Guest_Thought_Security_VandalEjected_Common_02" translation="Non avrei dovuto perdere la calma e vandalizzare, perchè ora sarò espulso dal parco!"/>
+		<entry key="Guest_Thought_Security_VandalEjected_Common_03" translation="Perchè vandalizzo? Ora sarò espulso!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_01" translation="Evvai! Ho un palloncino!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_02" translation="Amo i palloncini!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_03" translation="Che fighi i palloncini!"/>
@@ -18963,7 +18963,7 @@
 		<entry key="Guest_Thought_ShopItem_NeedSatisfied_Thirst_Teen_03" translation="Mi sento pieno di energie e rinfrescato."/>
 		<entry key="Guest_Thought_ShopQueueFull_Adult_01" translation="è incredibile che {reference} sia così impegnato"/>
 		<entry key="Guest_Thought_ShopQueueFull_Adult_02" translation="tornerò dopo, quando {reference} sarà meno impesembra troppo lunga ora"/>
-		<entry key="Guest_Thought_ShopQueueFull_Adult_03" translation="The line for {reference} looks too big right now"/>
+		<entry key="Guest_Thought_ShopQueueFull_Adult_03" translation="La fila per {reference} sembra enorme adesso"/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_01" translation="Aw! {reference} è troppo impegnata"/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_02" translation="Non ci mettiamo in fila?? Ma io voglio qualcosa da {reference}! "/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_03" translation="Non c'è spazio in fila per {reference}"/>
@@ -19032,8 +19032,8 @@
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_01" translation="Molto meglio, mi sento meno arrabbiato dopo averlo rotto!"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_02" translation="Romperlo mi ha fatto sentire un pò meglio, per ora...."/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObject_Common_03" translation="Romperlo mi ha fatto calmare!"/>
-		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="E' piuttosto trascurato qui attorno."/>
-		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_02" translation="C'è un sacco di vandalismo qui."/>
+		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_01" translation="E' piuttosto malridotto da queste parti"/>
+		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_02" translation="C'è un sacco di vandalismo qui"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Adult_03" translation="Non possono sistemare le cose vandalizzate?"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_01" translation="Perchè è tutto rotto?"/>
 		<entry key="Guest_Thought_Vandalism_VandalisedObjectsNearby_Child_02" translation="Non sembra carino qui."/>
@@ -19062,7 +19062,7 @@
 		<entry key="Guest_Thought_VisitedRide_Neutral_Adult_01" translation="Penso che {reference} sia ok"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Adult_02" translation="{reference} è ok, niente di speciale"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Adult_03" translation="{reference} va bene ma non è la mia attrazione preferita"/>
-		<entry key="Guest_Thought_VisitedRide_Neutral_Child_01" translation="Meh, I thought {reference} was so-so"/>
+		<entry key="Guest_Thought_VisitedRide_Neutral_Child_01" translation="Meh, Penso che {reference} era così-così"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Child_02" translation="{reference} poteva essere migliore, ma anche peggiore!"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Child_03" translation="Preferisco altre attrazioni a {reference}"/>
 		<entry key="Guest_Thought_VisitedRide_Neutral_Common_01" translation="{reference} è un attrazione nella media"/>
@@ -19165,95 +19165,95 @@
 		<entry key="Staff_Thought_Workload_VeryLow_Common_04" translation="Potrei anche smetterla, se non dovessi avere più lavoro da fare"/>
 		<entry key="Staff_Thought_Workload_VeryLow_Common_05" translation="Posso fare molto meglio di così"/>
 		<!--TrackEdit-->
-		<entry key="TK_023_Tunnel01_0" translation="Unlit"/>
-		<entry key="TK_023_Tunnel01_1" translation="Forwards"/>
-		<entry key="TK_023_Tunnel01_2" translation="Reverse"/>
-		<entry key="TK_023_Tunnel01_3" translation="Spiral"/>
-		<entry key="TK_023_Tunnel01_4" translation="Reverse Spiral"/>
-		<entry key="TrackEditParam_BankPivotRange" translation="Banking Offset"/>
-		<entry key="TrackEditParam_BankingRangeDegrees" translation="Banking Range Degrees"/>
-		<entry key="TrackEditParam_BlockBrakeMinSpeed" translation="Brake Target Speed"/>
-		<entry key="TrackEditParam_BlockSectionMaxSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_BoosterAcceleration" translation="Acceleration Rate"/>
-		<entry key="TrackEditParam_BoosterDirection" translation="Booster Direction"/>
-		<entry key="TrackEditParam_BoosterMaxSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_BrakeDeceleration" translation="Deceleration Rate"/>
-		<entry key="TrackEditParam_BrakeDirection" translation="Brake Direction"/>
-		<entry key="TrackEditParam_BrakeMinSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_CabinAngle" translation="Cabin Rotation Angle"/>
-		<entry key="TrackEditParam_CabinAngleSet" translation="Seat rotation"/>
-		<entry key="TrackEditParam_CatchOnReturnProportion" translation="Catch Car Return Position"/>
-		<entry key="TrackEditParam_ChainLiftDropLocation" translation="Chain Lift Drop Location"/>
-		<entry key="TrackEditParam_ChainLiftSpeed" translation="Chain Speed"/>
-		<entry key="TrackEditParam_CurveRangeDegrees" translation="Curve Range Degrees"/>
-		<entry key="TrackEditParam_DropSupports" translation="Coaster Supports"/>
-		<entry key="TrackEditParam_DualDirectionBoostSpeed" translation="Boost Target Speed"/>
-		<entry key="TrackEditParam_DualDirectionBrakeLap" translation="Passes Remaining Before Braking"/>
-		<entry key="TrackEditParam_DualDirectionBrakeSpeed" translation="Brake Target Speed"/>
-		<entry key="TrackEditParam_ForwardsLaunchAcceleration" translation="Reverse Launch Acceleration"/>
-		<entry key="TrackEditParam_ForwardsLaunchSpeed" translation="Reverse Launch Speed"/>
-		<entry key="TrackEditParam_FrictionWheelLiftSpeed" translation="Wheel Lift Speed"/>
-		<entry key="TrackEditParam_HoldingSectionMaxTime" translation="Maximum Hold Delay"/>
-		<entry key="TrackEditParam_HoldingSectionMinTime" translation="Minimum Hold Delay"/>
-		<entry key="TrackEditParam_HoldingSectionReleaseAcceleration" translation="Release Acceleration"/>
-		<entry key="TrackEditParam_HoldingSectionReleaseSpeed" translation="Release Speed"/>
-		<entry key="TrackEditParam_HoldingSectionStopLocation" translation="Stop Distance"/>
-		<entry key="TrackEditParam_HydraulicLaunchAcceleration" translation="Acceleration"/>
-		<entry key="TrackEditParam_HydraulicLaunchDelay" translation="Launch Delay"/>
-		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Catch Car Return Speed"/>
-		<entry key="TrackEditParam_LengthRangeMetres" translation="Length Range Metres"/>
-		<entry key="TrackEditParam_OptionalCatwalk" translation="Optional Catwalk"/>
-		<entry key="TrackEditParam_OptionalRailing" translation="Optional Railing"/>
-		<entry key="TrackEditParam_ReverseLaunchAcceleration" translation="Forwards Boost Acceleration"/>
-		<entry key="TrackEditParam_ReverseLaunchOverride" translation="Reverse Launch Direction"/>
-		<entry key="TrackEditParam_ReverseLaunchSpeed" translation="Forwards Boost Speed"/>
-		<entry key="TrackEditParam_ScaleRange" translation="Scale Range"/>
-		<entry key="TrackEditParam_SlopeRangeDegrees" translation="Slope Range Degrees"/>
-		<entry key="TrackEditParam_SplitCatchCarOffset" translation="Split Catch Car Offset"/>
-		<entry key="TrackEditParam_StationEntranceSide" translation="Station Entrance Side"/>
-		<entry key="TrackEditParam_StationEntrySpeed" translation="Entry Speed"/>
-		<entry key="TrackEditParam_StationExitSide" translation="Station Exit Side"/>
-		<entry key="TrackEditParam_StationExitSpeed" translation="Exit Speed"/>
-		<entry key="TrackEditParam_StationStopLocation" translation="Train Stop Location"/>
-		<entry key="TrackEditParam_TrackMeshIndex" translation="Track Type"/>
-		<entry key="TrackEditParam_TrackMeshIndex_Tunnel" translation="Tunnel Lights"/>
-		<entry key="TrackEditParam_TunnelRadius" translation="Tunnel Radius"/>
-		<entry key="TrackEditParam_WaitToReturnDelay" translation="Release Delay"/>
+		<entry key="TK_023_Tunnel01_0" translation="Spegni"/>
+		<entry key="TK_023_Tunnel01_1" translation="Avanti"/>
+		<entry key="TK_023_Tunnel01_2" translation="Inverso"/>
+		<entry key="TK_023_Tunnel01_3" translation="Spirale"/>
+		<entry key="TK_023_Tunnel01_4" translation="Spirale Inversa"/>
+		<entry key="TrackEditParam_BankPivotRange" translation="Bilanciamento Accumulo"/>
+		<entry key="TrackEditParam_BankingRangeDegrees" translation="Raggio Accumulo"/>
+		<entry key="TrackEditParam_BlockBrakeMinSpeed" translation="Velocità di Frenatura"/>
+		<entry key="TrackEditParam_BlockSectionMaxSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_BoosterAcceleration" translation="Velocità di Accelerazione"/>
+		<entry key="TrackEditParam_BoosterDirection" translation="Direzione Booster"/>
+		<entry key="TrackEditParam_BoosterMaxSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_BrakeDeceleration" translation="Velocità di Decelerazione"/>
+		<entry key="TrackEditParam_BrakeDirection" translation="Direzione Freni"/>
+		<entry key="TrackEditParam_BrakeMinSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_CabinAngle" translation="Angolo Rotazione Cabina"/>
+		<entry key="TrackEditParam_CabinAngleSet" translation="Rotazione Sedili"/>
+		<entry key="TrackEditParam_CatchOnReturnProportion" translation="Posizione di Aggancio Vagoni"/>
+		<entry key="TrackEditParam_ChainLiftDropLocation" translation="Posizione di Sgancio della Catena"/>
+		<entry key="TrackEditParam_ChainLiftSpeed" translation="Velocità della Catena"/>
+		<entry key="TrackEditParam_CurveRangeDegrees" translation="Raggio di Curvatura"/>
+		<entry key="TrackEditParam_DropSupports" translation="Supporti del Coaster"/>
+		<entry key="TrackEditParam_DualDirectionBoostSpeed" translation="Velocità di Arrivo della Spinta"/>
+		<entry key="TrackEditParam_DualDirectionBrakeLap" translation="Passaggi Rimanenti Prima della Frenata"/>
+		<entry key="TrackEditParam_DualDirectionBrakeSpeed" translation="Velocità di Frenatura"/>
+		<entry key="TrackEditParam_ForwardsLaunchAcceleration" translation="Accelerazione Lancio Inverso"/>
+		<entry key="TrackEditParam_ForwardsLaunchSpeed" translation="Velocità Lancio Inverso"/>
+		<entry key="TrackEditParam_FrictionWheelLiftSpeed" translation="Velocità Sollevamento Ruota"/>
+		<entry key="TrackEditParam_HoldingSectionMaxTime" translation="Ritardo Massimo di Attesa"/>
+		<entry key="TrackEditParam_HoldingSectionMinTime" translation="Ritardo Minimo di Attesa"/>
+		<entry key="TrackEditParam_HoldingSectionReleaseAcceleration" translation="Accelerazione di Rilascio"/>
+		<entry key="TrackEditParam_HoldingSectionReleaseSpeed" translation="Velocità di Rilascio"/>
+		<entry key="TrackEditParam_HoldingSectionStopLocation" translation="Distanza di Fermata"/>
+		<entry key="TrackEditParam_HydraulicLaunchAcceleration" translation="Accelerazione"/>
+		<entry key="TrackEditParam_HydraulicLaunchDelay" translation="Ritardo del Lancio"/>
+		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Velocità di Arrivo"/>
+		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Velocità di Aggancio Vagoni"/>
+		<entry key="TrackEditParam_LengthRangeMetres" translation="Metri di Lunghezza"/>
+		<entry key="TrackEditParam_OptionalCatwalk" translation="Passerella Opzionale"/>
+		<entry key="TrackEditParam_OptionalRailing" translation="Ringhiere Opzionali"/>
+		<entry key="TrackEditParam_ReverseLaunchAcceleration" translation="Accelerazione in Avanti"/>
+		<entry key="TrackEditParam_ReverseLaunchOverride" translation="Direzione Lancio Inversa"/>
+		<entry key="TrackEditParam_ReverseLaunchSpeed" translation="Velocità in Avanti"/>
+		<entry key="TrackEditParam_ScaleRange" translation="Scala"/>
+		<entry key="TrackEditParam_SlopeRangeDegrees" translation="Raggio di Inclinazione"/>
+		<entry key="TrackEditParam_SplitCatchCarOffset" translation="Divisione Aggancio Vagoni"/>
+		<entry key="TrackEditParam_StationEntranceSide" translation="Lato Entrata Stazione"/>
+		<entry key="TrackEditParam_StationEntrySpeed" translation="Velocità di Ingresso"/>
+		<entry key="TrackEditParam_StationExitSide" translation="Lato Uscita Stazione"/>
+		<entry key="TrackEditParam_StationExitSpeed" translation="Velocità di Uscita"/>
+		<entry key="TrackEditParam_StationStopLocation" translation="Posizione Fermata Treno"/>
+		<entry key="TrackEditParam_TrackMeshIndex" translation="Tipo Tracciato"/>
+		<entry key="TrackEditParam_TrackMeshIndex_Tunnel" translation="Luci del Tunnel"/>
+		<entry key="TrackEditParam_TunnelRadius" translation="Raggio del Tunnel"/>
+		<entry key="TrackEditParam_WaitToReturnDelay" translation="Ritardo di Rilascio"/>
 		<entry key="TrackEdit_AngleSnap" translation="Angoli fissi"/>
-		<entry key="TrackEdit_AttachCamera" translation="Attach Camera"/>
-		<entry key="TrackEdit_AutoCompleteToolTip" translation="Auto Complete current design"/>
-		<entry key="TrackEdit_AutoTunnel" translation="Auto Tunnel"/>
-		<entry key="TrackEdit_Banking" translation="Banking"/>
+		<entry key="TrackEdit_AttachCamera" translation="Attacca Camera"/>
+		<entry key="TrackEdit_AutoCompleteToolTip" translation="Auto Completa design corrente"/>
+		<entry key="TrackEdit_AutoTunnel" translation="Tunnel Auto"/>
+		<entry key="TrackEdit_Banking" translation="Accumulo"/>
 		<entry key="TrackEdit_Banking_AngleIndicator" translation="{Value:float:decimalPlaces=2}º"/>
-		<entry key="TrackEdit_Build" translation="Build"/>
+		<entry key="TrackEdit_Build" translation="Costruisci"/>
 		<entry key="TrackEdit_Delete" translation="Elimina"/>
-		<entry key="TrackEdit_Elevation" translation="Elevation"/>
-		<entry key="TrackEdit_HeightMarkers" translation="Height Markers"/>
+		<entry key="TrackEdit_Elevation" translation="Elevazione"/>
+		<entry key="TrackEdit_HeightMarkers" translation="Segnali Altezza"/>
 		<entry key="TrackEdit_HeightMarkers_Off" translation="Off"/>
-		<entry key="TrackEdit_HeightMarkers_SeaLevel" translation="Sea Level"/>
-		<entry key="TrackEdit_HeightMarkers_TerrainRelative" translation="Terrain Relative"/>
-		<entry key="TrackEdit_KeepCurve" translation="Keep Curve"/>
-		<entry key="TrackEdit_Length" translation="Length"/>
-		<entry key="TrackEdit_NextSelectionToolTip" translation="Move selection to next piece"/>
-		<entry key="TrackEdit_PieceSelection" translation="Piece selection"/>
-		<entry key="TrackEdit_PreviousSelectionToolTip" translation="Move selection to previous piece"/>
+		<entry key="TrackEdit_HeightMarkers_SeaLevel" translation="Livello del Mare"/>
+		<entry key="TrackEdit_HeightMarkers_TerrainRelative" translation="Livello del Terreno"/>
+		<entry key="TrackEdit_KeepCurve" translation="Tieni Curva"/>
+		<entry key="TrackEdit_Length" translation="Lunghezza"/>
+		<entry key="TrackEdit_NextSelectionToolTip" translation="Sposta selezione al pezzo successivo"/>
+		<entry key="TrackEdit_PieceSelection" translation="Selezione Pezzo"/>
+		<entry key="TrackEdit_PreviousSelectionToolTip" translation="Sposta selezione al pezzo precedente"/>
 		<entry key="TrackEdit_Redo" translation="Redo"/>
-		<entry key="TrackEdit_RemoveTrains" translation="Remove Trains"/>
-		<entry key="TrackEdit_RollOffset" translation="Bank Pivot Height"/>
-		<entry key="TrackEdit_Scale" translation="Scale"/>
-		<entry key="TrackEdit_Smooth" translation="Smooth"/>
-		<entry key="TrackEdit_Title" translation="Track Options"/>
-		<entry key="TrackEdit_TrackRelativeHandles" translation="Track Relative Controls"/>
-		<entry key="TrackEdit_Turn" translation="Turn"/>
-		<entry key="TrackEdit_Undo" translation="Undo"/>
+		<entry key="TrackEdit_RemoveTrains" translation="Rimuovi Treni"/>
+		<entry key="TrackEdit_RollOffset" translation="Altezza cardine di accumulo"/>
+		<entry key="TrackEdit_Scale" translation="Scala"/>
+		<entry key="TrackEdit_Smooth" translation="Liscio"/>
+		<entry key="TrackEdit_Title" translation="Opzioni Tracciato"/>
+		<entry key="TrackEdit_TrackRelativeHandles" translation="Monitorare Controlli Tracciato"/>
+		<entry key="TrackEdit_Turn" translation="Gira"/>
+		<entry key="TrackEdit_Undo" translation="Annulla"/>
 		<!--TrackElements-->
 		<entry key="TrackElementDesc_BarghestChainLiftBot" translation="Chain Lift Start Description"/>
 		<entry key="TrackElementDesc_BarghestChainLiftMid" translation="Chain Lift Mid-Section Description"/>
 		<entry key="TrackElementDesc_BarghestChainLiftTop01" translation="Overhanging Chain Lift End Description"/>
 		<entry key="TrackElementDesc_BarghestChainLiftTop02" translation="Rounded Chain Lift End Description"/>
-		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Barrel Roll Left Description"/>
-		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Barrel Roll Right Description"/>
+		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Tonneau Left Description"/>
+		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Tonneau Right Description"/>
 		<entry key="TrackElementDesc_BlockSection" translation="Slows trains down to a stop, propelling them out when the next section of track is clear. Requires block sectioning to be enabled in the coaster's settings."/>
 		<entry key="TrackElementDesc_Booster" translation="Pushes trains along slowly. Useful for moving the train into another utility."/>
 		<entry key="TrackElementDesc_Brakes" translation="Slows trains down."/>
@@ -19458,14 +19458,14 @@
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterBottom" translation="Can only be placed directly after a Chain Lift Hill Base."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterMid" translation="Can only be placed directly after a Chain Lift Hill Base or Mid-Section."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStart" translation="Can only be placed directly after a Horizontal Chain Pull."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the station."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the Stazione."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseBottom" translation="Can only be placed directly behind a Reverse Cable Lift Hill Base."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseMid" translation="Can only be placed directly behind a Reverse Cable Lift Base or Mid-Section."/>
 		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseStart" translation="Can only be placed directly behind a Reverse Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the station or existing Reverse Horizontal Cable Pull sections."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the Stazione or existing Reverse Horizontal Cable Pull sections."/>
 		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStart" translation="Can only be placed after a chain lift start."/>
 		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStartOrMidSection" translation="Can only be placed after a chain lift start or chain lift mid-section."/>
-		<entry key="TrackElementDisabled_CanOnlyPlaceNextToStationOfSameType" translation="Can only be placed directly next to existing station of the same type."/>
+		<entry key="TrackElementDisabled_CanOnlyPlaceNextToStationOfSameType" translation="Can only be placed directly next to existing Stazione of the same type."/>
 		<entry key="TrackElementDisabled_CannotPlace" translation="Cannot place here."/>
 		<entry key="TrackElementDisabled_CannotPlaceOnBanked" translation="Can only be placed on unbanked track."/>
 		<entry key="TrackElementDisabled_CannotPlaceOnBankedOrSloped" translation="Can only be placed on flat and unbanked track."/>
@@ -19477,17 +19477,17 @@
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterBottom" translation="Can only be placed directly after a Cable Lift Tower Base."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterMid" translation="Can only be placed directly after a Cable Lift Mid-Section."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStart" translation="Can only be placed directly after a Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the station that's also not banked or sloped."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the Stazione that's also not banked or sloped."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseBottom" translation="Can only be placed directly above a Reverse Cable Lift Tower Base."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseMid" translation="Can only be placed directly above a Reverse Cable Lift Mid-Section."/>
 		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseStart" translation="Can only be placed directly behind a Reverse Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the station or existing Reverse Horizontal Cable Pull sections."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the Stazione or existing Reverse Horizontal Cable Pull sections."/>
 		<entry key="TrackElementName_BarghestChainLiftBot" translation="Chain Lift Start"/>
 		<entry key="TrackElementName_BarghestChainLiftMid" translation="Chain Lift Mid-Section"/>
 		<entry key="TrackElementName_BarghestChainLiftTop01" translation="Overhanging Chain Lift End"/>
 		<entry key="TrackElementName_BarghestChainLiftTop02" translation="Rounded Chain Lift End"/>
-		<entry key="TrackElementName_BarrelRollLeft" translation="OLD Barrel Roll Left"/>
-		<entry key="TrackElementName_BarrelRollRight" translation="OLD Barrel Roll Right"/>
+		<entry key="TrackElementName_BarrelRollLeft" translation="OLD Tonneau Left"/>
+		<entry key="TrackElementName_BarrelRollRight" translation="OLD Tonneau Right"/>
 		<entry key="TrackElementName_BlockSection" translation="Block Section"/>
 		<entry key="TrackElementName_Booster" translation="Drive Tyres"/>
 		<entry key="TrackElementName_Brakes" translation="Friction Brakes"/>
@@ -19544,15 +19544,15 @@
 		<entry key="TrackElementName_RiverRapidsWideStart" translation="Wide Section Start"/>
 		<entry key="TrackElementName_SpinningStart" translation="Unlock Car-Spin"/>
 		<entry key="TrackElementName_SpinningStop" translation="Lock and Centre Car-Spin"/>
-		<entry key="TrackElementName_Station" translation="Station"/>
-		<entry key="TrackElementName_StationLeftLeft" translation="Station"/>
-		<entry key="TrackElementName_StationLeftOff" translation="Station"/>
-		<entry key="TrackElementName_StationLeftOn" translation="Station"/>
-		<entry key="TrackElementName_StationLeftRight" translation="Station"/>
-		<entry key="TrackElementName_StationRightLeft" translation="Station"/>
-		<entry key="TrackElementName_StationRightOff" translation="Station"/>
-		<entry key="TrackElementName_StationRightOn" translation="Station"/>
-		<entry key="TrackElementName_StationRightRight" translation="Station"/>
+		<entry key="TrackElementName_Station" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftLeft" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftOff" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftOn" translation="Stazione"/>
+		<entry key="TrackElementName_StationLeftRight" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightLeft" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightOff" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightOn" translation="Stazione"/>
+		<entry key="TrackElementName_StationRightRight" translation="Stazione"/>
 		<entry key="TrackElementName_SteepslopeZeroGRollLeft" translation="OLD Steep Slope Zero-G Roll Left"/>
 		<entry key="TrackElementName_SteepslopeZeroGRollRight" translation="OLD Steep Slope Zero-G Roll Right"/>
 		<entry key="TrackElementName_TK_SP_BananaRollLeft" translation="Banana Roll Left"/>
@@ -19693,8 +19693,8 @@
 		<entry key="TrackElementTool_BarghestChainLiftMid" translation="Chain Lift Mid-Section"/>
 		<entry key="TrackElementTool_BarghestChainLiftTop01" translation="Overhanging Chain Lift End"/>
 		<entry key="TrackElementTool_BarghestChainLiftTop02" translation="Rounded Chain Lift End"/>
-		<entry key="TrackElementTool_BarrelRollLeft" translation="OLD Barrel Roll Left"/>
-		<entry key="TrackElementTool_BarrelRollRight" translation="OLD Barrel Roll Right"/>
+		<entry key="TrackElementTool_BarrelRollLeft" translation="OLD Tonneau Left"/>
+		<entry key="TrackElementTool_BarrelRollRight" translation="OLD Tonneau Right"/>
 		<entry key="TrackElementTool_BlockSection" translation="&lt;font color='accent'&gt;Block Section&lt;/font&gt;\nSlows trains down to a stop, propelling them out when the next section of track is clear."/>
 		<entry key="TrackElementTool_Booster" translation="&lt;font color='accent'&gt;Drive Tyres&lt;/font&gt;\nPushes trains along slowly."/>
 		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Friction Brakes&lt;/font&gt;\nSlows trains down."/>
@@ -19901,7 +19901,7 @@
 		<entry key="Train_Anubis" translation="Anubi"/>
 		<entry key="Train_BFalcon" translation="Falco Nero"/>
 		<entry key="Train_BLisk" translation="Basilisco"/>
-		<entry key="Train_BackToTheFuture" translation="Back To The Future"/>
+		<entry key="Train_BackToTheFuture" translation="Ritorno al Futuro"/>
 		<entry key="Train_Barghest" translation="Barghest"/>
 		<entry key="Train_Boa" translation="Boa"/>
 		<entry key="Train_Bsura" translation="Bakasura"/>
@@ -19920,7 +19920,7 @@
 		<entry key="Train_IronHorse" translation="Iron Horse"/>
 		<entry key="Train_KnightRider" translation="Knight Rider"/>
 		<entry key="Train_LTurns" translation="Curve Matte"/>
-		<entry key="Train_LunaAutos" translation="Luna's Automobili"/>
+		<entry key="Train_LunaAutos" translation="Automobili Luna"/>
 		<entry key="Train_MUC" translation="Malice Unchained"/>
 		<entry key="Train_MgcKatz" translation="Magic Katz"/>
 		<entry key="Train_Mnstr" translation="Bestia"/>
@@ -19933,7 +19933,7 @@
 		<entry key="Train_SPR" translation="Spirale"/>
 		<entry key="Train_SRay" translation="Stingray"/>
 		<entry key="Train_SilvStar" translation="Light Line"/>
-		<entry key="Train_SleighRide" translation="Sleigh Ride"/>
+		<entry key="Train_SleighRide" translation="Corsa in Slitta"/>
 		<entry key="Train_Sp500" translation="Sprint 500"/>
 		<entry key="Train_SuperDrift" translation="Super Drift"/>
 		<entry key="Train_TK_010_CableHookCar" translation="Track 10 Cable Lift Hook Car"/>
@@ -19947,69 +19947,69 @@
 		<entry key="Train_Wend" translation="Wendigo"/>
 		<entry key="Train_WendJnr" translation="Wendigo"/>
 		<!--TriggeredEvents-->
-		<entry key="Trigger_Heading_UserTriggers" translation="User triggers"/>
+		<entry key="Trigger_Heading_UserTriggers" translation="Inneschi utente"/>
 		<entry key="TriggeredAudioEvents_Event_Default_Triggered_Audio_Event" translation="Silenzio"/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_IAmTheVoice" translation="KITT VO 1: I am the voice..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_IbegYourPardon" translation="KITT VO 2: I beg your pardon..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_KITTsigningOff" translation="KITT VO 3: KITT signing off..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_MichaelAccident" translation="KITT VO 4: Michael, that was no accident."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_Powerbooster" translation="KITT VO 5: You seem to be repositioning my main power booster."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_PreprogramMe" translation="KITT VO 6: Yes, well. Don't you think you should pre-program me..."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_RightAwayMichael" translation="KITT VO 7: Right away, Michael."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_ThankYouSir" translation="KITT VO 8: Thank you, Sir."/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatIsItMichael" translation="KITT VO 9: What is it, Michael?"/>
-		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatShalliDo" translation="KITT VO 10: What shall I do..?."/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_321_Countdown" translation="Countdown: 3,2,1: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_54321_Countdown" translation="Countdown: 5,4,3,2,1: Go!"/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_IAmTheVoice" translation="KITT VO 1: Sono la voce..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_IbegYourPardon" translation="KITT VO 2: Chiedo scusa..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_KITTsigningOff" translation="KITT VO 3: KITT chiude la trasmissione..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_MichaelAccident" translation="KITT VO 4: Michael, non è stato un caso."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_Powerbooster" translation="KITT VO 5: Sembra che stai riposizionando il mio amplificatore di potenza."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_PreprogramMe" translation="KITT VO 6: Sì, bene. Non credi che dovresti pre-programmarmi..."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_RightAwayMichael" translation="KITT VO 7: Subito, Michael."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_ThankYouSir" translation="KITT VO 8: Grazie, Signore."/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatIsItMichael" translation="KITT VO 9: Cos'è, Michael?"/>
+		<entry key="TriggeredAudioEvents_Event_KITT_VO_WhatShalliDo" translation="KITT VO 10: Cosa devo fare..?."/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_321_Countdown" translation="Countdown: 3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_54321_Countdown" translation="Countdown: 5,4,3,2,1: Via!"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_01" translation="Allarme 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_02" translation="Allarme 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_03" translation="Allarme 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_01" translation="Sirena 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_02" translation="Sirena 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_03" translation="Sirena 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_04" translation="Siren 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_05" translation="Siren 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Bell_Ring" translation="Bell Ring"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_BoilingCauldron" translation="Bubbling Cauldron"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_CannonFire" translation="Cannon Fire"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_ChurchDoor" translation="Knocking at a Church Door"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_04" translation="Sirena 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_05" translation="Sirena 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Bell_Ring" translation="Suono Campana"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BoilingCauldron" translation="Calderone Bollente"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_CannonFire" translation="Cannonata"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_ChurchDoor" translation="Bussare alla Porta di una Chiesa"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_1" translation="Countdown: 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_2" translation="Countdown: 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_3" translation="Countdown: 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_4" translation="Countdown: 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_5" translation="Countdown: 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_Go" translation="Countdown: Go"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_CreatureAtTheDoor" translation="Creature at the Door"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Countdown_Go" translation="Countdown: Via"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_CreatureAtTheDoor" translation="Creatura alla Porta"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_AnimalRoar" translation="Ruggito Animale"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_AnimalWolf" translation="Wolf Howl"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_Crow" translation="Crow"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_AnimalWolf" translation="Ululato di Lupo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_Crow" translation="Corvo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_Kraken" translation="Ruggito del Kraken"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Creatures_KrakenTentacles" translation="Tentacoli del Kraken"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_DistantDrumming" translation="Distant Drumming"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_FlyBy" translation="Aircraft Fly-By"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy1" translation="Supernatural Whispers"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy2" translation="Ghost Passing Through"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_GlassScratch" translation="Fingernails Scraping Down Glass"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Down" translation="Glockenspiel Glissando Down"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Up" translation="Glockenspiel Glissando Up"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_DistantDrumming" translation="Tamburi Lontani"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_FlyBy" translation="Passaggio in Volo di un Aereo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy1" translation="Sussurri Sovrannaturali"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy2" translation="Passaggio di Fantasma"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_GlassScratch" translation="Unghie Graffiano un Vetro"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Down" translation="Glockenspiel Glissando Giù"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Up" translation="Glockenspiel Glissando Su"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_1" translation="Glockenspiel Phrase 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_2" translation="Glockenspiel Phrase 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_3" translation="Glockenspiel Phrase 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_4" translation="Glockenspiel Phrase 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gong" translation="Gong"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet" translation="Gun Ricochet 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet2" translation="Gun Ricochet 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunfight" translation="Cowboy Gun Fight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot1" translation="Gunshot 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot2" translation="Gunshot 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot3" translation="Gunshot 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot4" translation="Gunshot 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_High" translation="Harp Glissando Down High"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_Low" translation="Harp Glissando Down Low"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_High" translation="Harp Glissando Up High"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_Low" translation="Harp Glissando Up Low"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_1" translation="Harp Phrase 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_2" translation="Harp Phrase 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet" translation="Rimbalzo Proiettile 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet2" translation="Rimbalzo Proiettile 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunfight" translation="Duello di Pistole dei Cowboy"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot1" translation="Sparo 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot2" translation="Sparo 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot3" translation="Sparo 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot4" translation="Sparo 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_High" translation="Arpa Glissando Giù Alto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_Low" translation="Arpa Glissando Giù Basso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_High" translation="Arpa Glissando Su Alto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_Low" translation="Arpa Glissando Su Basso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_1" translation="Arpa Phrase 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_2" translation="Arpa Phrase 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Creaky_Squeaky_Metal" translation="Metallo Scricchiolante"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Creaky_Wood" translation="Legno Scricchiolante"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Demented_Laughter" translation="Risata Folle"/>
@@ -20025,20 +20025,20 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Witch_Cackle" translation="Crepitio della Strega"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Human_Heartbeat_01" translation="Battito Cardiaco Umano 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Human_Heartbeat_02" translation="Battito Cardiaco Umano 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_Land" translation="Jet Land"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_TakeOff" translation="Jet Take Off"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_KnockingOnTheCoffin" translation="Let Me Out of this Coffin"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_1" translation="Light Tunnel SFX 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_10" translation="Light Tunnel SFX 10"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_2" translation="Light Tunnel SFX 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_3" translation="Light Tunnel SFX 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_4" translation="Light Tunnel SFX 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_5" translation="Light Tunnel SFX 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_6" translation="Light Tunnel SFX 6"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_7" translation="Light Tunnel SFX 7"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_8" translation="Light Tunnel SFX 8"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_9" translation="Light Tunnel SFX 9"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Explosion" translation="Magic Explosion"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_Land" translation="Jet Atterra"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Jet_TakeOff" translation="Jet Decolla"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_KnockingOnTheCoffin" translation="Lasciami uscire da questa Bara"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_1" translation="Tunnel di Luce SFX 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_10" translation="Tunnel di Luce SFX 10"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_2" translation="Tunnel di Luce SFX 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_3" translation="Tunnel di Luce SFX 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_4" translation="Tunnel di Luce SFX 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_5" translation="Tunnel di Luce SFX 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_6" translation="Tunnel di Luce SFX 6"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_7" translation="Tunnel di Luce SFX 7"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_8" translation="Tunnel di Luce SFX 8"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_LEDTunnels_9" translation="Tunnel di Luce SFX 9"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Explosion" translation="Esplosione Magica"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Incantation" translation="Incantesimo Magico"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Light" translation="Luci Magiche"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Magic_Spells" translation="Lancio Incantesimo"/>
@@ -20046,16 +20046,16 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Misc_Impact" translation="Impatto"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Misc_Rumble" translation="Rombo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Glockenspiel" translation="Carillon"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra" translation="Musical: Low Orchestra"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra_Short" translation="Musical: Low Orchestra (Short)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_MusicBox" translation="Musical: Music Box"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano" translation="Musical: Honky-Tonk Piano"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano_OutOfTune" translation="Musical: Out of Tune Piano"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1" translation="Musical: Synthesiser"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1_Delay" translation="Musical: Synthesiser (with Delay)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFight" translation="Pirate Gun Fight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFire" translation="Musket Fire"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_NailsBlackboard" translation="Nails Down a Blackboard"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra" translation="Musical: Orchestra Bassa"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra_Short" translation="Musical: Orchestra Bassa (Corta)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_MusicBox" translation="Musical: Carillon"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano" translation="Musical: Pianoforte Honky-Tonk"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Piano_OutOfTune" translation="Musical: Pianoforte Stonato"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1" translation="Musical: Sintetizzatore"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Synth1_Delay" translation="Musical: Sintetizzatore (con Ritardo)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFight" translation="Sparatoria tra Pirati"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_MusketFire" translation="Sparo da Moschetto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_NailsBlackboard" translation="Unghie su Lavagna"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Breeze" translation="Brezza"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Earthquake" translation="Terremoto"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Explosion" translation="Esplosione"/>
@@ -20063,102 +20063,102 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Hurricane" translation="Uragano"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Lightning" translation="Fulmine"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Thunder" translation="Tuono"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_TropicalBirds" translation="Tropical Birds"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_TropicalBirds" translation="Uccelli Tropicali"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_Water" translation="Acqua"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Nature_WaterSplash" translation="Tuffo in Acqua"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_OrchChaos" translation="Orchestra Chaos"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_High" translation="Piano Scrape 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Long" translation="Piano Scrape 7"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_1" translation="Piano Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_2" translation="Piano Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_3" translation="Piano_Scrape 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_1" translation="Piano Scrape 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_2" translation="Piano Scrape 6"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_PiratePistolFire" translation="Pirate Pistol Fire"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Rats" translation="Scurrying Rats"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAllAboard" translation="Ride Announcement: All Aboard"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAreYouReady" translation="Ride Announcement: Are You Ready"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementEnjoyYourRide" translation="Ride Announcement: Enjoy Your Ride"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementHoldOnTight" translation="Ride Announcement: Hold On Tight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementRemainSeated" translation="Ride Announcement: Remain Seated"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyMessage" translation="Ride Announcement: Safety Message"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyWarning" translation="Ride Announcement: Safety Warning"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Robot_Transmission" translation="Sci-Fi Transmission"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_High" translation="Pianoforte Inquietante 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Long" translation="Pianoforte Inquietante 7"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_1" translation="Pianoforte Inquietante 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_2" translation="Pianoforte Inquietante 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Low_3" translation="Pianoforte Inquietante 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_1" translation="Pianoforte Inquietante 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Piano_Scrape_Mid_2" translation="Pianoforte Inquietante 6"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_PiratePistolFire" translation="Spari di Pistola tra Pirati"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Rats" translation="Topi che scorrazzano"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAllAboard" translation="Annunciatore: Tutti a Bordo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementAreYouReady" translation="Annunciatore: Siete Pronti?"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementEnjoyYourRide" translation="Annunciatore: Godetevi il Giro"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementHoldOnTight" translation="Annunciatore: Tenetevi Stretti"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementRemainSeated" translation="Annunciatore: Restate Seduti"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyMessage" translation="Annunciatore: Messaggio di Sicurezza"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_RideAnnouncementSafetyWarning" translation="Annunciatore: Avviso di Sicurezza"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Robot_Transmission" translation="Trasmissione Sci-Fi"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_Computer" translation="Computer"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_DoorClose" translation="Chiusura Porta Sci-Fi"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_DoorOpen" translation="Apertura Porta Sci-Fi"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse1" translation="Energy Pulse 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse2" translation="Energy Pulse 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse1" translation="Impulso di Energia 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_EnergyPulse2" translation="Impulso di Energia 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_Engine" translation="Motore Sci-Fi"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_Forcefield" translation="Campo di Forza Sci-Fi"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserFight" translation="Laser Gun Fight"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserLarge" translation="Laser Fire (Large)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserMed" translation="Laser Fire (Medium)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserSmall" translation="Laser Fire (Small)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Skeleton_Laugh" translation="Skeleton Laugh"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SnowSteps" translation="Footsteps in Snow"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SpookyTrem_Guitar" translation="Spooky Tremolo Guitar"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Guillotine" translation="Spooky Guillotine"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Splat" translation="Gooey Splat"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AllAboard" translation="Spooky Announcer: 'All Aboard'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AreYouReady" translation="Spooky Announcer: 'Are You Ready?'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown1" translation="Spooky Countdown '1'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown2" translation="Spooky Countdown '2'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown3" translation="Spooky Countdown '3'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown4" translation="Spooky Countdown '4'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown5" translation="Spooky Countdown '5'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown54321" translation="Spooky Countdown '5,4,3,2,1'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_DontLoseYourHead" translation="Spooky Announcer: 'Don't Lose Your Head'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_EnjoyYourRide" translation="Spooky Announcer: 'Enjoy Your Ride'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HaveFun" translation="Spooky Announcer: 'Have Fun'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HoldOnTight" translation="Spooky Announcer: 'Hold On Tight'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Laugh" translation="Spooky Announcer: Laugh"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_MindYourHead" translation="Spooky Announcer: 'Mind Your Head'"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_SteamWhistle" translation="Steam Train Whistle"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserFight" translation="Sparatoria Laser"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserLarge" translation="Sparo Laser (Largo)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserMed" translation="Sparo Laser (Medio)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SciFi_LaserSmall" translation="Sparo Laser (Piccolo)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Skeleton_Laugh" translation="Risata di Scheletro"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SnowSteps" translation="Passi nella Neve"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SpookyTrem_Guitar" translation="Tremolo Chitarra Spaventoso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Guillotine" translation="Ghigliottina Spaventosa"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_Splat" translation="Spiaccicamento Appiccicoso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AllAboard" translation="Annunciatore Spaventoso: 'Tutti a Bordo'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_AreYouReady" translation="Annunciatore Spaventoso: 'Siete Pronti?'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown1" translation="Countdown Spaventoso '1'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown2" translation="Countdown Spaventoso '2'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown3" translation="Countdown Spaventoso '3'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown4" translation="Countdown Spaventoso '4'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown5" translation="Countdown Spaventoso '5'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Countdown54321" translation="Countdown Spaventoso '5,4,3,2,1'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_DontLoseYourHead" translation="Annunciatore Spaventoso: 'Non perdete la testa'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_EnjoyYourRide" translation="Annunciatore Spaventoso: 'Godetevi il Giro'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HaveFun" translation="Annunciatore Spaventoso: 'Divertitevi'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_HoldOnTight" translation="Annunciatore Spaventoso: 'Tenetevi Stretti'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_Laugh" translation="Annunciatore Spaventoso: Risata"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Spooky_VO_MindYourHead" translation="Annunciatore Spaventoso: 'Attenti alla Testa'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_SteamWhistle" translation="Fischio di Treno a Vapore"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_DoorClose" translation="Chiusura Porta Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_DoorOpen" translation="Apertura Porta Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_Engine" translation="Motore Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_GateClose" translation="Chiusura Cancello Steampunk"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Steampunk_GateOpen" translation="Apertura Cancello Steampunk"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeLong" translation="Strings and Piano Scare - Long"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeShort" translation="Strings and Piano Scare - Short"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_1" translation="String Bounce 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_2" translation="String Bounce 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_3" translation="String Bounce 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Creepy_Rise" translation="String Creepy Rise"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_1" translation="String High Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_2" translation="String High Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_1" translation="String High Screech 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_2" translation="String High Screech 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_3" translation="String High Screech 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_4" translation="String High Screech 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_1" translation="String High Trill 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_2" translation="String High Trill 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_3" translation="String High Trill 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_1" translation="String Low Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_2" translation="String Low Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_3" translation="String Low Scrape 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_1" translation="String Mid Scrape 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_2" translation="String Mid Scrape 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_1" translation="String Mid Trill 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_2" translation="String Mid Trill 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_321_Countdown" translation="Megaphone Countdown: 3,2,1: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_54321_Countdown" translation="Megaphone Countdown: 5,4,3,2,1: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_1" translation="Megaphone Countdown: 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_2" translation="Megaphone Countdown: 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_3" translation="Megaphone Countdown: 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_4" translation="Megaphone Countdown: 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_5" translation="Megaphone Countdown: 5"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_Go" translation="Megaphone Countdown: Go!"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Tortured_Scream" translation="Tortured Scream"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_1" translation="Waterphone Long 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_2" translation="Waterphone Long 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_3" translation="Waterphone Long 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_4" translation="Waterphone Long 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_1" translation="Waterphone Short 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_2" translation="Waterphone Short 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_3" translation="Waterphone Short 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_4" translation="Waterphone Short 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeLong" translation="Corde e Pianoforte Spaventoso - Lungo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_StringPianoScrapeShort" translation="Corde e Pianoforte Spventoso - Corto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_1" translation="Corde Pizzicate 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_2" translation="Corde Pizzicate 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Bounce_3" translation="Corde Pizzicate 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Creepy_Rise" translation="Corda Cupa Crescente"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_1" translation="Corda Pizzicata Alta 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Scrape_2" translation="Corda Pizzicata Alta 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_1" translation="Corda Stridio Alto 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_2" translation="Corda Stridio Alto 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_3" translation="Corda Stridio Alto 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Screech_4" translation="Corda Stridio Alto 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_1" translation="Corda Trillo Alto 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_2" translation="Corda Trillo Alto 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_High_Trill_3" translation="Corda Trillo Alto 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_1" translation="Corda Pizzicata Bassa 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_2" translation="Corda Pizzicata Bassa 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Low_Bellow_3" translation="Corda Pizzicata Bassa 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_1" translation="Corda Pizzicata Media 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Scrape_2" translation="Corda Pizzicata Media 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_1" translation="Corda Trillo Medio 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_String_Mid_Trill_2" translation="Corda Trillo Medio 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_321_Countdown" translation="Countdown Megafono: 3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_54321_Countdown" translation="Countdown Megafono: 5,4,3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_1" translation="Countdown Megafono: 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_2" translation="Countdown Megafono: 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_3" translation="Countdown Megafono: 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_4" translation="Countdown Megafono: 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_5" translation="Countdown Megafono: 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_Go" translation="Countdown Megafono: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Tortured_Scream" translation="Urlo di Tortura"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_1" translation="Waterphone Lungo 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_2" translation="Waterphone Lungo 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_3" translation="Waterphone Lungo 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_4" translation="Waterphone Lungo 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_1" translation="Waterphone Corto 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_2" translation="Waterphone Corto 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_3" translation="Waterphone Corto 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Short_4" translation="Waterphone Corto 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Whoosh_Whoosh" translation="Sibilo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Wood_DoorClose" translation="Chiusura Porta in Legno"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Wood_DoorOpen" translation="Apertura Porta in Legno"/>
