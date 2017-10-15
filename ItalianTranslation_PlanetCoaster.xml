@@ -13961,7 +13961,7 @@
 		<entry key="OptionsMenu_Controls_Text" translation="{ControlText}"/>
 		<entry key="OptionsMenu_Controls_Unbind_Button" translation="Resetta"/>
 		<entry key="OptionsMenu_Controls_Unbind_Value" translation="Resetta"/>
-		<entry key="OptionsMenu_Controls_ValueRebind_InProgress" translation="Riassegnazione Tasti in esecuzione"/>
+		<entry key="OptionsMenu_Controls_ValueRebind_InProgress" translation="Riassegnazione Assi in esecuzione"/>
 		<entry key="OptionsMenu_Controls_ValueRebind_InProgress_Label" translation="Premi il tasto levetta o il grilletto nella direzione che desideri assegnare.&#10;Annullamento tra {Value:int} secondi..."/>
 		<entry key="OptionsMenu_DisableHints" translation="Disabilita Consigli"/>
 		<entry key="OptionsMenu_EnableNewsFeed" translation="Mostra notizie all'avvio del gioco."/>
@@ -14071,96 +14071,96 @@
 		<entry key="OptionsMenu_windowTitle" translation="Opzioni"/>
 		<!--PDLC_DeLorean_Coasters-->
 		<entry key="Coaster_Type_BackToTheFuture" translation="Go Karts"/>
-		<entry key="Powered_BackToTheFuture" translation="Back to the Future"/>
-		<entry key="Powered_BackToTheFuture_Desc" translation="Guests race against each other in Back to the Future Time Machine styled go-karts."/>
+		<entry key="Powered_BackToTheFuture" translation="Ritorno al Futuro"/>
+		<entry key="Powered_BackToTheFuture_Desc" translation="I Visitatori gareggiano uno contro l'altro nei go-karts in stile Macchina del Tempo di Ritorno al Futuro."/>
 		<!--PDLC_KnightRider_Coasters-->
-		<entry key="Blueprints_KnightRider01" translation="Knight Rider KITT"/>
-		<entry key="Blueprints_KnightRider01Desc" translation="I am the voice of Knight Industries 2000’s Micro processor, K.I.T.T.&#10;Knight Rider Theme"/>
-		<entry key="Blueprints_KnightRider02" translation="Knight Rider KITT Super Pursuit Mode"/>
-		<entry key="Blueprints_KnightRider02Desc" translation="They've got a head start... it's a real good time for super pursuit mode!&#10;Knight Rider Theme"/>
-		<entry key="Blueprints_KnightRider03" translation="Knight Rider KARR"/>
-		<entry key="Blueprints_KnightRider03Desc" translation="I am the Knight Automated Roving Robot, KARR if you prefer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_KnightRiderSign" translation="Knight Rider, a shadowy flight into the dangerous world of a man who does not exist.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Bullet Impact FX&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Bullet Impact FX&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_Explosion" translation="Explosion FX&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Do not attempt to sabotage me again. I will defend myself.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Do not attempt to sabotage me again. I will defend myself.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="That can't be KARR. We destroyed KARR two years ago.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="I saw him explode! You saw him explode!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="I am the Knight Automated Roving Robot, KARR if you prefer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Bumper" translation="Keep your scanners peeled.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door" translation="That's for making me say 'ain't'!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door_Right" translation="That's for making me say 'ain't'!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Front" translation="KITT, go into surveillance mode.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent" translation="Gimmie maximum turbo thrust and blast me outta here, will ya?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Gimmie maximum turbo thrust and blast me outta here, will ya?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HeadLight" translation="Michael, whatever happened to the good old days when we simply turbo boosted over fences and crashed through walls?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Michael, whatever happened to the good old days when we simply turbo boosted over fences and crashed through walls?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HoodScope" translation="Michael, my molecular bonded shell can't withstand the extreme heat of this lava much longer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr" translation="I am the Knight Automated Roving Robot, KARR if you prefer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KarrPlate" translation="I wouldn’t touch that line with a ten foot driveshaft.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="You waste your time, my twin. You cannot triumph over a prototype.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Kitt" translation="I am the voice of Knight Industries 2000’s Micro processor, K.I.T.T.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KittPlate" translation="I am the Knight Industries 2000. My serial number is Alpha Delta 2-2-7-5-2-9&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Mid" translation="You know, for a collection of micro processors you're awfully touchy.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Missile" translation="Michael, please. Pardon the expression, but he does have a few screws loose.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM" translation="They've got a head start... it's a real good time for super pursuit mode!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Michael, I cannot allow you to jeopardize your life. I am assuming control.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Gimme all ya got KITT!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Rear" translation="Give me every ounce of turbo boost you got!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent" translation="KITT, I need ya buddy!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="KITT, I need ya buddy!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof" translation="You’re one in a million, pal!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof_Right" translation="You’re one in a million, pal!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Seat" translation="Need a lift?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_SideWing" translation="If I had nerves, that would have been nerve-racking.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Spoiler" translation="Alright, Kitt, let's see what you can do.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop" translation="Did you get up on the wrong side of the garage this morning?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Did you get up on the wrong side of the garage this morning?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Wheel" translation=" Please do not refer to me as a 'car' or a 'set of wheels', it's most demeaning.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartName_KnightRiderSign" translation="Knight Rider Sign"/>
-		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Special Effect - Knight Rider Bullet Impact Smoke"/>
-		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Special Effect - Knight Rider Bullet Impact Sparks"/>
-		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_Explosion" translation="Special Effect - Knight Rider Explosion"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Knight Rider KARR Door - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Knight Rider KARR Door - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="Knight Rider KARR Bodywork - Front"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="Knight Rider KARR Bodywork - Centre"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="Knight Rider KARR Bodywork - Back"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Bumper" translation="Knight Rider KITT Bumper"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door" translation="Knight Rider KITT Door - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door_Right" translation="Knight Rider KITT Door - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Front" translation="Knight Rider KITT Bodywork - Front"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent" translation="Knight Rider Front Vent - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Knight Rider Front Vent - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HeadLight" translation="Knight Rider Headlight - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Knight Rider Headlight - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HoodScope" translation="Knight Rider Hood Scoop"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr" translation="Knight Rider KARR Complete"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Knight Rider KARR Licence Plate"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="Knight Rider KARR Bumper"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Kitt" translation="Knight Rider KITT Complete"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KittPlate" translation="Knight Rider KITT Licence Plate"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Mid" translation="Knight Rider KITT Bodywork - Centre"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Missile" translation="Knight Rider Rocket Booster"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM" translation="Knight Rider KITT Super Pursuit Mode Complete"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Knight Rider Super Pursuit Mode Bumper"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Knight Rider Super Pursuit Mode Spoiler"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Rear" translation="Knight Rider KITT Bodywork - Back"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent" translation="Knight Rider Back Vent - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="Knight Rider Back Vent - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof" translation="Knight Rider Roof - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof_Right" translation="Knight Rider Roof - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Seat" translation="Knight Rider Seat"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_SideWing" translation="Knight Rider Side Wing"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Spoiler" translation="Knight Rider Spoiler"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop" translation="Knight Rider Top Vent - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Knight Rider Top Vent - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Wheel" translation="Knight Rider Wheel"/>
+		<entry key="Blueprints_KnightRider01" translation="Supercar KITT"/>
+		<entry key="Blueprints_KnightRider01Desc" translation="Sono la voce del micro processore Knight Industries 2000, K.I.T.T.&#10;Tema Supercar"/>
+		<entry key="Blueprints_KnightRider02" translation="Supercar Modalità Super Inseguimento"/>
+		<entry key="Blueprints_KnightRider02Desc" translation="Gli altri sono in testa... è il momento giusto per la modalità super inseguimento!&#10;Tema Supercar"/>
+		<entry key="Blueprints_KnightRider03" translation="Supercar KARR"/>
+		<entry key="Blueprints_KnightRider03Desc" translation="Sono la Knight Automated Roving Robot, KARR se preferite.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_KnightRiderSign" translation="Supercar, un volo ombroso nel pericoloso mondo di un uomo che non esiste.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Impatto Proiettile FX&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Impatto Proiettile FX&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_Explosion" translation="FX Esplosione &#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Non provare a sabotarmi di nuovo. Mi difenderò.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Non provare a sabotarmi di nuovo. Mi difenderò.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="Non può essere KARR. Abbiamo distrutto KARR due anni fa.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="Io l'ho visto esplodere! Tu l'hai visto esplodere!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="Sono la Knight Automated Roving Robot, KARR se preferite.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Bumper" translation="Tieni i tuoi scanner bene aperti.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door" translation="Questo è per avermi fatto dire 'Non si può'!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door_Right" translation="Questo è per avermi fatto dire 'Non si può'!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Front" translation="KITT, vai in modalità sorveglianza.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent" translation="Dammi la massima spinta con il turbo e sparami fuori da qui, ok?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Dammi la massima spinta con il turbo e sparami fuori da qui, ok??&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HeadLight" translation="Michael, che fine hanno fatto i bei vecchi tempi di quando semplicemente usavamo il turbo boost sopra le recinzioni e passavamo attraverso i muri?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Michael, che fine hanno fatto i bei vecchi tempi di quando semplicemente usavamo il turbo boost sopra le recinzioni e passavamo attraverso i muri?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HoodScope" translation="Michael, il mio scudo molecolare non può resistere più a lungo all'estremo calore di questa lava.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr" translation="Sono la Knight Automated Roving Robot, KARR se preferite.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Non toccherei quella linea neanche con un albero di trasmissione di dieci piedi.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="Perdi il tuo tempo, mio gemello. Non puoi battere un prototipo.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Kitt" translation="Sono la voce del micro processore Knight Industries 2000, K.I.T.T.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KittPlate" translation="Sono la Knight Industries 2000. Il mio numero di serie è Alfa Delta 2-2-7-5-2-9&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Mid" translation="Lo sai, per un mucchietto di micro processori sei veramente permaloso.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Missile" translation="Scusa Michael. Perdona l'espressione, ma ha qualche rotella fuori posto.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM" translation="Gli altri sono in testa... è il momento giusto per la modalità super inseguimento!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Michael, non posso permetterti di mettere a repentaglio la tua vita. Assumo io il controllo.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Dammi tutto quello che hai KITT!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Rear" translation="Dammi ogni grammo di turbo boost che hai!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent" translation="KITT, ho bisogno di te amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="KITT, ho bisogno di te amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof" translation="Sei il numero uno su un milione, amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof_Right" translation="Sei il numero uno su un milione, amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Seat" translation="Hai bisogno di un passaggio?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_SideWing" translation="Se avessi i nervi, sarebbe da esaurimento nervoso.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Spoiler" translation="Va bene, Kitt, fammi vedere cosa sai fare.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop" translation="Ti sei svegliato dalla parte sbagliata del garage questa mattina?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Ti sei svegliato dalla parte sbagliata del garage questa mattina?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Wheel" translation=" Per favore non trattarmi come una 'macchina' o un 'set di gomme', è piuttosto avvilente.&#10;Tema Supercar"/>
+		<entry key="BuildingPartName_KnightRiderSign" translation="Insegna Supercar"/>
+		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Effetto Speciale - Fumo Impatto Proiettile Supercar"/>
+		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Effetto Speciale - Scintille Impatto Proiettile Supercar"/>
+		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_Explosion" translation="Effetto Speciale - Esplosione Supercar"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Supercar KARR Portiera - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Supercar KARR Portiera - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="Supercar KARR Telaio - Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="Supercar KARR Telaio - Centrale"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="Supercar KARR Telaio - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Bumper" translation="Supercar KITT Paraurti"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door" translation="Supercar KITT Portiera - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door_Right" translation="Supercar KITT Portiera - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Front" translation="Supercar KITT Telaio - Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent" translation="Supercar Presa d'aria Anteriore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Supercar Presa d'aria Anteriore - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HeadLight" translation="Supercar Luce Frontale - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Supercar Luce Frontale - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HoodScope" translation="Supercar Radar Cofano"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr" translation="Supercar KARR Completa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Supercar KARR Targa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="Supercar KARR Paraurti"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Kitt" translation="Supercar KITT Completa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KittPlate" translation="Supercar KITT Targa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Mid" translation="Supercar KITT Telaio - Centrale"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Missile" translation="Supercar Razzo Propulsore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM" translation="Supercar KITT Modalità Super Inseguimento Completa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Supercar Modalità Super Inseguimento Paraurti"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Supercar Modalità Super Inseguimento Spoiler"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Rear" translation="Supercar KITT Telaio - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent" translation="Supercar Presa d'aria Posteriore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="Supercar Presa d'aria Posteriore - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof" translation="Supercar Tetto - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof_Right" translation="Supercar Tetto - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Seat" translation="Supercar Sedile"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_SideWing" translation="Supercar Ala Laterale"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Spoiler" translation="Supercar Spoiler"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop" translation="Supercar Presa d'aria Superiore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Supercar Presa d'aria Superiore - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Wheel" translation="Supercar Ruota"/>
 		<entry key="Coaster_Type_KnightRider" translation="Go Karts"/>
-		<entry key="Powered_KnightRider" translation="Knight Rider"/>
-		<entry key="Powered_KnightRider_Desc" translation="Guests race against each other in KITT styled go-karts."/>
+		<entry key="Powered_KnightRider" translation="Supercar"/>
+		<entry key="Powered_KnightRider_Desc" translation="I visitatori gareggiano uno contro l'altro su go-karts stile KITT."/>
 		<!--PDLC_Munsters_Coasters-->
 		<entry key="Blueprints_Munsters01" translation="The Munsters Koach"/>
 		<entry key="Blueprints_Munsters01Desc" translation="Oh, goody!&#10;The Munsters Theme"/>
@@ -19918,7 +19918,7 @@
 		<entry key="Train_Hart" translation="Elettrocardiogramma"/>
 		<entry key="Train_Invincible" translation="Invincibile"/>
 		<entry key="Train_IronHorse" translation="Iron Horse"/>
-		<entry key="Train_KnightRider" translation="Knight Rider"/>
+		<entry key="Train_KnightRider" translation="Supercar"/>
 		<entry key="Train_LTurns" translation="Curve Matte"/>
 		<entry key="Train_LunaAutos" translation="Automobili Luna"/>
 		<entry key="Train_MUC" translation="Malice Unchained"/>
@@ -20173,7 +20173,7 @@
 		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
 		<entry key="TriggeredSFX_Horror_Heading" translation="Horror"/>
 		<entry key="TriggeredSFX_Human_Heading" translation="Umano"/>
-		<entry key="TriggeredSFX_KITT_DLC_Heading" translation="Knight Rider"/>
+		<entry key="TriggeredSFX_KITT_DLC_Heading" translation="Supercar"/>
 		<entry key="TriggeredSFX_Magic_Heading" translation="Magia"/>
 		<entry key="TriggeredSFX_Mechanical_Heading" translation="Meccanico"/>
 		<entry key="TriggeredSFX_Miscellaneous_Heading" translation="Varie"/>
