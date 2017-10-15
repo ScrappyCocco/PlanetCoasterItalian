@@ -17811,15 +17811,15 @@
 		<entry key="Staff_Status_Entertain_N" translation="Intrattiene {count:int} visitatori"/>
 		<entry key="Staff_Status_HeadingToRepairVandalism" translation="Va a riparare un oggetto vandalizzato"/>
 		<entry key="Staff_Status_Idle" translation="Sfaccendato"/>
-		<entry key="Staff_Status_Inspection" translation="Ispeziona {station}"/>
+		<entry key="Staff_Status_Inspection" translation="Ispeziona {Stazione}"/>
 		<entry key="Staff_Status_Litter" translation="Raccoglie i rifiuti"/>
 		<entry key="Staff_Status_Lost" translation="Si è perso"/>
 		<entry key="Staff_Status_Nav_Bin" translation="Si reca al cestino"/>
 		<entry key="Staff_Status_Nav_Litter" translation="Va a raccogliere i rifiuti"/>
 		<entry key="Staff_Status_Nav_Vomit" translation="Va a pulire il vomito"/>
 		<entry key="Staff_Status_Quit" translation="Abbandona il parco"/>
-		<entry key="Staff_Status_Refurbishment" translation="Effettua la manutenzione - {station}"/>
-		<entry key="Staff_Status_Repair" translation="Ripara un guasto presso {station}"/>
+		<entry key="Staff_Status_Refurbishment" translation="Effettua la manutenzione - {Stazione}"/>
+		<entry key="Staff_Status_Repair" translation="Ripara un guasto presso {Stazione}"/>
 		<entry key="Staff_Status_RepairingVandalism" translation="Ripara un oggetto vandalizzato"/>
 		<entry key="Staff_Status_ReportCrime" translation="Fa rapporto"/>
 		<entry key="Staff_Status_Suspended" translation="Girovagando"/>
