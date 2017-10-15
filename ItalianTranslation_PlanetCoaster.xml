@@ -12106,7 +12106,7 @@
 		<entry key="HUD_HelpPopup_Paths_Command_14" translation="Riduci Larghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_15" translation="Aumenta Larghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_16" translation="Attiva Appiattisci Terreno"/>
-		<entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella di continuo"/>
+		<entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella Continuo"/>
 		<entry key="HUD_HelpPopup_Paths_Description" translation="Posiziona i sentieri per permettere ai visitatori di andare in giro. I sentieri collegano l'entrata del parco alle attrazioni e ai negozi in tutto il parco."/>
 		<entry key="HUD_HelpPopup_Paths_Title" translation="Controlli dei sentieri"/>
 		<entry key="HUD_HelpPopup_Ping" translation="Clicca qui per aiuto sui controlli"/>
@@ -13261,7 +13261,7 @@
 		<entry key="Ambience_Event_AMB_80s_SynthLoop3" translation="Sequenza Synth anni '80 - 3"/>
 		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Ponte Portaerei"/>
 		<entry key="Ambience_Event_AMB_AlienForest" translation="Foresta Aliena"/>
-		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Backwards Voices"/>
+		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Voci da dietro"/>
 		<entry key="Ambience_Event_AMB_BewitchedForest" translation="Foresta Stregata"/>
 		<entry key="Ambience_Event_AMB_Blacksmith" translation="Forgia del fabbro"/>
 		<entry key="Ambience_Event_AMB_CanyonBattle" translation="Battaglia al Canyon"/>
@@ -13270,44 +13270,44 @@
 		<entry key="Ambience_Event_AMB_CaveDrippy" translation="Grotta"/>
 		<entry key="Ambience_Event_AMB_CaveDrippyBats" translation="Grotta con Pipistrelli"/>
 		<entry key="Ambience_Event_AMB_CaveScary" translation="Grotta Spaventosa"/>
-		<entry key="Ambience_Event_AMB_ChimesOnTheWind" translation="Ghostly Wind Chimes"/>
+		<entry key="Ambience_Event_AMB_ChimesOnTheWind" translation="Campane a vento spettrali"/>
 		<entry key="Ambience_Event_AMB_CityTraffic" translation="Traffico della Città"/>
 		<entry key="Ambience_Event_AMB_Clock_Ticking" translation="Ticchettio dell'orologio"/>
 		<entry key="Ambience_Event_AMB_Crime_City" translation="Downtown (Reagisce al livello di crimine)"/>
-		<entry key="Ambience_Event_AMB_Crime_City_Docks" translation="il molo di Downtown "/>
-		<entry key="Ambience_Event_AMB_DescendingOrgan" translation="Forever Descending Organ"/>
+		<entry key="Ambience_Event_AMB_Crime_City_Docks" translation="Il molo di Downtown "/>
+		<entry key="Ambience_Event_AMB_DescendingOrgan" translation="Organo calante"/>
 		<entry key="Ambience_Event_AMB_DistantDragon" translation="Drago in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantFiddle" translation="Violino in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantHarmonica" translation="Armonica in Lontananza"/>
-		<entry key="Ambience_Event_AMB_DistantOrgan" translation="Distant Organ"/>
+		<entry key="Ambience_Event_AMB_DistantOrgan" translation="Organo in Lontananza"/>
 		<entry key="Ambience_Event_AMB_DistantSpaceBattle" translation="Battaglia Spaziale in Lontananza"/>
-		<entry key="Ambience_Event_AMB_Door_Knocking" translation="Let Me Out of this Room"/>
+		<entry key="Ambience_Event_AMB_Door_Knocking" translation="Fammi uscire da questa stanza"/>
 		<entry key="Ambience_Event_AMB_DrChimpLab" translation="Il Laboratorio del Dr. Scimmia"/>
-		<entry key="Ambience_Event_AMB_Drips" translation="Slow Drips"/>
+		<entry key="Ambience_Event_AMB_Drips" translation="Gocciolio Lento"/>
 		<entry key="Ambience_Event_AMB_Dungeon" translation="Una Notte in Prigione"/>
 		<entry key="Ambience_Event_AMB_DwarfForge" translation="Fucina del Nano"/>
-		<entry key="Ambience_Event_AMB_Graveyard" translation="Graveyard"/>
+		<entry key="Ambience_Event_AMB_Graveyard" translation="Tomba"/>
 		<entry key="Ambience_Event_AMB_HauntedCastle" translation="Castello Infestato in una Notte Piovosa"/>
-		<entry key="Ambience_Event_AMB_HauntedDungeon" translation="Haunted Dungeon"/>
-		<entry key="Ambience_Event_AMB_HauntedPianoRecord" translation="Haunted Pianoforte Record"/>
-		<entry key="Ambience_Event_AMB_HouseOfHorrors" translation="House of Horrors"/>
+		<entry key="Ambience_Event_AMB_HauntedDungeon" translation="Sotterraneo Infestato"/>
+		<entry key="Ambience_Event_AMB_HauntedPianoRecord" translation="Pianoforte Spettrale"/>
+		<entry key="Ambience_Event_AMB_HouseOfHorrors" translation="Casa degli Orrori"/>
 		<entry key="Ambience_Event_AMB_HowlingAbyss" translation="Lamento degli Abissi"/>
-		<entry key="Ambience_Event_AMB_KnockingOnTheCoffin" translation="Let Me Out of this Coffin"/>
+		<entry key="Ambience_Event_AMB_KnockingOnTheCoffin" translation="Fammi uscire da questa bara"/>
 		<entry key="Ambience_Event_AMB_Kraken" translation="Fossa del Kraken"/>
 		<entry key="Ambience_Event_AMB_LakeShore" translation="Riva del Lago"/>
 		<entry key="Ambience_Event_AMB_MagicalForestQuiet" translation="Foresta Magica"/>
 		<entry key="Ambience_Event_AMB_MedievalStreet" translation="Borgo Medievale"/>
 		<entry key="Ambience_Event_AMB_PeacefulForest" translation="Foresta Tranquilla"/>
-		<entry key="Ambience_Event_AMB_PianoScrapes1" translation="Atonal Pianoforte"/>
-		<entry key="Ambience_Event_AMB_PianoScrapes2" translation="Atonal Pianoforte 2"/>
+		<entry key="Ambience_Event_AMB_PianoScrapes1" translation="Pianoforte atonale"/>
+		<entry key="Ambience_Event_AMB_PianoScrapes2" translation="Pianoforte atonale 2"/>
 		<entry key="Ambience_Event_AMB_PirateHarbour" translation="Baia Pirata"/>
 		<entry key="Ambience_Event_AMB_PirateShipAtSea" translation="Nave al Largo"/>
 		<entry key="Ambience_Event_AMB_PirateSwordFight" translation="Duello Pirata"/>
 		<entry key="Ambience_Event_AMB_QuietRiver" translation="Fiume Tranquillo"/>
 		<entry key="Ambience_Event_AMB_RaceWay" translation="Pista"/>
 		<entry key="Ambience_Event_AMB_Raceway_Pits" translation="Buche della Pista"/>
-		<entry key="Ambience_Event_AMB_ReversedPiano" translation="Reversed Pianoforte"/>
-		<entry key="Ambience_Event_AMB_Rise1" translation="Perpetual SciFi Rise"/>
+		<entry key="Ambience_Event_AMB_ReversedPiano" translation="Pianoforte al contrario"/>
+		<entry key="Ambience_Event_AMB_Rise1" translation="Ascesa Perpetua SciFi"/>
 		<entry key="Ambience_Event_AMB_Riviera_City" translation="Città Riviera"/>
 		<entry key="Ambience_Event_AMB_Riviera_Harbour" translation="Porto Riviera"/>
 		<entry key="Ambience_Event_AMB_Riviera_Town" translation="Paese Riviera"/>
@@ -13316,17 +13316,17 @@
 		<entry key="Ambience_Event_AMB_SeaShore" translation="Riva del Mare"/>
 		<entry key="Ambience_Event_AMB_SpaceStationDockingBay" translation="Attracco alla Stazione Spaziale"/>
 		<entry key="Ambience_Event_AMB_SpaceshipBridge" translation="Ponte della Navicella Spaziale"/>
-		<entry key="Ambience_Event_AMB_SpookyChanting" translation="Demonic Chanting"/>
-		<entry key="Ambience_Event_AMB_SpookyHeartbeat" translation="Spooky Heartbeat"/>
-		<entry key="Ambience_Event_AMB_StringCluster" translation="Creeping Strings"/>
+		<entry key="Ambience_Event_AMB_SpookyChanting" translation="Canti Demoniaci"/>
+		<entry key="Ambience_Event_AMB_SpookyHeartbeat" translation="Battito di cuore spaventoso"/>
+		<entry key="Ambience_Event_AMB_StringCluster" translation="Archi viscidi"/>
 		<entry key="Ambience_Event_AMB_TribalDrumming" translation="Gruppo Percussioni"/>
-		<entry key="Ambience_Event_AMB_Waterphone" translation="Eerie Waterphone"/>
+		<entry key="Ambience_Event_AMB_Waterphone" translation="Waterphone Inquietante"/>
 		<entry key="Ambience_Event_AMB_Western_Saloon" translation="Saloon Western  (Inc. Pianoforte)"/>
 		<entry key="Ambience_Event_AMB_Western_Town" translation="Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Duello al Villaggio Western"/>
-		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Whispering in the Darkness"/>
+		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Sussurrando nell'Oscurità"/>
 		<entry key="Music_Heading_Classic" translation="Classica"/>
-		<entry key="Music_Heading_Coaster" translation="Musica da Rollercoaster"/>
+		<entry key="Music_Heading_Coaster" translation="Musica da Montagna Russa"/>
 		<entry key="Music_Heading_Electronica" translation="Elettronica"/>
 		<entry key="Music_Heading_FairyTale" translation="Fantasy"/>
 		<entry key="Music_Heading_FlatRide" translation="Musica da Giostra"/>
@@ -13336,7 +13336,7 @@
 		<entry key="Music_Heading_SciFi" translation="Sci-Fi"/>
 		<entry key="Music_Heading_Seasonal" translation="Festiva Speciale"/>
 		<entry key="Music_Heading_Speaker" translation="Musica degli altoparlanti del Parco"/>
-		<entry key="Music_Heading_Spooky" translation="Spooky"/>
+		<entry key="Music_Heading_Spooky" translation="Spettrale"/>
 		<entry key="Music_Heading_UserMusic" translation="Musica dell'Utente"/>
 		<entry key="Music_Heading_Vanilla" translation="Vanilla"/>
 		<entry key="Music_Heading_Western" translation="Western"/>
@@ -13397,18 +13397,18 @@
 		<entry key="Music_Track_SciFiMood_Band1" translation="Quartetto lattina 1"/>
 		<entry key="Music_Track_SciFiMood_Band2" translation="Quartetto lattina 2"/>
 		<entry key="Music_Track_SciFiMood_Band3" translation="Quartetto lattina 3"/>
-		<entry key="Music_Track_SciFiMood_Dark" translation="Pianeta Epoch - Dark Ride"/>
+		<entry key="Music_Track_SciFiMood_Dark" translation="Pianeta Epoch - Percorso al Buio"/>
 		<entry key="Music_Track_SciFiMood_DarkCoasterApproaches" translation="Il Lato Oscuro della Forza G"/>
 		<entry key="Music_Track_SciFiMood_PeoplesOfTheSand" translation="Popolo della Sabbia"/>
 		<entry key="Music_Track_SciFiMood_TheCosmicBalance" translation="L'Equilibrio Cosmico"/>
 		<entry key="Music_Track_Sizzer" translation="Amicizia Marcia in più"/>
-		<entry key="Music_Track_Spooky1" translation="Planet Spooky"/>
-		<entry key="Music_Track_Spooky2" translation="The Old Haunt"/>
-		<entry key="Music_Track_SpookyCarnival" translation="Spooky Carnival"/>
-		<entry key="Music_Track_SpookyWaltz" translation="Spooky Waltz"/>
-		<entry key="Music_Track_Spooky_DarkMagic" translation="Dark Magic"/>
-		<entry key="Music_Track_Spooky_DarkRide" translation="Spooky Dark Ride"/>
-		<entry key="Music_Track_Spooky_Monsters" translation="Spooky Monsters"/>
+		<entry key="Music_Track_Spooky1" translation="Pianeta Spettrale"/>
+		<entry key="Music_Track_Spooky2" translation="Il vecchio Covo"/>
+		<entry key="Music_Track_SpookyCarnival" translation="Carnevale Spettrale"/>
+		<entry key="Music_Track_SpookyWaltz" translation="Waltzer Spettrale"/>
+		<entry key="Music_Track_Spooky_DarkMagic" translation="Magia Oscura"/>
+		<entry key="Music_Track_Spooky_DarkRide" translation="Percorso al Buio Spettrale"/>
+		<entry key="Music_Track_Spooky_Monsters" translation="Mostri Spettrali"/>
 		<entry key="Music_Track_SunDial" translation="Orchestra Elementale Parte IV"/>
 		<entry key="Music_Track_TAW" translation="Guai in Vista"/>
 		<entry key="Music_Track_TFW" translation="La Ballata di Tentifu"/>
@@ -13510,7 +13510,7 @@
 		<entry key="NewsletterSignup_FreeHat" translation="Iscriviti e ottieni un cappello gratuitamente!"/>
 		<entry key="NewsletterSignup_Language" translation="Lingua"/>
 		<entry key="NewsletterSignup_LastName" translation="Cognome (obbligatorio)"/>
-		<entry key="NewsletterSignup_Name" translation="Nick (obbligatorio)"/>
+		<entry key="NewsletterSignup_Name" translation="Soprannome (obbligatorio)"/>
 		<entry key="NewsletterSignup_OK" translation="OK"/>
 		<entry key="NewsletterSignup_Submit" translation="Iscrivimi!"/>
 		<entry key="NewsletterSignup_Success" translation="Controlla il creatore dell'avatar per il tuo cappello regalo."/>
@@ -13745,10 +13745,10 @@
 		<entry key="ObjectBrowser_Scenery_PickGridToolTip" translation="Clicca sul pezzo di una costruzione esistente per settare l'altezza e la grandezza della griglia."/>
 		<entry key="ObjectBrowser_Scenery_PickPrompt" translation="Selezione un oggetto di una costruzione per utilizzare le sue impostazioni della griglia."/>
 		<entry key="ObjectBrowser_Scenery_RotationSnapSize" translation="Angoli Fissi"/>
-		<entry key="ObjectBrowser_Scenery_SnapPointUp" translation="Position Snap Rotation"/>
-		<entry key="ObjectBrowser_Scenery_SnapPointUp_Hint" translation="Rotate object to align to rotation of object being position snapped to."/>
-		<entry key="ObjectBrowser_Scenery_ToggleSnap" translation="Position Snap"/>
-		<entry key="ObjectBrowser_Scenery_ToggleSnap_Hint" translation="Snap placement position to existing scenery and building snap points."/>
+		<entry key="ObjectBrowser_Scenery_SnapPointUp" translation=" Rotazione fissa della Posizione"/>
+		<entry key="ObjectBrowser_Scenery_SnapPointUp_Hint" translation="Ruota l'oggetto per allinearlo alla rotazione dell'oggetto agganciato."/>
+		<entry key="ObjectBrowser_Scenery_ToggleSnap" translation="Aggancia Posizione"/>
+		<entry key="ObjectBrowser_Scenery_ToggleSnap_Hint" translation="Aggancia la posizione a punti fissi dello scenario e degli edifici esistenti."/>
 		<entry key="ObjectBrowser_Settings" translation="Impostazioni"/>
 		<entry key="ObjectBrowser_SortBy" translation="Ordina Per"/>
 		<entry key="ObjectBrowser_SortBy_Name" translation="Nome"/>
@@ -13758,7 +13758,7 @@
 		<entry key="ObjectBrowser_TestStat" translation="Dimensioni griglia"/>
 		<entry key="ObjectBrowser_TestTitle" translation="Un oggetto amorevole"/>
 		<entry key="ObjectBrowser_TestValue" translation="Dimensione attuale"/>
-		<entry key="ObjectBrowser_Thrill" translation="Giostre Paurose"/>
+		<entry key="ObjectBrowser_Thrill" translation="Attrazioni Eccitanti"/>
 		<entry key="ObjectBrowser_Tooltip_Filter" translation="Limita visualizzazione a un gruppo specifico di oggetti."/>
 		<entry key="ObjectBrowser_Tooltip_Items" translation="{ITEM_NAME}\n{COST}"/>
 		<entry key="ObjectBrowser_Tooltip_Items_Advanced" translation="{ITEM_NAME}&#10;{COST}&#10;{TYPE}"/>
@@ -13779,7 +13779,7 @@
 		<entry key="ObjectBrowser_Track_MaxTrackHeight" translation="Altezza massima del tracciato"/>
 		<entry key="ObjectBrowser_Transport" translation="Trasporti"/>
 		<entry key="ObjectBrowser_Type" translation="Tipologia"/>
-		<entry key="ObjectBrowser_Water" translation="Giostre d'acqua"/>
+		<entry key="ObjectBrowser_Water" translation="Attrazioni Acquatiche"/>
 		<!--OptionsMenu-->
 		<entry key="OptionsMenu_Audio" translation="Audio"/>
 		<entry key="OptionsMenu_Audio_Mute" translation="Silenzia"/>
@@ -13847,63 +13847,63 @@
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_04" translation="Telecamera di sicurezza - Successiva"/>
 		<entry key="OptionsMenu_Controls_CameraMisc_Command_05" translation="Attiva/Disattiva sovrimpressione telecamera di sicurezza"/>
 		<entry key="OptionsMenu_Controls_Coaster_Edit" translation="Modalità Modifica Coaster"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Use handles"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Delete Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Select Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Cancel/Close"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Toggle Angle Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Toggle Flatten Terrain On/Off"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] on Placed Piece"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera" translation="Controller based camera"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_01" translation="Camera Left"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_02" translation="Camera Right"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_03" translation="Camera Fowards"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_04" translation="Camera Backwards"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_05" translation="Raise Camera Up"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_06" translation="Lower Camera Down"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_07" translation="Rotate Left"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_08" translation="Rotate Right"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_09" translation="Look Up"/>
-		<entry key="OptionsMenu_Controls_ControllerCamera_Command_10" translation="Look Down"/>
-		<entry key="OptionsMenu_Controls_GameCamera_Down" translation="Pan Camera Down (Freelook only)"/>
-		<entry key="OptionsMenu_Controls_GameCamera_Up" translation="Pan Camera Up (Freelook only)"/>
-		<entry key="OptionsMenu_Controls_General" translation="General Shortcuts"/>
-		<entry key="OptionsMenu_Controls_General_Command_01" translation="Controls Help (Show/Hide)"/>
-		<entry key="OptionsMenu_Controls_General_Command_02a" translation="Pan Camera Forwards"/>
-		<entry key="OptionsMenu_Controls_General_Command_02b" translation="Pan Camera Backwards"/>
-		<entry key="OptionsMenu_Controls_General_Command_02c" translation="Pan Camera Left"/>
-		<entry key="OptionsMenu_Controls_General_Command_02d" translation="Pan Camera Right"/>
-		<entry key="OptionsMenu_Controls_General_Command_03a" translation="Rotate Camera Left"/>
-		<entry key="OptionsMenu_Controls_General_Command_03b" translation="Rotate Camera Right"/>
-		<entry key="OptionsMenu_Controls_General_Command_04a" translation="Zoom Camera In"/>
-		<entry key="OptionsMenu_Controls_General_Command_04b" translation="Zoom Camera Out"/>
-		<entry key="OptionsMenu_Controls_General_Command_05" translation="Toggle Freelook Camera On/Off"/>
-		<entry key="OptionsMenu_Controls_General_Command_06" translation="Increase Freelook Camera Speed"/>
-		<entry key="OptionsMenu_Controls_General_Command_07" translation="Cancel Placement, Close Browser, Deselect Object, Open Options Menu"/>
-		<entry key="OptionsMenu_Controls_General_Command_08" translation="Delete Selected Object"/>
-		<entry key="OptionsMenu_Controls_General_Command_09" translation="Change Simulation Speed"/>
-		<entry key="OptionsMenu_Controls_General_Command_10" translation="Pause Simulation"/>
-		<entry key="OptionsMenu_Controls_General_Command_11" translation="Undo"/>
-		<entry key="OptionsMenu_Controls_General_Command_12" translation="Redo"/>
-		<entry key="OptionsMenu_Controls_General_Command_13" translation="Duplicate Object/Building"/>
-		<entry key="OptionsMenu_Controls_General_Command_13b" translation="Duplicate and Advanced Move/Rotate"/>
-		<entry key="OptionsMenu_Controls_General_Command_14" translation="Move Selection"/>
-		<entry key="OptionsMenu_Controls_General_Command_15" translation="Edit Building"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Usa Regolatori Blu a Schermo"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Costruisci Pezzo di Tracciato"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Cancella Pezzo di Tracciato"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Seleziona Pezzo di Tracciato"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Annulla/Chiudi"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Attiva/Disattiva Angoli Fissi"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_07" translation="Attiva/Disattiva Appiattisci Terreno"/>
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] sul pezzo posizionato"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera" translation="Controlli Visuale"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_01" translation="Visuale a Sinistra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_02" translation="Visuale a Destra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_03" translation="Visuale Avanti"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_04" translation="Visuale Dietro"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_05" translation="Alza Visuale"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_06" translation="Abbassa Visuale"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_07" translation="Ruota a Sinistra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_08" translation="Ruota a Destra"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_09" translation="Guarda Su"/>
+		<entry key="OptionsMenu_Controls_ControllerCamera_Command_10" translation="Guarda Giù"/>
+		<entry key="OptionsMenu_Controls_GameCamera_Down" translation="Scorri Visuale in Giù (solo Visuale Libera)"/>
+		<entry key="OptionsMenu_Controls_GameCamera_Up" translation="Scorri Visuale in Su (solo Visuale Libera)"/>
+		<entry key="OptionsMenu_Controls_General" translation="Scorciatoie Generali"/>
+		<entry key="OptionsMenu_Controls_General_Command_01" translation="Aiuto Controlli (Mostra/Nascondi)"/>
+		<entry key="OptionsMenu_Controls_General_Command_02a" translation="Scorri Visuale Avanti"/>
+		<entry key="OptionsMenu_Controls_General_Command_02b" translation="Scorri Visuale Indietro"/>
+		<entry key="OptionsMenu_Controls_General_Command_02c" translation="Scorri Visuale a Sinistra"/>
+		<entry key="OptionsMenu_Controls_General_Command_02d" translation="Scorri Visuale a Destra"/>
+		<entry key="OptionsMenu_Controls_General_Command_03a" translation="Ruota Visuale a Sinistra"/>
+		<entry key="OptionsMenu_Controls_General_Command_03b" translation="Ruota Visuale a Destra"/>
+		<entry key="OptionsMenu_Controls_General_Command_04a" translation="Zoom Visuale Dentro"/>
+		<entry key="OptionsMenu_Controls_General_Command_04b" translation="Zoom Visuale Fuori"/>
+		<entry key="OptionsMenu_Controls_General_Command_05" translation="Attiva/Disattiva Visuale Libera"/>
+		<entry key="OptionsMenu_Controls_General_Command_06" translation="Aumenta Velocità Visuale Libera"/>
+		<entry key="OptionsMenu_Controls_General_Command_07" translation="Annulla Posizionamento, Chiudi Visualizzatore, Deseleziona Oggetto, Apri Menù Opzioni"/>
+		<entry key="OptionsMenu_Controls_General_Command_08" translation="Cancella Oggetto Selezionato"/>
+		<entry key="OptionsMenu_Controls_General_Command_09" translation="Cambia Velocità Simulazione"/>
+		<entry key="OptionsMenu_Controls_General_Command_10" translation="Pausa Simulazione"/>
+		<entry key="OptionsMenu_Controls_General_Command_11" translation="Annulla"/>
+		<entry key="OptionsMenu_Controls_General_Command_12" translation="Rifai"/>
+		<entry key="OptionsMenu_Controls_General_Command_13" translation="Duplica Oggetto/Edificio"/>
+		<entry key="OptionsMenu_Controls_General_Command_13b" translation="Duplica e Sposta/Ruota Avanzato"/>
+		<entry key="OptionsMenu_Controls_General_Command_14" translation="Sposta Selezione"/>
+		<entry key="OptionsMenu_Controls_General_Command_15" translation="Modifica Edificio"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickLoad" translation="Apri Menu Caricamento"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickSave" translation="Apri Menu Salvataggio"/>
-		<entry key="OptionsMenu_Controls_Menu" translation="Menu Shortcuts"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Blueprints" translation="Open My Blueprints"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Building" translation="Open Building"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Coasters" translation="Open Coasters"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_MultiSelect" translation="Open Multi-Select"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_ParkManagement" translation="Open Park Management"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Paths" translation="Open Paths"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Rides" translation="Open Rides"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Scenery" translation="Open Scenery"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Shops" translation="Open Shops and Facilities"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_Terrain" translation="Open Terrain"/>
-		<entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Open Track Rides"/>
+		<entry key="OptionsMenu_Controls_Menu" translation="Scorciatoie Menù"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Blueprints" translation="Apri i miei Progetti"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Building" translation="Apri Edifici"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Coasters" translation="Apri Montagne Russe"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_MultiSelect" translation="Apri Selezione Multipla"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_ParkManagement" translation="Apri Gestione Parco"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Paths" translation="Apri Sentieri"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Rides" translation="Apri Attrazioni"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Scenery" translation="Apri Scenari"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Shops" translation="Apri Negozi e Strutture"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_Terrain" translation="Apri Terreno"/>
+		<entry key="OptionsMenu_Controls_Menu_Command_TrackRides" translation="Apri Attrazioni a Circuito"/>
 		<entry key="OptionsMenu_Controls_Mouse" translation="Controlli Mouse"/>
 		<entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Muovi Cursore"/>
 		<entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Attiva Pulsante\nSeleziona Oggetto"/>
@@ -13928,41 +13928,41 @@
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Alza/Abbassa Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Alza/Abbassa Sentiero (Senza Posizionarlo)"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Ruota Angolo di giunzione"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Acute Angle Join"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Giunto ad Angolo Acuto"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Modifica Altezza"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Resetta Altezza"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Disabilita collegamento tra sentieri"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Lunghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Larghezza Sentiero"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Increase Path Length"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Decrease Path Width"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Increase Path Width"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Flatten Terrain"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Continuous Delete"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} on Path preview, then [MouseMoveV]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} on Junction preview, then [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, when path preview joins to a path."/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} during Path placement"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="{#LogicalButton.Editors_PathDeleteModifier#} hold while over path."/>
-		<entry key="OptionsMenu_Controls_Rebind_Button" translation="Rebind"/>
-		<entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Key Rebind In Progress"/>
-		<entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Press and release the buttons you wish to bind.&#10;Reverting in {Value:int} seconds..."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Aumenta Lunghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Diminuisci Larghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Aumenta Larghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Appiattisci Terreno"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Cancella Continuo"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} sull'anteprima Sentiero, quindi [MouseMoveV]"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} sull'anteprima Giunzione, quindi [MouseMove]"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, quando l'anteprima Sentiero raggiunge un Sentiero."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} durante il posizionamento del Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="Tieni premuto {#LogicalButton.Editors_PathDeleteModifier#} mentre ti trovi su un Sentiero."/>
+		<entry key="OptionsMenu_Controls_Rebind_Button" translation="Riassegna"/>
+		<entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Riassegnazione Tasti in esecuzione "/>
+		<entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Premi e rilascia i pulsanti che desideri assegnare.&#10;Annullamento tra {Value:int} secondi..."/>
 		<entry key="OptionsMenu_Controls_Rebind_ResetAll" translation="Resetta ai controlli di defaults"/>
-		<entry key="OptionsMenu_Controls_Rebind_Value" translation="Rebind to axis"/>
-		<entry key="OptionsMenu_Controls_ShowHideGUI" translation="Show / Hide User Interface"/>
+		<entry key="OptionsMenu_Controls_Rebind_Value" translation="Riassegna agli assi"/>
+		<entry key="OptionsMenu_Controls_ShowHideGUI" translation="Mostra / Nascondi Interfaccia Utente"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit" translation="Modifica Terreno"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Applica Pennello"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Applica Pennello Inverso (Push/Pull Brushes)"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Applica Pennello Inverso (Pennelli a Spinta/a Trazione)"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Intensità Pennello"/>
 		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Dimensione Pennello"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Decrease Brush Size"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Increase Brush Size"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_05" translation="Diminuisci Dimensione Pennello"/>
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_06" translation="Aumenta Dimensione Pennello"/>
 		<entry key="OptionsMenu_Controls_Text" translation="{ControlText}"/>
-		<entry key="OptionsMenu_Controls_Unbind_Button" translation="Reset"/>
-		<entry key="OptionsMenu_Controls_Unbind_Value" translation="Reset"/>
-		<entry key="OptionsMenu_Controls_ValueRebind_InProgress" translation="Axis Rebind In Progress"/>
-		<entry key="OptionsMenu_Controls_ValueRebind_InProgress_Label" translation="Press the thumbstick or trigger in the direction you wish to bind.&#10;Reverting in {Value:int} seconds..."/>
+		<entry key="OptionsMenu_Controls_Unbind_Button" translation="Resetta"/>
+		<entry key="OptionsMenu_Controls_Unbind_Value" translation="Resetta"/>
+		<entry key="OptionsMenu_Controls_ValueRebind_InProgress" translation="Riassegnazione Assi in esecuzione"/>
+		<entry key="OptionsMenu_Controls_ValueRebind_InProgress_Label" translation="Premi il tasto levetta o il grilletto nella direzione che desideri assegnare.&#10;Annullamento tra {Value:int} secondi..."/>
 		<entry key="OptionsMenu_DisableHints" translation="Disabilita Consigli"/>
 		<entry key="OptionsMenu_EnableNewsFeed" translation="Mostra notizie all'avvio del gioco."/>
 		<entry key="OptionsMenu_Exit" translation="Torna al Menu Principale"/>
@@ -13988,14 +13988,14 @@
 		<entry key="OptionsMenu_HidePlayerName" translation="Nascondi Nome Giocatore"/>
 		<entry key="OptionsMenu_Interface" translation="Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceAutoScale" translation="Dimensione Automatica Interfaccia"/>
-		<entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Disable interface auto scale to manually specify scale percentage."/>
-		<entry key="OptionsMenu_InterfaceDistanceFeet" translation="Feet (ft)"/>
+		<entry key="OptionsMenu_InterfaceAutoScale_Tooltip" translation="Disabilita Dimensione Automatica Interfaccia per specificare manualmente la percentuale di scala."/>
+		<entry key="OptionsMenu_InterfaceDistanceFeet" translation="Piedi (ft)"/>
 		<entry key="OptionsMenu_InterfaceDistanceKilometres" translation="Chilometri (km)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMetres" translation="Metri (m)"/>
 		<entry key="OptionsMenu_InterfaceDistanceMiles" translation="Miglia (mi)"/>
 		<entry key="OptionsMenu_InterfaceDistanceUnit" translation="Unità di Misura Distanza"/>
 		<entry key="OptionsMenu_InterfaceDistanceUnitTooltip" translation="Mostra le distanze nel gioco con questa unità"/>
-		<entry key="OptionsMenu_InterfaceDistanceYards" translation="Yards (yd)"/>
+		<entry key="OptionsMenu_InterfaceDistanceYards" translation="Yarde (yd)"/>
 		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Dimensione Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceScale_Tooltip" translation="Ingrandire oltre il 100% è raccomandato solo per l'uso con schermi ad alta risoluzione (1440p / 4K). Potrebbe causare problemi di visibilità dell'interfaccia a risoluzioni più basse."/>
 		<entry key="OptionsMenu_InterfaceSpeedFS" translation="Piedi al secondo (ft/s)"/>
@@ -14006,7 +14006,7 @@
 		<entry key="OptionsMenu_InterfaceSpeedUnitTooltip" translation="Mostra le velocità nel gioco con questa unità"/>
 		<entry key="OptionsMenu_InterfaceUnitsLabel" translation="Unità"/>
 		<entry key="OptionsMenu_Keybindings" translation="Controlli tastiera"/>
-		<entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Autosave {Count:int})"/>
+		<entry key="OptionsMenu_LoadMenu_AutosaveName" translation="{Name} (Salvataggio Automatico {Count:int})"/>
 		<entry key="OptionsMenu_LoadMenu_AutosaveNumber" translation="Salvataggio Automatico {Count:int}"/>
 		<entry key="OptionsMenu_LoadMenu_LoadDate" translation="{TimeString} - {DateString}"/>
 		<entry key="OptionsMenu_LoadMenu_SaveName" translation="{Name}"/>
@@ -14071,96 +14071,96 @@
 		<entry key="OptionsMenu_windowTitle" translation="Opzioni"/>
 		<!--PDLC_DeLorean_Coasters-->
 		<entry key="Coaster_Type_BackToTheFuture" translation="Go Karts"/>
-		<entry key="Powered_BackToTheFuture" translation="Back to the Future"/>
-		<entry key="Powered_BackToTheFuture_Desc" translation="Guests race against each other in Back to the Future Time Machine styled go-karts."/>
+		<entry key="Powered_BackToTheFuture" translation="Ritorno al Futuro"/>
+		<entry key="Powered_BackToTheFuture_Desc" translation="I Visitatori gareggiano uno contro l'altro nei go-karts in stile Macchina del Tempo di Ritorno al Futuro."/>
 		<!--PDLC_KnightRider_Coasters-->
-		<entry key="Blueprints_KnightRider01" translation="Knight Rider KITT"/>
-		<entry key="Blueprints_KnightRider01Desc" translation="I am the voice of Knight Industries 2000’s Micro processor, K.I.T.T.&#10;Knight Rider Theme"/>
-		<entry key="Blueprints_KnightRider02" translation="Knight Rider KITT Super Pursuit Mode"/>
-		<entry key="Blueprints_KnightRider02Desc" translation="They've got a head start... it's a real good time for super pursuit mode!&#10;Knight Rider Theme"/>
-		<entry key="Blueprints_KnightRider03" translation="Knight Rider KARR"/>
-		<entry key="Blueprints_KnightRider03Desc" translation="I am the Knight Automated Roving Robot, KARR if you prefer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_KnightRiderSign" translation="Knight Rider, a shadowy flight into the dangerous world of a man who does not exist.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Bullet Impact FX&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Bullet Impact FX&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_Explosion" translation="Explosion FX&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Do not attempt to sabotage me again. I will defend myself.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Do not attempt to sabotage me again. I will defend myself.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="That can't be KARR. We destroyed KARR two years ago.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="I saw him explode! You saw him explode!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="I am the Knight Automated Roving Robot, KARR if you prefer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Bumper" translation="Keep your scanners peeled.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door" translation="That's for making me say 'ain't'!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door_Right" translation="That's for making me say 'ain't'!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Front" translation="KITT, go into surveillance mode.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent" translation="Gimmie maximum turbo thrust and blast me outta here, will ya?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Gimmie maximum turbo thrust and blast me outta here, will ya?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HeadLight" translation="Michael, whatever happened to the good old days when we simply turbo boosted over fences and crashed through walls?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Michael, whatever happened to the good old days when we simply turbo boosted over fences and crashed through walls?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HoodScope" translation="Michael, my molecular bonded shell can't withstand the extreme heat of this lava much longer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr" translation="I am the Knight Automated Roving Robot, KARR if you prefer.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KarrPlate" translation="I wouldn’t touch that line with a ten foot driveshaft.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="You waste your time, my twin. You cannot triumph over a prototype.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Kitt" translation="I am the voice of Knight Industries 2000’s Micro processor, K.I.T.T.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KittPlate" translation="I am the Knight Industries 2000. My serial number is Alpha Delta 2-2-7-5-2-9&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Mid" translation="You know, for a collection of micro processors you're awfully touchy.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Missile" translation="Michael, please. Pardon the expression, but he does have a few screws loose.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM" translation="They've got a head start... it's a real good time for super pursuit mode!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Michael, I cannot allow you to jeopardize your life. I am assuming control.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Gimme all ya got KITT!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Rear" translation="Give me every ounce of turbo boost you got!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent" translation="KITT, I need ya buddy!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="KITT, I need ya buddy!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof" translation="You’re one in a million, pal!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof_Right" translation="You’re one in a million, pal!&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Seat" translation="Need a lift?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_SideWing" translation="If I had nerves, that would have been nerve-racking.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Spoiler" translation="Alright, Kitt, let's see what you can do.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop" translation="Did you get up on the wrong side of the garage this morning?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Did you get up on the wrong side of the garage this morning?&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Wheel" translation=" Please do not refer to me as a 'car' or a 'set of wheels', it's most demeaning.&#10;Knight Rider Theme"/>
-		<entry key="BuildingPartName_KnightRiderSign" translation="Knight Rider Sign"/>
-		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Special Effect - Knight Rider Bullet Impact Smoke"/>
-		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Special Effect - Knight Rider Bullet Impact Sparks"/>
-		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_Explosion" translation="Special Effect - Knight Rider Explosion"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Knight Rider KARR Door - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Knight Rider KARR Door - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="Knight Rider KARR Bodywork - Front"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="Knight Rider KARR Bodywork - Centre"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="Knight Rider KARR Bodywork - Back"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Bumper" translation="Knight Rider KITT Bumper"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door" translation="Knight Rider KITT Door - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door_Right" translation="Knight Rider KITT Door - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Front" translation="Knight Rider KITT Bodywork - Front"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent" translation="Knight Rider Front Vent - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Knight Rider Front Vent - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HeadLight" translation="Knight Rider Headlight - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Knight Rider Headlight - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HoodScope" translation="Knight Rider Hood Scoop"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr" translation="Knight Rider KARR Complete"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Knight Rider KARR Licence Plate"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="Knight Rider KARR Bumper"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Kitt" translation="Knight Rider KITT Complete"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KittPlate" translation="Knight Rider KITT Licence Plate"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Mid" translation="Knight Rider KITT Bodywork - Centre"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Missile" translation="Knight Rider Rocket Booster"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM" translation="Knight Rider KITT Super Pursuit Mode Complete"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Knight Rider Super Pursuit Mode Bumper"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Knight Rider Super Pursuit Mode Spoiler"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Rear" translation="Knight Rider KITT Bodywork - Back"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent" translation="Knight Rider Back Vent - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="Knight Rider Back Vent - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof" translation="Knight Rider Roof - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof_Right" translation="Knight Rider Roof - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Seat" translation="Knight Rider Seat"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_SideWing" translation="Knight Rider Side Wing"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Spoiler" translation="Knight Rider Spoiler"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop" translation="Knight Rider Top Vent - Left"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Knight Rider Top Vent - Right"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Wheel" translation="Knight Rider Wheel"/>
+		<entry key="Blueprints_KnightRider01" translation="Supercar KITT"/>
+		<entry key="Blueprints_KnightRider01Desc" translation="Sono la voce del micro processore Knight Industries 2000, K.I.T.T.&#10;Tema Supercar"/>
+		<entry key="Blueprints_KnightRider02" translation="Supercar Modalità Super Inseguimento"/>
+		<entry key="Blueprints_KnightRider02Desc" translation="Gli altri sono in testa... è il momento giusto per la modalità super inseguimento!&#10;Tema Supercar"/>
+		<entry key="Blueprints_KnightRider03" translation="Supercar KARR"/>
+		<entry key="Blueprints_KnightRider03Desc" translation="Sono la Knight Automated Roving Robot, KARR se preferite.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_KnightRiderSign" translation="Supercar, un volo ombroso nel pericoloso mondo di un uomo che non esiste.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Impatto Proiettile FX&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Impatto Proiettile FX&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_KnightRider_Explosion" translation="FX Esplosione &#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Non provare a sabotarmi di nuovo. Mi difenderò.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Non provare a sabotarmi di nuovo. Mi difenderò.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="Non può essere KARR. Abbiamo distrutto KARR due anni fa.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="Io l'ho visto esplodere! Tu l'hai visto esplodere!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="Sono la Knight Automated Roving Robot, KARR se preferite.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Bumper" translation="Tieni i tuoi scanner bene aperti.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door" translation="Questo è per avermi fatto dire 'Non si può'!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Door_Right" translation="Questo è per avermi fatto dire 'Non si può'!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Front" translation="KITT, vai in modalità sorveglianza.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent" translation="Dammi la massima spinta con il turbo e sparami fuori da qui, ok?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Dammi la massima spinta con il turbo e sparami fuori da qui, ok??&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HeadLight" translation="Michael, che fine hanno fatto i bei vecchi tempi di quando semplicemente usavamo il turbo boost sopra le recinzioni e passavamo attraverso i muri?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Michael, che fine hanno fatto i bei vecchi tempi di quando semplicemente usavamo il turbo boost sopra le recinzioni e passavamo attraverso i muri?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_HoodScope" translation="Michael, il mio scudo molecolare non può resistere più a lungo all'estremo calore di questa lava.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr" translation="Sono la Knight Automated Roving Robot, KARR se preferite.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Non toccherei quella linea neanche con un albero di trasmissione di dieci piedi.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="Perdi il tuo tempo, mio gemello. Non puoi battere un prototipo.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Kitt" translation="Sono la voce del micro processore Knight Industries 2000, K.I.T.T.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_KittPlate" translation="Sono la Knight Industries 2000. Il mio numero di serie è Alfa Delta 2-2-7-5-2-9&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Mid" translation="Lo sai, per un mucchietto di micro processori sei veramente permaloso.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Missile" translation="Scusa Michael. Perdona l'espressione, ma ha qualche rotella fuori posto.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM" translation="Gli altri sono in testa... è il momento giusto per la modalità super inseguimento!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Michael, non posso permetterti di mettere a repentaglio la tua vita. Assumo io il controllo.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Dammi tutto quello che hai KITT!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Rear" translation="Dammi ogni grammo di turbo boost che hai!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent" translation="KITT, ho bisogno di te amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="KITT, ho bisogno di te amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof" translation="Sei il numero uno su un milione, amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Roof_Right" translation="Sei il numero uno su un milione, amico!&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Seat" translation="Hai bisogno di un passaggio?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_SideWing" translation="Se avessi i nervi, sarebbe da esaurimento nervoso.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Spoiler" translation="Va bene, Kitt, fammi vedere cosa sai fare.&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop" translation="Ti sei svegliato dalla parte sbagliata del garage questa mattina?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Ti sei svegliato dalla parte sbagliata del garage questa mattina?&#10;Tema Supercar"/>
+		<entry key="BuildingPartDesc_PDLC_Knight_Rider_KittBash_Wheel" translation=" Per favore non trattarmi come una 'macchina' o un 'set di gomme', è piuttosto avvilente.&#10;Tema Supercar"/>
+		<entry key="BuildingPartName_KnightRiderSign" translation="Insegna Supercar"/>
+		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Smoke" translation="Effetto Speciale - Fumo Impatto Proiettile Supercar"/>
+		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_BulletImpact_Sparks" translation="Effetto Speciale - Scintille Impatto Proiettile Supercar"/>
+		<entry key="BuildingPartName_PDLC_FXBox_KnightRider_Explosion" translation="Effetto Speciale - Esplosione Supercar"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Karr" translation="Supercar KARR Portiera - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Door_Right_Karr" translation="Supercar KARR Portiera - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Front_Karr" translation="Supercar KARR Telaio - Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Mid_Karr" translation="Supercar KARR Telaio - Centrale"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_Kitbash_Rear_Karr" translation="Supercar KARR Telaio - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Bumper" translation="Supercar KITT Paraurti"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door" translation="Supercar KITT Portiera - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Door_Right" translation="Supercar KITT Portiera - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Front" translation="Supercar KITT Telaio - Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent" translation="Supercar Presa d'aria Anteriore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Supercar Presa d'aria Anteriore - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HeadLight" translation="Supercar Luce Frontale - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Supercar Luce Frontale - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HoodScope" translation="Supercar Radar Cofano"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr" translation="Supercar KARR Completa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Supercar KARR Targa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr_Bumper" translation="Supercar KARR Paraurti"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Kitt" translation="Supercar KITT Completa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KittPlate" translation="Supercar KITT Targa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Mid" translation="Supercar KITT Telaio - Centrale"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Missile" translation="Supercar Razzo Propulsore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM" translation="Supercar KITT Modalità Super Inseguimento Completa"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Bumper" translation="Supercar Modalità Super Inseguimento Paraurti"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_PursuitM_Spoiler" translation="Supercar Modalità Super Inseguimento Spoiler"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Rear" translation="Supercar KITT Telaio - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent" translation="Supercar Presa d'aria Posteriore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_RearVent_Right" translation="Supercar Presa d'aria Posteriore - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof" translation="Supercar Tetto - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Roof_Right" translation="Supercar Tetto - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Seat" translation="Supercar Sedile"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_SideWing" translation="Supercar Ala Laterale"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Spoiler" translation="Supercar Spoiler"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop" translation="Supercar Presa d'aria Superiore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_VentTop_Right" translation="Supercar Presa d'aria Superiore - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Wheel" translation="Supercar Ruota"/>
 		<entry key="Coaster_Type_KnightRider" translation="Go Karts"/>
-		<entry key="Powered_KnightRider" translation="Knight Rider"/>
-		<entry key="Powered_KnightRider_Desc" translation="Guests race against each other in KITT styled go-karts."/>
+		<entry key="Powered_KnightRider" translation="Supercar"/>
+		<entry key="Powered_KnightRider_Desc" translation="I visitatori gareggiano uno contro l'altro su go-karts stile KITT."/>
 		<!--PDLC_Munsters_Coasters-->
 		<entry key="Blueprints_Munsters01" translation="The Munsters Koach"/>
 		<entry key="Blueprints_Munsters01Desc" translation="Oh, goody!&#10;The Munsters Theme"/>
@@ -19918,7 +19918,7 @@
 		<entry key="Train_Hart" translation="Elettrocardiogramma"/>
 		<entry key="Train_Invincible" translation="Invincibile"/>
 		<entry key="Train_IronHorse" translation="Iron Horse"/>
-		<entry key="Train_KnightRider" translation="Knight Rider"/>
+		<entry key="Train_KnightRider" translation="Supercar"/>
 		<entry key="Train_LTurns" translation="Curve Matte"/>
 		<entry key="Train_LunaAutos" translation="Automobili Luna"/>
 		<entry key="Train_MUC" translation="Malice Unchained"/>
@@ -20173,7 +20173,7 @@
 		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
 		<entry key="TriggeredSFX_Horror_Heading" translation="Horror"/>
 		<entry key="TriggeredSFX_Human_Heading" translation="Umano"/>
-		<entry key="TriggeredSFX_KITT_DLC_Heading" translation="Knight Rider"/>
+		<entry key="TriggeredSFX_KITT_DLC_Heading" translation="Supercar"/>
 		<entry key="TriggeredSFX_Magic_Heading" translation="Magia"/>
 		<entry key="TriggeredSFX_Mechanical_Heading" translation="Meccanico"/>
 		<entry key="TriggeredSFX_Miscellaneous_Heading" translation="Varie"/>
