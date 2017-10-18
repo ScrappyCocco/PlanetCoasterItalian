@@ -13758,7 +13758,7 @@
 		<entry key="ObjectBrowser_TestStat" translation="Dimensioni griglia"/>
 		<entry key="ObjectBrowser_TestTitle" translation="Un oggetto amorevole"/>
 		<entry key="ObjectBrowser_TestValue" translation="Dimensione attuale"/>
-		<entry key="ObjectBrowser_Thrill" translation="Attrazioni Eccitanti"/>
+		<entry key="ObjectBrowser_Thrill" translation="Attrazioni Emozionanti"/>
 		<entry key="ObjectBrowser_Tooltip_Filter" translation="Limita visualizzazione a un gruppo specifico di oggetti."/>
 		<entry key="ObjectBrowser_Tooltip_Items" translation="{ITEM_NAME}\n{COST}"/>
 		<entry key="ObjectBrowser_Tooltip_Items_Advanced" translation="{ITEM_NAME}&#10;{COST}&#10;{TYPE}"/>
@@ -14134,8 +14134,8 @@
 		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Front" translation="Supercar KITT Telaio - Anteriore"/>
 		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent" translation="Supercar Presa d'aria Anteriore - Sinistra"/>
 		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_FrontVent_Right" translation="Supercar Presa d'aria Anteriore - Destra"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HeadLight" translation="Supercar Luce Frontale - Sinistra"/>
-		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Supercar Luce Frontale - Destra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HeadLight" translation="Supercar Luce Anteriore - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Headlight_Right" translation="Supercar Luce Anteriore - Destra"/>
 		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_HoodScope" translation="Supercar Radar Cofano"/>
 		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_Karr" translation="Supercar KARR Completa"/>
 		<entry key="BuildingPartName_PDLC_Knight_Rider_KittBash_KarrPlate" translation="Supercar KARR Targa"/>
@@ -14163,147 +14163,147 @@
 		<entry key="Powered_KnightRider_Desc" translation="I visitatori gareggiano uno contro l'altro su go-karts stile KITT."/>
 		<!--PDLC_Munsters_Coasters-->
 		<entry key="Blueprints_Munsters01" translation="The Munsters Koach"/>
-		<entry key="Blueprints_Munsters01Desc" translation="Oh, goody!&#10;The Munsters Theme"/>
+		<entry key="Blueprints_Munsters01Desc" translation="Oh, che bello!&#10;Tema The Munsters"/>
 		<entry key="Blueprints_Munsters02" translation="The Munsters Dragula"/>
-		<entry key="Blueprints_Munsters02Desc" translation="No foolin'?&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_BackBar" translation="Eddie! You better start dawdling, or you're going to be on time for school!&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_BackCabin" translation="Oh, there's a lot of advantages, my boy, to being the creature from the Black Lagoon.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Engine" translation="You know, Grandpa, when the chips are down, it's nice to have a no good sneak like you to turn to.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_FrontAttachment" translation="We love you from the bottom of your little hooves to the top of your little pointed ears.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_FrontCabin" translation="By any chance did you know my family doctor in Germany? Dr. Frankenstein. He made me what I am today.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Header" translation="Herman has a very distinctive latern jaw and piercing eyes. And ah, classic nose... oh, and an overhanging forehead.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Lantern_Front" translation="The last time they made a present for Eddie, it broke loose and swallowed a milk truck.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Lantern_Rear" translation="Herman tried to build a ship inside a bottle. We had to break the bottle to get him out.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Parachute" translation="Oh, before you go to bed, be sure to put on the heavier lid. It's going to be chilly tonight.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Pipes_Left" translation="Those organ pipes are a very nice exhaust.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Pipes_Right" translation=" I'll have you know, Herman, that this is the only dragster in America that can play 'Oh, promise me' in second gear.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_SteeringAxle" translation="Spot's in the kitchen. Why don't you take him out in the yard and help him bury someone?&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Wheels_F" translation="I want you two to stop fighting. Now. Now you make up and bury the shovel.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Wheels_R" translation="I want you two to stop fighting. Now. Now you make up and bury the shovel.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Dragula_Large_WindowTop" translation="I wish Grandpa were here and maybe he'd get one of my good ideas.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_FXBox_Munsters_Mist" translation="Special Effect - The Munsters Mist"/>
-		<entry key="BuildingPartDesc_PDLC_MunstersSign" translation="The Munsters Sign&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_MunstersSign2" translation="The Munsters Sign&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Cannon" translation="To our favorite Count Dracula, a souvenir from Dr. Frankenstein and all the guys and gals.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Back" translation="Last time we had a family spat, he turned himself into a frog and lived under the porch for weeks.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackDoor_L" translation="The last time I tried to sleep in a place this small, some guy shovelled dirt in my face.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackDoor_R" translation="The last time I tried to sleep in a place this small, some guy shovelled dirt in my face.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackWheel" translation="I'd rather make a withdrawal from the blood bank.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackWheelArch" translation="Not today Eddie, Spot's being punished. He got out last night and ate all the neighbour's trash cans.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Bench" translation="Don't tell me Spot ate the living room furniture again?&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Bumper" translation="Hi, Grandpa, How are you old chum, old pall, old buddy, old friend?&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Chassis" translation=" If there's anything that's disturbs me, Lily, it's the idea of grown people, like us, dressing up in costume and looking ridiculous.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Complete" translation="Oh, goody!&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Engine" translation="Grandpa, you blew it again! The spell wore off. I told you not to buy those magic potions in Tijuana.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Front" translation="Remember, have it back before twelve or it will turn into a pumpkin!&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontDoor_L" translation="The last time I tried to sleep in a place this small, some guy shovelled dirt in my face.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontDoor_R" translation="The last time I tried to sleep in a place this small, some guy shovelled dirt in my face.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontWheel" translation="I'd rather make a withdrawal from the blood bank.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontWheelArch" translation="Not today Eddie, Spot's being punished. He got out last night and ate all the neighbour's trash cans.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontWheelArch_R" translation="Not today Eddie, Spot's being punished. He got out last night and ate all the neighbour's trash cans.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Grill" translation="That's amazing. If the top of his head was a little flatter, he'd look positively human.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_HangingLantern" translation="Oh, you've been reading in the dark again, it will ruin you're eyes and then we'll have to get you another pair.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Lantern" translation="Oh stop it you two! You'll wake the dead again!&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Middle" translation="Herman, we can lock ourselves in the dungeon for twenty or thirty years, till this thing blows over.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_MiddleDoor_L" translation="The last time I tried to sleep in a place this small, some guy shovelled dirt in my face.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_MiddleDoor_R" translation="The last time I tried to sleep in a place this small, some guy shovelled dirt in my face.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_NarrowStep" translation="This is it, 1313 Mockingbird Lane.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_RaisedBench" translation="Goodbye Spot, don't eat anybody till we get back!&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_RearAxle" translation="You see Eddie, in the great poker game of life, it's time Grandpa cashed in his chips.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Roof" translation="He can smell your deceit. You've never raised a werewolf. I have.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Seat" translation="I haven't been so shocked since the last time I sat in Grandpa's chair.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_WallLantern" translation="Did Grandpa blow up the dungeon again?&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_WideStep" translation="This is it, 1313 Mockingbird Lane.&#10;The Munsters Theme"/>
-		<entry key="BuildingPartDesc_PRC_Dragula_Small" translation="No foolin'?&#10;The Munsters Theme"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_BackBar" translation="The Munsters Dragula Back Bar"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_BackCabin" translation="The Munsters Dragula Back Cabin"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Engine" translation="The Munsters Dragula Engine"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_FrontAttachment" translation="The Munsters Dragula Front Attachment"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_FrontCabin" translation="The Munsters Dragula Front Cabin"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Header" translation="The Munsters Dragula Header"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Lantern_Front" translation="The Munsters Dragula Lantern - Front"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Lantern_Rear" translation="The Munsters Dragula Lantern - Back"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Parachute" translation="The Munsters Dragula Parachute"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Pipes_Left" translation="The Munsters Dragula Pipes - Left"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Pipes_Right" translation="The Munsters Dragula Pipes - Right"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_SteeringAxle" translation="The Munsters Dragula Steering Axle"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Wheels_F" translation="The Munsters Dragula Wheel - Front"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_Wheels_R" translation="The Munsters Dragula Wheel - Back"/>
-		<entry key="BuildingPartName_PDLC_Dragula_Large_WindowTop" translation="The Munsters Dragula Top Window"/>
-		<entry key="BuildingPartName_PDLC_FXBox_Munsters_Mist" translation="Special Effect - The Munsters Mist"/>
-		<entry key="BuildingPartName_PDLC_MunstersSign" translation="The Munsters Sign"/>
-		<entry key="BuildingPartName_PDLC_MunstersSign2" translation="The Munsters Sign 2"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Cannon" translation="The Munsters Cannon"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Back" translation="The Munsters Koach Back"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackDoor_L" translation="The Munsters Koach Door - Back Left"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackDoor_R" translation="The Munsters Koach Door - Back Right"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackWheel" translation="The Munsters Koach Wheel - Back"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackWheelArch" translation="The Munsters Koach Wheel Arch - Back"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Bench" translation="The Munsters Koach Bench"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Bumper" translation="The Munsters Koach Bumper"/>
+		<entry key="Blueprints_Munsters02Desc" translation="Stai scherzando?&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_BackBar" translation="Eddie! Farai meglio a perdere un po di tempo, o sarai in orario per la scuola!&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_BackCabin" translation="Oh, ci sono un sacco di vantaggi, ragazzo mio, ad essere la Creatura della Laguna Nera.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Engine" translation="Sai, Nonno, quando le cose vanno male, è bello avere un poco di buono spione come te a cui rivolgersi.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_FrontAttachment" translation="Ti amiamo dal fondo delle tue piccole zampette fino alla cima delle tue piccole orecchie a punta.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_FrontCabin" translation="In ogni caso hai conosciuto il mio medico di famiglia in Germania? Dr. Frankenstein. Mi ha reso ciò che sono oggi.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Header" translation="Herman ha una mascella volitiva molto caratteristica e occhi penetranti. E.. ah, un naso tipico... oh.. e una fronte sporgente.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Lantern_Front" translation="L'ultima volta che hanno fatto un regalo a Eddie, quel coso è scappato via e ha ingoiato una cisterna del latte.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Lantern_Rear" translation="Herman ha provato a costruire una nave dentro una bottiglia. Abbiamo dovuto rompere la bottiglia per tirarlo fuori.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Parachute" translation="Oh, prima che tu vada a letto, assicurati di mettere il coperchio più pesante. Farà molto freddo stanotte.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Pipes_Left" translation="Quei tubi d'organo sono uno scarico molto bello.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Pipes_Right" translation=" Ti farò vedere, Herman, che questo è l'unico dragster in America che può suonare 'Oh, promettimi' in seconda marcia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_SteeringAxle" translation="Spot è in cucina. Perché non lo porti fuori in cortile e lo aiuti a seppellire qualcuno?&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Wheels_F" translation="Voglio che voi due smettiate di litigare. Adesso. Ora ricomponetevi e seppellite la pala.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_Wheels_R" translation="Voglio che voi due smettiate di litigare. Adesso. Ora ricomponetevi e seppellite la pala.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Dragula_Large_WindowTop" translation="Vorrei che Nonno fosse qui e magari avesse una delle mie buone idee.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_FXBox_Munsters_Mist" translation="Effetto Speciale - Foschia The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_MunstersSign" translation="Insegna The Munsters&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_MunstersSign2" translation="Insegna The Munsters&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Cannon" translation="Al nostro Conte Dracula preferito, un souvenir dal Dr. Frankenstein e tutti i ragazzi e le ragazze.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Back" translation="L'ultima volta che abbiamo avuto un battibecco in famiglia, si è trasformato in una rana ed ha vissuto sotto il portico per settimane.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackDoor_L" translation="L'ultima volta che ho cercato di dormire in un posto così piccolo, un ragazzo mi ha spalato della terra in faccia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackDoor_R" translation="L'ultima volta che ho cercato di dormire in un posto così piccolo, un ragazzo mi ha spalato della terra in faccia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackWheel" translation="Preferirei fare un prelievo dalla banca del sangue.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_BackWheelArch" translation="Non oggi Eddie, Spot è stato punito. E' uscito ieri sera e ha mangiato tutti i contenitori per i rifiuti del vicino.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Bench" translation="Non dirmi che Spot ha mangiato di nuovo i mobili del soggiorno?&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Bumper" translation="Ciao, Nonno, come stai vecchio compagno, vecchio socio, vecchio conoscente, vecchio amico?&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Chassis" translation=" Se c'è qualcosa che mi disturba, Lily, è l'idea di persone cresciute, come noi, che indossano un costume e sembrano ridicole.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Complete" translation="Oh, che bello!&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Engine" translation="Nonno, lo hai fatto scoppiare di nuovo! L'incantesimo non ha funzionato. Ti avevo detto di non comprare quelle pozioni magiche a Tijuana.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Front" translation="Ricorda, fallo ritornare prima di mezzanotte o si trasformerà in una zucca!&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontDoor_L" translation="L'ultima volta che ho cercato di dormire in un posto così piccolo, un ragazzo mi ha spalato della terra in faccia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontDoor_R" translation="L'ultima volta che ho cercato di dormire in un posto così piccolo, un ragazzo mi ha spalato della terra in faccia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontWheel" translation="Preferirei fare un prelievo dalla banca del sangue.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontWheelArch" translation="Non oggi Eddie, Spot è stato punito. E' uscito ieri sera e ha mangiato tutti i contenitori per i rifiuti del vicino.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_FrontWheelArch_R" translation="Non oggi Eddie, Spot è stato punito. E' uscito ieri sera e ha mangiato tutti i contenitori per i rifiuti del vicino.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Grill" translation="E' incredibile. Se la cima della sua testa fosse un po più piatta, sembrerebbe di sicuro umano.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_HangingLantern" translation="Oh, hai ancora letto al buio, ti rovinerai gli occhi e dovremo prendertene un altro paio.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Lantern" translation="Oh fermatevi voi due! Sveglierete di nuovo i morti!&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Middle" translation="Herman, possiamo chiuderci nel sotterranneo per venti o trent'anni, finché questa cosa non si placa.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_MiddleDoor_L" translation="L'ultima volta che ho cercato di dormire in un posto così piccolo, un ragazzo mi ha spalato della terra in faccia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_MiddleDoor_R" translation="L'ultima volta che ho cercato di dormire in un posto così piccolo, un ragazzo mi ha spalato della terra in faccia.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_NarrowStep" translation="Eccoci qua, 1313 Mockingbird Lane.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_RaisedBench" translation="Arrivederci Spot, non mangiare nessuno fino a che non torniamo!&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_RearAxle" translation="Vedi Eddie, nel gran gioco del poker della vita, è il momento che il Nonno incassi le sue fiches.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Roof" translation="Può annusare la tua falsità. Non hai mai cresciuto un lupo mannaro. Io si.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_Seat" translation="Non sono stato così elettrizzato da quando mi sono seduto l'ultima volta sulla sedia del Nonno.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_WallLantern" translation="Il Nonno ha fatto esplodere di nuovo il sotterraneo?&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PDLC_Munsters_Koach_WideStep" translation="Eccoci qua, 1313 Mockingbird Lane.&#10;Tema The Munsters"/>
+		<entry key="BuildingPartDesc_PRC_Dragula_Small" translation="Stai scherzando?&#10;Tema The Munsters"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_BackBar" translation="The Munsters Dragula Barra Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_BackCabin" translation="The Munsters Dragula Cabina Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Engine" translation="The Munsters Dragula Motore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_FrontAttachment" translation="The Munsters Dragula Attacco Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_FrontCabin" translation="The Munsters Dragula Cabina Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Header" translation="The Munsters Dragula Testata"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Lantern_Front" translation="The Munsters Dragula Lanterna - Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Lantern_Rear" translation="The Munsters Dragula Lanterna - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Parachute" translation="The Munsters Dragula Paracadute"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Pipes_Left" translation="The Munsters Dragula Tubi - Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Pipes_Right" translation="The Munsters Dragula Tubi - Destra"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_SteeringAxle" translation="The Munsters Dragula Assale sterzante"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Wheels_F" translation="The Munsters Dragula Ruota - Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_Wheels_R" translation="The Munsters Dragula Ruota - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Dragula_Large_WindowTop" translation="The Munsters Dragula Finestra Superiore"/>
+		<entry key="BuildingPartName_PDLC_FXBox_Munsters_Mist" translation="Effetto Speciale - Foschia The Munsters "/>
+		<entry key="BuildingPartName_PDLC_MunstersSign" translation="The Munsters Insegna"/>
+		<entry key="BuildingPartName_PDLC_MunstersSign2" translation="The Munsters insegna 2"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Cannon" translation="The Munsters Cannone"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Back" translation="The Munsters Koach Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackDoor_L" translation="The Munsters Koach Portiera - Posteriore Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackDoor_R" translation="The Munsters Koach Portiera - Posteriore Destra"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackWheel" translation="The Munsters Koach Ruota - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_BackWheelArch" translation="The Munsters Koach Passaruota - Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Bench" translation="The Munsters Koach Pianale"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Bumper" translation="The Munsters Koach Paraurti"/>
 		<entry key="BuildingPartName_PDLC_Munsters_Koach_Chassis" translation="The Munsters Koach Chassis"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Complete" translation="The Munsters Koach Complete"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Engine" translation="The Munsters Koach Engine"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Front" translation="The Munsters Koach Front"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontDoor_L" translation="The Munsters Koach Door - Front Left"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontDoor_R" translation="The Munsters Koach Door - Front Right"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontWheel" translation="The Munsters Koach Wheel - Front"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontWheelArch" translation="The Munsters Koach Wheel Arch - Front Left"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontWheelArch_R" translation="The Munsters Koach Wheel Arch - Front Right"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Grill" translation="The Munsters Koach Grill"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_HangingLantern" translation="The Munsters Koach Hanging Lantern"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Lantern" translation="The Munsters Koach Lantern"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Middle" translation="The Munsters Koach Middle"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_MiddleDoor_L" translation="The Munsters Koach Door - Middle Left"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_MiddleDoor_R" translation="The Munsters Koach Door - Middle Right"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_NarrowStep" translation="The Munsters Koach Step - Narrow"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_RaisedBench" translation="The Munsters Koach Raised Bench"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_RearAxle" translation="The Munsters Koach Back Axle"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Roof" translation="The Munsters Koach Roof"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_Seat" translation="The Munsters Koach Seat"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_WallLantern" translation="The Munsters Koach Wall Lantern"/>
-		<entry key="BuildingPartName_PDLC_Munsters_Koach_WideStep" translation="The Munsters Koach Step - Wide"/>
-		<entry key="BuildingPartName_PRC_Dragula_Small" translation="The Munsters Dragula Complete"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Complete" translation="The Munsters Koach Completa"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Engine" translation="The Munsters Koach Motore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Front" translation="The Munsters Koach Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontDoor_L" translation="The Munsters Koach Portiera - Anteriore Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontDoor_R" translation="The Munsters Koach Portiera - Anteriore Destra"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontWheel" translation="The Munsters Koach Ruota- Anteriore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontWheelArch" translation="The Munsters Koach Passaruota - Anteriore Sinistro"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_FrontWheelArch_R" translation="The Munsters Koach Passaruota - Anteriore Destro"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Grill" translation="The Munsters Koach Griglia"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_HangingLantern" translation="The Munsters Koach Lanterna Appesa"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Lantern" translation="The Munsters Koach Lanterna"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Middle" translation="The Munsters Koach Centrale"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_MiddleDoor_L" translation="The Munsters Koach Portiera - Centrale Sinistra"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_MiddleDoor_R" translation="The Munsters Koach Portiera - Centrale Destra"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_NarrowStep" translation="The Munsters Koach Gradino - Stretto"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_RaisedBench" translation="The Munsters Koach Pianale Rialzato"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_RearAxle" translation="The Munsters Koach Assale Posteriore"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Roof" translation="The Munsters Koach Tetto"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_Seat" translation="The Munsters Koach Sedile"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_WallLantern" translation="The Munsters Koach Lanterna a Muro"/>
+		<entry key="BuildingPartName_PDLC_Munsters_Koach_WideStep" translation="The Munsters Koach Gradino - Largo"/>
+		<entry key="BuildingPartName_PRC_Dragula_Small" translation="The Munsters Dragula Completo"/>
 		<entry key="Coaster_Type_TheMunsters" translation="Go Karts"/>
 		<entry key="Powered_TheMunsters" translation="The Munsters"/>
-		<entry key="Powered_TheMunsters_Desc" translation="Guests race against each other in Munster Koach and DRAG-U-LA styled go-karts."/>
+		<entry key="Powered_TheMunsters_Desc" translation="I visitatori gareggiano uno contro l'altro su go-karts stile Munster Koach e DRAG-U-LA."/>
 		<!--PDLC_Spooky_Coasters-->
 		<entry key="Coaster_DarkTower" translation="In-Descent"/>
-		<entry key="Coaster_DarkTower_Desc" translation="Shuttle roller coaster that launches the train backwards out of the Stazione and up a vertical incline. As it comes to a stop it gives the riders a weightless moment before coming back down the drop and back into the Stazione."/>
-		<entry key="Coaster_Type_DarkTower" translation="Reverse Freefall Coaster"/>
-		<entry key="Coaster_Type_Hoax" translation="Ghost Train"/>
-		<entry key="Coaster_Type_Huntsman" translation="Tracked Motion Platform"/>
+		<entry key="Coaster_DarkTower_Desc" translation="Montagna Russa shuttle che lancia il treno all'indietro fuori dalla Stazione su di una pendenza verticale. Quando ad un certo punto si arresta regala ai passeggeri un momento di assenza di peso prima di tornare indietro per la discesa verso la Stazione."/>
+		<entry key="Coaster_Type_DarkTower" translation="Montagna Russa inversa a Caduta Libera "/>
+		<entry key="Coaster_Type_Hoax" translation="Treno fantasma"/>
+		<entry key="Coaster_Type_Huntsman" translation="Piattaforma mobile su percorso"/>
 		<entry key="Powered_Hoax" translation="Hoax"/>
-		<entry key="Powered_Hoax_Desc" translation="Electrically powered cars travel along a track at a fixed speed or can be dragged up with a chain lift to coast along."/>
+		<entry key="Powered_Hoax_Desc" translation="Auto alimentate elettricamente che si muovono lungo un percorso a velocità prestabilita o che possono essere tirate in su con un traino a catena."/>
 		<entry key="Powered_Huntsman" translation="Huntsman"/>
-		<entry key="Powered_Huntsman_Desc" translation="Electrically powered motion platforms move along a track, from which the platform's rotation angles can be set in three dimensions."/>
-		<entry key="Research_Hint_Coaster_InDescent" translation="Summit and Plummet."/>
+		<entry key="Powered_Huntsman_Desc" translation="Piattaforme mobili alimentate elettricamente che si muovono lungo un percorso, su cui la rotazione della piattaforma può essere impostata in tre dimensioni."/>
+		<entry key="Research_Hint_Coaster_InDescent" translation="Vertice e Precipizio."/>
 		<entry key="Research_Revealed_Coaster_InDescent" translation="In-Descent"/>
-		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Stazione with left entry and right exit"/>
-		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Stazione with right entry and left exit"/>
-		<entry key="Station_Type_station_mono_dir_RightRight" translation="Stazione with right entry and right exit"/>
-		<entry key="Station_Type_station_mono_dir_leftleft" translation="Stazione with left entry and left exit"/>
-		<entry key="TrackEditParam_CabinPitch" translation="Car Pitch Angle"/>
-		<entry key="TrackEditParam_CabinPitchSet" translation="Control Pitch"/>
-		<entry key="TrackEditParam_CabinRoll" translation="Car Roll Angle"/>
-		<entry key="TrackEditParam_CabinRollSet" translation="Control Roll"/>
-		<entry key="TrackEditParam_CabinYaw" translation="Car Yaw Angle"/>
-		<entry key="TrackEditParam_CabinYawSet" translation="Control Yaw"/>
-		<entry key="TrackElementDesc_SDLIM" translation="Boosts the train in the direction it's travelling in to help it pick up speed. Also slows the train when the ride comes to an end."/>
-		<entry key="TrackElementDesc_TowerBase" translation="Slopes uphill to allow the train to go vertical."/>
-		<entry key="TrackElementDesc_TowerExt" translation="Extends the length of the vertical to get a higher drop."/>
-		<entry key="TrackElementDesc_TowerTop" translation="Finalizes tower construction."/>
-		<entry key="TrackElementDesc_TunnelTrack" translation="Tunnel section with a linear induction motor, brakes and optional lighting"/>
-		<entry key="TrackElementName_SDLIM" translation="Single Direction Linear Induction Motor&#10;(with brake function)"/>
-		<entry key="TrackElementName_TowerBase" translation="Tower Base"/>
-		<entry key="TrackElementName_TowerExt" translation="Tower Extension"/>
-		<entry key="TrackElementName_TowerTop" translation="Tower Top"/>
-		<entry key="TrackElementName_TunnelTrack" translation="Tunnel Section"/>
-		<entry key="TrackElementTool_SDLIM" translation="&lt;font color='accent'&gt;Single Direction Linear Induction Motor&#10;(with brake function)&lt;/font&gt;&#10;Boosts the train in the direction it's travelling in to help it pick up speed. Also slows the train when the ride comes to an end."/>
-		<entry key="TrackElementTool_TowerBase" translation="&lt;font color='accent'&gt;Tower Base&lt;/font&gt;&#10;Slopes uphill to allow the train to go vertical."/>
-		<entry key="TrackElementTool_TowerExt" translation="&lt;font color='accent'&gt;Tower Extension&lt;/font&gt;&#10;Extends the length of the vertical to get a higher drop."/>
-		<entry key="TrackElementTool_TowerTop" translation="&lt;font color='accent'&gt;Tower Top&lt;/font&gt;&#10;Finalizes tower construction."/>
-		<entry key="TrackElementTool_TunnelTrack" translation="&lt;font color='accent'&gt;Tunnel Section&lt;/font&gt;&#10;Tunnel section with a linear induction motor, brakes and optional lighting"/>
+		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Stazione con entrata a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Stazione  con entrata a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_mono_dir_RightRight" translation="Stazione con entrata a destra e uscita a destra"/>
+		<entry key="Station_Type_station_mono_dir_leftleft" translation="Stazione on entrata a sinistra e uscita a sinistra"/>
+		<entry key="TrackEditParam_CabinPitch" translation="Angolo Inclinazione Vettura"/>
+		<entry key="TrackEditParam_CabinPitchSet" translation="Controllo Inclinazione"/>
+		<entry key="TrackEditParam_CabinRoll" translation="Angolo Rollio Vettura"/>
+		<entry key="TrackEditParam_CabinRollSet" translation="Controllo Rollio"/>
+		<entry key="TrackEditParam_CabinYaw" translation="Angolo Sterzata Vettura"/>
+		<entry key="TrackEditParam_CabinYawSet" translation="Controllo Sterzata"/>
+		<entry key="TrackElementDesc_SDLIM" translation="Lancia il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
+		<entry key="TrackElementDesc_TowerBase" translation="Pendio in salita che consente al treno di andare verticalmente."/>
+		<entry key="TrackElementDesc_TowerExt" translation="Estende la lunghezza del piano verticale per avere una caduta più alta."/>
+		<entry key="TrackElementDesc_TowerTop" translation="Termina la costruzione della torre."/>
+		<entry key="TrackElementDesc_TunnelTrack" translation="Sezione del Tunnel con un motore ad induzione lineare, freni ed illuminazione opzionale"/>
+		<entry key="TrackElementName_SDLIM" translation="Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione freno)"/>
+		<entry key="TrackElementName_TowerBase" translation="Base Torre"/>
+		<entry key="TrackElementName_TowerExt" translation="Estensione Torre"/>
+		<entry key="TrackElementName_TowerTop" translation="Cima Torre"/>
+		<entry key="TrackElementName_TunnelTrack" translation="Sezione Tunnel"/>
+		<entry key="TrackElementTool_SDLIM" translation="&lt;font color='accent'&gt;Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione freno)&lt;/font&gt;&#10;Lancia il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
+		<entry key="TrackElementTool_TowerBase" translation="&lt;font color='accent'&gt;Base Torre&lt;/font&gt;&#10;Pendio in salita che consente al treno di andare verticalmente."/>
+		<entry key="TrackElementTool_TowerExt" translation="&lt;font color='accent'&gt;Estensione Torre&lt;/font&gt;&#10;Estende la lunghezza del piano verticale per avere una caduta più alta."/>
+		<entry key="TrackElementTool_TowerTop" translation="&lt;font color='accent'&gt;Cima Torre&lt;/font&gt;&#10;Termina la costruzione della torre."/>
+		<entry key="TrackElementTool_TunnelTrack" translation="&lt;font color='accent'&gt;Sezione Tunnel&lt;/font&gt;&#10;Sezione del Tunnel con un motore ad induzione lineare, freni ed illuminazione opzionale"/>
 		<!--PDLC_Spooky_Trains-->
 		<entry key="Train_Hoax" translation="Hoax"/>
 		<entry key="Train_Huntsman" translation="Huntsman"/>
@@ -14806,7 +14806,7 @@
 		<entry key="PathEdit_AngleSnap" translation="Angoli fissi"/>
 		<entry key="PathEdit_Build" translation="Costruisci"/>
 		<entry key="PathEdit_Camera" translation="Camera"/>
-		<entry key="PathEdit_CurvedElevated" translation="Curved Slopes"/>
+		<entry key="PathEdit_CurvedElevated" translation="Pendenze Curve"/>
 		<entry key="PathEdit_Delete" translation="Elimina"/>
 		<entry key="PathEdit_DeleteMode" translation="Elimina Percorso"/>
 		<entry key="PathEdit_DeselectGrid" translation="Deseleziona griglia"/>
@@ -14819,7 +14819,7 @@
 		<entry key="PathEdit_GetPathGrid" translation="Ottieni griglia da {WIDTH}m pezzi di percorso"/>
 		<entry key="PathEdit_GetQueueGrid" translation="Ottieni griglia da {WIDTH}m pezzi di coda"/>
 		<entry key="PathEdit_GridMode" translation="Allinea alla griglia"/>
-		<entry key="PathEdit_GridModeHint" translation="Build paths on a 4 metre grid relative to a building or path. Choose an existing building or path piece as reference."/>
+		<entry key="PathEdit_GridModeHint" translation="Costruisci i sentieri su una griglia di 4 metri relativa ad un edificio o un percorso. Scegli un edificio esistente o un pezzo di percorso come riferimento."/>
 		<entry key="PathEdit_HardLeft" translation="Stretta a sinistra"/>
 		<entry key="PathEdit_HardRight" translation="Stretta a destra"/>
 		<entry key="PathEdit_KeepCurve" translation="Mantieni curva"/>
@@ -15008,7 +15008,7 @@
 		<entry key="Research_Hint_ShopsAndFacilities_Fries" translation="Monsieur Frites"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Gulpee" translation="Gulpee"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Hat" translation="Cappelli Fantastici"/>
-		<entry key="Research_Hint_ShopsAndFacilities_Info" translation="Information Kiosk"/>
+		<entry key="Research_Hint_ShopsAndFacilities_Info" translation="Chiosco Informazioni "/>
 		<entry key="Research_Hint_ShopsAndFacilities_Mexican" translation="Mexelente"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Milkshake" translation="Mucca Cosmica"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Souvenir" translation="Just A Momento"/>
@@ -15108,13 +15108,13 @@
 		<entry key="Research_Revealed_Transport_SilvStar" translation="Light Line"/>
 		<entry key="Research_Type_Coaster" translation="Montagna Russa"/>
 		<entry key="Research_Type_Facility" translation="Edificio"/>
-		<entry key="Research_Type_Flatride" translation="Attrazione Forte"/>
-		<entry key="Research_Type_FlatrideFamily" translation="Giostra per famiglie"/>
+		<entry key="Research_Type_Flatride" translation="Attrazione Emozionante"/>
+		<entry key="Research_Type_FlatrideFamily" translation="Attrazione per Famiglie"/>
 		<entry key="Research_Type_Region" translation="Regione"/>
 		<entry key="Research_Type_Scenery" translation="Scenario"/>
 		<entry key="Research_Type_Shop" translation="Negozio"/>
 		<entry key="Research_Type_Theme" translation="Tema"/>
-		<entry key="Research_Type_TrackedRide" translation="Circuito"/>
+		<entry key="Research_Type_TrackedRide" translation="Attrazione a Circuito"/>
 		<entry key="Research_Type_WoodenCoaster" translation="Coaster di Legno"/>
 		<!--RideCam-->
 		<entry key="RideCam_Cabin" translation="Cabina"/>
