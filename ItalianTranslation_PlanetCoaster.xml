@@ -15004,7 +15004,7 @@
 		<entry key="Research_Hint_ShopsAndFacilities_Burger" translation="Capitan Manzo"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Chicken" translation="Tikichiki"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Coffee" translation="Street Fox Coffee"/>
-		<entry key="Research_Hint_ShopsAndFacilities_FirstAid" translation="First Aid"/>
+		<entry key="Research_Hint_ShopsAndFacilities_FirstAid" translation="Primo Soccorso"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Fries" translation="Monsieur Frites"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Gulpee" translation="Gulpee"/>
 		<entry key="Research_Hint_ShopsAndFacilities_Hat" translation="Cappelli Fantastici"/>
@@ -15151,7 +15151,7 @@
 		<entry key="Challenges_BuildCoaster_AverageSpeed" translation="Costruisci una Montagna Russa che abbia una Velocità Media di almeno {Target}"/>
 		<entry key="Challenges_BuildCoaster_CycleTime" translation="Costruisci una Montagna Russa che abbia una durata di almeno {Target:float:decimalPlaces=0} secondi"/>
 		<entry key="Challenges_BuildCoaster_Excitement" translation="Costruisci una Montagna Russa che abbia un livello di Eccitazione di almeno {Target:float:decimalPlaces=1}"/>
-		<entry key="Challenges_BuildCoaster_Label" translation="Sfida montagne russe"/>
+		<entry key="Challenges_BuildCoaster_Label" translation="Sfida Montagne Russe"/>
 		<entry key="Challenges_BuildCoaster_Length" translation="Costruisci una Montagna Russa che abbia una lunghezza di almeno {Target}"/>
 		<entry key="Challenges_BuildCoaster_MaxDrop" translation="Costruisci una Montagna Russa che abbia una Discesa Massima di almeno {Target}"/>
 		<entry key="Challenges_BuildCoaster_MaxSpeed" translation="Costruisci una Montagna Russa che raggiunga {Target}"/>
@@ -15170,8 +15170,8 @@
 		<entry key="Challenges_Complete" translation="Sfida Completata!"/>
 		<entry key="Challenges_Delete" translation="Cancella questa Sfida"/>
 		<entry key="Challenges_Empty" translation="Nessuna Sfida attiva"/>
-		<entry key="Challenges_FireworksDisplay" translation="Make a fireworks display that holds {Guests:int} guests attention for {Time:int} seconds"/>
-		<entry key="Challenges_FireworksDisplay_Label" translation="Firework Display Challenge"/>
+		<entry key="Challenges_FireworksDisplay" translation="Crea uno spettacolo di Fuochi d'Artificio che cattura l'attenzione di {Guests:int} visitatori per {Time:int} secondi"/>
+		<entry key="Challenges_FireworksDisplay_Label" translation="Sfida Spettacolo Fuochi d'Artificio"/>
 		<entry key="Challenges_GuestHappiness" translation="Porta la Felicità Visitatori Media a {Target:float:decimalPlaces=0}%"/>
 		<entry key="Challenges_GuestHappiness_Label" translation="Sfida Felicità Visitatori"/>
 		<entry key="Challenges_GuestHappiness_NeedGuests" translation="Porta la Felicità Media visitatori a {Target:float:decimalPlaces=0}%&#10;Richiede {MinGuests:int} visitatori"/>
@@ -15188,8 +15188,8 @@
 		<entry key="Objectives_AverageSpeedMin" translation="Una Velocità Media minima di {Value}"/>
 		<entry key="Objectives_BuildFlatRides_View" translation="Costruisci {Value:int} Attrazioni"/>
 		<entry key="Objectives_BuildFlatRides_ViewSingular" translation="Costruisci un'Attrazione"/>
-		<entry key="Objectives_BuildGoKartRides_View" translation="Build {Value:int} Go-Kart Tracks"/>
-		<entry key="Objectives_BuildGoKartRides_ViewSingular" translation="Build a Go-Kart Track"/>
+		<entry key="Objectives_BuildGoKartRides_View" translation="Costruisci{Value:int} Piste di Go-Kart "/>
+		<entry key="Objectives_BuildGoKartRides_ViewSingular" translation="Costruisci una Pista di Go-Kart"/>
 		<entry key="Objectives_BuildRides_View" translation="Costruisci {Value:int} Attrazioni"/>
 		<entry key="Objectives_BuildRides_ViewSingular" translation="Costruisci un'Attrazione"/>
 		<entry key="Objectives_BuildTrackedRides_View" translation="Costruisci {Value:int} Montagne russe"/>
@@ -15221,13 +15221,13 @@
 		<entry key="Objectives_ExcitementMin" translation="Almeno {Value:float:decimalPlaces=1} di Eccitazione"/>
 		<entry key="Objectives_FearMax" translation="Al massimo {Value:float:decimalPlaces=1} di Paura"/>
 		<entry key="Objectives_FearMin" translation="Almeno {Value:float:decimalPlaces=1} di Paura"/>
-		<entry key="Objectives_FireworksDisplay_MaxViewingTime" translation="Longest time a guest has been viewing a display: {Value:float:decimalPlaces=2} seconds"/>
-		<entry key="Objectives_FireworksDisplay_TotalGuests" translation="Total number of guests viewing fireworks displays: {Guests:int}"/>
-		<entry key="Objectives_FireworksDisplay_View" translation="Make a fireworks display that holds {Guests:int} guests attention for {Time:int} seconds"/>
-		<entry key="Objectives_ForMonths" translation="For {Target:int} Months. Current: {Value:float:decimalPlaces=2} Months"/>
-		<entry key="Objectives_ForMonthsSingular" translation="For one Month. Current: {Value:float:decimalPlaces=2} Months"/>
+		<entry key="Objectives_FireworksDisplay_MaxViewingTime" translation="Tempo Massimo che un visitatore ha guardato uno spettacolo: {Value:float:decimalPlaces=2} secondi"/>
+		<entry key="Objectives_FireworksDisplay_TotalGuests" translation="Tumero totale di visitatori che guardano uno spettacolo di Fuochi d'Artificio: {Guests:int}"/>
+		<entry key="Objectives_FireworksDisplay_View" translation="Crea uno spettacolo di Fuochi d'Artificio che cattura l'attenzione di {Guests:int} visitatori per {Time:int} secondi"/>
+		<entry key="Objectives_ForMonths" translation="Per {Target:int} Mesi. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
+		<entry key="Objectives_ForMonthsSingular" translation="Per un Mese. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
 		<entry key="Objectives_GuestCount_View" translation="Attira {Value:int} visitatori"/>
-		<entry key="Objectives_GuestHappiness_View" translation="Raise Average Guest Happiness to {Value:float:decimalPlaces=0}%"/>
+		<entry key="Objectives_GuestHappiness_View" translation="Incrementa la Felicità Media dei Visitatori fino al {Value:float:decimalPlaces=0}%"/>
 		<entry key="Objectives_HireStaff_View" translation="Assumi {Value:int} {StaffTypes}"/>
 		<entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Mantieni le vittime di furto attuali sotto il {Value:float:decimalPlaces=1}% per {Months:int} mesi consecutivi"/>
 		<entry key="Objectives_KeepTheftVictimsLow_View" translation="Mantieni le vittime di furto attuali sotto {Value:int} per {Months:int} mesi consecutivi"/>
@@ -15238,27 +15238,27 @@
 		<entry key="Objectives_MaxDropMin" translation="Basso almeno {Value}"/>
 		<entry key="Objectives_MaxSpeedMax" translation="Non superare {Value}"/>
 		<entry key="Objectives_MaxSpeedMin" translation="Raggiungi {Value}"/>
-		<entry key="Objectives_MinimumGuestCount" translation="At least {Value:int} guests in park"/>
-		<entry key="Objectives_MinimumGuestCountSingular" translation="At least a guest in park"/>
-		<entry key="Objectives_MinimumGuestHappiness" translation="At least {Target:float:decimalPlaces=0}% Average Guest Happiness. Current: {Value:float:decimalPlaces=0}%"/>
-		<entry key="Objectives_MinimumParkRating" translation="With a Park Rating of at least {Value:int}"/>
-		<entry key="Objectives_MinimumRideProfit" translation="With a total monthly profit of at least {Target:currency}. Current: {Value:currency}"/>
-		<entry key="Objectives_MinimumStaffHappiness" translation="At least {Target:float:decimalPlaces=0}% Average Staff Happiness. Current: {Value:float:decimalPlaces=0}%"/>
-		<entry key="Objectives_Months" translation="{Value:float:decimalPlaces=2} months"/>
+		<entry key="Objectives_MinimumGuestCount" translation="Almeno {Value:int} visitatori nel parco"/>
+		<entry key="Objectives_MinimumGuestCountSingular" translation="Almeno un visitatore nel parco"/>
+		<entry key="Objectives_MinimumGuestHappiness" translation="Almeno {Target:float:decimalPlaces=0}% di Felicità Media dei Visitatori. Attuale: {Value:float:decimalPlaces=0}%"/>
+		<entry key="Objectives_MinimumParkRating" translation="Con un parco con una valutazione di almeno {Value:int}"/>
+		<entry key="Objectives_MinimumRideProfit" translation="Con un profitto mensile di almeno{Target:currency}. Attuale: {Value:currency}"/>
+		<entry key="Objectives_MinimumStaffHappiness" translation="Almeno {Target:float:decimalPlaces=0}% di Felicità Media dello Staff. Attuale: {Value:float:decimalPlaces=0}%"/>
+		<entry key="Objectives_Months" translation="{Value:float:decimalPlaces=2} mesi"/>
 		<entry key="Objectives_NauseaMax" translation="Al massimo {Value:float:decimalPlaces=1} di Nausea"/>
 		<entry key="Objectives_NumAirTimeMax" translation="Al massimo {Value:float:decimalPlaces=0} sezioni di Air Time"/>
 		<entry key="Objectives_NumAirTimeMin" translation="Almeno {Value:float:decimalPlaces=0} sezioni di Air Time"/>
 		<entry key="Objectives_NumInversionsMax" translation="Al Massimo {Value:float:decimalPlaces=0} inversioni"/>
 		<entry key="Objectives_NumInversionsMin" translation="Almeno {Value:float:decimalPlaces=0} inversioni"/>
-		<entry key="Objectives_OperatingForMonths" translation="While open for {Target:int} Months. Current: {Value:float:decimalPlaces=2} Months"/>
-		<entry key="Objectives_OperatingForMonthsAllowingBreakdowns" translation="While operating for {Target:int} Months, breakdowns acceptable. Current: {Value:float:decimalPlaces=2} Months"/>
-		<entry key="Objectives_OperatingForMonthsAllowingBreakdownsSingular" translation="While operating for a month, breakdowns acceptable. Current: {Value:float:decimalPlaces=2} Months"/>
-		<entry key="Objectives_OperatingForMonthsSingular" translation="While open for a month. Current: {Value:float:decimalPlaces=2} Months"/>
+		<entry key="Objectives_OperatingForMonths" translation="Rimanere aperto per almeno {Target:int} Mesi. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
+		<entry key="Objectives_OperatingForMonthsAllowingBreakdowns" translation="Rimanere operativo per almeno {Target:int} Mesi, guasti compresi. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
+		<entry key="Objectives_OperatingForMonthsAllowingBreakdownsSingular" translation="Rimanere operativo per un mese, guasti compresi. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
+		<entry key="Objectives_OperatingForMonthsSingular" translation="Rimanere operativo per un mese. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
 		<entry key="Objectives_ParkRatingAll_View" translation="Raggiungi una Valutazione Parco pari a {Value:int}"/>
 		<entry key="Objectives_ParkRatingRides_View" translation="Raggiungi una Valutazione Attrazioni pari a {Value:int}"/>
 		<entry key="Objectives_ParkRatingScenery_View" translation="Raggiungi una Valutazione Scenario pari a {Value:int}"/>
 		<entry key="Objectives_ParkValue_View" translation="Raggiungi un Valore Parco pari a {Value:currency}"/>
-		<entry key="Objectives_PrestigeMin" translation="At least {Value:float:decimalPlaces=0} Prestige"/>
+		<entry key="Objectives_PrestigeMin" translation="Almeno {Value:float:decimalPlaces=0} di Prestigio"/>
 		<entry key="Objectives_ResearchPack_View" translation="Pacchetto ricerca {Value:int}"/>
 		<entry key="Objectives_TierName1" translation="Bronzo"/>
 		<entry key="Objectives_TierName2" translation="Argento"/>
@@ -15271,17 +15271,17 @@
 		<entry key="ScenarioFanfare_GuestsInPark" translation="Visitatori nel Parco"/>
 		<entry key="Scenario_RideLocked" translation="Bloccato in questo scenario"/>
 		<!--Scenery-->
-		<entry key="Blueprints_Delorean01" translation="Back to the Future 1985"/>
-		<entry key="Blueprints_Delorean01Desc" translation="Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.&#10;Back to the Future Theme"/>
-		<entry key="Blueprints_Delorean02" translation="Back to the Future 2015"/>
-		<entry key="Blueprints_Delorean02Desc" translation="I'll hover convert your old road car into a skyway flyer! For only $39,999.95!&#10;Back to the Future Theme"/>
-		<entry key="Blueprints_Delorean03" translation="Back to the Future 1955"/>
-		<entry key="Blueprints_Delorean03Desc" translation="All you have to do is drive the time vehicle directly toward that screen accelerating to 88 miles an hour.&#10;Back to the Future Theme"/>
-		<entry key="Blueprints_Delorean04" translation="Back to the Future Railroad Modification"/>
-		<entry key="Blueprints_Delorean04Desc" translation="I wish I'd never invented that infernal time machine. It's caused nothing but disaster.&#10;Back to the Future Theme"/>
-		<entry key="Blueprints_Delorean05" translation="Back to the Future Time Travel"/>
-		<entry key="Blueprints_Delorean05Desc" translation="Great Scott!&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_BTTF_Sign" translation="Great Scott!&#10;Back to the Future Theme"/>
+		<entry key="Blueprints_Delorean01" translation="Ritorno al Futuro 1985"/>
+		<entry key="Blueprints_Delorean01Desc" translation="Scusate la grossolanità di questo modello. Non ho avuto il tempo di costruirlo in scala o verniciarlo.&#10;Tema Ritorno al Futuro"/>
+		<entry key="Blueprints_Delorean02" translation="Ritorno al Futuro 2015"/>
+		<entry key="Blueprints_Delorean02Desc" translation="Convertirò la vostra vecchia automobile da strada in una auto volante per le vie del cielo! Per soli $39,999.95!&#10;Tema Ritorno al Futuro"/>
+		<entry key="Blueprints_Delorean03" translation="Ritorno al Futuro 1955"/>
+		<entry key="Blueprints_Delorean03Desc" translation="Tutto quello che dovete fare è guidare la macchina del tempo direttamente verso quello schermo accelerando a 88 miglia all'ora.&#10;Tema Ritorno al Futuro"/>
+		<entry key="Blueprints_Delorean04" translation="Ritorno al Futuro Modifiche Ferrovia"/>
+		<entry key="Blueprints_Delorean04Desc" translation="Vorrei non aver mai inventato quella macchina del tempo infernale. Non ha causato nient'altro che disastri.&#10;Tema Ritorno al Futuro"/>
+		<entry key="Blueprints_Delorean05" translation="Ritorno al Futuro Viaggio nel Tempo"/>
+		<entry key="Blueprints_Delorean05Desc" translation="Grande Giove!&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_BTTF_Sign" translation="Grande Giove!&#10;Tema Ritorno al Futuro"/>
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerBottom" translation="Un panino per hamburger.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerPatty" translation="Ora preparato con vero Manzo!\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerVeg" translation="Una pila di pomodori, cetrioli e cipolle.\nSet Capitan Manzo"/>
@@ -15326,9 +15326,9 @@
 		<entry key="BuildingPartDesc_FAD_HotdogSquadNeonSign" translation="Una volta imprigionato, il sapore non può più scappare!&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_HotdogSquadSwingSign" translation="Una volta imprigionato, il sapore non può più scappare!&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_HotdogSquadVerticalSign" translation="Una volta imprigionato, il sapore non può più scappare!&#10;Set Capitan Manzo"/>
-		<entry key="BuildingPartDesc_FAD_JustAMomento_01" translation="Un momento è per sempre!&#10;Set Just A Memento"/>
-		<entry key="BuildingPartDesc_FAD_JustAMomento_02" translation="Un momento è per sempre!&#10;Set Just A Memento"/>
-		<entry key="BuildingPartDesc_FAD_JustAMomento_03" translation="Un momento è per sempre!&#10;Set Just A Memento"/>
+		<entry key="BuildingPartDesc_FAD_JustAMomento_01" translation="Un momento è per sempre!&#10;Set Just A Momento"/>
+		<entry key="BuildingPartDesc_FAD_JustAMomento_02" translation="Un momento è per sempre!&#10;Set Just A Momento"/>
+		<entry key="BuildingPartDesc_FAD_JustAMomento_03" translation="Un momento è per sempre!&#10;Set Just A Momento"/>
 		<entry key="BuildingPartDesc_FAD_LoonyBlooons_01" translation="Tutti amano i palloncini!&#10;Set Loony Blooons"/>
 		<entry key="BuildingPartDesc_FAD_LoonyBlooons_02" translation="Tutti amano i palloncini!&#10;Set Loony Blooons"/>
 		<entry key="BuildingPartDesc_FAD_LoonyBlooons_03" translation="Tutti amano i palloncini!&#10;Set Loony Blooons"/>
@@ -15709,30 +15709,30 @@
 		<entry key="BuildingPartDesc_PC_WallSign_Info" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_WallSign_Medic" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_WallSign_Toilet" translation="Insegna Planet Coaster.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PDLC_BackToTheFuture1Car" translation="Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_BackToTheFuture2Car" translation="I'll hover convert your old road car into a skyway flyer! For only $39,999.95!&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_BackToTheFuture3Car" translation="All you have to do is drive the time vehicle directly toward that screen accelerating to 88 miles an hour.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_BackToTheFuture3CarRails" translation="I wish I'd never invented that infernal time machine. It's caused nothing but disaster.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_BackBumper" translation="You're late! Do you have no concept of time?&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_BackEnd" translation="It works! It works! I finally invent something that works!&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Cabin" translation="Whoa. This is heavy.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_EngineBlock" translation="Are you telling me that this sucker is NUCLEAR?&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_FoodProcessor" translation="1.21 gigawatts!&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_FrontBonnet" translation="Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_FrontBumper" translation="If my calculations are correct...&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_LeftDoor" translation="If you put your mind to it, you can accomplish anything.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_PFX_EnergyBurst" translation="Calm down, Marty. I didn't disintegrate anything.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_PFX_Tyre_Flames" translation="The appropriate question is, 'When the hell are they?'&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_RightDoor" translation="Well, I figured, what the hell?&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Set2WheelBack" translation="Roads? Where we're going, we don't need roads.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Set2WheelFront" translation="Roads? Where we're going, we don't need roads.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Set3WesternTimeParts" translation="This reminds me of the time I attempted to reach the center of the earth.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Set3WheelBack" translation="Remember, where you're going, there are no roads.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Set3WheelFront" translation="Remember, where you're going, there are no roads.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Set4Wheel" translation="Gentlemen, excuse me. But, my friend and I have to catch a train.&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_Speedometer" translation="If my calculations are correct...&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_WheelSet1Back" translation="It works! It works! I finally invent something that works!&#10;Back to the Future Theme"/>
-		<entry key="BuildingPartDesc_PDLC_DeLorean_WheelSet1Front" translation="It works! It works! I finally invent something that works!&#10;Back to the Future Theme"/>
+		<entry key="BuildingPartDesc_PDLC_BackToTheFuture1Car" translation="Scusate la grossolanità di questo modello. Non ho avuto il tempo di costruirlo in scala o verniciarlo.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_BackToTheFuture2Car" translation="Convertirò la vostra vecchia automobile da strada in una auto volante per le vie del cielo! Per soli $39,999.95!&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_BackToTheFuture3Car" translation="Tutto quello che dovete fare è guidare la macchina del tempo direttamente verso quello schermo accelerando a 88 miglia all'ora.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_BackToTheFuture3CarRails" translation="Vorrei non aver mai inventato quella macchina del tempo infernale. Non ha causato nient'altro che disastri.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_BackBumper" translation="Sei in ritardo! Non hai il concetto di tempo?&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_BackEnd" translation="Funziona! Funziona! Ho inventato finalmente qualcosa che funziona!&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Cabin" translation="Whoa. E' pesante.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_EngineBlock" translation="Mi stai dicendo che questo aspiratore è NUCLEARE?&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_FoodProcessor" translation="1.21 gigawatts!&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_FrontBonnet" translation="Okay. Circuito del tempo, acceso. Capacitore di flusso, in flusso. Motore, in funzione. Tutto bene.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_FrontBumper" translation="Se i miei calcoli sono corretti...&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_LeftDoor" translation="Se ti ci metti d'impegno, puoi riuscire in qualsiasi cosa.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_PFX_EnergyBurst" translation="Calmati, Marty. Non ho disintegrato nulla.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_PFX_Tyre_Flames" translation="La domanda appropriata è, 'Quando diavolo sono?'&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_RightDoor" translation="Beh, mi sono detto, che diavolo?&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Set2WheelBack" translation="Strade? Dove stiamo andando, non abbiamo bisogno di strade.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Set2WheelFront" translation="Strade? Dove stiamo andando, non abbiamo bisogno di strade.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Set3WesternTimeParts" translation="Questo mi ricorda il momento in cui ho cercato di raggiungere il centro della terra.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Set3WheelBack" translation="Ricorda, dove stai andando, non ci sono strade.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Set3WheelFront" translation="Ricorda, dove stai andando, non ci sono strade.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Set4Wheel" translation="Signori, scusatemi. Ma io e il mio amico dobbiamo prendere il treno.&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_Speedometer" translation="Se i miei calcoli sono corretti...&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_WheelSet1Back" translation="Funziona! Funziona! Ho inventato finalmente qualcosa che funziona!&#10;Tema Ritorno al Futuro"/>
+		<entry key="BuildingPartDesc_PDLC_DeLorean_WheelSet1Front" translation="Funziona! Funziona! Ho inventato finalmente qualcosa che funziona!&#10;Tema Ritorno al Futuro"/>
 		<entry key="BuildingPartDesc_PR_Anchor" translation="Una grande ancora in ghisa.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Archway" translation="Un arco di legno addobbato con decorazioni nautiche.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_BarrelSlide" translation="Un congegno meccanico per arsenale.\nTema Pirata"/>
@@ -15782,8 +15782,8 @@
 		<entry key="BuildingPartDesc_PR_Redcoat_Guarding" translation="Sempre attento.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Redcoat_Marching" translation="Nulla può sfuggire alla sua attenzione.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Redcoat_Shooting" translation="Il nemico numero uno di ogni pirata.\nTema Pirata"/>
-		<entry key="BuildingPartDesc_PR_Redcoat_Static_KneelingFire" translation="Fire at will!&#10;Tema Pirata"/>
-		<entry key="BuildingPartDesc_PR_Redcoat_Static_Salute" translation="Sir yes sir!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_Redcoat_Static_KneelingFire" translation="Fuoco a volontà!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_Redcoat_Static_Salute" translation="Sissignore Signore!&#10;Tema Pirata"/>
 		<entry key="BuildingPartDesc_PR_SailBoat" translation="Usato per accompagnare i passeggeri a riva.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_ShipBadge_01" translation="Uno stemma in legno ricoperto di vernice d'oro.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Shipwreck_Bow_01" translation="Approdo di fortuna.\nTema Pirata"/>
@@ -15888,387 +15888,387 @@
 		<entry key="BuildingPartDesc_SF_Wire_4m_01" translation="1.21 gigawatt... Grande Giove!&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Wire_4m_02" translation="1.21 gigawatt... Grande Giove!&#10;Tema Sci-Fi"/>
 		<entry key="BuildingPartDesc_SF_Wire_4m_Single" translation="1.21 gigawatt... Grande Giove!&#10;Tema Sci-Fi"/>
-		<entry key="BuildingPartDesc_SP_AH_DoorAN_001" translation="A door suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_Door_001" translation="A door suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_WinBB_001" translation="A window suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_WinBB_002" translation="A window suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_WinBB_003" translation="A window suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_WinBB_EM_001" translation="A window suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_WinBB_EM_002" translation="A window suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_AH_WinBB_EM_003" translation="A window suitable for an abandoned house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_1" translation="Sometimes good.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_2" translation="Sometimes evil.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_3" translation="Sometimes mischievous.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_4" translation="Always spooky.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Spider_Attacking" translation="It's coming right for us!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Spider_Dropping" translation="It's coming right for us!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Animatronic_Spider_Turning" translation="It's coming right for us!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Arm_Chair_1" translation="Very creaky.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Bat_Decorations_01" translation="I am vengeance!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Bat_Decorations_02" translation="I am the night!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Bench_01" translation="A spooky park bench.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Bin_01" translation="A spooky park bin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_BookPile" translation="The collected works of the strange and unusual.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Burial_Mound" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_ArchWay_01" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_BrokenStoneBits" translation="Castle&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Fascia" translation="Gothic-style shop fascia.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Fence_01" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Fence_02" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Fence_03" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Flat_Corner" translation="Castle&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Flat_Straight" translation="Castle&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Arch" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_ArchHalf" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_CryptWall_4m" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_ShopFront" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Station_Surround_01" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Station_Surround_02" translation="Crypt&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_1m" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_2m" translation="Crypt&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_4m" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_GableTri_1m" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_Slope_1m" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Pillar_01" translation="Crypt&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Pillar_Top_01" translation="Crypt&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_RaisedSteps" translation="Castle&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Roof_Details" translation="Crypt&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Roof_Details_Slope_1m" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Roof_Details_Slope_1m_Half" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Roof_Flat_4m" translation="Crypt&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Roof_GableTri_1m" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Roof_Slope_1m" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_RubblePile_01" translation="Castle&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Stairs_Spiral_Left" translation="Castle&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Stairs_Spiral_Right" translation="Castle&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_StoneTrim_Corner_01" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_StoneTrim_Straight_01" translation="Crypt&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Corner_Arch" translation="Castle&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Corner_Base" translation="Castle&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Top_01" translation="Castle&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Top_02" translation="Castle&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Candles" translation="That which burns half as bright burns twice as long.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Chaise_Lounge" translation="What is lost down the back of this lounge?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_01" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_02" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_03" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_04" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_05" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_06" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Cobweb_07" translation="A spider web, or the remains of one.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Coffin_Stone" translation="Here lies a fallen hero.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Coffin_Stone_Lid" translation="Finish your tomb off nicely.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Coffin_Stone_Plain_Lid" translation="A nice neutral lid to top off your coffin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Coffin_Vampire" translation="Snooze the day away in style!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Coffin_Vampire_Animated" translation="Is it morning already?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Coffin_Vampire_Lid" translation="You don't want dawn to come without this.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Crow_01" translation="Contemplating murders.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Crow_02" translation="Contemplating murders.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Crow_03" translation="Contemplating murders.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Crow_04" translation="Contemplating murders.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Dining_Chair" translation="Very creaky.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Fire_Large" translation="Fire FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Fire_Medium" translation="Fire FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Fire_Small" translation="Fire FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Impact_Large" translation="Lightning FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Impact_Small" translation="Lightning FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Large" translation="Lightning FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Small" translation="Lightning FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Mist_Large" translation="Mist FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Mist_Medium" translation="Mist FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Mist_Small" translation="Mist FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Rain" translation="Rain FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Rain_Clouds" translation="Rain Clouds FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Slime" translation="Slime FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Slime_Radioactive" translation="Slime Radioactive FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Smoke_Large" translation="Smoke FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Smoke_Medium" translation="Smoke FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Smoke_Small" translation="Smoke FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_FXBox_Spiders" translation="Spiders FX.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Fireplace" translation="Gothic-style fireplace.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Fireplace_Logs" translation="Gothic-style fireplace.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Fireplace_Top" translation="Gothic-style fireplace.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Flag_Hanging_01" translation="Pumpkin head flag.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Flag_Hanging_02" translation="Cobweb flag.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Flapping_Curtains_Net" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Flapping_Curtains_Tattered" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Floating_Book" translation="Smoke and mirrors.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_GC_DoorAN_001" translation="A door suitable for a gothic castle.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_GC_Door_001" translation="A door suitable for a gothic castle.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_GC_WinBB_001" translation="A gothic window.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_GC_WinBB_003" translation="A gothic window.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_GC_WinBB_004" translation="A gothic window.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Gargoyle_01" translation="Don't blink!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Gargoyle_01_NoWings" translation="And don't blink!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Gargoyle_02" translation="Don't turn your back!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Gargoyle_02_NoWings" translation="Don't look away!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_01" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_02" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_03" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_04" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_05" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_BBoard" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_Skull" translation="Alas poor Yorick!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Grave_Stone_Vulture" translation="RIP&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Graveyard_Gate_01" translation="Haunted House&#10;3.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Graveyard_Gate_02" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Graveyard_Gate_Arch" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Graveyard_Pillar_01" translation="Haunted House&#10;3.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Graveyard_Wall_01" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_ArchHalf_Tunnel" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Arch_Tunnel" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Corner" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Corner_Inv" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Addon_Corner" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Addon_End" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Addon_Straight" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Straight" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Balcony_Straight" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Chimney_Base_01" translation="Haunted House&#10;6.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Chimney_Base_02" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Chimney_Base_03" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Chimney_Top_01" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_DoorAN_001" translation="A door suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Door_001" translation="A door suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_FloorPanel_Marble_01_2m" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_FloorPanel_Marble_01_4m" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_FullBalcony_2m" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_FullBalcony_4m" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_InteriorWood_Panel_Base_01" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_InteriorWood_Panel_Mid_01" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_InteriorWood_Panel_Top_01" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_IronFencing_01_2m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_IronFencing_01_4m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_01_2m" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_01_4m" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_02_2m" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_02_4m" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Arch" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_ArchHalf" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_ShopFront" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Station_Surround_01" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Station_Surround_02" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_GableTri_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_GableTri_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_GableTri_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_Slope_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_Slope_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_Slope_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Pillar_01_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Pillar_01_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Pillar_01_Base" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Pillar_01_Top" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Plank_01" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Plank_02" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Plank_03" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Double_Corner" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Double_Straight" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Flat_4m" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_GableTri_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_GableTri_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_GableTri_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Overhang_01" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner_Inv" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner_Inv_Double" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Straight" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Straight_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Slope_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Slope_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Slope_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Tower_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Tower_Double" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Roof_Tower_Single" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_StoneFencing_01_2m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_StoneFencing_01_4m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Stone_Base_Corner_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Stone_Base_Straight_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_01_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_01_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_01_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_02_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_02_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_Floor_01_2m" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_Floor_01_4m" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_1m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_2m_Variation" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_4m_Variation" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_2m_Variation" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_4m_Variation" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_2m_Variation" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_4m_Variation" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_2m" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_2m_Variation" translation="Haunted House&#10;2.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_4m" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_4m_Variation" translation="Haunted House&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_01" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_01_NEM" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_02" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_02_NEM" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_03" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_03_NEM" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_04" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_04_NEM" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_05" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_05_NEM" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_06" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_Window_06_NEM" translation="A window suitable for a haunted house.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WoodenBeam_2m_01" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WoodenBeam_4m_01" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WoodenBeam_8m_01" translation="Haunted House&#10;0.5m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WoodenFencing_01_2m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_HH_WoodenFencing_01_4m" translation="Haunted House&#10;1.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_JB_Merge_Wall_4m_01" translation="Jail Bars&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_JB_Merge_Wall_4m_02" translation="Jail Bars&#10;4.0m High&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Lamppost_01" translation="Light for your shadows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Bookcase" translation="Good for concealing hidden passages.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Body" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Back" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Back1" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Front" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Front1" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S2" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S3" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S4" translation="Spooky spider component.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Larvae_01" translation="Eww! Slimy.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Larvae_02" translation="Eww! Sticky.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Larvae_03" translation="Uh-oh. Moving!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Moving_Floating_Book" translation="Wires and careful editing.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_NeatBooks" translation="The complete works of comedy and horror.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Occasional_Table" translation="A small coffee table.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Open_Grave" translation="Freshly dug!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_P_Vines_Dead_05" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_P_Vines_Dead_06" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
+		<entry key="BuildingPartDesc_SP_AH_DoorAN_001" translation="Una porta adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_Door_001" translation="Una porta adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_WinBB_001" translation="Una finestra adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_WinBB_002" translation="Una finestra adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_WinBB_003" translation="Una finestra adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_WinBB_EM_001" translation="Una finestra adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_WinBB_EM_002" translation="Una finestra adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_AH_WinBB_EM_003" translation="Una finestra adatta ad una casa abbandonata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_1" translation="A volte buono.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_2" translation="A volte cattivo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_3" translation="A volte dispettoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Shadow_Person_4" translation="Sempre spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Spider_Attacking" translation="Sta venendo proprio per noi!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Spider_Dropping" translation="Sta venendo proprio per noi!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Animatronic_Spider_Turning" translation="Sta venendo proprio per noi!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Arm_Chair_1" translation="Molto scricchiolante.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Bat_Decorations_01" translation="Sono vendetta!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Bat_Decorations_02" translation="Sono la notte!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Bench_01" translation="Una panchina spaventosa per il parco .&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Bin_01" translation="Un cestino spaventoso per il parco .&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_BookPile" translation="La collezione di lavori dello strano e inusuale.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Burial_Mound" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_ArchWay_01" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_BrokenStoneBits" translation="Castello&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Fascia" translation="Fascia Negozio stile Gotico.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Fence_01" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Fence_02" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Fence_03" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Flat_Corner" translation="Castello&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Flat_Straight" translation="Castello&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Arch" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_ArchHalf" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_CryptWall_4m" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_ShopFront" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Station_Surround_01" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Station_Surround_02" translation="Cripta&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_1m" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_2m" translation="Cripta&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_4m" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_GableTri_1m" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Merge_Wall_Slope_1m" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Pillar_01" translation="Cripta&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Pillar_Top_01" translation="Cripta&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_RaisedSteps" translation="Castello&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Roof_Details" translation="Cripta&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Roof_Details_Slope_1m" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Roof_Details_Slope_1m_Half" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Roof_Flat_4m" translation="Cripta&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Roof_GableTri_1m" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Roof_Slope_1m" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_RubblePile_01" translation="Castello&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Stairs_Spiral_Left" translation="Castello&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Stairs_Spiral_Right" translation="Castello&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_StoneTrim_Corner_01" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_StoneTrim_Straight_01" translation="Cripta&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Corner_Arch" translation="Castello&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Corner_Base" translation="Castello&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Top_01" translation="Castello&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_CT_Wall_Broken_Top_02" translation="Castello&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Candles" translation="Ciò che brucia a metà luminosità brucia due volte più a lungo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Chaise_Lounge" translation="Che cosa si è perso dietro lo schienale di questa poltrona?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_01" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_02" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_03" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_04" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_05" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_06" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Cobweb_07" translation="Una ragnatela, o ciò che ne resta di una.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Coffin_Stone" translation="Qui giace un eroe decaduto.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Coffin_Stone_Lid" translation="Completa per bene la tua tomba.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Coffin_Stone_Plain_Lid" translation="Un bel coperchio neutro per tappare la tua bara.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Coffin_Vampire" translation="Fai un sonnellino con stile!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Coffin_Vampire_Animated" translation="E' già mattino?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Coffin_Vampire_Lid" translation="Non vuoi che arrivi l'alba senza di questo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Crow_01" translation="Contempla omicidi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Crow_02" translation="Contempla omicidi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Crow_03" translation="Contempla omicidi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Crow_04" translation="Contempla omicidi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Dining_Chair" translation="Molto scricchiolante.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Fire_Large" translation="Fuoco FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Fire_Medium" translation="Fuoco FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Fire_Small" translation="Fuoco FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Impact_Large" translation="Fulmine FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Impact_Small" translation="Fulmine FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Large" translation="Fulmine FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Lightning_Strike_Small" translation="Fulmine FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Mist_Large" translation="Foschia FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Mist_Medium" translation="Foschia FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Mist_Small" translation="Foschia FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Rain" translation="Pioggia FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Rain_Clouds" translation="Pioggia e Nuvole FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Slime" translation="Slime FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Slime_Radioactive" translation="Slime Radioattivo FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Smoke_Large" translation="Fumo FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Smoke_Medium" translation="Fumo FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Smoke_Small" translation="Fumo FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_FXBox_Spiders" translation="Ragni FX.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Fireplace" translation="Focolare in stile Gotico.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Fireplace_Logs" translation="Focolare in stile Gotico.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Fireplace_Top" translation="Focolare in stile Gotico.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Flag_Hanging_01" translation="Bandiera con testa a zucca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Flag_Hanging_02" translation="Bandiera con ragnatela.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Flapping_Curtains_Net" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Flapping_Curtains_Tattered" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Floating_Book" translation="Fumo e specchi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_GC_DoorAN_001" translation="Una porta adatta per un Castello gotico.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_GC_Door_001" translation="Una porta adatta per un Castello gotico.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_GC_WinBB_001" translation="Una finestra gotica.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_GC_WinBB_003" translation="Una finestra gotica.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_GC_WinBB_004" translation="Una finestra gotica.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Gargoyle_01" translation="Non battere gli occhi!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Gargoyle_01_NoWings" translation="E non battere gli occhi!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Gargoyle_02" translation="Non girare le spalle!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Gargoyle_02_NoWings" translation="Non guardare altrove!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_01" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_02" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_03" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_04" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_05" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_BBoard" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_Skull" translation="Oh povero Yorick!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Grave_Stone_Vulture" translation="RIP&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Graveyard_Gate_01" translation="Casa Stregata&#10;Alto 3.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Graveyard_Gate_02" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Graveyard_Gate_Arch" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Graveyard_Pillar_01" translation="Casa Stregata&#10;Alto 3.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Graveyard_Wall_01" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_ArchHalf_Tunnel" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Arch_Tunnel" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Corner" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Corner_Inv" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Addon_Corner" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Addon_End" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Addon_Straight" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Flat_Straight" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Balcony_Straight" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Chimney_Base_01" translation="Casa Stregata&#10;Alto 6.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Chimney_Base_02" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Chimney_Base_03" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Chimney_Top_01" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_DoorAN_001" translation="Una porta adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Door_001" translation="Una porta adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_FloorPanel_Marble_01_2m" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_FloorPanel_Marble_01_4m" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_FullBalcony_2m" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_FullBalcony_4m" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_InteriorWood_Panel_Base_01" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_InteriorWood_Panel_Mid_01" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_InteriorWood_Panel_Top_01" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_IronFencing_01_2m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_IronFencing_01_4m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_01_2m" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_01_4m" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_02_2m" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_IronFencing_Small_02_4m" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Arch" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_ArchHalf" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_ShopFront" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Station_Surround_01" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Station_Surround_02" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_GableTri_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_GableTri_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_GableTri_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_Slope_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_Slope_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Merge_Wall_Slope_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Pillar_01_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Pillar_01_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Pillar_01_Base" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Pillar_01_Top" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Plank_01" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Plank_02" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Plank_03" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Double_Corner" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Double_Straight" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Flat_4m" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_GableTri_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_GableTri_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_GableTri_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Overhang_01" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner_Inv" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Corner_Inv_Double" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Straight" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Single_Straight_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Slope_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Slope_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Slope_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Tower_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Tower_Double" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Roof_Tower_Single" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_StoneFencing_01_2m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_StoneFencing_01_4m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Stone_Base_Corner_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Stone_Base_Straight_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_01_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_01_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_01_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_02_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_02_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_Floor_01_2m" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_InteriorWood_Floor_01_4m" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_1m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_2m_Variation" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_01_4m_Variation" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_2m_Variation" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_02_4m_Variation" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_2m_Variation" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_03_4m_Variation" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_2m" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_2m_Variation" translation="Casa Stregata&#10;Alto 2.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_4m" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WallPanel_WallPaper_04_4m_Variation" translation="Casa Stregata&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_01" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_01_NEM" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_02" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_02_NEM" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_03" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_03_NEM" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_04" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_04_NEM" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_05" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_05_NEM" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_06" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_Window_06_NEM" translation="Una finestra adatta per una Casa Stregata.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WoodenBeam_2m_01" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WoodenBeam_4m_01" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WoodenBeam_8m_01" translation="Casa Stregata&#10;Alto 0.5m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WoodenFencing_01_2m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_HH_WoodenFencing_01_4m" translation="Casa Stregata&#10;Alto 1.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_JB_Merge_Wall_4m_01" translation="Sbarre Prigione&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_JB_Merge_Wall_4m_02" translation="Sbarre Prigione&#10;Alto 4.0m&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Lamppost_01" translation="Luce per le vostre ombre.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Bookcase" translation="Ottimo per nascondere passaggi segreti.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Body" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Back" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Back1" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Front" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_Front1" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S2" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S3" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Large_Spider_Leg_S4" translation="Elemento di un ragno spaventoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Larvae_01" translation="Eww! Viscido.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Larvae_02" translation="Eww! Appiccicoso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Larvae_03" translation="Uh-oh. si muove!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Moving_Floating_Book" translation="Fili e attenta revisione.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_NeatBooks" translation="La collezione di lavori su commedia e horror.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Occasional_Table" translation="Un piccolo tavolo da caffè.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Open_Grave" translation="Appena scavata!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_P_Vines_Dead_05" translation="Si muove mentre non stai guardando?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_P_Vines_Dead_06" translation="Si muove mentre non stai guardando?&#10;Set Spaventoso"/>
 		<entry key="BuildingPartDesc_SP_Path_Extras" translation="SP_Path_Extras PLACEHOLDER DESCRIPTION TEXT"/>
-		<entry key="BuildingPartDesc_SP_PictureFrames" translation="Haunted House&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_01" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_01_Small" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_02" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_02_Small" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_03" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_03_Small" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_04" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_Portrait_01" translation="Portrait picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_Portrait_02" translation="Portrait picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pictureframe_Small_04" translation="Picture frame.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_01" translation="A spooky looking pumpkin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_02" translation="A spooky looking pumpkin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_03" translation="A spooky looking pumpkin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_04" translation="A spooky looking pumpkin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_Bunting" translation="For pumpkin festivities.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_Lantern_Small" translation="A spooky source of light.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_Large_01" translation="A spooky looking pumpkin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Pumpkin_Large_02" translation="A spooky looking pumpkin.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Rat_01" translation="Too short to get onto the rides.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Rat_02" translation="A lot of mouths to feed.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Rocking_Chair" translation="Very creaky.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Rug_01" translation="A great place to hide the dust.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_BatWing_Left" translation="Can he really fly?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_BatWing_Right" translation="Can he really fly?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Broom" translation="Spare parts.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_ClawedHand_01" translation="Left or Right.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_ClawedHand_02" translation="Left or Right.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Hat_01" translation="Hair not included.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Hatchet" translation="A hatchet to bury.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Mummy" translation="Ancient Egyptian Scarecrow.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_01" translation="Pumpkin head.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_02" translation="Pumpkin head.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_03" translation="Pumpkin head.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_04" translation="Pumpkin head.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_Large_01" translation="Big headed scarecrow.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_Large_02" translation="Big headed scarecrow.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Sack_01" translation="Sack head.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Sack_02" translation="Sack head.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Horn" translation="Somewhere extra for the crows to perch.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Limb_Long" translation="Scarecrow limb.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Limb_Medium" translation="Scarecrow limb.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Limb_Short" translation="Scarecrow limb.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_OpenHand_01" translation="Left or Right.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_OpenHand_02" translation="Left or Right.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Overalls" translation="For the working scarecrow.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Pitchfork" translation="Safer than a burning torch.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Rags" translation="For the scarecrow about the town.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Scythe" translation="For scaring more than crows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Scarecrow_Torso" translation="The beginning of every good scarecrow.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Shelves" translation="For spooky stuff.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Sign_Shape_01" translation="A message from the other side.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Sign_Shape_02" translation="A message from another world.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Signs_ATM" translation="Spooky sign.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Signs_Custom_Text" translation="Spooky sign.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Signs_Info" translation="Spooky sign.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Signs_Medic" translation="Spooky sign.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Signs_Toilet" translation="Spooky sign.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Single_Books_01" translation="Attack of the killer whatever.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Single_Books_02" translation="Everybody's dead, Dave.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Single_Books_03" translation="Faux Horrific.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Single_Books_04" translation="Half the man he used to be.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Single_Books_05" translation="Nightmare fuel.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Single_Books_06" translation="Our zombies are different.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_GrabbingArm" translation="Just wants to give a helping hand.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Foot_Left" translation="Foot bone connected to the heel bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Foot_Right" translation="Foot bone connected to the heel bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hand_Left" translation="Finger bone connected to the wrist bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hand_Right" translation="Finger bone connected to the wrist bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hanging_01" translation="Hanging on in there.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hanging_02" translation="Hanging on in there.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LayingDown_01" translation="Fallen and can't get up.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LayingDown_02" translation="Slipped and bruised his funny bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LayingDown_03" translation="Half the man he used to be.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerArm_Left" translation="Wrist bone connected to the arm bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerArm_Right" translation="Wrist bone connected to the arm bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerLeg_Left" translation="Shin bone connected to the knee bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerLeg_Right" translation="Shin bone connected to the knee bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Pile" translation="Always going to pieces.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Skull" translation="Head bone connected from the neck bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Slumped" translation="Dead tired.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_SwingingArm" translation="Just wants to give a helping hand.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Torso" translation="Hip bone connected to the back bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperArm_Left" translation="Arm bone connected to the shoulder bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperArm_Right" translation="Arm bone connected to the shoulder bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperLeg_Left" translation="Thigh bone connected to the hip bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperLeg_Right" translation="Thigh bone connected to the hip bone.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Small_Bookcase" translation="Good for concealing hidden crawl spaces.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Sofa" translation="What is lost down the back of this sofa?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Spider_Decoration_01" translation="Creepy!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Spider_Decroration_02" translation="Crawly!&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_SpookyClock" translation="Tick Tock Tick Tock.&#10;Spooky Set"/>
+		<entry key="BuildingPartDesc_SP_PictureFrames" translation="Casa Stregata&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_01" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_01_Small" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_02" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_02_Small" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_03" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_03_Small" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_04" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_Portrait_01" translation="Cornice per ritratto.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_Portrait_02" translation="Cornice per ritratto.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pictureframe_Small_04" translation="Cornice per quadro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_01" translation="Una zucca spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_02" translation="Una zucca spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_03" translation="Una zucca spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_04" translation="Una zucca spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_Bunting" translation="Per festività con le zucche.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_Lantern_Small" translation="Una fonte di luce spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_Large_01" translation="Una zucca spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Pumpkin_Large_02" translation="Una zucca spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Rat_01" translation="Troppo basso per andare sulle attrazioni.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Rat_02" translation="Un sacco di bocche da sfamare.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Rocking_Chair" translation="Molto scricchiolante.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Rug_01" translation="Un meraviglioso posto per nascondere la polvere.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_BatWing_Left" translation="Può davvero volare?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_BatWing_Right" translation="Può davvero volare?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Broom" translation="Pezzi di ricambio .&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_ClawedHand_01" translation="Sinistra o Destra.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_ClawedHand_02" translation="Sinistra o Destra.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Hat_01" translation="Capelli non inclusi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Hatchet" translation="Un'ascia da seppellire.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Mummy" translation="Antico Spaventapasseri Egiziano.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_01" translation="Testa a zucca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_02" translation="Testa a zucca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_03" translation="Testa a zucca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_04" translation="Testa a zucca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_Large_01" translation="Spaventapasseri con testa grande.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Pumpkin_Large_02" translation="Spaventapasseri con testa grande.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Sack_01" translation="Testa a sacco.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Head_Sack_02" translation="Testa a sacco.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Horn" translation="Un posto in più per i corvi per appollaiarsi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Limb_Long" translation="Arto di Spaventapasseri.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Limb_Medium" translation="Arto di Spaventapasseri.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Limb_Short" translation="Arto di Spaventapasseri.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_OpenHand_01" translation="Sinistra o Destra&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_OpenHand_02" translation="Sinistra o Destra.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Overalls" translation="Per lo Spaventapasseri che lavora.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Pitchfork" translation="Più sicuro di una torcia che brucia.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Rags" translation="Per lo Spaventapasseri in paese.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Scythe" translation="Per spaventare più di un corvo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Scarecrow_Torso" translation="L'inizio di ogni buon Spaventapasseri.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Shelves" translation="Per roba spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Sign_Shape_01" translation="Un messaggio dall'altro lato.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Sign_Shape_02" translation="Un messaggio dall'altro mondo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Signs_ATM" translation="Insegna spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Signs_Custom_Text" translation="Insegna spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Signs_Info" translation="Insegna spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Signs_Medic" translation="Insegna spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Signs_Toilet" translation="Insegna spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Single_Books_01" translation="Attacco di un killer qualunque.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Single_Books_02" translation="Sono morti tutti, Dave.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Single_Books_03" translation="Finto Orribile.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Single_Books_04" translation="Metà dell'uomo che era una volta.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Single_Books_05" translation="Carburante da Incubo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Single_Books_06" translation="I nostri zombi sono differenti.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_GrabbingArm" translation="Vuole solo dare una mano.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Foot_Left" translation="Osso del piede collegato all'osso del tallone.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Foot_Right" translation="Osso del piede collegato all'osso del tallone.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hand_Left" translation="Osso del dito collegato all'osso del polso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hand_Right" translation="Osso del dito collegato all'osso del polso.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hanging_01" translation="Appeso lì dentro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Hanging_02" translation="Appeso lì dentro.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LayingDown_01" translation="E' caduto e non riesce ad alzarsi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LayingDown_02" translation="E' scivolato e si è ferito il suo senso dell'umorismo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LayingDown_03" translation="Metà dell'uomo che era una volta.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerArm_Left" translation="Osso del polso collegato all'osso del braccio.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerArm_Right" translation="Osso del polso collegato all'osso del braccio.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerLeg_Left" translation="Osso dello stinco collegato all'osso del ginocchio.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_LowerLeg_Right" translation="Osso dello stinco collegato all'osso del ginocchio.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Pile" translation="Sta sempre a pezzi.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Skull" translation="osso della testa collegato all'osso del collo.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Slumped" translation="Stanco morto.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_SwingingArm" translation="Vuole solo dare una mano.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_Torso" translation="Osso dell'anca collegato all'osso della schiena.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperArm_Left" translation="Osso del braccio collegato all'osso della spalla.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperArm_Right" translation="Osso del braccio collegato all'osso della spalla.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperLeg_Left" translation="Osso della coscia collegato all'osso dell'anca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Skeleton_Parts_UpperLeg_Right" translation="Osso della coscia collegato all'osso dell'anca.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Small_Bookcase" translation="Ottimo per nascondere spazi nascosti in cui strisciare.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Sofa" translation="Cosa si è perso nello schienale di questo divano?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Spider_Decoration_01" translation="Raccapricciante!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Spider_Decroration_02" translation="Strisciante!&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_SpookyClock" translation="Tic Toc Tic Toc.&#10;Set Spaventoso"/>
 		<entry key="BuildingPartDesc_SP_Sunflower_01" translation="SP_Sunflower_01 PLACEHOLDER DESCRIPTION TEXT - DROPPED"/>
 		<entry key="BuildingPartDesc_SP_Sunflower_02" translation="SP_Sunflower_02 PLACEHOLDER DESCRIPTION TEXT - DROPPED"/>
 		<entry key="BuildingPartDesc_SP_Sunflower_Head" translation="SP_Sunflower_Head PLACEHOLDER DESCRIPTION TEXT - DROPPED"/>
-		<entry key="BuildingPartDesc_SP_TableLight" translation="Casts spooky shadows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Table_Large" translation="Very creaky.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_01" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_02" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_03" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_04" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_Dead_01" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_Dead_02" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_Dead_03" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_Vines_Dead_04" translation="Does it move when you aren't looking?&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_WallLight_01" translation="Light for your shadows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_WallLight_02" translation="Light for your shadows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_WallLight_03" translation="Light for your shadows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_WallLight_04" translation="Light for your shadows.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_SP_table" translation="Spooky wooden lab table.&#10;Spooky Set"/>
+		<entry key="BuildingPartDesc_SP_TableLight" translation="Proietta ombre spaventose.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Table_Large" translation="Molto scricchiolante.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_01" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_02" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_03" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_04" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_Dead_01" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_Dead_02" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_Dead_03" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_Vines_Dead_04" translation="Si muove mentre non guardi?&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_WallLight_01" translation="Luce per le tue ombre.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_WallLight_02" translation="Luce per le tue ombre.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_WallLight_03" translation="Luce per le tue ombre.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_WallLight_04" translation="Luce per le tue ombre.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_table" translation="Tavolo di legno spaventoso da laboratorio.&#10;Set Spaventoso"/>
 		<entry key="BuildingPartDesc_SRY_PR_ExplodingBarrel" translation="Stai attento!\nTema Pirata"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_RingLarge" translation="A spooky flower arrangement.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_RingSmall" translation="A spooky flower arrangement.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_Straight" translation="A spooky flower arrangement.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_SwagLargeL" translation="A spooky flower arrangement.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_SwagLargeR" translation="A spooky flower arrangement.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_SwagSmallL" translation="A spooky flower arrangement.&#10;Spooky Set"/>
-		<entry key="BuildingPartDesc_Sp_Wreath_SwagSmallR" translation="A spooky flower arrangement.&#10;Spooky Set"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_RingLarge" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_RingSmall" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_Straight" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_SwagLargeL" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_SwagLargeR" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_SwagSmallL" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
+		<entry key="BuildingPartDesc_Sp_Wreath_SwagSmallR" translation="Una composizione floreale spaventosa.&#10;Set Spaventoso"/>
 		<entry key="BuildingPartDesc_WD_Ladder_A_2m" translation="Sorprendentemente utile.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_WD_Ladder_A_4m" translation="Per raggiungere i posti più difficili.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_WD_Radius4Fence_A_90" translation="Una sezione curva di una recinzione in legno.\nTema Pirata"/>
@@ -17018,43 +17018,43 @@
 		<entry key="BuildingPartName_SP_Bin_01" translation="Spooky Bin"/>
 		<entry key="BuildingPartName_SP_BookPile" translation="Spooky Book Pile"/>
 		<entry key="BuildingPartName_SP_Burial_Mound" translation="Burial Mound"/>
-		<entry key="BuildingPartName_SP_CT_ArchWay_01" translation="Crypt Archway"/>
-		<entry key="BuildingPartName_SP_CT_BrokenStoneBits" translation="Castle Broken Stone Bits"/>
-		<entry key="BuildingPartName_SP_CT_Fascia" translation="Crypt Fascia"/>
-		<entry key="BuildingPartName_SP_CT_Fence_01" translation="Crypt Fence 01"/>
-		<entry key="BuildingPartName_SP_CT_Fence_02" translation="Crypt Fence 02"/>
-		<entry key="BuildingPartName_SP_CT_Fence_03" translation="Crypt Fence 03"/>
-		<entry key="BuildingPartName_SP_CT_Flat_Corner" translation="Castle Steps Flat Corner"/>
-		<entry key="BuildingPartName_SP_CT_Flat_Straight" translation="Castle Steps Flat Straight"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Arch" translation="Crypt Arch"/>
-		<entry key="BuildingPartName_SP_CT_Merge_ArchHalf" translation="Crypt Arch Half"/>
-		<entry key="BuildingPartName_SP_CT_Merge_CryptWall_4m" translation="Crypt Wall 4m Detailed"/>
-		<entry key="BuildingPartName_SP_CT_Merge_ShopFront" translation="Crypt Shop Front"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_01" translation="Crypt Wall 4m Stazione Surround 1"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_02" translation="Crypt Wall 2m Stazione Surround 2"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Wall_1m" translation="Crypt Wall 1m"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Wall_2m" translation="Crypt Wall 2m"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Wall_4m" translation="Crypt Wall 4m Base"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Wall_GableTri_1m" translation="Crypt Wall 1m Gable"/>
-		<entry key="BuildingPartName_SP_CT_Merge_Wall_Slope_1m" translation="Crypt Wall 1m Slope"/>
-		<entry key="BuildingPartName_SP_CT_Pillar_01" translation="Crypt Pillar"/>
-		<entry key="BuildingPartName_SP_CT_Pillar_Top_01" translation="Crypt Pillar Top"/>
-		<entry key="BuildingPartName_SP_CT_RaisedSteps" translation="Castle Steps"/>
-		<entry key="BuildingPartName_SP_CT_Roof_Details" translation="Crypt Roof Details"/>
-		<entry key="BuildingPartName_SP_CT_Roof_Details_Slope_1m" translation="Crypt Roof 1m Slope Details"/>
-		<entry key="BuildingPartName_SP_CT_Roof_Details_Slope_1m_Half" translation="Crypt Roof 1m Slope Details Half Length"/>
-		<entry key="BuildingPartName_SP_CT_Roof_Flat_4m" translation="Crypt Roof Flat"/>
-		<entry key="BuildingPartName_SP_CT_Roof_GableTri_1m" translation="Crypt Roof 1m Gable"/>
-		<entry key="BuildingPartName_SP_CT_Roof_Slope_1m" translation="Crypt Roof 1m Slope"/>
-		<entry key="BuildingPartName_SP_CT_RubblePile_01" translation="Castle Rubble Pile"/>
-		<entry key="BuildingPartName_SP_CT_Stairs_Spiral_Left" translation="Castle Steps Spiral Right"/>
-		<entry key="BuildingPartName_SP_CT_Stairs_Spiral_Right" translation="Castle Steps Spiral Left"/>
-		<entry key="BuildingPartName_SP_CT_StoneTrim_Corner_01" translation="Crypt Stone Trim Corner"/>
-		<entry key="BuildingPartName_SP_CT_StoneTrim_Straight_01" translation="Crypt Stone Trim Straight"/>
-		<entry key="BuildingPartName_SP_CT_Wall_Broken_Corner_Arch" translation="Castle Wall Broken Corner Arch"/>
-		<entry key="BuildingPartName_SP_CT_Wall_Broken_Corner_Base" translation="Castle Wall Broken Corner Base"/>
-		<entry key="BuildingPartName_SP_CT_Wall_Broken_Top_01" translation="Castle Wall Broken Top 01"/>
-		<entry key="BuildingPartName_SP_CT_Wall_Broken_Top_02" translation="Castle Wall Broken Top 02"/>
+		<entry key="BuildingPartName_SP_CT_ArchWay_01" translation="Cripta Archway"/>
+		<entry key="BuildingPartName_SP_CT_BrokenStoneBits" translation="Castello Broken Stone Bits"/>
+		<entry key="BuildingPartName_SP_CT_Fascia" translation="Cripta Fascia"/>
+		<entry key="BuildingPartName_SP_CT_Fence_01" translation="Cripta Fence 01"/>
+		<entry key="BuildingPartName_SP_CT_Fence_02" translation="Cripta Fence 02"/>
+		<entry key="BuildingPartName_SP_CT_Fence_03" translation="Cripta Fence 03"/>
+		<entry key="BuildingPartName_SP_CT_Flat_Corner" translation="Castello Steps Flat Corner"/>
+		<entry key="BuildingPartName_SP_CT_Flat_Straight" translation="Castello Steps Flat Straight"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Arch" translation="Cripta Arch"/>
+		<entry key="BuildingPartName_SP_CT_Merge_ArchHalf" translation="Cripta Arch Half"/>
+		<entry key="BuildingPartName_SP_CT_Merge_CryptWall_4m" translation="Cripta Wall 4m Detailed"/>
+		<entry key="BuildingPartName_SP_CT_Merge_ShopFront" translation="Cripta Shop Front"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_01" translation="Cripta Wall 4m Stazione Surround 1"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Station_Surround_02" translation="Cripta Wall 2m Stazione Surround 2"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Wall_1m" translation="Cripta Wall 1m"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Wall_2m" translation="Cripta Wall 2m"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Wall_4m" translation="Cripta Wall 4m Base"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Wall_GableTri_1m" translation="Cripta Wall 1m Gable"/>
+		<entry key="BuildingPartName_SP_CT_Merge_Wall_Slope_1m" translation="Cripta Wall 1m Slope"/>
+		<entry key="BuildingPartName_SP_CT_Pillar_01" translation="Cripta Pillar"/>
+		<entry key="BuildingPartName_SP_CT_Pillar_Top_01" translation="Cripta Pillar Top"/>
+		<entry key="BuildingPartName_SP_CT_RaisedSteps" translation="Castello Steps"/>
+		<entry key="BuildingPartName_SP_CT_Roof_Details" translation="Cripta Roof Details"/>
+		<entry key="BuildingPartName_SP_CT_Roof_Details_Slope_1m" translation="Cripta Roof 1m Slope Details"/>
+		<entry key="BuildingPartName_SP_CT_Roof_Details_Slope_1m_Half" translation="Cripta Roof 1m Slope Details Half Length"/>
+		<entry key="BuildingPartName_SP_CT_Roof_Flat_4m" translation="Cripta Roof Flat"/>
+		<entry key="BuildingPartName_SP_CT_Roof_GableTri_1m" translation="Cripta Roof 1m Gable"/>
+		<entry key="BuildingPartName_SP_CT_Roof_Slope_1m" translation="Cripta Roof 1m Slope"/>
+		<entry key="BuildingPartName_SP_CT_RubblePile_01" translation="Castello Rubble Pile"/>
+		<entry key="BuildingPartName_SP_CT_Stairs_Spiral_Left" translation="Castello Steps Spiral Right"/>
+		<entry key="BuildingPartName_SP_CT_Stairs_Spiral_Right" translation="Castello Steps Spiral Left"/>
+		<entry key="BuildingPartName_SP_CT_StoneTrim_Corner_01" translation="Cripta Stone Trim Corner"/>
+		<entry key="BuildingPartName_SP_CT_StoneTrim_Straight_01" translation="Cripta Stone Trim Straight"/>
+		<entry key="BuildingPartName_SP_CT_Wall_Broken_Corner_Arch" translation="Castello Wall Broken Corner Arch"/>
+		<entry key="BuildingPartName_SP_CT_Wall_Broken_Corner_Base" translation="Castello Wall Broken Corner Base"/>
+		<entry key="BuildingPartName_SP_CT_Wall_Broken_Top_01" translation="Castello Wall Broken Top 01"/>
+		<entry key="BuildingPartName_SP_CT_Wall_Broken_Top_02" translation="Castello Wall Broken Top 02"/>
 		<entry key="BuildingPartName_SP_Candles" translation="Spooky Candle"/>
 		<entry key="BuildingPartName_SP_Chaise_Lounge" translation="Spooky Chaise Lounge"/>
 		<entry key="BuildingPartName_SP_Cobweb_01" translation="Spooky Cobweb 1"/>
@@ -17101,11 +17101,11 @@
 		<entry key="BuildingPartName_SP_Flapping_Curtains_Net" translation="Spooky Flapping Net Curtains"/>
 		<entry key="BuildingPartName_SP_Flapping_Curtains_Tattered" translation="Spooky Flapping Tattered Curtains"/>
 		<entry key="BuildingPartName_SP_Floating_Book" translation="Spooky Book Floating 1"/>
-		<entry key="BuildingPartName_SP_GC_DoorAN_001" translation="Gothic Castle Door Animatronic"/>
-		<entry key="BuildingPartName_SP_GC_Door_001" translation="Gothic Castle Door"/>
-		<entry key="BuildingPartName_SP_GC_WinBB_001" translation="Gothic Castle Window 1"/>
-		<entry key="BuildingPartName_SP_GC_WinBB_003" translation="Gothic Castle Window 2"/>
-		<entry key="BuildingPartName_SP_GC_WinBB_004" translation="Gothic Castle Window 3"/>
+		<entry key="BuildingPartName_SP_GC_DoorAN_001" translation="Gothic Castello Door Animatronic"/>
+		<entry key="BuildingPartName_SP_GC_Door_001" translation="Gothic Castello Door"/>
+		<entry key="BuildingPartName_SP_GC_WinBB_001" translation="Gothic Castello Window 1"/>
+		<entry key="BuildingPartName_SP_GC_WinBB_003" translation="Gothic Castello Window 2"/>
+		<entry key="BuildingPartName_SP_GC_WinBB_004" translation="Gothic Castello Window 3"/>
 		<entry key="BuildingPartName_SP_Gargoyle_01" translation="Spooky Gargoyle 1"/>
 		<entry key="BuildingPartName_SP_Gargoyle_01_NoWings" translation="Spooky Gargoyle 1 Wingless"/>
 		<entry key="BuildingPartName_SP_Gargoyle_02" translation="Spooky Gargoyle 2"/>
@@ -17123,119 +17123,119 @@
 		<entry key="BuildingPartName_SP_Graveyard_Gate_Arch" translation="Graveyard Gate Arch"/>
 		<entry key="BuildingPartName_SP_Graveyard_Pillar_01" translation="Graveyard Pillar"/>
 		<entry key="BuildingPartName_SP_Graveyard_Wall_01" translation="Graveyard Wall"/>
-		<entry key="BuildingPartName_SP_HH_ArchHalf_Tunnel" translation="Haunted House Tunnel Arch Half"/>
-		<entry key="BuildingPartName_SP_HH_Arch_Tunnel" translation="Haunted House Tunnel"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Corner" translation="Haunted House Balcony Roof Corner"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Corner_Inv" translation="Haunted House Balcony Roof Corner Inverted"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Addon_Corner" translation="Haunted House Flat Balcony Add-on"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Addon_End" translation="Haunted House Flat Balcony Add-on End"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Addon_Straight" translation="Haunted House Flat Balcony Add-on Straight"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Straight" translation="Haunted House Flat Balcony"/>
-		<entry key="BuildingPartName_SP_HH_Balcony_Straight" translation="Haunted House Balcony Roof"/>
-		<entry key="BuildingPartName_SP_HH_Chimney_Base_01" translation="Haunted House Chimney Base 1"/>
-		<entry key="BuildingPartName_SP_HH_Chimney_Base_02" translation="Haunted House Chimney Base 2"/>
-		<entry key="BuildingPartName_SP_HH_Chimney_Base_03" translation="Haunted House Chimney Base 3"/>
-		<entry key="BuildingPartName_SP_HH_Chimney_Top_01" translation="Haunted House Chimney Top"/>
-		<entry key="BuildingPartName_SP_HH_DoorAN_001" translation="Haunted House Door Animatronic"/>
-		<entry key="BuildingPartName_SP_HH_Door_001" translation="Haunted House Door"/>
-		<entry key="BuildingPartName_SP_HH_FloorPanel_Marble_01_2m" translation="Haunted House Marble Floor Panel 2m"/>
-		<entry key="BuildingPartName_SP_HH_FloorPanel_Marble_01_4m" translation="Haunted House Marble Floor Panel 4m"/>
-		<entry key="BuildingPartName_SP_HH_FullBalcony_2m" translation="Haunted House Balcony Narrow"/>
-		<entry key="BuildingPartName_SP_HH_FullBalcony_4m" translation="Haunted House Balcony Wide"/>
-		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Base_01" translation="Haunted House Interior Wood Panel Base"/>
-		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Mid_01" translation="Haunted House Interior Wood Panel Mid"/>
-		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Top_01" translation="Haunted House Interior Wood Panel Top"/>
+		<entry key="BuildingPartName_SP_HH_ArchHalf_Tunnel" translation="Casa Stregata Tunnel Arch Half"/>
+		<entry key="BuildingPartName_SP_HH_Arch_Tunnel" translation="Casa Stregata Tunnel"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Corner" translation="Casa Stregata Balcony Roof Corner"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Corner_Inv" translation="Casa Stregata Balcony Roof Corner Inverted"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Addon_Corner" translation="Casa Stregata Flat Balcony Add-on"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Addon_End" translation="Casa Stregata Flat Balcony Add-on End"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Addon_Straight" translation="Casa Stregata Flat Balcony Add-on Straight"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Flat_Straight" translation="Casa Stregata Flat Balcony"/>
+		<entry key="BuildingPartName_SP_HH_Balcony_Straight" translation="Casa Stregata Balcony Roof"/>
+		<entry key="BuildingPartName_SP_HH_Chimney_Base_01" translation="Casa Stregata Chimney Base 1"/>
+		<entry key="BuildingPartName_SP_HH_Chimney_Base_02" translation="Casa Stregata Chimney Base 2"/>
+		<entry key="BuildingPartName_SP_HH_Chimney_Base_03" translation="Casa Stregata Chimney Base 3"/>
+		<entry key="BuildingPartName_SP_HH_Chimney_Top_01" translation="Casa Stregata Chimney Top"/>
+		<entry key="BuildingPartName_SP_HH_DoorAN_001" translation="Casa Stregata Door Animatronic"/>
+		<entry key="BuildingPartName_SP_HH_Door_001" translation="Casa Stregata Door"/>
+		<entry key="BuildingPartName_SP_HH_FloorPanel_Marble_01_2m" translation="Casa Stregata Marble Floor Panel 2m"/>
+		<entry key="BuildingPartName_SP_HH_FloorPanel_Marble_01_4m" translation="Casa Stregata Marble Floor Panel 4m"/>
+		<entry key="BuildingPartName_SP_HH_FullBalcony_2m" translation="Casa Stregata Balcony Narrow"/>
+		<entry key="BuildingPartName_SP_HH_FullBalcony_4m" translation="Casa Stregata Balcony Wide"/>
+		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Base_01" translation="Casa Stregata Interior Wood Panel Base"/>
+		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Mid_01" translation="Casa Stregata Interior Wood Panel Mid"/>
+		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Top_01" translation="Casa Stregata Interior Wood Panel Top"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_01_2m" translation="Iron Fencing 1 2m"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_01_4m" translation="Iron Fencing 1 4m"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_Small_01_2m" translation="Iron Fencing 2m Low"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_Small_01_4m" translation="Iron Fencing 4m Low"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_Small_02_2m" translation="Iron Fencing 2 2m"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_Small_02_4m" translation="Iron Fencing 2 4m"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Arch" translation="Haunted House Arch"/>
-		<entry key="BuildingPartName_SP_HH_Merge_ArchHalf" translation="Haunted House Arch Half"/>
-		<entry key="BuildingPartName_SP_HH_Merge_ShopFront" translation="Haunted House Shop Front"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_01" translation="Haunted House Wall 4m Stazione Surround 1"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_02" translation="Haunted House Wall 2m Stazione Surround 2"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_1m" translation="Haunted House Wall 1m"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_2m" translation="Haunted House Wall 2m"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_4m" translation="Haunted House Wall 4m"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_GableTri_1m" translation="Haunted House Wall 1m Gable"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_GableTri_2m" translation="Haunted House Wall 2m Gable"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_GableTri_4m" translation="Haunted House Wall 4m Gable"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_Slope_1m" translation="Haunted House Wall 1m Slope"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_Slope_2m" translation="Haunted House Wall 2m Slope"/>
-		<entry key="BuildingPartName_SP_HH_Merge_Wall_Slope_4m" translation="Haunted House Wall 4m Slope"/>
-		<entry key="BuildingPartName_SP_HH_Pillar_01_2m" translation="Haunted House Pillar 2m"/>
-		<entry key="BuildingPartName_SP_HH_Pillar_01_4m" translation="Haunted House Pillar 4m"/>
-		<entry key="BuildingPartName_SP_HH_Pillar_01_Base" translation="Haunted House Pillar Base"/>
-		<entry key="BuildingPartName_SP_HH_Pillar_01_Top" translation="Haunted House Pillar Top"/>
-		<entry key="BuildingPartName_SP_HH_Plank_01" translation="Haunted House Wooden Plank 1"/>
-		<entry key="BuildingPartName_SP_HH_Plank_02" translation="Haunted House Wooden Plank 2"/>
-		<entry key="BuildingPartName_SP_HH_Plank_03" translation="Haunted House Wooden Plank 3"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Double_Corner" translation="Haunted House Roof Double Corner"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Double_Straight" translation="Haunted House Roof Double Straight"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Flat_4m" translation="Haunted House Roof Flat"/>
-		<entry key="BuildingPartName_SP_HH_Roof_GableTri_1m" translation="Haunted House Roof 1m Ridge"/>
-		<entry key="BuildingPartName_SP_HH_Roof_GableTri_2m" translation="Haunted House Roof 2m Ridge"/>
-		<entry key="BuildingPartName_SP_HH_Roof_GableTri_4m" translation="Haunted House Roof 4m Ridge"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Overhang_01" translation="Haunted House Roof Overhang"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner" translation="Haunted House Roof Single Corner"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner_2m" translation="Haunted House Roof 2m Corner"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner_Inv" translation="Haunted House Roof Single Corner Inverted"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner_Inv_Double" translation="Haunted House Roof Single Corner Inverted Double"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Single_Straight" translation="Haunted House Roof Single Straight"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Single_Straight_2m" translation="Haunted House Roof 2m"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Slope_1m" translation="Haunted House Roof 1m Slope"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Slope_2m" translation="Haunted House Roof 2m Slope"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Slope_4m" translation="Haunted House Roof 4m Slope"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Tower_4m" translation="Haunted House Roof Tower"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Tower_Double" translation="Haunted House Roof Tower Double"/>
-		<entry key="BuildingPartName_SP_HH_Roof_Tower_Single" translation="Haunted House Roof Tower Single"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Arch" translation="Casa Stregata Arch"/>
+		<entry key="BuildingPartName_SP_HH_Merge_ArchHalf" translation="Casa Stregata Arch Half"/>
+		<entry key="BuildingPartName_SP_HH_Merge_ShopFront" translation="Casa Stregata Shop Front"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_01" translation="Casa Stregata Wall 4m Stazione Surround 1"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Station_Surround_02" translation="Casa Stregata Wall 2m Stazione Surround 2"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_1m" translation="Casa Stregata Wall 1m"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_2m" translation="Casa Stregata Wall 2m"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_4m" translation="Casa Stregata Wall 4m"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_GableTri_1m" translation="Casa Stregata Wall 1m Gable"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_GableTri_2m" translation="Casa Stregata Wall 2m Gable"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_GableTri_4m" translation="Casa Stregata Wall 4m Gable"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_Slope_1m" translation="Casa Stregata Wall 1m Slope"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_Slope_2m" translation="Casa Stregata Wall 2m Slope"/>
+		<entry key="BuildingPartName_SP_HH_Merge_Wall_Slope_4m" translation="Casa Stregata Wall 4m Slope"/>
+		<entry key="BuildingPartName_SP_HH_Pillar_01_2m" translation="Casa Stregata Pillar 2m"/>
+		<entry key="BuildingPartName_SP_HH_Pillar_01_4m" translation="Casa Stregata Pillar 4m"/>
+		<entry key="BuildingPartName_SP_HH_Pillar_01_Base" translation="Casa Stregata Pillar Base"/>
+		<entry key="BuildingPartName_SP_HH_Pillar_01_Top" translation="Casa Stregata Pillar Top"/>
+		<entry key="BuildingPartName_SP_HH_Plank_01" translation="Casa Stregata Wooden Plank 1"/>
+		<entry key="BuildingPartName_SP_HH_Plank_02" translation="Casa Stregata Wooden Plank 2"/>
+		<entry key="BuildingPartName_SP_HH_Plank_03" translation="Casa Stregata Wooden Plank 3"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Double_Corner" translation="Casa Stregata Roof Double Corner"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Double_Straight" translation="Casa Stregata Roof Double Straight"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Flat_4m" translation="Casa Stregata Roof Flat"/>
+		<entry key="BuildingPartName_SP_HH_Roof_GableTri_1m" translation="Casa Stregata Roof 1m Ridge"/>
+		<entry key="BuildingPartName_SP_HH_Roof_GableTri_2m" translation="Casa Stregata Roof 2m Ridge"/>
+		<entry key="BuildingPartName_SP_HH_Roof_GableTri_4m" translation="Casa Stregata Roof 4m Ridge"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Overhang_01" translation="Casa Stregata Roof Overhang"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner" translation="Casa Stregata Roof Single Corner"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner_2m" translation="Casa Stregata Roof 2m Corner"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner_Inv" translation="Casa Stregata Roof Single Corner Inverted"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Single_Corner_Inv_Double" translation="Casa Stregata Roof Single Corner Inverted Double"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Single_Straight" translation="Casa Stregata Roof Single Straight"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Single_Straight_2m" translation="Casa Stregata Roof 2m"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Slope_1m" translation="Casa Stregata Roof 1m Slope"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Slope_2m" translation="Casa Stregata Roof 2m Slope"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Slope_4m" translation="Casa Stregata Roof 4m Slope"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Tower_4m" translation="Casa Stregata Roof Tower"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Tower_Double" translation="Casa Stregata Roof Tower Double"/>
+		<entry key="BuildingPartName_SP_HH_Roof_Tower_Single" translation="Casa Stregata Roof Tower Single"/>
 		<entry key="BuildingPartName_SP_HH_StoneFencing_01_2m" translation="Stone Fencing 2m"/>
 		<entry key="BuildingPartName_SP_HH_StoneFencing_01_4m" translation="Stone Fencing 4m"/>
-		<entry key="BuildingPartName_SP_HH_Stone_Base_Corner_2m" translation="Haunted House Stone Wall Base Corner 2m"/>
-		<entry key="BuildingPartName_SP_HH_Stone_Base_Straight_2m" translation="Haunted House Stone Wall Base 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_01_1m" translation="Haunted House Wooden Panels 1m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_01_2m" translation="Haunted House Wooden Panels 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_01_4m" translation="Haunted House Wooden Panels 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_02_2m" translation="Haunted House Interior Wood Panel 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_02_4m" translation="Haunted House Interior Wood Panel 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_Floor_01_2m" translation="Haunted House Wooden Floor Panel 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_Floor_01_4m" translation="Haunted House Wooden Floor Panel 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_1m" translation="Haunted House Wallpaper 1 1m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_2m" translation="Haunted House Wallpaper 1 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_2m_Variation" translation="Haunted House Wallpaper 1 Variant 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_4m" translation="Haunted House Wallpaper 1 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_4m_Variation" translation="Haunted House Wallpaper 1 Variant 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_2m" translation="Haunted House Wallpaper 2 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_2m_Variation" translation="Haunted House Wallpaper 2 Variant 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_4m" translation="Haunted House Wallpaper 2 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_4m_Variation" translation="Haunted House Wallpaper 2 Variant 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_2m" translation="Haunted House Wallpaper 3 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_2m_Variation" translation="Haunted House Wallpaper 3 Variant 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_4m" translation="Haunted House Wallpaper 3 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_4m_Variation" translation="Haunted House Wallpaper 3 Variant 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_2m" translation="Haunted House Wallpaper 4 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_2m_Variation" translation="Haunted House Wallpaper 4 Variant 2m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_4m" translation="Haunted House Wallpaper 4 4m"/>
-		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_4m_Variation" translation="Haunted House Wallpaper 4 Variant 4m"/>
-		<entry key="BuildingPartName_SP_HH_Window_01" translation="Haunted House Window Lit 1 Deep"/>
-		<entry key="BuildingPartName_SP_HH_Window_01_NEM" translation="Haunted House Window 1 Deep"/>
-		<entry key="BuildingPartName_SP_HH_Window_02" translation="Haunted House Window Lit 1"/>
-		<entry key="BuildingPartName_SP_HH_Window_02_NEM" translation="Haunted House Window 1"/>
-		<entry key="BuildingPartName_SP_HH_Window_03" translation="Haunted House Window Lit 2 Deep"/>
-		<entry key="BuildingPartName_SP_HH_Window_03_NEM" translation="Haunted House Window 2 Deep"/>
-		<entry key="BuildingPartName_SP_HH_Window_04" translation="Haunted House Window Lit 2"/>
-		<entry key="BuildingPartName_SP_HH_Window_04_NEM" translation="Haunted House Window 2"/>
-		<entry key="BuildingPartName_SP_HH_Window_05" translation="Haunted House Window Lit 3"/>
-		<entry key="BuildingPartName_SP_HH_Window_05_NEM" translation="Haunted House Window 3"/>
-		<entry key="BuildingPartName_SP_HH_Window_06" translation="Haunted House Window Lit 4"/>
-		<entry key="BuildingPartName_SP_HH_Window_06_NEM" translation="Haunted House Window 4"/>
-		<entry key="BuildingPartName_SP_HH_WoodenBeam_2m_01" translation="Haunted House Wooden Beam 2m"/>
-		<entry key="BuildingPartName_SP_HH_WoodenBeam_4m_01" translation="Haunted House Wooden Beam 4m"/>
-		<entry key="BuildingPartName_SP_HH_WoodenBeam_8m_01" translation="Haunted House Wooden Beam 8m"/>
-		<entry key="BuildingPartName_SP_HH_WoodenFencing_01_2m" translation="Haunted House Wooden Fencing 2m"/>
-		<entry key="BuildingPartName_SP_HH_WoodenFencing_01_4m" translation="Haunted House Wooden Fencing 4m"/>
+		<entry key="BuildingPartName_SP_HH_Stone_Base_Corner_2m" translation="Casa Stregata Stone Wall Base Corner 2m"/>
+		<entry key="BuildingPartName_SP_HH_Stone_Base_Straight_2m" translation="Casa Stregata Stone Wall Base 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_01_1m" translation="Casa Stregata Wooden Panels 1m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_01_2m" translation="Casa Stregata Wooden Panels 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_01_4m" translation="Casa Stregata Wooden Panels 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_02_2m" translation="Casa Stregata Interior Wood Panel 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_02_4m" translation="Casa Stregata Interior Wood Panel 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_Floor_01_2m" translation="Casa Stregata Wooden Floor Panel 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_InteriorWood_Floor_01_4m" translation="Casa Stregata Wooden Floor Panel 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_1m" translation="Casa Stregata Wallpaper 1 1m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_2m" translation="Casa Stregata Wallpaper 1 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_2m_Variation" translation="Casa Stregata Wallpaper 1 Variant 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_4m" translation="Casa Stregata Wallpaper 1 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_01_4m_Variation" translation="Casa Stregata Wallpaper 1 Variant 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_2m" translation="Casa Stregata Wallpaper 2 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_2m_Variation" translation="Casa Stregata Wallpaper 2 Variant 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_4m" translation="Casa Stregata Wallpaper 2 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_02_4m_Variation" translation="Casa Stregata Wallpaper 2 Variant 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_2m" translation="Casa Stregata Wallpaper 3 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_2m_Variation" translation="Casa Stregata Wallpaper 3 Variant 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_4m" translation="Casa Stregata Wallpaper 3 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_03_4m_Variation" translation="Casa Stregata Wallpaper 3 Variant 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_2m" translation="Casa Stregata Wallpaper 4 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_2m_Variation" translation="Casa Stregata Wallpaper 4 Variant 2m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_4m" translation="Casa Stregata Wallpaper 4 4m"/>
+		<entry key="BuildingPartName_SP_HH_WallPanel_WallPaper_04_4m_Variation" translation="Casa Stregata Wallpaper 4 Variant 4m"/>
+		<entry key="BuildingPartName_SP_HH_Window_01" translation="Casa Stregata Window Lit 1 Deep"/>
+		<entry key="BuildingPartName_SP_HH_Window_01_NEM" translation="Casa Stregata Window 1 Deep"/>
+		<entry key="BuildingPartName_SP_HH_Window_02" translation="Casa Stregata Window Lit 1"/>
+		<entry key="BuildingPartName_SP_HH_Window_02_NEM" translation="Casa Stregata Window 1"/>
+		<entry key="BuildingPartName_SP_HH_Window_03" translation="Casa Stregata Window Lit 2 Deep"/>
+		<entry key="BuildingPartName_SP_HH_Window_03_NEM" translation="Casa Stregata Window 2 Deep"/>
+		<entry key="BuildingPartName_SP_HH_Window_04" translation="Casa Stregata Window Lit 2"/>
+		<entry key="BuildingPartName_SP_HH_Window_04_NEM" translation="Casa Stregata Window 2"/>
+		<entry key="BuildingPartName_SP_HH_Window_05" translation="Casa Stregata Window Lit 3"/>
+		<entry key="BuildingPartName_SP_HH_Window_05_NEM" translation="Casa Stregata Window 3"/>
+		<entry key="BuildingPartName_SP_HH_Window_06" translation="Casa Stregata Window Lit 4"/>
+		<entry key="BuildingPartName_SP_HH_Window_06_NEM" translation="Casa Stregata Window 4"/>
+		<entry key="BuildingPartName_SP_HH_WoodenBeam_2m_01" translation="Casa Stregata Wooden Beam 2m"/>
+		<entry key="BuildingPartName_SP_HH_WoodenBeam_4m_01" translation="Casa Stregata Wooden Beam 4m"/>
+		<entry key="BuildingPartName_SP_HH_WoodenBeam_8m_01" translation="Casa Stregata Wooden Beam 8m"/>
+		<entry key="BuildingPartName_SP_HH_WoodenFencing_01_2m" translation="Casa Stregata Wooden Fencing 2m"/>
+		<entry key="BuildingPartName_SP_HH_WoodenFencing_01_4m" translation="Casa Stregata Wooden Fencing 4m"/>
 		<entry key="BuildingPartName_SP_JB_Merge_Wall_4m_01" translation="Jail Bars"/>
 		<entry key="BuildingPartName_SP_JB_Merge_Wall_4m_02" translation="Jail Bars with Door"/>
 		<entry key="BuildingPartName_SP_Lamppost_01" translation="Spooky Lamp Post"/>
