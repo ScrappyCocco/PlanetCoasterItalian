@@ -17092,7 +17092,7 @@
 		<entry key="BuildingPartName_SP_FXBox_Smoke_Large" translation="Effetto Speciale - Fumo Colorabile Grande"/>
 		<entry key="BuildingPartName_SP_FXBox_Smoke_Medium" translation="Effetto Speciale - Fumo Colorabile Medio"/>
 		<entry key="BuildingPartName_SP_FXBox_Smoke_Small" translation="Effetto Speciale - Fumo Colorabile Piccolo"/>
-		<entry key="BuildingPartName_SP_FXBox_Spiders" translation="Effetto Speciale - Spiders"/>
+		<entry key="BuildingPartName_SP_FXBox_Spiders" translation="Effetto Speciale - Ragni"/>
 		<entry key="BuildingPartName_SP_Fireplace" translation="Focolare Spaventoso"/>
 		<entry key="BuildingPartName_SP_Fireplace_Logs" translation="Ceppi del Focolare Spaventoso"/>
 		<entry key="BuildingPartName_SP_Fireplace_Top" translation="Sommità del Focolare Spaventoso"/>
@@ -17323,60 +17323,60 @@
 		<entry key="BuildingPartName_SP_Single_Books_04" translation="Libro Spaventoso 4"/>
 		<entry key="BuildingPartName_SP_Single_Books_05" translation="Libro Spaventoso 5"/>
 		<entry key="BuildingPartName_SP_Single_Books_06" translation="Libro Spaventoso 6"/>
-		<entry key="BuildingPartName_SP_Skeleton_GrabbingArm" translation="Spooky Skeleton Animatronic Arm 1"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Foot_Left" translation="Spooky Skeleton Left Foot"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Foot_Right" translation="Spooky Skeleton Right Foot"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Hand_Left" translation="Spooky Skeleton Left Hand"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Hand_Right" translation="Spooky Skeleton Right Hand"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Hanging_01" translation="Spooky Skeleton Animatronic Hanging 1"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Hanging_02" translation="Spooky Skeleton Animatronic Hanging 2"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LayingDown_01" translation="Spooky Skeleton Animatronic Laying Down 1"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LayingDown_02" translation="Spooky Skeleton Animatronic Laying Down 2"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LayingDown_03" translation="Spooky Skeleton Animatronic Laying Down 3"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerArm_Left" translation="Spooky Skeleton Left Lower Arm"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerArm_Right" translation="Spooky Skeleton Right Lower Arm"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerLeg_Left" translation="Spooky Skeleton Left Lower Leg"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerLeg_Right" translation="Spooky Skeleton Right Lower Leg"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Pile" translation="Spooky Skeleton Animatronic Parts"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Skull" translation="Spooky Skeleton Skull"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Slumped" translation="Spooky Skeleton Animatronic Slumped"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_SwingingArm" translation="Spooky Skeleton Animatronic Arm 2"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_Torso" translation="Spooky Skeleton Torso"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperArm_Left" translation="Spooky Skeleton Left Upper Arm"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperArm_Right" translation="Spooky Skeleton Right Upper Arm"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperLeg_Left" translation="Spooky Skeleton Left Upper Leg"/>
-		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperLeg_Right" translation="Spooky Skeleton Right Upper Leg"/>
-		<entry key="BuildingPartName_SP_Small_Bookcase" translation="Spooky Bookcase Small"/>
-		<entry key="BuildingPartName_SP_Sofa" translation="Spooky Sofa"/>
-		<entry key="BuildingPartName_SP_Spider_Decoration_01" translation="Spooky Spider Decoration 1"/>
-		<entry key="BuildingPartName_SP_Spider_Decroration_02" translation="Spooky Spider Decoration 2"/>
-		<entry key="BuildingPartName_SP_SpookyClock" translation="Spooky Clock"/>
-		<entry key="BuildingPartName_SP_Sunflower_01" translation="Sunflower 1"/>
-		<entry key="BuildingPartName_SP_Sunflower_02" translation="Sunflower 2"/>
-		<entry key="BuildingPartName_SP_Sunflower_Head" translation="Sunflower Head"/>
-		<entry key="BuildingPartName_SP_TableLight" translation="Spooky Table Light"/>
-		<entry key="BuildingPartName_SP_Table_Large" translation="Spooky Table Large"/>
-		<entry key="BuildingPartName_SP_Vines_01" translation="Spooky Green Vines 1"/>
-		<entry key="BuildingPartName_SP_Vines_02" translation="Spooky Green Vines 2"/>
-		<entry key="BuildingPartName_SP_Vines_03" translation="Spooky Green Vines 3"/>
-		<entry key="BuildingPartName_SP_Vines_04" translation="Spooky Green Vines 4"/>
-		<entry key="BuildingPartName_SP_Vines_Dead_01" translation="Spooky Dead Vines 1"/>
-		<entry key="BuildingPartName_SP_Vines_Dead_02" translation="Spooky Dead Vines 2"/>
-		<entry key="BuildingPartName_SP_Vines_Dead_03" translation="Spooky Dead Vines 3"/>
-		<entry key="BuildingPartName_SP_Vines_Dead_04" translation="Spooky Dead Vines 4"/>
-		<entry key="BuildingPartName_SP_WallLight_01" translation="Spooky Wall Light 1"/>
-		<entry key="BuildingPartName_SP_WallLight_02" translation="Spooky Wall Light 2"/>
-		<entry key="BuildingPartName_SP_WallLight_03" translation="Spooky Wall Light 3"/>
-		<entry key="BuildingPartName_SP_WallLight_04" translation="Spooky Wall Light 4"/>
-		<entry key="BuildingPartName_SP_table" translation="Spooky Table"/>
+		<entry key="BuildingPartName_SP_Skeleton_GrabbingArm" translation="Animatronic Scheletro Spaventoso Braccio 1"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Foot_Left" translation="Scheletro Spaventoso Piede Sinistro"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Foot_Right" translation="Scheletro Spaventoso Piede Destro"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Hand_Left" translation="Scheletro Spaventoso Mano Sinistra"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Hand_Right" translation="Scheletro Spaventoso Mano Destra"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Hanging_01" translation="Animatronic Scheletro Spaventoso Appeso 1"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Hanging_02" translation="Animatronic Scheletro Spaventoso Appeso 2"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LayingDown_01" translation="Animatronic Scheletro Spaventoso in terra 1"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LayingDown_02" translation="Animatronic Scheletro Spaventoso in terra 2"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LayingDown_03" translation="Animatronic Scheletro Spaventoso in terra 3"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerArm_Left" translation="Scheletro Spaventoso Avambraccio Sinistro"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerArm_Right" translation="Scheletro Spaventoso Avambraccio Destro"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerLeg_Left" translation="Scheletro Spaventoso Gamba Sinistra"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_LowerLeg_Right" translation="Scheletro Spaventoso Gamba Destra"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Pile" translation="Animatronic Scheletro Spaventoso Parti"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Skull" translation="Scheletro Spaventoso Teschio"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Slumped" translation="Animatronic Scheletro Spaventoso Accasciato"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_SwingingArm" translation="Animatronic Scheletro Spaventoso Braccio 2"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_Torso" translation="Scheletro Spaventoso Torso"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperArm_Left" translation="Scheletro Spaventoso Braccio Sinistro"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperArm_Right" translation="Scheletro Spaventoso Braccio Destro"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperLeg_Left" translation="Scheletro Spaventoso Coscia Sinistra"/>
+		<entry key="BuildingPartName_SP_Skeleton_Parts_UpperLeg_Right" translation="Scheletro Spaventoso Coscia Destra"/>
+		<entry key="BuildingPartName_SP_Small_Bookcase" translation="Libreria Spaventosa Piccola"/>
+		<entry key="BuildingPartName_SP_Sofa" translation="Sofà Spaventoso"/>
+		<entry key="BuildingPartName_SP_Spider_Decoration_01" translation="Ragno Spaventoso Decorazione 1"/>
+		<entry key="BuildingPartName_SP_Spider_Decroration_02" translation="Ragno Spaventoso Decorazione 2"/>
+		<entry key="BuildingPartName_SP_SpookyClock" translation="Orologio Spaventoso"/>
+		<entry key="BuildingPartName_SP_Sunflower_01" translation="Girasole 1"/>
+		<entry key="BuildingPartName_SP_Sunflower_02" translation="Girasole 2"/>
+		<entry key="BuildingPartName_SP_Sunflower_Head" translation="Testa di Girasole"/>
+		<entry key="BuildingPartName_SP_TableLight" translation="Luce da Tavolo Spaventosa"/>
+		<entry key="BuildingPartName_SP_Table_Large" translation="Tavolo Spaventoso Grande"/>
+		<entry key="BuildingPartName_SP_Vines_01" translation="Viti Verdi Spaventose 1"/>
+		<entry key="BuildingPartName_SP_Vines_02" translation="Viti Verdi Spaventose 2"/>
+		<entry key="BuildingPartName_SP_Vines_03" translation="Viti Verdi Spaventose 3"/>
+		<entry key="BuildingPartName_SP_Vines_04" translation="Viti Verdi Spaventose 4"/>
+		<entry key="BuildingPartName_SP_Vines_Dead_01" translation="Viti Morte Spaventose 1"/>
+		<entry key="BuildingPartName_SP_Vines_Dead_02" translation="Viti Morte Spaventose 2"/>
+		<entry key="BuildingPartName_SP_Vines_Dead_03" translation="Viti Morte Spaventose 3"/>
+		<entry key="BuildingPartName_SP_Vines_Dead_04" translation="Viti Morte Spaventose 4"/>
+		<entry key="BuildingPartName_SP_WallLight_01" translation="Luce a Muro Spaventosa 1"/>
+		<entry key="BuildingPartName_SP_WallLight_02" translation="Luce a Muro Spaventosa 2"/>
+		<entry key="BuildingPartName_SP_WallLight_03" translation="Luce a Muro Spaventosa 3"/>
+		<entry key="BuildingPartName_SP_WallLight_04" translation="Luce a Muro Spaventosa 4"/>
+		<entry key="BuildingPartName_SP_table" translation="Tavolo Spaventoso"/>
 		<entry key="BuildingPartName_SRY_PR_ExplodingBarrel" translation="Barile in Legno Esplosivo"/>
-		<entry key="BuildingPartName_Sp_Wreath_RingLarge" translation="Spooky Wreath Ring Large"/>
-		<entry key="BuildingPartName_Sp_Wreath_RingSmall" translation="Spooky Wreath Ring Small"/>
-		<entry key="BuildingPartName_Sp_Wreath_Straight" translation="Spooky Wreath Swag Straight"/>
-		<entry key="BuildingPartName_Sp_Wreath_SwagLargeL" translation="Spooky Wreath Swag Large Left"/>
-		<entry key="BuildingPartName_Sp_Wreath_SwagLargeR" translation="Spooky Wreath Swag Large Right"/>
-		<entry key="BuildingPartName_Sp_Wreath_SwagSmallL" translation="Spooky Wreath Swag Small Left"/>
-		<entry key="BuildingPartName_Sp_Wreath_SwagSmallR" translation="Spooky Wreath Swag Small Right"/>
+		<entry key="BuildingPartName_Sp_Wreath_RingLarge" translation="Ghirlanda ad Anello Spaventosa Grande"/>
+		<entry key="BuildingPartName_Sp_Wreath_RingSmall" translation="Ghirlanda ad Anello Spaventosa Piccola"/>
+		<entry key="BuildingPartName_Sp_Wreath_Straight" translation="Ghirlanda a Festone Spaventosa Dritta"/>
+		<entry key="BuildingPartName_Sp_Wreath_SwagLargeL" translation="Ghirlanda a Festone Spaventosa Grande Sinistra"/>
+		<entry key="BuildingPartName_Sp_Wreath_SwagLargeR" translation="Ghirlanda a Festone Spaventosa Grande Destra"/>
+		<entry key="BuildingPartName_Sp_Wreath_SwagSmallL" translation="Ghirlanda a Festone Spaventosa Piccola Sinistra"/>
+		<entry key="BuildingPartName_Sp_Wreath_SwagSmallR" translation="Ghirlanda a Festone Spaventosa Piccola Destra"/>
 		<entry key="BuildingPartName_WD_Ladder_A_2m" translation="Scala a Pioli in Legno Corta"/>
 		<entry key="BuildingPartName_WD_Ladder_A_4m" translation="Scala a Pioli in Legno Lunga"/>
 		<entry key="BuildingPartName_WD_Radius4Fence_A_90" translation="Recinzione Curva in Legno"/>
@@ -17493,9 +17493,9 @@
 		<entry key="BuildingPartName_WS_WaterTower_Small" translation="Serbatoio Idrico a Torre - Piccolo"/>
 		<entry key="BuildingPartName_WS_Weathervane" translation="Banderuola Segnavento a Forma di Pistolero"/>
 		<entry key="BuildingPartName_WS_Wheel_Large" translation="Ruota in Ferro - Grande"/>
-		<entry key="BuildingPartName_WS_Wheel_Large_Anim" translation="Iron Wheel - Large Rotating"/>
+		<entry key="BuildingPartName_WS_Wheel_Large_Anim" translation="Ruota in Ferro Rotante - Grande"/>
 		<entry key="BuildingPartName_WS_Wheel_Small" translation="Ruota in Ferro - Piccola"/>
-		<entry key="BuildingPartName_WS_Wheel_Small_Anim" translation="Iron Wheel - Small Rotating"/>
+		<entry key="BuildingPartName_WS_Wheel_Small_Anim" translation="Ruota in Ferro Rotante- Piccola"/>
 		<entry key="BuildingPartName_WS_WindPump" translation="Mulino a Vento Western"/>
 		<!--Scenery_Nature-->
 		<entry key="BuildingPartDesc_AL_Rock_01" translation="Una roccia ornamentale.&#10;Alpino"/>
@@ -17783,8 +17783,8 @@
 		<entry key="Mascot_KingCoasterDeluxe" translation="Re Coaster Deluxe"/>
 		<entry key="Mascot_KingCoasterDeluxe_Desc" translation="Lo spirito di chi cerca emozioni forti, in versione deluxe"/>
 		<entry key="Mascot_KingCoaster_Desc" translation="Lo spirito di chi cerca emozioni forti"/>
-		<entry key="Mascot_KingGhoster" translation="King Ghoster"/>
-		<entry key="Mascot_KingGhoster_Desc" translation="The spirit of thrillseekers and scares!"/>
+		<entry key="Mascot_KingGhoster" translation="Re Ghoster"/>
+		<entry key="Mascot_KingGhoster_Desc" translation="Lo spirito di chi cerca brividi e spaventi!"/>
 		<entry key="Mascot_MissElly" translation="Miss Elly"/>
 		<entry key="Mascot_MissElly_Desc" translation="L'abito non fa la damigella!"/>
 		<entry key="Mascot_PirateKing" translation="Capitano Lockjaw"/>
@@ -18053,14 +18053,14 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainSand" translation="Sabbia"/>
 		<entry key="Terrain_Edit_Intensity" translation="Intensità"/>
 		<entry key="Terrain_Edit_Lakes" translation="Acqua"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming" translation="Paint"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Auto" translation="Auto-paint"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Auto_Tooltip" translation="When modifying Terrain, Auto-Paint takes height and depth into account, and applies Paint Styles accordingly"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Cursor" translation="Sampled"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Cursor_Tooltip" translation="Apply the Paint Style that is currently under your cursor when modifying the terrain"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Selected" translation="Use Selected"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Selected_Tooltip" translation="Use the Paint Style that you currently have selected in the Painting tab ({NAME})"/>
-		<entry key="Terrain_Edit_PaintWhenDeforming_Tooltip" translation="Paint to apply to newly created surfaces"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming" translation="Dipingi"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Auto" translation="Auto-Dipingi"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Auto_Tooltip" translation="Quando si modifica un terreno, Auto-Dipingi tiene in conto altezza e profondità e applica uno Stile di Pittura conforme"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Cursor" translation="Campiona"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Cursor_Tooltip" translation="Applica lo Stile di Pittura che è al momento sotto il cursore quando si modifica un terreno"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Selected" translation="Usa Selezionato"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Selected_Tooltip" translation="Usa lo Stile di Pittura che hai selezionato al momento nella scheda Pittura ({NAME})"/>
+		<entry key="Terrain_Edit_PaintWhenDeforming_Tooltip" translation="Vernice da applicare alle superfici appena create"/>
 		<entry key="Terrain_Edit_Painting" translation="Colora"/>
 		<entry key="Terrain_Edit_Radius" translation="Dimensione"/>
 		<entry key="Terrain_Edit_SceneryCollisions" translation="Blocca scenografia"/>
@@ -18115,7 +18115,7 @@
 		<entry key="Guest_Thought_Assessment_DestinationCheap_Child_02" translation="Possiamo comprare facilmente i biglietti per {reference}"/>
 		<entry key="Guest_Thought_Assessment_DestinationCheap_Child_03" translation="{reference} vale molto di più!"/>
 		<entry key="Guest_Thought_Assessment_DestinationCheap_Common_01" translation="{reference} ha veramente un buon prezzo!"/>
-		<entry key="Guest_Thought_Assessment_DestinationCheap_Teen_01" translation="Uao, {reference} ha davvero un buon prezzo!"/>
+		<entry key="Guest_Thought_Assessment_DestinationCheap_Teen_01" translation="Wow, {reference} ha davvero un buon prezzo!"/>
 		<entry key="Guest_Thought_Assessment_DestinationCheap_Teen_02" translation="I biglietti per {reference} costano un occhio della testa!"/>
 		<entry key="Guest_Thought_Assessment_DestinationCheap_Teen_03" translation="{reference} ha biglietti veramente economici!"/>
 		<entry key="Guest_Thought_Assessment_DestinationCheap_Teen_04" translation="{reference} costa talmente poco che mi sento in colpa!"/>
@@ -18164,7 +18164,7 @@
 		<entry key="Guest_Thought_Assessment_FacilityFree_Common_01" translation="Mi fa davvero piacere che {reference} sia gratis"/>
 		<entry key="Guest_Thought_Assessment_FacilityFree_Teen_01" translation="Whoa, {reference} è gratis!"/>
 		<entry key="Guest_Thought_Assessment_FacilityFree_Teen_02" translation="Non posso crede che {reference} sia gratis"/>
-		<entry key="Guest_Thought_Assessment_FacilityFree_Teen_03" translation="Eccellante! Gratis! - {reference}"/>
+		<entry key="Guest_Thought_Assessment_FacilityFree_Teen_03" translation="Eccellente! Gratis! - {reference}"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Adult_01" translation="Non ho i soldi per {reference}"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Adult_02" translation="Non posso salire su {reference}, ho finito i soldi"/>
 		<entry key="Guest_Thought_Assessment_FacilityUnaffordable_Adult_03" translation="Non mi rimangono abbastanza soldi per salire su {reference}"/>
@@ -18189,7 +18189,7 @@
 		<entry key="Guest_Thought_Assessment_GoodRide_Child_04" translation="Se non salgo immediatamente su{reference} impazzisco!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Common_01" translation="Voglio andare su {reference}!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_01" translation="Wow, {reference} sembra davvero fico!"/>
-		<entry key="Guest_Thought_Assessment_GoodRide_Teen_02" translation="{reference} looks ace!"/>
+		<entry key="Guest_Thought_Assessment_GoodRide_Teen_02" translation="{reference} sembra splendida!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_03" translation="Scommetto che {reference} è un ottima attrazione"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_04" translation="{reference} sembra bellissima!"/>
 		<entry key="Guest_Thought_Assessment_ItemCheap_Adult_01" translation="{reference} è super economica!"/>
@@ -18223,10 +18223,10 @@
 		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Child_03" translation="{reference} è troppo costosa per un attrazione così vecchia!"/>
 		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Child_04" translation="{reference} sembra vecchia - perchè i biglietti costano così tanto?"/>
 		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Common_01" translation="{reference} è troppo costosa per essere una vecchia attrazione"/>
-		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Teen_01" translation="{reference} è così... ovecchia e costosa"/>
+		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Teen_01" translation="{reference} è così... vecchia e costosa"/>
 		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Teen_02" translation="Non esiste che pago per QUESTA attrazione {reference}, è troppo vecchia!"/>
 		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Teen_03" translation="{reference} mi sembra super vecchia, non pagherò così tanto per farci un giro"/>
-		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Teen_04" translation="{reference} è così costosa, e sembra più vecchia di mia nonna!"/>
+		<entry key="Guest_Thought_Assessment_LowPrestigeHighCost_Teen_04" translation="{reference} è così costosa e sembra più vecchia di mia nonna!"/>
 		<entry key="Guest_Thought_Assessment_PPCheap_Common_01" translation="Questo Pass Salta-Coda mi sembra davvero economico!"/>
 		<entry key="Guest_Thought_Assessment_PPCheap_Common_02" translation="Devo ammettere che questo Pass Salta-Coda conviene!"/>
 		<entry key="Guest_Thought_Assessment_PPCheap_Common_03" translation="Comprerò sicuramente il Pass Salta-Coda a quel prezzo!"/>
@@ -18567,7 +18567,7 @@
 		<entry key="Guest_Thought_Fluff_Happy_Adult_02" translation="Mi sto divertendo tantissimo"/>
 		<entry key="Guest_Thought_Fluff_Happy_Adult_03" translation="Che bel parco!"/>
 		<entry key="Guest_Thought_Fluff_Happy_Adult_04" translation="Che posto fantastico!"/>
-		<entry key="Guest_Thought_Fluff_Happy_Child_01" translation="TQuesto parco è il migliore!!"/>
+		<entry key="Guest_Thought_Fluff_Happy_Child_01" translation="Questo parco è il migliore!!"/>
 		<entry key="Guest_Thought_Fluff_Happy_Child_02" translation="Amo questo posto!"/>
 		<entry key="Guest_Thought_Fluff_Happy_Child_03" translation="Yay!"/>
 		<entry key="Guest_Thought_Fluff_Happy_Child_04" translation="Non vorrei andarmene mai!"/>
@@ -18604,7 +18604,7 @@
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Child_02" translation="Questo è spaventoso! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Child_03" translation="Sono spaventato! - {reference}!"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Common_01" translation="{reference} sembra intenso!"/>
-		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_01" translation="Questa foza G è così forte! - {reference}"/>
+		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_01" translation="Questa forza G è così forte! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_02" translation="Aaaaaaah! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_03" translation="Woah! Questo è stato intenso! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_Nausea_Adult_01" translation="Spero di non vomitare! - {reference}"/>
@@ -18651,7 +18651,7 @@
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_01" translation="Sono affamato dopo {reference}"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_02" translation="{reference} mi rende affamato"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_03" translation="Sto morendo di fame dopo {reference}"/>
-		<entry key="Guest_Thought_HungerCritical_Natural_Adult_01" translation="sono affamato"/>
+		<entry key="Guest_Thought_HungerCritical_Natural_Adult_01" translation="Sono affamato"/>
 		<entry key="Guest_Thought_HungerCritical_Natural_Adult_02" translation="Ho davvero fame"/>
 		<entry key="Guest_Thought_HungerCritical_Natural_Adult_03" translation="Potrei uccidere per una bistecca in questo momento"/>
 		<entry key="Guest_Thought_HungerCritical_Natural_Adult_04" translation="Il mio stomaco pensa che abbia le labbra cucite!"/>
@@ -18698,7 +18698,7 @@
 		<entry key="Guest_Thought_InQueue_Wear_Good_Child_01" translation="{reference} sembra che non si romperà mai!"/>
 		<entry key="Guest_Thought_InQueue_Wear_Good_Common_01" translation="{reference} sembra tenuto bene"/>
 		<entry key="Guest_Thought_InQueue_Wear_Good_Teen_01" translation="Mi piace come sembri che {reference} sia ben tenuto"/>
-		<entry key="Guest_Thought_Luxury_WantToBuy_Common_01" translation="Sono così felice! Amo un souvenir"/>
+		<entry key="Guest_Thought_Luxury_WantToBuy_Common_01" translation="Sono così felice! Amo i souvenir"/>
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_02" translation="Adesso mi piacerebbe girare per qualche negozio di regali"/>
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_03" translation="Questo posto è fantastico, voglio comprare un souvenir"/>
 		<entry key="Guest_Thought_Luxury_WantToBuy_Common_04" translation="Mi sto divertendo, voglio comprare un regalo per i miei amici subito"/>
@@ -18825,7 +18825,7 @@
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Tempo di andare a casa. La Sicurezza di questo parco, sicuramente può migliorare. Il borseggiatore che mi ha derubato, è andato via ed ha speso molti miei soldi prima che fosse catturato."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="La Sicurezza qui è mediocre. Un borseggiatore mi ha derubato ed è riuscito a spendere molti miei soldi prima che fosse catturato. Forse tornerò, forse no."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_02" translation="Ripensandoci, almeno hanno preso il borseggiatore. Sarebbe stato meglio se l'avessero preso prima che spendesse quasi tutti i miei soldi. Spero migliorino la sicurezza, così tornerò ancora."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="La Sicurezza qui è buona. Hanno preso il borseggiare prima che potesse spendere molti miei soldi. Tornerò ancora."/>
+		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="La Sicurezza qui è buona. Hanno preso il borseggiatore prima che potesse spendere molti miei soldi. Tornerò ancora."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_02" translation="Sono felice che la sicurezza abbia preso il borseggiatore prima che potesse spendere molti miei soldi. La Sicurezza è di buon livello qui. Tornerò."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_01" translation="La Sicurezza nel Parco è fantastica, anche quando mi hanno borseggiato, hanno subito catturato il ladro e restituito tutti miei averi!"/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_02" translation="Non posso prendermela con la Sicurezza. Hanno catturato il borseggiatore e mi hanno restituito tutti i miei soldi!"/>
@@ -19248,10 +19248,10 @@
 		<entry key="TrackEdit_Turn" translation="Gira"/>
 		<entry key="TrackEdit_Undo" translation="Annulla"/>
 		<!--TrackElements-->
-		<entry key="TrackElementDesc_BarghestChainLiftBot" translation="Chain Lift Start Description"/>
-		<entry key="TrackElementDesc_BarghestChainLiftMid" translation="Chain Lift Mid-Section Description"/>
-		<entry key="TrackElementDesc_BarghestChainLiftTop01" translation="Overhanging Chain Lift End Description"/>
-		<entry key="TrackElementDesc_BarghestChainLiftTop02" translation="Rounded Chain Lift End Description"/>
+		<entry key="TrackElementDesc_BarghestChainLiftBot" translation="Descrizione Partenza Salita a Catena"/>
+		<entry key="TrackElementDesc_BarghestChainLiftMid" translation="Descrizione Parte Centrale Salita a Catena"/>
+		<entry key="TrackElementDesc_BarghestChainLiftTop01" translation="Descrizione Fine Salita a Catena a Strapiombo"/>
+		<entry key="TrackElementDesc_BarghestChainLiftTop02" translation="Descrizione Fine Salita a Catena Arrotondata"/>
 		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Tonneau Left Description"/>
 		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Tonneau Right Description"/>
 		<entry key="TrackElementDesc_BlockSection" translation="Slows trains down to a stop, propelling them out when the next section of track is clear. Requires block sectioning to be enabled in the coaster's settings."/>
