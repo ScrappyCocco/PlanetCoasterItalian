@@ -4423,20 +4423,20 @@
 		<entry key="TrackElementDesc_180TurnRight" translation="Gira il tracciato 180 gradi a destra."/>
 		<entry key="TrackElementDesc_CableHillRevBot" translation="Tira i treni al contrario lungo un pendio."/>
 		<entry key="TrackElementDesc_CableHillRevMid" translation="Tira i treni al contrario lungo un pendio."/>
-		<entry key="TrackElementDesc_CableHillRevStart" translation="Trascina i treni al contrario orizzontalmente e li immette in una salita trainante a cavo."/>
+		<entry key="TrackElementDesc_CableHillRevStart" translation="Tira i treni al contrario orizzontalmente e li immette in una salita trainante a cavo."/>
 		<entry key="TrackElementDesc_CableHillRevTop" translation="Conclude una salita trainante a cavo invertita."/>
 		<entry key="TrackElementDesc_CableHillWhole" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerBot" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerMid" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerRevBot" translation="Tira i treni al contrario lungo un pendio."/>
 		<entry key="TrackElementDesc_CableTowerRevMid" translation="Tira i treni al contrario lungo un pendio."/>
-		<entry key="TrackElementDesc_CableTowerRevStart" translation="Trascina i treni al contrario orizzontalmente e li immette in una torre di sollevamento a cavo."/>
+		<entry key="TrackElementDesc_CableTowerRevStart" translation="Tira i treni al contrario orizzontalmente e li immette in una torre di sollevamento a cavo."/>
 		<entry key="TrackElementDesc_CableTowerRevTop" translation="Conclude una torre di sollevamento a cavo invertita."/>
-		<entry key="TrackElementDesc_CableTowerStart" translation="Trascina i treni e conduce in una torre di sollevamento a cavo."/>
+		<entry key="TrackElementDesc_CableTowerStart" translation="Tira i treni e conduce in una torre di sollevamento a cavo."/>
 		<entry key="TrackElementDesc_CableTowerTop" translation="Conclude una torre di sollevamento a cavo."/>
 		<entry key="TrackElementDesc_ChainHillBot" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_ChainHillMid" translation="Tira i treni lungo un pendio."/>
-		<entry key="TrackElementDesc_ChainHillStart" translation="Trascina i treni orizzontalmente e li immette in una salita trainante a catena."/>
+		<entry key="TrackElementDesc_ChainHillStart" translation="Tira i treni orizzontalmente e li immette in una salita trainante a catena."/>
 		<entry key="TrackElementDesc_ChainHillTop" translation="Conclude una salita trainante a catena."/>
 		<entry key="TrackElementDesc_ChicaneEnd" translation="Sezione Finale Chicane."/>
 		<entry key="TrackElementDesc_ChicaneEndRailings" translation="Sezione Finale Parapetto Chicane."/>
@@ -4458,20 +4458,20 @@
 		<entry key="TrackElementName_180TurnLeft" translation="Curva sinistra 180°"/>
 		<entry key="TrackElementName_180TurnRight" translation="Curva destra 180°"/>
 		<entry key="TrackElementName_CableHillRevBot" translation="Base Salita trainante a cavo invertita"/>
-		<entry key="TrackElementName_CableHillRevMid" translation="Sezione Mediana Salita trainante invertita"/>
+		<entry key="TrackElementName_CableHillRevMid" translation="Parte Centrale Salita trainante invertita"/>
 		<entry key="TrackElementName_CableHillRevStart" translation="Cavo Orizzontale trainante invertito"/>
 		<entry key="TrackElementName_CableHillRevTop" translation="Cima Salita trainante a cavo invertita"/>
 		<entry key="TrackElementName_CableHillWhole" translation="Coppia Salita trainante a cavo"/>
 		<entry key="TrackElementName_CableTowerBot" translation="Base Torre di sollevamento a cavo"/>
-		<entry key="TrackElementName_CableTowerMid" translation="Sezione Mediana Torre di sollevamento a cavo"/>
+		<entry key="TrackElementName_CableTowerMid" translation="Parte Centrale Torre di sollevamento a cavo"/>
 		<entry key="TrackElementName_CableTowerRevBot" translation="Base Torre di sollevamento a cavo invertita"/>
-		<entry key="TrackElementName_CableTowerRevMid" translation="Sezione Mediana Torre di sollevamento a cavo invertita"/>
+		<entry key="TrackElementName_CableTowerRevMid" translation="Parte Centrale Torre di sollevamento a cavo invertita"/>
 		<entry key="TrackElementName_CableTowerRevStart" translation="Cavo Orizzontale trainante invertito"/>
 		<entry key="TrackElementName_CableTowerRevTop" translation="Cima Torre di sollevamento a cavo invertita"/>
 		<entry key="TrackElementName_CableTowerStart" translation="Cavo Orizzontale trainante"/>
 		<entry key="TrackElementName_CableTowerTop" translation="Cima Torre di sollevamento a cavo"/>
 		<entry key="TrackElementName_ChainHillBot" translation="Base Salita trainante a catena"/>
-		<entry key="TrackElementName_ChainHillMid" translation="Sezione Mediana trainante a catena"/>
+		<entry key="TrackElementName_ChainHillMid" translation="Parte Centrale trainante a catena"/>
 		<entry key="TrackElementName_ChainHillTop" translation="Cima Salita trainante a catena"/>
 		<entry key="TrackElementName_ChicaneEnd" translation="Sezione Finale Chicane"/>
 		<entry key="TrackElementName_ChicaneEndRailings" translation="Sezione Finale Chicane con guardrail"/>
@@ -4493,23 +4493,23 @@
 		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Trainante"/>
 		<entry key="TrackElementTool_180TurnLeft" translation="&lt;font color='accent'&gt;Curva sinistra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementTool_180TurnRight" translation="&lt;font color='accent'&gt;Curva destra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
-		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Base Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillRevMid" translation="&lt;font color='accent'&gt;Sezione Mediana Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una salita trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a cavo invertita&lt;/font&gt;&#10;Conclude una salita trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Coppia Salita trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Sezione Mediana di sollevamento a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Sezione Mediana Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante&lt;/font&gt;&#10;Trascina i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Base Salita trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Sezione Mediana trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Catena Orizzontale trainante &lt;/font&gt;&#10;Trascina i treni orizzontalmente e li immette in una salita trainante a catena.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a catena&lt;/font&gt;&#10;Conclude una salita trainante a catena.&#10;&#10;I valori EFN  rilevati durante un trascinamento con catena non contribuiscono al voto EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Base Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevMid" translation="&lt;font color='accent'&gt;Parte Centrale Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una salita trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a cavo invertita&lt;/font&gt;&#10;Conclude una salita trainante a cavo invertita.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Coppia Salita trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Parte Centrale di Torre di sollevamento a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Parte Centrale Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Base Salita trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Parte Centrale trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Catena Orizzontale trainante &lt;/font&gt;&#10;Tira i treni orizzontalmente e li immette in una salita trainante a catena.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a catena&lt;/font&gt;&#10;Conclude una salita trainante a catena.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChicaneEnd" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Finale Chicane."/>
 		<entry key="TrackElementTool_ChicaneEndRailings" translation="&lt;font color='accent'&gt;Chicanes con guardrail &lt;/font&gt;&#10;Sezione Finale Chicane.con guardrail"/>
 		<entry key="TrackElementTool_ChicaneSection" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Chicane."/>
@@ -4646,7 +4646,7 @@
 		<entry key="Coaster_ManicMouse" translation="Manic Mouse"/>
 		<entry key="Coaster_ManicMouse_Desc" translation="Le emozioni di questa particolare Montagna Russa si trovano nelle vetture che ruotano liberamente, insieme a strette e piatte curve che generano alta forza di gravità laterale."/>
 		<entry key="Coaster_PowerUp" translation="Power Up"/>
-		<entry key="Coaster_PowerUp_Desc" translation="Una Montagna Russa dove il treno è trascinato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
+		<entry key="Coaster_PowerUp_Desc" translation="Una Montagna Russa dove il treno è tirato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
 		<entry key="Coaster_SteelVengeance" translation="Steel Vengeance"/>
 		<entry key="Coaster_SteelVengeance_Desc" translation="Tracciato ufficiale della montagna russa Steel Vengeance di Cedar Point. Pista in acciaio e supporti al coaster in legno si combinano per creare un ibrido che può invertirsi, pur mantenendo l'aspetto e le caratteristiche di una Montagna Russa in legno."/>
 		<entry key="Coaster_Type_Bolt" translation="Boomerang"/>
@@ -5372,8 +5372,8 @@
 		<entry key="ShopItem_Misc_FoodLitter" translation="Rifiuti"/>
 		<entry key="ShopItem_Misc_PriorityPass" translation="Pass Salta-Coda"/>
 		<entry key="ShopItem_Misc_Toilet" translation="Un momento di pace"/>
-		<entry key="ShopItem_SP_Hat_SkullHat" translation="Spooky Skull Hat"/>
-		<entry key="ShopItem_SP_Hat_WitchHat" translation="Spooky Witch Hat"/>
+		<entry key="ShopItem_SP_Hat_SkullHat" translation="Cappello a Teschio Spaventoso"/>
+		<entry key="ShopItem_SP_Hat_WitchHat" translation="Cappello da Strega Spaventoso"/>
 		<entry key="ShopItem_Souvenir_01" translation="Palla di Vetro con Neve"/>
 		<entry key="ShopItem_Souvenir_02" translation="Sfera di Cristallo"/>
 		<entry key="ShopItem_Souvenir_03" translation="Radio Sci-Fi"/>
@@ -12454,7 +12454,7 @@
 		<entry key="PopUp_RideTesting_Visualize" translation="Visualizza"/>
 		<entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
 		<entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
-		<entry key="PopUp_Ride_BlockSectionedMode" translation="Diviso a Settori"/>
+		<entry key="PopUp_Ride_BlockSectionedMode" translation="Sezioni Bloccanti"/>
 		<entry key="PopUp_Ride_Capacity" translation="Capacità"/>
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
 		<entry key="PopUp_Ride_CarsPerTrainHint" translation="Non è possibile modificare treni o vetture mentre l'attrazione è Aperta"/>
@@ -12553,7 +12553,7 @@
 		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
 		<entry key="PopUp_Ride_NumTrains" translation="Numero di treni"/>
 		<entry key="PopUp_Ride_NumTrainsLimit" translation="Per aggiungere più treni prova ad aumentare la lunghezza della stazione, o ridurre il numero delle vetture per treno."/>
-		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più tremi prova ad aggiungere sezioni aggiuntive."/>
+		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più treni prova ad aggiungere sezioni aggiuntive."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
 		<entry key="PopUp_Ride_Occupancy" translation="Riempimento: {LAST:float}% ({AVERAGE:float}% average)"/>
 		<entry key="PopUp_Ride_Operations_Soon" translation="Operazioni sull'attrazione in elaborazione"/>
@@ -14294,12 +14294,12 @@
 		<entry key="TrackElementDesc_TowerExt" translation="Estende la lunghezza del piano verticale per avere una caduta più alta."/>
 		<entry key="TrackElementDesc_TowerTop" translation="Termina la costruzione della torre."/>
 		<entry key="TrackElementDesc_TunnelTrack" translation="Sezione del Tunnel con un motore ad induzione lineare, freni ed illuminazione opzionale"/>
-		<entry key="TrackElementName_SDLIM" translation="Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione freno)"/>
+		<entry key="TrackElementName_SDLIM" translation="Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione frenante)"/>
 		<entry key="TrackElementName_TowerBase" translation="Base Torre"/>
 		<entry key="TrackElementName_TowerExt" translation="Estensione Torre"/>
 		<entry key="TrackElementName_TowerTop" translation="Cima Torre"/>
 		<entry key="TrackElementName_TunnelTrack" translation="Sezione Tunnel"/>
-		<entry key="TrackElementTool_SDLIM" translation="&lt;font color='accent'&gt;Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione freno)&lt;/font&gt;&#10;Lancia il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
+		<entry key="TrackElementTool_SDLIM" translation="&lt;font color='accent'&gt;Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione frenante)&lt;/font&gt;&#10;Lancia il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
 		<entry key="TrackElementTool_TowerBase" translation="&lt;font color='accent'&gt;Base Torre&lt;/font&gt;&#10;Pendio in salita che consente al treno di andare verticalmente."/>
 		<entry key="TrackElementTool_TowerExt" translation="&lt;font color='accent'&gt;Estensione Torre&lt;/font&gt;&#10;Estende la lunghezza del piano verticale per avere una caduta più alta."/>
 		<entry key="TrackElementTool_TowerTop" translation="&lt;font color='accent'&gt;Cima Torre&lt;/font&gt;&#10;Termina la costruzione della torre."/>
@@ -17143,7 +17143,7 @@
 		<entry key="BuildingPartName_SP_HH_FullBalcony_2m" translation="Balcone Stretto della Casa Stregata"/>
 		<entry key="BuildingPartName_SP_HH_FullBalcony_4m" translation="Balcone Largo Casa Stregata"/>
 		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Base_01" translation="Base Pannello Interno in legno della Casa Stregata"/>
-		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Mid_01" translation="Sezione Mediana Pannello Interno in legno della Casa Stregata"/>
+		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Mid_01" translation="Parte Centrale Pannello Interno in legno della Casa Stregata"/>
 		<entry key="BuildingPartName_SP_HH_InteriorWood_Panel_Top_01" translation="Sommità Pannello Interno in legno della Casa Stregata"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_01_2m" translation="Recinzione di ferro 1 2m"/>
 		<entry key="BuildingPartName_SP_HH_IronFencing_01_4m" translation="Recinzione di ferro 1 4m"/>
@@ -17266,7 +17266,7 @@
 		<entry key="BuildingPartName_SP_Pictureframe_02_Small" translation="Cornice Spaventosa Piccola 2"/>
 		<entry key="BuildingPartName_SP_Pictureframe_03" translation="Cornice Spaventosa 3"/>
 		<entry key="BuildingPartName_SP_Pictureframe_03_Small" translation="Cornice Spaventosa Piccola 3"/>
-		<entry key="BuildingPartName_SP_Pictureframe_04" translation="Cornice Spaventosae 4"/>
+		<entry key="BuildingPartName_SP_Pictureframe_04" translation="Cornice Spaventosa 4"/>
 		<entry key="BuildingPartName_SP_Pictureframe_Portrait_01" translation="Cornice Ritratto Spaventosa 1"/>
 		<entry key="BuildingPartName_SP_Pictureframe_Portrait_02" translation="Cornice Ritratto Spaventosa 2"/>
 		<entry key="BuildingPartName_SP_Pictureframe_Small_04" translation="Cornice Spaventosa Piccola 4"/>
@@ -19254,199 +19254,199 @@
 		<entry key="TrackElementDesc_BarghestChainLiftTop02" translation="Descrizione Fine Salita a Catena Arrotondata"/>
 		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Tonneau Left Description"/>
 		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Tonneau Right Description"/>
-		<entry key="TrackElementDesc_BlockSection" translation="Slows trains down to a stop, propelling them out when the next section of track is clear. Requires block sectioning to be enabled in the coaster's settings."/>
-		<entry key="TrackElementDesc_Booster" translation="Pushes trains along slowly. Useful for moving the train into another utility."/>
-		<entry key="TrackElementDesc_Brakes" translation="Slows trains down."/>
-		<entry key="TrackElementDesc_CableLift" translation="Cable Lift Mid-Section Description"/>
-		<entry key="TrackElementDesc_CableLiftEnd" translation="Cable Lift End Description"/>
-		<entry key="TrackElementDesc_CableLiftEndCurved" translation="Ends a cable lift curving down.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementDesc_CableLiftMid" translation="Cable Lift Mid-Section Description"/>
-		<entry key="TrackElementDesc_CableLiftStart" translation="Cable Lift Start Description"/>
-		<entry key="TrackElementDesc_ChainLift" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_ChainLiftBot" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_ChainLiftTop" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_DDLIM" translation="Boosts the train in the direction it's travelling in to help it pick up speed. Also slows the train when the ride comes to an end."/>
+		<entry key="TrackElementDesc_BlockSection" translation="Rallenta i treni fino a fermarli, per poi spingerli fuori quando la sezione successiva del tracciato è vuota. Richiede Sezioni Bloccanti attivato nelle impostazioni della montagna russa."/>
+		<entry key="TrackElementDesc_Booster" translation="Spinge i treni in avanti. Utile per spostare il treno in un altro servizio."/>
+		<entry key="TrackElementDesc_Brakes" translation="Rallenta i treni."/>
+		<entry key="TrackElementDesc_CableLift" translation="Descrizione Parte Centrale Salita trainante a Cavo"/>
+		<entry key="TrackElementDesc_CableLiftEnd" translation="Descrizione Fine Salita trainante a Cavo"/>
+		<entry key="TrackElementDesc_CableLiftEndCurved" translation="Termina una Salita trainante a Cavo che curva in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementDesc_CableLiftMid" translation="Descrizione Parte Centrale Salita a Cavo"/>
+		<entry key="TrackElementDesc_CableLiftStart" translation="Descrizione Partenza Salita a Cavo"/>
+		<entry key="TrackElementDesc_ChainLift" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_ChainLiftBot" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_ChainLiftTop" translation="Tira i treni lungo un pendio."/>
+		<entry key="TrackElementDesc_DDLIM" translation="Spinge il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
 		<entry key="TrackElementDesc_DivingLoopLeft" translation="OLD Diving Loop Left Description"/>
 		<entry key="TrackElementDesc_DivingLoopRight" translation="OLD Diving Loop Right Description"/>
 		<entry key="TrackElementDesc_FlyingSnakeDiveLeft" translation="OLD Flying Snake Dive Left Description"/>
 		<entry key="TrackElementDesc_FlyingSnakeDiveRight" translation="OLD Flying Snake Dive Right Description"/>
-		<entry key="TrackElementDesc_FrictionWheelLift" translation="Pushes trains up an incline."/>
+		<entry key="TrackElementDesc_FrictionWheelLift" translation="Spinge i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_FrontTwistTower" translation=""/>
-		<entry key="TrackElementDesc_HoldingSection" translation="Holds the train looking down before releasing."/>
-		<entry key="TrackElementDesc_HydraulicLaunch" translation="Launch system that propels trains at speed along the track."/>
-		<entry key="TrackElementDesc_LSM" translation="Propells trains at speed along the track."/>
-		<entry key="TrackElementDesc_LogDropEnd" translation="Ends a drop"/>
-		<entry key="TrackElementDesc_LogDropMid" translation="Extends the length of a drop"/>
-		<entry key="TrackElementDesc_LogDropStart" translation="Starts a drop for the boat"/>
-		<entry key="TrackElementDesc_LogLiftEnd" translation="Ends a lift"/>
-		<entry key="TrackElementDesc_LogLiftMid" translation="Lifts the boat uphill"/>
-		<entry key="TrackElementDesc_LogLiftStart" translation="Starts lifting the boat uphill"/>
-		<entry key="TrackElementDesc_LogSplashEnd" translation="Ends a splashdown section"/>
-		<entry key="TrackElementDesc_LogSplashMid" translation="Extends a splashdown section"/>
-		<entry key="TrackElementDesc_LogSplashStart" translation="Starts a splashdown section at the end of a drop"/>
+		<entry key="TrackElementDesc_HoldingSection" translation="Blocca i treni a guardare in giù prima di rilasciarli."/>
+		<entry key="TrackElementDesc_HydraulicLaunch" translation="Sistema di lancio che spinge i treni in velocità lungo il percorso."/>
+		<entry key="TrackElementDesc_LSM" translation="Lancia i treni in velocità lungo il percorso."/>
+		<entry key="TrackElementDesc_LogDropEnd" translation="Termina una discesa"/>
+		<entry key="TrackElementDesc_LogDropMid" translation="Estende la lunghezza di una discesa"/>
+		<entry key="TrackElementDesc_LogDropStart" translation="Comincia una discesa per la barca"/>
+		<entry key="TrackElementDesc_LogLiftEnd" translation="Termina una salita"/>
+		<entry key="TrackElementDesc_LogLiftMid" translation="Solleva la barca in salita "/>
+		<entry key="TrackElementDesc_LogLiftStart" translation="Comincia a sollevare la barca in salita"/>
+		<entry key="TrackElementDesc_LogSplashEnd" translation="Termina una sezione a spruzzi"/>
+		<entry key="TrackElementDesc_LogSplashMid" translation="Estende una sezione a spruzzi"/>
+		<entry key="TrackElementDesc_LogSplashStart" translation="Comincia una sezione a spruzzi alla fine di una discesa"/>
 		<entry key="TrackElementDesc_LoopLeft" translation="OLD Loop Left Description"/>
 		<entry key="TrackElementDesc_LoopRight" translation="OLD Loop Right Description"/>
-		<entry key="TrackElementDesc_MagneticBrakes" translation="Slows trains down."/>
-		<entry key="TrackElementDesc_NormalTrack" translation="Basic, standard track."/>
-		<entry key="TrackElementDesc_NormalTrackHBeam" translation="Basic, standard track."/>
-		<entry key="TrackElementDesc_PhotoSection" translation="Photographs guests on trains as they pass."/>
+		<entry key="TrackElementDesc_MagneticBrakes" translation="Rallenta i treni."/>
+		<entry key="TrackElementDesc_NormalTrack" translation="Semplice percorso standard."/>
+		<entry key="TrackElementDesc_NormalTrackHBeam" translation="Semplice percorso standard."/>
+		<entry key="TrackElementDesc_PhotoSection" translation="Fotografa i visitatori sui treni quando passano."/>
 		<entry key="TrackElementDesc_PretzelKnotLeft" translation="OLD Pretzel Knot Left Description"/>
 		<entry key="TrackElementDesc_PretzelKnotRight" translation="OLD Pretzel Knot Right Description"/>
 		<entry key="TrackElementDesc_RearTwistTower" translation=""/>
-		<entry key="TrackElementDesc_ReverseLaunch" translation="Stops the train, launches it backwards, then when the train passes back over it, boosts it in a forwards direction."/>
-		<entry key="TrackElementDesc_RiverRapidsStandardRapids" translation="Selects a standard width rapids section"/>
-		<entry key="TrackElementDesc_RiverRapidsTrack" translation="Basic, standard river rapids tube"/>
-		<entry key="TrackElementDesc_RiverRapidsWideEnd" translation="Narrows the tube"/>
-		<entry key="TrackElementDesc_RiverRapidsWideLeftEnd" translation="Narrows the tube"/>
-		<entry key="TrackElementDesc_RiverRapidsWideLeftMid" translation="Selects a tube that's wider to the left"/>
-		<entry key="TrackElementDesc_RiverRapidsWideLeftRapids" translation="Selects a rapids section that's wider to the left"/>
-		<entry key="TrackElementDesc_RiverRapidsWideLeftStart" translation="Widens the tube to the left"/>
-		<entry key="TrackElementDesc_RiverRapidsWideMid" translation="Places a wider tube"/>
-		<entry key="TrackElementDesc_RiverRapidsWideRapids" translation="Selects a wide rapids section"/>
-		<entry key="TrackElementDesc_RiverRapidsWideRightEnd" translation="Narrows the tube"/>
-		<entry key="TrackElementDesc_RiverRapidsWideRightMid" translation="Selects a tube that's wider to the right"/>
-		<entry key="TrackElementDesc_RiverRapidsWideRightRapids" translation="Selects a rapids section that's wider to the right"/>
-		<entry key="TrackElementDesc_RiverRapidsWideRightStart" translation="Widens the tube to the right"/>
-		<entry key="TrackElementDesc_RiverRapidsWideStart" translation="Widens the tube"/>
-		<entry key="TrackElementDesc_SpinningStart" translation="Unlocks the car's ability to free spin on its vertical axis."/>
-		<entry key="TrackElementDesc_SpinningStop" translation="Locks the car's ability to free spin on its vertical axis and returns the car's rotation to centre."/>
-		<entry key="TrackElementDesc_Station" translation="Where guests board and disembark trains."/>
-		<entry key="TrackElementDesc_StationLeftLeft" translation="Where guests board and disembark trains."/>
-		<entry key="TrackElementDesc_StationLeftOff" translation="Where guests disembark trains."/>
-		<entry key="TrackElementDesc_StationLeftOn" translation="Where guests board trains."/>
-		<entry key="TrackElementDesc_StationLeftRight" translation="Where guests board and disembark trains."/>
-		<entry key="TrackElementDesc_StationRightLeft" translation="Where guests board and disembark trains."/>
-		<entry key="TrackElementDesc_StationRightOff" translation="Where guests disembark trains."/>
-		<entry key="TrackElementDesc_StationRightOn" translation="Where guests board trains."/>
-		<entry key="TrackElementDesc_StationRightRight" translation="Where guests board and disembark trains."/>
+		<entry key="TrackElementDesc_ReverseLaunch" translation="Ferma il treno, lo lancia in direzione contraria, quindi quando il treno ci ripassa sopra, lo spinge in avanti."/>
+		<entry key="TrackElementDesc_RiverRapidsStandardRapids" translation="Seleziona una sezione di rapide a larghezza standard"/>
+		<entry key="TrackElementDesc_RiverRapidsTrack" translation="Semplice sezione standard del fiume a tubo "/>
+		<entry key="TrackElementDesc_RiverRapidsWideEnd" translation="Stringe la sezione a tubo"/>
+		<entry key="TrackElementDesc_RiverRapidsWideLeftEnd" translation="Stringe la sezione a tubo"/>
+		<entry key="TrackElementDesc_RiverRapidsWideLeftMid" translation="Seleziona una sezione a tubo che è più larga a sinistra"/>
+		<entry key="TrackElementDesc_RiverRapidsWideLeftRapids" translation="Seleziona una sezione di rapide che è più larga a sinistra"/>
+		<entry key="TrackElementDesc_RiverRapidsWideLeftStart" translation="Allarga la sezione a tubo a sinistra"/>
+		<entry key="TrackElementDesc_RiverRapidsWideMid" translation="Posiziona una sezione a tubo più larga"/>
+		<entry key="TrackElementDesc_RiverRapidsWideRapids" translation="Posiziona una sezione di rapide più larga"/>
+		<entry key="TrackElementDesc_RiverRapidsWideRightEnd" translation="Stringe la sezione a tubo"/>
+		<entry key="TrackElementDesc_RiverRapidsWideRightMid" translation="Seleziona una sezione a tubo che è più larga a destra"/>
+		<entry key="TrackElementDesc_RiverRapidsWideRightRapids" translation="Seleziona una sezione di rapide che è più larga a destra"/>
+		<entry key="TrackElementDesc_RiverRapidsWideRightStart" translation="Allarga la sezione a tubo a destra"/>
+		<entry key="TrackElementDesc_RiverRapidsWideStart" translation="Allarga la sezione a tubo"/>
+		<entry key="TrackElementDesc_SpinningStart" translation="Sblocca l'abilità della vettura di ruotare liberamente sull'asse verticale."/>
+		<entry key="TrackElementDesc_SpinningStop" translation="Blocca l'abilità della vettura di ruotare liberamente sull'asse verticale e riposiziona la rotazione della vettura al centro."/>
+		<entry key="TrackElementDesc_Station" translation="Dove i visitatori salgono e scendono dai treni."/>
+		<entry key="TrackElementDesc_StationLeftLeft" translation="Dove i visitatori salgono e scendono dai treni."/>
+		<entry key="TrackElementDesc_StationLeftOff" translation="Dove i visitatori scendono dai treni."/>
+		<entry key="TrackElementDesc_StationLeftOn" translation="Dove i visitatori salgono sui treni."/>
+		<entry key="TrackElementDesc_StationLeftRight" translation="Dove i visitatori salgono e scendono dai treni."/>
+		<entry key="TrackElementDesc_StationRightLeft" translation="Dove i visitatori salgono e scendono dai treni."/>
+		<entry key="TrackElementDesc_StationRightOff" translation="Dove i visitatori scendono dai treni."/>
+		<entry key="TrackElementDesc_StationRightOn" translation="Dove i visitatori salgono sui treni."/>
+		<entry key="TrackElementDesc_StationRightRight" translation="Dove i visitatori salgono e scendono dai treni."/>
 		<entry key="TrackElementDesc_SteepslopeZeroGRollLeft" translation="OLD Steep Slope Zero-G Roll Left Description"/>
 		<entry key="TrackElementDesc_SteepslopeZeroGRollRight" translation="OLD Steep Slope Zero-G Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_BananaRollLeft" translation="Banana Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_BananaRollRight" translation="Banana Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_BatwingLeft" translation="Batwing Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_BatwingRight" translation="Batwing Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_BowtieLeft" translation="Bowtie Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_BowtieRight" translation="Bowtie Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_ButterflyInversionLeft" translation="Butterfly Inversion Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_ButterflyInversionRight" translation="Butterfly Inversion Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_CobraRollLeft" translation="Cobra Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_CobraRollRight" translation="Cobra Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_CorkscrewLeft" translation="Corkscrew Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_CorkscrewRight" translation="Corkscrew Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Corkscrew_InLeft" translation="Corkscrew Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Corkscrew_InRight" translation="Corkscrew Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Corkscrew_OutLeft" translation="Corkscrew Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Corkscrew_OutRight" translation="Corkscrew Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_CutbackLeft" translation="Cutback Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_CutbackRight" translation="Cutback Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_DemonicKnotLeft" translation="Demonic Knot Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_DemonicKnotRight" translation="Demonic Knot Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_DiveDropLeft" translation="Dive Drop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_DiveDropRight" translation="Dive Drop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_DiveLoopLeft" translation="Dive Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_DiveLoopRight" translation="Dive Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Figure8HelixLeft" translation="Figure-of-8 Helix Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Figure8HelixRight" translation="Figure-of-8 Helix Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_HalfHelix_DownLeft" translation="Half Helix Down Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_HalfHelix_DownRight" translation="Half Helix Down Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_HalfHelix_UpLeft" translation="Half Helix Up Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_HalfHelix_UpRight" translation="Half Helix Up Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_HalfLoop_Down" translation="Half Loop Down Description"/>
-		<entry key="TrackElementDesc_TK_SP_HalfLoop_Up" translation="Half Loop Up Description"/>
-		<entry key="TrackElementDesc_TK_SP_HammerHeadTurnLeft" translation="Hammerhead Turn Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_HammerHeadTurnRight" translation="Hammerhead Turn Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_HeartlineRollLeft" translation="Heartline Roll Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_HeartlineRollRight" translation="Heartline Roll Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_InLeft" translation="Heartline Roll Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_InRight" translation="Heartline Roll Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_OutLeft" translation="Heartline Roll Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_OutRight" translation="Heartline Roll Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Helix_DownLeft" translation="Helix Down Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Helix_DownRight" translation="Helix Down Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Helix_UpLeft" translation="Helix Up Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Helix_UpRight" translation="Helix Up Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Immelmann_180Left" translation="Immelmann 180° Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Immelmann_180Right" translation="Immelmann 180° Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_Immelmann_90Left" translation="Sidewinder Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_Immelmann_90Right" translation="Sidewinder Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InclinedDiveLoopLeft" translation="Inclined Dive Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InclinedDiveLoopRight" translation="Inclined Dive Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InclinedLoop_45Left" translation="Inclined 45° Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InclinedLoop_45Right" translation="Inclined 45° Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InclinedLoop_80Left" translation="Inclined 80° Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InclinedLoop_80Right" translation="Inclined 80° Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineRollLeft" translation="Inline Roll Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineRollRight" translation="Inline Roll Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineRoll_InLeft" translation="Inline Roll Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineRoll_InRight" translation="Inline Roll Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineRoll_OutLeft" translation="Inline Roll Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineRoll_OutRight" translation="Inline Roll Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineTwistLeft" translation="Inline Twist Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineTwistRight" translation="Inline Twist Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineTwist_InLeft" translation="Inline Twist Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineTwist_InRight" translation="Inline Twist Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineTwist_OutLeft" translation="Inline Twist Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_InlineTwist_OutRight" translation="Inline Twist Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_NonInvLoopLeft" translation="Non-Inverted Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_NonInvLoopRight" translation="Non-Inverted Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_NorwegianLoopLeft" translation="Norwegian Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_NorwegianLoopRight" translation="Norwegian Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_OverbankedTurnLeft" translation="Overbanked Turn Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_OverbankedTurnRight" translation="Overbanked Turn Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_PretzelKnotLeft" translation="Pretzel Knot Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_PretzelKnotRight" translation="Pretzel Knot Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_PretzelLoopLeft" translation="Pretzel Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_PretzelLoopRight" translation="Pretzel Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_RavenTurnLeft" translation="Raven Turn Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_RavenTurnRight" translation="Raven Turn Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_RavenTurn_InvertedLeft" translation="Inverted Raven Turn Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_RavenTurn_InvertedRight" translation="Inverted Raven Turn Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_SeaSerpentLeft" translation="Sea Serpent Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_SeaSerpentRight" translation="Sea Serpent Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeft" translation="Snake Dive Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_SnakeDiveRight" translation="Snake Dive Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_TopHat" translation="Top Hat Description"/>
-		<entry key="TrackElementDesc_TK_SP_TopHatInverted" translation="Inverted Top Hat Description"/>
-		<entry key="TrackElementDesc_TK_SP_TwistedHorseShoeRollLeft" translation="Twisted Horseshoe Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_TwistedHorseShoeRollRight" translation="Twisted Horseshoe Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRollLeft" translation="Vertical Heartline Roll Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRollRight" translation="Vertical Heartline Roll Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_InLeft" translation="Vertical Heartline Roll Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_InRight" translation="Vertical Heartline Roll Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_OutLeft" translation="Vertical Heartline Roll Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_OutRight" translation="Vertical Heartline Roll Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineRollLeft" translation="Vertical Inline Roll Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineRollRight" translation="Vertical Inline Roll Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_InLeft" translation="Vertical Inline Roll Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_InRight" translation="Vertical Inline Roll Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_OutLeft" translation="Vertical Inline Roll Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_OutRight" translation="Vertical Inline Roll Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwistLeft" translation="Vertical Inline Twist Mid-Section Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwistRight" translation="Vertical Inline Twist Mid-Section Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_InLeft" translation="Vertical Inline Twist Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_InRight" translation="Vertical Inline Twist Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_OutLeft" translation="Vertical Inline Twist Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_OutRight" translation="Vertical Inline Twist Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalLoopLeft" translation="Vertical Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalLoopRight" translation="Vertical Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalLoopWideLeft" translation="Wide Vertical Loop Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_VerticalLoopWideRight" translation="Wide Vertical Loop Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrewLeft" translation="Wraparound Corkscrew Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrewRight" translation="Wraparound Corkscrew Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_InLeft" translation="Wraparound Corkscrew Entry Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_InRight" translation="Wraparound Corkscrew Entry Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_OutLeft" translation="Wraparound Corkscrew Exit Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_OutRight" translation="Wraparound Corkscrew Exit Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_ZeroGRollLeft" translation="Zero-G Roll Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_ZeroGRollRight" translation="Zero-G Roll Right Description"/>
-		<entry key="TrackElementDesc_TK_SP_ZeroGStallLeft" translation="Zero-G Stall Left Description"/>
-		<entry key="TrackElementDesc_TK_SP_ZeroGStallRight" translation="Zero-G Stall Right Description"/>
+		<entry key="TrackElementDesc_TK_SP_BananaRollLeft" translation="Descrizione Banana Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_BananaRollRight" translation="Descrizione Banana Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_BatwingLeft" translation="Descrizione Batwing Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_BatwingRight" translation="Descrizione Batwing Destro"/>
+		<entry key="TrackElementDesc_TK_SP_BowtieLeft" translation="Descrizione Bowtie Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_BowtieRight" translation="Descrizione Bowtie Destro"/>
+		<entry key="TrackElementDesc_TK_SP_ButterflyInversionLeft" translation="Descrizione Inversione Butterfly Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_ButterflyInversionRight" translation="Descrizione Inversione Butterfly Destra"/>
+		<entry key="TrackElementDesc_TK_SP_CobraRollLeft" translation="Descrizione Cobra Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_CobraRollRight" translation="Descrizione Cobra Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_CorkscrewLeft" translation="Descrizione Parte Centrale Corkscrew Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_CorkscrewRight" translation="Descrizione Parte Centrale Corkscrew Destra"/>
+		<entry key="TrackElementDesc_TK_SP_Corkscrew_InLeft" translation="Descrizione Ingresso Corkscrew Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_Corkscrew_InRight" translation="Descrizione Ingresso Corkscrew Destro"/>
+		<entry key="TrackElementDesc_TK_SP_Corkscrew_OutLeft" translation="Descrizione Uscita Corkscrew Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_Corkscrew_OutRight" translation="Descrizione Uscita Corkscrew Destra"/>
+		<entry key="TrackElementDesc_TK_SP_CutbackLeft" translation="Descrizione Cutback Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_CutbackRight" translation="Descrizione Cutback Destro"/>
+		<entry key="TrackElementDesc_TK_SP_DemonicKnotLeft" translation="Descrizione Demonic Knot Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_DemonicKnotRight" translation="Descrizione Demonic Knot Destro"/>
+		<entry key="TrackElementDesc_TK_SP_DiveDropLeft" translation="Descrizione Dive Drop Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_DiveDropRight" translation="Descrizione Dive Drop Destro"/>
+		<entry key="TrackElementDesc_TK_SP_DiveLoopLeft" translation="Descrizione Dive Loop Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_DiveLoopRight" translation="Descrizione Dive Loop Destro"/>
+		<entry key="TrackElementDesc_TK_SP_Figure8HelixLeft" translation="Descrizione Elica a forma di 8 Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_Figure8HelixRight" translation="Descrizione Elica a forma di 8 Destra"/>
+		<entry key="TrackElementDesc_TK_SP_HalfHelix_DownLeft" translation="Descrizione Mezza Elica in Giù Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_HalfHelix_DownRight" translation="Descrizione Mezza Elica in Giù Destra"/>
+		<entry key="TrackElementDesc_TK_SP_HalfHelix_UpLeft" translation="Descrizione Mezza Elica in Sù Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_HalfHelix_UpRight" translation="Descrizione Mezza Elica in Sù Destra"/>
+		<entry key="TrackElementDesc_TK_SP_HalfLoop_Down" translation="Descrizione Mezzo Loop in Giù"/>
+		<entry key="TrackElementDesc_TK_SP_HalfLoop_Up" translation="Descrizione Mezzo Loop in Sù"/>
+		<entry key="TrackElementDesc_TK_SP_HammerHeadTurnLeft" translation="Descrizione Hammerhead Turn Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_HammerHeadTurnRight" translation="Descrizione Hammerhead Turn Destro"/>
+		<entry key="TrackElementDesc_TK_SP_HeartlineRollLeft" translation="Descrizione Parte Centrale Heartline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_HeartlineRollRight" translation="Descrizione Parte Centrale Heartline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_InLeft" translation="Descrizione Ingresso Heartline Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_InRight" translation="Descrizione Ingresso Heartline Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_OutLeft" translation="Descrizione Uscita Heartline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_HeartlineRoll_OutRight" translation="Descrizione Uscita Heartline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_Helix_DownLeft" translation="Descrizione Elica in Giù Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_Helix_DownRight" translation="Descrizione Elica in Giù Destra"/>
+		<entry key="TrackElementDesc_TK_SP_Helix_UpLeft" translation="Descrizione Elica in Sù Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_Helix_UpRight" translation="Descrizione Elica in Sù Destra"/>
+		<entry key="TrackElementDesc_TK_SP_Immelmann_180Left" translation="Descrizione Loop Immelmann 180° Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_Immelmann_180Right" translation="Descrizione Loop Immelmann 180° Destro"/>
+		<entry key="TrackElementDesc_TK_SP_Immelmann_90Left" translation="Descrizione Sidewinder Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_Immelmann_90Right" translation="Descrizione Sidewinder Destro"/>
+		<entry key="TrackElementDesc_TK_SP_InclinedDiveLoopLeft" translation="Descrizione Dive Loop Inclinato Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_InclinedDiveLoopRight" translation="Descrizione Dive Loop Inclinato Destro"/>
+		<entry key="TrackElementDesc_TK_SP_InclinedLoop_45Left" translation="Descrizione Loop Inclinato 45° Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_InclinedLoop_45Right" translation="Descrizione Loop Inclinato 45° Destro"/>
+		<entry key="TrackElementDesc_TK_SP_InclinedLoop_80Left" translation="Descrizione Loop Inclinato 80° Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_InclinedLoop_80Right" translation="Descrizione Loop Inclinato 80° Destro"/>
+		<entry key="TrackElementDesc_TK_SP_InlineRollLeft" translation="Descrizione Parte Centrale Inline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineRollRight" translation="Descrizione Parte Centrale Inline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineRoll_InLeft" translation="Descrizione Ingresso Inline Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_InlineRoll_InRight" translation="Descrizione Ingresso Inline Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_InlineRoll_OutLeft" translation="Descrizione Uscita Inline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineRoll_OutRight" translation="Descrizione Uscita Inline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineTwistLeft" translation="Descrizione Parte Centrale Inline Twist Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineTwistRight" translation="Descrizione Parte Centrale Inline Twist Destra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineTwist_InLeft" translation="Descrizione Ingresso Inline Twist Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_InlineTwist_InRight" translation="Descrizione Ingresso Inline Twist Destro"/>
+		<entry key="TrackElementDesc_TK_SP_InlineTwist_OutLeft" translation="Descrizione Uscita Inline Twist Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_InlineTwist_OutRight" translation="Descrizione Uscita Inline Twist Destra"/>
+		<entry key="TrackElementDesc_TK_SP_NonInvLoopLeft" translation="Descrizione Loop Non-Invertito Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_NonInvLoopRight" translation="Descrizione Loop Non-Invertito Destro"/>
+		<entry key="TrackElementDesc_TK_SP_NorwegianLoopLeft" translation="Descrizione Norwegian Loop Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_NorwegianLoopRight" translation="Descrizione Norwegian Loop Destro"/>
+		<entry key="TrackElementDesc_TK_SP_OverbankedTurnLeft" translation="Descrizione Overbanked Turn Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_OverbankedTurnRight" translation="Descrizione Overbanked Turn Destro"/>
+		<entry key="TrackElementDesc_TK_SP_PretzelKnotLeft" translation="Descrizione Pretzel Knot Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_PretzelKnotRight" translation="Descrizione Pretzel Knot Destro"/>
+		<entry key="TrackElementDesc_TK_SP_PretzelLoopLeft" translation="Descrizione Pretzel Loop Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_PretzelLoopRight" translation="Descrizione Pretzel Loop Destro"/>
+		<entry key="TrackElementDesc_TK_SP_RavenTurnLeft" translation="Descrizione Raven Turn Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_RavenTurnRight" translation="Descrizione Raven Turn Destro"/>
+		<entry key="TrackElementDesc_TK_SP_RavenTurn_InvertedLeft" translation="Descrizione Raven Turn Invertito Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_RavenTurn_InvertedRight" translation="Descrizione Raven Turn Invertito Destro"/>
+		<entry key="TrackElementDesc_TK_SP_SeaSerpentLeft" translation="Descrizione Sea Serpent Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_SeaSerpentRight" translation="Descrizione Sea Serpent Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_SnakeDiveLeft" translation="Descrizione Snake Dive Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_SnakeDiveRight" translation="Descrizione Snake Dive Destro"/>
+		<entry key="TrackElementDesc_TK_SP_TopHat" translation="Descrizione Top Hat"/>
+		<entry key="TrackElementDesc_TK_SP_TopHatInverted" translation="Descrizione Top Hat Invertito"/>
+		<entry key="TrackElementDesc_TK_SP_TwistedHorseShoeRollLeft" translation="Descrizione Twisted Horseshoe Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_TwistedHorseShoeRollRight" translation="Descrizione Twisted Horseshoe Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRollLeft" translation="Descrizione Parte Centrale Vertical Heartline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRollRight" translation="Descrizione Parte Centrale Vertical Heartline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_InLeft" translation="Descrizione Ingresso Vertical Heartline Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_InRight" translation="Descrizione Ingresso Vertical Heartline Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_OutLeft" translation="Descrizione Uscita Vertical Heartline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalHeartlineRoll_OutRight" translation="Descrizione Uscita Vertical Heartline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineRollLeft" translation="Descrizione Parte Centrale Vertical Inline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineRollRight" translation="Descrizione Parte Centrale Vertical Inline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_InLeft" translation="Descrizione Ingresso Vertical Inline Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_InRight" translation="Descrizione Ingresso Vertical Inline Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_OutLeft" translation="Descrizione Uscita Vertical Inline Roll Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineRoll_OutRight" translation="Descrizione Uscita Vertical Inline Roll Destra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwistLeft" translation="Descrizione Parte Centrale Vertical Inline Twist Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwistRight" translation="Descrizione Parte Centrale Vertical Inline Twist Destra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_InLeft" translation="Descrizione Ingresso Vertical Inline Twist Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_InRight" translation="Descrizione Ingresso Vertical Inline Twist Destro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_OutLeft" translation="Descrizione Uscita Vertical Inline Twist Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalInlineTwist_OutRight" translation="Descrizione Uscita Vertical Inline Twist Destra"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalLoopLeft" translation="Descrizione Vertical Loop Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalLoopRight" translation="Descrizione Vertical Loop Destro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalLoopWideLeft" translation="Descrizione Wide Vertical Loop Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_VerticalLoopWideRight" translation="Descrizione Wide Vertical Loop Destro"/>
+		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrewLeft" translation="Descrizione Wraparound Corkscrew Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrewRight" translation="Descrizione Wraparound Corkscrew Destro"/>
+		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_InLeft" translation="Descrizione Ingresso Wraparound Corkscrew Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_InRight" translation="Descrizione Ingresso Wraparound Corkscrew Destro"/>
+		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_OutLeft" translation="Descrizione Uscita Wraparound Corkscrew Sinistra"/>
+		<entry key="TrackElementDesc_TK_SP_WrapAroundCorkscrew_OutRight" translation="Descrizione Uscita Wraparound Corkscrew Destra"/>
+		<entry key="TrackElementDesc_TK_SP_ZeroGRollLeft" translation="Descrizione Zero-G Roll Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_ZeroGRollRight" translation="Descrizione Zero-G Roll Destro"/>
+		<entry key="TrackElementDesc_TK_SP_ZeroGStallLeft" translation="Descrizione Zero-G Stall Sinistro"/>
+		<entry key="TrackElementDesc_TK_SP_ZeroGStallRight" translation="Descrizione Zero-G Stall Destro"/>
 		<entry key="TrackElementDesc_TestCorkscrewLeftIn" translation="OLD Corkscrew Left Entry Description"/>
 		<entry key="TrackElementDesc_TestCorkscrewLeftOut" translation="OLD Corkscrew Left Exit Description"/>
 		<entry key="TrackElementDesc_TestCorkscrewRightIn" translation="OLD Corkscrew Right Entry Description"/>
 		<entry key="TrackElementDesc_TestCorkscrewRightOut" translation="OLD Corkscrew Right Exit Description"/>
-		<entry key="TrackElementDesc_TorqueTopHat" translation="Tophat Loop Description"/>
-		<entry key="TrackElementDesc_TrimBrakes" translation="Used to trim speed of the train mid-run. More versatile than a friction or magnetic brake run, but more expensive."/>
+		<entry key="TrackElementDesc_TorqueTopHat" translation="Descrizione Loop Top Hat"/>
+		<entry key="TrackElementDesc_TrimBrakes" translation="Utilizzati per ridurre la velocità del treno durante la corsa. Più versatile di un freno a frizione o magnetico, ma più costoso."/>
 		<entry key="TrackElementDesc_batwingleft" translation="OLD Batwing Left Description"/>
 		<entry key="TrackElementDesc_batwingright" translation="OLD Batwing Right Description"/>
 		<entry key="TrackElementDesc_cobrarollleft" translation="OLD Cobra Roll Left Description"/>
@@ -19455,95 +19455,95 @@
 		<entry key="TrackElementDesc_immelmannright" translation="OLD Immelmann Right Description"/>
 		<entry key="TrackElementDesc_norwegianloopleft" translation="OLD Norwegian Loop Left Description"/>
 		<entry key="TrackElementDesc_norwegianloopright" translation="OLD Norwegian Loop Right Description"/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterBottom" translation="Can only be placed directly after a Chain Lift Hill Base."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterMid" translation="Can only be placed directly after a Chain Lift Hill Base or Mid-Section."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStart" translation="Can only be placed directly after a Horizontal Chain Pull."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the Stazione."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseBottom" translation="Can only be placed directly behind a Reverse Cable Lift Hill Base."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseMid" translation="Can only be placed directly behind a Reverse Cable Lift Base or Mid-Section."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseStart" translation="Can only be placed directly behind a Reverse Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the Stazione or existing Reverse Horizontal Cable Pull sections."/>
-		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStart" translation="Can only be placed after a chain lift start."/>
-		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStartOrMidSection" translation="Can only be placed after a chain lift start or chain lift mid-section."/>
-		<entry key="TrackElementDisabled_CanOnlyPlaceNextToStationOfSameType" translation="Can only be placed directly next to existing Stazione of the same type."/>
-		<entry key="TrackElementDisabled_CannotPlace" translation="Cannot place here."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnBanked" translation="Can only be placed on unbanked track."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnBankedOrSloped" translation="Can only be placed on flat and unbanked track."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBanked" translation="Can only be placed on straight and unbanked track."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrOverlySloped" translation="Can only be placed on straight and unbanked track that is flat or has a gentle slope."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrSloped" translation="Can only be placed on straight, unbanked and flat track."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrSlopedPast90" translation="Can only be placed on straight and unbanked track that isn't sloped past -90° or 90°."/>
-		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrUpwardSloped" translation="Can only be placed on straight, unbanked and downward sloping track."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterBottom" translation="Can only be placed directly after a Cable Lift Tower Base."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterMid" translation="Can only be placed directly after a Cable Lift Mid-Section."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStart" translation="Can only be placed directly after a Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStation" translation="Can only be placed on track in-front of the Stazione that's also not banked or sloped."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseBottom" translation="Can only be placed directly above a Reverse Cable Lift Tower Base."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseMid" translation="Can only be placed directly above a Reverse Cable Lift Mid-Section."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseStart" translation="Can only be placed directly behind a Reverse Horizontal Cable Pull."/>
-		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindStation" translation="Can only be placed directly behind the Stazione or existing Reverse Horizontal Cable Pull sections."/>
-		<entry key="TrackElementName_BarghestChainLiftBot" translation="Chain Lift Start"/>
-		<entry key="TrackElementName_BarghestChainLiftMid" translation="Chain Lift Mid-Section"/>
-		<entry key="TrackElementName_BarghestChainLiftTop01" translation="Overhanging Chain Lift End"/>
-		<entry key="TrackElementName_BarghestChainLiftTop02" translation="Rounded Chain Lift End"/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterBottom" translation="Può essere posizionato solamente subito dopo una Base di Salita trainante a Catena."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterMid" translation="Può essere posizionato solamente subito dopo una Base o Parte Centrale di Salita trainante a Catena ."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStart" translation="Può essere posizionato solamente subito dopo una Catena Orizzontale trainante."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceAfterStation" translation="Può essere posizionato solamente dopo un percorso di fronte alla Stazione."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseBottom" translation="Può essere posizionato solamente subito dietro una Base di Salita trainante a Cavo Inversa."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseMid" translation="Può essere posizionato solamente subito dietro una Base o Parte Centrale di Salita trainante a Cavo Inversa."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindReverseStart" translation="Può essere posizionato solamente subito dietro un Cavo Orizzontale trainante Inverso."/>
+		<entry key="TrackElementDisabled_Boomerang_CanOnlyPlaceBehindStation" translation="Può essere posizionato solamente subito dietro la Stazione o una sezione esistente di Cavo Orizzontale trainante Inverso."/>
+		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStart" translation="Può essere posizionato solamente dopo una partenza di Salita trainante a Catena."/>
+		<entry key="TrackElementDisabled_CanOnlyPlaceAfterChainLiftStartOrMidSection" translation="Può essere posizionato solamente dopo un Inizio o una parte centrale di Salita trainante a Catena."/>
+		<entry key="TrackElementDisabled_CanOnlyPlaceNextToStationOfSameType" translation="Può essere posizionato solamente adiacente ad una Stazione esistente dello stesso tipo."/>
+		<entry key="TrackElementDisabled_CannotPlace" translation="Non può essere posizionato qui."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnBanked" translation="Può essere posizionato solamente su un percorso non inclinato."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnBankedOrSloped" translation="Può essere posizionato solamente su un percorso piatto e non inclinato."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBanked" translation="Può essere posizionato solamente su un percorso dritto e non inclinato."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrOverlySloped" translation="Può essere posizionato solamente su un percorso dritto e non inclinato che sia piatto o che abbia una lieve discesa."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrSloped" translation="Può essere posizionato solamente su un percorso dritto, non inclinato e piatto."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrSlopedPast90" translation="Può essere posizionato solamente su un percorso dritto e non inclinato che non abbia una pendenza oltre  -90° o 90°."/>
+		<entry key="TrackElementDisabled_CannotPlaceOnCurvedOrBankedOrUpwardSloped" translation="Può essere posizionato solamente su un percorso dritto, non inclinato e con una pendenza verso il basso."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterBottom" translation="Può essere posizionato solamente subito dopo una Base di Torre trainante a Cavo."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterMid" translation="Può essere posizionato solamente subito dopo una Parte Centrale di Torre trainante a Cavo."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStart" translation="Può essere posizionato solamente subito dopo un Cavo Orizzontale trainante."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceAfterStation" translation="Può essere posizionato solamente su un percorso di fronte alla Stazione che non sia anche inclinato o in discesa."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseBottom" translation="Può essere posizionato solamente subito sopra una Base di Torre trainante a Cavo Inversa."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseMid" translation="Può essere posizionato solamente subito sopra una Parte Centrale di Torre trainante a Cavo Inversa."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindReverseStart" translation="Può essere posizionato solamente subito dietro un Cavo Orizzontale trainante Inverso."/>
+		<entry key="TrackElementDisabled_GiantInvertedBoomerang_CanOnlyPlaceBehindStation" translation="Può essere posizionato solamente subito dietro la Stazione o una sezione esistente di Cavo Orizzontale trainante Inverso."/>
+		<entry key="TrackElementName_BarghestChainLiftBot" translation="Inizio Salita trainante a Catena"/>
+		<entry key="TrackElementName_BarghestChainLiftMid" translation="Parte Centrale Salita trainante a Catena"/>
+		<entry key="TrackElementName_BarghestChainLiftTop01" translation="Fine Salita trainante a Catena a Strapiombo"/>
+		<entry key="TrackElementName_BarghestChainLiftTop02" translation="Fine Salita trainante a Catena Arrotondata"/>
 		<entry key="TrackElementName_BarrelRollLeft" translation="OLD Tonneau Left"/>
 		<entry key="TrackElementName_BarrelRollRight" translation="OLD Tonneau Right"/>
-		<entry key="TrackElementName_BlockSection" translation="Block Section"/>
-		<entry key="TrackElementName_Booster" translation="Drive Tyres"/>
-		<entry key="TrackElementName_Brakes" translation="Friction Brakes"/>
-		<entry key="TrackElementName_CableLift" translation="Cable Lift Mid-Section"/>
-		<entry key="TrackElementName_CableLiftEnd" translation="Cable Lift End"/>
-		<entry key="TrackElementName_CableLiftEndCurved" translation="Cable Lift Curved End"/>
-		<entry key="TrackElementName_CableLiftMid" translation="Cable Lift Mid-Section"/>
-		<entry key="TrackElementName_CableLiftStart" translation="Cable Lift Start"/>
-		<entry key="TrackElementName_ChainLift" translation="Chain Lift"/>
-		<entry key="TrackElementName_ChainLiftBot" translation="Chain Lift Start"/>
-		<entry key="TrackElementName_ChainLiftTop" translation="Chain Lift End"/>
-		<entry key="TrackElementName_DDLIM" translation="Dual Direction Linear Induction Motor&#10;(with brake function)"/>
+		<entry key="TrackElementName_BlockSection" translation="Sezione Bloccante"/>
+		<entry key="TrackElementName_Booster" translation="Sezione a Pneumatici"/>
+		<entry key="TrackElementName_Brakes" translation="Freni a Frizione"/>
+		<entry key="TrackElementName_CableLift" translation="Salita trainante a Cavo"/>
+		<entry key="TrackElementName_CableLiftEnd" translation="Fine Salita trainante a Cavo "/>
+		<entry key="TrackElementName_CableLiftEndCurved" translation="Fine Salita trainante a Cavo Curva"/>
+		<entry key="TrackElementName_CableLiftMid" translation="Parte Centrale Salita trainante a Cavo"/>
+		<entry key="TrackElementName_CableLiftStart" translation="Inizio Salita trainante a Cavo"/>
+		<entry key="TrackElementName_ChainLift" translation="Salita trainante a Catena"/>
+		<entry key="TrackElementName_ChainLiftBot" translation="Inizio Salita trainante a Catena"/>
+		<entry key="TrackElementName_ChainLiftTop" translation="Fine Salita trainante a Catena"/>
+		<entry key="TrackElementName_DDLIM" translation="Motore ad Induzione Lineare a Doppia Direzione&#10;(con funzione frenante)"/>
 		<entry key="TrackElementName_DivingLoopLeft" translation="OLD Diving Loop Left"/>
 		<entry key="TrackElementName_DivingLoopRight" translation="OLD Diving Loop Right"/>
 		<entry key="TrackElementName_FlyingSnakeDiveLeft" translation="OLD Flying Snake Dive Left"/>
 		<entry key="TrackElementName_FlyingSnakeDiveRight" translation="OLD Flying Snake Dive Right"/>
-		<entry key="TrackElementName_FrictionWheelLift" translation="Friction Wheel Lift"/>
-		<entry key="TrackElementName_FrontTwistTower" translation="Front Twist Tower"/>
-		<entry key="TrackElementName_HoldingSection" translation="Dive Drop Holding Section"/>
-		<entry key="TrackElementName_HydraulicLaunch" translation="Hydraulic Launch"/>
-		<entry key="TrackElementName_LSM" translation="Linear Synchronous Motor"/>
-		<entry key="TrackElementName_LogDropEnd" translation="Drop End"/>
-		<entry key="TrackElementName_LogDropMid" translation="Drop Mid-Section"/>
-		<entry key="TrackElementName_LogDropStart" translation="Drop Start"/>
-		<entry key="TrackElementName_LogLiftEnd" translation="Conveyor Belt Lift Hill End"/>
-		<entry key="TrackElementName_LogLiftMid" translation="Conveyor Belt Lift Hill Mid-Section"/>
-		<entry key="TrackElementName_LogLiftStart" translation="Conveyor Belt Lift Hill Start"/>
-		<entry key="TrackElementName_LogSplashEnd" translation="Splashdown End"/>
-		<entry key="TrackElementName_LogSplashMid" translation="Splashdown Mid-Section"/>
-		<entry key="TrackElementName_LogSplashStart" translation="Splashdown Start"/>
+		<entry key="TrackElementName_FrictionWheelLift" translation="Salita a Ruota d'Attrito"/>
+		<entry key="TrackElementName_FrontTwistTower" translation="Torre Torsione Anteriore"/>
+		<entry key="TrackElementName_HoldingSection" translation="Sezione di Blocco Caduta in Picchiata"/>
+		<entry key="TrackElementName_HydraulicLaunch" translation="Lancio Idraulico"/>
+		<entry key="TrackElementName_LSM" translation="Motore Sincrono Lineare"/>
+		<entry key="TrackElementName_LogDropEnd" translation="Fine Discesa"/>
+		<entry key="TrackElementName_LogDropMid" translation="Parte Centrale Discesa"/>
+		<entry key="TrackElementName_LogDropStart" translation="Inizio Discesa"/>
+		<entry key="TrackElementName_LogLiftEnd" translation="Fine Salita trainante con Nastro Trasportatore"/>
+		<entry key="TrackElementName_LogLiftMid" translation="Parte Centrale Salita trainante con Nastro Trasportatore"/>
+		<entry key="TrackElementName_LogLiftStart" translation="Inizio Salita trainante con Nastro Trasportatore"/>
+		<entry key="TrackElementName_LogSplashEnd" translation="Fine Sezione a Spruzzi"/>
+		<entry key="TrackElementName_LogSplashMid" translation="Parte Centrale Sezione a Spruzzi"/>
+		<entry key="TrackElementName_LogSplashStart" translation="Inizio Sezione a Spruzzi "/>
 		<entry key="TrackElementName_LoopLeft" translation="OLD Loop Left"/>
 		<entry key="TrackElementName_LoopRight" translation="OLD Loop Right"/>
-		<entry key="TrackElementName_MagneticBrakes" translation="Magnetic Brakes"/>
-		<entry key="TrackElementName_NormalTrack" translation="Standard Track"/>
-		<entry key="TrackElementName_NormalTrackHBeam" translation="H-Beam Styled Standard Track"/>
-		<entry key="TrackElementName_PhotoSection" translation="Photo Section"/>
+		<entry key="TrackElementName_MagneticBrakes" translation="Freni Magnetici"/>
+		<entry key="TrackElementName_NormalTrack" translation="Percorso Standard"/>
+		<entry key="TrackElementName_NormalTrackHBeam" translation="Percorso Standard Stile H-Beam"/>
+		<entry key="TrackElementName_PhotoSection" translation="Sezione Fotografie"/>
 		<entry key="TrackElementName_PretzelKnotLeft" translation="OLD Pretzel Knot Left"/>
 		<entry key="TrackElementName_PretzelKnotRight" translation="OLD Pretzel Knot Right"/>
-		<entry key="TrackElementName_RearTwistTower" translation="Rear Twist Tower"/>
-		<entry key="TrackElementName_ReverseLaunch" translation="Dual Direction Linear Syncronous Motor\n(with brake function)"/>
-		<entry key="TrackElementName_RiverRapidsStandardRapids" translation="Standard Width Rapids Section"/>
-		<entry key="TrackElementName_RiverRapidsTrack" translation="Standard River Rapids Tube"/>
-		<entry key="TrackElementName_RiverRapidsWideEnd" translation="Wide Section End"/>
-		<entry key="TrackElementName_RiverRapidsWideLeftEnd" translation="Wide Left Section End"/>
-		<entry key="TrackElementName_RiverRapidsWideLeftMid" translation="Wide Left Section"/>
-		<entry key="TrackElementName_RiverRapidsWideLeftRapids" translation="Wide Left Rapids Section"/>
-		<entry key="TrackElementName_RiverRapidsWideLeftStart" translation="Wide Left Section Start"/>
-		<entry key="TrackElementName_RiverRapidsWideMid" translation="Wide Section"/>
-		<entry key="TrackElementName_RiverRapidsWideRapids" translation="Wide Rapids Section"/>
-		<entry key="TrackElementName_RiverRapidsWideRightEnd" translation="Wide Right Section End"/>
-		<entry key="TrackElementName_RiverRapidsWideRightMid" translation="Wide Right Section"/>
-		<entry key="TrackElementName_RiverRapidsWideRightRapids" translation="Wide Right Rapids Section"/>
-		<entry key="TrackElementName_RiverRapidsWideRightStart" translation="Wide Right Section Start"/>
-		<entry key="TrackElementName_RiverRapidsWideStart" translation="Wide Section Start"/>
-		<entry key="TrackElementName_SpinningStart" translation="Unlock Car-Spin"/>
-		<entry key="TrackElementName_SpinningStop" translation="Lock and Centre Car-Spin"/>
+		<entry key="TrackElementName_RearTwistTower" translation="Torre Torsione Posteriore"/>
+		<entry key="TrackElementName_ReverseLaunch" translation="Motore Sincrono Lineare a Doppia Direzione\n(con funzione frenante)"/>
+		<entry key="TrackElementName_RiverRapidsStandardRapids" translation="Sezione Rapide a Larghezza Standard"/>
+		<entry key="TrackElementName_RiverRapidsTrack" translation="Sezione a Tubo Rapide Standard"/>
+		<entry key="TrackElementName_RiverRapidsWideEnd" translation="Fine Sezione Larga"/>
+		<entry key="TrackElementName_RiverRapidsWideLeftEnd" translation="Fine Sezione Larga Sinistra"/>
+		<entry key="TrackElementName_RiverRapidsWideLeftMid" translation="Sezione Larga Sinistra"/>
+		<entry key="TrackElementName_RiverRapidsWideLeftRapids" translation="Sezione Rapide Larga Sinistra"/>
+		<entry key="TrackElementName_RiverRapidsWideLeftStart" translation="Inizio Sezione Larga Sinistra"/>
+		<entry key="TrackElementName_RiverRapidsWideMid" translation="Sezione Larga"/>
+		<entry key="TrackElementName_RiverRapidsWideRapids" translation="Sezione Rapide Larga"/>
+		<entry key="TrackElementName_RiverRapidsWideRightEnd" translation="Fine Sezione Larga Destra"/>
+		<entry key="TrackElementName_RiverRapidsWideRightMid" translation="Sezione Larga Destra"/>
+		<entry key="TrackElementName_RiverRapidsWideRightRapids" translation="Sezione Rapide Larga Destra"/>
+		<entry key="TrackElementName_RiverRapidsWideRightStart" translation="Inizio Sezione Larga Destra"/>
+		<entry key="TrackElementName_RiverRapidsWideStart" translation="Inizio Sezione Larga"/>
+		<entry key="TrackElementName_SpinningStart" translation="Sblocca Rotazione Auto"/>
+		<entry key="TrackElementName_SpinningStop" translation="Blocca e Centra Rotazione Auto"/>
 		<entry key="TrackElementName_Station" translation="Stazione"/>
 		<entry key="TrackElementName_StationLeftLeft" translation="Stazione"/>
 		<entry key="TrackElementName_StationLeftOff" translation="Stazione"/>
@@ -19555,132 +19555,132 @@
 		<entry key="TrackElementName_StationRightRight" translation="Stazione"/>
 		<entry key="TrackElementName_SteepslopeZeroGRollLeft" translation="OLD Steep Slope Zero-G Roll Left"/>
 		<entry key="TrackElementName_SteepslopeZeroGRollRight" translation="OLD Steep Slope Zero-G Roll Right"/>
-		<entry key="TrackElementName_TK_SP_BananaRollLeft" translation="Banana Roll Left"/>
-		<entry key="TrackElementName_TK_SP_BananaRollRight" translation="Banana Roll Right"/>
-		<entry key="TrackElementName_TK_SP_BatwingLeft" translation="Batwing Left"/>
-		<entry key="TrackElementName_TK_SP_BatwingRight" translation="Batwing Right"/>
-		<entry key="TrackElementName_TK_SP_BowtieLeft" translation="Bowtie Left"/>
-		<entry key="TrackElementName_TK_SP_BowtieRight" translation="Bowtie Right"/>
-		<entry key="TrackElementName_TK_SP_ButterflyInversionLeft" translation="Butterfly Inversion Left"/>
-		<entry key="TrackElementName_TK_SP_ButterflyInversionRight" translation="Butterfly Inversion Right"/>
-		<entry key="TrackElementName_TK_SP_CobraRollLeft" translation="Cobra Roll Left"/>
-		<entry key="TrackElementName_TK_SP_CobraRollRight" translation="Cobra Roll Right"/>
-		<entry key="TrackElementName_TK_SP_CorkscrewLeft" translation="Corkscrew Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_CorkscrewRight" translation="Corkscrew Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_Corkscrew_InLeft" translation="Corkscrew Entry Left"/>
-		<entry key="TrackElementName_TK_SP_Corkscrew_InRight" translation="Corkscrew Entry Right"/>
-		<entry key="TrackElementName_TK_SP_Corkscrew_OutLeft" translation="Corkscrew Exit Left"/>
-		<entry key="TrackElementName_TK_SP_Corkscrew_OutRight" translation="Corkscrew Exit Right"/>
-		<entry key="TrackElementName_TK_SP_CutbackLeft" translation="Cutback Left"/>
-		<entry key="TrackElementName_TK_SP_CutbackRight" translation="Cutback Right"/>
-		<entry key="TrackElementName_TK_SP_DemonicKnotLeft" translation="Demonic Knot Left"/>
-		<entry key="TrackElementName_TK_SP_DemonicKnotRight" translation="Demonic Knot Right"/>
-		<entry key="TrackElementName_TK_SP_DiveDropLeft" translation="Dive Drop Left"/>
-		<entry key="TrackElementName_TK_SP_DiveDropRight" translation="Dive Drop Right"/>
-		<entry key="TrackElementName_TK_SP_DiveLoopLeft" translation="Dive Loop Left"/>
-		<entry key="TrackElementName_TK_SP_DiveLoopRight" translation="Dive Loop Right"/>
-		<entry key="TrackElementName_TK_SP_Figure8HelixLeft" translation="Figure-of-8 Helix Left"/>
-		<entry key="TrackElementName_TK_SP_Figure8HelixRight" translation="Figure-of-8 Helix Right"/>
-		<entry key="TrackElementName_TK_SP_HalfHelix_DownLeft" translation="Half Helix Down Left"/>
-		<entry key="TrackElementName_TK_SP_HalfHelix_DownRight" translation="Half Helix Down Right"/>
-		<entry key="TrackElementName_TK_SP_HalfHelix_UpLeft" translation="Half Helix Up Left"/>
-		<entry key="TrackElementName_TK_SP_HalfHelix_UpRight" translation="Half Helix Up Right"/>
-		<entry key="TrackElementName_TK_SP_HalfLoop_Down" translation="Half Loop Down"/>
-		<entry key="TrackElementName_TK_SP_HalfLoop_Up" translation="Half Loop Up"/>
-		<entry key="TrackElementName_TK_SP_HammerHeadTurnLeft" translation="Hammerhead Turn Left"/>
-		<entry key="TrackElementName_TK_SP_HammerHeadTurnRight" translation="Hammerhead Turn Right"/>
-		<entry key="TrackElementName_TK_SP_HeartlineRollLeft" translation="Heartline Roll Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_HeartlineRollRight" translation="Heartline Roll Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_HeartlineRoll_InLeft" translation="Heartline Roll Entry Left"/>
-		<entry key="TrackElementName_TK_SP_HeartlineRoll_InRight" translation="Heartline Roll Entry Right"/>
-		<entry key="TrackElementName_TK_SP_HeartlineRoll_OutLeft" translation="Heartline Roll Exit Left"/>
-		<entry key="TrackElementName_TK_SP_HeartlineRoll_OutRight" translation="Heartline Roll Exit Right"/>
-		<entry key="TrackElementName_TK_SP_Helix_DownLeft" translation="Helix Down Left"/>
-		<entry key="TrackElementName_TK_SP_Helix_DownRight" translation="Helix Down Right"/>
-		<entry key="TrackElementName_TK_SP_Helix_UpLeft" translation="Helix Up Left"/>
-		<entry key="TrackElementName_TK_SP_Helix_UpRight" translation="Helix Up Right"/>
-		<entry key="TrackElementName_TK_SP_Immelmann_180Left" translation="Immelmann 180° Loop Left"/>
-		<entry key="TrackElementName_TK_SP_Immelmann_180Right" translation="Immelmann 180° Loop Right"/>
-		<entry key="TrackElementName_TK_SP_Immelmann_90Left" translation="Sidewinder Left"/>
-		<entry key="TrackElementName_TK_SP_Immelmann_90Right" translation="Sidewinder Right"/>
-		<entry key="TrackElementName_TK_SP_InclinedDiveLoopLeft" translation="Inclined Dive Loop Left"/>
-		<entry key="TrackElementName_TK_SP_InclinedDiveLoopRight" translation="Inclined Dive Loop Right"/>
-		<entry key="TrackElementName_TK_SP_InclinedLoop_45Left" translation="Inclined 45° Loop Left"/>
-		<entry key="TrackElementName_TK_SP_InclinedLoop_45Right" translation="Inclined 45° Loop Right"/>
-		<entry key="TrackElementName_TK_SP_InclinedLoop_80Left" translation="Inclined 80° Loop Left"/>
-		<entry key="TrackElementName_TK_SP_InclinedLoop_80Right" translation="Inclined 80° Loop Right"/>
-		<entry key="TrackElementName_TK_SP_InlineRollLeft" translation="Inline Roll Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_InlineRollRight" translation="Inline Roll Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_InlineRoll_InLeft" translation="Inline Roll Entry Left"/>
-		<entry key="TrackElementName_TK_SP_InlineRoll_InRight" translation="Inline Roll Entry Right"/>
-		<entry key="TrackElementName_TK_SP_InlineRoll_OutLeft" translation="Inline Roll Exit Left"/>
-		<entry key="TrackElementName_TK_SP_InlineRoll_OutRight" translation="Inline Roll Exit Right"/>
-		<entry key="TrackElementName_TK_SP_InlineTwistLeft" translation="Inline Twist Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_InlineTwistRight" translation="Inline Twist Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_InlineTwist_InLeft" translation="Inline Twist Entry Left"/>
-		<entry key="TrackElementName_TK_SP_InlineTwist_InRight" translation="Inline Twist Entry Right"/>
-		<entry key="TrackElementName_TK_SP_InlineTwist_OutLeft" translation="Inline Twist Exit Left"/>
-		<entry key="TrackElementName_TK_SP_InlineTwist_OutRight" translation="Inline Twist Exit Right"/>
-		<entry key="TrackElementName_TK_SP_NonInvLoopLeft" translation="Non-Inverted Loop Left"/>
-		<entry key="TrackElementName_TK_SP_NonInvLoopRight" translation="Non-Inverted Loop Right"/>
-		<entry key="TrackElementName_TK_SP_NorwegianLoopLeft" translation="Norwegian Loop Left"/>
-		<entry key="TrackElementName_TK_SP_NorwegianLoopRight" translation="Norwegian Loop Right"/>
-		<entry key="TrackElementName_TK_SP_OverbankedTurnLeft" translation="Overbanked Turn Left"/>
-		<entry key="TrackElementName_TK_SP_OverbankedTurnRight" translation="Overbanked Turn Right"/>
-		<entry key="TrackElementName_TK_SP_PretzelKnotLeft" translation="Pretzel Knot Left"/>
-		<entry key="TrackElementName_TK_SP_PretzelKnotRight" translation="Pretzel Knot Right"/>
-		<entry key="TrackElementName_TK_SP_PretzelLoopLeft" translation="Pretzel Loop Left"/>
-		<entry key="TrackElementName_TK_SP_PretzelLoopRight" translation="Pretzel Loop Right"/>
-		<entry key="TrackElementName_TK_SP_RavenTurnLeft" translation="Raven Turn Left"/>
-		<entry key="TrackElementName_TK_SP_RavenTurnRight" translation="Raven Turn Right"/>
-		<entry key="TrackElementName_TK_SP_RavenTurn_InvertedLeft" translation="Inverted Raven Turn Left"/>
-		<entry key="TrackElementName_TK_SP_RavenTurn_InvertedRight" translation="Inverted Raven Turn Right"/>
-		<entry key="TrackElementName_TK_SP_SeaSerpentLeft" translation="Sea Serpent Roll Left"/>
-		<entry key="TrackElementName_TK_SP_SeaSerpentRight" translation="Sea Serpent Roll Right"/>
-		<entry key="TrackElementName_TK_SP_SnakeDiveLeft" translation="Snake Dive Left"/>
-		<entry key="TrackElementName_TK_SP_SnakeDiveRight" translation="Snake Dive Right"/>
+		<entry key="TrackElementName_TK_SP_BananaRollLeft" translation="Banana Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_BananaRollRight" translation="Banana Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_BatwingLeft" translation="Batwing Sinsitro"/>
+		<entry key="TrackElementName_TK_SP_BatwingRight" translation="Batwing Destro"/>
+		<entry key="TrackElementName_TK_SP_BowtieLeft" translation="Bowtie Sinistro"/>
+		<entry key="TrackElementName_TK_SP_BowtieRight" translation="Bowtie Destro"/>
+		<entry key="TrackElementName_TK_SP_ButterflyInversionLeft" translation="Inversione Butterfly Sinistra"/>
+		<entry key="TrackElementName_TK_SP_ButterflyInversionRight" translation="Inversione Butterfly Destra"/>
+		<entry key="TrackElementName_TK_SP_CobraRollLeft" translation="Cobra Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_CobraRollRight" translation="Cobra Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_CorkscrewLeft" translation="Parte Centrale Corkscrew Sinistra"/>
+		<entry key="TrackElementName_TK_SP_CorkscrewRight" translation="Parte Centrale Corkscrew Destra"/>
+		<entry key="TrackElementName_TK_SP_Corkscrew_InLeft" translation="Ingresso Corkscrew Sinistro"/>
+		<entry key="TrackElementName_TK_SP_Corkscrew_InRight" translation="Ingresso Corkscrew Destro"/>
+		<entry key="TrackElementName_TK_SP_Corkscrew_OutLeft" translation="Uscita Corkscrew Sinistra"/>
+		<entry key="TrackElementName_TK_SP_Corkscrew_OutRight" translation="Uscita Corkscrew Destra"/>
+		<entry key="TrackElementName_TK_SP_CutbackLeft" translation="Cutback Sinistro"/>
+		<entry key="TrackElementName_TK_SP_CutbackRight" translation="Cutback Destro"/>
+		<entry key="TrackElementName_TK_SP_DemonicKnotLeft" translation="Demonic Knot Sinistro"/>
+		<entry key="TrackElementName_TK_SP_DemonicKnotRight" translation="Demonic Knot Destro"/>
+		<entry key="TrackElementName_TK_SP_DiveDropLeft" translation="Dive Drop Sinistro"/>
+		<entry key="TrackElementName_TK_SP_DiveDropRight" translation="Dive Drop Destro"/>
+		<entry key="TrackElementName_TK_SP_DiveLoopLeft" translation="Dive Loop Sinistro"/>
+		<entry key="TrackElementName_TK_SP_DiveLoopRight" translation="Dive Loop Destro"/>
+		<entry key="TrackElementName_TK_SP_Figure8HelixLeft" translation="Elica a forma di 8 Sinistra"/>
+		<entry key="TrackElementName_TK_SP_Figure8HelixRight" translation="Elica a forma di 8 Destra"/>
+		<entry key="TrackElementName_TK_SP_HalfHelix_DownLeft" translation="Mezza Elica in Giù Sinistra"/>
+		<entry key="TrackElementName_TK_SP_HalfHelix_DownRight" translation="Mezza Elica in Giù Destra"/>
+		<entry key="TrackElementName_TK_SP_HalfHelix_UpLeft" translation="Mezza Elica in Sù Sinistra"/>
+		<entry key="TrackElementName_TK_SP_HalfHelix_UpRight" translation="Mezza Elica in Sù Destra"/>
+		<entry key="TrackElementName_TK_SP_HalfLoop_Down" translation="Mezzo Loop in Giù"/>
+		<entry key="TrackElementName_TK_SP_HalfLoop_Up" translation="Mezzo Loop in Sù"/>
+		<entry key="TrackElementName_TK_SP_HammerHeadTurnLeft" translation="Hammerhead Turn Sinistro"/>
+		<entry key="TrackElementName_TK_SP_HammerHeadTurnRight" translation="Hammerhead Turn Destro"/>
+		<entry key="TrackElementName_TK_SP_HeartlineRollLeft" translation="Parte Centrale Heartline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_HeartlineRollRight" translation="Parte Centrale Heartline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_HeartlineRoll_InLeft" translation="Ingresso Heartline Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_HeartlineRoll_InRight" translation="Ingresso Heartline Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_HeartlineRoll_OutLeft" translation="Uscita Heartline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_HeartlineRoll_OutRight" translation="Uscita Heartline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_Helix_DownLeft" translation="Elica in Giù Sinistra"/>
+		<entry key="TrackElementName_TK_SP_Helix_DownRight" translation="Elica in Giù Destra"/>
+		<entry key="TrackElementName_TK_SP_Helix_UpLeft" translation="Elica in Sù Sinistra"/>
+		<entry key="TrackElementName_TK_SP_Helix_UpRight" translation="Elica in Sù Destra"/>
+		<entry key="TrackElementName_TK_SP_Immelmann_180Left" translation="Loop Immelmann 180° Sinistro"/>
+		<entry key="TrackElementName_TK_SP_Immelmann_180Right" translation="Loop Immelmann 180° Destro"/>
+		<entry key="TrackElementName_TK_SP_Immelmann_90Left" translation="Sidewinder Sinistro"/>
+		<entry key="TrackElementName_TK_SP_Immelmann_90Right" translation="Sidewinder Destro"/>
+		<entry key="TrackElementName_TK_SP_InclinedDiveLoopLeft" translation="Dive Loop Inclinato Sinistro"/>
+		<entry key="TrackElementName_TK_SP_InclinedDiveLoopRight" translation="Dive Loop Inclinato Destro"/>
+		<entry key="TrackElementName_TK_SP_InclinedLoop_45Left" translation="Loop Inclinato 45° Sinistro"/>
+		<entry key="TrackElementName_TK_SP_InclinedLoop_45Right" translation="Loop Inclinato 45° Destro"/>
+		<entry key="TrackElementName_TK_SP_InclinedLoop_80Left" translation="Loop Inclinato 80° Sinistro"/>
+		<entry key="TrackElementName_TK_SP_InclinedLoop_80Right" translation="Loop Inclinato 80° Destro"/>
+		<entry key="TrackElementName_TK_SP_InlineRollLeft" translation="Parte Centrale Inline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_InlineRollRight" translation="Parte Centrale Inline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_InlineRoll_InLeft" translation="Ingresso Inline Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_InlineRoll_InRight" translation="Ingresso Inline Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_InlineRoll_OutLeft" translation="Uscita Inline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_InlineRoll_OutRight" translation="Uscita Inline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_InlineTwistLeft" translation="Parte Centrale Inline Twist Sinistra"/>
+		<entry key="TrackElementName_TK_SP_InlineTwistRight" translation="Parte Centrale Inline Twist Destra"/>
+		<entry key="TrackElementName_TK_SP_InlineTwist_InLeft" translation="Ingresso Inline Twist Sinistro"/>
+		<entry key="TrackElementName_TK_SP_InlineTwist_InRight" translation="Ingresso Inline Twist Destro"/>
+		<entry key="TrackElementName_TK_SP_InlineTwist_OutLeft" translation="Uscita Inline Twist Sinistra"/>
+		<entry key="TrackElementName_TK_SP_InlineTwist_OutRight" translation="Uscita Inline Twist Destra"/>
+		<entry key="TrackElementName_TK_SP_NonInvLoopLeft" translation="Loop Non Invertito Sinistro"/>
+		<entry key="TrackElementName_TK_SP_NonInvLoopRight" translation="Loop Non Invertito Destro"/>
+		<entry key="TrackElementName_TK_SP_NorwegianLoopLeft" translation="Norwegian Loop Sinistro"/>
+		<entry key="TrackElementName_TK_SP_NorwegianLoopRight" translation="Norwegian Loop Destro"/>
+		<entry key="TrackElementName_TK_SP_OverbankedTurnLeft" translation="Overbanked Turn Sinistro"/>
+		<entry key="TrackElementName_TK_SP_OverbankedTurnRight" translation="Overbanked Turn Destro"/>
+		<entry key="TrackElementName_TK_SP_PretzelKnotLeft" translation="Pretzel Knot Sinistro"/>
+		<entry key="TrackElementName_TK_SP_PretzelKnotRight" translation="Pretzel Knot Destro"/>
+		<entry key="TrackElementName_TK_SP_PretzelLoopLeft" translation="Pretzel Loop Sinistro"/>
+		<entry key="TrackElementName_TK_SP_PretzelLoopRight" translation="Pretzel Loop Destro"/>
+		<entry key="TrackElementName_TK_SP_RavenTurnLeft" translation="Raven Turn Sinistro"/>
+		<entry key="TrackElementName_TK_SP_RavenTurnRight" translation="Raven Turn Destro"/>
+		<entry key="TrackElementName_TK_SP_RavenTurn_InvertedLeft" translation="Inverted Raven Turn Sinistro"/>
+		<entry key="TrackElementName_TK_SP_RavenTurn_InvertedRight" translation="Inverted Raven Turn Destro"/>
+		<entry key="TrackElementName_TK_SP_SeaSerpentLeft" translation="Sea Serpent Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_SeaSerpentRight" translation="Sea Serpent Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_SnakeDiveLeft" translation="Snake Dive Sinistro"/>
+		<entry key="TrackElementName_TK_SP_SnakeDiveRight" translation="Snake Dive Destro"/>
 		<entry key="TrackElementName_TK_SP_TopHat" translation="Top Hat"/>
-		<entry key="TrackElementName_TK_SP_TopHatInverted" translation="Inverted Top Hat"/>
-		<entry key="TrackElementName_TK_SP_TwistedHorseShoeRollLeft" translation="Twisted Horseshoe Roll Left"/>
-		<entry key="TrackElementName_TK_SP_TwistedHorseShoeRollRight" translation="Twisted Horseshoe Roll Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalHeartlineRollLeft" translation="Vertical Heartline Roll Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalHeartlineRollRight" translation="Vertical Heartline Roll Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_InLeft" translation="Vertical Heartline Roll Entry Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_InRight" translation="Vertical Heartline Roll Entry Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_OutLeft" translation="Vertical Heartline Roll Exit Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_OutRight" translation="Vertical Heartline Roll Exit Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineRollLeft" translation="Vertical Inline Roll Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineRollRight" translation="Vertical Inline Roll Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_InLeft" translation="Vertical Inline Roll Entry Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_InRight" translation="Vertical Inline Roll Entry Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_OutLeft" translation="Vertical Inline Roll Exit Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_OutRight" translation="Vertical Inline Roll Exit Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineTwistLeft" translation="Vertical Inline Twist Mid-Section Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineTwistRight" translation="Vertical Inline Twist Mid-Section Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_InLeft" translation="Vertical Inline Twist Entry Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_InRight" translation="Vertical Inline Twist Entry Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_OutLeft" translation="Vertical Inline Twist Exit Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_OutRight" translation="Vertical Inline Twist Exit Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalLoopLeft" translation="Vertical Loop Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalLoopRight" translation="Vertical Loop Right"/>
-		<entry key="TrackElementName_TK_SP_VerticalLoopWideLeft" translation="Wide Vertical Loop Left"/>
-		<entry key="TrackElementName_TK_SP_VerticalLoopWideRight" translation="Wide Vertical Loop Right"/>
-		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrewLeft" translation="Wraparound Corkscrew Left"/>
-		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrewRight" translation="Wraparound Corkscrew Right"/>
-		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_InLeft" translation="Wraparound Corkscrew Entry Left"/>
-		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_InRight" translation="Wraparound Corkscrew Entry Right"/>
-		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_OutLeft" translation="Wraparound Corkscrew Exit Left"/>
-		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_OutRight" translation="Wraparound Corkscrew Exit Right"/>
-		<entry key="TrackElementName_TK_SP_ZeroGRollLeft" translation="Zero-G Roll Left"/>
-		<entry key="TrackElementName_TK_SP_ZeroGRollRight" translation="Zero-G Roll Right"/>
-		<entry key="TrackElementName_TK_SP_ZeroGStallLeft" translation="Zero-G Stall Left"/>
-		<entry key="TrackElementName_TK_SP_ZeroGStallRight" translation="Zero-G Stall Right"/>
+		<entry key="TrackElementName_TK_SP_TopHatInverted" translation="Top Hat Invertito"/>
+		<entry key="TrackElementName_TK_SP_TwistedHorseShoeRollLeft" translation="Twisted Horseshoe Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_TwistedHorseShoeRollRight" translation="Twisted Horseshoe Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_VerticalHeartlineRollLeft" translation="Parte Centrale Vertical Heartline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_VerticalHeartlineRollRight" translation="Parte Centrale Vertical Heartline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_InLeft" translation="Ingresso Vertical Heartline Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_InRight" translation="Ingresso Vertical Heartline Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_OutLeft" translation="Uscita Vertical Heartline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_VerticalHeartlineRoll_OutRight" translation="Uscita Vertical Heartline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineRollLeft" translation="Parte Centrale Vertical Inline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineRollRight" translation="Parte Centrale Vertical Inline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_InLeft" translation="Ingresso Vertical Inline Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_InRight" translation="Ingresso Vertical Inline Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_OutLeft" translation="Uscita Vertical Inline Roll Sinistra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineRoll_OutRight" translation="Uscita Vertical Inline Roll Destra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineTwistLeft" translation="Parte Centrale Vertical Inline Twist Sinistra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineTwistRight" translation="Parte Centrale Vertical Inline Twist Destra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_InLeft" translation="Ingresso Vertical Inline Twist Sinistro"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_InRight" translation="Ingresso Vertical Inline Twist Destro"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_OutLeft" translation="Uscita Vertical Inline Twist Sinistra"/>
+		<entry key="TrackElementName_TK_SP_VerticalInlineTwist_OutRight" translation="Uscita Vertical Inline Twist Destra"/>
+		<entry key="TrackElementName_TK_SP_VerticalLoopLeft" translation="Vertical Loop Sinistro"/>
+		<entry key="TrackElementName_TK_SP_VerticalLoopRight" translation="Vertical Loop Destro"/>
+		<entry key="TrackElementName_TK_SP_VerticalLoopWideLeft" translation="Wide Vertical Loop Sinistro"/>
+		<entry key="TrackElementName_TK_SP_VerticalLoopWideRight" translation="Wide Vertical Loop Destro"/>
+		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrewLeft" translation="Wraparound Corkscrew Sinistro"/>
+		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrewRight" translation="Wraparound Corkscrew Destro"/>
+		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_InLeft" translation="Ingresso Wraparound Corkscrew Sinistro"/>
+		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_InRight" translation="Ingresso Wraparound Corkscrew Destro"/>
+		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_OutLeft" translation="Uscita Wraparound Corkscrew Sinistra"/>
+		<entry key="TrackElementName_TK_SP_WrapAroundCorkscrew_OutRight" translation="Uscita Wraparound Corkscrew Destra"/>
+		<entry key="TrackElementName_TK_SP_ZeroGRollLeft" translation="Zero-G Roll Sinistro"/>
+		<entry key="TrackElementName_TK_SP_ZeroGRollRight" translation="Zero-G Roll Destro"/>
+		<entry key="TrackElementName_TK_SP_ZeroGStallLeft" translation="Zero-G Stall Sinistro"/>
+		<entry key="TrackElementName_TK_SP_ZeroGStallRight" translation="Zero-G Stall Destro"/>
 		<entry key="TrackElementName_TestCorkscrewLeftIn" translation="OLD Corkscrew Left Entry"/>
 		<entry key="TrackElementName_TestCorkscrewLeftOut" translation="OLD Corkscrew Left Exit"/>
 		<entry key="TrackElementName_TestCorkscrewRightIn" translation="OLD Corkscrew Right Entry"/>
 		<entry key="TrackElementName_TestCorkscrewRightOut" translation="OLD Corkscrew Right Exit"/>
-		<entry key="TrackElementName_TorqueTopHat" translation="Tophat Loop"/>
-		<entry key="TrackElementName_TrimBrakes" translation="Trim Brakes"/>
+		<entry key="TrackElementName_TorqueTopHat" translation="Loop Top Hat"/>
+		<entry key="TrackElementName_TrimBrakes" translation="Freni di Assetto"/>
 		<entry key="TrackElementName_batwingleft" translation="OLD Batwing Left"/>
 		<entry key="TrackElementName_batwingright" translation="OLD Batwing Right"/>
 		<entry key="TrackElementName_cobrarollleft" translation="OLD Cobra Roll Left"/>
@@ -19689,205 +19689,205 @@
 		<entry key="TrackElementName_immelmannright" translation="OLD Immelmann Right"/>
 		<entry key="TrackElementName_norwegianloopleft" translation="OLD Norwegian Loop Left"/>
 		<entry key="TrackElementName_norwegianloopright" translation="OLD Norwegian Loop Right"/>
-		<entry key="TrackElementTool_BarghestChainLiftBot" translation="Chain Lift Start"/>
-		<entry key="TrackElementTool_BarghestChainLiftMid" translation="Chain Lift Mid-Section"/>
-		<entry key="TrackElementTool_BarghestChainLiftTop01" translation="Overhanging Chain Lift End"/>
-		<entry key="TrackElementTool_BarghestChainLiftTop02" translation="Rounded Chain Lift End"/>
+		<entry key="TrackElementTool_BarghestChainLiftBot" translation="Inizio Salita trainante a Catena"/>
+		<entry key="TrackElementTool_BarghestChainLiftMid" translation="Parte Centrale Salita trainante a Catena"/>
+		<entry key="TrackElementTool_BarghestChainLiftTop01" translation="Fine Salita trainante a Catena a Strapiombo"/>
+		<entry key="TrackElementTool_BarghestChainLiftTop02" translation="Fine Salita trainante a Catena Arrotondata"/>
 		<entry key="TrackElementTool_BarrelRollLeft" translation="OLD Tonneau Left"/>
 		<entry key="TrackElementTool_BarrelRollRight" translation="OLD Tonneau Right"/>
-		<entry key="TrackElementTool_BlockSection" translation="&lt;font color='accent'&gt;Block Section&lt;/font&gt;\nSlows trains down to a stop, propelling them out when the next section of track is clear."/>
-		<entry key="TrackElementTool_Booster" translation="&lt;font color='accent'&gt;Drive Tyres&lt;/font&gt;\nPushes trains along slowly."/>
-		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Friction Brakes&lt;/font&gt;\nSlows trains down."/>
-		<entry key="TrackElementTool_CableLift" translation="Cable Lift Mid-Section"/>
-		<entry key="TrackElementTool_CableLiftEnd" translation="Cable Lift End"/>
-		<entry key="TrackElementTool_CableLiftEndCurved" translation="&lt;font color='accent'&gt;Cable Lift Curved End&lt;/font&gt;&#10;Ends a cable lift curving down.&#10;&#10;EFN values whilst on a cable lift do not contribute to the final EFN ratings for the ride."/>
-		<entry key="TrackElementTool_CableLiftMid" translation="Cable Lift Mid-Section"/>
-		<entry key="TrackElementTool_CableLiftStart" translation="Cable Lift Start"/>
-		<entry key="TrackElementTool_ChainLift" translation="&lt;font color='accent'&gt;Chain Lift&lt;/font&gt;\nPulls trains up an incline."/>
-		<entry key="TrackElementTool_ChainLiftBot" translation="&lt;font color='accent'&gt;Chain Lift Start&lt;/font&gt;\nPulls trains up an incline."/>
-		<entry key="TrackElementTool_ChainLiftTop" translation="&lt;font color='accent'&gt;Chain Lift End&lt;/font&gt;\nPulls trains up an incline."/>
-		<entry key="TrackElementTool_DDLIM" translation="&lt;font color='accent'&gt;Dual Direction Linear Induction Motor&#10;(with brake function)&lt;/font&gt;&#10;Boosts the train in the direction it's travelling in to help it pick up speed. Also slows the train when the ride comes to an end."/>
+		<entry key="TrackElementTool_BlockSection" translation="&lt;font color='accent'&gt;Sezione Bloccante&lt;/font&gt;\nRallenta i treni fino a fermarli, per poi spingerli fuori quando la sezione successiva del tracciato è vuota."/>
+		<entry key="TrackElementTool_Booster" translation="&lt;font color='accent'&gt;Sezione a Pneumatici&lt;/font&gt;\nSpinge i treni in avanti lentamente."/>
+		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Freni a Frizione&lt;/font&gt;\nRallenta i treni."/>
+		<entry key="TrackElementTool_CableLift" translation="Parte Centrale Salita trainante a Cavo"/>
+		<entry key="TrackElementTool_CableLiftEnd" translation="Fine Salita trainante a Cavo"/>
+		<entry key="TrackElementTool_CableLiftEndCurved" translation="&lt;font color='accent'&gt;Fine Salita trainante a Cavo Curva&lt;/font&gt;&#10;Termina una Salita trainante a Cavo curvata in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableLiftMid" translation="Parte Centrale Salita trainante a Cavo"/>
+		<entry key="TrackElementTool_CableLiftStart" translation="Inizio Salita trainante a Cavo"/>
+		<entry key="TrackElementTool_ChainLift" translation="&lt;font color='accent'&gt;Salita trainante a Catena&lt;/font&gt;\nTira i treni lungo un pendio."/>
+		<entry key="TrackElementTool_ChainLiftBot" translation="&lt;font color='accent'&gt;Inizio Salita trainante a Catena&lt;/font&gt;\nTira i treni lungo un pendio."/>
+		<entry key="TrackElementTool_ChainLiftTop" translation="&lt;font color='accent'&gt;Fine Salita trainante a Catena&lt;/font&gt;\nTira i treni lungo un pendio."/>
+		<entry key="TrackElementTool_DDLIM" translation="&lt;font color='accent'&gt;Motore a Induzione Lineare a Doppia Direzione&#10;(con funzione frenante)&lt;/font&gt;&#10;Spinge il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
 		<entry key="TrackElementTool_DivingLoopLeft" translation="OLD Diving Loop Left"/>
 		<entry key="TrackElementTool_DivingLoopRight" translation="OLD Diving Loop Right"/>
 		<entry key="TrackElementTool_FlyingSnakeDiveLeft" translation="OLD Flying Snake Dive Left"/>
 		<entry key="TrackElementTool_FlyingSnakeDiveRight" translation="OLD Flying Snake Dive Right"/>
-		<entry key="TrackElementTool_FrictionWheelLift" translation="&lt;font color='accent'&gt;Friction Wheel Lift&lt;/font&gt;\nPushes trains up an incline."/>
-		<entry key="TrackElementTool_FrontTwistTower" translation="&lt;font color='accent'&gt;Front Twist Tower&lt;/font"/>
-		<entry key="TrackElementTool_HoldingSection" translation="&lt;font color='accent'&gt;Dive Drop Holding Section&lt;/font&gt;\nHolds the train looking down\nbefore releasing."/>
-		<entry key="TrackElementTool_HydraulicLaunch" translation="&lt;font color='accent'&gt;Hydraulic Launch&lt;/font&gt;\nLaunch system that propels trains\nat speed along the track."/>
-		<entry key="TrackElementTool_LSM" translation="&lt;font color='accent'&gt;Linear Synchronous Motor&lt;/font&gt;\nPropels trains at speed along the\ntrack."/>
-		<entry key="TrackElementTool_LogDropEnd" translation="&lt;font color='accent'&gt;Drop End&lt;/font&gt;&#10;Ends a drop"/>
-		<entry key="TrackElementTool_LogDropMid" translation="&lt;font color='accent'&gt;Drop Mid-Section&lt;/font&gt;&#10;Extends the length of a drop"/>
-		<entry key="TrackElementTool_LogDropStart" translation="&lt;font color='accent'&gt;Drop Start&lt;/font&gt;&#10;Starts a drop for the boat"/>
-		<entry key="TrackElementTool_LogLiftEnd" translation="&lt;font color='accent'&gt;Conveyor Belt Lift Hill End&lt;/font&gt;&#10;Ends a lift"/>
-		<entry key="TrackElementTool_LogLiftMid" translation="&lt;font color='accent'&gt;Conveyor Belt Lift Hill Mid-Section&lt;/font&gt;&#10;Lifts the boat uphill"/>
-		<entry key="TrackElementTool_LogLiftStart" translation="&lt;font color='accent'&gt;Conveyor Belt Lift Hill Start&lt;/font&gt;&#10;Starts lifting the boat uphill"/>
-		<entry key="TrackElementTool_LogSplashEnd" translation="&lt;font color='accent'&gt;Splashdown End&lt;/font&gt;&#10;Ends a splashdown section"/>
-		<entry key="TrackElementTool_LogSplashMid" translation="&lt;font color='accent'&gt;Splashdown Mid-Section&lt;/font&gt;&#10;Extends a splashdown section"/>
-		<entry key="TrackElementTool_LogSplashStart" translation="&lt;font color='accent'&gt;Splashdown Start&lt;/font&gt;&#10;Starts a splashdown section at the end of a drop"/>
+		<entry key="TrackElementTool_FrictionWheelLift" translation="&lt;font color='accent'&gt;Salita a Ruota d'Attrito;/font&gt;\nSpinge i treni lungo un pendio."/>
+		<entry key="TrackElementTool_FrontTwistTower" translation="&lt;font color='accent'&gt;Torre Torsione Anteriore&lt;/font"/>
+		<entry key="TrackElementTool_HoldingSection" translation="&lt;font color='accent'&gt;Sezione di Blocco Caduta in Picchiata&lt;/font&gt;\nBlocca il treno a guardare in giù\nprima di rilasciarlo."/>
+		<entry key="TrackElementTool_HydraulicLaunch" translation="&lt;font color='accent'&gt;Lancio Idraulico&lt;/font&gt;\nSistema di lancio che spinge i treni\nin velocità lungo il percorso."/>
+		<entry key="TrackElementTool_LSM" translation="&lt;font color='accent'&gt;Motore Sincrono Lineare&lt;/font&gt;\nSpinge i treni in velocità lungo il\ntracciato."/>
+		<entry key="TrackElementTool_LogDropEnd" translation="&lt;font color='accent'&gt;Fine Discesa&lt;/font&gt;&#10;Termina una discesa"/>
+		<entry key="TrackElementTool_LogDropMid" translation="&lt;font color='accent'&gt;Parte Centrale Discesa&lt;/font&gt;&#10;Estende la lunghezza di una discesa"/>
+		<entry key="TrackElementTool_LogDropStart" translation="&lt;font color='accent'&gt;Inizio Discesat&lt;/font&gt;&#10;Inizia una discesa per la barca"/>
+		<entry key="TrackElementTool_LogLiftEnd" translation="&lt;font color='accent'&gt;Fine Salita trainante con Nastro Trasportatore&lt;/font&gt;&#10;Termina una salita"/>
+		<entry key="TrackElementTool_LogLiftMid" translation="&lt;font color='accent'&gt;Parte Centrale Salita trainante con Nastro Trasportatore&lt;/font&gt;&#10;Solleva la barca in salita"/>
+		<entry key="TrackElementTool_LogLiftStart" translation="&lt;font color='accent'&gt;Inizio Salita trainante con Nastro Trasportatore&lt;/font&gt;&#10;Comincia a sollevare la barca in salita"/>
+		<entry key="TrackElementTool_LogSplashEnd" translation="&lt;font color='accent'&gt;Fine Sezione a Spruzzi&lt;/font&gt;&#10;Termina una sezione a spruzzi"/>
+		<entry key="TrackElementTool_LogSplashMid" translation="&lt;font color='accent'&gt;Parte Centrale Sezione a Spruzzi&lt;/font&gt;&#10;Estende una sezione a spruzzi"/>
+		<entry key="TrackElementTool_LogSplashStart" translation="&lt;font color='accent'&gt;Inizio Sezione a Spruzzi&lt;/font&gt;&#10;Comincia una sezione a spruzzi alla fine di una discesa"/>
 		<entry key="TrackElementTool_LoopLeft" translation="OLD Loop Left"/>
 		<entry key="TrackElementTool_LoopRight" translation="OLD Loop Right"/>
-		<entry key="TrackElementTool_MagneticBrakes" translation="&lt;font color='accent'&gt;Magnetic Brakes&lt;/font&gt;\nSlows trains down."/>
-		<entry key="TrackElementTool_NormalTrack" translation="&lt;font color='accent'&gt;Standard Track&lt;/font&gt;\nBasic, standard track."/>
-		<entry key="TrackElementTool_NormalTrackHBeam" translation="&lt;font color='accent'&gt;H-Beam Styled Standard Track&lt;/font&gt;\nBasic, standard track."/>
-		<entry key="TrackElementTool_PhotoSection" translation="&lt;font color='accent'&gt;Photo Section&lt;/font&gt;\nPhotographs guests on trains as they pass."/>
+		<entry key="TrackElementTool_MagneticBrakes" translation="&lt;font color='accent'&gt;Freni Magnetici&lt;/font&gt;\nRallenta i treni."/>
+		<entry key="TrackElementTool_NormalTrack" translation="&lt;font color='accent'&gt;Percorso Standard&lt;/font&gt;\nSemplice percorso standard."/>
+		<entry key="TrackElementTool_NormalTrackHBeam" translation="&lt;font color='accent'&gt;Percorso Standard Stile H-Beam&lt;/font&gt;\nSemplice percorso standard."/>
+		<entry key="TrackElementTool_PhotoSection" translation="&lt;font color='accent'&gt;Sezione Fotografie&lt;/font&gt;\nFotografa i visitatori sui treni quando passano."/>
 		<entry key="TrackElementTool_PretzelKnotLeft" translation="OLD Pretzel Knot Left"/>
 		<entry key="TrackElementTool_PretzelKnotRight" translation="OLD Pretzel Knot Right"/>
-		<entry key="TrackElementTool_RearTwistTower" translation="&lt;font color='accent'&gt;Rear Twist Tower&lt;/font"/>
-		<entry key="TrackElementTool_ReverseLaunch" translation="&lt;font color='accent'&gt;Dual Direction Linear Syncronous Motor\n(with brake function)&lt;/font&gt;\nStops the train, launches it backwards, then when the train passes back over it, boosts it in a forwards direction."/>
-		<entry key="TrackElementTool_RiverRapidsStandardRapids" translation="&lt;font color='accent'&gt;Standard Width Rapids Section&lt;/font&gt;&#10;Selects a standard width rapids section"/>
-		<entry key="TrackElementTool_RiverRapidsTrack" translation="&lt;font color='accent'&gt;Standard River Rapids Tube&lt;/font&gt;&#10;Basic, standard river rapids tube"/>
-		<entry key="TrackElementTool_RiverRapidsWideEnd" translation="&lt;font color='accent'&gt;Wide Section End&lt;/font&gt;&#10;Narrows the tube"/>
-		<entry key="TrackElementTool_RiverRapidsWideLeftEnd" translation="&lt;font color='accent'&gt;Wide Left Section End&lt;/font&gt;&#10;Narrows the tube"/>
-		<entry key="TrackElementTool_RiverRapidsWideLeftMid" translation="&lt;font color='accent'&gt;Wide Left Section&lt;/font&gt;&#10;Selects a tube that's wider to the left"/>
-		<entry key="TrackElementTool_RiverRapidsWideLeftRapids" translation="&lt;font color='accent'&gt;Wide Left Rapids Section&lt;/font&gt;&#10;Selects a rapids section that's wider to the left"/>
-		<entry key="TrackElementTool_RiverRapidsWideLeftStart" translation="&lt;font color='accent'&gt;Wide Left Section Start&lt;/font&gt;&#10;Widens the tube to the left"/>
-		<entry key="TrackElementTool_RiverRapidsWideMid" translation="&lt;font color='accent'&gt;Wide Section&lt;/font&gt;&#10;Places a wider tube"/>
-		<entry key="TrackElementTool_RiverRapidsWideRapids" translation="&lt;font color='accent'&gt;Wide Rapids Section&lt;/font&gt;&#10;Selects a wide rapids section"/>
-		<entry key="TrackElementTool_RiverRapidsWideRightEnd" translation="&lt;font color='accent'&gt;Wide Right Section End&lt;/font&gt;&#10;Narrows the tube"/>
-		<entry key="TrackElementTool_RiverRapidsWideRightMid" translation="&lt;font color='accent'&gt;Wide Right Section&lt;/font&gt;&#10;Selects a tube that's wider to the right"/>
-		<entry key="TrackElementTool_RiverRapidsWideRightRapids" translation="&lt;font color='accent'&gt;Wide Right Rapids Section&lt;/font&gt;&#10;Selects a rapids section that's wider to the right"/>
-		<entry key="TrackElementTool_RiverRapidsWideRightStart" translation="&lt;font color='accent'&gt;Wide Right Section Start&lt;/font&gt;&#10;Widens the tube to the right"/>
-		<entry key="TrackElementTool_RiverRapidsWideStart" translation="&lt;font color='accent'&gt;Wide Section Start&lt;/font&gt;&#10;Widens the tube"/>
-		<entry key="TrackElementTool_SpinningStart" translation="&lt;font color='accent'&gt;Unlock Car-Spin&lt;/font&gt;&#10;Unlocks the car's ability to free spin on its vertical axis."/>
-		<entry key="TrackElementTool_SpinningStop" translation="&lt;font color='accent'&gt;Lock and Centre Car-Spin&lt;/font&gt;&#10;Locks the car's ability to free spin on its vertical axis and returns the car's rotation to centre."/>
-		<entry key="TrackElementTool_Station" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;\nWhere guests board and disembark trains."/>
-		<entry key="TrackElementTool_StationLeftLeft" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;\nEntry Left/ Exit Left."/>
-		<entry key="TrackElementTool_StationLeftOff" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;&#10;Exit Left."/>
-		<entry key="TrackElementTool_StationLeftOn" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;&#10;Entry Left."/>
-		<entry key="TrackElementTool_StationLeftRight" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;\nEntry Left/ Exit Right."/>
-		<entry key="TrackElementTool_StationRightLeft" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;\nEntry Right/ Exit Left."/>
-		<entry key="TrackElementTool_StationRightOff" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;&#10;Exit Right."/>
-		<entry key="TrackElementTool_StationRightOn" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;&#10;Entry Right."/>
-		<entry key="TrackElementTool_StationRightRight" translation="&lt;font color='accent'&gt;Station&lt;/font&gt;\nEntry Right/ Exit Right."/>
+		<entry key="TrackElementTool_RearTwistTower" translation="&lt;font color='accent'&gt;Torre Torsione Posteriore&lt;/font"/>
+		<entry key="TrackElementTool_ReverseLaunch" translation="&lt;font color='accent'&gt;Motore Sincrono Lineare a Doppia Direzione\n(con funzione frenante)&lt;/font&gt;\nFerma il treno, lo lancia in direzione contraria, quindi quando il treno ci ripassa sopra, lo spinge in avanti."/>
+		<entry key="TrackElementTool_RiverRapidsStandardRapids" translation="&lt;font color='accent'&gt;Sezione Rapide Larghezza Standard&lt;/font&gt;&#10;Seleziona una sezione di rapide a larghezza standard"/>
+		<entry key="TrackElementTool_RiverRapidsTrack" translation="&lt;font color='accent'&gt;Sezione a Tubo Rapide Standard&lt;/font&gt;&#10;Semplice sezione standard del fiume a tubo"/>
+		<entry key="TrackElementTool_RiverRapidsWideEnd" translation="&lt;font color='accent'&gt;Fine Sezione Larga&lt;/font&gt;&#10;Stringe la sezione a tubo"/>
+		<entry key="TrackElementTool_RiverRapidsWideLeftEnd" translation="&lt;font color='accent'&gt;Fine Sezione Larga Sinistra&lt;/font&gt;&#10;Stringe la sezione a tubo"/>
+		<entry key="TrackElementTool_RiverRapidsWideLeftMid" translation="&lt;font color='accent'&gt;Sezione Larga Sinistra&lt;/font&gt;&#10;Seleziona una sezione a tubo che è più larga a sinistra"/>
+		<entry key="TrackElementTool_RiverRapidsWideLeftRapids" translation="&lt;font color='accent'&gt;Sezione Rapide Larga Sinistra&lt;/font&gt;&#10;Seleziona una sezione di rapide che è più larga a sinistra"/>
+		<entry key="TrackElementTool_RiverRapidsWideLeftStart" translation="&lt;font color='accent'&gt;Inizio Sezione Larga Sinistra&lt;/font&gt;&#10;Allarga la sezione a tubo a sinistra"/>
+		<entry key="TrackElementTool_RiverRapidsWideMid" translation="&lt;font color='accent'&gt;Sezione Larga&lt;/font&gt;&#10;Posiziona una sezione a tubo più larga"/>
+		<entry key="TrackElementTool_RiverRapidsWideRapids" translation="&lt;font color='accent'&gt;Sezione rapide Larga&lt;/font&gt;&#10;Seleziona una sezione rapide più larga"/>
+		<entry key="TrackElementTool_RiverRapidsWideRightEnd" translation="&lt;font color='accent'&gt;Fine Sezione Larga Destra&lt;/font&gt;&#10;Stringe la sezione a tubo"/>
+		<entry key="TrackElementTool_RiverRapidsWideRightMid" translation="&lt;font color='accent'&gt;Sezione Larga Destra&lt;/font&gt;&#10;Seleziona una sezione a tubo che è più larga a destra"/>
+		<entry key="TrackElementTool_RiverRapidsWideRightRapids" translation="&lt;font color='accent'&gt;Sezione Rapide Larga Destra&lt;/font&gt;&#10;SSeleziona una sezione di rapide che è più larga a destra"/>
+		<entry key="TrackElementTool_RiverRapidsWideRightStart" translation="&lt;font color='accent'&gt;Inizio Sezione Larga Destra&lt;/font&gt;&#10;Allarga la sezione a tubo a destra"/>
+		<entry key="TrackElementTool_RiverRapidsWideStart" translation="&lt;font color='accent'&gt;Inizio Sezione Larga&lt;/font&gt;&#10;Allarga la sezione a tubo"/>
+		<entry key="TrackElementTool_SpinningStart" translation="&lt;font color='accent'&gt;Sblocca Rotazione Auto&lt;/font&gt;&#10;Sblocca l'abilità della vettura di ruotare liberamente sull'asse verticale."/>
+		<entry key="TrackElementTool_SpinningStop" translation="&lt;font color='accent'&gt;Blocca e Centra Rotazione Auto&lt;/font&gt;&#10;Blocca l'abilità della vettura di ruotare liberamente sull'asse verticale e riposiziona la rotazione della vettura al centro."/>
+		<entry key="TrackElementTool_Station" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;\nDove i visitatori salgono e scendono dai treni."/>
+		<entry key="TrackElementTool_StationLeftLeft" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;\nEntrata a Sinistra/ Uscita a Sinistra."/>
+		<entry key="TrackElementTool_StationLeftOff" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;&#10;Uscita a Sinistra."/>
+		<entry key="TrackElementTool_StationLeftOn" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;&#10;Entrata a Sinistra."/>
+		<entry key="TrackElementTool_StationLeftRight" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;\nEntrata a Sinistra/ Uscita a Destra."/>
+		<entry key="TrackElementTool_StationRightLeft" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;\nEntrata a Destra/ Uscita a Sinistra."/>
+		<entry key="TrackElementTool_StationRightOff" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;&#10;Uscita a Destra."/>
+		<entry key="TrackElementTool_StationRightOn" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;&#10;Entrata a Destra."/>
+		<entry key="TrackElementTool_StationRightRight" translation="&lt;font color='accent'&gt;Stazione&lt;/font&gt;\nEntrata a Destra/ Uscita a Destra."/>
 		<entry key="TrackElementTool_SteepslopeZeroGRollLeft" translation="OLD Steep Slope Zero-G Roll Left"/>
 		<entry key="TrackElementTool_SteepslopeZeroGRollRight" translation="OLD Steep Slope Zero-G Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_BananaRollLeft" translation="Banana Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_BananaRollRight" translation="Banana Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_BatwingLeft" translation="Batwing Left"/>
-		<entry key="TrackElementTool_TK_SP_BatwingRight" translation="Batwing Right"/>
-		<entry key="TrackElementTool_TK_SP_BowtieLeft" translation="Bowtie Left"/>
-		<entry key="TrackElementTool_TK_SP_BowtieRight" translation="Bowtie Right"/>
-		<entry key="TrackElementTool_TK_SP_ButterflyInversionLeft" translation="Butterfly Inversion Left"/>
-		<entry key="TrackElementTool_TK_SP_ButterflyInversionRight" translation="Butterfly Inversion Right"/>
-		<entry key="TrackElementTool_TK_SP_CobraRollLeft" translation="Cobra Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_CobraRollRight" translation="Cobra Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_CorkscrewLeft" translation="Corkscrew Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_CorkscrewRight" translation="Corkscrew Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_Corkscrew_InLeft" translation="Corkscrew Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_Corkscrew_InRight" translation="Corkscrew Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_Corkscrew_OutLeft" translation="Corkscrew Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_Corkscrew_OutRight" translation="Corkscrew Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_CutbackLeft" translation="Cutback Left"/>
+		<entry key="TrackElementTool_TK_SP_BananaRollLeft" translation="Banana Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_BananaRollRight" translation="Banana Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_BatwingLeft" translation="Batwing Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_BatwingRight" translation="Batwing Destro"/>
+		<entry key="TrackElementTool_TK_SP_BowtieLeft" translation="Bowtie Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_BowtieRight" translation="Bowtie Destro"/>
+		<entry key="TrackElementTool_TK_SP_ButterflyInversionLeft" translation="Inversione Butterfly Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_ButterflyInversionRight" translation="Inversione Butterfly Destra"/>
+		<entry key="TrackElementTool_TK_SP_CobraRollLeft" translation="Cobra Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_CobraRollRight" translation="Cobra Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_CorkscrewLeft" translation="Parte Centrale Corkscrew Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_CorkscrewRight" translation="Parte Centrale Corkscrew Destra"/>
+		<entry key="TrackElementTool_TK_SP_Corkscrew_InLeft" translation="Ingresso Corkscrew Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_Corkscrew_InRight" translation="Ingresso Corkscrew Destro"/>
+		<entry key="TrackElementTool_TK_SP_Corkscrew_OutLeft" translation="Uscita Corkscrew Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_Corkscrew_OutRight" translation="Uscita Corkscrew Destra"/>
+		<entry key="TrackElementTool_TK_SP_CutbackLeft" translation="Cutback Sinistro"/>
 		<entry key="TrackElementTool_TK_SP_CutbackRight" translation="Cutback Right"/>
-		<entry key="TrackElementTool_TK_SP_DemonicKnotLeft" translation="Demonic Knot Left"/>
-		<entry key="TrackElementTool_TK_SP_DemonicKnotRight" translation="Demonic Knot Right"/>
-		<entry key="TrackElementTool_TK_SP_DiveDropLeft" translation="Dive Drop Left"/>
-		<entry key="TrackElementTool_TK_SP_DiveDropRight" translation="Dive Drop Right"/>
-		<entry key="TrackElementTool_TK_SP_DiveLoopLeft" translation="Dive Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_DiveLoopRight" translation="Dive Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_Figure8HelixLeft" translation="Figure-of-8 Helix Left"/>
-		<entry key="TrackElementTool_TK_SP_Figure8HelixRight" translation="Figure-of-8 Helix Right"/>
-		<entry key="TrackElementTool_TK_SP_HalfHelix_DownLeft" translation="Half Helix Down Left"/>
-		<entry key="TrackElementTool_TK_SP_HalfHelix_DownRight" translation="Half Helix Down Right"/>
-		<entry key="TrackElementTool_TK_SP_HalfHelix_UpLeft" translation="Half Helix Up Left"/>
-		<entry key="TrackElementTool_TK_SP_HalfHelix_UpRight" translation="Half Helix Up Right"/>
-		<entry key="TrackElementTool_TK_SP_HalfLoop_Down" translation="Half Loop Down"/>
-		<entry key="TrackElementTool_TK_SP_HalfLoop_Up" translation="Half Loop Up"/>
-		<entry key="TrackElementTool_TK_SP_HammerHeadTurnLeft" translation="Hammerhead Turn Left"/>
-		<entry key="TrackElementTool_TK_SP_HammerHeadTurnRight" translation="Hammerhead Turn Right"/>
-		<entry key="TrackElementTool_TK_SP_HeartlineRollLeft" translation="Heartline Roll Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_HeartlineRollRight" translation="Heartline Roll Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_HeartlineRoll_InLeft" translation="Heartline Roll Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_HeartlineRoll_InRight" translation="Heartline Roll Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_HeartlineRoll_OutLeft" translation="Heartline Roll Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_HeartlineRoll_OutRight" translation="Heartline Roll Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_Helix_DownLeft" translation="Helix Down Left"/>
-		<entry key="TrackElementTool_TK_SP_Helix_DownRight" translation="Helix Down Right"/>
-		<entry key="TrackElementTool_TK_SP_Helix_UpLeft" translation="Helix Up Left"/>
-		<entry key="TrackElementTool_TK_SP_Helix_UpRight" translation="Helix Up Right"/>
-		<entry key="TrackElementTool_TK_SP_Immelmann_180Left" translation="Immelmann 180° Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_Immelmann_180Right" translation="Immelmann 180° Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_Immelmann_90Left" translation="Sidewinder Left"/>
-		<entry key="TrackElementTool_TK_SP_Immelmann_90Right" translation="Sidewinder Right"/>
-		<entry key="TrackElementTool_TK_SP_InclinedDiveLoopLeft" translation="Inclined Dive Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_InclinedDiveLoopRight" translation="Inclined Dive Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_InclinedLoop_45Left" translation="Inclined 45° Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_InclinedLoop_45Right" translation="Inclined 45° Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_InclinedLoop_80Left" translation="Inclined 80° Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_InclinedLoop_80Right" translation="Inclined 80° Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_InlineRollLeft" translation="Inline Roll Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_InlineRollRight" translation="Inline Roll Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_InlineRoll_InLeft" translation="Inline Roll Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_InlineRoll_InRight" translation="Inline Roll Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_InlineRoll_OutLeft" translation="Inline Roll Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_InlineRoll_OutRight" translation="Inline Roll Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_InlineTwistLeft" translation="Inline Twist Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_InlineTwistRight" translation="Inline Twist Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_InlineTwist_InLeft" translation="Inline Twist Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_InlineTwist_InRight" translation="Inline Twist Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_InlineTwist_OutLeft" translation="Inline Twist Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_InlineTwist_OutRight" translation="Inline Twist Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_NonInvLoopLeft" translation="Non-Inverted Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_NonInvLoopRight" translation="Non-Inverted Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_NorwegianLoopLeft" translation="Norwegian Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_NorwegianLoopRight" translation="Norwegian Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_OverbankedTurnLeft" translation="Overbanked Turn Left"/>
-		<entry key="TrackElementTool_TK_SP_OverbankedTurnRight" translation="Overbanked Turn Right"/>
-		<entry key="TrackElementTool_TK_SP_PretzelKnotLeft" translation="Pretzel Knot Left"/>
-		<entry key="TrackElementTool_TK_SP_PretzelKnotRight" translation="Pretzel Knot Right"/>
-		<entry key="TrackElementTool_TK_SP_PretzelLoopLeft" translation="Pretzel Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_PretzelLoopRight" translation="Pretzel Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_RavenTurnLeft" translation="Raven Turn Left"/>
-		<entry key="TrackElementTool_TK_SP_RavenTurnRight" translation="Raven Turn Right"/>
-		<entry key="TrackElementTool_TK_SP_RavenTurn_InvertedLeft" translation="Inverted Raven Turn Left"/>
-		<entry key="TrackElementTool_TK_SP_RavenTurn_InvertedRight" translation="Inverted Raven Turn Right"/>
-		<entry key="TrackElementTool_TK_SP_SeaSerpentLeft" translation="Sea Serpent Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_SeaSerpentRight" translation="Sea Serpent Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_SnakeDiveLeft" translation="Snake Dive Left"/>
-		<entry key="TrackElementTool_TK_SP_SnakeDiveRight" translation="Snake Dive Right"/>
+		<entry key="TrackElementTool_TK_SP_DemonicKnotLeft" translation="Demonic Knot Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_DemonicKnotRight" translation="Demonic Knot Destro"/>
+		<entry key="TrackElementTool_TK_SP_DiveDropLeft" translation="Dive Drop Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_DiveDropRight" translation="Dive Drop Destro"/>
+		<entry key="TrackElementTool_TK_SP_DiveLoopLeft" translation="Dive Loop Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_DiveLoopRight" translation="Dive Loop Destro"/>
+		<entry key="TrackElementTool_TK_SP_Figure8HelixLeft" translation="Elica a forma di 8 Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_Figure8HelixRight" translation="Elica a forma di 8 Destra"/>
+		<entry key="TrackElementTool_TK_SP_HalfHelix_DownLeft" translation="Mezza Elica in Giù Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_HalfHelix_DownRight" translation="Mezza Elica in Giù Destra"/>
+		<entry key="TrackElementTool_TK_SP_HalfHelix_UpLeft" translation="Mezza Elica in Sù Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_HalfHelix_UpRight" translation="Mezza Elica in Sù Destra"/>
+		<entry key="TrackElementTool_TK_SP_HalfLoop_Down" translation="Mezzo Loop in Giù"/>
+		<entry key="TrackElementTool_TK_SP_HalfLoop_Up" translation="Mezzo Loop in Sù"/>
+		<entry key="TrackElementTool_TK_SP_HammerHeadTurnLeft" translation="Hammerhead Turn Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_HammerHeadTurnRight" translation="Hammerhead Turn Destro"/>
+		<entry key="TrackElementTool_TK_SP_HeartlineRollLeft" translation="Parte Centrale Heartline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_HeartlineRollRight" translation="Parte Centrale Heartline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_HeartlineRoll_InLeft" translation="Ingresso Heartline Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_HeartlineRoll_InRight" translation="Ingresso Heartline Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_HeartlineRoll_OutLeft" translation="Uscita Heartline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_HeartlineRoll_OutRight" translation="Uscita Heartline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_Helix_DownLeft" translation="Elica in Giù Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_Helix_DownRight" translation="Elica in Giù Destra"/>
+		<entry key="TrackElementTool_TK_SP_Helix_UpLeft" translation="Elica in Sù Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_Helix_UpRight" translation="Elica in Sù Destra"/>
+		<entry key="TrackElementTool_TK_SP_Immelmann_180Left" translation="Loop Immelmann 180° Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_Immelmann_180Right" translation="Loop Immelmann 180° Destro"/>
+		<entry key="TrackElementTool_TK_SP_Immelmann_90Left" translation="Sidewinder Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_Immelmann_90Right" translation="Sidewinder Destro"/>
+		<entry key="TrackElementTool_TK_SP_InclinedDiveLoopLeft" translation="Dive Loop Inclinato Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_InclinedDiveLoopRight" translation="Dive Loop Inclinato Destro"/>
+		<entry key="TrackElementTool_TK_SP_InclinedLoop_45Left" translation="Loop Inclinato 45° Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_InclinedLoop_45Right" translation="Loop Inclinato 45° Destro"/>
+		<entry key="TrackElementTool_TK_SP_InclinedLoop_80Left" translation="Loop Inclinato 80° Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_InclinedLoop_80Right" translation="Loop Inclinato 80° Destro"/>
+		<entry key="TrackElementTool_TK_SP_InlineRollLeft" translation="Parte Centrale Inline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_InlineRollRight" translation="Parte Centrale Inline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_InlineRoll_InLeft" translation="Ingresso Inline Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_InlineRoll_InRight" translation="Ingresso Inline Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_InlineRoll_OutLeft" translation="Uscita Inline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_InlineRoll_OutRight" translation="Uscita Inline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_InlineTwistLeft" translation="Parte Centrale Inline Twist Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_InlineTwistRight" translation="Parte Centrale Inline Twist Destra"/>
+		<entry key="TrackElementTool_TK_SP_InlineTwist_InLeft" translation="Ingresso Inline Twist Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_InlineTwist_InRight" translation="Ingresso Inline Twist Destro"/>
+		<entry key="TrackElementTool_TK_SP_InlineTwist_OutLeft" translation="Uscita Inline Twist Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_InlineTwist_OutRight" translation="Uscita Inline Twist Destra"/>
+		<entry key="TrackElementTool_TK_SP_NonInvLoopLeft" translation="Loop Non Invertito Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_NonInvLoopRight" translation="Loop Non Invertito Destro"/>
+		<entry key="TrackElementTool_TK_SP_NorwegianLoopLeft" translation="Norwegian Loop Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_NorwegianLoopRight" translation="Norwegian Loop Destro"/>
+		<entry key="TrackElementTool_TK_SP_OverbankedTurnLeft" translation="Overbanked Turn Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_OverbankedTurnRight" translation="Overbanked Turn Destro"/>
+		<entry key="TrackElementTool_TK_SP_PretzelKnotLeft" translation="Pretzel Knot Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_PretzelKnotRight" translation="Pretzel Knot Destro"/>
+		<entry key="TrackElementTool_TK_SP_PretzelLoopLeft" translation="Pretzel Loop Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_PretzelLoopRight" translation="Pretzel Loop Destro"/>
+		<entry key="TrackElementTool_TK_SP_RavenTurnLeft" translation="Raven Turn Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_RavenTurnRight" translation="Raven Turn Destro"/>
+		<entry key="TrackElementTool_TK_SP_RavenTurn_InvertedLeft" translation="Raven Turn Invertito Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_RavenTurn_InvertedRight" translation="Raven Turn Invertito Destro"/>
+		<entry key="TrackElementTool_TK_SP_SeaSerpentLeft" translation="Sea Serpent Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_SeaSerpentRight" translation="Sea Serpent Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_SnakeDiveLeft" translation="Snake Dive Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_SnakeDiveRight" translation="Snake Dive Destro"/>
 		<entry key="TrackElementTool_TK_SP_TopHat" translation="Top Hat"/>
-		<entry key="TrackElementTool_TK_SP_TopHatInverted" translation="Inverted Top Hat"/>
-		<entry key="TrackElementTool_TK_SP_TwistedHorseShoeRollLeft" translation="Twisted Horseshoe Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_TwistedHorseShoeRollRight" translation="Twisted Horseshoe Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRollLeft" translation="Vertical Heartline Roll Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRollRight" translation="Vertical Heartline Roll Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_InLeft" translation="Vertical Heartline Roll Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_InRight" translation="Vertical Heartline Roll Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_OutLeft" translation="Vertical Heartline Roll Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_OutRight" translation="Vertical Heartline Roll Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineRollLeft" translation="Vertical Inline Roll Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineRollRight" translation="Vertical Inline Roll Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_InLeft" translation="Vertical Inline Roll Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_InRight" translation="Vertical Inline Roll Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_OutLeft" translation="Vertical Inline Roll Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_OutRight" translation="Vertical Inline Roll Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineTwistLeft" translation="Vertical Inline Twist Mid-Section Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineTwistRight" translation="Vertical Inline Twist Mid-Section Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_InLeft" translation="Vertical Inline Twist Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_InRight" translation="Vertical Inline Twist Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_OutLeft" translation="Vertical Inline Twist Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_OutRight" translation="Vertical Inline Twist Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalLoopLeft" translation="Vertical Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalLoopRight" translation="Vertical Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_VerticalLoopWideLeft" translation="Wide Vertical Loop Left"/>
-		<entry key="TrackElementTool_TK_SP_VerticalLoopWideRight" translation="Wide Vertical Loop Right"/>
-		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrewLeft" translation="Wraparound Corkscrew Left"/>
-		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrewRight" translation="Wraparound Corkscrew Right"/>
-		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_InLeft" translation="Wraparound Corkscrew Entry Left"/>
-		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_InRight" translation="Wraparound Corkscrew Entry Right"/>
-		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_OutLeft" translation="Wraparound Corkscrew Exit Left"/>
-		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_OutRight" translation="Wraparound Corkscrew Exit Right"/>
-		<entry key="TrackElementTool_TK_SP_ZeroGRollLeft" translation="Zero-G Roll Left"/>
-		<entry key="TrackElementTool_TK_SP_ZeroGRollRight" translation="Zero-G Roll Right"/>
-		<entry key="TrackElementTool_TK_SP_ZeroGStallLeft" translation="Zero-G Stall Left"/>
-		<entry key="TrackElementTool_TK_SP_ZeroGStallRight" translation="Zero-G Stall Right"/>
+		<entry key="TrackElementTool_TK_SP_TopHatInverted" translation="Top Hat Invertito"/>
+		<entry key="TrackElementTool_TK_SP_TwistedHorseShoeRollLeft" translation="Twisted Horseshoe Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_TwistedHorseShoeRollRight" translation="Twisted Horseshoe Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRollLeft" translation="Parte Centrale Vertical Heartline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRollRight" translation="Parte Centrale Vertical Heartline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_InLeft" translation="Ingresso Vertical Heartline Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_InRight" translation="Ingresso Vertical Heartline Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_OutLeft" translation="Uscita Vertical Heartline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalHeartlineRoll_OutRight" translation="Uscita Vertical Heartline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineRollLeft" translation="Parte Centrale Vertical Inline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineRollRight" translation="Parte Centrale Vertical Inline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_InLeft" translation="Ingresso Vertical Inline Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_InRight" translation="Ingresso Vertical Inline Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_OutLeft" translation="Uscita Vertical Inline Roll Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineRoll_OutRight" translation="Uscita Vertical Inline Roll Destra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineTwistLeft" translation="Parte Centrale Vertical Inline Twist Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineTwistRight" translation="Parte Centrale Vertical Inline Twist Destra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_InLeft" translation="Ingresso Vertical Inline Twist Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_InRight" translation="Ingresso Vertical Inline Twist Destro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_OutLeft" translation="Uscita Vertical Inline Twist Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalInlineTwist_OutRight" translation="Uscita Vertical Inline Twist Destra"/>
+		<entry key="TrackElementTool_TK_SP_VerticalLoopLeft" translation="Vertical Loop Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalLoopRight" translation="Vertical Loop Destro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalLoopWideLeft" translation="Wide Vertical Loop Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_VerticalLoopWideRight" translation="Wide Vertical Loop Destro"/>
+		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrewLeft" translation="Wraparound Corkscrew Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrewRight" translation="Wraparound Corkscrew Destro"/>
+		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_InLeft" translation="Ingresso Wraparound Corkscrew Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_InRight" translation="Ingresso Wraparound Corkscrew Destro"/>
+		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_OutLeft" translation="Uscita Wraparound Corkscrew Sinistra"/>
+		<entry key="TrackElementTool_TK_SP_WrapAroundCorkscrew_OutRight" translation="Uscita Wraparound Corkscrew Destra"/>
+		<entry key="TrackElementTool_TK_SP_ZeroGRollLeft" translation="Zero-G Roll Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_ZeroGRollRight" translation="Zero-G Roll Destro"/>
+		<entry key="TrackElementTool_TK_SP_ZeroGStallLeft" translation="Zero-G Stall Sinistro"/>
+		<entry key="TrackElementTool_TK_SP_ZeroGStallRight" translation="Zero-G Stall Destro"/>
 		<entry key="TrackElementTool_TestCorkscrewLeftIn" translation="OLD Corkscrew Left Entry"/>
 		<entry key="TrackElementTool_TestCorkscrewLeftOut" translation="OLD Corkscrew Left Exit"/>
 		<entry key="TrackElementTool_TestCorkscrewRightIn" translation="OLD Corkscrew Right Entry"/>
 		<entry key="TrackElementTool_TestCorkscrewRightOut" translation="OLD Corkscrew Right Exit"/>
-		<entry key="TrackElementTool_TorqueTopHat" translation="Tophat Loop"/>
-		<entry key="TrackElementTool_TrimBrakes" translation="&lt;font color='accent'&gt;Trim Brakes&lt;/font&gt;&#10;Used to trim speed of the train mid-run. More versatile than a friction or magnetic brake run, but more expensive."/>
+		<entry key="TrackElementTool_TorqueTopHat" translation="Loop Top Hat "/>
+		<entry key="TrackElementTool_TrimBrakes" translation="&lt;font color='accent'&gt;Freni di Assetto&lt;/font&gt;&#10;Utilizzati per ridurre la velocità del treno durante la corsa. Più versatile di un freno a frizione o magnetico, ma più costoso."/>
 		<entry key="TrackElementTool_batwingleft" translation="OLD Batwing Left"/>
 		<entry key="TrackElementTool_batwingright" translation="OLD Batwing Right"/>
 		<entry key="TrackElementTool_cobrarollleft" translation="OLD Cobra Roll Left"/>
@@ -19947,7 +19947,7 @@
 		<entry key="Train_Wend" translation="Wendigo"/>
 		<entry key="Train_WendJnr" translation="Wendigo"/>
 		<!--TriggeredEvents-->
-		<entry key="Trigger_Heading_UserTriggers" translation="Inneschi utente"/>
+		<entry key="Trigger_Heading_UserTriggers" translation="Inneschi Utente"/>
 		<entry key="TriggeredAudioEvents_Event_Default_Triggered_Audio_Event" translation="Silenzio"/>
 		<entry key="TriggeredAudioEvents_Event_KITT_VO_IAmTheVoice" translation="KITT VO 1: Sono la voce..."/>
 		<entry key="TriggeredAudioEvents_Event_KITT_VO_IbegYourPardon" translation="KITT VO 2: Chiedo scusa..."/>
@@ -19990,12 +19990,12 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy1" translation="Sussurri Sovrannaturali"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_GhostBy2" translation="Passaggio di Fantasma"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_GlassScratch" translation="Unghie Graffiano un Vetro"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Down" translation="Glockenspiel Glissando Giù"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Up" translation="Glockenspiel Glissando Su"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_1" translation="Glockenspiel Phrase 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_2" translation="Glockenspiel Phrase 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_3" translation="Glockenspiel Phrase 3"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_4" translation="Glockenspiel Phrase 4"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Down" translation="Xilofono che Glissa Giù"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Gliss_Up" translation="Xilofono che Glissa Sù"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_1" translation="Xilofono Frase 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_2" translation="Xilofono Frase 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_3" translation="Xilofono Frase 3"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Glockenspiel_Phrase_4" translation="Xilofono Frase 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gong" translation="Gong"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet" translation="Rimbalzo Proiettile 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gun_Ricochet2" translation="Rimbalzo Proiettile 2"/>
@@ -20004,12 +20004,12 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot2" translation="Sparo 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot3" translation="Sparo 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Gunshot4" translation="Sparo 4"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_High" translation="Arpa Glissando Giù Alto"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_Low" translation="Arpa Glissando Giù Basso"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_High" translation="Arpa Glissando Su Alto"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_Low" translation="Arpa Glissando Su Basso"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_1" translation="Arpa Phrase 1"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_2" translation="Arpa Phrase 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_High" translation="Arpa che Glissa Giù Alto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Down_Low" translation="Arpa che Glissa Giù Basso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_High" translation="Arpa che Glissa Su Alto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Gliss_Up_Low" translation="Arpa che Glissa Su Basso"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_1" translation="Arpa Frase 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Harp_Spooky_Phrase_2" translation="Arpa Frase 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Creaky_Squeaky_Metal" translation="Metallo Scricchiolante"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Creaky_Wood" translation="Legno Scricchiolante"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Horror_Demented_Laughter" translation="Risata Folle"/>
