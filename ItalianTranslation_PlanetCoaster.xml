@@ -2554,8 +2554,8 @@
 		<entry key="BuildingPartDesc_WD_Railing_Corner_A_4m" translation="Un'ampia ringhiera di legno."/>
 		<entry key="BuildingPartDesc_WD_RoofVeranda_B_4m" translation="Tetto con veranda e tegole in legno."/>
 		<entry key="BuildingPartDesc_WD_RoofVeranda_B_Bracket_01" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WD_RoofVeranda_B_LMitre" translation="Tetto con veranda e tegole in legno Left Corner."/>
-		<entry key="BuildingPartDesc_WD_RoofVeranda_B_RMitre" translation="Tetto con veranda e tegole in legno Right Corner."/>
+		<entry key="BuildingPartDesc_WD_RoofVeranda_B_LMitre" translation="Tetto con veranda e tegole in legno Angolo Sinistro."/>
+		<entry key="BuildingPartDesc_WD_RoofVeranda_B_RMitre" translation="Tetto con veranda e tegole in legno Angolo Destro."/>
 		<entry key="BuildingPartDesc_WD_RoundPole_A_05m" translation="Può essere utilizzato per qualsiasi cosa.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_RoundPole_A_2m" translation="Può essere utilizzato per qualsiasi cosa.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_RoundPole_A_4m" translation="Può essere utilizzato per qualsiasi cosa.&#10;Tema Western"/>
@@ -13788,7 +13788,7 @@
 		<entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Silenzia Musica Menu"/>
 		<entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Silenzia Musica Attrazioni"/>
 		<entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Silenzia Effetti Sonori"/>
-		<entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Silenzia la Radio dei Negozi"/>
+		<entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Silenzia Radio Negozi"/>
 		<entry key="OptionsMenu_Audio_MuteSoundtrackEntry" translation="Silenzia Colonna Sonora"/>
 		<entry key="OptionsMenu_Audio_ParkMusic" translation="Musica del Parco"/>
 		<entry key="OptionsMenu_Audio_SFX" translation="Effetti Sonori"/>
@@ -13926,25 +13926,25 @@
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Posiziona Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Elimina Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Alza/Abbassa Sentiero"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Alza/Abbassa Sentiero (Senza Posizionarlo)"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Ruota Angolo di giunzione"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Giunto ad Angolo Acuto"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Modifica Altezza"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Resetta Altezza"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Disabilita collegamento tra sentieri"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Attiva/Disattiva angoli fissi"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Lunghezza Sentiero"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Larghezza Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Alza Sentiero (Senza Posizionarlo)"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Abbassa Sentiero (Senza Posizionarlo)"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Ruota Angolo di giunzione"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Giunto ad Angolo Acuto"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Modifica Altezza"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Resetta Altezza"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Disabilita collegamento tra sentieri"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Attiva/Disattiva angoli fissi"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Diminuisci Lunghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_13" translation="Aumenta Lunghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_14" translation="Diminuisci Larghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_15" translation="Aumenta Larghezza Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Command_16" translation="Appiattisci Terreno"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Cancella Continuo"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} sull'anteprima Sentiero, quindi [MouseMoveV]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} sull'anteprima Giunzione, quindi [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, quando l'anteprima Sentiero raggiunge un Sentiero."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_17" translation="Attiva/Disattiva Cancella Sentiero"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="{#LogicalButton.MouseLeft#} su anteprima Sentiero, quindi [MouseMoveV]"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="{#LogicalButton.Editors_PathYJunctionModifier#} su anteprima Giunzione, quindi [MouseMove]"/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="{#LogicalButton.Editors_PathYJunctionModifier#}, quando l'anteprima Sentiero raggiunge un Sentiero"/>
 		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="{#LogicalButton.Editors_NoJoinModifier#} durante il posizionamento del Sentiero"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="Tieni premuto {#LogicalButton.Editors_PathDeleteModifier#} mentre ti trovi su un Sentiero."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_17" translation="Tieni premuto {#LogicalButton.Editors_PathDeleteModifier#} mentre ti trovi su un Sentiero"/>
 		<entry key="OptionsMenu_Controls_Rebind_Button" translation="Riassegna"/>
 		<entry key="OptionsMenu_Controls_Rebind_InProgress" translation="Riassegnazione Tasti in esecuzione "/>
 		<entry key="OptionsMenu_Controls_Rebind_InProgress_Label" translation="Premi e rilascia i pulsanti che desideri assegnare.&#10;Annullamento tra {Value:int} secondi..."/>
@@ -17992,7 +17992,7 @@
 		<entry key="Tag_Blueprint_TrackRide" translation="Circuiti di corse"/>
 		<entry key="Tag_Blueprint_Tracked" translation="Attrazioni a percorso"/>
 		<entry key="Tag_Blueprint_TransportRide" translation="Trasporti"/>
-		<entry key="Tag_Blueprint_WaterRide" translation="Corse d'acqua"/>
+		<entry key="Tag_Blueprint_WaterRide" translation="Attrazioni acquatiche"/>
 		<entry key="Tag_Blueprint_Wheel" translation="Attrazioni a Ruota"/>
 		<entry key="Tag_EditableText" translation="Testo modificabile"/>
 		<entry key="Tag_Triggerable" translation="Azionabili"/>
@@ -19256,7 +19256,7 @@
 		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Tonneau Right Description"/>
 		<entry key="TrackElementDesc_BlockSection" translation="Rallenta i treni fino a fermarli, per poi spingerli fuori quando la sezione successiva del tracciato è vuota. Richiede Sezioni Bloccanti attivato nelle impostazioni della montagna russa."/>
 		<entry key="TrackElementDesc_Booster" translation="Spinge i treni in avanti. Utile per spostare il treno in un altro servizio."/>
-		<entry key="TrackElementDesc_Brakes" translation="Rallenta i treni."/>
+		<entry key="TrackElementDesc_Brakes" translation="Rallentano i treni."/>
 		<entry key="TrackElementDesc_CableLift" translation="Descrizione Parte Centrale Salita trainante a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftEnd" translation="Descrizione Fine Salita trainante a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftEndCurved" translation="Termina una Salita trainante a Cavo che curva in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
@@ -19286,7 +19286,7 @@
 		<entry key="TrackElementDesc_LogSplashStart" translation="Comincia una sezione a spruzzi alla fine di una discesa"/>
 		<entry key="TrackElementDesc_LoopLeft" translation="OLD Loop Left Description"/>
 		<entry key="TrackElementDesc_LoopRight" translation="OLD Loop Right Description"/>
-		<entry key="TrackElementDesc_MagneticBrakes" translation="Rallenta i treni."/>
+		<entry key="TrackElementDesc_MagneticBrakes" translation="Rallentano i treni."/>
 		<entry key="TrackElementDesc_NormalTrack" translation="Semplice percorso standard."/>
 		<entry key="TrackElementDesc_NormalTrackHBeam" translation="Semplice percorso standard."/>
 		<entry key="TrackElementDesc_PhotoSection" translation="Fotografa i visitatori sui treni quando passano."/>
@@ -19446,7 +19446,7 @@
 		<entry key="TrackElementDesc_TestCorkscrewRightIn" translation="OLD Corkscrew Right Entry Description"/>
 		<entry key="TrackElementDesc_TestCorkscrewRightOut" translation="OLD Corkscrew Right Exit Description"/>
 		<entry key="TrackElementDesc_TorqueTopHat" translation="Descrizione Loop Top Hat"/>
-		<entry key="TrackElementDesc_TrimBrakes" translation="Utilizzati per ridurre la velocità del treno durante la corsa. Più versatile di un freno a frizione o magnetico, ma più costoso."/>
+		<entry key="TrackElementDesc_TrimBrakes" translation="Utilizzati per ridurre la velocità del treno durante la corsa. Più versatili di un freno a frizione o magnetico, ma più costosi."/>
 		<entry key="TrackElementDesc_batwingleft" translation="OLD Batwing Left Description"/>
 		<entry key="TrackElementDesc_batwingright" translation="OLD Batwing Right Description"/>
 		<entry key="TrackElementDesc_cobrarollleft" translation="OLD Cobra Roll Left Description"/>
@@ -19697,7 +19697,7 @@
 		<entry key="TrackElementTool_BarrelRollRight" translation="OLD Tonneau Right"/>
 		<entry key="TrackElementTool_BlockSection" translation="&lt;font color='accent'&gt;Sezione Bloccante&lt;/font&gt;\nRallenta i treni fino a fermarli, per poi spingerli fuori quando la sezione successiva del tracciato è vuota."/>
 		<entry key="TrackElementTool_Booster" translation="&lt;font color='accent'&gt;Sezione a Pneumatici&lt;/font&gt;\nSpinge i treni in avanti lentamente."/>
-		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Freni a Frizione&lt;/font&gt;\nRallenta i treni."/>
+		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Freni a Frizione&lt;/font&gt;\nRallentano i treni."/>
 		<entry key="TrackElementTool_CableLift" translation="Parte Centrale Salita trainante a Cavo"/>
 		<entry key="TrackElementTool_CableLiftEnd" translation="Fine Salita trainante a Cavo"/>
 		<entry key="TrackElementTool_CableLiftEndCurved" translation="&lt;font color='accent'&gt;Fine Salita trainante a Cavo Curva&lt;/font&gt;&#10;Termina una Salita trainante a Cavo curvata in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
@@ -19718,7 +19718,7 @@
 		<entry key="TrackElementTool_LSM" translation="&lt;font color='accent'&gt;Motore Sincrono Lineare&lt;/font&gt;\nSpinge i treni in velocità lungo il\ntracciato."/>
 		<entry key="TrackElementTool_LogDropEnd" translation="&lt;font color='accent'&gt;Fine Discesa&lt;/font&gt;&#10;Termina una discesa"/>
 		<entry key="TrackElementTool_LogDropMid" translation="&lt;font color='accent'&gt;Parte Centrale Discesa&lt;/font&gt;&#10;Estende la lunghezza di una discesa"/>
-		<entry key="TrackElementTool_LogDropStart" translation="&lt;font color='accent'&gt;Inizio Discesat&lt;/font&gt;&#10;Inizia una discesa per la barca"/>
+		<entry key="TrackElementTool_LogDropStart" translation="&lt;font color='accent'&gt;Inizio Discesa&lt;/font&gt;&#10;Inizia una discesa per la barca"/>
 		<entry key="TrackElementTool_LogLiftEnd" translation="&lt;font color='accent'&gt;Fine Salita trainante con Nastro Trasportatore&lt;/font&gt;&#10;Termina una salita"/>
 		<entry key="TrackElementTool_LogLiftMid" translation="&lt;font color='accent'&gt;Parte Centrale Salita trainante con Nastro Trasportatore&lt;/font&gt;&#10;Solleva la barca in salita"/>
 		<entry key="TrackElementTool_LogLiftStart" translation="&lt;font color='accent'&gt;Inizio Salita trainante con Nastro Trasportatore&lt;/font&gt;&#10;Comincia a sollevare la barca in salita"/>
@@ -19727,7 +19727,7 @@
 		<entry key="TrackElementTool_LogSplashStart" translation="&lt;font color='accent'&gt;Inizio Sezione a Spruzzi&lt;/font&gt;&#10;Comincia una sezione a spruzzi alla fine di una discesa"/>
 		<entry key="TrackElementTool_LoopLeft" translation="OLD Loop Left"/>
 		<entry key="TrackElementTool_LoopRight" translation="OLD Loop Right"/>
-		<entry key="TrackElementTool_MagneticBrakes" translation="&lt;font color='accent'&gt;Freni Magnetici&lt;/font&gt;\nRallenta i treni."/>
+		<entry key="TrackElementTool_MagneticBrakes" translation="&lt;font color='accent'&gt;Freni Magnetici&lt;/font&gt;\nRallentano i treni."/>
 		<entry key="TrackElementTool_NormalTrack" translation="&lt;font color='accent'&gt;Percorso Standard&lt;/font&gt;\nSemplice percorso standard."/>
 		<entry key="TrackElementTool_NormalTrackHBeam" translation="&lt;font color='accent'&gt;Percorso Standard Stile H-Beam&lt;/font&gt;\nSemplice percorso standard."/>
 		<entry key="TrackElementTool_PhotoSection" translation="&lt;font color='accent'&gt;Sezione Fotografie&lt;/font&gt;\nFotografa i visitatori sui treni quando passano."/>
@@ -19779,7 +19779,7 @@
 		<entry key="TrackElementTool_TK_SP_Corkscrew_OutLeft" translation="Uscita Corkscrew Sinistra"/>
 		<entry key="TrackElementTool_TK_SP_Corkscrew_OutRight" translation="Uscita Corkscrew Destra"/>
 		<entry key="TrackElementTool_TK_SP_CutbackLeft" translation="Cutback Sinistro"/>
-		<entry key="TrackElementTool_TK_SP_CutbackRight" translation="Cutback Right"/>
+		<entry key="TrackElementTool_TK_SP_CutbackRight" translation="Cutback Destro"/>
 		<entry key="TrackElementTool_TK_SP_DemonicKnotLeft" translation="Demonic Knot Sinistro"/>
 		<entry key="TrackElementTool_TK_SP_DemonicKnotRight" translation="Demonic Knot Destro"/>
 		<entry key="TrackElementTool_TK_SP_DiveDropLeft" translation="Dive Drop Sinistro"/>
@@ -19887,7 +19887,7 @@
 		<entry key="TrackElementTool_TestCorkscrewRightIn" translation="OLD Corkscrew Right Entry"/>
 		<entry key="TrackElementTool_TestCorkscrewRightOut" translation="OLD Corkscrew Right Exit"/>
 		<entry key="TrackElementTool_TorqueTopHat" translation="Loop Top Hat "/>
-		<entry key="TrackElementTool_TrimBrakes" translation="&lt;font color='accent'&gt;Freni di Assetto&lt;/font&gt;&#10;Utilizzati per ridurre la velocità del treno durante la corsa. Più versatile di un freno a frizione o magnetico, ma più costoso."/>
+		<entry key="TrackElementTool_TrimBrakes" translation="&lt;font color='accent'&gt;Freni di Assetto&lt;/font&gt;&#10;Utilizzati per ridurre la velocità del treno durante la corsa. Più versatili di un freno a frizione o magnetico, ma più costosi."/>
 		<entry key="TrackElementTool_batwingleft" translation="OLD Batwing Left"/>
 		<entry key="TrackElementTool_batwingright" translation="OLD Batwing Right"/>
 		<entry key="TrackElementTool_cobrarollleft" translation="OLD Cobra Roll Left"/>
@@ -19936,8 +19936,8 @@
 		<entry key="Train_SleighRide" translation="Corsa in Slitta"/>
 		<entry key="Train_Sp500" translation="Sprint 500"/>
 		<entry key="Train_SuperDrift" translation="Super Drift"/>
-		<entry key="Train_TK_010_CableHookCar" translation="Track 10 Cable Lift Hook Car"/>
-		<entry key="Train_TK_010_CatchCar" translation="Track 10 Catch Car"/>
+		<entry key="Train_TK_010_CableHookCar" translation="Gancio di Traino Track 10"/>
+		<entry key="Train_TK_010_CatchCar" translation="Slitta di Lancio Track 10"/>
 		<entry key="Train_TMat" translation="Tiamat"/>
 		<entry key="Train_TPil" translation="Test Pilot"/>
 		<entry key="Train_TheMunsters" translation="The Munsters"/>
