@@ -477,9 +477,9 @@
 		<entry key="Blueprints_PirateGiftsDesc" translation="I visitatori vogliono sempre qualcosa che gli ricordi il loro viaggio."/>
 		<entry key="Blueprints_PirateGoldFountain" translation="Fontana d'Oro"/>
 		<entry key="Blueprints_PirateGoldFountainDesc" translation="Lancia qualche monetina dentro la fontana dei pirati e potresti evocare il fastidioso spirito del pappagallo del capitano Coaster!"/>
-  	<entry key="Blueprints_PirateInfo1" translation="Cabina delle informazioni Piratesca"/>
-		<entry key="Blueprints_PirateInfo1Desc" translation="Una cabina delle informazioni a tema piratesco"/>
-		<entry key="Blueprints_PirateInfo2" translation="Chiosco informativo Piratesco"/>
+  	<entry key="Blueprints_PirateInfo1" translation="Chiosco Informazioni Piratesco"/>
+		<entry key="Blueprints_PirateInfo1Desc" translation="Un chiosco delle informazioni a tema piratesco"/>
+		<entry key="Blueprints_PirateInfo2" translation="Chiosco Informazioni Piratesco"/>
 		<entry key="Blueprints_PirateInfo2Desc" translation="Hai perso la mappa del tuo tesoro nascosto? forse noi possiamo aiutarti!"/>
 		<entry key="Blueprints_PirateLargeEnt" translation="Entrata piratesca Grande"/>
 		<entry key="Blueprints_PirateLargeEntDesc" translation="Se vuoi avere più visitatori nel tuo parco ispirato ai grandi mari, questo potrebbe essere un ottimo inizio!"/>
@@ -563,8 +563,8 @@
 		<entry key="Blueprints_SciFiFountainDesc" translation="Le fontane nello spazio non funzionano benissimo a causa della gravità, questa fontana ne ha uno proprio...molto utile."/>
   	<entry key="Blueprints_SciFiGifts" translation="Negozio di souvenir Sci-fi"/>
 		<entry key="Blueprints_SciFiGiftsDesc" translation="Non viaggi fino a Marte per tornare senza nulla. Qualsiasi astronauta vuole un ricordino da portare con se."/>
-		<entry key="Blueprints_SciFiInfo" translation="Cabina informativa Sci-fi"/>
-		<entry key="Blueprints_SciFiInfoDesc" translation="Diciamocelo chiaramente, l'universo è abbastanza grande e ci si potrebbe perdere. Magari con questa cabina spaziale i visitatori riusciranno a orientarsi?"/>
+		<entry key="Blueprints_SciFiInfo" translation="Chiosco Informazioni Sci-fi"/>
+		<entry key="Blueprints_SciFiInfoDesc" translation="Diciamocelo chiaramente, l'universo è abbastanza grande e ci si potrebbe perdere. Magari con questo chiosco spaziale i visitatori riusciranno a orientarsi?"/>
   	<entry key="Blueprints_SciFiLargeEnt" translation="Entrata Sci-fi grande"/>
 		<entry key="Blueprints_SciFiLargeEntDesc" translation="Puoi continuare a costruire su questa grande porta a tema e fonderti con il pianeta...o con una stazione spaziale."/>
   	<entry key="Blueprints_SciFiParkSet" translation="Il viaggio dello Sputnik"/>
@@ -623,7 +623,7 @@
 		<entry key="Blueprints_TravellersCamp" translation="Accampamento viaggiatori"/>
 		<entry key="Blueprints_TravellersCampDesc" translation="Un accampamento per i viaggiatori e i festaioli"/>
 		<entry key="Blueprints_TreasurePile" translation="Pila di Tesori"/>
-		<entry key="Blueprints_TreasurePileDesc" translation=" ooohh Arghhh, ecco l'oro!"/>
+		<entry key="Blueprints_TreasurePileDesc" translation=" Ooohh Arghhh, ecco l'Oro!"/>
 		<entry key="Blueprints_TridentBlueprint01" translation="Cortez"/>
 		<entry key="Blueprints_TridentBlueprint01Desc" translation="Uno schema per il coaster Boomerang"/>
 		<entry key="Blueprints_UFO" translation="UFO"/>
@@ -639,10 +639,10 @@
 		<entry key="Blueprints_VillageFoodKioskDesc" translation="Villaggio Fatato - Chiosco del Cibo"/>
 		<entry key="Blueprints_VillageHatShop" translation="Villaggio Fatato Negozio Di Cappelli"/>
 		<entry key="Blueprints_VillageHatShopDesc" translation="Villaggio Fatato Negozio Di Cappelli"/>
-		<entry key="Blueprints_VillageInformationBooth" translation="Villaggio Fatato - cabina delle informazioni "/>
-		<entry key="Blueprints_VillageInformationBoothDesc" translation="Villaggio Fatato - cabina delle informazioni"/>
-		<entry key="Blueprints_VillageToiletFacility" translation="Villaggio Fatato - bagni"/>
-		<entry key="Blueprints_VillageToiletFacilityDesc" translation="Villaggio Fatato - bagni"/>
+		<entry key="Blueprints_VillageInformationBooth" translation="Villaggio Fatato - Chiosco delle informazioni "/>
+		<entry key="Blueprints_VillageInformationBoothDesc" translation="Villaggio Fatato - Chiosco delle informazioni"/>
+		<entry key="Blueprints_VillageToiletFacility" translation="Villaggio Fatato - Bagni"/>
+		<entry key="Blueprints_VillageToiletFacilityDesc" translation="Villaggio Fatato - Bagni"/>
 		<entry key="Blueprints_VillageWindmill" translation="Mulino a vento del Villaggio Fatato"/>
 		<entry key="Blueprints_VillageWindmillDesc" translation="Mulino a vento del Villaggio Fatato"/>
 		<entry key="Blueprints_WW_Sawmill" translation="Segheria"/>
@@ -660,26 +660,26 @@
 		<entry key="Blueprints_WerewolfBlueprint01" translation="Thalatte"/>
 		<entry key="Blueprints_WerewolfBlueprint01Desc" translation="Uno schema per il coaster Senza Fondo"/>
 		<entry key="Blueprints_WesternATM" translation="Bancomat Western"/>
-		<entry key="Blueprints_WesternATMDesc" translation="Gli sceriffi controllano sempre questo distributore, ma non li si vede in giro da un po..."/>
+		<entry key="Blueprints_WesternATMDesc" translation="Lo sceriffo controlla sempre questo distributore, ma non lo si vede in giro da un po...Dicono abbia lasciato il paese!"/>
 		<entry key="Blueprints_WesternCollection" translation="Pianeta Selvaggio West"/>
 		<entry key="Blueprints_WesternCollectionDesc" translation="Una bellissima scenografia ispirata al selvaggio West."/>
 		<entry key="Blueprints_WesternDrinks" translation="Chiosco di bevande western"/>
-		<entry key="Blueprints_WesternDrinksDesc" translation="Non soffrire il secco caldo del deserto, rinfrescatevi con le dissetanti bevande di questo chiosco."/>
+		<entry key="Blueprints_WesternDrinksDesc" translation="Non soffrire nel secco caldo del deserto, rinfrescati con le dissetanti bevande di questo chiosco."/>
 		<entry key="Blueprints_WesternFacilities" translation="Strutture Western"/>
-		<entry key="Blueprints_WesternFacilitiesDesc" translation="Qualsiasi cittadina western sarebbe fiera di avere queste strutture ad arredare le proprie strade."/>
+		<entry key="Blueprints_WesternFacilitiesDesc" translation="Qualsiasi cittadina western sarebbe fiera di avere queste strutture nelle proprie strade polverose."/>
 		<entry key="Blueprints_WesternFirstAid" translation="Infermeria Western"/>
-		<entry key="Blueprints_WesternFirstAidDesc" translation="Doc Brown aiuterà i visitatori coi loro problemi di salute somministrandogli del buon vecchio olio di serpente fashun!"/>
+		<entry key="Blueprints_WesternFirstAidDesc" translation="Doc Brown aiuterà i visitatori con i loro problemi di salute somministrandogli del buon olio di serpente vecchio stile!"/>
 		<entry key="Blueprints_WesternFood" translation="Chiosco del cibo Western"/>
 		<entry key="Blueprints_WesternFood2" translation="Relitto di una piccola barca 2"/>
 		<entry key="Blueprints_WesternFood2Desc" translation="Non abbiamo solo fagioli nel selvaggio west, ai visitatori piacerà tutto quello che c'è nel menù."/>
 		<entry key="Blueprints_WesternFoodDesc" translation="Non abbiamo solo fagioli nel selvaggio west, ai visitatori piacerà tutto quello che c'è nel menù."/>
 		<entry key="Blueprints_WesternFountain" translation="Fontana Western"/>
 		<entry key="Blueprints_WesternFountain2" translation="La fontana della corsa all'oro"/>
-		<entry key="Blueprints_WesternFountain2Desc" translation="Potresti cercare qui il tuo oro..ma di solito si cerca nei letti del fiume, non nelle fontane."/>
+		<entry key="Blueprints_WesternFountain2Desc" translation="Potresti cercare qui il tuo oro.. ma di solito si cerca nel letto del fiume, non nelle fontane."/>
 		<entry key="Blueprints_WesternFountainDesc" translation="Non abbiamo molta acqua nel deserto, ma quando ne troviamo la usiamo a scopi decorativi."/>
 		<entry key="Blueprints_WesternGifts" translation="Negozio di souvenir Western"/>
 		<entry key="Blueprints_WesternGiftsDesc" translation="Un negozio in vecchissimo stile Western fatto apposta per l'area villaggio cowboy del parco"/>
-		<entry key="Blueprints_WesternInfo" translation="Cabina di informazioni Western"/>
+		<entry key="Blueprints_WesternInfo" translation="Chiosco informazioni Western"/>
 		<entry key="Blueprints_WesternInfoDesc" translation="Se trovate il parco disorientante potete trovare le nostre cartine qui!"/>
 		<entry key="Blueprints_WesternLargeEnt" translation="Entrata Western grande"/>
 		<entry key="Blueprints_WesternLargeEntDesc" translation="Una gigantesca entrata in puro stile selvaggio west."/>
@@ -688,17 +688,17 @@
 		<entry key="Blueprints_WesternParkSet2Desc" translation="Questo set di decorazioni convincerà i vostri visitatori di trovarsi nelle lande dei pionieri!"/>
 		<entry key="Blueprints_WesternParkSetDesc" translation="Questo set di decorazioni convincerà i vostri visitatori di trovarsi nelle lande dei pionieri!"/>
 		<entry key="Blueprints_WesternScenery" translation="Avventure d'altri tempi."/>
-		<entry key="Blueprints_WesternSceneryDesc" translation="Alcuni vecchi set di design per intrattenere i tuoi visitatori mentre sono in fila."/>
+		<entry key="Blueprints_WesternSceneryDesc" translation="Alcuni set tematici vecchio stile per intrattenere i tuoi visitatori mentre sono in fila."/>
 		<entry key="Blueprints_WesternSceneryPlanet" translation="C'è dell'oro in quelle montagne!"/>
-		<entry key="Blueprints_WesternSceneryPlanetDesc" translation="Se costruisci la giusta scenografia nel posto giusto, i tuoi visitatori potranno trovare l'oro."/>
+		<entry key="Blueprints_WesternSceneryPlanetDesc" translation="Se costruisci la giusta scenografia nel posto giusto, raggranellerai l'oro dai tuoi visitatori."/>
 		<entry key="Blueprints_WesternShopping" translation="Area Shopping Western"/>
-		<entry key="Blueprints_WesternShoppingDesc" translation="L'area Shopping inizia alla frontiera, ampio parecchio per treni a vapore e vagoni."/>
+		<entry key="Blueprints_WesternShoppingDesc" translation="Il centro commerciale è stato inaugurato alla FrontieraI Abbastanza parcheggio per un intero treno di vagoni."/>
 		<entry key="Blueprints_WesternSmallEnt" translation="Piccola entrata Western"/>
-		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è nulla di male a iniziare il proprio parco con quest'entrata."/>
+		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è niente di meglio che iniziare il proprio parco con quest'entrata."/>
 		<entry key="Blueprints_WesternThemedShops" translation="Negozi a tema Western"/>
-		<entry key="Blueprints_WesternThemedShopsDesc" translation="I Visitatori che attraversano il parco, potranno fermarsi qui per portarsi a casa Guests riding through town are bound to stop off here to make use of the facilities."/>
+		<entry key="Blueprints_WesternThemedShopsDesc" translation="I Visitatori che girano per il parco potranno fermarsi qui per approfittare delle strutture"/>
 		<entry key="Blueprints_WesternToilets" translation="Blocco di bagni Western"/>
-		<entry key="Blueprints_WesternToiletsDesc" translation="I Cowboys hanno richiesto dei bagni per loro, per favore lavatevi le mani e niente cavalli..."/>
+		<entry key="Blueprints_WesternToiletsDesc" translation="I Cowboys hanno richiesto dei bagni per loro. Per favore lavatevi le mani. Ah.. e niente cavalli..."/>
 		<entry key="Blueprints_WitchTreeHouse" translation="Casa sull'albero della Strega"/>
 		<entry key="Blueprints_WitchTreeHouseDesc" translation="Fuoco scoppiettante e calderone ribollente, la casa di questa strega di buono non ha niente!"/>
 		<entry key="Blueprints_WoodenBlueprint01" translation="The High Seas"/>
@@ -713,7 +713,7 @@
 		<entry key="Build_Widgets_Exit" translation="Esci dalla Modalità Avanzata"/>
 		<entry key="Build_Widgets_Move" translation="Sposta"/>
 		<entry key="Build_Widgets_Object_Axis" translation="Usa Assi relativi"/>
-		<entry key="Build_Widgets_RequiresMove" translation="Questo oggetto dev'essere spostato prima di poter essere posizionato."/>
+		<entry key="Build_Widgets_RequiresMove" translation="Questo oggetto deve essere spostato prima di poter essere posizionato."/>
 		<entry key="Build_Widgets_Reset" translation="Resetta"/>
 		<entry key="Build_Widgets_Rotate" translation="Ruota (X)"/>
 		<entry key="Build_Widgets_SurfaceMove" translation="Muovi sulla Superficie (M)"/>
@@ -3334,7 +3334,7 @@
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile_Group" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_ZigZag" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_StreetLamp" translation="Il dolce profumo dei festeggiamenti.&#10;Tema Festivo"/>
-	 <entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
+	  <entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBin" translation="A così tanti dolci corrispondono tante cartacce...&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Window_01" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Window_02" translation="Glassa&#10;Tema Festivo"/>
@@ -3407,8 +3407,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_CVRN" translation="Un'esotica grotta è stata scoperta e riservati permessi di pianificazione ti concedono l'opportunità di creare un parco unico in questo particolare habitat! Costruire in superficie è severamente vietato, il numero di visitatori estremamente limitato, per cui è necessario conquistare le profondità per garantire il successo di questa impresa."/>
 		<entry key="FrontEndMenu_ScenarioDetails_NOMO" translation="Dovrai essere in forma smagliante per affrontare questa situazione! Gli ex proprietari hanno abbandonato questo parco, lasciandolo in condizioni disastrose; bilancio in negativo, un grosso prestito da restituire, layout ridicolo e alcune attrazioni gravemente inefficienti. Invertire le sue sorti sarà un vero e proprio miracolo."/>
 		<entry key="FrontEndMenu_ScenarioDetails_WNTR" translation="E' tempo di scartare i nostri piani per un parco a tema festivo in questa gioiosa location. Ricorda solo che il denaro a disposizione fa parte di un prestito, non è un regalo! Addobba il tuo paradiso invernale con uno scenario adeguato e attira le allegre folle da ogni dove."/>
-
-	<entry key="FrontEndMenu_ScenarioName_CVRN" translation="Coaster Cavernosi"/>
+  	<entry key="FrontEndMenu_ScenarioName_CVRN" translation="Coaster Cavernosi"/>
 		<entry key="FrontEndMenu_ScenarioName_NOMO" translation="Ritorno dal Baratro"/>
 		<entry key="FrontEndMenu_ScenarioName_WNTR" translation="Terre Gioiose"/>
 		<entry key="FrontEndMenu_SetDescription_CNGL" translation="Porta un pò di allegria a Re Coaster Festivo"/>
@@ -3520,8 +3519,8 @@
 		<entry key="BuildingPartDesc_HOL_ChristmasTree_01" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ChristmasTree_02" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_CoconutSlice" translation="Delizioso zucchero.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Coconut_Cube" translation="Delicious sugar.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Coconut_Cube_Pink" translation="Delicious sugar.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Coconut_Cube" translation="Delizioso zucchero.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Coconut_Cube_Pink" translation="Delizioso zucchero.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ComplexBauble" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ComplexBauble_Small" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ConeWafer" translation="Decorazione per gelato.&#10;Tema Festivo"/>
@@ -17851,7 +17850,7 @@
 		<entry key="Browser_Cat_Shop_Info" translation="Informazioni"/>
 		<entry key="Browser_Cat_Shop_Other" translation="Altro"/>
 		<entry key="Browser_Cat_Shop_ParkEntrance" translation="Entrata del parco"/>
-		<entry key="Browser_Cat_Shop_TicketBooth" translation="Cabine dei biglietti"/>
+		<entry key="Browser_Cat_Shop_TicketBooth" translation="Chioschi dei biglietti"/>
 		<entry key="Browser_Cat_Shop_Toilet" translation="Bagni"/>
 		<entry key="Browser_SubCat_Attach_Decorations" translation="Decorazioni per finestre"/>
 		<entry key="Browser_SubCat_Attach_Doors" translation="Porte"/>
