@@ -32,14 +32,14 @@
 		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato&#10; La prima vettura che passerà oltre questo punto lo attiverà."/>
 		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Crea una Sequenza d'Innesco"/>
 		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Tracciato"/>
-		<entry key="AdvancedTriggerEditor_Play" translation="Testa attivazione sugli oggetti collegati"/>
+		<entry key="AdvancedTriggerEditor_Play" translation="Prova attivazione sugli oggetti collegati"/>
 		<entry key="AdvancedTriggerEditor_PlayTriggerSequence" translation="Avvia Sequenza Innesco"/>
 		<entry key="AdvancedTriggerEditor_PlayerTime" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"/>
 		<entry key="AdvancedTriggerEditor_Racing_LapN" translation="Giro {VALUE:separatedFloat:decimalPlaces=0}"/>
-		<entry key="AdvancedTriggerEditor_Racing_LapStepper" translation="Attiva solo su Giro"/>
-		<entry key="AdvancedTriggerEditor_Racing_PlaceStepper" translation="Attiva solo su Posizione"/>
+		<entry key="AdvancedTriggerEditor_Racing_LapStepper" translation="Attiva solo al Giro"/>
+		<entry key="AdvancedTriggerEditor_Racing_PlaceStepper" translation="Attiva solo per il go-kart nella Posizione"/>
 		<entry key="AdvancedTriggerEditor_Racing_TriggerAllLaps" translation="Attiva su tutti i Giri"/>
-		<entry key="AdvancedTriggerEditor_Racing_TriggerAllPlaces" translation="Attiva su tutte le Posizioni"/>
+		<entry key="AdvancedTriggerEditor_Racing_TriggerAllPlaces" translation="Attiva per tutti i go-karts"/>
 		<entry key="AdvancedTriggerEditor_Racing_VictoryLap" translation="Giro della Vittoria"/>
 		<entry key="AdvancedTriggerEditor_RemoveFromGroupToolTip" translation="Scollega da questo Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_RemoveFromTriggerToolTip" translation="Scollega da questo Innesco"/>
@@ -56,14 +56,14 @@
 		<entry key="AdvancedTriggerEditor_ScenerySelectGetMoreButton" translation="Ottieni più Scenari Innescabili"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedLabel" translation="Scenari Innescabili Selezionati"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedListLabel" translation="Scenari Innescabili"/>
-		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedToolTip" translation="Scenari Innescabili Selezionati al momento"/>
+		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedToolTip" translation="Scenari Innescabili attualmente Selezionati "/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectSubTitle" translation="Collega Scenari Innescabili"/>
 		<entry key="AdvancedTriggerEditor_ScenerySelectTitle" translation="Selettore Scenari Innescabili"/>
 		<entry key="AdvancedTriggerEditor_SelectObjectToAdd" translation="Seleziona Oggetti da collegare"/>
 		<entry key="AdvancedTriggerEditor_SequencerEditTriggersDescription" translation="Aggiungi Gruppi Scenici e modifica gli oggetti innescabili in ogni gruppo, per creare una sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerEditTriggersTitle" translation="Modifica Sequenza Innesco"/>
-		<entry key="AdvancedTriggerEditor_SequencerGroupAddItems" translation="Collega Oggetti a Gruppo"/>
+		<entry key="AdvancedTriggerEditor_SequencerGroupAddItems" translation="Collega Oggetti al Gruppo"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipDisabled" translation="Non puoi collegare altri oggetti a questo Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupAddItemsToolTipEnabled" translation="Collega oggetti innescabili al Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_SequencerGroupLabelDefault" translation="Gruppo Scenico"/>
@@ -71,7 +71,7 @@
 		<entry key="AdvancedTriggerEditor_SequencerLenthValueLabel" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2} - {LoopType}"/>
 		<entry key="AdvancedTriggerEditor_SequencerPopUpDescription" translation="I Gruppi Scenici si innescano solo dopo il tempo d'attesa specificato da quando si attiva la Console"/>
 		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="La mia Sequenza"/>
-		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Inizia Sequenza"/>
+		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Riproduci Sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Console Inneschi"/>
 		<entry key="AdvancedTriggerEditor_Sort" translation="Ordina Tutti"/>
 		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e gli oggetti"/>
@@ -79,7 +79,7 @@
 		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelection" translation="Collega altoparlanti alla Console"/>
 		<entry key="AdvancedTriggerEditor_SpeakerConfirmSelectionTooManyItems" translation="Troppi altoparlanti da collegare"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableLabel" translation="Altoparlanti Disponibili"/>
-		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Display disponibili nel parco"/>
+		<entry key="AdvancedTriggerEditor_SpeakerSelectAvailableToolTip" translation="Altoparlanti disponibili nel parco"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectDescription" translation="Usa lo strumento Selezione Multipla per selezionare e collegare gli altoparlanti"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedLabel" translation="Altoparlanti Selezionati"/>
 		<entry key="AdvancedTriggerEditor_SpeakerSelectSelectedListLabel" translation="Altoparlanti Selezionati"/>
@@ -110,23 +110,23 @@
 		<entry key="AvatarCreator_EditGroup" translation="Modifica Gruppo"/>
 		<entry key="AvatarCreator_EditGroupDesc" translation="Modifica il tuo gruppo esistente."/>
 		<entry key="AvatarCreator_FamilyGroup" translation="Gruppo Famiglia"/>
-		<entry key="AvatarCreator_FamilyGroupDesc" translation="Bambini accompagnati da Adulti possono essere aggiunti."/>
+		<entry key="AvatarCreator_FamilyGroupDesc" translation="Possono essere aggiunti Bambini accompagnati da Adulti."/>
 		<entry key="AvatarCreator_GroupType" translation="Tipo di Gruppo"/>
 		<entry key="AvatarCreator_InvalidGroup" translation="Questo gruppo ha un set di membri non valido."/>
-		<entry key="AvatarCreator_InvalidGrouptitle" translation="Gruppo Invalido"/>
+		<entry key="AvatarCreator_InvalidGrouptitle" translation="Gruppo non valido"/>
 		<entry key="AvatarCreator_Name" translation="Inserisci il nome"/>
 		<entry key="AvatarCreator_Randomize" translation="Casuale"/>
-		<entry key="AvatarCreator_RotateLeft" translation="Ruota Sinistra"/>
-		<entry key="AvatarCreator_RotateRight" translation="Ruota Destra"/>
+		<entry key="AvatarCreator_RotateLeft" translation="Ruota a Sinistra"/>
+		<entry key="AvatarCreator_RotateRight" translation="Ruota a Destra"/>
 		<entry key="AvatarCreator_TeenCouple" translation="Coppia di Ragazzi"/>
 		<entry key="AvatarCreator_TeenCoupleDesc" translation="Puoi aggiungere solo 2 ragazzi."/>
 		<entry key="AvatarCreator_TeenGroup" translation="Gruppo di Giovani"/>
 		<entry key="AvatarCreator_TeenGroupDesc" translation="Puoi aggiungere solo Giovani."/>
 		<!--Blueprints-->
 		<entry key="Blueprints_AetheonBlueprint01" translation="Trail Blazer"/>
-		<entry key="Blueprints_AetheonBlueprint01Desc" translation="Uno schema per il coaster Dive "/>
+		<entry key="Blueprints_AetheonBlueprint01Desc" translation="Uno schema per il coaster Dive"/>
 		<entry key="Blueprints_Aethon01" translation="Trail Blazer"/>
-		<entry key="Blueprints_Aethon01Desc" translation="Uno schema per il Dive coaster"/>
+		<entry key="Blueprints_Aethon01Desc" translation="Uno schema per il coaster Dive"/>
 		<entry key="Blueprints_AmeliesCastleBlueprint" translation="TrickyPlaysGames - I Karts del Castello della Principessa Amelie"/>
 		<entry key="Blueprints_AmeliesCastleBlueprintDesc" translation="Il progetto vincitore della Competizione dei Go-Karts, I Karts del Castello della Principessa Amelie di TrickyPlaysGames"/>
 		<entry key="Blueprints_AmericanArrowBlueprint01" translation="Screamer"/>
@@ -138,11 +138,11 @@
 		<entry key="Blueprints_BakasuraBlueprint01" translation="Labrys"/>
 		<entry key="Blueprints_BakasuraBlueprint01Desc" translation="Uno schema per il coaster Giant Inverted Boomerang "/>
 		<entry key="Blueprints_BarghestBlueprint01" translation="The Bear-Demon"/>
-		<entry key="Blueprints_BarghestBlueprint01Desc" translation="Uno schema per il coaster Barghest"/>
+		<entry key="Blueprints_BarghestBlueprint01Desc" translation="Uno schema per il coaster Typhoon"/>
 		<entry key="Blueprints_BasiliskBlueprint01" translation="The Little King"/>
-		<entry key="Blueprints_BasiliskBlueprint01Desc" translation="Uno schema per il coaster Basilisk"/>
+		<entry key="Blueprints_BasiliskBlueprint01Desc" translation="Uno schema per il coaster Single Rail"/>
 		<entry key="Blueprints_BlackFalconBlueprint01" translation="Falco"/>
-		<entry key="Blueprints_BlackFalconBlueprint01Desc" translation="Uno schema per il coaster Black Falcon "/>
+		<entry key="Blueprints_BlackFalconBlueprint01Desc" translation="Uno schema per il coaster Wing "/>
 		<entry key="Blueprints_BlueprintCostTitle" translation="Prezzo nel Gioco:"/>
 		<entry key="Blueprints_BlueprintDetails" translation="Dettagli Progetto"/>
 		<entry key="Blueprints_BoaBlueprint01" translation="Venom"/>
@@ -183,9 +183,9 @@
 		<entry key="Blueprints_ConfirmBox_Delete" translation="Elimina"/>
 		<entry key="Blueprints_ConfirmBox_DeleteMessage" translation="La cancellazione di un progetto non può essere annullata. Vuoi continuare?"/>
 		<entry key="Blueprints_ConfirmBox_DeleteTitle" translation="Eliminare questo progetto?"/>
-		<entry key="Blueprints_ConfirmBox_Unsub" translation="Disiscrivi"/>
-		<entry key="Blueprints_ConfirmBox_UnsubMessage" translation="Ti disiscriverai da questo progetto. Vuoi continuare?"/>
-		<entry key="Blueprints_ConfirmBox_UnsubTitle" translation="Disiscrivi?"/>
+		<entry key="Blueprints_ConfirmBox_Unsub" translation="Annulla Iscrizione"/>
+		<entry key="Blueprints_ConfirmBox_UnsubMessage" translation="Annullerai l'iscrizione a questo progetto. Vuoi continuare?"/>
+		<entry key="Blueprints_ConfirmBox_UnsubTitle" translation="Annulla Iscrizione?"/>
 		<entry key="Blueprints_ConnieExpress01" translation="Drake"/>
 		<entry key="Blueprints_ConnieExpress01Desc" translation="Uno schema per la Ferrovia del Treno a Vapore"/>
 		<entry key="Blueprints_CreateBlueprint" translation="Crea un nuovo progetto"/>
@@ -193,7 +193,7 @@
 		<entry key="Blueprints_Dragon01" translation="Flight of the Dragon"/>
 		<entry key="Blueprints_Dragon01Desc" translation="Uno schema per il coaster Junior - Dragon"/>
 		<entry key="Blueprints_DragonBlueprint01" translation="Flight of the Dragon"/>
-		<entry key="Blueprints_DragonBlueprint01Desc" translation="Uno schema per il coaster Junior"/>
+		<entry key="Blueprints_DragonBlueprint01Desc" translation="Uno schema per il coaster Junior Dragon"/>
 		<entry key="Blueprints_DragonSlayer" translation="Il Sussurro del Drago"/>
 		<entry key="Blueprints_DragonSlayerDesc" translation="Il Sussurro del Drago"/>
 		<entry key="Blueprints_Enigma01" translation="Twister"/>
@@ -205,32 +205,32 @@
 		<entry key="Blueprints_EqualizerBlueprint01" translation="Digitiser"/>
 		<entry key="Blueprints_EqualizerBlueprint01Desc" translation="Uno schema per l'Hypercoaster"/>
 		<entry key="Blueprints_ErrorBox_FailedToCreateEditItem" translation="Impossibile modificare il progetto WorkShop."/>
-		<entry key="Blueprints_ErrorBox_FailedToCreateItemContent" translation="Impossibile creare i contenuti del progetto da caricare nel WorkShop."/>
-		<entry key="Blueprints_ErrorBox_ListItemsSteamInsufficientPrivilege" translation="Il tuo account di steam non ha i permessi per usare lo Steam WorkShop."/>
-		<entry key="Blueprints_ErrorBox_ListItemsSteamInterrupted" translation="La richiesta dei tuoi progetti al WorkShop è stata interrotta."/>
-		<entry key="Blueprints_ErrorBox_ListItemsSteamNotLoggedIn" translation="Non collegato a steam - Non posso trovare i tuoi progetti del WorkShop."/>
+		<entry key="Blueprints_ErrorBox_FailedToCreateItemContent" translation="Impossibile creare contenuti per caricare il progetto nello Steam WorkShop ."/>
+		<entry key="Blueprints_ErrorBox_ListItemsSteamInsufficientPrivilege" translation="Il tuo account di Steam non ha i permessi sufficienti per accedere allo Steam WorkShop."/>
+		<entry key="Blueprints_ErrorBox_ListItemsSteamInterrupted" translation="La richiesta dei tuoi progetti allo Steam WorkShop è stata interrotta."/>
+		<entry key="Blueprints_ErrorBox_ListItemsSteamNotLoggedIn" translation="Non sei connesso a Steam - Non è possibile scaricare i tuoi progetti del WorkShop."/>
 		<entry key="Blueprints_ErrorBox_ListItemsSteamTimeout" translation="Il tempo per scaricare i tuoi progetti del WorkShop è scaduto."/>
-		<entry key="Blueprints_ErrorBox_ListItemsSteamTitle" translation="Errore nel mostrarti i progetti"/>
+		<entry key="Blueprints_ErrorBox_ListItemsSteamTitle" translation="Errore nell'elenco dei progetti"/>
 		<entry key="Blueprints_ErrorBox_ListItemsSteamUnknownError" translation="Un errore sconosciuto ha impedito di scaricare i tuoi progetti dal WorkShop."/>
 		<entry key="Blueprints_ErrorBox_MissingInfoTitle" translation="Informazione Mancante"/>
-		<entry key="Blueprints_ErrorBox_NoDescriptionMessage" translation="Una descrizione è necessaria per questo progetto"/>
-		<entry key="Blueprints_ErrorBox_NoItemID" translation="Errore nel creare/Aggiornare il progetto del WorkShop - ID Oggetto non trovato."/>
-		<entry key="Blueprints_ErrorBox_NoNameMessage" translation="Un nome è richiesto per questo progetto"/>
+		<entry key="Blueprints_ErrorBox_NoDescriptionMessage" translation="E' necessaria una descrizione per questo progetto"/>
+		<entry key="Blueprints_ErrorBox_NoItemID" translation="Errore nel creare/Aggiornare il progetto del WorkShop - ID Oggetto non trovata."/>
+		<entry key="Blueprints_ErrorBox_NoNameMessage" translation="E' richiesto un nome per questo progetto"/>
 		<entry key="Blueprints_ErrorBox_NoTagMessage" translation="E' richiesto almeno un tag per questo progetto"/>
-		<entry key="Blueprints_ErrorBox_NoUserTagMessage" translation="Per favore specifica almeno un Tag per questo tipo di progetto"/>
-		<entry key="Blueprints_ErrorBox_UploadSteamInsufficientPrivilege" translation="Il tuo account di steam non ha i permessi per usare lo Steam WorkShop."/>
-		<entry key="Blueprints_ErrorBox_UploadSteamInterrupted" translation="L'upload del progetto verso il WorkShop è stato interrotto."/>
-		<entry key="Blueprints_ErrorBox_UploadSteamNotLoggedIn" translation="Non collegato a steam - non posso caricare il tuo progetto sul WorkShop."/>
+		<entry key="Blueprints_ErrorBox_NoUserTagMessage" translation="Si prega specificare almeno un Tag utente per questo tipo di progetto"/>
+		<entry key="Blueprints_ErrorBox_UploadSteamInsufficientPrivilege" translation="Il tuo account di Steam non ha i permessi sufficienti per caricare nello Steam WorkShop."/>
+		<entry key="Blueprints_ErrorBox_UploadSteamInterrupted" translation="L'upload del progetto nello Steam WorkShop è stato interrotto."/>
+		<entry key="Blueprints_ErrorBox_UploadSteamNotLoggedIn" translation="Non sei connesso a Steam - Non è possibile caricare il progetto sul WorkShop."/>
 		<entry key="Blueprints_ErrorBox_UploadSteamTimeout" translation="Tempo scaduto nell'upload del progetto sul WorkShop"/>
 		<entry key="Blueprints_ErrorBox_UploadSteamTitle" translation="Errore nell'upload del progetto"/>
 		<entry key="Blueprints_ErrorBox_UploadSteamUnknownError" translation="Un errore sconosciuto ha interrotto l'upload del progetto sul WorkShop"/>
 		<entry key="Blueprints_ErrorPrompt_FileLoadFailed" translation="Caricamento del progetto fallito."/>
 		<entry key="Blueprints_ErrorPrompt_LoadFailedTitle" translation="Errore nel caricamento del progetto"/>
 		<entry key="Blueprints_ErrorPrompt_SaveLoadFailed" translation="Progetto salvato impossibile da caricare."/>
-		<entry key="Blueprints_ErrorPrompt_WorkshopLoadFailed" translation="Caricamento fallito del Steam Workshop progetto."/>
+		<entry key="Blueprints_ErrorPrompt_WorkshopLoadFailed" translation="Progetto dello Steam Workshop impossibile da caricare"/>
 		<entry key="Blueprints_FT_CastlePassageSmall_01" translation="Passaggio del castello"/>
 		<entry key="Blueprints_FT_CastlePassageSmall_01Desc" translation="Entra in un mondo magico!"/>
-		<entry key="Blueprints_FT_CastleShopSmall01" translation="Negozio del castello - Piccolo"/>
+		<entry key="Blueprints_FT_CastleShopSmall01" translation="Negozio del castello fatato"/>
 		<entry key="Blueprints_FT_CastleShopSmall01Desc" translation="Vendi le tue cose con uno stile Reale!"/>
 		<entry key="Blueprints_FT_ClocktowerLarge" translation="Torre dell'orologio grande"/>
 		<entry key="Blueprints_FT_ClocktowerLargeDesc" translation="Una grande torre dell'orologio per decorare la piazza del villaggio!"/>
@@ -240,35 +240,35 @@
 		<entry key="Blueprints_FT_FoodDesc" translation="Un ristorante a tema mondo delle fiabe"/>
 		<entry key="Blueprints_FT_Hats" translation="Il mondo delle fiabe - Cappelli"/>
 		<entry key="Blueprints_FT_HatsDesc" translation="Un negozio di cappelli a tema mondo delle fiabe"/>
-		<entry key="Blueprints_FT_VillageShopSmall_01" translation="Negozio del villaggio 01 - Piccolo"/>
+		<entry key="Blueprints_FT_VillageShopSmall_01" translation="Negozio del villaggio 01"/>
 		<entry key="Blueprints_FT_VillageShopSmall_01Desc" translation="Un pittoresco negozio."/>
-		<entry key="Blueprints_FT_VillageShopSmall_02" translation="Negozio del villaggio 02 - Piccolo"/>
-		<entry key="Blueprints_FT_VillageShopSmall_02Desc" translation="Un pittoresco negozio."/>
+		<entry key="Blueprints_FT_VillageShopSmall_02" translation="Negozio del villaggio 02"/>
+		<entry key="Blueprints_FT_VillageShopSmall_02Desc" translation="Un pittoresco negozio del villaggio."/>
 		<entry key="Blueprints_FairyATM" translation="Bancomat del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyATMDesc" translation="Un bancomat per far si che i visitatori possano prelevare i propri soldi anche nel mondo delle fiabe ."/>
-		<entry key="Blueprints_FairyBarnhouse" translation="CasaFienile del mondo delle fiabe"/>
+  	<entry key="Blueprints_FairyBarnhouse" translation="CasaFienile del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyBarnhouseDesc" translation="Metà casa, metà fienile. Ottima per il fieno e i draghi."/>
 		<entry key="Blueprints_FairyCastleSmallDesc" translation="Un piccolo castello pieno di intrighi."/>
 		<entry key="Blueprints_FairyCollection" translation="La collezione del Re"/>
 		<entry key="Blueprints_FairyCollectionDesc" translation="Queste scenografie hanno il sigillo di approvazione del Re."/>
-		<entry key="Blueprints_FairyDrinks" translation="Chiosco di bibite del villaggio delle fiabe"/>
+		<entry key="Blueprints_FairyDrinks" translation="Chiosco di bibite del paese delle fiabe"/>
 		<entry key="Blueprints_FairyDrinks2" translation="Chiosco di bibite del villaggio delle fiabe"/>
 		<entry key="Blueprints_FairyDrinks2Desc" translation="Principesse, orchi, cavalieri e draghi tutti prima o poi hanno bisogno di una bibita...anche i visitatori!"/>
 		<entry key="Blueprints_FairyDrinksDesc" translation="Principesse, orchi, cavalieri e draghi tutti prima o poi hanno bisogno di una bibita...anche i visitatori!"/>
 		<entry key="Blueprints_FairyFacilities" translation="Strutture del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyFacilitiesDesc" translation="Questo set di strutture sono realizzate con gli asset del mondo delle fiabe in modo da integrarsi con il resto del parco a tema fantasy."/>
-		<entry key="Blueprints_FairyFancyThatch" translation="Grande casa fiabesca"/>
+  	<entry key="Blueprints_FairyFancyThatch" translation="Grande casa fiabesca"/>
 		<entry key="Blueprints_FairyFancyThatchDesc" translation="Una grande casa per il tuo villaggio delle fiabe"/>
 		<entry key="Blueprints_FairyFirstAid" translation="Infermeria del mondo delle fate"/>
-		<entry key="Blueprints_FairyFirstAidDesc" translation="Eventuali lesioni subite durante il giro possono essere curate presso questa struttura ."/>
+		<entry key="Blueprints_FairyFirstAidDesc" translation="Eventuali ferite subite durante la giostra possono essere curate presso questa struttura ."/>
 		<entry key="Blueprints_FairyFood" translation="Chiosco del cibo del villaggio delle fiabe"/>
 		<entry key="Blueprints_FairyFoodDesc" translation="Questo piccolo chioschetto del cibo starà benissimo nel tuo parco a tema fantasy."/>
 		<entry key="Blueprints_FairyFountain" translation="Fontana delle fiabe"/>
-		<entry key="Blueprints_FairyFountain2" translation="Fontana della giovinezza "/>
-		<entry key="Blueprints_FairyFountain2Desc" translation="Questa vecchia e cattiva strega pensa che l'acqua di questa fontana la aiuti ad apparire più giovane. "/>
-		<entry key="Blueprints_FairyFountainDesc" translation="King Coaster e la Principessa Amelie are often seen cooling down in this fountain. "/>
-		<entry key="Blueprints_FairyGifts" translation="Negozio di souvenir del mondo delle fiabe"/>
-		<entry key="Blueprints_FairyGifts2" translation="Negozio di souvenir del mondo delle fiabe 2"/>
+		<entry key="Blueprints_FairyFountain2" translation="Fontana della giovinezza fatata"/>
+		<entry key="Blueprints_FairyFountain2Desc" translation="Quella vecchia e cattiva strega pensa che l'acqua di questa fontana la aiuti ad apparire più giovane. "/>
+		<entry key="Blueprints_FairyFountainDesc" translation="Re Coaster e la Principessa Amelie vengono spesso a refrigerarsi in questa fontana "/>
+		<entry key="Blueprints_FairyGifts" translation="Negozio di souvenir del villaggio delle fiabe"/>
+		<entry key="Blueprints_FairyGifts2" translation="Negozio di souvenir del paese delle fiabe"/>
 		<entry key="Blueprints_FairyGifts2Desc" translation="Un alternativa a tema per far spendere qualcosa ai visitatori del tuo parco."/>
 		<entry key="Blueprints_FairyGiftsDesc" translation="Un alternativa a tema per far spendere qualcosa ai visitatori del tuo parco."/>
 		<entry key="Blueprints_FairyHovel01" translation="Casetta Fiabesca 1"/>
@@ -277,36 +277,36 @@
 		<entry key="Blueprints_FairyHovel02Desc" translation="Una piccola e perfetta casetta per gli abitanti del villaggio."/>
 		<entry key="Blueprints_FairyHovel03" translation="Casetta Fiabesca 3"/>
 		<entry key="Blueprints_FairyHovel03Desc" translation="Una piccola e perfetta casetta per gli abitanti del villaggio."/>
-		<entry key="Blueprints_FairyInfo" translation="Stand informativo del mondo delle fiabe"/>
-		<entry key="Blueprints_FairyInfoDesc" translation="Le insegne medievali possono essere difficili da comprendere, quindi se state cercando il nascondiglio del drago cattivo, chiedete pure qui!."/>
-		<entry key="Blueprints_FairyJesterJoust" translation="Jesters Jousting"/>
+		<entry key="Blueprints_FairyInfo" translation="Chiosco Informazioni del mondo delle fiabe"/>
+		<entry key="Blueprints_FairyInfoDesc" translation="Le insegne medievali possono essere difficili da comprendere, quindi se state cercando la tana del drago cattivo, chiedete pure qui!."/>
+  	<entry key="Blueprints_FairyJesterJoust" translation="Giullari Giostranti"/>
 		<entry key="Blueprints_FairyJesterJoustDesc" translation="Non ti stai divertendo!?"/>
-		<entry key="Blueprints_FairyJesterStage" translation="Jester Stage"/>
+		<entry key="Blueprints_FairyJesterStage" translation="Spettacolo di Giullari"/>
 		<entry key="Blueprints_FairyJesterStageDesc" translation="Che performance!"/>
 		<entry key="Blueprints_FairyLargeEnt" translation="Entrata Fiabesca grande"/>
 		<entry key="Blueprints_FairyLargeEntDesc" translation="Una ancor più maestosa entrata per il tuo parco a tema mondo delle fiabe! – può anche portare all'entrata di un enorme palazzo se lo desideri."/>
-		<entry key="Blueprints_FairyParkSet" translation="Stile Fantasy"/>
-		<entry key="Blueprints_FairyParkSetDesc" translation="Elementi da inserire in un particolare tema che aggiungeranno professionalità al design delle tue creazioni"/>
+  	<entry key="Blueprints_FairyParkSet" translation="Stile Fantasy"/>
+		<entry key="Blueprints_FairyParkSetDesc" translation="Scenari adattati ad un particolare tema che aggiungeranno molti dettagli professionali al design delle tue creazioni"/>
 		<entry key="Blueprints_FairyScenery" translation="Draghi, Cavalieri e Tende"/>
-		<entry key="Blueprints_FairySceneryDesc" translation="Oddio!? Una collezione di elementi fiabeschi per far immergere i tuoi visitatori in un mondo fantastico!"/>
-		<entry key="Blueprints_FairySceneryPlanet" translation="Su ordine della Regina"/>
+		<entry key="Blueprints_FairySceneryDesc" translation="Oddio!? Una collezione di elementi fiabeschi per far immergere i tuoi visitatori nel piacevole mondo dell'immaginazione!"/>
+  	<entry key="Blueprints_FairySceneryPlanet" translation="Su ordine della Regina"/>
 		<entry key="Blueprints_FairySceneryPlanetDesc" translation="Come raramente accade, la Regina ha commissionato questo set per far si che i tuoi visitatori non abbiano dubbi su dove si trovano."/>
 		<entry key="Blueprints_FairyShopping" translation="Area Shopping del mondo delle fiabe"/>
-		<entry key="Blueprints_FairyShoppingDesc" translation="Per quei Re sfaticati che non hanno voglia di camminare troppo fino al loro outlet di fiducia."/>
+		<entry key="Blueprints_FairyShoppingDesc" translation="I Re sfaticati che non hanno voglia di camminare a lungo troveranno questo insieme di negozi di loro piacimento."/>
 		<entry key="Blueprints_FairyShortTower" translation="Piccola torre del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyShortTowerDesc" translation="Una piccola, tozza torre per i maghi."/>
 		<entry key="Blueprints_FairySmallEnt" translation="Piccola entrata fiabesca"/>
-		<entry key="Blueprints_FairySmallEntDesc" translation="Ispirata al mondo delle fiabe, questa entrata sarà perfetta per l'ingresso dell'area Fantasy."/>
+		<entry key="Blueprints_FairySmallEntDesc" translation="Ispirata al mondo delle fiabe, questa entrata sarà il perfetto ingresso al vostro mondo della fantasia."/>
 		<entry key="Blueprints_FairyThemedShops" translation="Negozi a tema Fiabesco"/>
 		<entry key="Blueprints_FairyThemedShopsDesc" translation="A quanto pare la Principessa adora fare shopping qui intorno."/>
 		<entry key="Blueprints_FairyToilets" translation="Blocco di Bagni fiabeschi"/>
-		<entry key="Blueprints_FairyToiletsDesc" translation="Il Re e la Regina ne hanno uno all'interno del loro castello."/>
+		<entry key="Blueprints_FairyToiletsDesc" translation="A quanto pare Il Re e la Regina ne hanno uno all'interno del loro castello.Ma solo uno."/>
 		<entry key="Blueprints_FairyTower" translation="Torre Fatata"/>
-		<entry key="Blueprints_FairyTowerDesc" translation="Tre spaziose torri per poter imprigionare altrettante bionde fanciulle."/>
+		<entry key="Blueprints_FairyTowerDesc" translation="Torre a tre piani ottima per imprigionare bionde fanciulle."/>
 		<entry key="Blueprints_FairyWindmill" translation="Il mulino del mondo delle fiabe"/>
 		<entry key="Blueprints_FairyWindmillDesc" translation="Ottimo per decorare un grazioso laghetto."/>
 		<entry key="Blueprints_Fayre" translation="Fiera"/>
-		<entry key="Blueprints_FayreDesc" translation="Una pittoresca fiera"/>
+		<entry key="Blueprints_FayreDesc" translation="Una pittoresca fiera del villaggio"/>
 		<entry key="Blueprints_FlowerStall" translation="Chiosco di fiori"/>
 		<entry key="Blueprints_FlowerStallDesc" translation="Un simpatico chiosco di fiori"/>
 		<entry key="Blueprints_GoKart01BlueprintDesc" translation="Uno schema per il Go Karts Track"/>
@@ -332,8 +332,8 @@
 		<entry key="Blueprints_ItemDescription_Steam_Default" translation="Inserisci una descrizione per il tuo progetto..."/>
 		<entry key="Blueprints_ItemLabelTest" translation="Un bel progetto"/>
 		<entry key="Blueprints_ItemName" translation="{NAME}"/>
-		<entry key="Blueprints_ItemName_Default" translation="Il mio Progetto"/>
-		<entry key="Blueprints_ItemName_Steam_Default" translation="Nomina il tuo progetto Steam"/>
+		<entry key="Blueprints_ItemName_Default" translation="Dai un nome al tuo progetto"/>
+		<entry key="Blueprints_ItemName_Steam_Default" translation="Dai un nome al tuo progetto Steam"/>
 		<entry key="Blueprints_KingsLootTent" translation="La tenda del bottino del Re"/>
 		<entry key="Blueprints_KingsLootTentDesc" translation="Una tenda sorvegliata per il bottino del Re"/>
 		<entry key="Blueprints_KrakenAttack" translation="Kraken Attack"/>
@@ -342,9 +342,9 @@
 		<entry key="Blueprints_LightLine01Desc" translation="Uno schema per la Monorotaia"/>
 		<entry key="Blueprints_LoadingPage" translation="Caricamento..."/>
 		<entry key="Blueprints_LoonyTurnsBlueprint01" translation="The Madness"/>
-		<entry key="Blueprints_LoonyTurnsBlueprint01Desc" translation="Uno schema per il coaster Loony Turns"/>
+		<entry key="Blueprints_LoonyTurnsBlueprint01Desc" translation="Uno schema per il coaster Crazy One"/>
 		<entry key="Blueprints_Looping01" translation="Screamer"/>
-		<entry key="Blueprints_Looping01Desc" translation="Uno schema per il Looping"/>
+		<entry key="Blueprints_Looping01Desc" translation="Uno schema per il coaster Looping"/>
 		<entry key="Blueprints_LunaAutos01" translation="Crankstart"/>
 		<entry key="Blueprints_LunaAutos01Desc" translation="Uno schema per l'attrazione a motore elettrico Luna Autos"/>
 		<entry key="Blueprints_LunaAutosBlueprint01" translation="Crankstart"/>
@@ -375,26 +375,26 @@
 		<entry key="Blueprints_NewItemDesc" translation="Crea un nuovo Progetto"/>
 		<entry key="Blueprints_NewWorkshopItem" translation="Nuovo oggetto WorkShop"/>
 		<entry key="Blueprints_NewWorkshopItemDesc" translation="Crea un nuovo oggetto per il Workshop"/>
-		<entry key="Blueprints_OvergrownSpookyTree" translation="Un grande, gigantesco e spaventoso albero"/>
-		<entry key="Blueprints_OvergrownSpookyTreeDesc" translation="Un grande, gigantesco e spaventoso albero"/>
+		<entry key="Blueprints_OvergrownSpookyTree" translation="Gigantesco albero spaventoso"/>
+		<entry key="Blueprints_OvergrownSpookyTreeDesc" translation="Un enorme, gigantesco e spaventoso albero"/>
 		<entry key="Blueprints_OvergrownSpookyTreeDuo" translation="Due spaventosi alberi guardiani"/>
 		<entry key="Blueprints_OvergrownSpookyTreeDuoDesc" translation="Due spaventosi alberi guardiani"/>
-		<entry key="Blueprints_PCATM" translation="Bancomat Planet coaster"/>
-		<entry key="Blueprints_PCATMDesc" translation="Tu hai bisogno dei soldi dei tuoi visitatori e loro hanno bisogno dei soldi da darti, quindi eccoli!"/>
-		<entry key="Blueprints_PCCollection" translation="Collezione Planet Coaster"/>
+		<entry key="Blueprints_PCATM" translation="Bancomat Planet Coaster"/>
+		<entry key="Blueprints_PCATMDesc" translation="Tu hai bisogno dei soldi dei tuoi visitatori e loro hanno bisogno di soldi da dare a te, quindi eccoli!"/>
+  	<entry key="Blueprints_PCCollection" translation="Collezione Planet Coaster"/>
 		<entry key="Blueprints_PCCollectionDesc" translation="Un set di decorazioni a tema Planet Coaster."/>
 		<entry key="Blueprints_PCDrinks" translation="Chiosco di bevande Planet Coaster"/>
-		<entry key="Blueprints_PCDrinksDesc" translation="Un chiosco di bibite a tema Planet Coaster."/>
+		<entry key="Blueprints_PCDrinksDesc" translation="Un chiosco di bevande a tema Planet Coaster."/>
 		<entry key="Blueprints_PCFacilities" translation="Strutture Planet Coaster"/>
-		<entry key="Blueprints_PCFacilitiesDesc" translation="Questo set di strutture sono state decorate per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
+		<entry key="Blueprints_PCFacilitiesDesc" translation="Questo set di strutture è stato decorato per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
 		<entry key="Blueprints_PCFirstAid" translation="Infermeria Planet Coaster"/>
-		<entry key="Blueprints_PCFirstAidDesc" translation="Se i tuoi visitatori non si sentono bene o soffrono il caldo, lo staf è qui per dargli un occhiata."/>
+		<entry key="Blueprints_PCFirstAidDesc" translation="Se i tuoi visitatori non si sentono bene o soffrono il caldo, lo staff è qui per prendersene cura."/>
 		<entry key="Blueprints_PCFood" translation="Chiosco del cibo Planet Coaster"/>
 		<entry key="Blueprints_PCFoodDesc" translation="I visitatori possono rifocillarsi qui ogni volta che vogliono."/>
-		<entry key="Blueprints_PCFountain" translation="Fontana Planet Coaster"/>
-		<entry key="Blueprints_PCFountain2" translation="Fontana Planet Coaster 2"/>
-		<entry key="Blueprints_PCFountain2Desc" translation="Una fontana che rievoca il pieno stile Planet Coaster."/>
-		<entry key="Blueprints_PCFountainDesc" translation="Una bellissima fontana che sarà sicuramente apprezzata da tutti i visitatori del parco."/>
+		<entry key="Blueprints_PCFountain" translation="Fontana Planet"/>
+		<entry key="Blueprints_PCFountain2" translation="Fontana Coaster"/>
+		<entry key="Blueprints_PCFountain2Desc" translation="Una fontana scenografica che rievoca il pieno stile Planet Coaster."/>
+		<entry key="Blueprints_PCFountainDesc" translation="Una bellissima fontana che sarà sicuramente apprezzata da tutti i visitatori."/>
 		<entry key="Blueprints_PCGifts" translation="Negozio di souvenir Planet Coaster"/>
 		<entry key="Blueprints_PCGiftsDesc" translation="Il Merchandise è un elemento essenziale per la crescita del tuo parco."/>
 		<entry key="Blueprints_PCInfo" translation="Stand informativo Planet Coaster"/>
@@ -405,7 +405,7 @@
 		<entry key="Blueprints_PCParkSetDesc" translation="Questi set di design sono stati decorati per potersi integrare perfettamente con il tuo parco a tema Planet Coaster"/>
 		<entry key="Blueprints_PCScenery" translation="Scenografie Planet Coaster"/>
 		<entry key="Blueprints_PCSceneryDesc" translation="Questi set di scenografie sono stati decorati per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
-		<entry key="Blueprints_PCSceneryPlanet" translation="Fuori dal Pianeta"/>
+  	<entry key="Blueprints_PCSceneryPlanet" translation="Fuori dal Pianeta"/>
 		<entry key="Blueprints_PCSceneryPlanetDesc" translation="Un set scenario più grande che potrebbe diventare un bel pezzo forte."/>
 		<entry key="Blueprints_PCShopping" translation="Area shopping Planet Coaster"/>
 		<entry key="Blueprints_PCShoppingDesc" translation="Più negozi in una piccola area, faciliteranno la vita ai visitatori che non vogliono camminare."/>
@@ -477,15 +477,15 @@
 		<entry key="Blueprints_PirateGiftsDesc" translation="I visitatori vogliono sempre qualcosa che gli ricordi il loro viaggio."/>
 		<entry key="Blueprints_PirateGoldFountain" translation="Fontana d'Oro"/>
 		<entry key="Blueprints_PirateGoldFountainDesc" translation="Lancia qualche monetina dentro la fontana dei pirati e potresti evocare il fastidioso spirito del pappagallo del capitano Coaster!"/>
-		<entry key="Blueprints_PirateInfo1" translation="Cabina delle informazioni Piratesca"/>
-		<entry key="Blueprints_PirateInfo1Desc" translation="Una cabina delle informazioni a tema piratesco"/>
-		<entry key="Blueprints_PirateInfo2" translation="Chiosco informativo Piratesco"/>
+  	<entry key="Blueprints_PirateInfo1" translation="Chiosco Informazioni Piratesco"/>
+		<entry key="Blueprints_PirateInfo1Desc" translation="Un chiosco delle informazioni a tema piratesco"/>
+		<entry key="Blueprints_PirateInfo2" translation="Chiosco Informazioni Piratesco"/>
 		<entry key="Blueprints_PirateInfo2Desc" translation="Hai perso la mappa del tuo tesoro nascosto? forse noi possiamo aiutarti!"/>
 		<entry key="Blueprints_PirateLargeEnt" translation="Entrata piratesca Grande"/>
 		<entry key="Blueprints_PirateLargeEntDesc" translation="Se vuoi avere più visitatori nel tuo parco ispirato ai grandi mari, questo potrebbe essere un ottimo inizio!"/>
 		<entry key="Blueprints_PirateMall" translation="Centro commerciale dei Pirati"/>
 		<entry key="Blueprints_PirateMallDesc" translation="Un grande complesso di strutture per i tuoi pirateschi visitatori che apprezzeranno sicuramente avere tutto in un unico posto!."/>
-		<entry key="Blueprints_PirateScenery" translation="Scenografia Ahoy!"/>
+  	<entry key="Blueprints_PirateScenery" translation="Scenografia Ahoy!"/>
 		<entry key="Blueprints_PirateScenery2" translation="Ciò che rimane del naufragio"/>
 		<entry key="Blueprints_PirateScenery2Desc" translation="Non me ne andrò mai! Non fin quando il mio tesoro rimarrà qui!"/>
 		<entry key="Blueprints_PirateScenery3" translation="Roccia a forma di un pauroso teschio!"/>
@@ -545,7 +545,7 @@
 		<entry key="Blueprints_SampleBuildingDesc" translation="Solo un esempio di costruzione"/>
 		<entry key="Blueprints_SciFiATM" translation="Bancomat Sci-Fi"/>
 		<entry key="Blueprints_SciFiATMDesc" translation="Su questo pianeta abbiamo usato bancomat per molto tempo, in futuro potremmo trasportare i nostri soldi all'interno delle retine (forse?)."/>
-		<entry key="Blueprints_SciFiCheefBeef" translation="Sci-Fi Capitan Manzo"/>
+  	<entry key="Blueprints_SciFiCheefBeef" translation="Sci-Fi Capitan Manzo"/>
 		<entry key="Blueprints_SciFiCheefBeefDesc" translation="Un semplice Capitan Manzo sci-fi"/>
 		<entry key="Blueprints_SciFiCollection" translation="Collezione di scenografie di Gustav’s"/>
 		<entry key="Blueprints_SciFiCollectionDesc" translation="Holst ha scritto la sinfonia ‘The Planets’.A quanto pare gli piacevano le montagne russe, così questa collezione è per lui."/>
@@ -561,13 +561,13 @@
 		<entry key="Blueprints_SciFiFountain2" translation="Fontana Enceladus"/>
 		<entry key="Blueprints_SciFiFountain2Desc" translation="Una fontana ispirata ai geyser della luna di saturno Enceladus."/>
 		<entry key="Blueprints_SciFiFountainDesc" translation="Le fontane nello spazio non funzionano benissimo a causa della gravità, questa fontana ne ha uno proprio...molto utile."/>
-		<entry key="Blueprints_SciFiGifts" translation="Negozio di souvenir Sci-fi"/>
+  	<entry key="Blueprints_SciFiGifts" translation="Negozio di souvenir Sci-fi"/>
 		<entry key="Blueprints_SciFiGiftsDesc" translation="Non viaggi fino a Marte per tornare senza nulla. Qualsiasi astronauta vuole un ricordino da portare con se."/>
-		<entry key="Blueprints_SciFiInfo" translation="Cabina informativa Sci-fi"/>
-		<entry key="Blueprints_SciFiInfoDesc" translation="Diciamocelo chiaramente, l'universo è abbastanza grande e ci si potrebbe perdere. Magari con questa cabina spaziale i visitatori riusciranno a orientarsi?"/>
-		<entry key="Blueprints_SciFiLargeEnt" translation="Entrata Sci-fi grande"/>
+		<entry key="Blueprints_SciFiInfo" translation="Chiosco Informazioni Sci-fi"/>
+		<entry key="Blueprints_SciFiInfoDesc" translation="Diciamocelo chiaramente, l'universo è abbastanza grande e ci si potrebbe perdere. Magari con questo chiosco spaziale i visitatori riusciranno a orientarsi?"/>
+  	<entry key="Blueprints_SciFiLargeEnt" translation="Entrata Sci-fi grande"/>
 		<entry key="Blueprints_SciFiLargeEntDesc" translation="Puoi continuare a costruire su questa grande porta a tema e fonderti con il pianeta...o con una stazione spaziale."/>
-		<entry key="Blueprints_SciFiParkSet" translation="Il viaggio dello Sputnik"/>
+  	<entry key="Blueprints_SciFiParkSet" translation="Il viaggio dello Sputnik"/>
 		<entry key="Blueprints_SciFiParkSetDesc" translation="Una collezione di scenare a tema Sci-Fi ispirate al viaggio dello ‘Sputnik’."/>
 		<entry key="Blueprints_SciFiScenery" translation="Roba dello spazio profondo"/>
 		<entry key="Blueprints_SciFiSceneryDesc" translation="Se stai cercando delle decorazioni per il tuo parco spaziale, sei nel posto giusto."/>
@@ -577,7 +577,7 @@
 		<entry key="Blueprints_SciFiShopping2" translation="Area Shopping Sci-fi - Grande"/>
 		<entry key="Blueprints_SciFiShopping2Desc" translation="Un complesso di negozi spaziali che attraggono clienti da tutta la galassia, dopotutto siamo tutti polvere di stelle! "/>
 		<entry key="Blueprints_SciFiShoppingDesc" translation="Un complesso di negozi spaziali che attraggono clienti da tutta la galassia, dopotutto siamo tutti polvere di stelle! "/>
-		<entry key="Blueprints_SciFiSmallEnt" translation="Piccola Entrata Sci-fi"/>
+  	<entry key="Blueprints_SciFiSmallEnt" translation="Piccola Entrata Sci-fi"/>
 		<entry key="Blueprints_SciFiSmallEntDesc" translation="Dove tutto ha avuto inizio, dalle piccole cose partono le più grandi avventure."/>
 		<entry key="Blueprints_SciFiThemedShops" translation="Negozi a tema Sci-fi"/>
 		<entry key="Blueprints_SciFiThemedShopsDesc" translation="Rifornisciti attraverso la galassia presso questi spaziali negozi."/>
@@ -623,7 +623,7 @@
 		<entry key="Blueprints_TravellersCamp" translation="Accampamento viaggiatori"/>
 		<entry key="Blueprints_TravellersCampDesc" translation="Un accampamento per i viaggiatori e i festaioli"/>
 		<entry key="Blueprints_TreasurePile" translation="Pila di Tesori"/>
-		<entry key="Blueprints_TreasurePileDesc" translation=" ooohh Arghhh, ecco l'oro!"/>
+		<entry key="Blueprints_TreasurePileDesc" translation=" Ooohh Arghhh, ecco l'Oro!"/>
 		<entry key="Blueprints_TridentBlueprint01" translation="Cortez"/>
 		<entry key="Blueprints_TridentBlueprint01Desc" translation="Uno schema per il coaster Boomerang"/>
 		<entry key="Blueprints_UFO" translation="UFO"/>
@@ -639,10 +639,10 @@
 		<entry key="Blueprints_VillageFoodKioskDesc" translation="Villaggio Fatato - Chiosco del Cibo"/>
 		<entry key="Blueprints_VillageHatShop" translation="Villaggio Fatato Negozio Di Cappelli"/>
 		<entry key="Blueprints_VillageHatShopDesc" translation="Villaggio Fatato Negozio Di Cappelli"/>
-		<entry key="Blueprints_VillageInformationBooth" translation="Villaggio Fatato - cabina delle informazioni "/>
-		<entry key="Blueprints_VillageInformationBoothDesc" translation="Villaggio Fatato - cabina delle informazioni"/>
-		<entry key="Blueprints_VillageToiletFacility" translation="Villaggio Fatato - bagni"/>
-		<entry key="Blueprints_VillageToiletFacilityDesc" translation="Villaggio Fatato - bagni"/>
+		<entry key="Blueprints_VillageInformationBooth" translation="Villaggio Fatato - Chiosco delle informazioni "/>
+		<entry key="Blueprints_VillageInformationBoothDesc" translation="Villaggio Fatato - Chiosco delle informazioni"/>
+		<entry key="Blueprints_VillageToiletFacility" translation="Villaggio Fatato - Bagni"/>
+		<entry key="Blueprints_VillageToiletFacilityDesc" translation="Villaggio Fatato - Bagni"/>
 		<entry key="Blueprints_VillageWindmill" translation="Mulino a vento del Villaggio Fatato"/>
 		<entry key="Blueprints_VillageWindmillDesc" translation="Mulino a vento del Villaggio Fatato"/>
 		<entry key="Blueprints_WW_Sawmill" translation="Segheria"/>
@@ -660,26 +660,26 @@
 		<entry key="Blueprints_WerewolfBlueprint01" translation="Thalatte"/>
 		<entry key="Blueprints_WerewolfBlueprint01Desc" translation="Uno schema per il coaster Senza Fondo"/>
 		<entry key="Blueprints_WesternATM" translation="Bancomat Western"/>
-		<entry key="Blueprints_WesternATMDesc" translation="Gli sceriffi controllano sempre questo distributore, ma non li si vede in giro da un po..."/>
+		<entry key="Blueprints_WesternATMDesc" translation="Lo sceriffo controlla sempre questo distributore, ma non lo si vede in giro da un po...Dicono abbia lasciato il paese!"/>
 		<entry key="Blueprints_WesternCollection" translation="Pianeta Selvaggio West"/>
 		<entry key="Blueprints_WesternCollectionDesc" translation="Una bellissima scenografia ispirata al selvaggio West."/>
 		<entry key="Blueprints_WesternDrinks" translation="Chiosco di bevande western"/>
-		<entry key="Blueprints_WesternDrinksDesc" translation="Non soffrire il secco caldo del deserto, rinfrescatevi con le dissetanti bevande di questo chiosco."/>
+		<entry key="Blueprints_WesternDrinksDesc" translation="Non soffrire nel secco caldo del deserto, rinfrescati con le dissetanti bevande di questo chiosco."/>
 		<entry key="Blueprints_WesternFacilities" translation="Strutture Western"/>
-		<entry key="Blueprints_WesternFacilitiesDesc" translation="Qualsiasi cittadina western sarebbe fiera di avere queste strutture ad arredare le proprie strade."/>
+		<entry key="Blueprints_WesternFacilitiesDesc" translation="Qualsiasi cittadina western sarebbe fiera di avere queste strutture nelle proprie strade polverose."/>
 		<entry key="Blueprints_WesternFirstAid" translation="Infermeria Western"/>
-		<entry key="Blueprints_WesternFirstAidDesc" translation="Doc Brown aiuterà i visitatori coi loro problemi di salute somministrandogli del buon vecchio olio di serpente fashun!"/>
+		<entry key="Blueprints_WesternFirstAidDesc" translation="Doc Brown aiuterà i visitatori con i loro problemi di salute somministrandogli del buon olio di serpente vecchio stile!"/>
 		<entry key="Blueprints_WesternFood" translation="Chiosco del cibo Western"/>
 		<entry key="Blueprints_WesternFood2" translation="Relitto di una piccola barca 2"/>
 		<entry key="Blueprints_WesternFood2Desc" translation="Non abbiamo solo fagioli nel selvaggio west, ai visitatori piacerà tutto quello che c'è nel menù."/>
 		<entry key="Blueprints_WesternFoodDesc" translation="Non abbiamo solo fagioli nel selvaggio west, ai visitatori piacerà tutto quello che c'è nel menù."/>
 		<entry key="Blueprints_WesternFountain" translation="Fontana Western"/>
 		<entry key="Blueprints_WesternFountain2" translation="La fontana della corsa all'oro"/>
-		<entry key="Blueprints_WesternFountain2Desc" translation="Potresti cercare qui il tuo oro..ma di solito si cerca nei letti del fiume, non nelle fontane."/>
+		<entry key="Blueprints_WesternFountain2Desc" translation="Potresti cercare qui il tuo oro.. ma di solito si cerca nel letto del fiume, non nelle fontane."/>
 		<entry key="Blueprints_WesternFountainDesc" translation="Non abbiamo molta acqua nel deserto, ma quando ne troviamo la usiamo a scopi decorativi."/>
 		<entry key="Blueprints_WesternGifts" translation="Negozio di souvenir Western"/>
 		<entry key="Blueprints_WesternGiftsDesc" translation="Un negozio in vecchissimo stile Western fatto apposta per l'area villaggio cowboy del parco"/>
-		<entry key="Blueprints_WesternInfo" translation="Cabina di informazioni Western"/>
+		<entry key="Blueprints_WesternInfo" translation="Chiosco informazioni Western"/>
 		<entry key="Blueprints_WesternInfoDesc" translation="Se trovate il parco disorientante potete trovare le nostre cartine qui!"/>
 		<entry key="Blueprints_WesternLargeEnt" translation="Entrata Western grande"/>
 		<entry key="Blueprints_WesternLargeEntDesc" translation="Una gigantesca entrata in puro stile selvaggio west."/>
@@ -688,17 +688,17 @@
 		<entry key="Blueprints_WesternParkSet2Desc" translation="Questo set di decorazioni convincerà i vostri visitatori di trovarsi nelle lande dei pionieri!"/>
 		<entry key="Blueprints_WesternParkSetDesc" translation="Questo set di decorazioni convincerà i vostri visitatori di trovarsi nelle lande dei pionieri!"/>
 		<entry key="Blueprints_WesternScenery" translation="Avventure d'altri tempi."/>
-		<entry key="Blueprints_WesternSceneryDesc" translation="Alcuni vecchi set di design per intrattenere i tuoi visitatori mentre sono in fila."/>
+		<entry key="Blueprints_WesternSceneryDesc" translation="Alcuni set tematici vecchio stile per intrattenere i tuoi visitatori mentre sono in fila."/>
 		<entry key="Blueprints_WesternSceneryPlanet" translation="C'è dell'oro in quelle montagne!"/>
-		<entry key="Blueprints_WesternSceneryPlanetDesc" translation="Se costruisci la giusta scenografia nel posto giusto, i tuoi visitatori potranno trovare l'oro."/>
+		<entry key="Blueprints_WesternSceneryPlanetDesc" translation="Se costruisci la giusta scenografia nel posto giusto, raggranellerai l'oro dai tuoi visitatori."/>
 		<entry key="Blueprints_WesternShopping" translation="Area Shopping Western"/>
-		<entry key="Blueprints_WesternShoppingDesc" translation="L'area Shopping inizia alla frontiera, ampio parecchio per treni a vapore e vagoni."/>
+		<entry key="Blueprints_WesternShoppingDesc" translation="Il centro commerciale è stato inaugurato alla FrontieraI Abbastanza parcheggio per un intero treno di vagoni."/>
 		<entry key="Blueprints_WesternSmallEnt" translation="Piccola entrata Western"/>
-		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è nulla di male a iniziare il proprio parco con quest'entrata."/>
+		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è niente di meglio che iniziare il proprio parco con quest'entrata."/>
 		<entry key="Blueprints_WesternThemedShops" translation="Negozi a tema Western"/>
-		<entry key="Blueprints_WesternThemedShopsDesc" translation="I Visitatori che attraversano il parco, potranno fermarsi qui per portarsi a casa Guests riding through town are bound to stop off here to make use of the facilities."/>
+		<entry key="Blueprints_WesternThemedShopsDesc" translation="I Visitatori che girano per il parco potranno fermarsi qui per approfittare delle strutture"/>
 		<entry key="Blueprints_WesternToilets" translation="Blocco di bagni Western"/>
-		<entry key="Blueprints_WesternToiletsDesc" translation="I Cowboys hanno richiesto dei bagni per loro, per favore lavatevi le mani e niente cavalli..."/>
+		<entry key="Blueprints_WesternToiletsDesc" translation="I Cowboys hanno richiesto dei bagni per loro. Per favore lavatevi le mani. Ah.. e niente cavalli..."/>
 		<entry key="Blueprints_WitchTreeHouse" translation="Casa sull'albero della Strega"/>
 		<entry key="Blueprints_WitchTreeHouseDesc" translation="Fuoco scoppiettante e calderone ribollente, la casa di questa strega di buono non ha niente!"/>
 		<entry key="Blueprints_WoodenBlueprint01" translation="The High Seas"/>
@@ -713,7 +713,7 @@
 		<entry key="Build_Widgets_Exit" translation="Esci dalla Modalità Avanzata"/>
 		<entry key="Build_Widgets_Move" translation="Sposta"/>
 		<entry key="Build_Widgets_Object_Axis" translation="Usa Assi relativi"/>
-		<entry key="Build_Widgets_RequiresMove" translation="Questo oggetto dev'essere spostato prima di poter essere posizionato."/>
+		<entry key="Build_Widgets_RequiresMove" translation="Questo oggetto deve essere spostato prima di poter essere posizionato."/>
 		<entry key="Build_Widgets_Reset" translation="Resetta"/>
 		<entry key="Build_Widgets_Rotate" translation="Ruota (X)"/>
 		<entry key="Build_Widgets_SurfaceMove" translation="Muovi sulla Superficie (M)"/>
@@ -3283,24 +3283,24 @@
 		<entry key="BuildingPartName_HOL_Merge_Doorway" translation="Pan di Zenzero - Muro da 4m con Foratura per Porta"/>
 		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Muro di Pan di Zenzero 4m - Facciata"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_1m" translation="Pan di Zenzero - Muro da 1m"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_2m" translation="Pan di Zenzero - Muro da 2m"/>
+    <entry key="BuildingPartName_HOL_Merge_Wall_2m" translation="Pan di Zenzero - Muro da 2m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m" translation="Pan di Zenzero - Muro da 4m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero - Muro da 4m con Foro ad Arco"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero - Muro da 4m con Foro Circolare"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero - Muro da 4m con Foro a Cuore"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_1m" translation="Pan di Zenzero - Colmo del Tetto da 1m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_2m" translation="Pan di Zenzero - Colmo del Tetto da 2m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 1m"/>
+  	<entry key="BuildingPartName_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero - Muro da 4m con Foro a Cuore"/>
+   	<entry key="BuildingPartName_HOL_Roof_Bread_1m" translation="Pan di Zenzero - Colmo del Tetto da 1m"/>
+  	<entry key="BuildingPartName_HOL_Roof_Bread_2m" translation="Pan di Zenzero - Colmo del Tetto da 2m"/>
+  	<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 2m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero - Tetto a Quarto di Cono"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero - Tetto Inclinato da 1m"/>
+  	<entry key="BuildingPartName_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero - Tetto Inclinato da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero - Tetto Inclinato da 2m"/>
-		<!--C1_BuildingParts_Attach-->
+  	<!--C1_BuildingParts_Attach-->
 		<entry key="BuildingPartDesc_HOL_Bread_Door" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Door_02" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Heart" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_01" translation="Glassa&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Door_02" translation="Glassa&#10;Tema Festivo"/>
+  	<entry key="BuildingPartDesc_HOL_Door_02" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_03" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_04" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_05" translation="Glassa&#10;Tema Festivo"/>
@@ -3334,7 +3334,7 @@
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile_Group" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_ZigZag" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_StreetLamp" translation="Il dolce profumo dei festeggiamenti.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
+	  <entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBin" translation="A così tanti dolci corrispondono tante cartacce...&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Window_01" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Window_02" translation="Glassa&#10;Tema Festivo"/>
@@ -3351,7 +3351,7 @@
 		<entry key="BuildingPartName_HOL_Bread_Door_02" translation="Pan di Zenzero - Ritaglio a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Bread_Heart" translation="Pan di Zenzero - Ritaglio a Forma di Cuore"/>
 		<entry key="BuildingPartName_HOL_Door_01" translation="Pan di Zenzero  - Glassa a Forma di Porta 1"/>
-		<entry key="BuildingPartName_HOL_Door_02" translation="Pan di Zenzero  - Glassa a Forma di Porta 2"/>
+	 <entry key="BuildingPartName_HOL_Door_02" translation="Pan di Zenzero  - Glassa a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Door_03" translation="Pan di Zenzero  - Glassa a Forma di Porta 3"/>
 		<entry key="BuildingPartName_HOL_Door_04" translation="Pan di Zenzero  - Glassa a Forma di Porta 4"/>
 		<entry key="BuildingPartName_HOL_Door_05" translation="Pan di Zenzero  - Glassa a Forma di Porta 5"/>
@@ -3384,8 +3384,8 @@
 		<entry key="BuildingPartName_HOL_IcingDec_Tile" translation="Pan di Zenzero - Glassa a Forma di Piastrella a Ventaglio Singola"/>
 		<entry key="BuildingPartName_HOL_IcingDec_Tile_Group" translation="Pan di Zenzero - Glassa a Forma di Piastrelle a Ventaglio"/>
 		<entry key="BuildingPartName_HOL_IcingDec_ZigZag" translation="Pan di Zenzero - Glassa a Forma di Zigzag da 4m"/>
-		<entry key="BuildingPartName_HOL_StreetLamp" translation="Lampioncino a Candelina"/>
-		<entry key="BuildingPartName_HOL_SweetBench" translation="Panchina Festiva Dolce"/>
+  	<entry key="BuildingPartName_HOL_StreetLamp" translation="Lampioncino a Candelina"/>
+  	<entry key="BuildingPartName_HOL_SweetBench" translation="Panchina Festiva Dolce"/>
 		<entry key="BuildingPartName_HOL_SweetBin" translation="Cestino Festivo"/>
 		<entry key="BuildingPartName_HOL_Window_01" translation="Pan di Zenzero - Glassa a Forma di Finestra 1"/>
 		<entry key="BuildingPartName_HOL_Window_02" translation="Pan di Zenzero - Glassa a Forma di Finestra 2"/>
@@ -3407,7 +3407,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_CVRN" translation="Un'esotica grotta è stata scoperta e riservati permessi di pianificazione ti concedono l'opportunità di creare un parco unico in questo particolare habitat! Costruire in superficie è severamente vietato, il numero di visitatori estremamente limitato, per cui è necessario conquistare le profondità per garantire il successo di questa impresa."/>
 		<entry key="FrontEndMenu_ScenarioDetails_NOMO" translation="Dovrai essere in forma smagliante per affrontare questa situazione! Gli ex proprietari hanno abbandonato questo parco, lasciandolo in condizioni disastrose; bilancio in negativo, un grosso prestito da restituire, layout ridicolo e alcune attrazioni gravemente inefficienti. Invertire le sue sorti sarà un vero e proprio miracolo."/>
 		<entry key="FrontEndMenu_ScenarioDetails_WNTR" translation="E' tempo di scartare i nostri piani per un parco a tema festivo in questa gioiosa location. Ricorda solo che il denaro a disposizione fa parte di un prestito, non è un regalo! Addobba il tuo paradiso invernale con uno scenario adeguato e attira le allegre folle da ogni dove."/>
-		<entry key="FrontEndMenu_ScenarioName_CVRN" translation="Coaster Cavernosi"/>
+  	<entry key="FrontEndMenu_ScenarioName_CVRN" translation="Coaster Cavernosi"/>
 		<entry key="FrontEndMenu_ScenarioName_NOMO" translation="Ritorno dal Baratro"/>
 		<entry key="FrontEndMenu_ScenarioName_WNTR" translation="Terre Gioiose"/>
 		<entry key="FrontEndMenu_SetDescription_CNGL" translation="Porta un pò di allegria a Re Coaster Festivo"/>
@@ -3519,8 +3519,8 @@
 		<entry key="BuildingPartDesc_HOL_ChristmasTree_01" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ChristmasTree_02" translation="Una tradizione natalizia.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_CoconutSlice" translation="Delizioso zucchero.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Coconut_Cube" translation="Delicious sugar.&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Coconut_Cube_Pink" translation="Delicious sugar.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Coconut_Cube" translation="Delizioso zucchero.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Coconut_Cube_Pink" translation="Delizioso zucchero.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ComplexBauble" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ComplexBauble_Small" translation="Pende dal grande albero di Natale.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_ConeWafer" translation="Decorazione per gelato.&#10;Tema Festivo"/>
@@ -3952,8 +3952,8 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Neve e Ghiaccio"/>
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
-		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="Una bandiera con un passato di luci ed ombre."/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
+	  <entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="Una bandiera con un passato di luci ed ombre."/>
+    <entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
 		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Contorno Stazione 2"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Muro di Pan di Zenzero 1m Inclinato"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Muro di Pan di Zenzero 2m Inclinato"/>
@@ -3998,7 +3998,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_PHD1" translation="Il Circuito di Capitan Manzo è stato costruito al posto di un vecchio tracciato sul lungomare per avere i vantaggi del patrimonio locale. Sfortunatamente, durante la costruzione sorsero problemi economici e si dovettero fare dei compromessi. La pista risultante è stata giudicata una delusione dal pubblico. Puoi realizzare il pieno potenziale del sito?"/>
 		<entry key="FrontEndMenu_ScenarioDetails_PHD2" translation="Questo parco ha entusiasmato il pubblico per più di un secolo, ma sta iniziando ad essere oscurato dalle macchine da brivido svettanti e da capogiro dei nuovi parchi. Il consiglio è entusiasta di rinvigorirlo con alcune eccitanti e moderne attrazioni pur preservando le sue radici. Sei pronto alla sfida?"/>
 		<entry key="FrontEndMenu_ScenarioDetails_PHD3" translation="Il Parco in centro doveva portare un po di felicità a questo famigerato quartiere, dove le guardie si sicurezza chiedono salari più alti a causa del rischio aumentato, ma le ambizioni del fondatore furono compromesse dagli alti livelli di crimine. Puoi riuscire dove hanno fallito e portare un po di gioia nell'area?"/>
-		<entry key="FrontEndMenu_ScenarioName_PHD1" translation="Il Circuito di Capitan Manzo"/>
+  	<entry key="FrontEndMenu_ScenarioName_PHD1" translation="Il Circuito di Capitan Manzo"/>
 		<entry key="FrontEndMenu_ScenarioName_PHD2" translation="Oak Island"/>
 		<entry key="FrontEndMenu_ScenarioName_PHD3" translation="Downtown"/>
 		<entry key="FrontEndMenu_SetDescription_BEEF" translation="Unisciti alla Squadra Hotdog di Capitan Manzo e cucina alcuni gustosi parchi."/>
@@ -4006,11 +4006,11 @@
 		<!--C2_Coasters-->
 		<entry key="Coaster_Bakasura" translation="Bakasura"/>
 		<entry key="Coaster_Bakasura_Desc" translation="Montagna russa shuttle invertita che usa un tracciato enorme e torri verticali di trazione a cavo ad ogni estremità, permettendo al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
-		<entry key="Coaster_SHydra" translation="Steel Hydra"/>
+  	<entry key="Coaster_SHydra" translation="Steel Hydra"/>
 		<entry key="Coaster_SHydra_Desc" translation="Coaster sospeso in acciaio, dove le vetture sono appese al tracciato sovrastante e possono oscillare da lato a lato."/>
-		<entry key="Coaster_Trident" translation="Trident"/>
+  	<entry key="Coaster_Trident" translation="Trident"/>
 		<entry key="Coaster_Trident_Desc" translation="Montagna Russa shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
-		<entry key="Coaster_Type_Bakasura" translation="Giant Inverted Boomerang"/>
+  	<entry key="Coaster_Type_Bakasura" translation="Giant Inverted Boomerang"/>
 		<entry key="Coaster_Type_Gixxer" translation="Motorbike"/>
 		<entry key="Coaster_Type_GoKarts" translation="Go Karts"/>
 		<entry key="Coaster_Type_SteelHydra" translation="Sospeso"/>
@@ -4631,7 +4631,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_DINE" translation="Il ristorante di Miss Elly ha delle strutture eccezionali, compreso un grande coaster di legno per un pò di eccitazione! Ma visto che si trova in una località remota non ha molti visitatori e il suo potenziale è inespresso. Riuscirai a costruire in questa zona e attirare le folle?"/>
 		<entry key="FrontEndMenu_ScenarioDetails_MARS" translation="Hanno girato alcuni film abbastanza famosi qua fuori nel deserto. Assomiglia a Marte, vero? Il posto non è più richiesto – è tutta computer grafica di questi tempi – ma la compagnia non vuole lasciarlo andare. Vogliono invece che tu lo trasformi in un parco a tema!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_MINE" translation="Un poveraccio ha comprato questa miniera da un cercatore e ha chiesto alcuni grandi prestiti per pagarla. E' venuto fuori che è una truffa. La canaglia aveva salato la miniera! Ora sta cercando di trasformarla in un'attrazione turistica con alcuni fuochi d'artificio e con strade stile Vecchio West, ma non sta andando così bene come sperava e ha bisogno del tuo aiuto."/>
-		<entry key="FrontEndMenu_ScenarioName_DINE" translation="Il ristorante di Miss Elly"/>
+  	<entry key="FrontEndMenu_ScenarioName_DINE" translation="Il ristorante di Miss Elly"/>
 		<entry key="FrontEndMenu_ScenarioName_MARS" translation="Hangar della Nave Spaziale"/>
 		<entry key="FrontEndMenu_ScenarioName_MINE" translation="Torre della Miniera d'Oro"/>
 		<entry key="FrontEndMenu_SetDescription_ELLY" translation="Devi fare un bel colpaccio per vincere qui. Riesci a domare la frontiera selvaggia?"/>
@@ -4639,17 +4639,17 @@
 		<!--C3_Coasters-->
 		<entry key="Coaster_Bolt" translation="Bolt"/>
 		<entry key="Coaster_Bolt_Desc" translation="Montagna Russa Shuttle, che permette al treno di viaggiare in avanti fino ad un punto terminale prima di viaggiare all'indietro lungo il percorso fino alla stazione di partenza."/>
-		<entry key="Coaster_Degen" translation="Degen"/>
+  	<entry key="Coaster_Degen" translation="Degen"/>
 		<entry key="Coaster_Degen_Desc" translation="Progettato specialmente per le inversioni."/>
 		<entry key="Coaster_Gnarler" translation="Gnarler"/>
 		<entry key="Coaster_Gnarler_Desc" translation="Una Montagna Russa tradizionale fatta principalmente in legno, il cui risultato è una eccitante, aspra e selvaggia attrazione. Questa variante utilizza una vettura più moderna del coaster in legno 'The Monster'."/>
-		<entry key="Coaster_ManicMouse" translation="Manic Mouse"/>
+  	<entry key="Coaster_ManicMouse" translation="Manic Mouse"/>
 		<entry key="Coaster_ManicMouse_Desc" translation="Le emozioni di questa particolare Montagna Russa si trovano nelle vetture che ruotano liberamente, insieme a strette e piatte curve che generano alta forza di gravità laterale."/>
-		<entry key="Coaster_PowerUp" translation="Power Up"/>
+  	<entry key="Coaster_PowerUp" translation="Power Up"/>
 		<entry key="Coaster_PowerUp_Desc" translation="Una Montagna Russa dove il treno è tirato a catena verticalmente prima di essere capovolto e che può passare attraverso la stazione più volte."/>
-		<entry key="Coaster_SteelVengeance" translation="Steel Vengeance"/>
+  	<entry key="Coaster_SteelVengeance" translation="Steel Vengeance"/>
 		<entry key="Coaster_SteelVengeance_Desc" translation="Tracciato ufficiale della montagna russa Steel Vengeance di Cedar Point. Pista in acciaio e supporti al coaster in legno si combinano per creare un ibrido che può invertirsi, pur mantenendo l'aspetto e le caratteristiche di una Montagna Russa in legno."/>
-		<entry key="Coaster_Type_Bolt" translation="Boomerang"/>
+  	<entry key="Coaster_Type_Bolt" translation="Boomerang"/>
 		<entry key="Coaster_Type_Degen" translation="Looping"/>
 		<entry key="Coaster_Type_Gnarler" translation="In Legno"/>
 		<entry key="Coaster_Type_ManicMouse" translation="Spinning Wild Mouse"/>
@@ -4658,7 +4658,7 @@
 		<entry key="Coaster_Type_ViperOne" translation="Impulsion"/>
 		<entry key="Coaster_ViperOne" translation="Viper One"/>
 		<entry key="Coaster_ViperOne_Desc" translation="Una Montagna Russa invertita e lanciata che passa avanti e indietro attraverso la stazione più volte, prendendo velocità ad ogni passaggio."/>
-		<!--C3_Facilities-->
+  	<!--C3_Facilities-->
 		<entry key="ShopItem_Hat_JU_Liberty" translation="Cappello Statua della Libertà"/>
 		<entry key="ShopItem_Hat_JU_UncleSam" translation="Cappello di Zio Sam"/>
 		<!--C3_FlatRides-->
@@ -4928,10 +4928,10 @@
 		<entry key="CameraOptionsMenu_NoClip_ToolTip" translation="Permette alla visuale di muoversi attraverso il terreno"/>
 		<entry key="CameraOptionsMenu_PhysicsRaycasts" translation="Centra su Scenario"/>
 		<entry key="CameraOptionsMenu_PhysicsRaycasts_ToolTip" translation="Permette alla camera di centrare su oggetti come scenari e costruzioni in aggiunta a terreno e sentieri. Centrare sullo scenario influisce sulla velocità della camera e sulle limitazioni di zoom."/>
-		<entry key="CameraOptionsMenu_Presets" translation="Configurazione"/>
+  	<entry key="CameraOptionsMenu_Presets" translation="Configurazione"/>
 		<entry key="CameraOptionsMenu_Presets_Centre" translation="Semplice"/>
 		<entry key="CameraOptionsMenu_Presets_Centre_ToolTip" translation="Questo preset utilizza l'opzione Centra in Mezzo ed è per lo più simile ai giochi di strategia e gestionali. Funziona meglio nei parchi piatti.\n\nImpostazione predefinita."/>
-		<entry key="CameraOptionsMenu_Presets_Cursor" translation="Alternata"/>
+  	<entry key="CameraOptionsMenu_Presets_Cursor" translation="Alternata"/>
 		<entry key="CameraOptionsMenu_Presets_Cursor_ToolTip" translation="Questo preset utilizza l'opzione Centra sul Mouse. Funziona meglio nei parchi con terreno complesso."/>
 		<entry key="CameraOptionsMenu_Presets_Custom" translation="Personalizzata"/>
 		<entry key="CameraOptionsMenu_Presets_Hybrid" translation="Avanzata"/>
@@ -4985,7 +4985,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_SKLL" translation="Il Teschio? E' apparso un bel giorno, sorgendo dal terreno in cerca di vendetta... o almeno credo. Si vocifera che sia maledetto, ma tutto quel che so è che rende scontenti i visitatori. Serve il tuo aiuto per contrastare gli effetti del Teschio, altrimenti il parco non si risolleverà. Rendi felici i visitatori e aumentane il numero. Assumi intrattenitori, avvia campagne di marketing, fai tutto ciò che meglio credi per gonfiare le casse."/>
 		<entry key="FrontEndMenu_ScenarioDetails_SSMR" translation="La famiglia Silversmith sta aprendo un parco a tema sfruttando i terreni di sua proprietà per contrastare l'inarrestabile ascesa dei propri debiti. Il tuo compito sarà quello di creare un parco di successo, lontano dagli abissi della crisi, ma tenendo conto di qualche piccolo accorgimento... I Silversmith sono persone decisamente all'antica e permetteranno la costruzione di sole attrazioni ‘tradizionali’, so you may want to aim your Marketing efforts at families and ensure your ride sequences offer value for money. Oh, dimenticavo... costruisci con attenzione, dato che la proprietà tratterrà una percentuale su eventuali rimborsi... Buona fortuna!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_TGTR" translation="Dicono che questo albero sia il cuore del mondo. Sarai in grado di portare il giusto rispetto a Madre Natura realizzando un parco tematico amico dell'ambiente attorno al maestoso albero, o metterai in vendita il bosco per profitto, spremendo il più possibile questo angolo verde di paradiso?"/>
-		<entry key="FrontEndMenu_ScenarioName_CTKG" translation="Il Re dei Coaster"/>
+  	<entry key="FrontEndMenu_ScenarioName_CTKG" translation="Il Re dei Coaster"/>
 		<entry key="FrontEndMenu_ScenarioName_GLLY" translation="Perbacco, ti ho nel sacco!"/>
 		<entry key="FrontEndMenu_ScenarioName_GOLM" translation="La Furia del Golem"/>
 		<entry key="FrontEndMenu_ScenarioName_KRKN" translation="Il Risveglio della Creatura"/>
@@ -5062,21 +5062,21 @@
 		<!--Coasters-->
 		<entry key="Coaster_Aethon" translation="Aethon"/>
 		<entry key="Coaster_Aethon_Desc" translation="Montagna Russa a caduta verticale, vetture senza fondo ad alta capacità per una sensazione extra di vulnerabiiltà ai passeggeri."/>
-		<entry key="Coaster_Anubis" translation="Anubis"/>
+  	<entry key="Coaster_Anubis" translation="Anubis"/>
 		<entry key="Coaster_Anubis_Desc" translation="Hypercoaster dedicato tutto al tempo in volo e alle alte forze di gravità verticali."/>
 		<entry key="Coaster_BFalcon" translation="Black Falcon"/>
 		<entry key="Coaster_BFalcon_Desc" translation="Montagna Russa spinta a catena che posiziona i passeggeri ad entrambi i lati della pista, senza niente al di sopra o sotto di essi, dando un senso senza precedenti di libertà.."/>
-		<entry key="Coaster_BLisk" translation="Basilisk"/>
+  	<entry key="Coaster_BLisk" translation="Basilisk"/>
 		<entry key="Coaster_BLisk_Desc" translation="Montagna Russa a binario singolo che può invertirsi."/>
 		<entry key="Coaster_Barghest" translation="Barghest"/>
 		<entry key="Coaster_Barghest_Desc" translation="Montagna Russa Euro-Fighter ad alta versatilità che ha come protagonista un angolo di caduta senza precedenti di 121 gradi, insieme a sollevamenti a catena e lanci a motore."/>
-		<entry key="Coaster_Boa" translation="Boa"/>
+  	<entry key="Coaster_Boa" translation="Boa"/>
 		<entry key="Coaster_Boa_Desc" translation="Montagna Russa invertita che si presta a torsioni e serpentine lungo il tracciato."/>
 		<entry key="Coaster_CanyonRun" translation="Canyon Runner"/>
 		<entry key="Coaster_CanyonRun_Desc" translation="Montagna Russa a tema Miniera, con una vettura di testa a forma di locomotiva."/>
 		<entry key="Coaster_CloudR" translation="Cloud Runner"/>
 		<entry key="Coaster_CloudR_Desc" translation="Montagna Russa alimentata da LSM che posiziona i passeggeri ad entrambi i lati della pista, senza niente al di sopra o sotto di essi, dando un senso senza precedenti di libertà."/>
-		<entry key="Coaster_Dragon" translation="Dragon"/>
+  	<entry key="Coaster_Dragon" translation="Dragon"/>
 		<entry key="Coaster_Dragon_Desc" translation="Una Montagna Russa con vetture a forma di drago per emozionare sia gli adulti che i bambini."/>
 		<entry key="Coaster_Enigma" translation="Enigma"/>
 		<entry key="Coaster_Enigma_Desc" translation="Assicura i passeggeri in posizione in piedi mentre percorrono la pista."/>
@@ -5084,31 +5084,31 @@
 		<entry key="Coaster_Equalizer_Desc" translation="Hypercoaster con treni in stile anni '80."/>
 		<entry key="Coaster_Fury" translation="Iron Fury"/>
 		<entry key="Coaster_Fury_Desc" translation="Montagna Russa in legno con con una piastra in acciaio aggiunta agli strati superiori della pista, permettendole di invertire."/>
-		<entry key="Coaster_GASM" translation="The American Arrow"/>
-		<entry key="Coaster_GASM_Desc" translation="Specialmente progettato per le inversioni."/>
+  	<entry key="Coaster_GASM" translation="The American Arrow"/>
+		<entry key="Coaster_GASM_Desc" translation="Progettato specialmente per le inversioni."/>
 		<entry key="Coaster_Invincible" translation="Invincible"/>
 		<entry key="Coaster_Invincible_Desc" translation="Giga coaster che utilizza un sistema di sollevamento a cavo."/>
 		<entry key="Coaster_LTurns" translation="Loony Turns"/>
 		<entry key="Coaster_LTurns_Desc" translation="Queste montagne russe hanno come protagoniste virate anormali, cadute quasi verticali e angoli stretti."/>
-		<entry key="Coaster_MUC" translation="Malice Unchained"/>
+  	<entry key="Coaster_MUC" translation="Malice Unchained"/>
 		<entry key="Coaster_MUC_Desc" translation="Pista d'acciaio e Montagna Russa di legno combinate per creare un coaster ibrido che può invertirsi, pur mantenendo l'aspetto e le caratteristiche di un coaster in legno."/>
-		<entry key="Coaster_MtSplash" translation="Chopper's Creek"/>
+  	<entry key="Coaster_MtSplash" translation="Chopper's Creek"/>
 		<entry key="Coaster_MtSplash_Desc" translation="Attrazione di tronchi nell'acqua, che può essere usata per costruire una tranquilla attrazione nel fiume o un'emozionante attrazione con grandi discese."/>
-		<entry key="Coaster_Pioneer" translation="Pioneer"/>
+  	<entry key="Coaster_Pioneer" translation="Pioneer"/>
 		<entry key="Coaster_Pioneer_Desc" translation="I passeggeri siedono in carrozze che sono sospese sul lato della pista e possono liberamente ruotare longitudinalmente."/>
-		<entry key="Coaster_Rage" translation="Rage"/>
+  	<entry key="Coaster_Rage" translation="Rage"/>
 		<entry key="Coaster_Rage_Desc" translation="Capace di vertiginose salite e discese ."/>
 		<entry key="Coaster_Rival" translation="Rival"/>
 		<entry key="Coaster_Rival_Desc" translation="Montagna Russa invertita dove i passeggeri sono assicurati al di sotto della pista."/>
 		<entry key="Coaster_SRay" translation="Stingray"/>
 		<entry key="Coaster_SRay_Desc" translation="Costringe i passeggeri in una posizione prona, con la testa in avanti, dando loro la sensazione di volare lungo la pista."/>
-		<entry key="Coaster_Sp500" translation="Sprint 500"/>
+  	<entry key="Coaster_Sp500" translation="Sprint 500"/>
 		<entry key="Coaster_Sp500_Desc" translation="Accelera più velocemente di un'auto da corsa grazie ad un sistema di lancio idraulico."/>
 		<entry key="Coaster_Spiral" translation="Spiral"/>
 		<entry key="Coaster_Spiral_Desc" translation="Ha come protagonista auto che possono ruotare liberamente su un asse verticale."/>
 		<entry key="Coaster_TestPilot" translation="Test Pilot"/>
 		<entry key="Coaster_TestPilot_Desc" translation="Montagna Russa a 4 dimensioni in cui le cabine possono essere dotate di angoli di rotazione impostati."/>
-		<entry key="Coaster_Tiamat" translation="Tiamat"/>
+  	<entry key="Coaster_Tiamat" translation="Tiamat"/>
 		<entry key="Coaster_Tiamat_Desc" translation="Montagna Russa dove i sedili esterni sono posizionati oltre il bordo della pista."/>
 		<entry key="Coaster_Torque" translation="Torque"/>
 		<entry key="Coaster_Torque_Desc" translation="Montagna Russa lanciata che include un giro della morte con parabola integrata."/>
@@ -5149,7 +5149,7 @@
 		<entry key="Coaster_Type_WoodenTopperTrack" translation="Ibrida - Parte alta in Acciaio"/>
 		<entry key="Coaster_WWolf" translation="Werewolf"/>
 		<entry key="Coaster_WWolf_Desc" translation="Costringe i passeggeri in posizione seduta, ma senza fondo in modo che le gambe penzolino liberamente sopra la pista."/>
-		<entry key="Coaster_Wend" translation="Wendigo"/>
+  	<entry key="Coaster_Wend" translation="Wendigo"/>
 		<entry key="Coaster_Wend_Desc" translation="Una Montagna Russa per emozionare sia adulti che bambini."/>
 		<entry key="Coaster_WoodenSwitchbackReversing" translation="The Monster"/>
 		<entry key="Coaster_WoodenSwitchbackReversing_Desc" translation="Una Montagna Russa di tipo tradizionale prevalentemente in legno, che si traduce in una corsa entusiasmante, ruvida e selvaggia."/>
@@ -5191,13 +5191,13 @@
 		<entry key="TrackFeature_VerticalChainLiftAndLinearSyncronousMotor" translation="- Sollevamento a catena verticale e LSM"/>
 		<entry key="Transport_Connie" translation="Connie Express"/>
 		<entry key="Transport_Connie_Desc" translation="Classica Ferrovia con treno a vapore per escursioni sceniche con i visitatori o trasporto intorno al parco."/>
-		<entry key="Transport_IronHorse" translation="Iron Horse"/>
+  	<entry key="Transport_IronHorse" translation="Iron Horse"/>
 		<entry key="Transport_IronHorse_Desc" translation="Classica Ferrovia con treno a vapore per escursioni sceniche con i visitatori o trasporto intorno al parco."/>
-		<entry key="Transport_SilvStar" translation="Light Line"/>
+  	<entry key="Transport_SilvStar" translation="Light Line"/>
 		<entry key="Transport_SilvStar_Desc" translation="Veloce ed efficente monorotaia per escursioni sceniche con i visitatori o trasporto intorno al parco."/>
-		<entry key="Water_RollingRiver" translation="Rolling River"/>
+  	<entry key="Water_RollingRiver" translation="Rolling River"/>
 		<entry key="Water_RollingRiver_Desc" translation="Attrazione acquatica sulle rapide del fiume, dove i passeggeri siedono in gommoni circolari e viaggiano lungo sezioni d'acqua a scorrimento veloce."/>
-		<!--CommunityTranslation-->
+  	<!--CommunityTranslation-->
 		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
 		<!--Facilities-->
 		<entry key="BuildingPartDesc_AT_Atm_Standard" translation="Un dispositivo che permette ai visitatori di prelevare denaro.\nStruttura"/>
@@ -5380,88 +5380,88 @@
 		<!--FlatRides-->
 		<entry key="FR_360PWR" translation="Power 360"/>
 		<entry key="FR_360PWR_Desc" translation="Ruota in ogni direzione a bordo di questo feroce pendolo gigante.\nAttrazione Forte"/>
-		<entry key="FR_360PWR_Prefix" translation="Power 360"/>
+  	<entry key="FR_360PWR_Prefix" translation="Power 360"/>
 		<entry key="FR_COP" translation="Seggiolini Volanti"/>
 		<entry key="FR_COP_Desc" translation="Vola a bordo di questo classico carosello sospeso.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_COP_Prefix" translation="Seggiolini Volanti"/>
 		<entry key="FR_Caro" translation="Carosello Veneziano"/>
 		<entry key="FR_Caro_Desc" translation="Un tradizionale carosello in stile Vittoriano, riportato fedelmente in vita.\nAttrazione Tranquilla"/>
-		<entry key="FR_Caro_Prefix" translation="Carosello Veneziano"/>
+  	<entry key="FR_Caro_Prefix" translation="Carosello Veneziano"/>
 		<entry key="FR_Cube" translation="Il Cubo"/>
 		<entry key="FR_Cube_Desc" translation="Affronta l'acrobatico terrore della geometria!\nAttrazione Forte"/>
 		<entry key="FR_Cube_Prefix" translation="Il Cubo"/>
 		<entry key="FR_Demonic" translation="Ingranaggi di Paura"/>
 		<entry key="FR_Demonic_Desc" translation="Divertiti con le macchinazioni di questo confusionario Top Spin.\nAttrazione Forte"/>
-		<entry key="FR_Demonic_Prefix" translation="Ingranaggi di Paura"/>
+  	<entry key="FR_Demonic_Prefix" translation="Ingranaggi di Paura"/>
 		<entry key="FR_Forge" translation="Fucina"/>
 		<entry key="FR_Forge_Desc" translation="Ruota, dondola e casca a bordo di questa macchina infernale.\nAttrazione Forte"/>
 		<entry key="FR_Forge_Prefix" translation="Fucina"/>
 		<entry key="FR_Genie" translation="Genio della Lampada"/>
 		<entry key="FR_Genie_Desc" translation="Affronta un folle volo in compagnia del Genio a bordo di questo Skater Coaster.\nAttrazione Tranquilla"/>
-		<entry key="FR_Genie_Prefix" translation="Genio della Lampada"/>
+  	<entry key="FR_Genie_Prefix" translation="Genio della Lampada"/>
 		<entry key="FR_Gondola" translation="Aeronauti"/>
 		<entry key="FR_Gondola_Desc" translation="Abbandonati alla maestosità del cielo a bordo di queste gloriose mongolfiere.\nAttrazione Tranquilla"/>
-		<entry key="FR_Gondola_Prefix" translation="Aeronauti"/>
+  	<entry key="FR_Gondola_Prefix" translation="Aeronauti"/>
 		<entry key="FR_HRing" translation="Anello Dispettoso"/>
 		<entry key="FR_HRing_Desc" translation="Preparati ad affrontare l'insidioso giro della morte!&#10;Attrazione Forte"/>
 		<entry key="FR_HRing_Prefix" translation="Anello Dispettoso"/>
 		<entry key="FR_HSwing" translation="Oscillometro"/>
 		<entry key="FR_HSwing_Desc" translation="Fai sentire le tue urla mentre oscili a bordo di questo pendolo gigante!\nAttrazione Forte"/>
-		<entry key="FR_HSwing_Prefix" translation="Oscillometro"/>
+  	<entry key="FR_HSwing_Prefix" translation="Oscillometro"/>
 		<entry key="FR_Insan" translation="Follia"/>
 		<entry key="FR_Insan_Desc" translation="Tieniti forte! Questo doppio martello oscillante ti porterà fuori dalla realtà!\nAttrazione Forte"/>
-		<entry key="FR_Insan_Prefix" translation="Follia"/>
+  	<entry key="FR_Insan_Prefix" translation="Follia"/>
 		<entry key="FR_Kick" translation="Ruota Panoratomica"/>
 		<entry key="FR_Kick_Desc" translation="Un tocco di modernità ad un grande classico.\nAttrazione Forte"/>
 		<entry key="FR_Kick_Prefix" translation="Ruota Panoratomica"/>
 		<entry key="FR_Looper" translation="Looper"/>
 		<entry key="FR_Looper_Desc" translation="Un enorme anello ad alta velocità che spingerà i limiti della resistenza umana ad un nuovo livello!&#10;Attrazione Forte"/>
-		<entry key="FR_Looper_Prefix" translation="Looper"/>
+  	<entry key="FR_Looper_Prefix" translation="Looper"/>
 		<entry key="FR_Magtrl" translation="Volteggio Magico"/>
 		<entry key="FR_Magtrl_Desc" translation="Un ammaliante carosello sospeso per tutta la famiglia.\nAttrazione Tranquilla"/>
 		<entry key="FR_Magtrl_Prefix" translation="Volteggio Magico"/>
 		<entry key="FR_MindB" translation="Psiconauta"/>
 		<entry key="FR_MindB_Desc" translation="Questo percorso ondeggiante metterà a dura prova il tuo corpo e la tua mente!\nAttrazione Forte"/>
-		<entry key="FR_MindB_Prefix" translation="Psiconauta"/>
+   <entry key="FR_MindB_Prefix" translation="Psiconauta"/>
 		<entry key="FR_Orb" translation="Radius"/>
 		<entry key="FR_Orb_Desc" translation="Impossibile godere di una vista migliore di quella che puoi avere a bordo di questa gigantesca Ruota Panoramica senza perno.\nAttrazione Tranquilla"/>
-		<entry key="FR_Orb_Prefix" translation="Radius"/>
+  	<entry key="FR_Orb_Prefix" translation="Radius"/>
 		<entry key="FR_Overpower" translation="Overpower"/>
 		<entry key="FR_Overpower_Desc" translation="La modernità che i visitatori amano.&#10;Attrazione Forte"/>
 		<entry key="FR_Overpower_Prefix" translation="Overpower"/>
 		<entry key="FR_Polyp" translation="Rocktopus"/>
 		<entry key="FR_Polyp_Desc" translation="Questa rockeggiante attrazione tirerà fuori il ballerino che c'è in te.\nAttrazione Tranquilla"/>
-		<entry key="FR_Polyp_Prefix" translation="Rocktopus"/>
+  	<entry key="FR_Polyp_Prefix" translation="Rocktopus"/>
 		<entry key="FR_SFlare" translation="Raggio di Sole"/>
 		<entry key="FR_SFlare_Desc" translation="Nulla ti separa dal cielo quando sei a bordo di questa fantastica variante dei Seggiolini Volanti.\nAttrazione Forte"/>
-		<entry key="FR_SFlare_Prefix" translation="Raggio di Sole"/>
+  	<entry key="FR_SFlare_Prefix" translation="Raggio di Sole"/>
 		<entry key="FR_SKFR" translation="Asso dei Cieli"/>
 		<entry key="FR_SKFR_Desc" translation="Librati nell'aria e vivi l'esperienza di un'acrobatica battaglia aerea.\nAttrazione Forte"/>
-		<entry key="FR_SKFR_Prefix" translation="Asso dei Cieli"/>
+  	<entry key="FR_SKFR_Prefix" translation="Asso dei Cieli"/>
 		<entry key="FR_Scream" translation="Urlator"/>
 		<entry key="FR_Scream_Desc" translation="Questa gigantesca torre a caduta libera ti lascerà letteralmente senza fiato.\nAttrazione Forte"/>
-		<entry key="FR_Scream_Prefix" translation="Urlator"/>
+  	<entry key="FR_Scream_Prefix" translation="Urlator"/>
 		<entry key="FR_StarW" translation="Ruota Panoramica"/>
 		<entry key="FR_StarW_Desc" translation="Questa eccentrica ruota panoramica offre una dondolante sorpresa.\nAttrazione Tranquilla"/>
-		<entry key="FR_StarW_Prefix" translation="Ruota Panoramica"/>
+  	<entry key="FR_StarW_Prefix" translation="Ruota Panoramica"/>
 		<entry key="FR_Sundial" translation="Meridiana"/>
 		<entry key="FR_Sundial_Desc" translation="Questo pendolo gigante metterà a dura prova il tuo stomaco!\nAttrazione Forte"/>
 		<entry key="FR_Sundial_Prefix" translation="Meridiana"/>
 		<entry key="FR_TAW" translation="Iper Spin"/>
 		<entry key="FR_TAW_Desc" translation="Torna negli anni '20 a bordo di questa fantastica attrazione per famiglie!&#10;Attrazione Tranquilla"/>
-		<entry key="FR_TAW_Prefix" translation="Iper Spin"/>
+  	<entry key="FR_TAW_Prefix" translation="Iper Spin"/>
 		<entry key="FR_TeaCups" translation="Tazze Pazze"/>
 		<entry key="FR_TeaCups_Desc" translation="Fatti un giro su questo pilastro del divertimento.\nAttrazione Tranquilla"/>
 		<entry key="FR_TeaCups_Prefix" translation="Tazze Pazze"/>
 		<entry key="FR_TnyFrsWhl" translation="Botti e Polipi"/>
 		<entry key="FR_TnyFrsWhl_Desc" translation="Affronta un rilassante viaggio a bordo di questa piccola Ruota Paronamica sospesa sull'oceano.\nAttrazione Tranquilla"/>
-		<entry key="FR_TnyFrsWhl_Prefix" translation="Botti e Polipi"/>
+  	<entry key="FR_TnyFrsWhl_Prefix" translation="Botti e Polipi"/>
 		<entry key="FR_Victory" translation="Trionfo"/>
 		<entry key="FR_Victory_Desc" translation="Tuffati in mare aperto a bordo di questa grande nave oscillante.\nAttrazione Tranquilla"/>
-		<entry key="FR_Victory_Prefix" translation="Trionfo"/>
+  	<entry key="FR_Victory_Prefix" translation="Trionfo"/>
 		<entry key="FR_WBlue" translation="Blu Profondo"/>
 		<entry key="FR_WBlue_Desc" translation="Capovolgiti e plana, e diventa una stella di questo glorioso spettacolo aereo.\nAttrazione Forte"/>
-		<entry key="FR_WBlue_Prefix" translation="Blu Profondo"/>
+  	<entry key="FR_WBlue_Prefix" translation="Blu Profondo"/>
 		<entry key="Sequence_FR_360PWR_HalfSwing" translation="Mezza oscillazione"/>
 		<entry key="Sequence_FR_360PWR_Loop" translation="Giro della morte"/>
 		<entry key="Sequence_FR_360PWR_ReverseHalfSwing" translation="Mezza oscillazione inversa"/>
@@ -5693,7 +5693,7 @@
 		<entry key="FrontEndMenu_Career" translation="Carriera"/>
 		<entry key="FrontEndMenu_CareerCurrent" translation="{Value:int}"/>
 		<entry key="FrontEndMenu_CareerDescription" translation="Inizia una carriera e gestisci un parco a tema. Completa vari e sempre più difficili scenari e guarda quanto puoi andare lontano!"/>
-		<entry key="FrontEndMenu_CareerLastPlayed" translation="Ultima Partita Giocata"/>
+  	<entry key="FrontEndMenu_CareerLastPlayed" translation="Ultima Partita Giocata"/>
 		<entry key="FrontEndMenu_CareerNewSet" translation="NEW!"/>
 		<entry key="FrontEndMenu_CareerPrevious" translation="I Miei Parchi"/>
 		<entry key="FrontEndMenu_CareerPreviousTooltips" translation="Carica salvataggio precedente"/>
@@ -5738,7 +5738,7 @@
 		<entry key="FrontEndMenu_DifficultyEasy" translation="Facile"/>
 		<entry key="FrontEndMenu_DifficultyEasy_Description" translation="Budget Iniziale: $8000&#10;&#10;- Molti oggetti ricercati&#10;- La Felicità dei visitatori cala lentamente&#10;- Il Tasso di Rottura è lento"/>
 		<entry key="FrontEndMenu_DifficultyExplanation" translation="A difficoltà più elevate potrai aspettarti:&#10;• Meno denaro in partenza.&#10;• Pochissimi elementi ricercati.&#10;• Felicità dei visitatori che cala più velocemente.&#10;• Guasti più frequenti.&#10;• Declino reputazione attrazioni più veloce.&#10;• Visitatori più difficili da attirare."/>
-		<entry key="FrontEndMenu_DifficultyHard" translation="Difficile"/>
+  	<entry key="FrontEndMenu_DifficultyHard" translation="Difficile"/>
 		<entry key="FrontEndMenu_DifficultyHard_Description" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- a Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente"/>
 		<entry key="FrontEndMenu_DifficultyHarder" translation="Difficilissima"/>
 		<entry key="FrontEndMenu_DifficultyHarder_Description" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- La Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente&#10;- I Visitatori sono più difficili da attirare"/>
@@ -5775,7 +5775,7 @@
 		<entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Spedisci un gruppo là fuori nei parchi dell'universo Planet Coaster!"/>
 		<entry key="FrontEndMenu_GroupEditor_InfoTitle" translation="Crea il tuo Biglietto VIP Gruppo!"/>
 		<entry key="FrontEndMenu_HQPlacement_InfoLabel" translation="Il Quartier Generale è dove gli altri giocatori vedranno il tuo avatar e avranno accesso ad ogni parco o progetto che hai condiviso.\n\nPosiziona il tuo avatar in qualsiasi parte del globo. Puoi modificare la posizione del Quartier Generale del tuo avatar anche dopo."/>
-		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo Quartier Generale!"/>
+  	<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo Quartier Generale!"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptCancel" translation="No"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Sì"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptLabel" translation="Sei sicuro?\n\nPotrai modificarlo in seguito."/>
@@ -5822,7 +5822,7 @@
 		<entry key="FrontEndMenu_Resume" translation="Continua"/>
 		<entry key="FrontEndMenu_Sandbox" translation="Sandbox"/>
 		<entry key="FrontEndMenu_SandboxDescription" translation="Avvia un nuovo parco in una fresca pianura e lascia volare la tua immaginazione! Sei libero di costruire senza restrizioni!"/>
-		<entry key="FrontEndMenu_SaveAuthorGameMode" translation="{Name}, {GameMode}"/>
+    <entry key="FrontEndMenu_SaveAuthorGameMode" translation="{Name}, {GameMode}"/>
 		<entry key="FrontEndMenu_SaveParkName" translation="{Name}"/>
 		<entry key="FrontEndMenu_SaveParkNameAndDifficulty" translation="{Name} ({Difficulty})"/>
 		<entry key="FrontEndMenu_Search" translation="Cerca"/>
@@ -5836,7 +5836,7 @@
 		<entry key="FrontEndMenu_SettingsButton" translation="Impostazioni"/>
 		<entry key="FrontEndMenu_Simulation" translation="Sfida"/>
 		<entry key="FrontEndMenu_SimulationDescription" translation="Dovrai saper gestire i tuoi soldi per aver successo. Inizierai con opzioni limitate e dovrai guadagnarti il successo verso un parco più grande."/>
-		<entry key="FrontEndMenu_Skip" translation="Salta"/>
+    <entry key="FrontEndMenu_Skip" translation="Salta"/>
 		<entry key="FrontEndMenu_SortBy" translation="Ordina Per"/>
 		<entry key="FrontEndMenu_SortByLastPlayedAscending" translation="+Vecchio"/>
 		<entry key="FrontEndMenu_SortByLastPlayedDescending" translation="+Recente"/>
@@ -5929,7 +5929,7 @@
 		<entry key="FrontEndMenu_Welcome" translation="Benvenuto!"/>
 		<entry key="FrontEndMenu_WelcomeWindowButtonLabel" translation="Crea il mio avatar!"/>
 		<entry key="FrontEndMenu_WelcomeWindowLabel" translation="Grazie per esserti unito a noi, sei solo a pochi passi dal provare il mondo di Planet Coaster!\n\nPer prima cosa creeremo un avatar di te stesso per rappresentare le tue meravigliose creazioni nella comunità di Planet Coaster.\n\nAssicurati di creare qualcuno che i tuoi amici riconosceranno!"/>
-		<entry key="FrontEndMenu_WelcomeWindowTitle" translation="Benvenuto su Planet Coaster!"/>
+  	<entry key="FrontEndMenu_WelcomeWindowTitle" translation="Benvenuto su Planet Coaster!"/>
 		<entry key="FrontEndMenu_WhatsNew" translation="Novità?"/>
 		<entry key="FrontEndMenu_WhatsNewDescription" translation="Prossimamente!"/>
 		<entry key="FrontEndMenu_WorkshopItemDesc" translation="{Name}"/>
@@ -12064,14 +12064,14 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Annulla/Chiudi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per posizionare il prossimo pezzo di tracciato."/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} su Pezzo Posizionato"/>
+  	<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} su Pezzo Posizionato"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Montagna Russa"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Gli Inneschi sulle Montagne Russe permettono di attivare oggetti animati ed effetti speciali quando una vettura raggiunge uno specifico punto della pista."/>
-		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
+  	<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
 		<entry key="HUD_HelpPopup_Controls" translation="{ControlText}"/>
 		<entry key="HUD_HelpPopup_DisplaySequencer_Description" translation="La Console Effetti Speciali ti permette di innescare più oggetti ed eventi tramite pianificazione, un singolo passaggio o un innesco della Montagna Russa."/>
-		<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Console Effetti Speciali"/>
+  	<entry key="HUD_HelpPopup_DisplaySequencer_Title" translation="Console Effetti Speciali"/>
 		<entry key="HUD_HelpPopup_DontShow" translation="Disabilita Consigli"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Conferma Posizione"/>
 		<entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Annulla Posizione"/>
@@ -12089,7 +12089,7 @@
 		<entry key="HUD_HelpPopup_MultiSelect_Command_02" translation="Annulla/Chiudi"/>
 		<entry key="HUD_HelpPopup_MultiSelect_Command_03" translation="Aggiungi/Rimuovi Selezione"/>
 		<entry key="HUD_HelpPopup_MultiSelect_Description" translation="La Selezione Multipla ti permette di selezionare più oggetti per modificare o creare un progetto. Trascina la Selezione sugli oggetti che vuoi, oppure tieni premuto Ctrl e selezionali o deselezionali individualmente."/>
-		<entry key="HUD_HelpPopup_MultiSelect_Title" translation="Controlli Base"/>
+  	<entry key="HUD_HelpPopup_MultiSelect_Title" translation="Controlli Base"/>
 		<entry key="HUD_HelpPopup_Paths_Command_01" translation="Posiziona Sentiero"/>
 		<entry key="HUD_HelpPopup_Paths_Command_02" translation="Elimina Sentiero"/>
 		<entry key="HUD_HelpPopup_Paths_Command_03" translation="Alza/Abbassa Sentiero"/>
@@ -12108,7 +12108,7 @@
 		<entry key="HUD_HelpPopup_Paths_Command_16" translation="Attiva Appiattisci Terreno"/>
 		<entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella Continuo"/>
 		<entry key="HUD_HelpPopup_Paths_Description" translation="Posiziona i sentieri per permettere ai visitatori di andare in giro. I sentieri collegano l'entrata del parco alle attrazioni e ai negozi in tutto il parco."/>
-		<entry key="HUD_HelpPopup_Paths_Title" translation="Controlli dei sentieri"/>
+  	<entry key="HUD_HelpPopup_Paths_Title" translation="Controlli dei sentieri"/>
 		<entry key="HUD_HelpPopup_Ping" translation="Clicca qui per aiuto sui controlli"/>
 		<entry key="HUD_HelpPopup_QuickStart" translation="Tasti Controlli"/>
 		<entry key="HUD_HelpPopup_RidePlacement_Command_01" translation="Conferma Posizione"/>
@@ -12162,7 +12162,7 @@
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Description" translation="Posiziona gli oggetti con il cursore prima di inserirli nel parco. Usa la tastiera per attivare la rotazione e i controlli altezza."/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Controlli Posizionamento"/>
 		<entry key="HUD_HelpPopup_SceneryPlacement_PathExtra_Description" translation="Gli Extra per Sentieri possono rendere il tuo parco un posto più bello per i visitatori. Usa il cursore per posizionare gli Extra sopra o lungo gli angoli dei tuoi sentieri, così che i visitatori possano usarli."/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Seleziona Elemento"/>
+  	<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Seleziona Elemento"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Selezione Multipla"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Cancella Selezione"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_04" translation="Aggiungi/Rimuovi Selezione (Interruttore)"/>
@@ -12183,7 +12183,7 @@
 		<entry key="HUD_HelpPopup_Select_Command_14" translation="Ripeti"/>
 		<entry key="HUD_HelpPopup_Select_Command_15" translation="Menù Salvataggio Parco"/>
 		<entry key="HUD_HelpPopup_Select_Description" translation="Seleziona un oggetto nel parco per vedere il suo pannello informazioni e le opzioni di gestione. Apri i menù in basso allo schermo per iniziare a costruire o vedere più opzioni."/>
-		<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
+  	<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_01" translation="Posiziona Membro dello Staff"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_02" translation="Annulla Posizionamento"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di inserirlo nel parco."/>
@@ -12193,9 +12193,9 @@
 		<entry key="HUD_HelpPopup_Terrain_Command_03" translation="Intensità Pennello"/>
 		<entry key="HUD_HelpPopup_Terrain_Command_04" translation="Misura Pennello"/>
 		<entry key="HUD_HelpPopup_Terrain_Description" translation="Cambia il paesaggio del tuo parco con questi strumenti creativi. Seleziona da una varietà di pennelli per scolpire, dipingere e aggiungere acqua, quindi applica nell'area attorno al cursore."/>
-		<entry key="HUD_HelpPopup_Terrain_Title" translation="Modifica Controlli Terreno"/>
+  	<entry key="HUD_HelpPopup_Terrain_Title" translation="Modifica Controlli Terreno"/>
 		<entry key="HUD_HelpPopup_TransportEdit_Description" translation="Le attrazioni di Trasporto ti permettono di posizionare più stazioni, che offrono ciascuna un nuovo punto di salita per i visitatori. Usa i pulsanti in sovrimpressione per manipolare il tracciato con un controllo preciso.Clicca con il sinistro fuori dall'attrazione per posizionare il prossimo pezzo di tracciato."/>
-		<entry key="HUD_HelpPopup_TransportEdit_Title" translation="Controlli Modifica Attrazioni di Trasporto"/>
+  	<entry key="HUD_HelpPopup_TransportEdit_Title" translation="Controlli Modifica Attrazioni di Trasporto"/>
 		<entry key="HUD_MangementMenu_Manage" translation="Gestione Parco"/>
 		<entry key="HUD_MangementMenu_ParkName" translation="{Name}"/>
 		<entry key="HUD_MarketingBonus" translation="Bonus Marketing "/>
@@ -12532,10 +12532,10 @@
 		<entry key="PopUp_Ride_MaxWaitingTime" translation="Tempo d'attesa Massimo"/>
 		<entry key="PopUp_Ride_MaxWaitingTimeHint" translation="Tempo massimo tra il primo passeggero che sale e il treno che lascia la stazione, senza contare il Carico Passeggeri Minimo."/>
 		<entry key="PopUp_Ride_MaxWaitingTimeRideHint" translation="Tempo massimo tra il primo passeggero che sale e l'avvio dell'attrazione, senza contare il Carico Passeggeri Minimo."/>
-		<entry key="PopUp_Ride_MaximumGroupSize" translation="Grandezza massima gruppo: {VALUE:int}"/>
+  	<entry key="PopUp_Ride_MaximumGroupSize" translation="Grandezza massima gruppo: {VALUE:int}"/>
 		<entry key="PopUp_Ride_MinWaitingTime" translation="Tempo d'attesa Minimo"/>
 		<entry key="PopUp_Ride_MinWaitingTimeHint" translation="Tempo minimo tra il primo passeggero che sale e il treno che lascia la stazione. Accorcia i tempi della coda."/>
-		<entry key="PopUp_Ride_MinWaitingTimeRideHint" translation="Tempo minimo tra il primo passeggero che sale e l'avvio dell'attrazione. Accorcia i tempi della coda."/>
+  	<entry key="PopUp_Ride_MinWaitingTimeRideHint" translation="Tempo minimo tra il primo passeggero che sale e l'avvio dell'attrazione. Accorcia i tempi della coda."/>
 		<entry key="PopUp_Ride_MinimumRiderHeight" translation="Altezza minima passeggero"/>
 		<entry key="PopUp_Ride_MinimumRiderHeight_Child" translation="Bambino"/>
 		<entry key="PopUp_Ride_MinimumRiderHeight_TeenAdult" translation="Giovane/Adulto"/>
@@ -12553,14 +12553,14 @@
 		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
 		<entry key="PopUp_Ride_NumTrains" translation="Numero di treni"/>
 		<entry key="PopUp_Ride_NumTrainsLimit" translation="Per aggiungere più treni prova ad aumentare la lunghezza della stazione, o ridurre il numero delle vetture per treno."/>
-		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più treni prova ad aggiungere sezioni aggiuntive."/>
+  	<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più treni prova ad aggiungere sezioni aggiuntive."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
 		<entry key="PopUp_Ride_Occupancy" translation="Riempimento: {LAST:float}% ({AVERAGE:float}% average)"/>
 		<entry key="PopUp_Ride_Operations_Soon" translation="Operazioni sull'attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_Options" translation="Opzioni Corsa"/>
 		<entry key="PopUp_Ride_Overview_Soon" translation="Panoramica attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_PassesHint" translation="Non è possibile modificare il numero di passaggi attraverso la stazione mentre l'attrazione è Aperta"/>
-		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
+  	<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
 		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Moltiplicatore diminuzione prestigio: {VALUE:float}"/>
 		<entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Entrate mensili stimate"/>
@@ -12573,7 +12573,7 @@
 		<entry key="PopUp_Ride_Refresh" translation="Aggiorna"/>
 		<entry key="PopUp_Ride_TimeBetweenDepartures" translation="Intervallo Partenze"/>
 		<entry key="PopUp_Ride_TimeBetweenDeparturesHint" translation="Il tempo che deve trascorrere prima di permettere al treno di partire&#10;- Utile per far spazio tra le vetture&#10;- Si applica anche quando l'attrazione è completamente carica"/>
-		<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minuti"/>
+  	<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minuti"/>
 		<entry key="PopUp_Ride_Time_1" translation="{TIME:int} Minuto"/>
 		<entry key="PopUp_Ride_Time_N" translation="{TIME:int} Minuti"/>
 		<entry key="PopUp_Ride_Time_Unknown" translation=""/>
@@ -12692,7 +12692,7 @@
 		<entry key="PopUp_DisplayCamera_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_DisplayCamera_DefaultName" translation="Videocamera {Value:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_DisplayCamera_Description" translation="Usa la visuale libera per inquadrare lo scatto perfetto. Clicca Aggiungi Videocamera per collegare la vista corrente alla nuova Videocamera."/>
-		<entry key="PopUp_DisplayCamera_Edit_Tooltip" translation="Sovrascrivi Videocamera"/>
+  	<entry key="PopUp_DisplayCamera_Edit_Tooltip" translation="Sovrascrivi Videocamera"/>
 		<entry key="PopUp_DisplayCamera_Focus_Tooltip" translation="Localizza Videocamera"/>
 		<entry key="PopUp_DisplayCamera_Header" translation="Collega Videocamera"/>
 		<entry key="PopUp_DisplayCamera_Name" translation="{Value}"/>
@@ -12909,7 +12909,7 @@
 		<entry key="InfoPanel_Date_PrestigeStateTooltip" translation="Reputazione&#10;Riflette l'età e la popolarità di una Attrazione e può influire sul suo Prestigio.&#10;&#10;Reputazione Corrente&#10;{Reputation}"/>
 		<entry key="InfoPanel_Date_PrestigeStateTooltipUnopen" translation="Reputazione&#10;Riflette l'età e la popolarità di una Attrazione e contribuisce sul suo Prestigio.&#10;&#10;(Attrazione non aperta)"/>
 		<entry key="InfoPanel_Date_Workload" translation="Carico di lavoro&#10;Indica la quantità di lavoro che i dipendenti hanno svolto nei mesi recenti&#10;Un carico di lavoro alto o basso può avere effetti sulla felicità di un dipendente&#10;L'addestramento permette ai dipendenti di affrontare più lavoro"/>
-		<entry key="InfoPanel_Ride_Close" translation="Chiudi"/>
+  	<entry key="InfoPanel_Ride_Close" translation="Chiudi"/>
 		<entry key="InfoPanel_Ride_CloseBeforeMove" translation="Devi chiudere l'attrazione prima di spostarla"/>
 		<entry key="InfoPanel_Ride_Delete" translation="Elimina"/>
 		<entry key="InfoPanel_Ride_Details" translation="Dettagli attrazione"/>
@@ -12970,7 +12970,7 @@
 		<entry key="InfoPanel_Ride_PrestigeTimelineScale" translation="Anni"/>
 		<entry key="InfoPanel_Ride_Prestige_ToolTip" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione ( {Reputation} )&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
 		<entry key="InfoPanel_Ride_Prestige_ToolTipAlt" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTip_UnknownReputation" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
+  	<entry key="InfoPanel_Ride_Prestige_ToolTip_UnknownReputation" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
 		<entry key="InfoPanel_Ride_Prestige_ValueUnknown" translation="-"/>
 		<entry key="InfoPanel_Ride_RebrandAcceptToolTip" translation="Accetta"/>
 		<entry key="InfoPanel_Ride_RebrandButton" translation="Rinnovamento ({cost:currency})"/>
@@ -13008,7 +13008,7 @@
 		<entry key="InfoPanel_Ride_Thoughts" translation="Pensieri dei Visitatori"/>
 		<entry key="InfoPanel_Ride_TicketPrice" translation="Prezzo Biglietto"/>
 		<entry key="InfoPanel_Ride_TicketPrice_ToolTip" translation="Quanto ogni visitatore deve pagare per questa attrazione.&#10;• Influisce su quanto i visitatori saranno disposti ad aspettare in coda.&#10;• Prezzi più bassi creeranno code più lunghe."/>
-		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Body" translation="{months:int} mesi"/>
+  	<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Body" translation="{months:int} mesi"/>
 		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Body_1" translation="1 mese"/>
 		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Tooltip" translation="Mesi dall'ultima ristrutturazione"/>
 		<entry key="InfoPanel_Ride_TimeUntilClassic" translation="{Time} fino a Classica"/>
@@ -13168,7 +13168,7 @@
 		<entry key="LoadingScreen_Tooltip_10" translation="Le Decorazioni si possono essere aggiungere su quasi tutte le superfici, non solo sui muri"/>
 		<entry key="LoadingScreen_Tooltip_11" translation="Puoi tenere premuto {#LogicalButton.MouseMiddle#} per guardarti attorno in alcune visuali dell'Attrazione"/>
 		<entry key="LoadingScreen_Tooltip_12" translation="I pulsanti per la visuale nello strumento Sentieri ti aiuteranno a creare percorsi migliori e più velocemente"/>
-		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve secche o morbide"/>
+  	<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve secche o morbide"/>
 		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Camera Attrazione per vivere l'esperienza da prospettive diverse"/>
 		<entry key="LoadingScreen_Tooltip_15" translation="Puoi premere '{#LogicalButton.GameCamera_FreelookMode#}' per attivare o disattivare la visuale libera"/>
 		<entry key="LoadingScreen_Tooltip_16" translation="Puoi rifare ogni azione utilizzando {#LogicalButton.Editors_Redo#}"/>
@@ -13180,16 +13180,16 @@
 		<entry key="LoadingScreen_Tooltip_21" translation="Quando si costruisce una Montagna Russa, premi {#LogicalButton.MouseLeft#} ovunque per posizionare un pezzo di tracciato"/>
 		<entry key="LoadingScreen_Tooltip_22" translation="Ogni tipo di Montagna Russa ha diversi strumenti e pezzi speciali"/>
 		<entry key="LoadingScreen_Tooltip_23" translation="Il Blocca Superficie permette che le modifiche al terreno siano relative al piano di superficie su cui si è cliccato inizialmente"/>
-		<entry key="LoadingScreen_Tooltip_24" translation="Quando si modifica il terreno, tieni premuto '{#LogicalButton.Editors_FlipDeformationDirectionModifier#}' per applicare temporaneamente il pennello Tira invece che Spingi e viceversa"/>
+  	<entry key="LoadingScreen_Tooltip_24" translation="Quando si modifica il terreno, tieni premuto '{#LogicalButton.Editors_FlipDeformationDirectionModifier#}' per applicare temporaneamente il pennello Tira invece che Spingi e viceversa"/>
 		<entry key="LoadingScreen_Tooltip_25" translation="Puoi ricevere idee su come migliorare il tuo parco leggendo i pensieri dei visitatori"/>
 		<entry key="LoadingScreen_Tooltip_26" translation="Puoi passare tra i controlli ‘mondo’ e ‘relativo’ mentre sei in Modalità Avanzata"/>
 		<entry key="LoadingScreen_Tooltip_27" translation="Usa “Filtra per Gruppo” per mostrare solo i pezzi di Scenario e di Edifici di un certo tipo"/>
 		<entry key="LoadingScreen_Tooltip_28" translation="Puoi gestire lo Staff di un negozio selezionando il pulsante Staff Venditore dal Menù Informazioni di quel negozio"/>
-		<entry key="LoadingScreen_Tooltip_29" translation="La Selezione Multipla ti permette di selezionare più oggetti da salvare come progetto"/>
+  	<entry key="LoadingScreen_Tooltip_29" translation="La Selezione Multipla ti permette di selezionare più oggetti da salvare come progetto"/>
 		<entry key="LoadingScreen_Tooltip_3" translation="Puoi regolare le impostazioni della visuale dal Menù Impostazioni"/>
 		<entry key="LoadingScreen_Tooltip_30" translation="Salva un progetto per ricostruire velocemente una struttura in futuro e condividerla con la comunità"/>
 		<entry key="LoadingScreen_Tooltip_31" translation="Mentre modifichi una struttura, puoi usare lo strumenti Dividi per crearne una nuova dalla tua selezione"/>
-		<entry key="LoadingScreen_Tooltip_32" translation="Puoi scaricare nuovi Progetti dallo Steam Workshop"/>
+  	<entry key="LoadingScreen_Tooltip_32" translation="Puoi scaricare nuovi Progetti dallo Steam Workshop"/>
 		<entry key="LoadingScreen_Tooltip_33" translation="Puoi caricare i tuoi progetti sullo Steam WorkShop e condividerli con il mondo!"/>
 		<entry key="LoadingScreen_Tooltip_34" translation="Il Menù Impostazioni di una struttura ti permette di modificare la griglia su cui lavori"/>
 		<entry key="LoadingScreen_Tooltip_35" translation="Puoi allineare i sentieri ad una griglia usando lo strumento Griglia nelle Impostazioni Sentiero"/>
@@ -13197,7 +13197,7 @@
 		<entry key="LoadingScreen_Tooltip_37" translation="Rendi le attrazioni più efficienti regolando le impostazioni di carico dei passeggeri"/>
 		<entry key="LoadingScreen_Tooltip_38" translation="Prova ad aggiungere una coda prioritaria nelle attrazioni più popolari"/>
 		<entry key="LoadingScreen_Tooltip_39" translation="Il Chiosco Informazioni vende i Pass Salta-Coda che permettono ai Visitatori di accedere alle code prioritarie"/>
-		<entry key="LoadingScreen_Tooltip_4" translation="Puoi cambiare il colore della tua interfaccia nel Menù Impostazioni"/>
+  	<entry key="LoadingScreen_Tooltip_4" translation="Puoi cambiare il colore della tua interfaccia nel Menù Impostazioni"/>
 		<entry key="LoadingScreen_Tooltip_40" translation="Puoi cambiare il colore di molti oggetti ed Attrazioni "/>
 		<entry key="LoadingScreen_Tooltip_41" translation="I Visitatori andranno sulle Attrazioni con un livello di Paura e Nausea che possono tollerare"/>
 		<entry key="LoadingScreen_Tooltip_42" translation="Più alta sarà la valutazione del tuo parco, più visitatori avrà!"/>
@@ -13526,7 +13526,7 @@
 		<entry key="Notification_GuestButton" translation="Visualizza visitatore"/>
 		<entry key="Notification_GuestPickpocketed" translation="E' stato denunciato un furto, la vittima non è sicura di quando sia successo. Una descrizione del sospetto è stata fornita alla Sicurezza."/>
 		<entry key="Notification_GuestPickpocketedNoSecurity" translation="E' stato denunciato un furto, la vittima non è sicura di quando sia successo. Ma non ci sono guardie a cui fornire una descrizione del sospetto!"/>
-		<entry key="Notification_GuestPickpocketedNoSecurityStacked" translation="Molti ladri segnalati nel parco ma sembrano non esserci guardie per prenderli!"/>
+  	<entry key="Notification_GuestPickpocketedNoSecurityStacked" translation="Molti ladri segnalati nel parco ma sembrano non esserci guardie per prenderli!"/>
 		<entry key="Notification_GuestPickpocketedStacked" translation="Molti ladri segnalati nel parco. La sicurezza è stata avvertita."/>
 		<entry key="Notification_GuestsHappiness" translation="Molti visitatori non sono felici"/>
 		<entry key="Notification_GuestsHappinessDropping" translation="La felicità media dei visitatori è in declino"/>
@@ -13537,7 +13537,7 @@
 		<entry key="Notification_GuestsTrapped" translation="Molti visitatori sono intrappolati nel parco."/>
 		<entry key="Notification_HighPickpocketing" translation="Nel tuo parco ci sono alti livelli di crimine, il risultato è molti visitatori infelici e a cui capitano più borseggi. Considera di migliorare la sicurezza."/>
 		<entry key="Notification_HighVandalism" translation="Nel parco ci sono molti oggetti vandalizzati, che ridurranno la felicità dei visitatorii e la valutazione del parco. Considera di assumere un Manutentore, migliorare la sicurezza e pensare alla felicità dei visitatori."/>
-		<entry key="Notification_MarketingButton" translation="Visualizza Marketing"/>
+    <entry key="Notification_MarketingButton" translation="Visualizza Marketing"/>
 		<entry key="Notification_MarketingCampaignCompleted" translation="La campagna di marketing si è conclusa&#10;'{Name}'"/>
 		<entry key="Notification_MarketingCampaignCompletedCantRenew" translation="La campagna di marketing è fallita per mancanza di fondi&#10;'{Name}'"/>
 		<entry key="Notification_MarketingCampaignCompletedCantRenewStacked" translation="Più campagne di marketing sono fallite per mancanza di fondi"/>
@@ -13825,7 +13825,7 @@
 		<entry key="OptionsMenu_ControlsGlobalSettings" translation="Impostazioni Globali"/>
 		<entry key="OptionsMenu_ControlsGlobalVerticalGrid" translation="Allineamento Altezza Globale"/>
 		<entry key="OptionsMenu_ControlsGlobalVerticalGridHint" translation="Le costruzioni e le attrazioni sono limitate ad un metro di altezza verticale. Rende più semplice allineare edifici, sentieri e stazioni dei costers."/>
-		<entry key="OptionsMenu_ControlsHeading" translation="Controlli"/>
+  	<entry key="OptionsMenu_ControlsHeading" translation="Controlli"/>
 		<entry key="OptionsMenu_Controls_Building_Edit" translation="Modalità Modifica Edifici"/>
 		<entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Posiziona Elemento\nSeleziona Elemento\nSeleziona un altro edificio"/>
 		<entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Annulla Posizionamentot\nCancella Elemento sotto il cursore"/>
@@ -13980,7 +13980,7 @@
 		<entry key="OptionsMenu_GlobalDisableTerrainObstructionHint" translation="Permetti al terreno di essere manipolato attraverso scenari o attrazioni esistenti."/>
 		<entry key="OptionsMenu_GlobalRideDecline" translation="Reputazione Attrazioni"/>
 		<entry key="OptionsMenu_GlobalRideDeclineHint" translation="Disabilita il cambiamento della reputazione delle attrazioni col passare del tempo. Si applica solo a specifici Scenari e a difficoltà in modalità Sfida."/>
-		<entry key="OptionsMenu_GlobalSecurityFeatures" translation="Gestione Sicurezza Parco"/>
+  	<entry key="OptionsMenu_GlobalSecurityFeatures" translation="Gestione Sicurezza Parco"/>
 		<entry key="OptionsMenu_GlobalSecurityFeaturesHint" translation="Attiva le funzioni Sicurezza. Alcuni Scenari la prevedono e ignoreranno questa impostazione."/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSlider" translation="Controlli Attrito Montagna Russa"/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSliderHint" translation="Mostra il controllo attrito della montagna russa nel pannello informazioni"/>
@@ -13998,7 +13998,7 @@
 		<entry key="OptionsMenu_InterfaceDistanceYards" translation="Yarde (yd)"/>
 		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Dimensione Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceScale_Tooltip" translation="Ingrandire oltre il 100% è raccomandato solo per l'uso con schermi ad alta risoluzione (1440p / 4K). Potrebbe causare problemi di visibilità dell'interfaccia a risoluzioni più basse."/>
-		<entry key="OptionsMenu_InterfaceSpeedFS" translation="Piedi al secondo (ft/s)"/>
+  	<entry key="OptionsMenu_InterfaceSpeedFS" translation="Piedi al secondo (ft/s)"/>
 		<entry key="OptionsMenu_InterfaceSpeedKPH" translation="Kilometri all'ora (kmh)"/>
 		<entry key="OptionsMenu_InterfaceSpeedMPH" translation="Miglia all'ora (mph)"/>
 		<entry key="OptionsMenu_InterfaceSpeedMS" translation="Metri al secondo (m/s)"/>
@@ -14270,14 +14270,14 @@
 		<!--PDLC_Spooky_Coasters-->
 		<entry key="Coaster_DarkTower" translation="In-Descent"/>
 		<entry key="Coaster_DarkTower_Desc" translation="Montagna Russa shuttle che lancia il treno all'indietro fuori dalla Stazione su di una pendenza verticale. Quando ad un certo punto si arresta regala ai passeggeri un momento di assenza di peso prima di tornare indietro per la discesa verso la Stazione."/>
-		<entry key="Coaster_Type_DarkTower" translation="Montagna Russa inversa a Caduta Libera "/>
+  	<entry key="Coaster_Type_DarkTower" translation="Montagna Russa inversa a Caduta Libera "/>
 		<entry key="Coaster_Type_Hoax" translation="Treno fantasma"/>
 		<entry key="Coaster_Type_Huntsman" translation="Piattaforma mobile su percorso"/>
 		<entry key="Powered_Hoax" translation="Hoax"/>
 		<entry key="Powered_Hoax_Desc" translation="Auto alimentate elettricamente che si muovono lungo un percorso a velocità prestabilita o che possono essere tirate in su con un traino a catena."/>
-		<entry key="Powered_Huntsman" translation="Huntsman"/>
+  	<entry key="Powered_Huntsman" translation="Huntsman"/>
 		<entry key="Powered_Huntsman_Desc" translation="Piattaforme mobili alimentate elettricamente che si muovono lungo un percorso, su cui la rotazione della piattaforma può essere impostata in tre dimensioni."/>
-		<entry key="Research_Hint_Coaster_InDescent" translation="Vertice e Precipizio."/>
+  	<entry key="Research_Hint_Coaster_InDescent" translation="Vertice e Precipizio."/>
 		<entry key="Research_Revealed_Coaster_InDescent" translation="In-Descent"/>
 		<entry key="Station_Type_station_mono_dir_LeftRight" translation="Stazione con entrata a sinistra e uscita a destra"/>
 		<entry key="Station_Type_station_mono_dir_RightLeft" translation="Stazione  con entrata a destra e uscita a sinistra"/>
@@ -14290,7 +14290,7 @@
 		<entry key="TrackEditParam_CabinYaw" translation="Angolo Sterzata Vettura"/>
 		<entry key="TrackEditParam_CabinYawSet" translation="Controllo Sterzata"/>
 		<entry key="TrackElementDesc_SDLIM" translation="Lancia il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
-		<entry key="TrackElementDesc_TowerBase" translation="Pendio in salita che consente al treno di andare verticalmente."/>
+  	<entry key="TrackElementDesc_TowerBase" translation="Pendio in salita che consente al treno di andare verticalmente."/>
 		<entry key="TrackElementDesc_TowerExt" translation="Estende la lunghezza del piano verticale per avere una caduta più alta."/>
 		<entry key="TrackElementDesc_TowerTop" translation="Termina la costruzione della torre."/>
 		<entry key="TrackElementDesc_TunnelTrack" translation="Sezione del Tunnel con un motore ad induzione lineare, freni ed illuminazione opzionale"/>
@@ -14300,7 +14300,7 @@
 		<entry key="TrackElementName_TowerTop" translation="Cima Torre"/>
 		<entry key="TrackElementName_TunnelTrack" translation="Sezione Tunnel"/>
 		<entry key="TrackElementTool_SDLIM" translation="&lt;font color='accent'&gt;Motore ad Induzione Lineare a Singola Direzione&#10;(con funzione frenante)&lt;/font&gt;&#10;Lancia il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
-		<entry key="TrackElementTool_TowerBase" translation="&lt;font color='accent'&gt;Base Torre&lt;/font&gt;&#10;Pendio in salita che consente al treno di andare verticalmente."/>
+  	<entry key="TrackElementTool_TowerBase" translation="&lt;font color='accent'&gt;Base Torre&lt;/font&gt;&#10;Pendio in salita che consente al treno di andare verticalmente."/>
 		<entry key="TrackElementTool_TowerExt" translation="&lt;font color='accent'&gt;Estensione Torre&lt;/font&gt;&#10;Estende la lunghezza del piano verticale per avere una caduta più alta."/>
 		<entry key="TrackElementTool_TowerTop" translation="&lt;font color='accent'&gt;Cima Torre&lt;/font&gt;&#10;Termina la costruzione della torre."/>
 		<entry key="TrackElementTool_TunnelTrack" translation="&lt;font color='accent'&gt;Sezione Tunnel&lt;/font&gt;&#10;Sezione del Tunnel con un motore ad induzione lineare, freni ed illuminazione opzionale"/>
@@ -14352,14 +14352,14 @@
 		<entry key="ParkManagement_Crime_SecurityCameraMonthlyVandalismSpotted" translation="Atti di vandalismo rilevati (questo mese)"/>
 		<entry key="ParkManagement_Crime_SecurityCameraStatsHeading" translation="Statistiche"/>
 		<entry key="ParkManagement_Crime_SecurityCameraSummary" translation="Posizionare telecamere di sicurezza nel tuo parco aiuta a sorvegliare i comportamenti illeciti.&#10;Le telecamere di sicurezza aiutano il tuo staff ad identificare i delinquenti più facilmente."/>
-		<entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
+  	<entry key="ParkManagement_Crime_SecurityHeading" translation="Sicurezza"/>
 		<entry key="ParkManagement_Crime_SecuritySummary" translation="Puoi assumere la Sicurezza nella voce Staff per evitare e prevenire crimini nel tuo parco.&#10;Inoltre, installare telecamere aiuta lo staff della Sicurezza ad identificare i criminali."/>
-		<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furti"/>
+  	<entry key="ParkManagement_Crime_SecurityTheftHeading" translation="Furti"/>
 		<entry key="ParkManagement_Crime_SecurityVandalismHeading" translation="Vandalismo"/>
 		<entry key="ParkManagement_Crime_VandalismHeading" translation="Cestini; Panchine"/>
 		<entry key="ParkManagement_Crime_VandalismStatsHeading" translation="Statistiche"/>
 		<entry key="ParkManagement_Crime_VandalismSummary" translation="Alcuni visitatori vandalizzano gli oggetti se si sentono molto infelici nel tuo parco.&#10; Queste statistiche aiutano a localizzare aree problematiche e ripararli in fretta.&#10; Ricorda che i tuoi manutentori riparano anche gli oggetti rotti.. "/>
-		<entry key="ParkManagement_Crime_VandalsApprehended" translation="Vandali Arrestati (dall'inizio)"/>
+  	<entry key="ParkManagement_Crime_VandalsApprehended" translation="Vandali Arrestati (dall'inizio)"/>
 		<entry key="ParkManagement_Crime_XOfYAndProp" translation="{countX:int}/{countY:int} ({percentage:float:decimalPlaces=0}%)"/>
 		<entry key="ParkManagement_DemographicBreakdown" translation="Ripartizione demografica"/>
 		<entry key="ParkManagement_DutyRoster_AssignedTo_Body" translation="{count:int} Membri dello staff"/>
@@ -14380,7 +14380,7 @@
 		<entry key="ParkManagement_DutyRoster_Contains_Shop" translation="{count:int} negozi"/>
 		<entry key="ParkManagement_DutyRoster_Contains_Shop_1" translation="1 negozio"/>
 		<entry key="ParkManagement_DutyRoster_Description" translation="La coda di lavoro permette di definire quali circuiti, attrazioni, negozi, strutture o punti di intrattenimento hanno la priorità per i membri dello staff. Assegna&#10;una coda di lavoro a un membro dello staff selezionandolo e aprendo la scheda occupazione."/>
-		<entry key="ParkManagement_DutyRosters" translation="Code di lavoro"/>
+  	<entry key="ParkManagement_DutyRosters" translation="Code di lavoro"/>
 		<entry key="ParkManagement_DutyRosters_AssignedTo" translation="Assegnato a"/>
 		<entry key="ParkManagement_DutyRosters_Contains" translation="Contiene"/>
 		<entry key="ParkManagement_DutyRosters_CreateNew" translation="Crea nuova coda"/>
@@ -14820,7 +14820,7 @@
 		<entry key="PathEdit_GetQueueGrid" translation="Ottieni griglia da {WIDTH}m pezzi di coda"/>
 		<entry key="PathEdit_GridMode" translation="Allinea alla griglia"/>
 		<entry key="PathEdit_GridModeHint" translation="Costruisci i sentieri su una griglia di 4 metri relativa ad un edificio o un percorso. Scegli un edificio esistente o un pezzo di percorso come riferimento."/>
-		<entry key="PathEdit_HardLeft" translation="Stretta a sinistra"/>
+  	<entry key="PathEdit_HardLeft" translation="Stretta a sinistra"/>
 		<entry key="PathEdit_HardRight" translation="Stretta a destra"/>
 		<entry key="PathEdit_KeepCurve" translation="Mantieni curva"/>
 		<entry key="PathEdit_KerbOnGround" translation="Cordolo sul percorso"/>
@@ -15273,13 +15273,13 @@
 		<!--Scenery-->
 		<entry key="Blueprints_Delorean01" translation="Ritorno al Futuro 1985"/>
 		<entry key="Blueprints_Delorean01Desc" translation="Scusate la grossolanità di questo modello. Non ho avuto il tempo di costruirlo in scala o verniciarlo.&#10;Tema Ritorno al Futuro"/>
-		<entry key="Blueprints_Delorean02" translation="Ritorno al Futuro 2015"/>
+  	<entry key="Blueprints_Delorean02" translation="Ritorno al Futuro 2015"/>
 		<entry key="Blueprints_Delorean02Desc" translation="Convertirò la vostra vecchia automobile da strada in una auto volante per le vie del cielo! Per soli $39,999.95!&#10;Tema Ritorno al Futuro"/>
 		<entry key="Blueprints_Delorean03" translation="Ritorno al Futuro 1955"/>
 		<entry key="Blueprints_Delorean03Desc" translation="Tutto quello che dovete fare è guidare la macchina del tempo direttamente verso quello schermo accelerando a 88 miglia all'ora.&#10;Tema Ritorno al Futuro"/>
-		<entry key="Blueprints_Delorean04" translation="Ritorno al Futuro Modifiche Ferrovia"/>
+  	<entry key="Blueprints_Delorean04" translation="Ritorno al Futuro Modifiche Ferrovia"/>
 		<entry key="Blueprints_Delorean04Desc" translation="Vorrei non aver mai inventato quella macchina del tempo infernale. Non ha causato nient'altro che disastri.&#10;Tema Ritorno al Futuro"/>
-		<entry key="Blueprints_Delorean05" translation="Ritorno al Futuro Viaggio nel Tempo"/>
+  	<entry key="Blueprints_Delorean05" translation="Ritorno al Futuro Viaggio nel Tempo"/>
 		<entry key="Blueprints_Delorean05Desc" translation="Grande Giove!&#10;Tema Ritorno al Futuro"/>
 		<entry key="BuildingPartDesc_BTTF_Sign" translation="Grande Giove!&#10;Tema Ritorno al Futuro"/>
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerBottom" translation="Un panino per hamburger.\nSet Capitan Manzo"/>
@@ -15768,7 +15768,7 @@
 		<entry key="BuildingPartDesc_PR_Mast" translation="Issa in alto i tuoi colori!\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Munitions" translation="Un assortimento di palle di cannone e polvere da sparo.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Netting" translation="Dai un pesce a un uomo e lo nutrirai per un giorno. Dagli una rete e lo nutrirai per tutta la vita.\nTema Pirata"/>
-		<entry key="BuildingPartDesc_PR_PirateShack_2m" translation="Perfetta per chi vive di espedienti.\nTema Pirata"/>
+  	<entry key="BuildingPartDesc_PR_PirateShack_2m" translation="Perfetta per chi vive di espedienti.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_PirateShack_4m" translation="La casa è ovunque si trova la tua amaca.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Pirate_Shooting_01" translation="Colpisci quei cagnacci!\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Pirate_Shooting_02" translation="Scruta l'orizzonte!\nTema Pirata"/>
@@ -17850,7 +17850,7 @@
 		<entry key="Browser_Cat_Shop_Info" translation="Informazioni"/>
 		<entry key="Browser_Cat_Shop_Other" translation="Altro"/>
 		<entry key="Browser_Cat_Shop_ParkEntrance" translation="Entrata del parco"/>
-		<entry key="Browser_Cat_Shop_TicketBooth" translation="Cabine dei biglietti"/>
+		<entry key="Browser_Cat_Shop_TicketBooth" translation="Chioschi dei biglietti"/>
 		<entry key="Browser_Cat_Shop_Toilet" translation="Bagni"/>
 		<entry key="Browser_SubCat_Attach_Decorations" translation="Decorazioni per finestre"/>
 		<entry key="Browser_SubCat_Attach_Doors" translation="Porte"/>
@@ -18823,9 +18823,9 @@
 		<entry key="Guest_Thought_ParkExit_Pickpocketed_Common_02" translation="Non tornerò mai più. Qualcuno mi ha derubato ed è riuscito a scappare. Dov'è la sicurezza?!"/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_01" translation="Questa visita non è stata una bella esperienza. Devono migliorare la sicurezza. Hanno preso il borseggiatore che mi aveva derubato, ma solo dopo che aveva speso molti miei soldi!"/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredLittle_Common_02" translation="Tempo di andare a casa. La Sicurezza di questo parco, sicuramente può migliorare. Il borseggiatore che mi ha derubato, è andato via ed ha speso molti miei soldi prima che fosse catturato."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="La Sicurezza qui è mediocre. Un borseggiatore mi ha derubato ed è riuscito a spendere molti miei soldi prima che fosse catturato. Forse tornerò, forse no."/>
+  	<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_01" translation="La Sicurezza qui è mediocre. Un borseggiatore mi ha derubato ed è riuscito a spendere molti miei soldi prima che fosse catturato. Forse tornerò, forse no."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMid_Common_02" translation="Ripensandoci, almeno hanno preso il borseggiatore. Sarebbe stato meglio se l'avessero preso prima che spendesse quasi tutti i miei soldi. Spero migliorino la sicurezza, così tornerò ancora."/>
-		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="La Sicurezza qui è buona. Hanno preso il borseggiatore prima che potesse spendere molti miei soldi. Tornerò ancora."/>
+  	<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_01" translation="La Sicurezza qui è buona. Hanno preso il borseggiatore prima che potesse spendere molti miei soldi. Tornerò ancora."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecoveredMost_Common_02" translation="Sono felice che la sicurezza abbia preso il borseggiatore prima che potesse spendere molti miei soldi. La Sicurezza è di buon livello qui. Tornerò."/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_01" translation="La Sicurezza nel Parco è fantastica, anche quando mi hanno borseggiato, hanno subito catturato il ladro e restituito tutti miei averi!"/>
 		<entry key="Guest_Thought_ParkExit_PickpocketingRecovered_Common_02" translation="Non posso prendermela con la Sicurezza. Hanno catturato il borseggiatore e mi hanno restituito tutti i miei soldi!"/>
@@ -19255,18 +19255,18 @@
 		<entry key="TrackElementDesc_BarrelRollLeft" translation="OLD Tonneau Left Description"/>
 		<entry key="TrackElementDesc_BarrelRollRight" translation="OLD Tonneau Right Description"/>
 		<entry key="TrackElementDesc_BlockSection" translation="Rallenta i treni fino a fermarli, per poi spingerli fuori quando la sezione successiva del tracciato è vuota. Richiede Sezioni Bloccanti attivato nelle impostazioni della montagna russa."/>
-		<entry key="TrackElementDesc_Booster" translation="Spinge i treni in avanti. Utile per spostare il treno in un altro servizio."/>
+  	<entry key="TrackElementDesc_Booster" translation="Spinge i treni in avanti. Utile per spostare il treno in un altro servizio."/>
 		<entry key="TrackElementDesc_Brakes" translation="Rallentano i treni."/>
 		<entry key="TrackElementDesc_CableLift" translation="Descrizione Parte Centrale Salita trainante a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftEnd" translation="Descrizione Fine Salita trainante a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftEndCurved" translation="Termina una Salita trainante a Cavo che curva in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementDesc_CableLiftMid" translation="Descrizione Parte Centrale Salita a Cavo"/>
+  	<entry key="TrackElementDesc_CableLiftMid" translation="Descrizione Parte Centrale Salita a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftStart" translation="Descrizione Partenza Salita a Cavo"/>
 		<entry key="TrackElementDesc_ChainLift" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_ChainLiftBot" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_ChainLiftTop" translation="Tira i treni lungo un pendio."/>
 		<entry key="TrackElementDesc_DDLIM" translation="Spinge il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
-		<entry key="TrackElementDesc_DivingLoopLeft" translation="OLD Diving Loop Left Description"/>
+  	<entry key="TrackElementDesc_DivingLoopLeft" translation="OLD Diving Loop Left Description"/>
 		<entry key="TrackElementDesc_DivingLoopRight" translation="OLD Diving Loop Right Description"/>
 		<entry key="TrackElementDesc_FlyingSnakeDiveLeft" translation="OLD Flying Snake Dive Left Description"/>
 		<entry key="TrackElementDesc_FlyingSnakeDiveRight" translation="OLD Flying Snake Dive Right Description"/>
@@ -19310,7 +19310,7 @@
 		<entry key="TrackElementDesc_RiverRapidsWideStart" translation="Allarga la sezione a tubo"/>
 		<entry key="TrackElementDesc_SpinningStart" translation="Sblocca l'abilità della vettura di ruotare liberamente sull'asse verticale."/>
 		<entry key="TrackElementDesc_SpinningStop" translation="Blocca l'abilità della vettura di ruotare liberamente sull'asse verticale e riposiziona la rotazione della vettura al centro."/>
-		<entry key="TrackElementDesc_Station" translation="Dove i visitatori salgono e scendono dai treni."/>
+  	<entry key="TrackElementDesc_Station" translation="Dove i visitatori salgono e scendono dai treni."/>
 		<entry key="TrackElementDesc_StationLeftLeft" translation="Dove i visitatori salgono e scendono dai treni."/>
 		<entry key="TrackElementDesc_StationLeftOff" translation="Dove i visitatori scendono dai treni."/>
 		<entry key="TrackElementDesc_StationLeftOn" translation="Dove i visitatori salgono sui treni."/>
@@ -19447,7 +19447,7 @@
 		<entry key="TrackElementDesc_TestCorkscrewRightOut" translation="OLD Corkscrew Right Exit Description"/>
 		<entry key="TrackElementDesc_TorqueTopHat" translation="Descrizione Loop Top Hat"/>
 		<entry key="TrackElementDesc_TrimBrakes" translation="Utilizzati per ridurre la velocità del treno durante la corsa. Più versatili di un freno a frizione o magnetico, ma più costosi."/>
-		<entry key="TrackElementDesc_batwingleft" translation="OLD Batwing Left Description"/>
+  	<entry key="TrackElementDesc_batwingleft" translation="OLD Batwing Left Description"/>
 		<entry key="TrackElementDesc_batwingright" translation="OLD Batwing Right Description"/>
 		<entry key="TrackElementDesc_cobrarollleft" translation="OLD Cobra Roll Left Description"/>
 		<entry key="TrackElementDesc_cobrarollright" translation="OLD Cobra Roll Right Description"/>
@@ -19707,7 +19707,7 @@
 		<entry key="TrackElementTool_ChainLiftBot" translation="&lt;font color='accent'&gt;Inizio Salita trainante a Catena&lt;/font&gt;\nTira i treni lungo un pendio."/>
 		<entry key="TrackElementTool_ChainLiftTop" translation="&lt;font color='accent'&gt;Fine Salita trainante a Catena&lt;/font&gt;\nTira i treni lungo un pendio."/>
 		<entry key="TrackElementTool_DDLIM" translation="&lt;font color='accent'&gt;Motore a Induzione Lineare a Doppia Direzione&#10;(con funzione frenante)&lt;/font&gt;&#10;Spinge il treno nella direzione in cui sta viaggiando per aiutarlo a prendere velocità. Inoltre lo rallenta quando la corsa arriva alla fine."/>
-		<entry key="TrackElementTool_DivingLoopLeft" translation="OLD Diving Loop Left"/>
+  	<entry key="TrackElementTool_DivingLoopLeft" translation="OLD Diving Loop Left"/>
 		<entry key="TrackElementTool_DivingLoopRight" translation="OLD Diving Loop Right"/>
 		<entry key="TrackElementTool_FlyingSnakeDiveLeft" translation="OLD Flying Snake Dive Left"/>
 		<entry key="TrackElementTool_FlyingSnakeDiveRight" translation="OLD Flying Snake Dive Right"/>
