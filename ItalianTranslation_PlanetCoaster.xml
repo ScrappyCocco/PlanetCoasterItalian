@@ -143,8 +143,8 @@
 		<entry key="Blueprints_FT_CastleShopSmall01Desc" translation="Vendi le tue cose con uno stile Reale!"/>
 		<entry key="Blueprints_FT_ClocktowerLarge" translation="Torre dell'orologio grande"/>
 		<entry key="Blueprints_FT_ClocktowerLargeDesc" translation="Una grande torre dell'orologio per decorare la piazza del villaggio!"/>
-		<entry key="Blueprints_FT_Drink" translation="Il mondo delle fiabe - Bevande"/>
-		<entry key="Blueprints_FT_DrinkDesc" translation="Un negozio di bevande a tema mondo delle fiabe"/>
+		<entry key="Blueprints_FT_Drink" translation="Il mondo delle fiabe - Bibite"/>
+		<entry key="Blueprints_FT_DrinkDesc" translation="Un negozio di bibite a tema mondo delle fiabe"/>
 		<entry key="Blueprints_FT_Food" translation="Il mondo delle fiabe - Cibo"/>
 		<entry key="Blueprints_FT_FoodDesc" translation="Un ristorante a tema mondo delle fiabe"/>
 		<entry key="Blueprints_FT_Hats" translation="Il mondo delle fiabe - Cappelli"/>
@@ -286,8 +286,8 @@
 		<entry key="Blueprints_PCATMDesc" translation="Tu hai bisogno dei soldi dei tuoi visitatori e loro hanno bisogno di soldi da dare a te, quindi eccoli!"/>
 		<entry key="Blueprints_PCCollection" translation="Collezione Planet Coaster"/>
 		<entry key="Blueprints_PCCollectionDesc" translation="Un set di decorazioni a tema Planet Coaster."/>
-		<entry key="Blueprints_PCDrinks" translation="Chiosco di bevande Planet Coaster"/>
-		<entry key="Blueprints_PCDrinksDesc" translation="Un chiosco di bevande a tema Planet Coaster."/>
+		<entry key="Blueprints_PCDrinks" translation="Chiosco di bibitee Planet Coaster"/>
+		<entry key="Blueprints_PCDrinksDesc" translation="Un chiosco di bibite a tema Planet Coaster."/>
 		<entry key="Blueprints_PCFacilities" translation="Strutture Planet Coaster"/>
 		<entry key="Blueprints_PCFacilitiesDesc" translation="Questo set di strutture è stato decorato per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
 		<entry key="Blueprints_PCFirstAid" translation="Infermeria Planet Coaster"/>
@@ -318,8 +318,8 @@
 		<entry key="Blueprints_PCThemedShopsDesc" translation="Il tipico design Planet Coaster è stato usato per decorare questi negozi."/>
 		<entry key="Blueprints_PCToilets" translation="Blocco di bagni Planet Coaster"/>
 		<entry key="Blueprints_PCToiletsDesc" translation="Degli stilosissimi bagni da utilizzare nelle scenografie a tema Planet Coaster."/>
-		<entry key="Blueprints_PC_Drink" translation="Planet Coaster - Bevande"/>
-		<entry key="Blueprints_PC_DrinkDesc" translation="Un negozio di bevande a tema Planet Coaster"/>
+		<entry key="Blueprints_PC_Drink" translation="Planet Coaster - Bibite"/>
+		<entry key="Blueprints_PC_DrinkDesc" translation="Un negozio di bibite a tema Planet Coaster"/>
 		<entry key="Blueprints_PC_Food" translation="Planet Coaster - Cibo"/>
 		<entry key="Blueprints_PC_FoodDesc" translation="Un ristorante a tema Planet Coaster"/>
 		<entry key="Blueprints_PC_Hats" translation="Planet Coaster - Cappelli"/>
@@ -330,8 +330,8 @@
 		<entry key="Blueprints_PR_BurgerShop01Desc" translation="Compra i tuoi hamburger qui!"/>
 		<entry key="Blueprints_PR_ChiefBeef01" translation="Negozio Capitan Manzo"/>
 		<entry key="Blueprints_PR_ChiefBeef01Desc" translation="Compra i tuoi hamburger qui!"/>
-		<entry key="Blueprints_PR_DrinkShack_01" translation="Baracchino delle bevande"/>
-		<entry key="Blueprints_PR_DrinkShack_01Desc" translation="Un baracchino che contiene un negozio di bevande."/>
+		<entry key="Blueprints_PR_DrinkShack_01" translation="Chiosco delle bibite"/>
+		<entry key="Blueprints_PR_DrinkShack_01Desc" translation="Un chiosco che contiene un negozio di bibite."/>
 		<entry key="Blueprints_PR_FirstAidFacility" translation="Infermeria caraibica"/>
 		<entry key="Blueprints_PR_FirstAidFacilityDesc" translation="Una struttura di primo soccorso"/>
 		<entry key="Blueprints_PR_HatShop_01" translation="Negozio di souvenir caraibico"/>
@@ -344,47 +344,47 @@
 		<entry key="Blueprints_PR_HouseSmall_01Desc" translation="Per i pirati che vogliono vivere in maniera modesta."/>
 		<entry key="Blueprints_PR_ShopSmall_01" translation="Negozio dei pirati - Piccolo"/>
 		<entry key="Blueprints_PR_ShopSmall_01Desc" translation="Negozio dei pirati - Piccolo"/>
-		<entry key="Blueprints_PR_SmallScene_01" translation="Piccola scenografia piratesca"/>
+		<entry key="Blueprints_PR_SmallScene_01" translation="Piccola scenografia Pirata"/>
 		<entry key="Blueprints_PR_SmallScene_01Desc" translation="Giusto l'essenziale per qualsiasi pirata."/>
-		<entry key="Blueprints_PR_ToiletShack_01" translation="Baracchino dei bagni"/>
-		<entry key="Blueprints_PR_ToiletShack_01Desc" translation="Un piccolo baracchino contenente dei bagni"/>
+		<entry key="Blueprints_PR_ToiletShack_01" translation="Chiosco dei bagni"/>
+		<entry key="Blueprints_PR_ToiletShack_01Desc" translation="Un piccolo chiosco contenente dei bagni"/>
 		<entry key="Blueprints_Pioneer01" translation="The Hunt"/>
 		<entry key="Blueprints_Pioneer01Desc" translation="Uno schema per il coaster Free Swing"/>
 		<entry key="Blueprints_PioneerBlueprint01" translation="The Hunt"/>
 		<entry key="Blueprints_PioneerBlueprint01Desc" translation="Uno schema per il coaster Free Swing"/>
-		<entry key="Blueprints_PirateATM" translation="Bancomat Piratesco"/>
-		<entry key="Blueprints_PirateATM2" translation="Bancomat Piratesco"/>
+		<entry key="Blueprints_PirateATM" translation="Bancomat Pirata"/>
+		<entry key="Blueprints_PirateATM2" translation="Bancomat Pirata"/>
 		<entry key="Blueprints_PirateATM2Desc" translation="Questa macchinetta è piena di dobloni d'oro quindi occhio ai pirati!"/>
-		<entry key="Blueprints_PirateATMDesc" translation="Un Bancomat a tema Piratesco"/>
+		<entry key="Blueprints_PirateATMDesc" translation="Un Bancomat a tema Pirata"/>
 		<entry key="Blueprints_PirateAnimatronicHarbourScene" translation="Pirata Animatronic - Porto"/>
 		<entry key="Blueprints_PirateAnimatronicHarbourSceneDesc" translation="Pirata Animatronic - Porto"/>
 		<entry key="Blueprints_PirateCamp" translation="Campo Pirata"/>
 		<entry key="Blueprints_PirateCampDesc" translation="Un piccolo campo sulla spiaggi per raccontarsi storie piratesche"/>
-		<entry key="Blueprints_PirateDrinks" translation="Chiosco di bibite piratesche"/>
+		<entry key="Blueprints_PirateDrinks" translation="Chiosco di bibite Pirata"/>
 		<entry key="Blueprints_PirateDrinksDesc" translation="Un chioschetto per tutti i pirati assetati."/>
-		<entry key="Blueprints_PirateEight" translation="Decorazioni per il parco a tema Piratesco"/>
+		<entry key="Blueprints_PirateEight" translation="Decorazioni per il parco a tema Pirata"/>
 		<entry key="Blueprints_PirateEightDesc" translation="I visitatori si sentiranno parte del mondo dei pirati con queste decorazioni a tema."/>
-		<entry key="Blueprints_PirateFacilities" translation="Strutture piratesche"/>
-		<entry key="Blueprints_PirateFacilitiesDesc" translation="Questo set di strutture sono state realizzate per integrarsi perfettamente con i parchi a tema piratesco!"/>
-		<entry key="Blueprints_PirateFirstAid" translation="Infermeria Piratesca"/>
-		<entry key="Blueprints_PirateFirstAid1" translation="Infermeria Piratesca 2"/>
-		<entry key="Blueprints_PirateFirstAid1Desc" translation="Un infermeria a tema piratesco"/>
+		<entry key="Blueprints_PirateFacilities" translation="Strutture Pirata"/>
+		<entry key="Blueprints_PirateFacilitiesDesc" translation="Questo set di strutture sono state realizzate per integrarsi perfettamente con i parchi a tema Pirata!"/>
+		<entry key="Blueprints_PirateFirstAid" translation="Infermeria Pirata"/>
+		<entry key="Blueprints_PirateFirstAid1" translation="Infermeria Pirata 2"/>
+		<entry key="Blueprints_PirateFirstAid1Desc" translation="Un infermeria a tema Pirata"/>
 		<entry key="Blueprints_PirateFirstAidDesc" translation="I vistatori possono far curare il proprio mal di mare in questa struttura medica."/>
 		<entry key="Blueprints_PirateFood" translation="Chiosco del cibo dei pirati"/>
-		<entry key="Blueprints_PirateFood2" translation="Un doppio chiosco del cibo a tema piratesco"/>
+		<entry key="Blueprints_PirateFood2" translation="Un doppio chiosco del cibo a tema Pirata"/>
 		<entry key="Blueprints_PirateFood2Desc" translation="I visitatori e i pirati hanno bisogni di un pasto salutare dopo un lungo viaggio!"/>
 		<entry key="Blueprints_PirateFoodDesc" translation="I visitatori e i pirati hanno bisogni di un pasto salutare dopo un lungo viaggio!"/>
-		<entry key="Blueprints_PirateGifts" translation="Negozio di souvenir piratesco"/>
-		<entry key="Blueprints_PirateGifts2" translation="Negozio di souvenir piratesco 2"/>
+		<entry key="Blueprints_PirateGifts" translation="Negozio di souvenir Pirata"/>
+		<entry key="Blueprints_PirateGifts2" translation="Negozio di souvenir Pirata 2"/>
 		<entry key="Blueprints_PirateGifts2Desc" translation="I visitatori vogliono sempre qualcosa che gli ricordi il loro viaggio."/>
 		<entry key="Blueprints_PirateGiftsDesc" translation="I visitatori vogliono sempre qualcosa che gli ricordi il loro viaggio."/>
 		<entry key="Blueprints_PirateGoldFountain" translation="Fontana d'Oro"/>
 		<entry key="Blueprints_PirateGoldFountainDesc" translation="Lancia qualche monetina dentro la fontana dei pirati e potresti evocare il fastidioso spirito del pappagallo del capitano Coaster!"/>
-		<entry key="Blueprints_PirateInfo1" translation="Chiosco Informazioni Piratesco"/>
-		<entry key="Blueprints_PirateInfo1Desc" translation="Un chiosco delle informazioni a tema piratesco"/>
-		<entry key="Blueprints_PirateInfo2" translation="Chiosco Informazioni Piratesco"/>
+		<entry key="Blueprints_PirateInfo1" translation="Chiosco Informazioni Pirata"/>
+		<entry key="Blueprints_PirateInfo1Desc" translation="Un chiosco delle informazioni a tema Pirata"/>
+		<entry key="Blueprints_PirateInfo2" translation="Chiosco Informazioni Pirata"/>
 		<entry key="Blueprints_PirateInfo2Desc" translation="Hai perso la mappa del tuo tesoro nascosto? forse noi possiamo aiutarti!"/>
-		<entry key="Blueprints_PirateLargeEnt" translation="Entrata piratesca Grande"/>
+		<entry key="Blueprints_PirateLargeEnt" translation="Entrata Pirata Grande"/>
 		<entry key="Blueprints_PirateLargeEntDesc" translation="Se vuoi avere più visitatori nel tuo parco ispirato ai grandi mari, questo potrebbe essere un ottimo inizio!"/>
 		<entry key="Blueprints_PirateMall" translation="Centro commerciale dei Pirati"/>
 		<entry key="Blueprints_PirateMallDesc" translation="Un grande complesso di strutture per i tuoi pirateschi visitatori che apprezzeranno sicuramente avere tutto in un unico posto!."/>
@@ -395,20 +395,20 @@
 		<entry key="Blueprints_PirateScenery3Desc" translation="Solo a guardarla mi fa tremare tutto."/>
 		<entry key="Blueprints_PirateSceneryDesc" translation="Queste scenografie è stato realizzato per far contento il capitano."/>
 		<entry key="Blueprints_PirateSea" translation="Collezione Alto Mare"/>
-		<entry key="Blueprints_PirateSeaDesc" translation="Set di scenografie a tema piratesco e coloniale, per riempire in fretta il tuo parco a tema."/>
+		<entry key="Blueprints_PirateSeaDesc" translation="Set di scenografie a tema Pirata e coloniale, per riempire in fretta il tuo parco a tema."/>
 		<entry key="Blueprints_PirateSkirmish" translation="Duello pirata"/>
 		<entry key="Blueprints_PirateSkirmishDesc" translation="Pirati con cannoni"/>
-		<entry key="Blueprints_PirateSmallEnt" translation="Piccola entrata piratesca"/>
+		<entry key="Blueprints_PirateSmallEnt" translation="Piccola entrata Pirata"/>
 		<entry key="Blueprints_PirateSmallEntDesc" translation="Una abbordabile entrata per decorare l'ingresso del tuo piccolo parco."/>
 		<entry key="Blueprints_PirateSmallHouse" translation="Piccola casa caraibica"/>
 		<entry key="Blueprints_PirateSmallHouseDesc" translation="Una piccola e sgangherata casa."/>
-		<entry key="Blueprints_PirateThemedShops" translation="Negozi a tema piratesco"/>
+		<entry key="Blueprints_PirateThemedShops" translation="Negozi a tema Pirata"/>
 		<entry key="Blueprints_PirateThemedShopsDesc" translation="Una collezione di negozi che non risulterà fuori posto nel tuo piratesco parco."/>
 		<entry key="Blueprints_PirateTimbers" translation="Mi tremano le gambe"/>
 		<entry key="Blueprints_PirateTimbersDesc" translation="Un notevole ammasso di risorse per le quali dovresti liberare un po di spazio."/>
 		<entry key="Blueprints_PirateToilet1" translation="Bagni dei pirati"/>
-		<entry key="Blueprints_PirateToilet1Desc" translation="Bagni a tema piratesco"/>
-		<entry key="Blueprints_PirateToilets" translation="Blocco di bagni pirateschi"/>
+		<entry key="Blueprints_PirateToilet1Desc" translation="Bagni a tema Pirata"/>
+		<entry key="Blueprints_PirateToilets" translation="Blocco di bagni Pirata"/>
 		<entry key="Blueprints_PirateToiletsDesc" translation="Non puoi farne a meno, devi averlo nel tuo parco a tema."/>
 		<entry key="Blueprints_PirateWatery" translation="Tomba acquatica"/>
 		<entry key="Blueprints_PirateWateryDesc" translation="Leggenda narra che il Capitano Coaster ha nascosto qui sotto il suo tesoro."/>
@@ -452,7 +452,7 @@
 		<entry key="Blueprints_SciFiCheefBeefDesc" translation="Un semplice Capitan Manzo sci-fi"/>
 		<entry key="Blueprints_SciFiCollection" translation="Collezione di scenografie di Gustav’s"/>
 		<entry key="Blueprints_SciFiCollectionDesc" translation="Holst ha scritto la sinfonia ‘The Planets’.A quanto pare gli piacevano le montagne russe, così questa collezione è per lui."/>
-		<entry key="Blueprints_SciFiDrinks" translation="Chiosco di Bevande Sci-fi"/>
+		<entry key="Blueprints_SciFiDrinks" translation="Chiosco di Bibite Sci-fi"/>
 		<entry key="Blueprints_SciFiDrinksDesc" translation="Non è facile bere attraverso il casco spaziale, qualcuno dovrebbe risolvere."/>
 		<entry key="Blueprints_SciFiFacilities" translation="Strutture Sci-fi"/>
 		<entry key="Blueprints_SciFiFacilitiesDesc" translation="Questo set di strutture a tema Sci-Fi staranno benissimo nel tuo parco spaziale.."/>
@@ -566,7 +566,7 @@
 		<entry key="Blueprints_WesternATMDesc" translation="Lo sceriffo controlla sempre questo distributore, ma non lo si vede in giro da un po...Dicono abbia lasciato il paese!"/>
 		<entry key="Blueprints_WesternCollection" translation="Pianeta Selvaggio West"/>
 		<entry key="Blueprints_WesternCollectionDesc" translation="Una bellissima scenografia ispirata al selvaggio West."/>
-		<entry key="Blueprints_WesternDrinks" translation="Chiosco di bevande western"/>
+		<entry key="Blueprints_WesternDrinks" translation="Chiosco di bibite western"/>
 		<entry key="Blueprints_WesternDrinksDesc" translation="Non soffrire nel secco caldo del deserto, rinfrescati con le dissetanti bevande di questo chiosco."/>
 		<entry key="Blueprints_WesternFacilities" translation="Strutture Western"/>
 		<entry key="Blueprints_WesternFacilitiesDesc" translation="Qualsiasi cittadina western sarebbe fiera di avere queste strutture nelle proprie strade polverose."/>
@@ -586,8 +586,8 @@
 		<entry key="Blueprints_WesternInfoDesc" translation="Se trovate il parco disorientante potete trovare le nostre cartine qui!"/>
 		<entry key="Blueprints_WesternLargeEnt" translation="Entrata Western grande"/>
 		<entry key="Blueprints_WesternLargeEntDesc" translation="Una gigantesca entrata in puro stile selvaggio west."/>
-		<entry key="Blueprints_WesternParkSet" translation="Vagoni Rotolanti!"/>
-		<entry key="Blueprints_WesternParkSet2" translation="Il parcheggio dei vagoni!"/>
+		<entry key="Blueprints_WesternParkSet" translation="Carrozze Rotolanti!"/>
+		<entry key="Blueprints_WesternParkSet2" translation="Il parcheggio delle Carrozze!"/>
 		<entry key="Blueprints_WesternParkSet2Desc" translation="Questo set di decorazioni convincerà i vostri visitatori di trovarsi nelle lande dei pionieri!"/>
 		<entry key="Blueprints_WesternParkSetDesc" translation="Questo set di decorazioni convincerà i vostri visitatori di trovarsi nelle lande dei pionieri!"/>
 		<entry key="Blueprints_WesternScenery" translation="Avventure d'altri tempi."/>
@@ -595,11 +595,11 @@
 		<entry key="Blueprints_WesternSceneryPlanet" translation="C'è dell'oro in quelle montagne!"/>
 		<entry key="Blueprints_WesternSceneryPlanetDesc" translation="Se costruisci la giusta scenografia nel posto giusto, raggranellerai l'oro dai tuoi visitatori."/>
 		<entry key="Blueprints_WesternShopping" translation="Area Shopping Western"/>
-		<entry key="Blueprints_WesternShoppingDesc" translation="Il centro commerciale è stato inaugurato alla Frontiera! Hai Abbastanza parcheggio per un intero treno di vagoni."/>
+		<entry key="Blueprints_WesternShoppingDesc" translation="Il centro commerciale è stato inaugurato alla Frontiera! Hai abbastanza parcheggio per un intero treno di carrozze."/>
 		<entry key="Blueprints_WesternSmallEnt" translation="Piccola entrata Western"/>
 		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è niente di meglio che iniziare il proprio parco con quest'entrata."/>
 		<entry key="Blueprints_WesternThemedShops" translation="Negozi a tema Western"/>
-		<entry key="Blueprints_WesternThemedShopsDesc" translation="I Visitatori che girano per il parco potranno fermarsi qui per approfittare delle strutture"/>
+		<entry key="Blueprints_WesternThemedShopsDesc" translation="I visitatori che girano per il parco potranno fermarsi qui per approfittare delle strutture"/>
 		<entry key="Blueprints_WesternToilets" translation="Blocco di bagni Western"/>
 		<entry key="Blueprints_WesternToiletsDesc" translation="I Cowboys hanno richiesto dei bagni per loro. Per favore lavatevi le mani. Ah.. e niente cavalli..."/>
 		<entry key="Blueprints_WitchTreeHouse" translation="Casa sull'albero della Strega"/>
@@ -5108,17 +5108,17 @@
 		<entry key="Blueprints_Pirate-Beef" translation="Negozio di Panini Villa Pirata"/>
 		<entry key="Blueprints_Pirate-BeefDesc" translation="Prendi qui i tuoi panini!"/>
 		<entry key="Blueprints_PirateATM2An" translation="Bancomat Villa Pirata"/>
-		<entry key="Blueprints_PirateATM2AnDesc" translation="Un bancomat a tema piratesco"/>
+		<entry key="Blueprints_PirateATM2AnDesc" translation="Un bancomat a tema Pirata"/>
 		<entry key="Blueprints_PirateEntrance" translation="Entrata Villa Pirata"/>
-		<entry key="Blueprints_PirateEntranceDesc" translation="Il perfetto inizio per il tuo parco a tema piratesco."/>
+		<entry key="Blueprints_PirateEntranceDesc" translation="Il perfetto inizio per il tuo parco a tema Pirata."/>
 		<entry key="Blueprints_PirateShops" translation="Negozi Villa Pirata"/>
-		<entry key="Blueprints_PirateShopsDesc" translation="Negozi di cibo e bevande a tema piratesco"/>
-		<entry key="Blueprints_PirateStaffBuilding01" translation="Edificio Staff Piratesco"/>
+		<entry key="Blueprints_PirateShopsDesc" translation="Negozi di cibo e bevande a tema Pirata"/>
+		<entry key="Blueprints_PirateStaffBuilding01" translation="Edificio Staff Pirata"/>
 		<entry key="Blueprints_PirateStaffBuilding01Desc" translation="Un edificio per lo staff fortificato per i marinai di terra."/>
 		<entry key="Blueprints_PirateStaffBuilding02" translation="Edificio Staff Caraibico"/>
 		<entry key="Blueprints_PirateStaffBuilding02Desc" translation="Un fresco e silenzioso punto di riposo per lo staff sovraffaticato."/>
 		<entry key="Blueprints_PirateToilet2" translation="Bagni Villa Pirata"/>
-		<entry key="Blueprints_PirateToilet2Desc" translation="Bagni a tema piratesco"/>
+		<entry key="Blueprints_PirateToilet2Desc" translation="Bagni a tema Pirata"/>
 		<entry key="Blueprints_SciFiBuilding01" translation="Impianto di Lavorazione dell'Acqua Sci-fi"/>
 		<entry key="Blueprints_SciFiBuilding01Desc" translation="Scenario Sci-fi."/>
 		<entry key="Blueprints_SciFiBuilding02" translation="Torre di Fusione Sci-fi"/>
@@ -5151,7 +5151,7 @@
 		<entry key="Blueprints_SilversmithDesc" translation="Tenuta Silversmith"/>
 		<entry key="Blueprints_WesternBuilding01" translation="Edificio Veterinario per Cavalli"/>
 		<entry key="Blueprints_WesternBuilding01Desc" translation="Edificio Tema Western."/>
-		<entry key="Blueprints_WesternBuilding02" translation="Edificio Servizio Vagoni"/>
+		<entry key="Blueprints_WesternBuilding02" translation="Edificio Servizio Carrozze"/>
 		<entry key="Blueprints_WesternBuilding02Desc" translation="Edificio Tema Western."/>
 		<entry key="Blueprints_WesternBuilding03" translation="Edificio Piccolo 1"/>
 		<entry key="Blueprints_WesternBuilding03Desc" translation="Edificio Tema Western."/>
@@ -5927,7 +5927,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_MNLH" translation="Uno strano oggetto trovato nel deserto sembra esercitare una strana influenza sulle attrazioni del parco – tutto continua a guastarsi e stiamo terminando le finanze. Assumi alcuni manutentori, organizza i loro turni di lavoro per riparare le attrazioni e mantenerle operative, sconfiggi il potere del Monolito e fai in modo che il parco torni a guadagnare."/>
 		<entry key="FrontEndMenu_ScenarioDetails_NENC" translation="Il governo ha recentemente venduto un piccolo tratto di terra ad acquirenti privati, i quali hanno colto al volo la possibilità di investire su un nuovo parco a tema. Poco tempo dopo la grande apertura, la gestione di questo parco a tema sci-fi è misteriosamente scomparsa, insieme a tutti i risultati delle loro ricerche. Porta il parco al successo finanziario, guadagna abbastanza da poterti permettere la ricerca di nuove attrazioni e trasforma questo luogo di stranezze in un clamoroso trionfo."/>
 		<entry key="FrontEndMenu_ScenarioDetails_ODML" translation="Gli affiliati di questo futuristico centro dello shopping hanno messo in dubbio il loro impegno a lungo termine dopo i deludenti risultati finanziari. Ottieni e mantieni la loro fiducia ottenendo il maggior profitto possibile dai tuoi negozi e dalle tue strutture. L'organizzazione degli ambienti e la giusta tariffazione saranno le chiavi della svolta, i magnati più astuti sfrutteranno al meglio le insegne pre-costruite per le facciate dei negozi."/>
-		<entry key="FrontEndMenu_ScenarioDetails_PBTL" translation="Attraccate, ciurma! Ben arrrr...rivato a Planet Coaster! Dai fuoco alle polveri e prendi il controllo di questo esplosivo parco piratesco. Costruisci attrazioni, attira le folle e fai vivere ai visitatori indimenticabili momenti di cappa e spada!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_PBTL" translation="Attraccate, ciurma! Ben arrrr...rivato a Planet Coaster! Dai fuoco alle polveri e prendi il controllo di questo esplosivo parco Pirata. Costruisci attrazioni, attira le folle e fai vivere ai visitatori indimenticabili momenti di cappa e spada!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_PIRT" translation="Pietro Gambadilegno, pirata in pensione e neo-imprenditore, si trova in grosse difficoltà. Il suo parco è sommerso di debiti, incompleto, e scarseggia in quanto a divertimento. (Se solo ricordasse dove ha sepolto il suo tesoro... Era qui da qualche parte.) Afferra il timone e inverti la rotta, prima che questa nave si rovesci!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_SKLL" translation="Il Teschio? E' apparso un bel giorno, sorgendo dal terreno in cerca di vendetta... o almeno credo. Si vocifera che sia maledetto, ma tutto quel che so è che rende scontenti i visitatori. Serve il tuo aiuto per contrastare gli effetti del Teschio, altrimenti il parco non si risolleverà. Rendi felici i visitatori e aumentane il numero. Assumi intrattenitori, avvia campagne di marketing, fai tutto ciò che meglio credi per gonfiare le casse."/>
 		<entry key="FrontEndMenu_ScenarioDetails_SSMR" translation="La famiglia Silversmith sta aprendo un parco a tema sfruttando i terreni di sua proprietà per contrastare l'inarrestabile ascesa dei propri debiti. Il tuo compito sarà quello di creare un parco di successo, lontano dagli abissi della crisi, ma tenendo conto di qualche piccolo accorgimento... I Silversmith sono persone decisamente all'antica e permetteranno la costruzione di sole attrazioni ‘tradizionali’, so you may want to aim your Marketing efforts at families and ensure your ride sequences offer value for money. Oh, dimenticavo... costruisci con attenzione, dato che la proprietà tratterrà una percentuale su eventuali rimborsi... Buona fortuna!"/>
@@ -6199,7 +6199,7 @@
 		<entry key="BuildingPartName_SH_Drink_Coffee" translation="Street Fox Coffee"/>
 		<entry key="BuildingPartName_SH_Drink_Energy" translation="Gulpee Energy"/>
 		<entry key="BuildingPartName_SH_Drink_Juice" translation="Succhi Pipshot"/>
-		<entry key="BuildingPartName_SH_Drink_Premium" translation="Chiosco Bevande Premium"/>
+		<entry key="BuildingPartName_SH_Drink_Premium" translation="Chiosco Bibite Premium"/>
 		<entry key="BuildingPartName_SH_Drink_Slush" translation="Granita Gulpee"/>
 		<entry key="BuildingPartName_SH_Drink_Smoothie" translation="Frullati Pipshot"/>
 		<entry key="BuildingPartName_SH_Drink_Soda" translation="Bibite Gulpee"/>
@@ -6631,8 +6631,8 @@
 		<entry key="FrontEndMenu_DifficultyHard" translation="Difficile"/>
 		<entry key="FrontEndMenu_DifficultyHard_Description" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- a Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente"/>
 		<entry key="FrontEndMenu_DifficultyHarder" translation="Difficilissima"/>
-		<entry key="FrontEndMenu_DifficultyHarder_Description" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- La Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente&#10;- I Visitatori sono più difficili da attirare"/>
-		<entry key="FrontEndMenu_DifficultyHarder_DescriptionALT" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- La Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente&#10;- I Visitatori sono più difficili da attirare"/>
+		<entry key="FrontEndMenu_DifficultyHarder_Description" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- La Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente&#10;- I visitatori sono più difficili da attirare"/>
+		<entry key="FrontEndMenu_DifficultyHarder_DescriptionALT" translation="Budget Iniziale: $2000&#10;&#10;- Pochi elementi ricercati&#10;- La Felicità dei visitatori cala velocemente&#10;- Il Tasso di Rottura è veloce&#10;- La reputazione delle Attrazioni scende velocemente&#10;- I visitatori sono più difficili da attirare"/>
 		<entry key="FrontEndMenu_DifficultyMedium" translation="Media"/>
 		<entry key="FrontEndMenu_DifficultyMedium_Description" translation="Budget Iniziale: $4000&#10;Alcuni elementi ricercati&#10;- La Felicità dei visitatori cala progressivamente&#10;- Il Tasso di Rottura è nella media&#10;- La reputazione delle Attrazioni scende progressivamente"/>
 		<entry key="FrontEndMenu_Disconnected" translation="Sei Offline!"/>
@@ -7018,8 +7018,8 @@
 		<entry key="TransportRidePrefix" translation="Trasporto"/>
 		<entry key="TripleDot" translation="..."/>
 		<entry key="Undo" translation="Annulla Modifica"/>
-		<entry key="UnsuitableTerrainForPath" translation="Terreno sconnesso per un sentiero"/>
-		<entry key="UnsuitableTerrainForPathConnection" translation="Terreno troppo sconnesso per collegamento al sentiero"/>
+		<entry key="UnsuitableTerrainForPath" translation="Terreno troppo sconnesso per un sentiero"/>
+		<entry key="UnsuitableTerrainForPathConnection" translation="Terreno troppo sconnesso per un collegamento al sentiero"/>
 		<entry key="VALUE" translation="{Value:float:decimalPlaces=0}"/>
 		<entry key="VeryHigh" translation="Molto Alto"/>
 		<entry key="VeryLow" translation="Molto Basso"/>
@@ -12932,54 +12932,54 @@
 		<entry key="GuestName_Unique_Male_00001" translation="Craig David"/>
 		<entry key="GuestName_WithNickname" translation="{Forename} &quot;{Nickname}&quot; {Surname}"/>
 		<!--GuestPerks-->
-		<entry key="GuestPerkDesc_BigSpender" translation="They don't mind shelling out for things"/>
-		<entry key="GuestPerkDesc_CoasterHead" translation="They like coasters more than other rides"/>
-		<entry key="GuestPerkDesc_DayTripper" translation="A short visit, but a wide range of rides"/>
-		<entry key="GuestPerkDesc_Energetic" translation="They're a wellspring of energy"/>
-		<entry key="GuestPerkDesc_Fast" translation="They get around quicker than most"/>
-		<entry key="GuestPerkDesc_Hungry" translation="They've got a fast metabolism"/>
-		<entry key="GuestPerkDesc_Impatient" translation="They really hate queueing"/>
-		<entry key="GuestPerkDesc_Indecisive" translation="Often they'll change their mind about their destination"/>
-		<entry key="GuestPerkDesc_Lazy" translation="They don't want to walk too far"/>
-		<entry key="GuestPerkDesc_Litterbug" translation="Bins? What bins?"/>
-		<entry key="GuestPerkDesc_None" translation="No perk"/>
-		<entry key="GuestPerkDesc_Patient" translation="Queues don't deter them as much"/>
-		<entry key="GuestPerkDesc_Poor" translation="They have less money available"/>
-		<entry key="GuestPerkDesc_Roaming" translation="They don't mind going for a wander"/>
-		<entry key="GuestPerkDesc_ScaredyCat" translation="They don't want anything too scary!"/>
-		<entry key="GuestPerkDesc_Sickly" translation="They'll have to try avoid getting ill"/>
-		<entry key="GuestPerkDesc_SingleMinded" translation="Once they have a destination they stick with it"/>
-		<entry key="GuestPerkDesc_Slow" translation="They're a bit slower than average"/>
-		<entry key="GuestPerkDesc_Stingy" translation="They want to make every penny count"/>
-		<entry key="GuestPerkDesc_StrongStomach" translation="They don't worry about nausea so much"/>
-		<entry key="GuestPerkDesc_ThrillSeeker" translation="They want adventurous rides"/>
-		<entry key="GuestPerkDesc_Tired" translation="They'll get tired rather quickly"/>
-		<entry key="GuestPerkDesc_Wealthy" translation="They have more money available"/>
-		<entry key="GuestPerkDesc_WellFed" translation="They get hungry more slowly"/>
-		<entry key="GuestPerk_BigSpender" translation="Big Spender"/>
-		<entry key="GuestPerk_CoasterHead" translation="Coaster Head"/>
-		<entry key="GuestPerk_DayTripper" translation="Day Tripper"/>
-		<entry key="GuestPerk_Energetic" translation="Full of Energy"/>
-		<entry key="GuestPerk_Fast" translation="Fast Walker"/>
-		<entry key="GuestPerk_Hungry" translation="Hungry"/>
-		<entry key="GuestPerk_Impatient" translation="Impatient"/>
-		<entry key="GuestPerk_Indecisive" translation="Indecisive"/>
-		<entry key="GuestPerk_Lazy" translation="Lazy"/>
-		<entry key="GuestPerk_Litterbug" translation="Litterbug"/>
-		<entry key="GuestPerk_None" translation="None"/>
-		<entry key="GuestPerk_Patient" translation="Patient"/>
-		<entry key="GuestPerk_Poor" translation="Poor"/>
-		<entry key="GuestPerk_Roaming" translation="Roaming"/>
-		<entry key="GuestPerk_ScaredyCat" translation="Scaredy-Cat"/>
-		<entry key="GuestPerk_Sickly" translation="Sickly"/>
-		<entry key="GuestPerk_SingleMinded" translation="Single Minded"/>
-		<entry key="GuestPerk_Slow" translation="Slow Walker"/>
-		<entry key="GuestPerk_Stingy" translation="Stingy"/>
-		<entry key="GuestPerk_StrongStomach" translation="Iron Stomach"/>
-		<entry key="GuestPerk_ThrillSeeker" translation="Thrill Seeker"/>
-		<entry key="GuestPerk_Tired" translation="Lack of Energy"/>
-		<entry key="GuestPerk_Wealthy" translation="Wealthy"/>
-		<entry key="GuestPerk_WellFed" translation="Slow Metabolism"/>
+		<entry key="GuestPerkDesc_BigSpender" translation="A loro non pesa spendere per le cose"/>
+		<entry key="GuestPerkDesc_CoasterHead" translation="Amano le Montagne Russe più di ogni altra attrazione"/>
+		<entry key="GuestPerkDesc_DayTripper" translation="Una visita breve, ma un'ampia scelta di attrazioni"/>
+		<entry key="GuestPerkDesc_Energetic" translation="Sono un pozzo di energia"/>
+		<entry key="GuestPerkDesc_Fast" translation="Vanno in giro più velocemente di altri"/>
+		<entry key="GuestPerkDesc_Hungry" translation="Hanno un metabolismo veloce"/>
+		<entry key="GuestPerkDesc_Impatient" translation="Odiano davvero fare la coda"/>
+		<entry key="GuestPerkDesc_Indecisive" translation="Cambiano spesso idea sulla destinazione"/>
+		<entry key="GuestPerkDesc_Lazy" translation="Non vogliono camminare molto"/>
+		<entry key="GuestPerkDesc_Litterbug" translation="Cestini? Quali cestini?"/>
+		<entry key="GuestPerkDesc_None" translation="Nessuna caratteristica"/>
+		<entry key="GuestPerkDesc_Patient" translation="Le code non li spaventano"/>
+		<entry key="GuestPerkDesc_Poor" translation="Hanno meno denaro a disposizione"/>
+		<entry key="GuestPerkDesc_Roaming" translation="A loro non pesa andare in giro "/>
+		<entry key="GuestPerkDesc_ScaredyCat" translation="Non vogliono cose troppo spaventose!"/>
+		<entry key="GuestPerkDesc_Sickly" translation="Devono evitare di ammalarsi"/>
+		<entry key="GuestPerkDesc_SingleMinded" translation="Una volta decisa la destinazione, è quella"/>
+		<entry key="GuestPerkDesc_Slow" translation="Sono un pò più lenti della media"/>
+		<entry key="GuestPerkDesc_Stingy" translation="Contano il singolo centesimo"/>
+		<entry key="GuestPerkDesc_StrongStomach" translation="Non si preoccupano molto della nausea"/>
+		<entry key="GuestPerkDesc_ThrillSeeker" translation="Vogliono attrazioni avventurose"/>
+		<entry key="GuestPerkDesc_Tired" translation="Si stancano velocemente"/>
+		<entry key="GuestPerkDesc_Wealthy" translation="Hanno più denaro a disposizione"/>
+		<entry key="GuestPerkDesc_WellFed" translation="Diventano affamati più lentamente"/>
+		<entry key="GuestPerk_BigSpender" translation="Spendaccione"/>
+		<entry key="GuestPerk_CoasterHead" translation="Capo dei Coaster"/>
+		<entry key="GuestPerk_DayTripper" translation="Visitatore di un giorno"/>
+		<entry key="GuestPerk_Energetic" translation="Pieno di energia"/>
+		<entry key="GuestPerk_Fast" translation="Camminatore veloce"/>
+		<entry key="GuestPerk_Hungry" translation="Affamato"/>
+		<entry key="GuestPerk_Impatient" translation="Impaziente"/>
+		<entry key="GuestPerk_Indecisive" translation="Indeciso"/>
+		<entry key="GuestPerk_Lazy" translation="Pigro"/>
+		<entry key="GuestPerk_Litterbug" translation="Sporcaccione"/>
+		<entry key="GuestPerk_None" translation="Nessuna"/>
+		<entry key="GuestPerk_Patient" translation="Paziente"/>
+		<entry key="GuestPerk_Poor" translation="Povero"/>
+		<entry key="GuestPerk_Roaming" translation="Passeggiatore"/>
+		<entry key="GuestPerk_ScaredyCat" translation="Timoroso"/>
+		<entry key="GuestPerk_Sickly" translation="Malaticcio"/>
+		<entry key="GuestPerk_SingleMinded" translation="Deciso"/>
+		<entry key="GuestPerk_Slow" translation="Camminatore lento"/>
+		<entry key="GuestPerk_Stingy" translation="Avaro"/>
+		<entry key="GuestPerk_StrongStomach" translation="Stomaco di ferro"/>
+		<entry key="GuestPerk_ThrillSeeker" translation="Coraggioso"/>
+		<entry key="GuestPerk_Tired" translation="Senza energia"/>
+		<entry key="GuestPerk_Wealthy" translation="Facoltoso"/>
+		<entry key="GuestPerk_WellFed" translation="Metabolismo lento"/>
 		<!--Guests-->
 		<entry key="Guests_PlayerDefinedName" translation="{GUESTNAME}"/>
 		<entry key="Guests_Status_AtSecurityGuard" translation="Arrestato dalla Sicurezza"/>
@@ -12999,7 +12999,7 @@
 		<entry key="Guests_Status_Idle" translation="Oziando"/>
 		<entry key="Guests_Status_LeavePark" translation="Tornando a casa"/>
 		<entry key="Guests_Status_Physics" translation="Colpito da un vagone"/>
-		<entry key="Guests_Status_PicnicBench" translation="Finding A Picnic Bench"/>
+		<entry key="Guests_Status_PicnicBench" translation="Cercando un tavolo da pic-nic"/>
 		<entry key="Guests_Status_Screen" translation="Guardando lo schermo"/>
 		<entry key="Guests_Status_Suspended" translation="Portato in giro"/>
 		<entry key="Guests_Status_Trapped" translation="In trappola"/>
@@ -13849,7 +13849,7 @@
 		<entry key="InfoPanel_Ride_Downtime_Header" translation="Recente malfunzionamento"/>
 		<entry key="InfoPanel_Ride_Downtime_HeaderTooltip" translation="Tempo di inattività durante gli ultimi 8 mesi"/>
 		<entry key="InfoPanel_Ride_FearTooHigh" translation="La tua attrazione è troppo spaventosa!"/>
-		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="I Visitatori non vorranno salirci su."/>
+		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="I visitatori non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_Finances" translation="Statistiche Finanziarie"/>
 		<entry key="InfoPanel_Ride_FocusCam" translation="Centra Camera"/>
 		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Montagne Russe "/>
@@ -13870,7 +13870,7 @@
 		<entry key="InfoPanel_Ride_Manage" translation="Gestione attrazione"/>
 		<entry key="InfoPanel_Ride_Name" translation="Attrazione"/>
 		<entry key="InfoPanel_Ride_NauseaTooHigh" translation="La tua attrazione provoca troppa nausea!"/>
-		<entry key="InfoPanel_Ride_NauseaTooHigh_Detail" translation="I Visitatori non vorranno salirci su."/>
+		<entry key="InfoPanel_Ride_NauseaTooHigh_Detail" translation="I visitatori non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_NextInspection" translation="{minutes:int} minuti"/>
 		<entry key="InfoPanel_Ride_NextInspection_1" translation="1 minuto"/>
 		<entry key="InfoPanel_Ride_NextInspection_Never" translation="Mai"/>
@@ -13903,9 +13903,9 @@
 		<entry key="InfoPanel_Ride_PrestigeState_Unopened" translation="Chiusa"/>
 		<entry key="InfoPanel_Ride_PrestigeState_WithPercentage" translation="{StateName} {Percentage}"/>
 		<entry key="InfoPanel_Ride_PrestigeTimelineScale" translation="Anni"/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTip" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione ( {Reputation} )&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTipAlt" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
-		<entry key="InfoPanel_Ride_Prestige_ToolTip_UnknownReputation" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i Visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione&#10;&#10;I Visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
+		<entry key="InfoPanel_Ride_Prestige_ToolTip" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione ( {Reputation} )&#10;&#10;I visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
+		<entry key="InfoPanel_Ride_Prestige_ToolTipAlt" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;&#10;I visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
+		<entry key="InfoPanel_Ride_Prestige_ToolTip_UnknownReputation" translation="Prestigio&#10;&#10;E' il gradimento e il valore di un'Attrazione per i visitatori.&#10;Il Prestigio di un'Attrazione è la somma di:&#10;- Esperienza sull'Attrazione&#10;- Valutazione Scenario Coda ( {QueueRating} )&#10;- Reputazione&#10;&#10;I visitatori pagheranno di più per Attrazioni con Prestigio più alto."/>
 		<entry key="InfoPanel_Ride_Prestige_ValueUnknown" translation="-"/>
 		<entry key="InfoPanel_Ride_RebrandAcceptToolTip" translation="Accetta"/>
 		<entry key="InfoPanel_Ride_RebrandButton" translation="Rinnovamento ({cost:currency})"/>
@@ -13942,7 +13942,7 @@
 		<entry key="InfoPanel_Ride_ScenarioTab" translation="Scenario Editor Ride Options"/>
 		<entry key="InfoPanel_Ride_Scenario_Tooltip" translation="You can manipulate this ride to suit your Scenario.&#10;Enqueue a Breakdown, alter its Wear and Tear or set its Starting Age."/>
 		<entry key="InfoPanel_Ride_Statistics" translation="Statistiche attrazione"/>
-		<entry key="InfoPanel_Ride_Thoughts" translation="Pensieri dei Visitatori"/>
+		<entry key="InfoPanel_Ride_Thoughts" translation="Pensieri dei visitatori"/>
 		<entry key="InfoPanel_Ride_TicketPrice" translation="Prezzo Biglietto"/>
 		<entry key="InfoPanel_Ride_TicketPrice_ToolTip" translation="Quanto ogni visitatore deve pagare per questa attrazione.&#10;• Influisce su quanto i visitatori saranno disposti ad aspettare in coda.&#10;• Prezzi più bassi creeranno code più lunghe."/>
 		<entry key="InfoPanel_Ride_TimeSinceRefurbishment_Body" translation="{months:int} mesi"/>
@@ -14055,7 +14055,7 @@
 		<entry key="InfoPanel_Staff_WorkTask_CaughtPickpocket" translation="Acciuffa Borseggiatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_ChasedPickpocket" translation="Ricerca Borseggiatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_ChasedVandal" translation="Caccia via vandali"/>
-		<entry key="InfoPanel_Staff_WorkTask_EjectGuestGroup" translation="Caccia via Gruppi di Visitatori"/>
+		<entry key="InfoPanel_Staff_WorkTask_EjectGuestGroup" translation="Caccia via Gruppi di visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestEntertained" translation="Intrattiene i visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestServed" translation="Serve i visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_LitterCleared" translation="Rifiuti"/>
@@ -14070,7 +14070,7 @@
 		<entry key="InfoPanel_Staff_WorkType_Stat_CaughtPickpocket" translation="Borseggiatori acciuffati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_ChasedPickpocket" translation="Borseggiatori acciuffati/ricercati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_ChasedVandal" translation="Vandali cacciati via il mese scorso"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_EjectGuestGroup" translation="Gruppi di Visitatori cacciati via il mese scorso"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_EjectGuestGroup" translation="Gruppi di visitatori cacciati via il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_GuestEntertained" translation="Visitatori Intrattenuti"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_GuestServed" translation="Visitatori Serviti"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_Level" translation="Livello Staff"/>
@@ -14097,8 +14097,8 @@
 		<entry key="InfoPanel_Track_EditTriggers" translation="Modifica Inneschi"/>
 		<entry key="InfoPanel_Track_FlexiColour" translation="Colori Attrazione"/>
 		<entry key="InfoPanel_Track_FrontLookCamera" translation="Visuale Frontale"/>
-		<entry key="InfoPanel_Track_GuestCamera" translation="Visuale Visitatori"/>
-		<entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale Visitatori"/>
+		<entry key="InfoPanel_Track_GuestCamera" translation="Visuale visitatori"/>
+		<entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale visitatori"/>
 		<entry key="InfoPanel_Track_LookBackCamera" translation="Visuale invertita"/>
 		<entry key="InfoPanel_Track_Name" translation="Tracciato"/>
 		<entry key="InfoPanel_Track_NewBuilding" translation="Costruisci sulla Griglia della Stazione"/>
@@ -14176,13 +14176,13 @@
 		<entry key="LoadingScreen_Tooltip_36" translation="Puoi cambiare il prezzo di un'Attrazione nella sezione Economia"/>
 		<entry key="LoadingScreen_Tooltip_37" translation="Rendi le attrazioni più efficienti regolando le impostazioni di carico dei passeggeri"/>
 		<entry key="LoadingScreen_Tooltip_38" translation="Prova ad aggiungere una coda prioritaria nelle attrazioni più popolari"/>
-		<entry key="LoadingScreen_Tooltip_39" translation="Il Chiosco Informazioni vende i Pass Salta-Coda che permettono ai Visitatori di accedere alle code prioritarie"/>
+		<entry key="LoadingScreen_Tooltip_39" translation="Il Chiosco Informazioni vende i Pass Salta-Coda che permettono ai visitatori di accedere alle code prioritarie"/>
 		<entry key="LoadingScreen_Tooltip_4" translation="Puoi cambiare il colore della tua interfaccia nel Menù Impostazioni"/>
 		<entry key="LoadingScreen_Tooltip_40" translation="Puoi cambiare il colore di molti oggetti ed Attrazioni "/>
-		<entry key="LoadingScreen_Tooltip_41" translation="I Visitatori andranno sulle Attrazioni con un livello di Paura e Nausea che possono tollerare"/>
+		<entry key="LoadingScreen_Tooltip_41" translation="I visitatori andranno sulle Attrazioni con un livello di Paura e Nausea che possono tollerare"/>
 		<entry key="LoadingScreen_Tooltip_42" translation="Più alta sarà la valutazione del tuo parco, più visitatori avrà!"/>
 		<entry key="LoadingScreen_Tooltip_43" translation="Puoi vedere i pensieri più popolari su di un'attrazione nella sua schermata generale"/>
-		<entry key="LoadingScreen_Tooltip_44" translation="I Visitatori pagheranno di più per attrazioni con uno Scenario più bello attorno alla coda"/>
+		<entry key="LoadingScreen_Tooltip_44" translation="I visitatori pagheranno di più per attrazioni con uno Scenario più bello attorno alla coda"/>
 		<entry key="LoadingScreen_Tooltip_45" translation="Spostare l'entrata o l'uscita di un'Attrazione può velocizzare la salita/discesa dei passeggeri"/>
 		<entry key="LoadingScreen_Tooltip_46" translation="Montagne Russe con meno componenti avranno un costo mensile inferiore"/>
 		<entry key="LoadingScreen_Tooltip_47" translation="Ogni Montagna Russa ha diversi vincoli tecnici sul suo tracciato"/>
@@ -14685,7 +14685,7 @@
 		<entry key="ObjectBrowser_Coaster_SteelWing" translation="Alata"/>
 		<entry key="ObjectBrowser_Coaster_WoodenParent" translation="Montagne Russe di Legno"/>
 		<entry key="ObjectBrowser_Descending" translation="Discendente"/>
-		<entry key="ObjectBrowser_Drink" translation="Chiosco di bevande"/>
+		<entry key="ObjectBrowser_Drink" translation="Chiosco di bibite"/>
 		<entry key="ObjectBrowser_EFN_EmptyLabel" translation="-"/>
 		<entry key="ObjectBrowser_EFN_Excitement_ToolTip" translation="Eccitazione"/>
 		<entry key="ObjectBrowser_EFN_Fear_ToolTip" translation="Paura"/>
@@ -15118,7 +15118,7 @@
 		<!--PDLC_DeLorean_Coasters-->
 		<entry key="Coaster_Type_BackToTheFuture" translation="Go Karts"/>
 		<entry key="Powered_BackToTheFuture" translation="Ritorno al Futuro"/>
-		<entry key="Powered_BackToTheFuture_Desc" translation="I Visitatori gareggiano uno contro l'altro nei go-karts in stile Macchina del Tempo di Ritorno al Futuro."/>
+		<entry key="Powered_BackToTheFuture_Desc" translation="I visitatori gareggiano uno contro l'altro nei go-karts in stile Macchina del Tempo di Ritorno al Futuro."/>
 		<!--PDLC_DeLorean_Scenery-->
 		<entry key="Blueprints_Delorean01" translation="Ritorno al Futuro 1985"/>
 		<entry key="Blueprints_Delorean01Desc" translation="Scusate la grossolanità di questo modello. Non ho avuto il tempo di costruirlo in scala o verniciarlo.&#10;Tema Ritorno al Futuro"/>
@@ -16361,9 +16361,9 @@
 		<entry key="ParkManagement_GridMaintenance" translation="Manutenzione"/>
 		<entry key="ParkManagement_GridStaff" translation="Staff"/>
 		<entry key="ParkManagement_GuestOverview" translation="Panoramica Visitatori"/>
-		<entry key="ParkManagement_GuestOverviewNeeds" translation="Necessità medie dei Visitatori "/>
+		<entry key="ParkManagement_GuestOverviewNeeds" translation="Necessità medie dei visitatori "/>
 		<entry key="ParkManagement_GuestSummary" translation="Riepilogo "/>
-		<entry key="ParkManagement_GuestThoughts" translation="Pensieri dei Visitatori"/>
+		<entry key="ParkManagement_GuestThoughts" translation="Pensieri dei visitatori"/>
 		<entry key="ParkManagement_Guests" translation="Visitatori"/>
 		<entry key="ParkManagement_Guests_AverageATMWithdrawal" translation="Prelievi medi bancomat"/>
 		<entry key="ParkManagement_Guests_AverageCoasterSpend" translation="Spesa media Montagne Russe"/>
@@ -16924,7 +16924,7 @@
 		<entry key="Research_Hint_RollingRiver" translation="Acqua veloce"/>
 		<entry key="Research_Hint_Scenery_Fairytale" translation="Scenografia Fiabesca"/>
 		<entry key="Research_Hint_Scenery_Generic" translation="Scenografia tipica del parco"/>
-		<entry key="Research_Hint_Scenery_Pirate" translation="Scenografia piratesca"/>
+		<entry key="Research_Hint_Scenery_Pirate" translation="Scenografia Pirata"/>
 		<entry key="Research_Hint_Scenery_PlanetCoaster" translation="Scenografia Planet Coaster"/>
 		<entry key="Research_Hint_Scenery_Primitive" translation="Forme d'arte"/>
 		<entry key="Research_Hint_Scenery_SciFi" translation="Scenografia Sci-Fi"/>
@@ -17114,7 +17114,7 @@
 		<entry key="Challenges_GuestHappiness_NeedGuests" translation="Porta la Felicità Media visitatori a {Target:float:decimalPlaces=0}%&#10;Richiede {MinGuests:int} visitatori"/>
 		<entry key="Challenges_KeepTheftVictimsLow" translation="Mantieni l'attuale livello vittime di furto sotto {Value:float:decimalPlaces=1}% per {Months:int} mesi"/>
 		<entry key="Challenges_KeepTheftVictimsLow_Label" translation="Sfida Tasso Borseggi"/>
-		<entry key="Challenges_KeepTheftVictimsLow_NeedGuests" translation="Mantieni l'attuale livello vittime di furto sotto {Value:float:decimalPlaces=1}% per {Months:int} mesi&#10;    Richiede {MinGuests:int} Visitatori"/>
+		<entry key="Challenges_KeepTheftVictimsLow_NeedGuests" translation="Mantieni l'attuale livello vittime di furto sotto {Value:float:decimalPlaces=1}% per {Months:int} mesi&#10;    Richiede {MinGuests:int} visitatori"/>
 		<entry key="Challenges_ParkRatingAll" translation="Ottieni una Valutazione Parco pari a {Target:int}"/>
 		<entry key="Challenges_ParkRatingBalance" translation="Ottieni un Bonus Bilancio Parco di {Target:int}"/>
 		<entry key="Challenges_ParkRatingRides" translation="Ottieni una Valutazione Attrazioni pari a {Target:int}"/>
@@ -17280,7 +17280,7 @@
 		<entry key="Objectives_ForMonths" translation="Per {Target:int} Mesi. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
 		<entry key="Objectives_ForMonthsSingular" translation="Per un Mese. Attuale: {Value:float:decimalPlaces=2} Mesi"/>
 		<entry key="Objectives_GuestCount_View" translation="Attira {Value:int} visitatori"/>
-		<entry key="Objectives_GuestHappiness_View" translation="Incrementa la Felicità Media dei Visitatori fino al {Value:float:decimalPlaces=0}%"/>
+		<entry key="Objectives_GuestHappiness_View" translation="Incrementa la Felicità Media dei visitatori fino al {Value:float:decimalPlaces=0}%"/>
 		<entry key="Objectives_HireStaff_View" translation="Assumi {Value:int} {StaffTypes}"/>
 		<entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Mantieni le vittime di furto attuali sotto il {Value:float:decimalPlaces=1}% per {Months:int} mesi consecutivi"/>
 		<entry key="Objectives_KeepTheftVictimsLow_View" translation="Mantieni le vittime di furto attuali sotto {Value:int} per {Months:int} mesi consecutivi"/>
@@ -17294,7 +17294,7 @@
 		<entry key="Objectives_MinStaff" translation="With a Minimum of {Count:int} {StaffTypes}"/>
 		<entry key="Objectives_MinimumGuestCount" translation="Almeno {Value:int} visitatori nel parco"/>
 		<entry key="Objectives_MinimumGuestCountSingular" translation="Almeno un visitatore nel parco"/>
-		<entry key="Objectives_MinimumGuestHappiness" translation="Almeno {Target:float:decimalPlaces=0}% di Felicità Media dei Visitatori. Attuale: {Value:float:decimalPlaces=0}%"/>
+		<entry key="Objectives_MinimumGuestHappiness" translation="Almeno {Target:float:decimalPlaces=0}% di Felicità Media dei visitatori. Attuale: {Value:float:decimalPlaces=0}%"/>
 		<entry key="Objectives_MinimumParkRating" translation="Con un parco con una valutazione di almeno {Value:int}"/>
 		<entry key="Objectives_MinimumRideProfit" translation="Con un profitto mensile di almeno{Target:currency}. Attuale: {Value:currency}"/>
 		<entry key="Objectives_MinimumStaffHappiness" translation="Almeno {Target:float:decimalPlaces=0}% di Felicità Media dello Staff. Attuale: {Value:float:decimalPlaces=0}%"/>
@@ -18507,14 +18507,14 @@
 		<entry key="BuildingPartName_PR_Driftwood_Long" translation="Legno Spiaggiato - Tavola Lunga"/>
 		<entry key="BuildingPartName_PR_Driftwood_Short" translation="Legno Spiaggiato - Tavola Corta"/>
 		<entry key="BuildingPartName_PR_Fence_01" translation="Recinzione in Corda"/>
-		<entry key="BuildingPartName_PR_Fountain_Base_01" translation="Fontana Piratesca - Base Poggia-Remi"/>
-		<entry key="BuildingPartName_PR_Fountain_Base_02" translation="Fontana Piratesca - Base con Teschi"/>
-		<entry key="BuildingPartName_PR_Fountain_StageA_01" translation="Fontana Piratesca - Mostro Marino"/>
-		<entry key="BuildingPartName_PR_Fountain_StageA_02" translation="Fontana Piratesca - Polvere da Sparo"/>
-		<entry key="BuildingPartName_PR_Fountain_StageB_01" translation="Fontana Piratesca - Basamento con Tentacoli"/>
+		<entry key="BuildingPartName_PR_Fountain_Base_01" translation="Fontana Pirata - Base Poggia-Remi"/>
+		<entry key="BuildingPartName_PR_Fountain_Base_02" translation="Fontana Pirata - Base con Teschi"/>
+		<entry key="BuildingPartName_PR_Fountain_StageA_01" translation="Fontana Pirata - Mostro Marino"/>
+		<entry key="BuildingPartName_PR_Fountain_StageA_02" translation="Fontana Pirata - Polvere da Sparo"/>
+		<entry key="BuildingPartName_PR_Fountain_StageB_01" translation="Fontana Pirata - Basamento con Tentacoli"/>
 		<entry key="BuildingPartName_PR_Fountain_StageB_02" translation="Statua - Conchiglia"/>
 		<entry key="BuildingPartName_PR_Galleon" translation="Gran Galeone"/>
-		<entry key="BuildingPartName_PR_Gibbet" translation="Gabbia Piratesca da Tortura"/>
+		<entry key="BuildingPartName_PR_Gibbet" translation="Gabbia Pirata da Tortura"/>
 		<entry key="BuildingPartName_PR_Kraken" translation="Kraken"/>
 		<entry key="BuildingPartName_PR_KrakenTentacle" translation="Tentacolo del Kraken"/>
 		<entry key="BuildingPartName_PR_Lamppost_01" translation="Lampione a Teschio"/>
@@ -18550,7 +18550,7 @@
 		<entry key="BuildingPartName_PR_Shipwreck_Stern_01" translation="Relitto - Poppa"/>
 		<entry key="BuildingPartName_PR_Shipwreck_Stern_02" translation="Relitto - Poppa 2"/>
 		<entry key="BuildingPartName_PR_SkullRock" translation="Teschio di Roccia"/>
-		<entry key="BuildingPartName_PR_Stage" translation="Band Piratesca"/>
+		<entry key="BuildingPartName_PR_Stage" translation="Band Pirata"/>
 		<entry key="BuildingPartName_PR_Statue_Mermaid" translation="Statua - Sirena"/>
 		<entry key="BuildingPartName_PR_Statue_Parrot" translation="Statua - Pappagallo"/>
 		<entry key="BuildingPartName_PR_Statue_PirateKing" translation="Statua - Re Pirata"/>
