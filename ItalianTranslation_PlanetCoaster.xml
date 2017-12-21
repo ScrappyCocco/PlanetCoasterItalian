@@ -3145,41 +3145,87 @@
 		<entry key="BuildingPartDesc_HOL_Merge_Arch" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_ArchHalf" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Doorway" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;Alto 2m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;Alto 4m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero&#10;Alto 0.6m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartName_HOL_ArchHalf_Tunnel" translation="Pan di Zenzero - Mezzo Tunnel con Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Arch_Tunnel" translation="Pan di Zenzero - Tunnel con Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_Arch" translation="Pan di Zenzero - Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_ArchHalf" translation="Pan di Zenzero - Mezzo Arco a Tutto Sesto"/>
 		<entry key="BuildingPartName_HOL_Merge_Doorway" translation="Pan di Zenzero - Muro da 4m con Foratura per Porta"/>
+		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Muro di Pan di Zenzero 4m - Facciata"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
+		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Contorno Stazione 2"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_1m" translation="Pan di Zenzero - Muro da 1m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_2m" translation="Pan di Zenzero - Muro da 2m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m" translation="Pan di Zenzero - Muro da 4m"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_ArchWindow" translation="Pan di Zenzero - Muro da 4m con Foro ad Arco"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Circle" translation="Pan di Zenzero - Muro da 4m con Foro Circolare"/>
 		<entry key="BuildingPartName_HOL_Merge_Wall_4m_Heart" translation="Pan di Zenzero - Muro da 4m con Foro a Cuore"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Muro di Pan di Zenzero 1m Inclinato"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Muro di Pan di Zenzero 2m Inclinato"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Muro di Pan di Zenzero 4m Inclinato"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Muro di Pan di Zenzero 4m Inclinato con Foro Circolare"/>
+		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Muro di Pan di Zenzero 4m Inclinato con Foro a Cuore"/>
+		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Muro Curvato di Pan di Zenzero 2m"/>
+		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Muro Curvato di Pan di Zenzero 4m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Tetto Increspato di Pan di Zenzero"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Tetto Increspato di Pan di Zenzero - Stile Olandese"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Tetto Increspato di Pan di Zenzero - Limite Sporgente"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_1m" translation="Pan di Zenzero - Colmo del Tetto da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_2m" translation="Pan di Zenzero - Colmo del Tetto da 2m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Pan di Zenzero Tetto Piatto"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero - Tetto Piatto a Quarto di Cerchio"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Tetto Increspato di Pan di Zenzero - Sporgente"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_2m_1m" translation="Pan di Zenzero - Colmo del Tetto Sporgente da 2m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_QtrCone" translation="Pan di Zenzero - Tetto a Quarto di Cono"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Tetto Inclinato di Pan di Zenzero"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_1m" translation="Pan di Zenzero - Tetto Inclinato da 1m"/>
 		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_2m" translation="Pan di Zenzero - Tetto Inclinato da 2m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Pan di Zenzero - Punta del Tetto a Torre"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Muro di Pan di Zenzero 1m Estremità a Timpano"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Muro di Pan di Zenzero 2m Estremità a Timpano"/>
+		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Muro di Pan di Zenzero 4m Estremità a Timpano"/>
 		<!--C1_BuildingParts_Attach-->
 		<entry key="BuildingPartDesc_HOL_Bread_Door" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Door_02" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Bread_Heart" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_01" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_02" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Door_03" translation="Glassa&#10;Tema Festivo"/>
@@ -3214,6 +3260,9 @@
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_Tile_Group" translation="Glassa&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_IcingDec_ZigZag" translation="Glassa&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_StreetLamp" translation="Il dolce profumo dei festeggiamenti.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBench" translation="Quale tra queste dolci sedute sarà la più comoda?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_SweetBin" translation="A così tanti dolci corrispondono tante cartacce...&#10;Tema Festivo"/>
@@ -3231,6 +3280,10 @@
 		<entry key="BuildingPartName_HOL_Bread_Door" translation="Pan di Zenzero - Ritaglio a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Bread_Door_02" translation="Pan di Zenzero - Ritaglio a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Bread_Heart" translation="Pan di Zenzero - Ritaglio a Forma di Cuore"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m asse ovale"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m asse ovale"/>
+		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m asse ovale"/>
+		<entry key="BuildingPartName_HOL_Chimney_01" translation="Camino di Pan di Zenzero"/>
 		<entry key="BuildingPartName_HOL_Door_01" translation="Pan di Zenzero  - Glassa a Forma di Porta 1"/>
 		<entry key="BuildingPartName_HOL_Door_02" translation="Pan di Zenzero  - Glassa a Forma di Porta 2"/>
 		<entry key="BuildingPartName_HOL_Door_03" translation="Pan di Zenzero  - Glassa a Forma di Porta 3"/>
@@ -3265,6 +3318,9 @@
 		<entry key="BuildingPartName_HOL_IcingDec_Tile" translation="Pan di Zenzero - Glassa a Forma di Piastrella a Ventaglio Singola"/>
 		<entry key="BuildingPartName_HOL_IcingDec_Tile_Group" translation="Pan di Zenzero - Glassa a Forma di Piastrelle a Ventaglio"/>
 		<entry key="BuildingPartName_HOL_IcingDec_ZigZag" translation="Pan di Zenzero - Glassa a Forma di Zigzag da 4m"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Angolo Cornicione Tetto di Pan di Zenzero 1m sporgente"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Angolo Cornicione Tetto di Pan di Zenzero 2m sporgente"/>
+		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Cornicione Tetto di Pan di Zenzero 4m - 1m sporgente"/>
 		<entry key="BuildingPartName_HOL_StreetLamp" translation="Lampioncino a Candelina"/>
 		<entry key="BuildingPartName_HOL_SweetBench" translation="Panchina Festiva Dolce"/>
 		<entry key="BuildingPartName_HOL_SweetBin" translation="Cestino Festivo"/>
@@ -3835,65 +3891,8 @@
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic7" translation="Neve e Ghiaccio"/>
 		<entry key="Terrain_Edit_IconName_iconTerrainArctic8" translation="Fango"/>
 		<!--C2_BuildingParts-->
-		<entry key="BuildingPartDesc_HOL_Merge_ShopFront" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Circle" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Merge_Wall_Slope_Heart" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_2m_90" translation="Pan di Zenzero&#10;Alto 2m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Radius4_4m_90" translation="Pan di Zenzero&#10;Alto 4m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_02_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Flat" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero&#10;Alto 0.5m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Overhang_1m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Tower" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_1m" translation="Pan di Zenzero&#10;Alto 1.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_2m" translation="Pan di Zenzero&#10;Alto 2.0m&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Wall_GableTri_4m" translation="Pan di Zenzero&#10;Alto 4.0m&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_PC_Flags_Single_Small" translation="Una bandiera con un passato di luci ed ombre."/>
-		<entry key="BuildingPartName_HOL_Merge_ShopFront" translation="Muro di Pan di Zenzero 4m - Facciata"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_01" translation="Pan di Zenzero Muro 4m Contorno Stazione 1"/>
-		<entry key="BuildingPartName_HOL_Merge_Station_Surround_02" translation="Pan di Zenzero Muro 4m Contorno Stazione 2"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_1m" translation="Muro di Pan di Zenzero 1m Inclinato"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_2m" translation="Muro di Pan di Zenzero 2m Inclinato"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_4m" translation="Muro di Pan di Zenzero 4m Inclinato"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Circle" translation="Muro di Pan di Zenzero 4m Inclinato con Foro Circolare"/>
-		<entry key="BuildingPartName_HOL_Merge_Wall_Slope_Heart" translation="Muro di Pan di Zenzero 4m Inclinato con Foro a Cuore"/>
-		<entry key="BuildingPartName_HOL_Radius4_2m_90" translation="Muro Curvato di Pan di Zenzero 2m"/>
-		<entry key="BuildingPartName_HOL_Radius4_4m_90" translation="Muro Curvato di Pan di Zenzero 4m"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread" translation="Tetto Increspato di Pan di Zenzero"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02" translation="Tetto Increspato di Pan di Zenzero - Stile Olandese"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_02_Overhang_1m" translation="Tetto Increspato di Pan di Zenzero - Limite Sporgente"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Flat" translation="Pan di Zenzero Tetto Piatto"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_FlatQtrCirc" translation="Pan di Zenzero - Tetto Piatto a Quarto di Cerchio"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Overhang_1m" translation="Tetto Increspato di Pan di Zenzero - Sporgente"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope" translation="Tetto Inclinato di Pan di Zenzero"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Tower" translation="Pan di Zenzero - Punta del Tetto a Torre"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_1m" translation="Muro di Pan di Zenzero 1m Estremità a Timpano"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_2m" translation="Muro di Pan di Zenzero 2m Estremità a Timpano"/>
-		<entry key="BuildingPartName_HOL_Wall_GableTri_4m" translation="Muro di Pan di Zenzero 4m Estremità a Timpano"/>
 		<entry key="BuildingPartName_PC_Flags_Single_Small" translation="Bandiera Gara"/>
-		<!--C2_BuildingParts_Attach-->
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Bread_Oblong_4m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Chimney_01" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Corner_2m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartDesc_HOL_Roof_Bread_Slope_Eave_1m" translation="Pan di Zenzero&#10;Tema Festivo"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_1m" translation="Pan di Zenzero 1m asse ovale"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_2m" translation="Pan di Zenzero 2m asse ovale"/>
-		<entry key="BuildingPartName_HOL_Bread_Oblong_4m" translation="Pan di Zenzero 4m asse ovale"/>
-		<entry key="BuildingPartName_HOL_Chimney_01" translation="Camino di Pan di Zenzero"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_1m" translation="Angolo Cornicione Tetto di Pan di Zenzero 1m sporgente"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Corner_2m" translation="Angolo Cornicione Tetto di Pan di Zenzero 2m sporgente"/>
-		<entry key="BuildingPartName_HOL_Roof_Bread_Slope_Eave_1m" translation="Cornicione Tetto di Pan di Zenzero 4m - 1m sporgente"/>
 		<!--C2_Career-->
 		<entry key="FanfareCareerSetUnlocked_BEEF" translation="Capitan Manzo e la Squadra Hotdog sono in cerca di una nuova recluta."/>
 		<entry key="FanfarePackCompletion_BEEF_1" translation="Hai collezionato tutte le Stelle di Bronzo per 'La sfida succulenta di Capitan Manzo'."/>
@@ -4323,6 +4322,10 @@
 		<entry key="BuildingPartName_WT_Water_Lily" translation="Foglie Ninfea 2"/>
 		<entry key="BuildingPartName_WT_Water_Lily_Leaves" translation="Foglie Ninfea 1"/>
 		<!--C2_TrackElements-->
+		<entry key="Station_Type_station_gokarts_LeftRight" translation="Station with left entry and right exit"/>
+		<entry key="Station_Type_station_gokarts_RightLeft" translation="Station with right entry and left exit"/>
+		<entry key="Station_Type_station_gokarts_RightRight" translation="Station with right entry and right exit"/>
+		<entry key="Station_Type_station_gokarts_leftleft" translation="Station with left entry and left exit"/>
 		<entry key="TrackElementDesc_180TurnLeft" translation="Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementDesc_180TurnRight" translation="Gira il tracciato 180 gradi a destra."/>
 		<entry key="TrackElementDesc_CableHillRevBot" translation="Tira i treni al contrario lungo un pendio."/>
@@ -5281,6 +5284,7 @@
 		<entry key="PopUp_AddGuestDestinations_TooManyItems" translation="Too many destinations to connect"/>
 		<!--C4_ObjectBrowser-->
 		<entry key="Browser_Cat_Shop_Management" translation="Gestione Staff"/>
+		<entry key="Browser_SubCat_PathExtra_Picnic" translation="Picnic Benches"/>
 		<!--C4_ParkManagement-->
 		<entry key="EditorLoan10000Long10" translation="Long Loan, $10000"/>
 		<entry key="EditorLoan10000Long20" translation="Long Loan, $10000"/>
@@ -5417,6 +5421,7 @@
 		<entry key="ScenarioEditor_Guests_ParkAttractivenessDescription" translation="How likely specific Guest Groups will visit this park"/>
 		<entry key="ScenarioEditor_Guests_Teenagers" translation="Teenagers"/>
 		<entry key="ScenarioEditor_Guests_TraitsListHeader" translation="Guest Traits - Spawn Chance"/>
+		<entry key="ScenarioEditor_Guests_TraitsPreset" translation="Preset"/>
 		<entry key="ScenarioEditor_Guests_TraitsSpawnChance" translation="Chance that a guest will spawn with a Trait"/>
 		<entry key="ScenarioEditor_Guests_TraitsSpawnHeader" translation="Guest Traits"/>
 		<entry key="ScenarioEditor_Marketing_AllowMarketing" translation="Allow Marketing Campaigns"/>
@@ -5449,6 +5454,8 @@
 		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Opening Times"/>
 		<entry key="ScenarioEditor_Park_ParkCapacity" translation="Park Capacity"/>
 		<entry key="ScenarioEditor_Park_ParkCapacityStepper" translation="Park Capacity"/>
+		<entry key="ScenarioEditor_Park_PrestigeDecline" translation="Prestige decline rate"/>
+		<entry key="ScenarioEditor_Park_PrestigeDeclineDropDown" translation="Parkwide prestige decline rate"/>
 		<entry key="ScenarioEditor_Park_RemoveClutter" translation="Remove all clutter on Start (Rubbish, Vomit)"/>
 		<entry key="ScenarioEditor_Park_ScenarioStartTime" translation="Scenario Starts at a specific Time"/>
 		<entry key="ScenarioEditor_Park_StartTime" translation="Scenario Start Time:"/>
@@ -5599,18 +5606,6 @@
 		<entry key="ScenarioEditor_Tab_Staff_ToolTip" translation="Staff"/>
 		<entry key="ScenarioEditor_Title" translation="Scenario Editor"/>
 		<!--C4_Scenery-->
-		<entry key="BuildingPartDesc_Canopy_Bare_Tree_01" translation="Canopy_Bare_Tree_01"/>
-		<entry key="BuildingPartDesc_Canopy_Bare_Tree_02" translation="Canopy_Bare_Tree_02"/>
-		<entry key="BuildingPartDesc_Canopy_Bare_Tree_03" translation="Canopy_Bare_Tree_03"/>
-		<entry key="BuildingPartDesc_Canopy_Kapok_01" translation="Canopy_Kapok_01"/>
-		<entry key="BuildingPartDesc_Canopy_Kapok_02" translation="Canopy_Kapok_02"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Arch_01" translation="Canopy_Roots_Arch_01"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Buttress_01" translation="Canopy_Roots_Buttress_01"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Buttress_02" translation="Canopy_Roots_Buttress_02"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Edge_01" translation="Canopy_Roots_Edge_01"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Edge_02" translation="Canopy_Roots_Edge_02"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Spread_01" translation="Canopy_Roots_Spread_01"/>
-		<entry key="BuildingPartDesc_Canopy_Roots_Spread_02" translation="Canopy_Roots_Spread_02"/>
 		<entry key="BuildingPartDesc_FT_BN_01" translation="Decorative painted wood bench.&#10;Fairytale Theme"/>
 		<entry key="BuildingPartDesc_FT_BN_02" translation="Elegant carved wood bench.&#10;Fairytale Theme"/>
 		<entry key="BuildingPartDesc_FT_CN_01" translation="Decorative painted wood canopy.&#10;Fairytale Theme"/>
@@ -5638,23 +5633,6 @@
 		<entry key="BuildingPartDesc_PR_BN_01" translation="X Marks the spot!&#10;Pirate Theme"/>
 		<entry key="BuildingPartDesc_PR_CN_01" translation="Sail on the horizon captain!&#10;Pirate Theme"/>
 		<entry key="BuildingPartDesc_PR_PN_01" translation="X Marks the spot!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_PalmAcai_01" translation="PalmAcai_01"/>
-		<entry key="BuildingPartDesc_PalmAcai_02" translation="PalmAcai_02"/>
-		<entry key="BuildingPartDesc_PalmAcai_03" translation="PalmAcai_03"/>
-		<entry key="BuildingPartDesc_PalmAlexander_01" translation="PalmAlexander_01"/>
-		<entry key="BuildingPartDesc_PalmAlexander_02" translation="PalmAlexander_02"/>
-		<entry key="BuildingPartDesc_PalmAlexander_03" translation="PalmAlexander_03"/>
-		<entry key="BuildingPartDesc_PalmDate_01" translation="PalmDate_01"/>
-		<entry key="BuildingPartDesc_PalmDate_02" translation="PalmDate_02"/>
-		<entry key="BuildingPartDesc_PalmDate_03" translation="PalmDate_03"/>
-		<entry key="BuildingPartDesc_PalmFeather_01" translation="PalmFeather_01"/>
-		<entry key="BuildingPartDesc_PalmFeather_02" translation="PalmFeather_02"/>
-		<entry key="BuildingPartDesc_PalmFeather_03" translation="PalmFeather_03"/>
-		<entry key="BuildingPartDesc_PalmFern_01" translation="PalmFern_01"/>
-		<entry key="BuildingPartDesc_PalmFern_02" translation="PalmFern_02"/>
-		<entry key="BuildingPartDesc_PalmJelly_01" translation="PalmJelly_01"/>
-		<entry key="BuildingPartDesc_PalmJelly_02" translation="PalmJelly_02"/>
-		<entry key="BuildingPartDesc_PalmJelly_03" translation="PalmJelly_03"/>
 		<entry key="BuildingPartDesc_SF_BN_01" translation="Advanced temperature controlled picnic seating.&#10;Sci-Fi Theme"/>
 		<entry key="BuildingPartDesc_SF_CN_01" translation="Advanced materials for maximum shelter.&#10;Sci-Fi Theme"/>
 		<entry key="BuildingPartDesc_SF_PN_01" translation="Advanced temperature controlled picnic seating.&#10;Sci-Fi Theme"/>
@@ -5663,18 +5641,6 @@
 		<entry key="BuildingPartDesc_WS_BN_01" translation="Authentic wood grain effect picnic bench.&#10;Western Theme"/>
 		<entry key="BuildingPartDesc_WS_CN_01" translation="Broad fabric picnic table canopy.&#10;Western Theme"/>
 		<entry key="BuildingPartDesc_WS_PN_01" translation="Authentic wood grain effect picnic table.&#10;Western Theme"/>
-		<entry key="BuildingPartName_Canopy_Bare_Tree_01" translation="Canopy_Bare_Tree_01"/>
-		<entry key="BuildingPartName_Canopy_Bare_Tree_02" translation="Canopy_Bare_Tree_02"/>
-		<entry key="BuildingPartName_Canopy_Bare_Tree_03" translation="Canopy_Bare_Tree_03"/>
-		<entry key="BuildingPartName_Canopy_Kapok_01" translation="Canopy_Kapok_01"/>
-		<entry key="BuildingPartName_Canopy_Kapok_02" translation="Canopy_Kapok_02"/>
-		<entry key="BuildingPartName_Canopy_Roots_Arch_01" translation="Canopy_Roots_Arch_01"/>
-		<entry key="BuildingPartName_Canopy_Roots_Buttress_01" translation="Canopy_Roots_Buttress_01"/>
-		<entry key="BuildingPartName_Canopy_Roots_Buttress_02" translation="Canopy_Roots_Buttress_02"/>
-		<entry key="BuildingPartName_Canopy_Roots_Edge_01" translation="Canopy_Roots_Edge_01"/>
-		<entry key="BuildingPartName_Canopy_Roots_Edge_02" translation="Canopy_Roots_Edge_02"/>
-		<entry key="BuildingPartName_Canopy_Roots_Spread_01" translation="Canopy_Roots_Spread_01"/>
-		<entry key="BuildingPartName_Canopy_Roots_Spread_02" translation="Canopy_Roots_Spread_02"/>
 		<entry key="BuildingPartName_FT_BN_01" translation="Fairytale Picnic Bench 1"/>
 		<entry key="BuildingPartName_FT_BN_02" translation="Fairytale Picnic Bench 2"/>
 		<entry key="BuildingPartName_FT_CN_01" translation="Fairytale Picnic Canopy 1"/>
@@ -5702,23 +5668,6 @@
 		<entry key="BuildingPartName_PR_BN_01" translation="Pirate Picnic Bench"/>
 		<entry key="BuildingPartName_PR_CN_01" translation="Pirate Picnic Canopy"/>
 		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Picnic Table"/>
-		<entry key="BuildingPartName_PalmAcai_01" translation="PalmAcai_01"/>
-		<entry key="BuildingPartName_PalmAcai_02" translation="PalmAcai_02"/>
-		<entry key="BuildingPartName_PalmAcai_03" translation="PalmAcai_03"/>
-		<entry key="BuildingPartName_PalmAlexander_01" translation="PalmAlexander_01"/>
-		<entry key="BuildingPartName_PalmAlexander_02" translation="PalmAlexander_02"/>
-		<entry key="BuildingPartName_PalmAlexander_03" translation="PalmAlexander_03"/>
-		<entry key="BuildingPartName_PalmDate_01" translation="PalmDate_01"/>
-		<entry key="BuildingPartName_PalmDate_02" translation="PalmDate_02"/>
-		<entry key="BuildingPartName_PalmDate_03" translation="PalmDate_03"/>
-		<entry key="BuildingPartName_PalmFeather_01" translation="PalmFeather_01"/>
-		<entry key="BuildingPartName_PalmFeather_02" translation="PalmFeather_02"/>
-		<entry key="BuildingPartName_PalmFeather_03" translation="PalmFeather_03"/>
-		<entry key="BuildingPartName_PalmFern_01" translation="PalmFern_01"/>
-		<entry key="BuildingPartName_PalmFern_02" translation="PalmFern_02"/>
-		<entry key="BuildingPartName_PalmJelly_01" translation="PalmJelly_01"/>
-		<entry key="BuildingPartName_PalmJelly_02" translation="PalmJelly_02"/>
-		<entry key="BuildingPartName_PalmJelly_03" translation="PalmJelly_03"/>
 		<entry key="BuildingPartName_SF_BN_01" translation="Sci-fi Picnic Bench"/>
 		<entry key="BuildingPartName_SF_CN_01" translation="Sci-fi Picnic Canopy"/>
 		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Picnic Table"/>
@@ -5859,6 +5808,23 @@
 		<entry key="TrackElementTool_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementTool_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementTool_TopHat_UpTwist" translation="Incline Twist"/>
+		<!--C5_Guests-->
+		<entry key="Guests_Status_GuestDestination_AtVistaPoint" translation="Admiring Vista Point"/>
+		<entry key="ShopItem_Acc_MobilePhoneLeft" translation="Mobile Phone"/>
+		<entry key="ShopItem_Acc_MobilePhoneRight" translation="Mobile Phone"/>
+		<!--C5_InfoPanel_ModularScenery-->
+		<entry key="InfoPanel_VistaPoint_Focus" translation="Vista Point Focus"/>
+		<entry key="InfoPanel_VistaPoint_FocusForwardDirection" translation="Facing Direction"/>
+		<entry key="InfoPanel_VistaPoint_Info" translation="Vista Point Information"/>
+		<entry key="InfoPanel_VistaPoint_RemoveFocus" translation="Remove Focus Part"/>
+		<entry key="InfoPanel_VistaPoint_RemoveFocusTooltip" translation="Remove the piece looked at and instead use the facing direction of the vista point"/>
+		<entry key="InfoPanel_VistaPoint_SetFocus" translation="Set Focus Part"/>
+		<entry key="InfoPanel_VistaPoint_SetFocusTooltip" translation="Set a scenery or building piece as the focus for guests to look at"/>
+		<entry key="PopUp_SelectVistaFocusPart_ConfirmSelection" translation="Select piece to be the focus of this vista point"/>
+		<entry key="PopUp_SelectVistaFocusPart_Description" translation="Select a scenery or building piece to be the focus point for guests at this vista point."/>
+		<entry key="PopUp_SelectVistaFocusPart_Header" translation="Vista Focus Selection"/>
+		<entry key="PopUp_SelectVistaFocusPart_InvalidItem" translation="No valid piece selected"/>
+		<entry key="PopUp_SelectVistaFocusPart_Title" translation="Vista Focus Selection"/>
 		<!--Camera-->
 		<entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocità Scorrimento al Bordo"/>
@@ -6221,6 +6187,8 @@
 		<entry key="ShopItem_Balloon_03" translation="Palloncino Verde"/>
 		<entry key="ShopItem_Balloon_04" translation="Palloncino Giallo"/>
 		<entry key="ShopItem_Balloon_05" translation="Palloncino Rosa"/>
+		<entry key="ShopItem_CustomNameDebug" translation="Custom Name for {VALUE}"/>
+		<entry key="ShopItem_CustomNameText" translation="{VALUE}"/>
 		<entry key="ShopItem_Drink_Coffee_01" translation="Americano"/>
 		<entry key="ShopItem_Drink_Coffee_02" translation="Doppio Espresso"/>
 		<entry key="ShopItem_Drink_Coffee_03" translation="Cappuccino"/>
@@ -12948,6 +12916,7 @@
 		<entry key="GuestPerkDesc_Roaming" translation="A loro non pesa andare in giro "/>
 		<entry key="GuestPerkDesc_ScaredyCat" translation="Non vogliono cose troppo spaventose!"/>
 		<entry key="GuestPerkDesc_Sickly" translation="Devono evitare di ammalarsi"/>
+		<entry key="GuestPerkDesc_Sightseer" translation="They want to visit beautiful vistas"/>
 		<entry key="GuestPerkDesc_SingleMinded" translation="Una volta decisa la destinazione, è quella"/>
 		<entry key="GuestPerkDesc_Slow" translation="Sono un pò più lenti della media"/>
 		<entry key="GuestPerkDesc_Stingy" translation="Contano il singolo centesimo"/>
@@ -12972,6 +12941,7 @@
 		<entry key="GuestPerk_Roaming" translation="Passeggiatore"/>
 		<entry key="GuestPerk_ScaredyCat" translation="Timoroso"/>
 		<entry key="GuestPerk_Sickly" translation="Malaticcio"/>
+		<entry key="GuestPerk_Sightseer" translation="Sightseer"/>
 		<entry key="GuestPerk_SingleMinded" translation="Deciso"/>
 		<entry key="GuestPerk_Slow" translation="Camminatore lento"/>
 		<entry key="GuestPerk_Stingy" translation="Avaro"/>
@@ -12996,6 +12966,7 @@
 		<entry key="Guests_Status_GuestDestination_Navigating" translation="Andando Verso"/>
 		<entry key="Guests_Status_GuestDestination_OnRide" translation="Su"/>
 		<entry key="Guests_Status_GuestDestination_Queueing" translation="In coda per"/>
+		<entry key="Guests_Status_GuetsDestination_AtVistaPoint" translation="Viewing"/>
 		<entry key="Guests_Status_Idle" translation="Oziando"/>
 		<entry key="Guests_Status_LeavePark" translation="Tornando a casa"/>
 		<entry key="Guests_Status_Physics" translation="Colpito da un vagone"/>
@@ -13140,6 +13111,7 @@
 		<entry key="HUD_HelpPopup_Select_Command_13" translation="Annulla Modifica"/>
 		<entry key="HUD_HelpPopup_Select_Command_14" translation="Ripeti"/>
 		<entry key="HUD_HelpPopup_Select_Command_15" translation="Menù Salvataggio Parco"/>
+		<entry key="HUD_HelpPopup_Select_Command_16" translation="Camera Torch"/>
 		<entry key="HUD_HelpPopup_Select_Description" translation="Seleziona un oggetto nel parco per vedere il suo pannello informazioni e le opzioni di gestione. Apri i menù in basso allo schermo per iniziare a costruire o vedere più opzioni."/>
 		<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
 		<entry key="HUD_HelpPopup_StaffBuilding_Description" translation="Staff buildings allow staff members to rest and recover energy.&#10;Improved building capacity and extra perks for occupants can be purchased from the building operations tab."/>
@@ -13265,6 +13237,8 @@
 		<entry key="PopUp_AddTriggerPlay" translation="Test attivazione oggetti collegati"/>
 		<entry key="PopUp_AddTriggerShow" translation="Mostra oggetti collegati"/>
 		<entry key="PopUp_AddTriggerShowOption" translation="Mostra Opzioni"/>
+		<entry key="PopUp_Ambience_FavouritesTab" translation="Favourites"/>
+		<entry key="PopUp_Ambience_PlanetCoasterTab" translation="Planet Coaster Ambience"/>
 		<entry key="PopUp_CannotOpen" translation="Non può essere aperta perchè l'attrazione non è testata e la checklist è incompleta"/>
 		<entry key="PopUp_CannotOpen_Basic" translation="Non può essere aperta"/>
 		<entry key="PopUp_CannotOpen_Incomplete" translation="Non può essere aperta perchè la checklist è incompleta"/>
@@ -13863,6 +13837,7 @@
 		<entry key="InfoPanel_Ride_InspectionRequested" translation="Ispezione richiesta"/>
 		<entry key="InfoPanel_Ride_LastBreakdown_Never" translation="Mai"/>
 		<entry key="InfoPanel_Ride_LastBreakdown_Tooltip" translation="Ultima rottura"/>
+		<entry key="InfoPanel_Ride_MaintenanceLevel_Explanation" translation="The starting wear and tear of the ride.&#10;Adjusting this will repair a breakdown."/>
 		<entry key="InfoPanel_Ride_MaintenanceLevel_Header" translation="Stato"/>
 		<entry key="InfoPanel_Ride_MaintenanceLevel_Tooltip" translation="Usura"/>
 		<entry key="InfoPanel_Ride_Maintenance_Actions" translation="Azioni"/>
@@ -13955,6 +13930,7 @@
 		<entry key="InfoPanel_Ride_Tooltip_ExitRideCam" translation="Abbandona Telecamera"/>
 		<entry key="InfoPanel_Ride_Tooltip_Parent" translation="Seleziona attrazione"/>
 		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Telecamera attrazione"/>
+		<entry key="InfoPanel_Ride_TriggerBreakdown_Tooltip" translation="The ride will break down at its next opportunity."/>
 		<entry key="InfoPanel_Ride_Type" translation="Tipo di attrazione"/>
 		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
 		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
@@ -14258,6 +14234,33 @@
 		<entry key="Ambience_Event_AMB_80s_SynthLoop1" translation="Sequenza Synth anni '80"/>
 		<entry key="Ambience_Event_AMB_80s_SynthLoop2" translation="Sequenza Synth anni '80 - 2"/>
 		<entry key="Ambience_Event_AMB_80s_SynthLoop3" translation="Sequenza Synth anni '80 - 3"/>
+		<entry key="Ambience_Event_AMB_Adventure_1930s_Street" translation="1930's Street"/>
+		<entry key="Ambience_Event_AMB_Adventure_1940s_Street" translation="1940's Street"/>
+		<entry key="Ambience_Event_AMB_Adventure_Airfield" translation="1940's Airfield"/>
+		<entry key="Ambience_Event_AMB_Adventure_ArcheologicalDig" translation="Archaeological Dig"/>
+		<entry key="Ambience_Event_AMB_Adventure_BeachedSubmarine" translation="Beached Submarine"/>
+		<entry key="Ambience_Event_AMB_Adventure_Bugpit" translation="Bug Pit"/>
+		<entry key="Ambience_Event_AMB_Adventure_CrashedPlane" translation="Crashed Plane"/>
+		<entry key="Ambience_Event_AMB_Adventure_CrocodilePit" translation="Crocodile Pit"/>
+		<entry key="Ambience_Event_AMB_Adventure_CultOfGloom" translation="Cult of Gloom"/>
+		<entry key="Ambience_Event_AMB_Adventure_Drums" translation="Creepy Drums"/>
+		<entry key="Ambience_Event_AMB_Adventure_EgyptianBowls" translation="Egyptian Singing Bowls"/>
+		<entry key="Ambience_Event_AMB_Adventure_FrogVillage" translation="Village Ambience"/>
+		<entry key="Ambience_Event_AMB_Adventure_InsideTheCavernInThePyramid" translation="Hidden Antechamber"/>
+		<entry key="Ambience_Event_AMB_Adventure_Jungle" translation="Creepy Jungle Ambience"/>
+		<entry key="Ambience_Event_AMB_Adventure_MacGuffin" translation="Ancient Relic"/>
+		<entry key="Ambience_Event_AMB_Adventure_Market" translation="Exotic Market"/>
+		<entry key="Ambience_Event_AMB_Adventure_Mine" translation="Mine"/>
+		<entry key="Ambience_Event_AMB_Adventure_Radio" translation="1930's Radio Station"/>
+		<entry key="Ambience_Event_AMB_Adventure_RatPit" translation="Rat Pit"/>
+		<entry key="Ambience_Event_AMB_Adventure_Ruins" translation="Abandoned Ruins"/>
+		<entry key="Ambience_Event_AMB_Adventure_Sandstorm" translation="Sandstorm"/>
+		<entry key="Ambience_Event_AMB_Adventure_ShootOutChase" translation="Shoot-out and Chase"/>
+		<entry key="Ambience_Event_AMB_Adventure_Snakepit" translation="Snake Pit"/>
+		<entry key="Ambience_Event_AMB_Adventure_StrangeFlute" translation="Ancient Flutes"/>
+		<entry key="Ambience_Event_AMB_Adventure_SubterraneanLava" translation="Subterranean Lava"/>
+		<entry key="Ambience_Event_AMB_Adventure_Tomb" translation="Exploring the Tomb"/>
+		<entry key="Ambience_Event_AMB_Adventure_Warehouse" translation="Warehouse"/>
 		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Ponte Portaerei"/>
 		<entry key="Ambience_Event_AMB_AlienForest" translation="Foresta Aliena"/>
 		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Voci da dietro"/>
@@ -14324,6 +14327,7 @@
 		<entry key="Ambience_Event_AMB_Western_Town" translation="Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Duello al Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Sussurrando nell'Oscurità"/>
+		<entry key="Music_Heading_Adventure" translation="Adventure"/>
 		<entry key="Music_Heading_Classic" translation="Classica"/>
 		<entry key="Music_Heading_Coaster" translation="Musica da Montagna Russa"/>
 		<entry key="Music_Heading_Electronica" translation="Elettronica"/>
@@ -14345,6 +14349,12 @@
 		<entry key="Music_Refresh" translation="Aggiorna la Cartella UserMusic"/>
 		<entry key="Music_Reset" translation="Ripristina le Impostazioni di Default"/>
 		<entry key="Music_SpeakerEffect" translation="Effetti dell'altoparlante"/>
+		<entry key="Music_Track_AdventureSceneSetter_Aztec" translation="Aztec Odyssey"/>
+		<entry key="Music_Track_AdventureSceneSetter_Egypt" translation="Valley of the King Coaster"/>
+		<entry key="Music_Track_AdventureSceneSetter_GenericAdventure" translation="Pack for Adventure"/>
+		<entry key="Music_Track_AdventureSceneSetter_SouthAmerica" translation="Lost City of El-Planco"/>
+		<entry key="Music_Track_AdventureTheme1" translation="Planet Adventure"/>
+		<entry key="Music_Track_AdventureTheme2" translation="Adventure Capital"/>
 		<entry key="Music_Track_BelongInTheAir" translation="Librarsi nell'Aria"/>
 		<entry key="Music_Track_BumperCarMedley" translation="Medley Autoscontro "/>
 		<entry key="Music_Track_CLD" translation="Collisione tra Pianeti"/>
@@ -14795,6 +14805,8 @@
 		<entry key="ObjectBrowser_Track_MaxDropAngle" translation="Angolo di caduta massima"/>
 		<entry key="ObjectBrowser_Track_MaxInclineAngle" translation="Angolo di inclinazione massima"/>
 		<entry key="ObjectBrowser_Track_MaxTrackHeight" translation="Altezza massima del tracciato"/>
+		<entry key="ObjectBrowser_Track_MaxTrackLength" translation="Max Track Length"/>
+		<entry key="ObjectBrowser_Track_MinTrackLength" translation="Min Track Length"/>
 		<entry key="ObjectBrowser_Transport" translation="Trasporti"/>
 		<entry key="ObjectBrowser_Type" translation="Tipologia"/>
 		<entry key="ObjectBrowser_Water" translation="Attrazioni Acquatiche"/>
@@ -14910,6 +14922,7 @@
 		<entry key="OptionsMenu_Controls_General_Command_14" translation="Sposta Selezione"/>
 		<entry key="OptionsMenu_Controls_General_Command_15" translation="Modifica Edificio"/>
 		<entry key="OptionsMenu_Controls_General_Command_16" translation="Focus Camera"/>
+		<entry key="OptionsMenu_Controls_General_Command_17" translation="Camera Torch"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickLoad" translation="Apri Menu Caricamento"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickSave" translation="Apri Menu Salvataggio"/>
 		<entry key="OptionsMenu_Controls_Menu" translation="Scorciatoie Menù"/>
@@ -15111,10 +15124,1087 @@
 		<entry key="OptionsMenu_load" translation="Carica"/>
 		<entry key="OptionsMenu_ok" translation="Ok"/>
 		<entry key="OptionsMenu_quit" translation="Abbandona Planet Coaster"/>
+		<entry key="OptionsMenu_remove" translation="Remove DLC"/>
 		<entry key="OptionsMenu_save" translation="Salva"/>
 		<entry key="OptionsMenu_savescenario" translation="Save Scenario"/>
 		<entry key="OptionsMenu_savescenarioandplay" translation="Save Scenario and Play"/>
 		<entry key="OptionsMenu_windowTitle" translation="Opzioni"/>
+		<!--PDLC_Adventure_Blueprints-->
+		<entry key="AdventureArchwayBlueprint" translation="Adventure Scorpion Archway"/>
+		<entry key="AdventureArchwayBlueprintDesc" translation="An arch with a sting&#10;Adventure Set"/>
+		<entry key="AdventureChiefBeefBlueprint" translation="Adventure Chief Beef"/>
+		<entry key="AdventureChiefBeefBlueprintDesc" translation="A shopping adventure&#10;Adventure Set"/>
+		<entry key="AdventureCosmicCowBlueprint" translation="Adventure Cosmic Cow"/>
+		<entry key="AdventureCosmicCowBlueprintDesc" translation="A shopping adventure&#10;Adventure Set"/>
+		<entry key="AdventureCrushingBlockBlueprint" translation="Adventure Crushing Block Trap"/>
+		<entry key="AdventureCrushingBlockBlueprintDesc" translation="A health and safety nightmare&#10;Adventure Set"/>
+		<entry key="AdventureLavaSwitchBlueprint" translation="Adventure Lava Switch"/>
+		<entry key="AdventureLavaSwitchBlueprintDesc" translation="Press button, receive lava&#10;Adventure Set"/>
+		<entry key="AdventurePlaneCrash01Blueprint" translation="Adventure Crashed Aeroplane 1"/>
+		<entry key="AdventurePlaneCrash01BlueprintDesc" translation="A soft landing&#10;Adventure Set"/>
+		<entry key="AdventurePlaneCrash02Blueprint" translation="Adventure Crashed Aeroplane 2"/>
+		<entry key="AdventurePlaneCrash02BlueprintDesc" translation="A soft landing&#10;Adventure Set"/>
+		<entry key="AdventurePlaneCrash03Blueprint" translation="Adventure Crashed Aeroplane 3"/>
+		<entry key="AdventurePlaneCrash03BlueprintDesc" translation="A soft landing&#10;Adventure Set"/>
+		<entry key="AdventurePlaneCrash04Blueprint" translation="Adventure Crashed Aeroplane 4"/>
+		<entry key="AdventurePlaneCrash04BlueprintDesc" translation="A soft landing&#10;Adventure Set"/>
+		<entry key="AdventureRoadBlueprint" translation="Adventure Crashed Truck"/>
+		<entry key="AdventureRoadBlueprintDesc" translation="License revoked&#10;Adventure Set"/>
+		<entry key="AdventureRubble01Blueprint" translation="Adventure Broken Statue 1"/>
+		<entry key="AdventureRubble01BlueprintDesc" translation="A statue that has seen better days&#10;Adventure Set"/>
+		<entry key="AdventureRubble02Blueprint" translation="Adventure Broken Statue 2"/>
+		<entry key="AdventureRubble02BlueprintDesc" translation="A statue that has seen better days&#10;Adventure Set"/>
+		<entry key="AdventureRubble03Blueprint" translation="Adventure Broken Statue 3"/>
+		<entry key="AdventureRubble03BlueprintDesc" translation="A statue that has seen better days&#10;Adventure Set"/>
+		<entry key="AdventureRubble04Blueprint" translation="Adventure Broken Statue 4"/>
+		<entry key="AdventureRubble04BlueprintDesc" translation="A statue that has seen better days&#10;Adventure Set"/>
+		<entry key="AdventureStatue01Blueprint" translation="Adventure Statue"/>
+		<entry key="AdventureStatue01BlueprintDesc" translation="One ancient statue. Occupied.&#10;Adventure Set"/>
+		<entry key="AdventureTempleBlueprint" translation="Adventure Temple Run"/>
+		<entry key="AdventureTempleBlueprintDesc" translation="Run and don't forget to duck!&#10;Adventure Set"/>
+		<entry key="AdventureTikiChickenBlueprint" translation="Adventure Pyramid Tiki Chicken"/>
+		<entry key="AdventureTikiChickenBlueprintDesc" translation="Journey to the centre of savings&#10;Adventure Set"/>
+		<entry key="AdventureWaterDoorBlueprint" translation="Adventure Water Door"/>
+		<entry key="AdventureWaterDoorBlueprintDesc" translation="Water source not included&#10;Adventure Set"/>
+		<entry key="Blueprints_AdventureSlabWall" translation="Adventure Slab Wall"/>
+		<entry key="Blueprints_AdventureSlabWallDesc" translation="A collage of characters&#10;Adventure Set"/>
+		<entry key="Blueprints_GoldFeverBlueprint01" translation="Pyramid Of The Serpent"/>
+		<entry key="Blueprints_GoldFeverBlueprint01Desc" translation="A layout for the Gold Fever coaster&#10;Adventure Set"/>
+		<entry key="Blueprints_LandAhoyBlueprint01" translation="Lay The Land"/>
+		<entry key="Blueprints_LandAhoyBlueprint01Desc" translation="A layout for the Land Ahoy transport ride&#10;Adventure Set"/>
+		<!--PDLC_Adventure_Coasters-->
+		<entry key="Coaster_GoldFever" translation="Gold Fever"/>
+		<entry key="Coaster_GoldFever_Desc" translation="Mine train themed coaster that has swinging carts."/>
+		<entry key="Coaster_Type_GoldFever" translation="Swinging Mine Train"/>
+		<entry key="Coaster_Type_IVenture" translation="Steam Boat"/>
+		<entry key="Coaster_Type_LandHo" translation="Steam Boat"/>
+		<entry key="Station_Type_station_TK_203_log_LeftRight" translation="Station with left entry and right exit"/>
+		<entry key="Station_Type_station_TK_203_log_RightLeft" translation="Station with right entry and left exit"/>
+		<entry key="Station_Type_station_TK_203_log_RightRight" translation="Station with right entry and right exit"/>
+		<entry key="Station_Type_station_TK_203_log_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_TK_204_Bucket_LeftRight" translation="Station with left entry and right exit"/>
+		<entry key="Station_Type_station_TK_204_Bucket_RightLeft" translation="Station with right entry and left exit"/>
+		<entry key="Station_Type_station_TK_204_Bucket_RightRight" translation="Station with right entry and right exit"/>
+		<entry key="Station_Type_station_TK_204_Bucket_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="TK_203_log_0" translation="Rail"/>
+		<entry key="TK_203_log_1" translation="Water Channel"/>
+		<entry key="Water_IVenture" translation="Island Adventure"/>
+		<entry key="Water_IVenture_Desc" translation="Steam powered boat that follows a track for scenic purposes or for transportation. Should be placed in a lake or body of water."/>
+		<entry key="Water_LandHo" translation="Land Ahoy"/>
+		<entry key="Water_LandHo_Desc" translation="Steam powered boat that follows a track for scenic purposes or for transportation. Contains it's own water channel."/>
+		<entry key="station_TK_203_log_leftleft_0" translation="Rail"/>
+		<entry key="station_TK_203_log_leftleft_1" translation="Water Channel"/>
+		<entry key="station_TK_203_log_leftright_0" translation="Rail"/>
+		<entry key="station_TK_203_log_leftright_1" translation="Water Channel"/>
+		<entry key="station_TK_203_log_rightleft_0" translation="Rail"/>
+		<entry key="station_TK_203_log_rightleft_1" translation="Water Channel"/>
+		<entry key="station_TK_203_log_rightright_0" translation="Rail"/>
+		<entry key="station_TK_203_log_rightright_1" translation="Water Channel"/>
+		<!--PDLC_Adventure_Facilities-->
+		<entry key="ShopItem_AD_Hat_Croc" translation="Crocodile Hat"/>
+		<entry key="ShopItem_AD_Hat_Temple" translation="Rock Hat"/>
+		<!--PDLC_Adventure_Scenery-->
+		<entry key="BuildingPartDesc_AD_Beetle" translation="Did you hear that?&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Beetle_Group" translation="Beetlegroup! Beetlegroup! Beetlegroup!&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Bench_01" translation="A heavy stone bench.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Bin_01" translation="Stone block bin.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Bin_Damaged_01" translation="Stone block bin.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Boat" translation="Used for transportation and tours.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CoasterBasRelief" translation="Carved depiction of a guest riding a coaster.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Coaster_Bas_Relief" translation="AD_Coaster_Bas_Relief PLACEHOLDER DESCRIPTION TEXT"/>
+		<entry key="BuildingPartDesc_AD_Coaster_Door_8m" translation="The gateway to adventure.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Cog1M" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Cog1MTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Cog4M" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Cog4MTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogArm" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogArmTriggerable" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogArmTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogAxle1M" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogAxle1MTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogAxle2M" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogAxle2MTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogAxle4M" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogAxle4MTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogGearRack" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogGearRack02" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogGearRack02Triggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogGearRackTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogMiterGear" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogMiterGearReverse" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogMiterGearTriggered" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogMiterGearTriggeredReverse" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_CogRack" translation="Wooden cog section.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_Breach" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_Hiss" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_Rise" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_Snapping" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_Swim" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_SwimAttack" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Large_Swimpose" translation="Large animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_FigAte" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_Hiss" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_Snapping" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_Swimpose" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_Swimpose_Breach" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_Swimpose_Rise" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Croc_Small_Swimpose_SwimAttack" translation="Small animatronic crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Airplane_Propeller_Smoke" translation="Smoke FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Fire_Small" translation="Fire FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Fire_Small_Thin" translation="Fire FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Fire_Small_Wide" translation="Fire FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Falling_Large" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Falling_Small" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Plume_Large" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Plume_Small" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Pouring_Huge" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Pouring_Large" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Pouring_Small" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Splash_Huge" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Splash_Large" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Splash_Small" translation="Lava FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Water_Impact_Steam_Huge" translation="Steam FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Water_Impact_Steam_Large" translation="Steam FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Lava_Water_Impact_Steam_Small" translation="Steam FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Rock_Ground_Impact_Large" translation="Impact FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Rock_Ground_Impact_Small" translation="Impact FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Rock_Impact_Large" translation="Impact FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Rock_Impact_Small" translation="Impact FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Waterfall_Pouring_Huge" translation="Waterfall FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Waterfall_Pouring_Large" translation="Waterfall FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Waterfall_Pouring_MidSection_Huge" translation="Waterfall FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Waterfall_Splash_Large" translation="Waterfall FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FXBox_Waterfall_Top_Splash_Huge" translation="Waterfall FX&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Fence_Wooden_2m" translation="A tall protective wooden fence.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Fence_Wooden_4m" translation="A tall protective wooden fence.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FirePit_Large" translation="A heavy stone fire pit.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_FirePit_Small" translation="A heavy stone fire pit.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_01" translation="A priceless ruby gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_01_Large" translation="A priceless ruby gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_02" translation="A priceless topaz gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_02_Large" translation="A priceless topaz gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_03" translation="A priceless amethyst gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_03_Large" translation="A priceless amethyst gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_04" translation="A priceless sapphire gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_04_Large" translation="A priceless sapphire gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_05" translation="A priceless emerald gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Gems_05_Large" translation="A priceless emerald gemstone.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_GulpeeRelief" translation="Carved depiction of Gulpee.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Hippo" translation="Animatronic hippo.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Hippo_Breaching" translation="Animatronic hippo.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Hippo_FigAte" translation="Animatronic hippo.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Hippo_Wallowing" translation="Animatronic hippo.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Hippo_WaterRushCharge" translation="Animatronic hippo.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Hippo_Yawning" translation="Animatronic hippo.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Jeep" translation="4 wheels, suspension and an engine.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Jeep_Wheel" translation="Suitable for all terrain.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_JerryCan" translation="A robust container for liquids and flammables.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Labourer_Pick_01" translation="A good pick for digging.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Labourer_Shovel_01" translation="How do I get out of this hole?&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Lamppost_01" translation="Stone pillar lamp post.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_LeatherBasket" translation="Leather Basket.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Magma_Panel_1M" translation="A flat panel with magma on it.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Magma_Panel_2M" translation="A flat panel with magma on it.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Magma_Panel_4M" translation="A flat panel with magma on it.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_1x1x1" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_1x1x1_Ruin" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_1x1x1_RuinCorner" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_1x4_ColumnSection" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x1_Column_Cap" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x1x1" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x1x1_Coving" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x2_ColumnSection" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x2_ColumnSection_Ruin" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x2x2" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x2x2_Coving" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x2x2_Ruin" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x2x2_RuinCorner" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_2x4_ColumnSection" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x1x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x1x1_Coving" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x1x1_Ruin" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x2_ColumnSection" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x2x1" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x2x2" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x2x2_Coving" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x2x2_Ruin" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4_ColumnSection" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x05" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x1_Ruin" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x2" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x4_Ruin" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_4x4x4_RuinCorner" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_01" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_02" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_03" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_04" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_05" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_06" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_07" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_08" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decoration_09" translation="A decorative building piece.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decorative_Rail_4m" translation="A large flat temple rail&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Decorative_Rail_End" translation="A large flat temple rail&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_SlopeCorner_4x4x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_SlopeCorner_4x4x2" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_SlopeCorner_4x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_1x4x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_1x4x2" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_1x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_2x4x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_2x4x2" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_2x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_4x4x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_4x4x2" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Slope_4x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Trim_2m_01" translation="A decorative wall trim.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Trim_2m_02" translation="A decorative wall trim.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Trim_2m_03" translation="A decorative wall trim.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Trim_2m_04" translation="A decorative wall trim.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Trim_4m_01" translation="A decorative wall trim.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_A_Trim_4m_02" translation="A decorative wall trim.&#10;Masonry&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_1x4_ColumnSection" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_2x4_ColumnSection" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_4x1x1" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_4x4_ColumnSection" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_4x4x2" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_4x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_01" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_02" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_03" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_04" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_05" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_06" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_07" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_08" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Decoration_09" translation="A decorative building piece in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_SlopeCorner_4x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Slope_4x4x4" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Trim_2m_01" translation="A decorative wall trim in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Trim_2m_02" translation="A decorative wall trim in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Trim_2m_03" translation="A decorative wall trim in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Trim_2m_04" translation="A decorative wall trim in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Trim_4m_01" translation="A decorative wall trim in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Masonry_B_Trim_4m_02" translation="A decorative wall trim in gold.&#10;Gold&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Mummy_Grab" translation="Wrapped to perfection.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Mummy_Rise" translation="Are you sure you want to be playing around with this thing?&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Mummy_Slump" translation="Death is only the beginning.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Mummy_Walk" translation="It's been doing that for years.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_PicnicTable" translation="A heavy stone picnic table.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane" translation="An aeroplane with two pairs of wings.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane_BentPropeller" translation="Biplane aircraft component.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane_Hull" translation="Biplane aircraft component&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane_Left_Wing" translation="Biplane aircraft component&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane_Propeller" translation="Biplane aircraft component&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane_Right_Wing" translation="Biplane aircraft component&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Plane_Tail" translation="Biplane aircraft component&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_RisingSpikes_Multi" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_RisingSpikes_Single" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Rock_Archway" translation="A thick carved stone archway.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Rock_Door" translation="The gateway to discovery.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_RotatingSpikes_Extender" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_RotatingSpikes_Slider" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Rubble_Pile_01" translation="Broken down to dust.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Rubble_Pile_02" translation="Broken down to dust.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x2m_Bare_Cap" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x2m_Cap" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x2m_Planks" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x4m_Bare_Cap" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x4m_Bare_Mid" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x4m_Cap" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x4m_Mid" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x4m_Planks" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_2x4m_brace" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_4x4_Cap" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_4x4_Mid" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_4x4m_Bare_Cap" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_4x4m_Bare_Mid" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_4x4m_Planks" translation="Wooden scaffolding.&#10;Adventure SetT"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_4x4m_brace" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scaffold_Sup_Single" translation="Wooden scaffolding.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion" translation="Giant scorpion animatronic complete.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Leg_Front_Left" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Leg_Front_right" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Leg_Rear_Left" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Leg_Rear_right" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_PincerAttack" translation="Giant scorpion animatronic.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Pincer_Left" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Pincer_right" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Small" translation="Small scorpion animatronic.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Small_Five" translation="Small scorpion animatronics.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_StingAttack" translation="Giant scorpion animatronic.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Tail" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Scorpion_Torso" translation="Giant scorpion animatronic part.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Shop_Fascia" translation="Temple-style shop fascia.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Shop_Fascia_Archway" translation="Temple-style ride entrance archway.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Signs_Custom_01" translation="Stone sign with text.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Signs_Custom_02" translation="Wooden sign with text.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Character_1m_01" translation="A stone carved face.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Character_1m_02" translation="A stone carved scarab.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Character_2m_Rectangle_01" translation="A stone carved snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Character_2m_Rectangle_02" translation="A stone carved crocodile.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_01" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_02" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_03" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_04" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_05" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_06" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_07" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_08" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_1m_09" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_2m_01" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_2m_Rectangle_01" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_2m_Rectangle_02" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_2m_Rectangle_03" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Face_2m_Rectangle_04" translation="A simple stone carved decoration.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_1m_01" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_1m_02" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_1m_03" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_2m_01" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_2m_Rectangle_01" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_2m_Rectangle_02" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Slab_Pattern_2m_Rectangle_03" translation="A stone carved pattern.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Charm" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Coiled" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Pit" translation="A nest of giant snakes.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Pit_2m" translation="A nest of large snakes.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Small_01" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Small_02" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Small_03" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Tree" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Snake_Tree_Strike" translation="Animatronic snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Stalagmites_01" translation="A formation of mineral deposits that often forms in caves.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Stalagmites_02" translation="A formation of mineral deposits that often forms in caves.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Stalagmites_03" translation="A formation of mineral deposits that often forms in caves.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Stalagmites_04" translation="A formation of mineral deposits that often forms in caves.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Stalagmites_Clump_01" translation="A clump of stalagmites.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Stalagmites_Clump_02" translation="A clump of stalagmites.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Beak" translation="A large stone statue beak.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Beak_Gold" translation="A large gold statue beak.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_01" translation="A large stone statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_01_Gold" translation="A large gold statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_01x" translation="A large stone statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_01x_Gold" translation="A large gold statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_02" translation="A large stone statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_02_Gold" translation="A large gold statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_02x" translation="A large stone statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Ear_02x_Gold" translation="A large gold statue ear.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_01" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_01_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_01x" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_01x_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_02" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_02_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_02x" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_02x_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_03" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_03_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_03x" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_03x_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_04" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_04_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_04x" translation="A large stone statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Eye_04x_Gold" translation="A large gold statue eye.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Hoop" translation="A large stone statue hoop.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Hoop_Gold" translation="A large gold statue hoop.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_01" translation="A large stone statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_01_Gold" translation="A large gold statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_02" translation="A large stone statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_02_Gold" translation="A large gold statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_03" translation="A large stone statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_03_Gold" translation="A large gold statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_04" translation="A large stone statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_04_Gold" translation="A large gold statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_05" translation="A large stone statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Mouth_05_Gold" translation="A large gold statue mouth.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Nose_01" translation="A large stone statue nose.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Nose_01_Gold" translation="A large gold statue nose.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Nose_02" translation="A large stone statue nose.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Nose_02_Gold" translation="A large gold statue nose.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Props_01" translation="A large stone statue regal mace.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Props_01_Gold" translation="A large gold statue regal baton.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Props_02" translation="A large stone statue regal baton.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Props_02_Gold" translation="A large gold statue regal baton.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_01" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_01_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_02" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_02_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_03" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_03_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_04" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_04_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_05" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_05_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_06" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_06_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_07" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_07_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_08" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Body_08_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Head_01" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Head_01_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Snake_Tail_01" translation="Multi-part stone snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Tail_01" translation="AD_Statue_Snake_Tail_01 PLACEHOLDER DESCRIPTION TEXT  - unused"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snake_Tail_01_Gold" translation="Multi-part gold snake.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snout" translation="A large stone statue snout.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Snout_Gold" translation="A large gold statue snout.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Tongue" translation="A large stone statue tongue.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statue_Tongue_Gold" translation="A large gold statue tongue.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_01" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_01_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_01x" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_01x_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_02" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_02_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_02x" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_02x_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_03" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_03_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_03x" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_03x_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_04" translation="A large stone statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_04_Gold" translation="A large gold statue arm.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Arms_04x" translation="AD_Statues_Arms_04x PLACEHOLDER DESCRIPTION TEXT - currently unused asset"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_01" translation="A large stone statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_01_Gold" translation="A large gold statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_02" translation="A large stone statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_02_Gold" translation="A large gold statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_03" translation="A large stone statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_03_Gold" translation="A large gold statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_04" translation="A large stone statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Headdressess_04_Gold" translation="A large gold statue headdress.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_01" translation="A large stone statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_01_Gold" translation="A large gold statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_02" translation="A large stone statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_02_Gold" translation="A large gold statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_03" translation="A large stone statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_03_Gold" translation="A large gold statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_04" translation="A large stone statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Heads_04_Gold" translation="A large gold statue head.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_01" translation="Large stone statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_01_Gold" translation="large gold statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_02" translation="Large stone statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_02_Gold" translation="large gold statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_03" translation="Large stone statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_03_Gold" translation="large gold statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_04" translation="Large stone statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Legs_04_Gold" translation="large gold statue legs.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_01" translation="A large stone statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_01_Gold" translation="A large gold statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_02" translation="A large stone statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_02_Gold" translation="A large gold statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_03" translation="A large stone statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_03_Gold" translation="A large gold statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_04" translation="A large stone statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Statues_Torsos_04_Gold" translation="A large gold statue torso.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Switch_01" translation="I wonder what this does?&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_ArchHalf_Tunnel" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Arch_Tunnel" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Arch" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_ArchHalf" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_ShopFront" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_StationSurround_01" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_StationSurround_02" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_1m" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_2m" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_4m" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_GableTri_1m" translation="Masonry&#10;1m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_GableTri_2m" translation="Masonry&#10;2m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_GableTri_4m" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_Slope_1m" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_Slope_2m" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TP_Merge_Wall_Slope_4m" translation="Masonry&#10;4m High&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_TorchHolder" translation="Wrapped cloth torch&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Torch_01" translation="Wrapped cloth torch.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Torch_02" translation="Bowl to hold burning charcoal&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_DroppingBall" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_PoisonDartBlock" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_RollingBoulder" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_RollingBoulder_Lava" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SawBlade" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_Slamlogs" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SlammingBlock" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SlammingBlock_16m" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SlammingBlock_8m" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SnappingBeam_4m" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SnappingBeam_8m" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SwingingBall" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Trap_SwingingBlade" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Traps" translation="AD_Traps PLACEHOLDER DESCRIPTION TEXT"/>
+		<entry key="BuildingPartDesc_AD_Traps_RisingSpikes_Multi_Small" translation="Potentially deadly ancient trap device.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Truck_Canopy" translation="Truck component.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Truck_Chassis" translation="Truck component.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Truck_Double_Wheel" translation="Truck component.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Truck_Flatbed" translation="Truck component.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Truck_Single_Wheel" translation="Truck component.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_4m_01" translation="Vines that span a 4m gap.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_4m_02" translation="Vines that span a 4m gap.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_8m_01" translation="Vines that span an 8m gap.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_8m_02" translation="Vines that span an 8m gap.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_Curtain_01" translation="Vines that hang forming a curtain.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_Curtain_02" translation="Vines that hang forming a curtain.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_Hanging_01" translation="Vines that are hanging from a single point.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_Vines_Hanging_02" translation="Vines that are hanging from a single point.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_AD_VistaPoint" translation="A scenic viewing point that attracts guests from around the park."/>
+		<entry key="BuildingPartDesc_AD_WickerBasket" translation="Wicker Basket.&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Bamboo_Stand_1m_01" translation="A small stand of bamboos.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Bamboo_Stand_2m_01" translation="A medium stand of bamboos.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Bamboo_Stand_4m_01" translation="A large stand of bamboos.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Bamboo_Wall_2m_01" translation="A small row of bamboos that form a hedge.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Bamboo_Wall_4m_01" translation="A row of bamboos that form a hedge.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Bamboo_Wall_4m_02" translation="A row of bamboos that form a hedge.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Bare_Tree_01" translation="Canopy_Bare_Tree_01"/>
+		<entry key="BuildingPartDesc_Canopy_Bare_Tree_02" translation="Canopy_Bare_Tree_02"/>
+		<entry key="BuildingPartDesc_Canopy_Bare_Tree_03" translation="Canopy_Bare_Tree_03"/>
+		<entry key="BuildingPartDesc_Canopy_Brazil_01" translation="A Large tree grown for its nuts generally found in rainforests.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Brazil_02" translation="A Large tree grown for its nuts generally found in rainforests.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Kapok_01" translation="Canopy_Kapok_01"/>
+		<entry key="BuildingPartDesc_Canopy_Kapok_02" translation="Canopy_Kapok_02"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_01" translation="Tropical roots.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_02" translation="Tropical roots.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_03" translation="Tropical roots.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Arch_01" translation="Canopy_Roots_Arch_01"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Buttress_01" translation="Canopy_Roots_Buttress_01"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Buttress_02" translation="Canopy_Roots_Buttress_02"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Edge_01" translation="Canopy_Roots_Edge_01"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Edge_02" translation="Canopy_Roots_Edge_02"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Pillar_01" translation="Tropical roots that form a pillar.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Pillar_02" translation="Tropical roots that form a pillar.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Spread_01" translation="Canopy_Roots_Spread_01"/>
+		<entry key="BuildingPartDesc_Canopy_Roots_Spread_02" translation="Canopy_Roots_Spread_02"/>
+		<entry key="BuildingPartDesc_GulpeyRelief" translation="GulpeyRelief PLACEHOLDER DESCRIPTION TEXT"/>
+		<entry key="BuildingPartDesc_Jungle_Plant_Alocasia_01" translation="A broad-leaved tropical plant.&#10;Tropical&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Jungle_Plant_Alocasia_02" translation="A broad-leaved tropical plant&#10;Tropical&#10;Adventure Set."/>
+		<entry key="BuildingPartDesc_Jungle_Plant_Alocasia_03" translation="A broad-leaved tropical plant&#10;Tropical&#10;Adventure Set."/>
+		<entry key="BuildingPartDesc_Jungle_Plant_Deliciosa_01" translation="A lobed broad-leaved tropical plant&#10;Tropical&#10;Adventure Set."/>
+		<entry key="BuildingPartDesc_Jungle_Plant_Deliciosa_02" translation="A lobed broad-leaved tropical plant&#10;Tropical&#10;Adventure Set."/>
+		<entry key="BuildingPartDesc_Jungle_Plant_Deliciosa_03" translation="A lobed broad-leaved tropical plant&#10;Tropical&#10;Adventure Set."/>
+		<entry key="BuildingPartDesc_PalmAcai_01" translation="PalmAcai_01"/>
+		<entry key="BuildingPartDesc_PalmAcai_02" translation="PalmAcai_02"/>
+		<entry key="BuildingPartDesc_PalmAcai_03" translation="PalmAcai_03"/>
+		<entry key="BuildingPartDesc_PalmAlexander_01" translation="PalmAlexander_01"/>
+		<entry key="BuildingPartDesc_PalmAlexander_02" translation="PalmAlexander_02"/>
+		<entry key="BuildingPartDesc_PalmAlexander_03" translation="PalmAlexander_03"/>
+		<entry key="BuildingPartDesc_PalmDate_01" translation="PalmDate_01"/>
+		<entry key="BuildingPartDesc_PalmDate_02" translation="PalmDate_02"/>
+		<entry key="BuildingPartDesc_PalmDate_03" translation="PalmDate_03"/>
+		<entry key="BuildingPartDesc_PalmFeather_01" translation="PalmFeather_01"/>
+		<entry key="BuildingPartDesc_PalmFeather_02" translation="PalmFeather_02"/>
+		<entry key="BuildingPartDesc_PalmFeather_03" translation="PalmFeather_03"/>
+		<entry key="BuildingPartDesc_PalmFern_01" translation="PalmFern_01"/>
+		<entry key="BuildingPartDesc_PalmFern_02" translation="PalmFern_02"/>
+		<entry key="BuildingPartDesc_PalmJelly_01" translation="PalmJelly_01"/>
+		<entry key="BuildingPartDesc_PalmJelly_02" translation="PalmJelly_02"/>
+		<entry key="BuildingPartDesc_PalmJelly_03" translation="PalmJelly_03"/>
+		<entry key="BuildingPartDesc_Rope_Bridge_16m" translation="Rope Bridge&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Rope_Bridge_8m" translation="Rope Bridge&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Rope_Bridge_Large_Cap" translation="Rope Bridge&#10;Adventure Set"/>
+		<entry key="BuildingPartDesc_Rope_Bridge_Large_Mid" translation="Rope Bridge&#10;Adventure Set"/>
+		<entry key="BuildingPartName_AD_Beetle" translation="Beetle Animatronic"/>
+		<entry key="BuildingPartName_AD_Beetle_Group" translation="Beetle Group"/>
+		<entry key="BuildingPartName_AD_Bench_01" translation="Adventure Bench"/>
+		<entry key="BuildingPartName_AD_Bin_01" translation="Adventure Bin"/>
+		<entry key="BuildingPartName_AD_Bin_Damaged_01" translation="Adventure Bin Damaged"/>
+		<entry key="BuildingPartName_AD_Boat" translation="Steam Boat"/>
+		<entry key="BuildingPartName_AD_CoasterBasRelief" translation="Ancient Carved Character 1m 04"/>
+		<entry key="BuildingPartName_AD_Coaster_Bas_Relief" translation="AD_Coaster_Bas_Relief PLACEHOLDER NAME TEXT - not used?"/>
+		<entry key="BuildingPartName_AD_Coaster_Door_8m" translation="Coaster Doors - Ancient Temple"/>
+		<entry key="BuildingPartName_AD_Cog1M" translation="Ancient Cog 1m"/>
+		<entry key="BuildingPartName_AD_Cog1MTriggered" translation="Ancient Cog 1m - Alternating"/>
+		<entry key="BuildingPartName_AD_Cog4M" translation="Ancient Cog 4m"/>
+		<entry key="BuildingPartName_AD_Cog4MTriggered" translation="Ancient Cog 4m - Alternating"/>
+		<entry key="BuildingPartName_AD_CogArm" translation="Ancient Cog Arm"/>
+		<entry key="BuildingPartName_AD_CogArmTriggerable" translation="Ancient Cog Arm - Alternating"/>
+		<entry key="BuildingPartName_AD_CogArmTriggered" translation="Ancient Cog Arm - Alternating"/>
+		<entry key="BuildingPartName_AD_CogAxle1M" translation="Ancient Cog Axle 1m"/>
+		<entry key="BuildingPartName_AD_CogAxle1MTriggered" translation="Ancient Cog Axle 1m - Alternating"/>
+		<entry key="BuildingPartName_AD_CogAxle2M" translation="Ancient Cog Axle 2m"/>
+		<entry key="BuildingPartName_AD_CogAxle2MTriggered" translation="Ancient Cog Axle 2m - Alternating"/>
+		<entry key="BuildingPartName_AD_CogAxle4M" translation="Ancient Cog Axle 4m"/>
+		<entry key="BuildingPartName_AD_CogAxle4MTriggered" translation="Ancient Cog Axle 4m - Alternating"/>
+		<entry key="BuildingPartName_AD_CogGearRack" translation="Ancient Cog Gear Rack 01"/>
+		<entry key="BuildingPartName_AD_CogGearRack02" translation="Ancient Cog Gear Rack 02"/>
+		<entry key="BuildingPartName_AD_CogGearRack02Triggered" translation="Ancient Cog Gear Rack 02 - Alternating"/>
+		<entry key="BuildingPartName_AD_CogGearRackTriggered" translation="Ancient Cog Gear Rack 01 - Alternating"/>
+		<entry key="BuildingPartName_AD_CogMiterGear" translation="Ancient Cog Mitre Gear"/>
+		<entry key="BuildingPartName_AD_CogMiterGearReverse" translation="Ancient Cog Mitre Gear Reverse"/>
+		<entry key="BuildingPartName_AD_CogMiterGearTriggered" translation="Ancient Cog Mitre Gear - Alternating"/>
+		<entry key="BuildingPartName_AD_CogMiterGearTriggeredReverse" translation="Ancient Cog Mitre Gear Reverse - Alternating"/>
+		<entry key="BuildingPartName_AD_CogRack" translation="Ancient Cog Rack"/>
+		<entry key="BuildingPartName_AD_Croc_Large" translation="Crocodile Large"/>
+		<entry key="BuildingPartName_AD_Croc_Large_Breach" translation="Crocodile Large Swim Breach"/>
+		<entry key="BuildingPartName_AD_Croc_Large_Hiss" translation="Crocodile Large Hiss"/>
+		<entry key="BuildingPartName_AD_Croc_Large_Rise" translation="Crocodile Large Swim Rise"/>
+		<entry key="BuildingPartName_AD_Croc_Large_Snapping" translation="Crocodile Large Snap"/>
+		<entry key="BuildingPartName_AD_Croc_Large_Swim" translation="Crocodile Large Swim"/>
+		<entry key="BuildingPartName_AD_Croc_Large_SwimAttack" translation="Crocodile Large Swim Attack"/>
+		<entry key="BuildingPartName_AD_Croc_Large_Swimpose" translation="Crocodile Large Swim"/>
+		<entry key="BuildingPartName_AD_Croc_Small" translation="Crocodile Small"/>
+		<entry key="BuildingPartName_AD_Croc_Small_FigAte" translation="Crocodile Small Swim Figure Eight"/>
+		<entry key="BuildingPartName_AD_Croc_Small_Hiss" translation="Crocodile Small Hiss"/>
+		<entry key="BuildingPartName_AD_Croc_Small_Snapping" translation="Crocodile Small Snap"/>
+		<entry key="BuildingPartName_AD_Croc_Small_Swimpose" translation="Crocodile Small Swim"/>
+		<entry key="BuildingPartName_AD_Croc_Small_Swimpose_Breach" translation="Crocodile Small Swim Breach"/>
+		<entry key="BuildingPartName_AD_Croc_Small_Swimpose_Rise" translation="Crocodile Small Swim Rise"/>
+		<entry key="BuildingPartName_AD_Croc_Small_Swimpose_SwimAttack" translation="Crocodile Small Swim Attack"/>
+		<entry key="BuildingPartName_AD_FXBox_Airplane_Propeller_Smoke" translation="Special Effect - Airplane Propeller Smoke"/>
+		<entry key="BuildingPartName_AD_FXBox_Fire_Small" translation="Special Effect - Fire Jet Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Fire_Small_Thin" translation="Special Effect - Fire Jet Small Thin"/>
+		<entry key="BuildingPartName_AD_FXBox_Fire_Small_Wide" translation="Special Effect - Fire Jet Small Wide"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Falling_Large" translation="Special Effect - Lava Falling Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Falling_Small" translation="Special Effect - Lava Falling Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Plume_Large" translation="Special Effect - Lava Plume Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Plume_Small" translation="Special Effect - Lava Plume Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Pouring_Huge" translation="Special Effect - Lava Pouring Huge"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Pouring_Large" translation="Special Effect - Lava Pouring Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Pouring_Small" translation="Special Effect - Lava Pouring Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Splash_Huge" translation="Special Effect - Lava Splash Huge"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Splash_Large" translation="Special Effect - Lava Splash Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Splash_Small" translation="Special Effect - Lava Splash Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Water_Impact_Steam_Huge" translation="Special Effect - Lava Steam Huge"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Water_Impact_Steam_Large" translation="Special Effect - Lava Steam Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Lava_Water_Impact_Steam_Small" translation="Special Effect - Lava Steam Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Rock_Ground_Impact_Large" translation="Special Effect - Rock Ground Impact Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Rock_Ground_Impact_Small" translation="Special Effect - Rock Ground Impact Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Rock_Impact_Large" translation="Special Effect - Rock Impact Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Rock_Impact_Small" translation="Special Effect - Rock Impact Small"/>
+		<entry key="BuildingPartName_AD_FXBox_Waterfall_Pouring_Huge" translation="Special Effect - Waterfall Pouring Huge"/>
+		<entry key="BuildingPartName_AD_FXBox_Waterfall_Pouring_Large" translation="Special Effect - Waterfall Pouring Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Waterfall_Pouring_MidSection_Huge" translation="Special Effect - Waterfall Pouring MidSection Huge"/>
+		<entry key="BuildingPartName_AD_FXBox_Waterfall_Splash_Large" translation="Special Effect - Waterfall Splash Large"/>
+		<entry key="BuildingPartName_AD_FXBox_Waterfall_Top_Splash_Huge" translation="Special Effect - Waterfall Top Splash Huge"/>
+		<entry key="BuildingPartName_AD_Fence_Wooden_2m" translation="Wooden Stake Fence 2m"/>
+		<entry key="BuildingPartName_AD_Fence_Wooden_4m" translation="Wooden Stake Fence 4m"/>
+		<entry key="BuildingPartName_AD_FirePit_Large" translation="Fire Pit Large"/>
+		<entry key="BuildingPartName_AD_FirePit_Small" translation="Fire Pit Small"/>
+		<entry key="BuildingPartName_AD_Gems_01" translation="Gemstone 01"/>
+		<entry key="BuildingPartName_AD_Gems_01_Large" translation="Gemstone Large 01"/>
+		<entry key="BuildingPartName_AD_Gems_02" translation="Gemstone 02"/>
+		<entry key="BuildingPartName_AD_Gems_02_Large" translation="Gemstone Large 02"/>
+		<entry key="BuildingPartName_AD_Gems_03" translation="Gemstone 03"/>
+		<entry key="BuildingPartName_AD_Gems_03_Large" translation="Gemstone Large 03"/>
+		<entry key="BuildingPartName_AD_Gems_04" translation="Gemstone 04"/>
+		<entry key="BuildingPartName_AD_Gems_04_Large" translation="Gemstone Large 04"/>
+		<entry key="BuildingPartName_AD_Gems_05" translation="Gemstone 05"/>
+		<entry key="BuildingPartName_AD_Gems_05_Large" translation="Gemstone Large 05"/>
+		<entry key="BuildingPartName_AD_GulpeeRelief" translation="Ancient Carved Character 1m 03"/>
+		<entry key="BuildingPartName_AD_Hippo" translation="Hippo"/>
+		<entry key="BuildingPartName_AD_Hippo_Breaching" translation="Hippo Breaching"/>
+		<entry key="BuildingPartName_AD_Hippo_FigAte" translation="Hippo Figure Eight"/>
+		<entry key="BuildingPartName_AD_Hippo_Wallowing" translation="Hippo Wallowing"/>
+		<entry key="BuildingPartName_AD_Hippo_WaterRushCharge" translation="Hippo Charge"/>
+		<entry key="BuildingPartName_AD_Hippo_Yawning" translation="Hippo Yawning"/>
+		<entry key="BuildingPartName_AD_Jeep" translation="Off Road Vehicle"/>
+		<entry key="BuildingPartName_AD_Jeep_Wheel" translation="Off Road Vehicle Wheel"/>
+		<entry key="BuildingPartName_AD_JerryCan" translation="Jerry Can"/>
+		<entry key="BuildingPartName_AD_Labourer_Pick_01" translation="Archaeologist With Pick"/>
+		<entry key="BuildingPartName_AD_Labourer_Shovel_01" translation="Archaeologist With Shovel"/>
+		<entry key="BuildingPartName_AD_Lamppost_01" translation="Adventure Lamppost"/>
+		<entry key="BuildingPartName_AD_LeatherBasket" translation="Leather Basket"/>
+		<entry key="BuildingPartName_AD_Magma_Panel_1M" translation="Magma Panel 1m"/>
+		<entry key="BuildingPartName_AD_Magma_Panel_2M" translation="Magma Panel 2m"/>
+		<entry key="BuildingPartName_AD_Magma_Panel_4M" translation="Magma Panel 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_1x1x1" translation="Temple Block 1m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_1x1x1_Ruin" translation="Temple Block Ruin 1m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_1x1x1_RuinCorner" translation="Temple Block Corner Ruin 1m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_1x4_ColumnSection" translation="Temple Column 1m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x1_Column_Cap" translation="Temple Column Cap 2m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x1x1" translation="Temple Block 2m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x1x1_Coving" translation="Temple Block Coving 2m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x2_ColumnSection" translation="Temple Column 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x2_ColumnSection_Ruin" translation="Temple Column Ruin 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x2x2" translation="Temple Block 2m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x2x2_Coving" translation="Temple Block Coving 2m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x2x2_Ruin" translation="Temple Block Ruin 2m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x2x2_RuinCorner" translation="Temple Block Corner Ruin 2m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_2x4_ColumnSection" translation="Temple Column 2m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x1x1" translation="Temple Block 1m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x1x1_Coving" translation="Temple Block Coving 4m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x1x1_Ruin" translation="Temple Block Ruin 4m 1m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x2_ColumnSection" translation="Temple Column 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x2x1" translation="Temple Block 4m 2m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x2x2" translation="Temple Block 4m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x2x2_Coving" translation="Temple Block Coving 4m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x2x2_Ruin" translation="Temple Block Ruin 4m 2m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4_ColumnSection" translation="Temple Column 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x05" translation="Temple Block 4m 4m 0.5m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x1" translation="Temple Block 4m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x1_Ruin" translation="Temple Block Ruin 4m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x2" translation="Temple Block 4m 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x4" translation="Temple Block 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x4_Ruin" translation="Temple Block Ruin 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_4x4x4_RuinCorner" translation="Temple Block Corner Ruin 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_01" translation="Temple Decoration 01"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_02" translation="Temple Decoration 02"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_03" translation="Temple Decoration 03"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_04" translation="Temple Decoration 04"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_05" translation="Temple Decoration 05"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_06" translation="Temple Decoration 06"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_07" translation="Temple Decoration 07"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_08" translation="Temple Decoration 08"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decoration_09" translation="Temple Decoration 09"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decorative_Rail_4m" translation="Temple Decorative Rail 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Decorative_Rail_End" translation="Temple Decorative Rail End"/>
+		<entry key="BuildingPartName_AD_Masonry_A_SlopeCorner_4x4x1" translation="Temple Block Slope Corner 4m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_SlopeCorner_4x4x2" translation="Temple Block Slope Corner 4m 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_SlopeCorner_4x4x4" translation="Temple Block Slope Corner 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_1x4x1" translation="Temple Block Slope 1m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_1x4x2" translation="Temple Block Slope 1m 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_1x4x4" translation="Temple Block Slope 1m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_2x4x1" translation="Temple Block Slope 2m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_2x4x2" translation="Temple Block Slope 2m 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_2x4x4" translation="Temple Block Slope 2m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_4x4x1" translation="Temple Block Slope 4m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_4x4x2" translation="Temple Block Slope 4m 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Slope_4x4x4" translation="Temple Block Slope 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Trim_2m_01" translation="Temple Trim 2m 01"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Trim_2m_02" translation="Temple Trim 2m 02"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Trim_2m_03" translation="Temple Trim 2m 03"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Trim_2m_04" translation="Temple Trim 2m 04"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Trim_4m_01" translation="Temple Trim 4m 01"/>
+		<entry key="BuildingPartName_AD_Masonry_A_Trim_4m_02" translation="Temple Trim 4m 02"/>
+		<entry key="BuildingPartName_AD_Masonry_B_1x4_ColumnSection" translation="Temple Gold Column 1m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_2x4_ColumnSection" translation="Temple Gold Column 2m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_4x1x1" translation="Temple Gold Block 1m 4m 1m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_4x4_ColumnSection" translation="Temple Gold Column 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_4x4x2" translation="Temple Gold Block 4m 4m 2m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_4x4x4" translation="Temple Gold Block 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_01" translation="Temple Gold Decoration 01"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_02" translation="Temple Gold Decoration 02"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_03" translation="Temple Gold Decoration 03"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_04" translation="Temple Gold Decoration 04"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_05" translation="Temple Gold Decoration 05"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_06" translation="Temple Gold Decoration 06"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_07" translation="Temple Gold Decoration 07"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_08" translation="Temple Gold Decoration 08"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Decoration_09" translation="Temple Gold Decoration 09"/>
+		<entry key="BuildingPartName_AD_Masonry_B_SlopeCorner_4x4x4" translation="Temple Gold Block Slope Corner 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Slope_4x4x4" translation="Temple Gold Block Slope 4m 4m 4m"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Trim_2m_01" translation="Temple Gold Trim 2m 01"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Trim_2m_02" translation="Temple Gold Trim 2m 02"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Trim_2m_03" translation="Temple Gold Trim 2m 3"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Trim_2m_04" translation="Temple Gold Trim 2m 4"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Trim_4m_01" translation="Temple Gold Trim 4m 01"/>
+		<entry key="BuildingPartName_AD_Masonry_B_Trim_4m_02" translation="Temple Gold Trim 4m 02"/>
+		<entry key="BuildingPartName_AD_Mummy_Grab" translation="Tomb Mummy Grab"/>
+		<entry key="BuildingPartName_AD_Mummy_Rise" translation="Tomb Mummy Rise"/>
+		<entry key="BuildingPartName_AD_Mummy_Slump" translation="Tomb Mummy Slump"/>
+		<entry key="BuildingPartName_AD_Mummy_Walk" translation="Tomb Mummy Walking"/>
+		<entry key="BuildingPartName_AD_PicnicTable" translation="Adventure Picnic Table"/>
+		<entry key="BuildingPartName_AD_Plane" translation="Biplane Aircraft"/>
+		<entry key="BuildingPartName_AD_Plane_BentPropeller" translation="Biplane Propeller Bent"/>
+		<entry key="BuildingPartName_AD_Plane_Hull" translation="Biplane Aircraft Hull"/>
+		<entry key="BuildingPartName_AD_Plane_Left_Wing" translation="Biplane Aircraft Left Wing"/>
+		<entry key="BuildingPartName_AD_Plane_Propeller" translation="Biplane Aircraft Propeller"/>
+		<entry key="BuildingPartName_AD_Plane_Right_Wing" translation="Biplane Aircraft Right Wing"/>
+		<entry key="BuildingPartName_AD_Plane_Tail" translation="Biplane Aircraft Tail"/>
+		<entry key="BuildingPartName_AD_RisingSpikes_Multi" translation="Ancient Trap Rising Spikes Multiple"/>
+		<entry key="BuildingPartName_AD_RisingSpikes_Single" translation="Ancient Trap Rising Spikes Single"/>
+		<entry key="BuildingPartName_AD_Rock_Archway" translation="Temple Rock Archway"/>
+		<entry key="BuildingPartName_AD_Rock_Door" translation="Coaster Doors - Ancient Rock"/>
+		<entry key="BuildingPartName_AD_RotatingSpikes_Extender" translation="Ancient Trap Rotating Spikes Extender"/>
+		<entry key="BuildingPartName_AD_RotatingSpikes_Slider" translation="Ancient Trap Rotating Spikes Slider"/>
+		<entry key="BuildingPartName_AD_Rubble_Pile_01" translation="Temple Rubble Pile 01"/>
+		<entry key="BuildingPartName_AD_Rubble_Pile_02" translation="Temple Rubble Pile 02"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x2m_Bare_Cap" translation="Wooden Scaffolding Cap 2x2m Bare"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x2m_Cap" translation="Wooden Scaffolding Cap 2x2m"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x2m_Planks" translation="Wooden Scaffolding Planks 2x2m"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x4m_Bare_Cap" translation="Wooden Scaffolding Cap 2x2m Bare"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x4m_Bare_Mid" translation="Wooden Scaffolding Mid 2x4m Bare"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x4m_Cap" translation="Wooden Scaffolding Cap 2x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x4m_Mid" translation="Wooden Scaffolding Mid 2x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x4m_Planks" translation="Wooden Scaffolding Planks 2x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_2x4m_brace" translation="Wooden Scaffolding Brace 2x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_4x4_Cap" translation="Wooden Scaffolding Cap 4x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_4x4_Mid" translation="Wooden Scaffolding Mid 4x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_4x4m_Bare_Cap" translation="Wooden Scaffolding Cap 4x4m Cap"/>
+		<entry key="BuildingPartName_AD_Scaffold_4x4m_Bare_Mid" translation="Wooden Scaffolding Mid 4x4m Bare"/>
+		<entry key="BuildingPartName_AD_Scaffold_4x4m_Planks" translation="Wooden Scaffolding Planks 4x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_4x4m_brace" translation="Wooden Scaffolding Brace 4x4m"/>
+		<entry key="BuildingPartName_AD_Scaffold_Sup_Single" translation="Wooden Scaffolding Support"/>
+		<entry key="BuildingPartName_AD_Scorpion" translation="Giant Scorpion Sting Attack"/>
+		<entry key="BuildingPartName_AD_Scorpion_Leg_Front_Left" translation="Giant Scorpion Leg Front Left"/>
+		<entry key="BuildingPartName_AD_Scorpion_Leg_Front_right" translation="Giant Scorpion Leg Front Right"/>
+		<entry key="BuildingPartName_AD_Scorpion_Leg_Rear_Left" translation="Giant Scorpion Leg Rear Left"/>
+		<entry key="BuildingPartName_AD_Scorpion_Leg_Rear_right" translation="Giant Scorpion Leg Rear Right"/>
+		<entry key="BuildingPartName_AD_Scorpion_PincerAttack" translation="Giant Scorpion Pincer Attack"/>
+		<entry key="BuildingPartName_AD_Scorpion_Pincer_Left" translation="Giant Scorpion Pincer Left"/>
+		<entry key="BuildingPartName_AD_Scorpion_Pincer_right" translation="Giant Scorpion Pincer Right"/>
+		<entry key="BuildingPartName_AD_Scorpion_Small" translation="Small Scorpion"/>
+		<entry key="BuildingPartName_AD_Scorpion_Small_Five" translation="Small Scorpion Group"/>
+		<entry key="BuildingPartName_AD_Scorpion_StingAttack" translation="Giant Scorpion Sting Attack--PLACEHOLDER-- --not used, duplicate animation"/>
+		<entry key="BuildingPartName_AD_Scorpion_Tail" translation="Giant Scorpion Tail"/>
+		<entry key="BuildingPartName_AD_Scorpion_Torso" translation="Giant Scorpion Torso"/>
+		<entry key="BuildingPartName_AD_Shop_Fascia" translation="Temple Shop Fascia"/>
+		<entry key="BuildingPartName_AD_Shop_Fascia_Archway" translation="Temple Ride Entrance Archway"/>
+		<entry key="BuildingPartName_AD_Signs_Custom_01" translation="Ancient Stone Block Sign"/>
+		<entry key="BuildingPartName_AD_Signs_Custom_02" translation="Ancient Wooden Board Sign"/>
+		<entry key="BuildingPartName_AD_Slab_Character_1m_01" translation="Ancient Carved Character 1m 01"/>
+		<entry key="BuildingPartName_AD_Slab_Character_1m_02" translation="Ancient Carved Character 1m 02"/>
+		<entry key="BuildingPartName_AD_Slab_Character_2m_Rectangle_01" translation="Ancient Carved Character 2m Rectangle 01"/>
+		<entry key="BuildingPartName_AD_Slab_Character_2m_Rectangle_02" translation="Ancient Carved Character 2m Rectangle 02"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_01" translation="Ancient Carved Feature 1m 01"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_02" translation="Ancient Carved Feature 1m 02"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_03" translation="Ancient Carved Feature 1m 03"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_04" translation="Ancient Carved Feature 1m 04"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_05" translation="Ancient Carved Feature 1m 05"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_06" translation="Ancient Carved Feature 1m 06"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_07" translation="Ancient Carved Feature 1m 07"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_08" translation="Ancient Carved Feature 1m 08"/>
+		<entry key="BuildingPartName_AD_Slab_Face_1m_09" translation="Ancient Carved Feature 1m 09"/>
+		<entry key="BuildingPartName_AD_Slab_Face_2m_01" translation="Ancient Carved Feature 2m 01"/>
+		<entry key="BuildingPartName_AD_Slab_Face_2m_Rectangle_01" translation="Ancient Carved Feature 2m Rectangle 01"/>
+		<entry key="BuildingPartName_AD_Slab_Face_2m_Rectangle_02" translation="Ancient Carved Feature 2m Rectangle 02"/>
+		<entry key="BuildingPartName_AD_Slab_Face_2m_Rectangle_03" translation="Ancient Carved Feature 2m Rectangle 03"/>
+		<entry key="BuildingPartName_AD_Slab_Face_2m_Rectangle_04" translation="Ancient Carved Feature 2m Rectangle 04"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_1m_01" translation="Ancient Carved Pattern 1m 01"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_1m_02" translation="Ancient Carved Pattern 1m 02"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_1m_03" translation="Ancient Carved Pattern 1m 03"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_2m_01" translation="Ancient Carved Pattern 2m 01"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_2m_Rectangle_01" translation="Ancient Carved Pattern 2m Rectangle 01"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_2m_Rectangle_02" translation="Ancient Carved Pattern 2m Rectangle 02"/>
+		<entry key="BuildingPartName_AD_Slab_Pattern_2m_Rectangle_03" translation="Ancient Carved Pattern 2m Rectangle 03"/>
+		<entry key="BuildingPartName_AD_Snake_Charm" translation="Snake Animatronic Charmed"/>
+		<entry key="BuildingPartName_AD_Snake_Coiled" translation="Snake Animatronic Coiled"/>
+		<entry key="BuildingPartName_AD_Snake_Pit" translation="Snake Pit"/>
+		<entry key="BuildingPartName_AD_Snake_Pit_2m" translation="Snake Pit Small"/>
+		<entry key="BuildingPartName_AD_Snake_Small_01" translation="Snake Animatronic Small 01"/>
+		<entry key="BuildingPartName_AD_Snake_Small_02" translation="Snake Animatronic Small 02"/>
+		<entry key="BuildingPartName_AD_Snake_Small_03" translation="Snake Animatronic Small 03"/>
+		<entry key="BuildingPartName_AD_Snake_Tree" translation="Snake Animatronic Tree Branch"/>
+		<entry key="BuildingPartName_AD_Snake_Tree_Strike" translation="Snake Animatronic Tree Branch Strike"/>
+		<entry key="BuildingPartName_AD_Stalagmites_01" translation="Stalagmite 01"/>
+		<entry key="BuildingPartName_AD_Stalagmites_02" translation="Stalagmite 02"/>
+		<entry key="BuildingPartName_AD_Stalagmites_03" translation="Stalagmite 03"/>
+		<entry key="BuildingPartName_AD_Stalagmites_04" translation="Stalagmite 04"/>
+		<entry key="BuildingPartName_AD_Stalagmites_Clump_01" translation="Stalagmite Clump 01"/>
+		<entry key="BuildingPartName_AD_Stalagmites_Clump_02" translation="Stalagmite Clump 02"/>
+		<entry key="BuildingPartName_AD_Statue_Beak" translation="Ancient Statue Beak"/>
+		<entry key="BuildingPartName_AD_Statue_Beak_Gold" translation="Ancient Golden Statue Beak"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_01" translation="Ancient Statue Ear 01 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_01_Gold" translation="Ancient Golden Statue Ear 01 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_01x" translation="Ancient Statue Ear 01 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_01x_Gold" translation="Ancient Golden Statue Ear 01 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_02" translation="Ancient Statue Ear 02 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_02_Gold" translation="Ancient Golden Statue Ear 02 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_02x" translation="Ancient Statue Ear 02 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Ear_02x_Gold" translation="Ancient Golden Statue Ear 02 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_01" translation="Ancient Statue Eye 01"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_01_Gold" translation="Ancient Golden Statue Eye 01"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_01x" translation="AD_Statue_Eye_01x PLACEHOLDER NAME TEXT - not used in game"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_01x_Gold" translation="AD_Statue_Eye_01x PLACEHOLDER NAME TEXT - not used in game"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_02" translation="Ancient Statue Eye 02 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_02_Gold" translation="Ancient Golden Statue Eye 02 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_02x" translation="Ancient Statue Eye 02 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_02x_Gold" translation="Ancient Golden Statue Eye 02 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_03" translation="Ancient Statue Eye 03"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_03_Gold" translation="Ancient Golden Statue Eye 03"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_03x" translation="AD_Statue_Eye_03x PLACEHOLDER NAME TEXT - not used in game"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_03x_Gold" translation="AD_Statue_Eye_03x PLACEHOLDER NAME TEXT - not used in game"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_04" translation="Ancient Statue Eye 04 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_04_Gold" translation="Ancient Golden Statue Eye 04 Right"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_04x" translation="Ancient Statue Eye 04 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Eye_04x_Gold" translation="Ancient Golden Statue Eye 04 Left"/>
+		<entry key="BuildingPartName_AD_Statue_Hoop" translation="Ancient Statue Stone Hoop"/>
+		<entry key="BuildingPartName_AD_Statue_Hoop_Gold" translation="Ancient Golden Statue Stone Hoop"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_01" translation="Ancient Statue Mouth 01"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_01_Gold" translation="Ancient Golden Statue Mouth 01"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_02" translation="Ancient Statue Mouth 02"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_02_Gold" translation="Ancient Golden Statue Mouth 02"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_03" translation="Ancient Statue Mouth 03"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_03_Gold" translation="Ancient Golden Statue Mouth 03"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_04" translation="Ancient Statue Mouth 04"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_04_Gold" translation="Ancient Golden Statue Mouth 04"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_05" translation="Ancient Statue Mouth 05"/>
+		<entry key="BuildingPartName_AD_Statue_Mouth_05_Gold" translation="Ancient Golden Statue Mouth 05"/>
+		<entry key="BuildingPartName_AD_Statue_Nose_01" translation="Ancient Statue Nose 01"/>
+		<entry key="BuildingPartName_AD_Statue_Nose_01_Gold" translation="Ancient Golden Statue Nose 01"/>
+		<entry key="BuildingPartName_AD_Statue_Nose_02" translation="Ancient Statue Nose 02"/>
+		<entry key="BuildingPartName_AD_Statue_Nose_02_Gold" translation="Ancient Golden Statue Nose 02"/>
+		<entry key="BuildingPartName_AD_Statue_Props_01" translation="Ancient Statue Prop 01"/>
+		<entry key="BuildingPartName_AD_Statue_Props_01_Gold" translation="Ancient Golden Statue Prop 01"/>
+		<entry key="BuildingPartName_AD_Statue_Props_02" translation="Ancient Statue Prop 02"/>
+		<entry key="BuildingPartName_AD_Statue_Props_02_Gold" translation="Ancient Golden Statue Prop 02"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_01" translation="Snake Statue Stone Body 01"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_01_Gold" translation="Snake Statue Gold Body 01"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_02" translation="Snake Statue Stone Body 02"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_02_Gold" translation="Snake Statue Gold Body 02"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_03" translation="Snake Statue Stone Body 03"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_03_Gold" translation="Snake Statue Gold Body 03"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_04" translation="Snake Statue Stone Body 04"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_04_Gold" translation="Snake Statue Gold Body 04"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_05" translation="Snake Statue Stone Body 05"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_05_Gold" translation="Snake Statue Gold Body 05"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_06" translation="Snake Statue Stone Body 06"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_06_Gold" translation="Snake Statue Gold Body 06"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_07" translation="Snake Statue Stone Body 07"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_07_Gold" translation="Snake Statue Gold Body 07"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_08" translation="Snake Statue Stone Body 08"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Body_08_Gold" translation="Snake Statue Gold Body 08"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Head_01" translation="Snake Statue Stone Head"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Head_01_Gold" translation="Snake Statue Gold Head"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Snake_Tail_01" translation="Snake Statue Stone Tail"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Tail_01" translation="Snake Statue Stone Tail PLACEHOLDER - unused"/>
+		<entry key="BuildingPartName_AD_Statue_Snake_Tail_01_Gold" translation="Snake Statue Gold Tail"/>
+		<entry key="BuildingPartName_AD_Statue_Snout" translation="Ancient Statue Snout"/>
+		<entry key="BuildingPartName_AD_Statue_Snout_Gold" translation="Ancient Golden Statue Snout"/>
+		<entry key="BuildingPartName_AD_Statue_Tongue" translation="Ancient Statue Tongue"/>
+		<entry key="BuildingPartName_AD_Statue_Tongue_Gold" translation="Ancient Golden Statue Tongue"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_01" translation="Ancient Statue Arm 01 Right"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_01_Gold" translation="Ancient Golden Statue Arm 01 Right"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_01x" translation="Ancient Statue Arm 01 Left"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_01x_Gold" translation="Ancient Golden Statue Arm 01 Left"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_02" translation="Ancient Statue Arm 02 Right"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_02_Gold" translation="Ancient Golden Statue Arm 02 Right"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_02x" translation="Ancient Statue Arm 02 Left"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_02x_Gold" translation="Ancient Golden Statue Arm 02 Left"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_03" translation="Ancient Statue Arm 03 Right"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_03_Gold" translation="Ancient Golden Statue Arm 03 Right"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_03x" translation="Ancient Statue Arm 03 Left"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_03x_Gold" translation="Ancient Golden Statue Arm 03 Left"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_04" translation="Ancient Statue Wing"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_04_Gold" translation="Ancient Golden Statue Wing"/>
+		<entry key="BuildingPartName_AD_Statues_Arms_04x" translation="AD_Statues_Arms_04x PLACEHOLDER NAME TEXT - currently unused asset"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_01" translation="Ancient Statue Headdress 01"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_01_Gold" translation="Ancient Golden Statue Headdress 01"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_02" translation="Ancient Statue Headdress 02"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_02_Gold" translation="Ancient Golden Statue Headdress 02"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_03" translation="Ancient Statue Headdress 03"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_03_Gold" translation="Ancient Golden Statue Headdress 03"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_04" translation="Ancient Statue Headdress 04"/>
+		<entry key="BuildingPartName_AD_Statues_Headdressess_04_Gold" translation="Ancient Golden Statue Headdress 04"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_01" translation="Ancient Statue Head 01"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_01_Gold" translation="Ancient Golden Statue Head 01"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_02" translation="Ancient Statue Head 02"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_02_Gold" translation="Ancient Golden Statue Head 02"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_03" translation="Ancient Statue Head 03"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_03_Gold" translation="Ancient Golden Statue Head 03"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_04" translation="Ancient Statue Head 04"/>
+		<entry key="BuildingPartName_AD_Statues_Heads_04_Gold" translation="Ancient Golden Statue Head 04"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_01" translation="Ancient Statue Legs 01"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_01_Gold" translation="Ancient Golden Statue Legs 01"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_02" translation="Ancient Statue Legs 02"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_02_Gold" translation="Ancient Golden Statue Legs 02"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_03" translation="Ancient Statue Legs 03"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_03_Gold" translation="Ancient Golden Statue Legs 03"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_04" translation="Ancient Statue Legs 04"/>
+		<entry key="BuildingPartName_AD_Statues_Legs_04_Gold" translation="Ancient Golden Statue Legs 04"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_01" translation="Ancient Statue Torso 01"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_01_Gold" translation="Ancient Golden Statue Torso 01"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_02" translation="Ancient Statue Torso 02"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_02_Gold" translation="Ancient Golden Statue Torso 02"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_03" translation="Ancient Statue Torso 03"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_03_Gold" translation="Ancient Golden Statue Torso 03"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_04" translation="Ancient Statue Torso 04"/>
+		<entry key="BuildingPartName_AD_Statues_Torsos_04_Gold" translation="Ancient Golden Statue Torso 04"/>
+		<entry key="BuildingPartName_AD_Switch_01" translation="Ancient Switch 01"/>
+		<entry key="BuildingPartName_AD_TP_ArchHalf_Tunnel" translation="Temple Rounded Half Arch Tunnel"/>
+		<entry key="BuildingPartName_AD_TP_Arch_Tunnel" translation="Temple Rounded Arch Tunnel"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Arch" translation="Temple Rounded Arch"/>
+		<entry key="BuildingPartName_AD_TP_Merge_ArchHalf" translation="Temple Rounded Half Arch"/>
+		<entry key="BuildingPartName_AD_TP_Merge_ShopFront" translation="Temple 4m Shopfront"/>
+		<entry key="BuildingPartName_AD_TP_Merge_StationSurround_01" translation="Temple 4m Station Surround 1"/>
+		<entry key="BuildingPartName_AD_TP_Merge_StationSurround_02" translation="Temple 2m Station Surround 2"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_1m" translation="Temple Wall 1m"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_2m" translation="Temple Wall 2m"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_4m" translation="Temple Wall 4m"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_GableTri_1m" translation="Temple Wall 1m Gable End"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_GableTri_2m" translation="Temple Wall 2m Gable End"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_GableTri_4m" translation="Temple Wall 4m Gable End"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_Slope_1m" translation="Temple Wall 1m Slope"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_Slope_2m" translation="Temple Wall 2m Slope"/>
+		<entry key="BuildingPartName_AD_TP_Merge_Wall_Slope_4m" translation="Temple Wall 4m Slope"/>
+		<entry key="BuildingPartName_AD_TorchHolder" translation="Wrapped Cloth Torch Wall Holder"/>
+		<entry key="BuildingPartName_AD_Torch_01" translation="Wrapped Cloth Torch"/>
+		<entry key="BuildingPartName_AD_Torch_02" translation="Fire Bowl"/>
+		<entry key="BuildingPartName_AD_Trap_DroppingBall" translation="Ancient Trap Dropping Boulder"/>
+		<entry key="BuildingPartName_AD_Trap_PoisonDartBlock" translation="Ancient Trap Poison Dart Block"/>
+		<entry key="BuildingPartName_AD_Trap_RollingBoulder" translation="Ancient Trap Rolling Boulder"/>
+		<entry key="BuildingPartName_AD_Trap_RollingBoulder_Lava" translation="Ancient Trap Rolling Boulder Lava"/>
+		<entry key="BuildingPartName_AD_Trap_SawBlade" translation="Ancient Trap Saw Blade"/>
+		<entry key="BuildingPartName_AD_Trap_Slamlogs" translation="Ancient Trap Slam logs"/>
+		<entry key="BuildingPartName_AD_Trap_SlammingBlock" translation="Ancient Trap Slamming Block"/>
+		<entry key="BuildingPartName_AD_Trap_SlammingBlock_16m" translation="Ancient Trap Slamming Block 16m"/>
+		<entry key="BuildingPartName_AD_Trap_SlammingBlock_8m" translation="Ancient Trap Slamming Block 8m"/>
+		<entry key="BuildingPartName_AD_Trap_SnappingBeam_4m" translation="Ancient Trap Snapping Beam 4m"/>
+		<entry key="BuildingPartName_AD_Trap_SnappingBeam_8m" translation="Ancient Trap Snapping Beam 8m"/>
+		<entry key="BuildingPartName_AD_Trap_SwingingBall" translation="Ancient Trap Swinging Boulder"/>
+		<entry key="BuildingPartName_AD_Trap_SwingingBlade" translation="Ancient Trap Swinging Blade"/>
+		<entry key="BuildingPartName_AD_Traps" translation="AD_Traps PLACEHOLDER NAME TEXT - not used?"/>
+		<entry key="BuildingPartName_AD_Traps_RisingSpikes_Multi_Small" translation="Ancient Trap Rising Spikes Multiple Small"/>
+		<entry key="BuildingPartName_AD_Truck_Canopy" translation="Truck Fabric Canopy"/>
+		<entry key="BuildingPartName_AD_Truck_Chassis" translation="Truck Chassis"/>
+		<entry key="BuildingPartName_AD_Truck_Double_Wheel" translation="Truck Double Wheel"/>
+		<entry key="BuildingPartName_AD_Truck_Flatbed" translation="Truck Flat-bed"/>
+		<entry key="BuildingPartName_AD_Truck_Single_Wheel" translation="Truck Single Wheel"/>
+		<entry key="BuildingPartName_AD_Vines_4m_01" translation="Tropical Vines 4m 01"/>
+		<entry key="BuildingPartName_AD_Vines_4m_02" translation="Tropical Vines 4m 02"/>
+		<entry key="BuildingPartName_AD_Vines_8m_01" translation="Tropical Vines 8m 01"/>
+		<entry key="BuildingPartName_AD_Vines_8m_02" translation="Tropical Vines 8m 02"/>
+		<entry key="BuildingPartName_AD_Vines_Curtain_01" translation="Tropical Vines Curtain 01"/>
+		<entry key="BuildingPartName_AD_Vines_Curtain_02" translation="Tropical Vines Curtain 02"/>
+		<entry key="BuildingPartName_AD_Vines_Hanging_01" translation="Tropical Vines Hanging 01"/>
+		<entry key="BuildingPartName_AD_Vines_Hanging_02" translation="Tropical Vines Hanging 02"/>
+		<entry key="BuildingPartName_AD_VistaPoint" translation="Vista Point"/>
+		<entry key="BuildingPartName_AD_WickerBasket" translation="Wicker Basket"/>
+		<entry key="BuildingPartName_Bamboo_Stand_1m_01" translation="Bamboo Stand Small"/>
+		<entry key="BuildingPartName_Bamboo_Stand_2m_01" translation="Bamboo Stand Medium"/>
+		<entry key="BuildingPartName_Bamboo_Stand_4m_01" translation="Bamboo Stand Large"/>
+		<entry key="BuildingPartName_Bamboo_Wall_2m_01" translation="Bamboo Hedge Small"/>
+		<entry key="BuildingPartName_Bamboo_Wall_4m_01" translation="Bamboo Hedge 1"/>
+		<entry key="BuildingPartName_Bamboo_Wall_4m_02" translation="Bamboo Hedge 2"/>
+		<entry key="BuildingPartName_Canopy_Bare_Tree_01" translation="Canopy_Bare_Tree_01"/>
+		<entry key="BuildingPartName_Canopy_Bare_Tree_02" translation="Canopy_Bare_Tree_02"/>
+		<entry key="BuildingPartName_Canopy_Bare_Tree_03" translation="Canopy_Bare_Tree_03"/>
+		<entry key="BuildingPartName_Canopy_Brazil_01" translation="Brazil Nut Tree 1"/>
+		<entry key="BuildingPartName_Canopy_Brazil_02" translation="Brazil Nut Tree 2"/>
+		<entry key="BuildingPartName_Canopy_Kapok_01" translation="Canopy_Kapok_01"/>
+		<entry key="BuildingPartName_Canopy_Kapok_02" translation="Canopy_Kapok_02"/>
+		<entry key="BuildingPartName_Canopy_Roots_01" translation="Tropical Roots 01"/>
+		<entry key="BuildingPartName_Canopy_Roots_02" translation="Tropical Roots 02"/>
+		<entry key="BuildingPartName_Canopy_Roots_03" translation="Tropical Roots 03"/>
+		<entry key="BuildingPartName_Canopy_Roots_Arch_01" translation="Canopy_Roots_Arch_01"/>
+		<entry key="BuildingPartName_Canopy_Roots_Buttress_01" translation="Canopy_Roots_Buttress_01"/>
+		<entry key="BuildingPartName_Canopy_Roots_Buttress_02" translation="Canopy_Roots_Buttress_02"/>
+		<entry key="BuildingPartName_Canopy_Roots_Edge_01" translation="Canopy_Roots_Edge_01"/>
+		<entry key="BuildingPartName_Canopy_Roots_Edge_02" translation="Canopy_Roots_Edge_02"/>
+		<entry key="BuildingPartName_Canopy_Roots_Pillar_01" translation="Tropical Roots Pillar 01"/>
+		<entry key="BuildingPartName_Canopy_Roots_Pillar_02" translation="Tropical Roots Pillar 02"/>
+		<entry key="BuildingPartName_Canopy_Roots_Spread_01" translation="Canopy_Roots_Spread_01"/>
+		<entry key="BuildingPartName_Canopy_Roots_Spread_02" translation="Canopy_Roots_Spread_02"/>
+		<entry key="BuildingPartName_GulpeyRelief" translation="GulpeyRelief PLACEHOLDER NAME TEXT - not used?"/>
+		<entry key="BuildingPartName_Jungle_Plant_Alocasia_01" translation="Jungle Plant Alocasia 1"/>
+		<entry key="BuildingPartName_Jungle_Plant_Alocasia_02" translation="Jungle Plant Alocasia 2"/>
+		<entry key="BuildingPartName_Jungle_Plant_Alocasia_03" translation="Jungle Plant Alocasia 3"/>
+		<entry key="BuildingPartName_Jungle_Plant_Deliciosa_01" translation="Jungle Plant Deliciosa 1"/>
+		<entry key="BuildingPartName_Jungle_Plant_Deliciosa_02" translation="Jungle Plant Deliciosa 2"/>
+		<entry key="BuildingPartName_Jungle_Plant_Deliciosa_03" translation="Jungle Plant Deliciosa 3"/>
+		<entry key="BuildingPartName_PalmAcai_01" translation="PalmAcai_01"/>
+		<entry key="BuildingPartName_PalmAcai_02" translation="PalmAcai_02"/>
+		<entry key="BuildingPartName_PalmAcai_03" translation="PalmAcai_03"/>
+		<entry key="BuildingPartName_PalmAlexander_01" translation="PalmAlexander_01"/>
+		<entry key="BuildingPartName_PalmAlexander_02" translation="PalmAlexander_02"/>
+		<entry key="BuildingPartName_PalmAlexander_03" translation="PalmAlexander_03"/>
+		<entry key="BuildingPartName_PalmDate_01" translation="PalmDate_01"/>
+		<entry key="BuildingPartName_PalmDate_02" translation="PalmDate_02"/>
+		<entry key="BuildingPartName_PalmDate_03" translation="PalmDate_03"/>
+		<entry key="BuildingPartName_PalmFeather_01" translation="PalmFeather_01"/>
+		<entry key="BuildingPartName_PalmFeather_02" translation="PalmFeather_02"/>
+		<entry key="BuildingPartName_PalmFeather_03" translation="PalmFeather_03"/>
+		<entry key="BuildingPartName_PalmFern_01" translation="PalmFern_01"/>
+		<entry key="BuildingPartName_PalmFern_02" translation="PalmFern_02"/>
+		<entry key="BuildingPartName_PalmJelly_01" translation="PalmJelly_01"/>
+		<entry key="BuildingPartName_PalmJelly_02" translation="PalmJelly_02"/>
+		<entry key="BuildingPartName_PalmJelly_03" translation="PalmJelly_03"/>
+		<entry key="BuildingPartName_Rope_Bridge_16m" translation="Rope Bridge 16m"/>
+		<entry key="BuildingPartName_Rope_Bridge_8m" translation="Rope Bridge 8m"/>
+		<entry key="BuildingPartName_Rope_Bridge_Large_Cap" translation="Rope Bridge Large Cap"/>
+		<entry key="BuildingPartName_Rope_Bridge_Large_Mid" translation="Rope Bridge Large Mid"/>
+		<entry key="Tag_PDLC_Adventure" translation="Adventure"/>
 		<!--PDLC_DeLorean_Coasters-->
 		<entry key="Coaster_Type_BackToTheFuture" translation="Go Karts"/>
 		<entry key="Powered_BackToTheFuture" translation="Ritorno al Futuro"/>
@@ -17187,6 +18277,7 @@
 		<entry key="Objective_Condition_Variable_TotalAirTimeMin" translation="Time"/>
 		<entry key="Objective_Item_AsPercentage" translation="As Percentage"/>
 		<entry key="Objective_Item_Capacity" translation="Total Capacity"/>
+		<entry key="Objective_Item_FewerThan" translation="Fewer Than"/>
 		<entry key="Objective_Item_FlatRidesOnly" translation="Exclude Coasters and Tracked Rides"/>
 		<entry key="Objective_Item_ForMonths" translation="For a Number of Months"/>
 		<entry key="Objective_Item_GoKarts" translation="Apply to Go-Karts instead of Coasters"/>
@@ -17359,7 +18450,6 @@
 		<entry key="ScenarioEditor_Guests_TraitWeight_Low" translation="Low"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Medium" translation="Medium"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="None"/>
-		<entry key="ScenarioEditor_Guests_TraitsPreset" translation="Preset"/>
 		<!--Scenery-->
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerBottom" translation="Un panino per hamburger.\nSet Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerPatty" translation="Ora preparato con vero Manzo!\nSet Capitan Manzo"/>
@@ -19087,6 +20177,8 @@
 		<entry key="Mascot_PirateKing_Desc" translation="Dietro ogni grande storia, c'è un grande furfante"/>
 		<entry key="Mascot_PrincessAmelie" translation="Principessa Amelie"/>
 		<entry key="Mascot_PrincessAmelie_Desc" translation="Una vera eroina"/>
+		<entry key="Mascot_ReneeFeu" translation="Reneé Feu"/>
+		<entry key="Mascot_ReneeFeu_Desc" translation="Never fear the spirit of adventure!"/>
 		<entry key="Mascot_TikiChicken" translation="Tiki"/>
 		<entry key="Mascot_TikiChicken_Desc" translation="Il dio del calore e delle spezie!"/>
 		<entry key="Staff_All" translation="Staff Member"/>
@@ -19117,6 +20209,7 @@
 		<entry key="Staff_Status_Nav_Bench" translation="Going to picnic bench"/>
 		<entry key="Staff_Status_Nav_Bin" translation="Si reca al cestino"/>
 		<entry key="Staff_Status_Nav_CleanFacility" translation="Heading to {facility}"/>
+		<entry key="Staff_Status_Nav_CleanFacilityNoName" translation="Heading to Facility"/>
 		<entry key="Staff_Status_Nav_Litter" translation="Va a raccogliere i rifiuti"/>
 		<entry key="Staff_Status_Nav_Vomit" translation="Va a pulire il vomito"/>
 		<entry key="Staff_Status_Nav_WorkFacility" translation="Heading to shop"/>
@@ -19376,6 +20469,7 @@
 		<entry key="Terrain_Edit_ToolTip_Chisel" translation="scalpello"/>
 		<entry key="Terrain_Edit_ToolTip_FlattenToFoundation" translation="Appiattisci alle fondamenta"/>
 		<entry key="Terrain_Edit_ToolTip_FlattenToSurface" translation="Appiattisci alla superficie"/>
+		<entry key="Terrain_Edit_ToolTip_Lava" translation="Lava"/>
 		<entry key="Terrain_Edit_ToolTip_Pull" translation="Tira"/>
 		<entry key="Terrain_Edit_ToolTip_Push" translation="Spingi"/>
 		<entry key="Terrain_Edit_ToolTip_Roughen" translation="Irruvidisci"/>
@@ -21268,12 +22362,15 @@
 		<entry key="Train_Fury" translation="Furia di Ferro"/>
 		<entry key="Train_GASM" translation="La Saetta Americana"/>
 		<entry key="Train_Gnarler" translation="Gnarler"/>
+		<entry key="Train_GoldFever" translation="Gold Fever"/>
 		<entry key="Train_HTG" translation="Salto nel Vuoto"/>
 		<entry key="Train_Hart" translation="Elettrocardiogramma"/>
+		<entry key="Train_IVenture" translation="Island Adventure"/>
 		<entry key="Train_Invincible" translation="Invincibile"/>
 		<entry key="Train_IronHorse" translation="Iron Horse"/>
 		<entry key="Train_KnightRider" translation="Supercar"/>
 		<entry key="Train_LTurns" translation="Curve Matte"/>
+		<entry key="Train_LandHo" translation="Land Ho"/>
 		<entry key="Train_LunaAutos" translation="Automobili Luna"/>
 		<entry key="Train_MUC" translation="Malice Unchained"/>
 		<entry key="Train_MgcKatz" translation="Magic Katz"/>
@@ -21306,6 +22403,37 @@
 		<entry key="TriggeredAudioEvents_Event_Default_Triggered_Audio_Event" translation="Silenzio"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_321_Countdown" translation="Countdown: 3,2,1: Via!"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_54321_Countdown" translation="Countdown: 5,4,3,2,1: Via!"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_01_WelcomeToTheIslandAdventure" translation="Tour Guide: Welcome to Island Adventure"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_02_SafetyWarning1" translation="Tour Guide: Safety Warning 1 - Stay inside the boat"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_03_SafetyWarning2" translation="Tour Guide: Safety Warning 2 - Don't get off the boat"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_04_LeftPyramid" translation="Tour Guide: To the left you can see the remains of an ancient pyramid"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_05_LeftSettlement" translation="Tour Guide: Coming up now on the left you can see the ruins of a settlement"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_06_LeftMonument" translation="Tour Guide: Approaching us now on the left you can see the remains of an ancient monument"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_07_LeftRelic" translation="Tour Guide: If you look to the left of the boat you can see all that remains of a decaying relic"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_08_RightPyramid" translation="Tour Guide: To the right you can see the remains of an ancient pyramid"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_09_RightSettlement" translation="Tour Guide: Coming up now on the right you can see the ruins of a settlement"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_10_RightMonument" translation="Tour Guide: Approaching us now on the right you can see the remains of an ancient monument"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_11_RightRelic" translation="Tour Guide: If you look to the right of the boat you can see all that remains of a decaying relic"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_12_PlaneCrash" translation="Tour Guide: There is a rumour that Renee Feu's plane crashed around these parts..."/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_13_GiftShop" translation="Tour Guide: We are now approaching the best bit of our tour: The Gift Shop"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_14_Disembarking" translation="Tour Guide: The last bit of the trip: disembarking"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_15_AlienBattle" translation="Tour Guide: Overhead is an Alien Battle"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_16_RedcoatSkirmish" translation="Tour Guide: Below is a RedCoat Skirmish"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_17_PortWildWest" translation="Tour Guide: Look port for scenes from the Wild West"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_18_StarboardWildWest" translation="Tour Guide: Look starboard for scenes from the Wild West"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_AD_VO_19_FestiveScene" translation="Tour Guide: Passing by us now is a Wonderful Festive Scene"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_BellBy1" translation="Train Bell 1 Pass-by"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_BellBy2" translation="Train Bell 2 Pass-by"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_BoatBell" translation="Boat Bell"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_GuatemalanFlute" translation="Musical: Guatemalan Flute Notes"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_Mbira" translation="Musical: Mbira Notes"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_Panpipes" translation="Musical: Panflute Notes"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_PlaneCrashLand" translation="Plane Crash on Land"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_PlaneCrashWater" translation="Plane Crash on Water"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_SnakeHiss" translation="Snake Hiss"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_TempleCollapse" translation="Tomb Collapse"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_TruckCrash" translation="Truck Crash"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_Adventure_Whipcrack" translation="Whip crack"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_01" translation="Allarme 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_02" translation="Allarme 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Alarm_03" translation="Allarme 3"/>
@@ -21496,6 +22624,8 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_5" translation="Countdown Megafono: 5"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Tannoy_Countdown_Go" translation="Countdown Megafono: Via!"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Tortured_Scream" translation="Urlo di Tortura"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_TrainBell_1" translation="Train Bell 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_TrainBell_2" translation="Train Bell 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_1" translation="Waterphone Lungo 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_2" translation="Waterphone Lungo 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_3" translation="Waterphone Lungo 3"/>
@@ -21513,6 +22643,7 @@
 		<entry key="TriggeredAudioEvents_Events" translation="Evento Audio a Innesco"/>
 		<entry key="TriggeredAudioEvents_Pitch" translation="Intensità"/>
 		<entry key="TriggeredAudioEvents_TestTrigger" translation="Test Innesco"/>
+		<entry key="TriggeredSFX_Adventure_Heading" translation="Adventure"/>
 		<entry key="TriggeredSFX_Alarms_Heading" translation="Allarmi"/>
 		<entry key="TriggeredSFX_Announcement_Heading" translation="Avvisi"/>
 		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
