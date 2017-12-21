@@ -286,7 +286,7 @@
 		<entry key="Blueprints_PCATMDesc" translation="Tu hai bisogno dei soldi dei tuoi visitatori e loro hanno bisogno di soldi da dare a te, quindi eccoli!"/>
 		<entry key="Blueprints_PCCollection" translation="Collezione Planet Coaster"/>
 		<entry key="Blueprints_PCCollectionDesc" translation="Un set di decorazioni a tema Planet Coaster."/>
-		<entry key="Blueprints_PCDrinks" translation="Chiosco di bibitee Planet Coaster"/>
+		<entry key="Blueprints_PCDrinks" translation="Chiosco di bibite Planet Coaster"/>
 		<entry key="Blueprints_PCDrinksDesc" translation="Un chiosco di bibite a tema Planet Coaster."/>
 		<entry key="Blueprints_PCFacilities" translation="Strutture Planet Coaster"/>
 		<entry key="Blueprints_PCFacilitiesDesc" translation="Questo set di strutture è stato decorato per potersi integrare perfettamente con il tuo parco a tema Planet Coaster."/>
@@ -13384,7 +13384,7 @@
 		<entry key="PopUp_RidePlacement_AttachQueue" translation="Aggiungi una coda all'entrata"/>
 		<entry key="PopUp_RidePlacement_AttachTicketBooth" translation="Aggiungi una biglietteria alla coda"/>
 		<entry key="PopUp_RidePlacement_AttachTicketBoothTooltip" translation="La biglietteria collega la coda al sentiero. Assicurati di lasciarle abbastanza spazio ."/>
-		<entry key="PopUp_RidePlacement_CheckListHeader" translation="Per aprire qusta attrazione, devi:"/>
+		<entry key="PopUp_RidePlacement_CheckListHeader" translation="Per aprire questa attrazione, devi:"/>
 		<entry key="PopUp_RidePlacement_ConnectEntranceToPath" translation="Collega entrata al sentiero"/>
 		<entry key="PopUp_RidePlacement_PassCheckListHeader" translation="Per avere una corsia prioritaria, devi:"/>
 		<entry key="PopUp_RidePlacement_PlaceEntrance" translation="Posiziona entrata"/>
