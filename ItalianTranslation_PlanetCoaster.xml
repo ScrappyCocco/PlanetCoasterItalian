@@ -1781,8 +1781,8 @@
 		<entry key="BuildingPartName_ST_Radius4_B_2m_90" translation="Muro curvo Castello 2m"/>
 		<entry key="BuildingPartName_ST_Radius4_B_4m_90" translation="Muro curvo Castello 4m"/>
 		<entry key="BuildingPartName_ST_Radius4_Buttressed_A_4m_90" translation="Muro curvo rinforzato in arenaria 4m"/>
-		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_01" translation="Archi Torre ottogonale Minaretto Castello 01"/>
-		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_02" translation="Archi Torre ottogonale Minaretto Castello 02"/>
+		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_01" translation="Archi Torre ottogonale Minareto Castello 01"/>
+		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_02" translation="Archi Torre ottogonale Minareto Castello 02"/>
 		<entry key="BuildingPartName_ST_Roof_Flat_A_4m" translation="Tetto piatto in arenaria"/>
 		<entry key="BuildingPartName_ST_Roof_Flat_A_Edge_4m" translation="Bordo per Tetto piatto in arenaria"/>
 		<entry key="BuildingPartName_ST_Roof_Flat_B_4m" translation="Tetto piatto Castello"/>
@@ -2384,9 +2384,9 @@
 		<entry key="BuildingPartDesc_SH_Awning_PizzaPen" translation="Una tenda per il tuo negozio.&#10;Set Monsieur Frites"/>
 		<entry key="BuildingPartDesc_SH_Awning_Tikichiki" translation="Una tenda per il tuo negozio.&#10;Set Tikichiki"/>
 		<entry key="BuildingPartDesc_ST_Door_A_01" translation="Porta di Legno rossa in telaio di pietra."/>
-		<entry key="BuildingPartDesc_ST_Door_A_02" translation="Porta di Legno rossa in telaio di pietra on a stone step."/>
+		<entry key="BuildingPartDesc_ST_Door_A_02" translation="Porta di Legno rossa in telaio di pietra su un gradino di pietra."/>
 		<entry key="BuildingPartDesc_ST_Door_A_03" translation="Porta di Legno robusta in telaio di pietra."/>
-		<entry key="BuildingPartDesc_ST_Door_A_04" translation="Porta di Legno blu in telaio di pietra on a stone step."/>
+		<entry key="BuildingPartDesc_ST_Door_A_04" translation="Porta di Legno blu in telaio di pietra su un gradino di pietra."/>
 		<entry key="BuildingPartDesc_ST_Door_A_05" translation="Porta di Legno semplice in telaio arquato di pietra stuccata."/>
 		<entry key="BuildingPartDesc_ST_Door_A_06" translation="Porta di Legno in telaio di pietra."/>
 		<entry key="BuildingPartDesc_ST_Door_A_07" translation="Porta di Legno semplice in ampio telaio di pietra."/>
@@ -2539,7 +2539,7 @@
 		<entry key="BuildingPartName_FT_Balcony_4m_01" translation="Balcone per Finestra di Pietra - Lunga"/>
 		<entry key="BuildingPartName_FT_Banner_Long" translation="Stendardo reale 8m"/>
 		<entry key="BuildingPartName_FT_Banner_Long_12m" translation="Stendardo reale 12m"/>
-		<entry key="BuildingPartName_FT_Banner_Long_Wide_12m" translation="Stendardo reale 16m Wide"/>
+		<entry key="BuildingPartName_FT_Banner_Long_Wide_12m" translation="Stendardo reale 16m Largo"/>
 		<entry key="BuildingPartName_FT_Banner_Short" translation="Stendardo reale Pole"/>
 		<entry key="BuildingPartName_FT_Castle_Motif_Dragon" translation="Tema - Dragone"/>
 		<entry key="BuildingPartName_FT_Castle_Motif_Drat" translation="Tema - Maledizione"/>
@@ -2564,8 +2564,8 @@
 		<entry key="BuildingPartName_FT_Door_6" translation="Porta del Villaggio - Arco diamante"/>
 		<entry key="BuildingPartName_FT_Door_7" translation="Porta del Villaggio - Cuore elegante"/>
 		<entry key="BuildingPartName_FT_Door_8" translation="Porta del Villaggio - Legno rinforzato"/>
-		<entry key="BuildingPartName_FT_Door_Castle_01" translation="Porta Castello doppia - Colonna alta arquata"/>
-		<entry key="BuildingPartName_FT_Door_Castle_02" translation="Porta Castello doppia - Colonna arquata"/>
+		<entry key="BuildingPartName_FT_Door_Castle_01" translation="Porta Castello doppia - Colonna alta arcuata"/>
+		<entry key="BuildingPartName_FT_Door_Castle_02" translation="Porta Castello doppia - Colonna arcuata"/>
 		<entry key="BuildingPartName_FT_Door_Castle_03" translation="Porta Castello doppia - Piccola Interna"/>
 		<entry key="BuildingPartName_FT_Door_Castle_04" translation="Porta Castello doppia - Ampia"/>
 		<entry key="BuildingPartName_FT_Door_Castle_05" translation="Porta Castello doppia - Arco acuto"/>
@@ -2745,14 +2745,14 @@
 		<entry key="BuildingPartName_PC_Signs_Feature_14" translation="Sagoma 14 - Traccia"/>
 		<entry key="BuildingPartName_PC_Signs_Glasses_Boys" translation="Insegna mista - Occhiali da Sole 1 piccola"/>
 		<entry key="BuildingPartName_PC_Signs_Glasses_Girls" translation="Insegna mista - Occhiali da Sole 2 piccola"/>
-		<entry key="BuildingPartName_PC_Signs_Graphic_Coaster" translation="Insegna mista - Coaster Loop Small Accesa"/>
+		<entry key="BuildingPartName_PC_Signs_Graphic_Coaster" translation="Insegna mista - Coaster Loop piccola Accesa"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Globe" translation="Insegna mista - Luce piccola globo"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Hand" translation="Insegna mista - Luce piccola mano"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Wings" translation="Insegna mista - Luce piccola ali"/>
 		<entry key="BuildingPartName_PC_Signs_RobotArm" translation="Insegna Sci-Fi - Braccio Robot"/>
 		<entry key="BuildingPartName_PC_Signs_Spaceship" translation="Insegna Sci-Fi - Navicella piccola"/>
-		<entry key="BuildingPartName_PC_ToiletSigns_MaleFemale" translation="Insegna Toilet uomo/donna - Grande"/>
-		<entry key="BuildingPartName_PC_ToiletSigns_Plate" translation="Insegna Toilet uomo/donna - Piccola"/>
+		<entry key="BuildingPartName_PC_ToiletSigns_MaleFemale" translation="Insegna Bagno uomo/donna - Grande"/>
+		<entry key="BuildingPartName_PC_ToiletSigns_Plate" translation="Insegna Bagno uomo/donna - Piccola"/>
 		<entry key="BuildingPartName_PC_Window" translation="Finestra rettangolare nera"/>
 		<entry key="BuildingPartName_PR_Awning_01" translation="Tenda pirata"/>
 		<entry key="BuildingPartName_PR_Bone" translation="Osso Grande"/>
@@ -2763,7 +2763,7 @@
 		<entry key="BuildingPartName_PR_Flag_02" translation="Bandiera nera Pirata"/>
 		<entry key="BuildingPartName_PR_Flag_03" translation="Bandiera rossa Pirata"/>
 		<entry key="BuildingPartName_PR_Flag_04" translation="Bandiera Union Jack"/>
-		<entry key="BuildingPartName_PR_Frieze_01" translation="Fregio di marmo  - Ruote piovra"/>
+		<entry key="BuildingPartName_PR_Frieze_01" translation="Fregio di marmo  - Ruota Piovra"/>
 		<entry key="BuildingPartName_PR_Frieze_02" translation="Fregio di marmo  - Teschio e spade"/>
 		<entry key="BuildingPartName_PR_IronRing" translation="Anello di ferro"/>
 		<entry key="BuildingPartName_PR_Lantern_01" translation="Lanterna tempesta"/>
@@ -4322,10 +4322,10 @@
 		<entry key="BuildingPartName_WT_Water_Lily" translation="Foglie Ninfea 2"/>
 		<entry key="BuildingPartName_WT_Water_Lily_Leaves" translation="Foglie Ninfea 1"/>
 		<!--C2_TrackElements-->
-		<entry key="Station_Type_station_gokarts_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_gokarts_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_gokarts_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_gokarts_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_gokarts_LeftRight" translation="Stazione con entrata a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_gokarts_RightLeft" translation="Stazione con entrata a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_gokarts_RightRight" translation="Stazione con entrata a destra e uscita a destra"/>
+		<entry key="Station_Type_station_gokarts_leftleft" translation="Stazione con entrata a sinistra e uscita a sinistra"/>
 		<entry key="TrackElementDesc_180TurnLeft" translation="Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementDesc_180TurnRight" translation="Gira il tracciato 180 gradi a destra."/>
 		<entry key="TrackElementDesc_CableHillRevBot" translation="Tira i treni al contrario lungo un pendio."/>
@@ -4946,9 +4946,9 @@
 		<entry key="BuildingPartDesc_PC_IMG_Mount_Wall" translation="Supporto per schermo."/>
 		<entry key="BuildingPartDesc_PC_IMG_Projector" translation="Un moderno proiettore con home theatre."/>
 		<entry key="BuildingPartDesc_PC_IMG_Scaffold" translation="Impalcatura di metallo con tavole di legno."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare" translation="Metal scaffolding."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare_Tall" translation="Metal scaffolding."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Tall" translation="Metal scaffolding with wooden boards."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare" translation="Impalcatura di metallo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare_Tall" translation="Impalcatura di metallo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Tall" translation="Impalcatura di metallo con tavole di legno."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m" translation="Schermo di proiezione, acceso"/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m_NonLit" translation="Schermo di proiezione."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_32m" translation="Schermo di proiezione, acceso"/>
@@ -5101,7 +5101,7 @@
 		<entry key="Blueprints_FestiveMedium04" translation="Casa Festosa 7"/>
 		<entry key="Blueprints_FestiveMedium04Desc" translation="Piena di gioia festosa!"/>
 		<entry key="Blueprints_HopTheGaps01" translation="Kinematica"/>
-		<entry key="Blueprints_HopTheGaps01Desc" translation="Uno schema per il coaster  Hop The Gaps"/>
+		<entry key="Blueprints_HopTheGaps01Desc" translation="Uno schema per il coaster Hop The Gaps"/>
 		<entry key="Blueprints_PC_EntranceLarge02" translation="Entrata Planet Coaster Grande 2"/>
 		<entry key="Blueprints_PC_EntranceLarge02Desc" translation="Ti aspetti più visitatori dal tuo bellissimo parco? Prova ad aggiornare la tua entrata principale in stile Planet Coaster!"/>
 		<entry key="Blueprints_PC_StaffBuilding" translation="Edificio Staff Planet Coaster"/>
@@ -5185,68 +5185,68 @@
 		<entry key="Blueprints_Zenith01" translation="Altitude"/>
 		<entry key="Blueprints_Zenith01Desc" translation="Uno schema per il coaster Zenith"/>
 		<!--C4_Career-->
-		<entry key="FanfareCareerSetUnlocked_DINO" translation="Will you give the lovable T. Rex a hand? He's only got short arms!"/>
-		<entry key="FanfarePackCompletion_DINO_1" translation="You collected all the Bronze stars for 'Gulpee's Island Paradise'."/>
-		<entry key="FanfarePackCompletion_DINO_2" translation="You collected all the Silver stars for 'Gulpee's Island Paradise'."/>
-		<entry key="FanfarePackCompletion_DINO_3" translation="You collected all the Gold stars for 'Gulpee's Island Paradise'."/>
-		<entry key="FanfarePackCompletion_DINO_All" translation="You have completed every objective in 'Gulpee's Island Paradise'!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_DIG1" translation="Gulpee wants to turn this remote beachfront into a theme park, but he has no idea how to go about it. Can you help? It’s going to take skilful management and a full staff roster to keep everything running smoothly."/>
-		<entry key="FrontEndMenu_ScenarioName_DIG1" translation="Gulpee's Island Paradise"/>
-		<entry key="FrontEndMenu_SetDescription_DINO" translation="Gulpee makes great sodas but he isn’t great at building theme parks. Can you help him out?"/>
-		<entry key="FrontEndMenu_SetName_DINO" translation="Gulpee's Island Paradise"/>
+		<entry key="FanfareCareerSetUnlocked_DINO" translation="Darai una mano all'amabile T-Rex? Ha le braccia corte!"/>
+		<entry key="FanfarePackCompletion_DINO_1" translation="Hai ottenuto tutte le Stelle di Bronzo per 'Isola Paradiso di Gulpee'."/>
+		<entry key="FanfarePackCompletion_DINO_2" translation="Hai ottenuto tutte le Stelle d'Argento per 'Isola Paradiso di Gulpee'."/>
+		<entry key="FanfarePackCompletion_DINO_3" translation="Hai ottenuto tutte le Stelle d'Oro per 'Isola Paradiso di Gulpee'."/>
+		<entry key="FanfarePackCompletion_DINO_All" translation="Hai ottenuto tutte le Stelle di Bronzo per 'Isola Paradiso di Gulpee'!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_DIG1" translation="Gulpee vuole trasformare questa spiaggia remota in un parco a tema, ma non ha idea di come farlo. Puoi aiutarlo? Ci vorrà un'abile gestione e un ottimo gruppo staff per far andare tutto liscio."/>
+		<entry key="FrontEndMenu_ScenarioName_DIG1" translation="Isola Paradiso di Gulpee"/>
+		<entry key="FrontEndMenu_SetDescription_DINO" translation="Gulpee fa delle ottime bibite ma non è bravo a costruire parchi a tema. Puoi aiutarlo?"/>
+		<entry key="FrontEndMenu_SetName_DINO" translation="Isola Paradiso di Gulpee"/>
 		<!--C4_Coasters-->
 		<entry key="Coaster_CCade" translation="Cascade"/>
-		<entry key="Coaster_CCade_Desc" translation="A coaster that combines a boat ride with a roller coaster."/>
+		<entry key="Coaster_CCade_Desc" translation="un Coaster che mette insieme un giro in barca con una Montagna Russa."/>
 		<entry key="Coaster_HTG" translation="Hop The Gaps"/>
-		<entry key="Coaster_HTG_Desc" translation="Classic wooden coaster with only two sets of wheels."/>
-		<entry key="Coaster_Type_CCade" translation="Water Coaster"/>
-		<entry key="Coaster_Type_HopTheGaps" translation="Wooden - SideFriction"/>
-		<entry key="Coaster_Type_ZenithPowered" translation="Launched - Hydraulic"/>
+		<entry key="Coaster_HTG_Desc" translation="Classica Montagna Russa di legno con soli due set di ruote."/>
+		<entry key="Coaster_Type_CCade" translation="Montagna Russa Acquatica"/>
+		<entry key="Coaster_Type_HopTheGaps" translation="In Legno - Attrito Laterale"/>
+		<entry key="Coaster_Type_ZenithPowered" translation="Lanciato - Idraulico"/>
 		<entry key="Coaster_ZenithPowered" translation="Zenith"/>
-		<entry key="Coaster_ZenithPowered_Desc" translation="Steel accelerator coaster that is propelled by a hydraulic launch mechanism."/>
-		<entry key="Research_Hint_Coaster_HopTheGaps" translation="Runaway Coaster"/>
-		<entry key="Research_Hint_Coaster_Zenith" translation="Pinnacle of Speed"/>
+		<entry key="Coaster_ZenithPowered_Desc" translation="Montagna Russa accelerata in acciaio spinta da un meccanismo di lancio iodraulico."/>
+		<entry key="Research_Hint_Coaster_HopTheGaps" translation="Fuga in Montagne Russe"/>
+		<entry key="Research_Hint_Coaster_Zenith" translation="Picco di Velocità"/>
 		<entry key="Research_Revealed_Coaster_HopTheGaps" translation="Hop The Gaps"/>
 		<entry key="Research_Revealed_Coaster_Zenith" translation="Zenith"/>
 		<!--C4_Facilities-->
-		<entry key="ShopItem_Extra_Bacon" translation="Bacon"/>
-		<entry key="ShopItem_Extra_BerryFlavouring" translation="Berry Flavouring"/>
-		<entry key="ShopItem_Extra_Caffiene" translation="Extra Caffeine"/>
-		<entry key="ShopItem_Extra_CaramelShot" translation="Caramel Shot"/>
-		<entry key="ShopItem_Extra_ChocolatePieces" translation="Chocolate Pieces"/>
-		<entry key="ShopItem_Extra_Cinnamon" translation="Cinnamon"/>
-		<entry key="ShopItem_Extra_CurrySauce" translation="Curry Sauce"/>
-		<entry key="ShopItem_Extra_LemonSlice" translation="Lemon Slice"/>
-		<entry key="ShopItem_Extra_Lemonade" translation="Lemonade"/>
-		<entry key="ShopItem_Extra_LimeCordial" translation="Lime Cordial"/>
-		<entry key="ShopItem_Extra_MapleSyrup" translation="Maple Syrup"/>
-		<entry key="ShopItem_Extra_MixedFlavour" translation="Mixed Flavour"/>
-		<entry key="ShopItem_Extra_Olives" translation="Olives"/>
-		<entry key="ShopItem_Extra_PineapplePieces" translation="Pineapple Pieces"/>
-		<entry key="ShopItem_Extra_ToffeeSauce" translation="Toffee Sauce"/>
-		<entry key="ShopItem_Extra_Tomatoes" translation="Tomatoes"/>
-		<entry key="ShopItem_Extra_TropicalFlavouring" translation="Tropical Flavouring"/>
+		<entry key="ShopItem_Extra_Bacon" translation="Pancetta"/>
+		<entry key="ShopItem_Extra_BerryFlavouring" translation="Gusto Fragola"/>
+		<entry key="ShopItem_Extra_Caffiene" translation="Caffeina Extra"/>
+		<entry key="ShopItem_Extra_CaramelShot" translation="Caramello Liquido"/>
+		<entry key="ShopItem_Extra_ChocolatePieces" translation="Pezzi di Cioccolato"/>
+		<entry key="ShopItem_Extra_Cinnamon" translation="Cannella"/>
+		<entry key="ShopItem_Extra_CurrySauce" translation="Salsa Curry"/>
+		<entry key="ShopItem_Extra_LemonSlice" translation="Fetta di Limone"/>
+		<entry key="ShopItem_Extra_Lemonade" translation="Limonata"/>
+		<entry key="ShopItem_Extra_LimeCordial" translation="Succo di Lime"/>
+		<entry key="ShopItem_Extra_MapleSyrup" translation="Sciroppo d'Acero"/>
+		<entry key="ShopItem_Extra_MixedFlavour" translation="Gusto Misto"/>
+		<entry key="ShopItem_Extra_Olives" translation="Olive"/>
+		<entry key="ShopItem_Extra_PineapplePieces" translation="Pezzi d'Ananas"/>
+		<entry key="ShopItem_Extra_ToffeeSauce" translation="Salsa Toffee"/>
+		<entry key="ShopItem_Extra_Tomatoes" translation="Pomodori"/>
+		<entry key="ShopItem_Extra_TropicalFlavouring" translation="Gusto Tropicale"/>
 		<entry key="ShopItem_Extra_Wafer" translation="Wafer"/>
-		<entry key="ShopItem_Extra_WaterIce" translation="Ice"/>
+		<entry key="ShopItem_Extra_WaterIce" translation="Ghiaccio"/>
 		<!--C4_FlatRides-->
 		<entry key="FR_MonteLeone" translation="Monte Leone"/>
-		<entry key="FR_MonteLeone_Desc" translation="Ride under cover on this vintage family ride.&#10;Gentle Ride"/>
+		<entry key="FR_MonteLeone_Desc" translation="Corri al coperto in questa attrazione vintage per famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_MonteLeone_Prefix" translation="Monte Leone"/>
 		<entry key="FR_WHorn" translation="Weisshorn"/>
-		<entry key="FR_WHorn_Desc" translation="Ride under cover on this vintage family ride.&#10;Gentle Ride"/>
+		<entry key="FR_WHorn_Desc" translation="Corri al coperto in questa attrazione vintage per famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_WHorn_Prefix" translation="Weisshorn"/>
-		<entry key="Research_Hint_FR_MonteLeone" translation="Under cover"/>
-		<entry key="Research_Hint_FR_WHorn" translation="Under cover"/>
+		<entry key="Research_Hint_FR_MonteLeone" translation="Al coperto"/>
+		<entry key="Research_Hint_FR_WHorn" translation="Al coperto"/>
 		<entry key="Research_Revealed_FR_MonteLeone" translation="Monte Leone"/>
 		<entry key="Research_Revealed_FR_WHorn" translation="Weisshorn"/>
-		<entry key="Sequence_FR_MonteLeone_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_MonteLeone_SpinCanopy" translation="Spin with Canopy"/>
-		<entry key="Sequence_FR_MonteLeone_SpinReverse" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_MonteLeone_SpinReverseCanopy" translation="Reverse Spin with Canopy"/>
-		<entry key="Sequence_FR_WHorn_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_WHorn_SpinCanopy" translation="Spin with Canopy"/>
-		<entry key="Sequence_FR_WHorn_SpinReverse" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_WHorn_SpinReverseCanopy" translation="Reverse Spin with Canopy"/>
+		<entry key="Sequence_FR_MonteLeone_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_MonteLeone_SpinCanopy" translation="Rotazione con Calotta"/>
+		<entry key="Sequence_FR_MonteLeone_SpinReverse" translation="Rotazione Inversa"/>
+		<entry key="Sequence_FR_MonteLeone_SpinReverseCanopy" translation="Rotazione Inversa con Calotta"/>
+		<entry key="Sequence_FR_WHorn_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_WHorn_SpinCanopy" translation="Rotazione con Calotta"/>
+		<entry key="Sequence_FR_WHorn_SpinReverse" translation="Rotazione Inversa"/>
+		<entry key="Sequence_FR_WHorn_SpinReverseCanopy" translation="Rotazione Inversa con Calotta"/>
 		<!--C4_FrontEndMenu-->
 		<entry key="FrontEndMenu_MyParksScenario" translation="I miei Parchi"/>
 		<entry key="FrontEndMenu_MyParksScenarioDetails" translation="Apri un Parco esistente come Nuovo Scenario"/>
@@ -5257,16 +5257,16 @@
 		<entry key="FrontEndMenu_ScenarioCreator" translation="Editor Scenario"/>
 		<entry key="FrontEndMenu_ScenarioCreatorDetails" translation="Crea o Modifica i tuoi Scenari personalizzati"/>
 		<!--C4_InfoPanel_ModularScenery-->
-		<entry key="CrowdDiscomfort_Discomfort" translation="Discomfort"/>
-		<entry key="CrowdDiscomfort_Label" translation="Crowd Repulsor Settings"/>
-		<entry key="CrowdObstacle_Cube" translation="Cube"/>
-		<entry key="CrowdObstacle_Height" translation="Height"/>
-		<entry key="CrowdObstacle_Label" translation="Crowd Blocker Settings"/>
-		<entry key="CrowdObstacle_Radius" translation="Radius"/>
-		<entry key="CrowdObstacle_Shape" translation="Shape"/>
-		<entry key="CrowdObstacle_Shape_ToolTip" translation="The desired shape of this Crowd Blocker"/>
-		<entry key="CrowdObstacle_Sphere" translation="Sphere"/>
-		<entry key="CrowdObstacle_Width" translation="Width"/>
+		<entry key="CrowdDiscomfort_Discomfort" translation="Scomodità"/>
+		<entry key="CrowdDiscomfort_Label" translation="Impostazioni Respingi Folla"/>
+		<entry key="CrowdObstacle_Cube" translation="Cubo"/>
+		<entry key="CrowdObstacle_Height" translation="Altezza"/>
+		<entry key="CrowdObstacle_Label" translation="Impostazioni Blocca Folla"/>
+		<entry key="CrowdObstacle_Radius" translation="Raggio"/>
+		<entry key="CrowdObstacle_Shape" translation="Forma"/>
+		<entry key="CrowdObstacle_Shape_ToolTip" translation="La forma desiderata per questo Blocca Folla"/>
+		<entry key="CrowdObstacle_Sphere" translation="Sfera"/>
+		<entry key="CrowdObstacle_Width" translation="Larghezza"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Advertised Destinations"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinations advertised by this scenery piece"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Locate Destination"/>
@@ -5284,54 +5284,54 @@
 		<entry key="PopUp_AddGuestDestinations_TooManyItems" translation="Too many destinations to connect"/>
 		<!--C4_ObjectBrowser-->
 		<entry key="Browser_Cat_Shop_Management" translation="Gestione Staff"/>
-		<entry key="Browser_SubCat_PathExtra_Picnic" translation="Picnic Benches"/>
+		<entry key="Browser_SubCat_PathExtra_Picnic" translation="Panche Picnic"/>
 		<!--C4_ParkManagement-->
-		<entry key="EditorLoan10000Long10" translation="Long Loan, $10000"/>
-		<entry key="EditorLoan10000Long20" translation="Long Loan, $10000"/>
-		<entry key="EditorLoan10000Long30" translation="Long Loan, $10000"/>
-		<entry key="EditorLoan10000Short10" translation="Short Loan, $10000"/>
-		<entry key="EditorLoan10000Short20" translation="Short Loan, $10000"/>
-		<entry key="EditorLoan10000Short30" translation="Short Loan, $10000"/>
-		<entry key="EditorLoan1000Long10" translation="Long Loan, $1000"/>
-		<entry key="EditorLoan1000Long20" translation="Long Loan, $1000"/>
-		<entry key="EditorLoan1000Long30" translation="Long Loan, $1000"/>
-		<entry key="EditorLoan1000Short10" translation="Short Loan, $1000"/>
-		<entry key="EditorLoan1000Short20" translation="Short Loan, $1000"/>
-		<entry key="EditorLoan1000Short30" translation="Short Loan, $1000"/>
-		<entry key="EditorLoan20000Long10" translation="Long Loan, $20000"/>
-		<entry key="EditorLoan20000Long20" translation="Long Loan, $20000"/>
-		<entry key="EditorLoan20000Long30" translation="Long Loan, $20000"/>
-		<entry key="EditorLoan20000Short10" translation="Short Loan, $20000"/>
-		<entry key="EditorLoan20000Short20" translation="Short Loan, $20000"/>
-		<entry key="EditorLoan20000Short30" translation="Short Loan, $20000"/>
-		<entry key="EditorLoan2000Long10" translation="Long Loan, $2000"/>
-		<entry key="EditorLoan2000Long20" translation="Long Loan, $2000"/>
-		<entry key="EditorLoan2000Long30" translation="Long Loan, $2000"/>
-		<entry key="EditorLoan2000Short10" translation="Short Loan, $2000"/>
-		<entry key="EditorLoan2000Short20" translation="Short Loan, $2000"/>
-		<entry key="EditorLoan2000Short30" translation="Short Loan, $2000"/>
-		<entry key="EditorLoan50000Long10" translation="Long Loan, $50000"/>
-		<entry key="EditorLoan50000Long20" translation="Long Loan, $50000"/>
-		<entry key="EditorLoan50000Long30" translation="Long Loan, $50000"/>
-		<entry key="EditorLoan50000Short10" translation="Short Loan, $50000"/>
-		<entry key="EditorLoan50000Short20" translation="Short Loan, $50000"/>
-		<entry key="EditorLoan50000Short30" translation="Short Loan, $50000"/>
-		<entry key="EditorLoan5000Long10" translation="Long Loan, $5000"/>
-		<entry key="EditorLoan5000Long20" translation="Long Loan, $5000"/>
-		<entry key="EditorLoan5000Long30" translation="Long Loan, $5000"/>
-		<entry key="EditorLoan5000Short10" translation="Short Loan, $5000"/>
-		<entry key="EditorLoan5000Short20" translation="Short Loan, $5000"/>
-		<entry key="EditorLoan5000Short30" translation="Short Loan, $5000"/>
-		<entry key="EditorLoanCategory1" translation="Short Loans"/>
-		<entry key="EditorLoanCategory2" translation="Long Loans"/>
-		<entry key="EditorLoanCategory3" translation="Challenge Loans"/>
-		<entry key="EditorLoanCategory4" translation="Miscellaneous Loans"/>
-		<entry key="EditorLoanChallenge1000" translation="Challenge Loan, $1000"/>
-		<entry key="EditorLoanChallenge10000" translation="Challenge Loan, $10000"/>
-		<entry key="EditorLoanChallenge2000" translation="Challenge Loan, $2000"/>
-		<entry key="EditorLoanChallenge3000" translation="Challenge Loan, $3000"/>
-		<entry key="EditorLoanChallenge5000" translation="Challenge Loan, $5000"/>
-		<entry key="EditorLoanLongTermDebt" translation="Long Term Debt, $100000"/>
+		<entry key="EditorLoan10000Long10" translation="Prestito Lungo, $10000"/>
+		<entry key="EditorLoan10000Long20" translation="Prestito Lungo, $10000"/>
+		<entry key="EditorLoan10000Long30" translation="Prestito Lungo, $10000"/>
+		<entry key="EditorLoan10000Short10" translation="Prestito Breve, $10000"/>
+		<entry key="EditorLoan10000Short20" translation="Prestito Breve, $10000"/>
+		<entry key="EditorLoan10000Short30" translation="Prestito Breve, $10000"/>
+		<entry key="EditorLoan1000Long10" translation="Prestito Lungo, $1000"/>
+		<entry key="EditorLoan1000Long20" translation="Prestito Lungo, $1000"/>
+		<entry key="EditorLoan1000Long30" translation="Prestito Lungo, $1000"/>
+		<entry key="EditorLoan1000Short10" translation="Prestito Breve, $1000"/>
+		<entry key="EditorLoan1000Short20" translation="Prestito Breve, $1000"/>
+		<entry key="EditorLoan1000Short30" translation="Prestito Breve, $1000"/>
+		<entry key="EditorLoan20000Long10" translation="Prestito Lungo, $20000"/>
+		<entry key="EditorLoan20000Long20" translation="Prestito Lungo, $20000"/>
+		<entry key="EditorLoan20000Long30" translation="Prestito Lungo, $20000"/>
+		<entry key="EditorLoan20000Short10" translation="Prestito Breve, $20000"/>
+		<entry key="EditorLoan20000Short20" translation="Prestito Breve, $20000"/>
+		<entry key="EditorLoan20000Short30" translation="Prestito Breve, $20000"/>
+		<entry key="EditorLoan2000Long10" translation="Prestito Lungo, $2000"/>
+		<entry key="EditorLoan2000Long20" translation="Prestito Lungo, $2000"/>
+		<entry key="EditorLoan2000Long30" translation="Prestito Lungo, $2000"/>
+		<entry key="EditorLoan2000Short10" translation="Prestito Breve, $2000"/>
+		<entry key="EditorLoan2000Short20" translation="Prestito Breve, $2000"/>
+		<entry key="EditorLoan2000Short30" translation="Prestito Breve, $2000"/>
+		<entry key="EditorLoan50000Long10" translation="Prestito Lungo, $50000"/>
+		<entry key="EditorLoan50000Long20" translation="Prestito Lungo, $50000"/>
+		<entry key="EditorLoan50000Long30" translation="Prestito Lungo, $50000"/>
+		<entry key="EditorLoan50000Short10" translation="Prestito Breve, $50000"/>
+		<entry key="EditorLoan50000Short20" translation="Prestito Breve, $50000"/>
+		<entry key="EditorLoan50000Short30" translation="Prestito Breve, $50000"/>
+		<entry key="EditorLoan5000Long10" translation="Prestito Lungo, $5000"/>
+		<entry key="EditorLoan5000Long20" translation="Prestito Lungo, $5000"/>
+		<entry key="EditorLoan5000Long30" translation="Prestito Lungo, $5000"/>
+		<entry key="EditorLoan5000Short10" translation="Prestito Breve, $5000"/>
+		<entry key="EditorLoan5000Short20" translation="Prestito Breve, $5000"/>
+		<entry key="EditorLoan5000Short30" translation="Prestito Breve, $5000"/>
+		<entry key="EditorLoanCategory1" translation="Prestiti Brevi"/>
+		<entry key="EditorLoanCategory2" translation="Prestiti Lunghi"/>
+		<entry key="EditorLoanCategory3" translation="Prestiti Sfida"/>
+		<entry key="EditorLoanCategory4" translation="Prestiti Vari"/>
+		<entry key="EditorLoanChallenge1000" translation="Prestito Sfida, $1000"/>
+		<entry key="EditorLoanChallenge10000" translation="Prestito Sfida, $10000"/>
+		<entry key="EditorLoanChallenge2000" translation="Prestito Sfida, $2000"/>
+		<entry key="EditorLoanChallenge3000" translation="Prestito Sfida, $3000"/>
+		<entry key="EditorLoanChallenge5000" translation="Prestito Sfida, $5000"/>
+		<entry key="EditorLoanLongTermDebt" translation="Debito a lungo termine, $100000"/>
 		<entry key="ParkManagement_StaffBuilding_CapacityCost" translation="Capacity Cost"/>
 		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacity"/>
 		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Confirm: {Value:currency}"/>
