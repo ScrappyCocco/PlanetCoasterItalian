@@ -5189,8 +5189,8 @@
 		<entry key="FanfarePackCompletion_DINO_1" translation="Hai ottenuto tutte le Stelle di Bronzo per 'Isola Paradiso di Gulpee'."/>
 		<entry key="FanfarePackCompletion_DINO_2" translation="Hai ottenuto tutte le Stelle d'Argento per 'Isola Paradiso di Gulpee'."/>
 		<entry key="FanfarePackCompletion_DINO_3" translation="Hai ottenuto tutte le Stelle d'Oro per 'Isola Paradiso di Gulpee'."/>
-		<entry key="FanfarePackCompletion_DINO_All" translation="Hai ottenuto tutte le Stelle di Bronzo per 'Isola Paradiso di Gulpee'!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_DIG1" translation="Gulpee vuole trasformare questa spiaggia remota in un parco a tema, ma non ha idea di come farlo. Puoi aiutarlo? Ci vorrà un'abile gestione e un ottimo gruppo staff per far andare tutto liscio."/>
+		<entry key="FanfarePackCompletion_DINO_All" translation="Hai completato ogni obiettivo per 'Isola Paradiso di Gulpee'!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_DIG1" translation="Gulpee vuole trasformare questa spiaggia remota in un parco a tema, ma non ha idea di come farlo. Puoi aiutarlo? Ci vorrà un'abile gestione e un'ottima scelta di staff per far andare tutto liscio."/>
 		<entry key="FrontEndMenu_ScenarioName_DIG1" translation="Isola Paradiso di Gulpee"/>
 		<entry key="FrontEndMenu_SetDescription_DINO" translation="Gulpee fa delle ottime bibite ma non è bravo a costruire parchi a tema. Puoi aiutarlo?"/>
 		<entry key="FrontEndMenu_SetName_DINO" translation="Isola Paradiso di Gulpee"/>
@@ -5332,25 +5332,25 @@
 		<entry key="EditorLoanChallenge3000" translation="Prestito Sfida, $3000"/>
 		<entry key="EditorLoanChallenge5000" translation="Prestito Sfida, $5000"/>
 		<entry key="EditorLoanLongTermDebt" translation="Debito a lungo termine, $100000"/>
-		<entry key="ParkManagement_StaffBuilding_CapacityCost" translation="Capacity Cost"/>
-		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacity"/>
-		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Confirm: {Value:currency}"/>
-		<entry key="ParkManagement_StaffBuilding_ConfirmTooltipLabel" translation="Staff Building Change:"/>
-		<entry key="ParkManagement_StaffBuilding_Description" translation="A building within which staff can rest and recover and various staff perks can be selected and applied."/>
-		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="A building within which staff can rest and recover and various staff perks can be selected and applied.&#10;The need for staff to take a break can be disabled in the options"/>
-		<entry key="ParkManagement_StaffBuilding_EnergyDisabledHeading" translation="Staff Building - Staff energy features are disabled in this parks and these buildings will be unused."/>
-		<entry key="ParkManagement_StaffBuilding_EnergyDisabledNoItems" translation="Staff energy features are disabled. Staff will not need a staff building."/>
-		<entry key="ParkManagement_StaffBuilding_EnergyDisabledToolTip" translation="Staff energy features are disabled in this park."/>
-		<entry key="ParkManagement_StaffBuilding_Heading" translation="Staff Building"/>
-		<entry key="ParkManagement_StaffBuilding_MonthlyRunningCostHeading" translation="Monthly Running Cost"/>
-		<entry key="ParkManagement_StaffBuilding_NameHeading" translation="Name"/>
-		<entry key="ParkManagement_StaffBuilding_NoItems" translation="You have no staff buildings"/>
-		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Perk Cost"/>
-		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Perk"/>
-		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Perk"/>
-		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff Resting"/>
-		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Status"/>
-		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Total Cost"/>
+		<entry key="ParkManagement_StaffBuilding_CapacityCost" translation="Costo Capacità"/>
+		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacità"/>
+		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Conferma: {Value:currency}"/>
+		<entry key="ParkManagement_StaffBuilding_ConfirmTooltipLabel" translation="Cambia Edificio Staff:"/>
+		<entry key="ParkManagement_StaffBuilding_Description" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati."/>
+		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati.&#10;La necessità per lo staff di prendere un pò d'aria  puà essere disabilitata nelle opzioni"/>
+		<entry key="ParkManagement_StaffBuilding_EnergyDisabledHeading" translation="Edificio Staff - Le caratteristiche di energia dello Staff sono disabilitate in questi parchi e gli edifici non verranno utilizzati."/>
+		<entry key="ParkManagement_StaffBuilding_EnergyDisabledNoItems" translation="Le caratteristiche di energia dello Staff sono disabilitate. Lo Staff non necessita di un Edificio Staff."/>
+		<entry key="ParkManagement_StaffBuilding_EnergyDisabledToolTip" translation="Le caratteristiche di energia dello Staff sono disabilitate in questo parco."/>
+		<entry key="ParkManagement_StaffBuilding_Heading" translation="Edificio Staff"/>
+		<entry key="ParkManagement_StaffBuilding_MonthlyRunningCostHeading" translation="Costo Esercizio Mensile"/>
+		<entry key="ParkManagement_StaffBuilding_NameHeading" translation="Nome"/>
+		<entry key="ParkManagement_StaffBuilding_NoItems" translation="Non hai Edifici Staff"/>
+		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Costo Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff a Riposo"/>
+		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Stato"/>
+		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Costo Totale"/>
 		<entry key="ScenarioEditor_GuestHappiness_Tooltip" translation="Rate at which the guest happiness declines."/>
 		<entry key="ScenarioEditor_KeepGuests_Tooltip" translation="If deselected all guests will be cleared from the scenario when it is first loaded."/>
 		<entry key="ScenarioEditor_OpeningTimes_Tooltip" translation="Opening and closing times determine the light levels within your park."/>
