@@ -4846,7 +4846,7 @@
 		<entry key="PopUp_DisplaySpeaker_Remove_Tooltip" translation="Scollega Altoparlante"/>
 		<!--C3_Research-->
 		<entry key="Research_Hint_Coaster_Bolt" translation="Raddoppia il divertimento"/>
-		<entry key="Research_Hint_Coaster_CCade" translation="Is it a water ride? Is it a coaster?"/>
+		<entry key="Research_Hint_Coaster_CCade" translation="E' un'Attrazione Acquatica? E' una Montagna Russa?"/>
 		<entry key="Research_Hint_Coaster_Degen" translation="Rinato per il loop"/>
 		<entry key="Research_Hint_Coaster_Gnarler" translation="Materiali naturali"/>
 		<entry key="Research_Hint_Coaster_ManicMouse" translation="Piccolo e Pazzo."/>
@@ -5267,21 +5267,21 @@
 		<entry key="CrowdObstacle_Shape_ToolTip" translation="La forma desiderata per questo Blocca Folla"/>
 		<entry key="CrowdObstacle_Sphere" translation="Sfera"/>
 		<entry key="CrowdObstacle_Width" translation="Larghezza"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Advertised Destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinations advertised by this scenery piece"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Locate Destination"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Advertised Destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Remove all advertised destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Remove Destination"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinations" translation="Set Advertised Destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinationsToolTip" translation="Multi-select guest destinations to be advertised by this scenery piece"/>
-		<entry key="PopUp_AddGuestDestinations_ConfirmSelection" translation="Connect destinations to advert"/>
-		<entry key="PopUp_AddGuestDestinations_CurrentlySelected" translation="Currently Selected Destinations"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinazioni consigliate da questo elemento scenario"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Localizza Destinazione"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Rimuovi tutte le Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Rimuovi Destinazioni"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinations" translation="Imposta Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinationsToolTip" translation="Seleziona più destinazioni per i visitatori da consigliare con questo elemento scenario"/>
+		<entry key="PopUp_AddGuestDestinations_ConfirmSelection" translation="Collega destinazioni da consigliare"/>
+		<entry key="PopUp_AddGuestDestinations_CurrentlySelected" translation="Destinazioni selezionate al momento"/>
 		<entry key="PopUp_AddGuestDestinations_CurrentlySelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_AddGuestDestinations_Description" translation="Destination Selector"/>
-		<entry key="PopUp_AddGuestDestinations_Header" translation="Destination Selector"/>
-		<entry key="PopUp_AddGuestDestinations_Title" translation="Destination Selector"/>
-		<entry key="PopUp_AddGuestDestinations_TooManyItems" translation="Too many destinations to connect"/>
+		<entry key="PopUp_AddGuestDestinations_Description" translation="Selettore Destinazioni"/>
+		<entry key="PopUp_AddGuestDestinations_Header" translation="Selettore Destinazioni"/>
+		<entry key="PopUp_AddGuestDestinations_Title" translation="Selettore Destinazioni"/>
+		<entry key="PopUp_AddGuestDestinations_TooManyItems" translation="Troppe destinazioni da collegare"/>
 		<!--C4_ObjectBrowser-->
 		<entry key="Browser_Cat_Shop_Management" translation="Gestione Staff"/>
 		<entry key="Browser_SubCat_PathExtra_Picnic" translation="Panche Picnic"/>
@@ -5351,158 +5351,158 @@
 		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff a Riposo"/>
 		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Stato"/>
 		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Costo Totale"/>
-		<entry key="ScenarioEditor_GuestHappiness_Tooltip" translation="Rate at which the guest happiness declines."/>
-		<entry key="ScenarioEditor_KeepGuests_Tooltip" translation="If deselected all guests will be cleared from the scenario when it is first loaded."/>
-		<entry key="ScenarioEditor_OpeningTimes_Tooltip" translation="Opening and closing times determine the light levels within your park."/>
-		<entry key="ScenarioEditor_ParkAttraciveness_Tooltip" translation="Bonus to guest spawn rate based on the park rating."/>
-		<entry key="ScenarioEditor_ParkHeight_Tooltip" translation="Park height determines how high you can build your roller coasters."/>
-		<entry key="ScenarioEditor_ParkRatingThreshold_Tooltip" translation="Minimum Park Rating before staff energy loss reaches full effect."/>
-		<entry key="ScenarioEditor_Refunds_Tooltip" translation="This multiplier determines what amount of a ride or scenery items cost is refunded when it is deleted."/>
-		<entry key="ScenarioEditor_ResearchAvailable_Tooltip" translation="These items will be unlocked at the start of the scenario."/>
-		<entry key="ScenarioEditor_ResearchPresets_Tooltip" translation="Replace all research with pre-set values."/>
-		<entry key="ScenarioEditor_ResearchResearchable_Tooltip" translation="These items will be locked at the start of the scenario."/>
-		<entry key="ScenarioEditor_ResearchUnavailable_Tooltip" translation="These items will not be available in the scenario."/>
-		<entry key="ScenarioEditor_StaffFeatures_Tooltip" translation="Staff energy and staff buildings."/>
-		<entry key="ScenarioEditor_StartingMoney_Tooltip" translation="The scenario will start with this amount of money, plus any ongoing loans."/>
-		<entry key="ScenarioEditor_TrackRefunds_Tooltip" translation="This multiplier determines what amount of a track or tracked rides cost is refunded when it is deleted."/>
-		<entry key="ScenarioEditor_VandalGroupThreshold_Tooltip" translation="Happiness rating at which vandals will commit crimes."/>
-		<entry key="ScenarioEditor_VandalSpawnChance_Tooltip" translation="Chance that each new group of guests will spawn as vandals."/>
-		<entry key="Shop_Status_Unstaffed" translation="Unstaffed"/>
+		<entry key="ScenarioEditor_GuestHappiness_Tooltip" translation="Velocità con cui diminuisce la felicità dei visitatori."/>
+		<entry key="ScenarioEditor_KeepGuests_Tooltip" translation="Se deselezionato tutti i visitatori verranno eliminati dallo scenario al primo caricamento."/>
+		<entry key="ScenarioEditor_OpeningTimes_Tooltip" translation="I tempi di apertuta e chiusura determinano i livelli di illuminazione nel tuo parco."/>
+		<entry key="ScenarioEditor_ParkAttraciveness_Tooltip" translation="Bonus al ritmo visitatori in arrivo basato sulla valutazione del parco."/>
+		<entry key="ScenarioEditor_ParkHeight_Tooltip" translation="L'altezza del parco determina quanto in alto puoi costruire le tue montagne russe."/>
+		<entry key="ScenarioEditor_ParkRatingThreshold_Tooltip" translation="Valutazione Parco Minima prima che la perdita di energia dello staff raggiunga l'effetto completo."/>
+		<entry key="ScenarioEditor_Refunds_Tooltip" translation="Questa percentuale determina la cifra rimborsata quando un'attrazione o un elemento scenario vengono cancellati."/>
+		<entry key="ScenarioEditor_ResearchAvailable_Tooltip" translation="Questi elementi verranno sbloccati all'inizio dello scenario."/>
+		<entry key="ScenarioEditor_ResearchPresets_Tooltip" translation="Sostituisci tutte le ricerche con valori pre-impostati."/>
+		<entry key="ScenarioEditor_ResearchResearchable_Tooltip" translation="Questi elementi verranno bloccati all'inizio dello scenario."/>
+		<entry key="ScenarioEditor_ResearchUnavailable_Tooltip" translation="Questi elementi non saranno disponibili nello scenario."/>
+		<entry key="ScenarioEditor_StaffFeatures_Tooltip" translation="Energia Staff ed Edifici Staff."/>
+		<entry key="ScenarioEditor_StartingMoney_Tooltip" translation="Lo scenario comincerà con questa quantità di denaro, più ogni prestito in atto."/>
+		<entry key="ScenarioEditor_TrackRefunds_Tooltip" translation="Questa percentuale determina la cifra rimborsata quando un percorso o un'attrazione a circuito vengono cancellati."/>
+		<entry key="ScenarioEditor_VandalGroupThreshold_Tooltip" translation="Soglia di felicità sotto la quale i vandali commetteranno crimini."/>
+		<entry key="ScenarioEditor_VandalSpawnChance_Tooltip" translation="Probabilità per cui ogni nuovo gruppo di visitatori sarà costituito da vandali."/>
+		<entry key="Shop_Status_Unstaffed" translation="Senza Staff"/>
 		<!--C4_ScenarioEditor-->
-		<entry key="ScenarioEditor_AcessButtonTooltip" translation="Scenario Editor"/>
-		<entry key="ScenarioEditor_AllowCoasterRestrictionToggle" translation="Allow the player to disable track restrictions."/>
-		<entry key="ScenarioEditor_Crime_AllowPlayerChange" translation="Allow the Player to Change Security Features"/>
-		<entry key="ScenarioEditor_Crime_Crime" translation="Crime"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_Easy" translation="Easy"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_Hard" translation="Hard"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_VeryHard" translation="Very Hard"/>
-		<entry key="ScenarioEditor_Crime_GuardDetectionSpotMultip" translation="Guard Detection - Spot chance multiplier"/>
-		<entry key="ScenarioEditor_Crime_GuardPaySpotMultip" translation="Guard Monthly Pay - Spot chance multiplier"/>
-		<entry key="ScenarioEditor_Crime_MaxPickpockets" translation="Max. Pickpockets"/>
-		<entry key="ScenarioEditor_Crime_MinPickpockets" translation="Min. Pickpockets per 1000 Guests"/>
+		<entry key="ScenarioEditor_AcessButtonTooltip" translation="Editor Scenario"/>
+		<entry key="ScenarioEditor_AllowCoasterRestrictionToggle" translation="Permetti al Giocatore di disabilitare le restrizioni ai percorsi."/>
+		<entry key="ScenarioEditor_Crime_AllowPlayerChange" translation="Permetti al Giocatore di cambiare le funzionalità della Sicurezza"/>
+		<entry key="ScenarioEditor_Crime_Crime" translation="Crimine"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_Easy" translation="Facile"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_Hard" translation="Difficile"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_Medium" translation="Medio"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_VeryHard" translation="Molto Difficile"/>
+		<entry key="ScenarioEditor_Crime_GuardDetectionSpotMultip" translation="Rilevamento Guardia - Percentuale probabilità individuazione"/>
+		<entry key="ScenarioEditor_Crime_GuardPaySpotMultip" translation="Paga Mensile Guardia - Percentuale probabilità individuazione"/>
+		<entry key="ScenarioEditor_Crime_MaxPickpockets" translation="Borseggi Massimi"/>
+		<entry key="ScenarioEditor_Crime_MinPickpockets" translation="Borseggi minimi per 1000 Visitatori"/>
 		<entry key="ScenarioEditor_Crime_Off" translation="Off"/>
 		<entry key="ScenarioEditor_Crime_On" translation="On"/>
-		<entry key="ScenarioEditor_Crime_PickpocketDifficulty" translation="Pickpockets Difficulty"/>
-		<entry key="ScenarioEditor_Crime_PickpocketSpawnRate" translation="Pickpockets Spawn rate"/>
-		<entry key="ScenarioEditor_Crime_Pickpockets" translation="Pickpockets"/>
-		<entry key="ScenarioEditor_Crime_PickpocketsMinGuests" translation="Min. number of Guests for Pickpockets"/>
-		<entry key="ScenarioEditor_Crime_ScurityFeatures" translation="Security Features"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_Average" translation="Average"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_High" translation="High"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_Low" translation="Low"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_VeryHigh" translation="Very High"/>
-		<entry key="ScenarioEditor_Crime_VandalHappinessThreshold" translation="Vandal Group Happiness threshold"/>
-		<entry key="ScenarioEditor_Crime_VandalSpawnChance" translation="Vandal Group Spawn Chance"/>
-		<entry key="ScenarioEditor_Crime_Vandalism" translation="Vandalism"/>
-		<entry key="ScenarioEditor_Finances_Cost" translation="Monthly Cost:"/>
-		<entry key="ScenarioEditor_Finances_Duration" translation="Duration:"/>
-		<entry key="ScenarioEditor_Finances_Funds" translation="Funds"/>
-		<entry key="ScenarioEditor_Finances_LoanItemActiveCheckBox" translation="Initially Active"/>
-		<entry key="ScenarioEditor_Finances_LoanItemAvailableCheckBox" translation="Available during play"/>
-		<entry key="ScenarioEditor_Finances_LoansList" translation="Loans"/>
-		<entry key="ScenarioEditor_Finances_LoansListDescription" translation="Active loans the player starts out with and has to deal with. A park may have no more than three active loans.&#10;Available Loans the player can take out during play."/>
-		<entry key="ScenarioEditor_Finances_RefundMultip" translation="Refund Multiplier"/>
-		<entry key="ScenarioEditor_Finances_Refunds" translation="Refunds"/>
-		<entry key="ScenarioEditor_Finances_StartingMoney" translation="Starting Money"/>
-		<entry key="ScenarioEditor_Finances_TotalInterest" translation="Total Interest:"/>
-		<entry key="ScenarioEditor_Finances_TrackRefundMultip" translation="Coaster Track Refund Multiplier"/>
-		<entry key="ScenarioEditor_Finances_UnlimitedMoney" translation="Unlimited Money"/>
-		<entry key="ScenarioEditor_Guests_Adults" translation="Adults"/>
-		<entry key="ScenarioEditor_Guests_AttractivenessMultip" translation="Park Attractiveness Multiplier"/>
-		<entry key="ScenarioEditor_Guests_Demographics" translation="Demographics"/>
-		<entry key="ScenarioEditor_Guests_DemographicsSegragation" translation="Demographics Segragation"/>
-		<entry key="ScenarioEditor_Guests_Family" translation="Family"/>
-		<entry key="ScenarioEditor_Guests_GroupSplitGroup" translation="Group"/>
-		<entry key="ScenarioEditor_Guests_GroupSplitSingle" translation="Single"/>
-		<entry key="ScenarioEditor_Guests_HappinessRate" translation="Guest Happiness Rate"/>
-		<entry key="ScenarioEditor_Guests_KeepGuestsAtStart" translation="Keep Current Guests At Start"/>
-		<entry key="ScenarioEditor_Guests_ParkAttractiveness" translation="Park Attractiveness"/>
-		<entry key="ScenarioEditor_Guests_ParkAttractivenessDescription" translation="How likely specific Guest Groups will visit this park"/>
-		<entry key="ScenarioEditor_Guests_Teenagers" translation="Teenagers"/>
-		<entry key="ScenarioEditor_Guests_TraitsListHeader" translation="Guest Traits - Spawn Chance"/>
+		<entry key="ScenarioEditor_Crime_PickpocketDifficulty" translation="Difficoltà Borseggi"/>
+		<entry key="ScenarioEditor_Crime_PickpocketSpawnRate" translation="Tasso Borseggi"/>
+		<entry key="ScenarioEditor_Crime_Pickpockets" translation="Borseggi"/>
+		<entry key="ScenarioEditor_Crime_PickpocketsMinGuests" translation="Numero minimo Visitatori per Borseggi"/>
+		<entry key="ScenarioEditor_Crime_ScurityFeatures" translation="Funzionalità della Sicurezza"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_Average" translation="Medio"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_High" translation="Alto"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_Low" translation="Basso"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_VeryHigh" translation="Molto Alto"/>
+		<entry key="ScenarioEditor_Crime_VandalHappinessThreshold" translation="Soglia Felicità per Gruppo Vandali"/>
+		<entry key="ScenarioEditor_Crime_VandalSpawnChance" translation="Probabilità di arrivo Gruppo Vandali"/>
+		<entry key="ScenarioEditor_Crime_Vandalism" translation="Vandalismo"/>
+		<entry key="ScenarioEditor_Finances_Cost" translation="Costo mensile:"/>
+		<entry key="ScenarioEditor_Finances_Duration" translation="Durata:"/>
+		<entry key="ScenarioEditor_Finances_Funds" translation="Fondi"/>
+		<entry key="ScenarioEditor_Finances_LoanItemActiveCheckBox" translation="Attivo dall'inizio"/>
+		<entry key="ScenarioEditor_Finances_LoanItemAvailableCheckBox" translation="Disponibile durante la partita"/>
+		<entry key="ScenarioEditor_Finances_LoansList" translation="Prestiti"/>
+		<entry key="ScenarioEditor_Finances_LoansListDescription" translation="Prestiti attivi con cui il giocatore comincia e con cui ha a che fare. Un parco non può avere più di tre prestiti attivi.&#10;Prestiti Disponibili che il giocatore può ottenere durante la partita."/>
+		<entry key="ScenarioEditor_Finances_RefundMultip" translation="Percentuale Rimborso"/>
+		<entry key="ScenarioEditor_Finances_Refunds" translation="Rimborsi"/>
+		<entry key="ScenarioEditor_Finances_StartingMoney" translation="Denaro iniziale"/>
+		<entry key="ScenarioEditor_Finances_TotalInterest" translation="Interesse Totale:"/>
+		<entry key="ScenarioEditor_Finances_TrackRefundMultip" translation="Percentuale Rimborso elementi percorso"/>
+		<entry key="ScenarioEditor_Finances_UnlimitedMoney" translation="Denaro illimitato"/>
+		<entry key="ScenarioEditor_Guests_Adults" translation="Adulti"/>
+		<entry key="ScenarioEditor_Guests_AttractivenessMultip" translation="Percentuale Attrattività Parco"/>
+		<entry key="ScenarioEditor_Guests_Demographics" translation="Demografici"/>
+		<entry key="ScenarioEditor_Guests_DemographicsSegragation" translation="Segregazione Demografica"/>
+		<entry key="ScenarioEditor_Guests_Family" translation="Famiglia"/>
+		<entry key="ScenarioEditor_Guests_GroupSplitGroup" translation="Gruppo"/>
+		<entry key="ScenarioEditor_Guests_GroupSplitSingle" translation="Singolo"/>
+		<entry key="ScenarioEditor_Guests_HappinessRate" translation="Tasso Felicità Visitatori"/>
+		<entry key="ScenarioEditor_Guests_KeepGuestsAtStart" translation="Mantieni gli attuali Visitatori all'inizio"/>
+		<entry key="ScenarioEditor_Guests_ParkAttractiveness" translation="Attrattività Parco"/>
+		<entry key="ScenarioEditor_Guests_ParkAttractivenessDescription" translation="Quanto specifici gruppi di Visitatori visiteranno il parco"/>
+		<entry key="ScenarioEditor_Guests_Teenagers" translation="Giovani"/>
+		<entry key="ScenarioEditor_Guests_TraitsListHeader" translation="Caratteristiche Visitatori - Probabiltà arrivo"/>
 		<entry key="ScenarioEditor_Guests_TraitsPreset" translation="Preset"/>
-		<entry key="ScenarioEditor_Guests_TraitsSpawnChance" translation="Chance that a guest will spawn with a Trait"/>
-		<entry key="ScenarioEditor_Guests_TraitsSpawnHeader" translation="Guest Traits"/>
-		<entry key="ScenarioEditor_Marketing_AllowMarketing" translation="Allow Marketing Campaigns"/>
-		<entry key="ScenarioEditor_Marketing_AudienceHeader" translation="Primary Target Audience"/>
-		<entry key="ScenarioEditor_Marketing_AvailableCampaigns" translation="Available Campaigns"/>
-		<entry key="ScenarioEditor_Marketing_CostHeader" translation="Cost"/>
-		<entry key="ScenarioEditor_Marketing_DurationHeader" translation="Impact"/>
+		<entry key="ScenarioEditor_Guests_TraitsSpawnChance" translation="Probabilità che un visitatore abbia un Tratto caratteristico"/>
+		<entry key="ScenarioEditor_Guests_TraitsSpawnHeader" translation="Caratteristiche Visitatori"/>
+		<entry key="ScenarioEditor_Marketing_AllowMarketing" translation="Permetti Campagne di Marketing"/>
+		<entry key="ScenarioEditor_Marketing_AudienceHeader" translation="Pubblico di destinazione primario"/>
+		<entry key="ScenarioEditor_Marketing_AvailableCampaigns" translation="Campagne disponibili"/>
+		<entry key="ScenarioEditor_Marketing_CostHeader" translation="Costo"/>
+		<entry key="ScenarioEditor_Marketing_DurationHeader" translation="Impatto"/>
 		<entry key="ScenarioEditor_Marketing_Marketing" translation="Marketing"/>
-		<entry key="ScenarioEditor_Marketing_MaxMarketing" translation="Max Concurrent Campaigns"/>
-		<entry key="ScenarioEditor_Marketing_NameHeader" translation="Campaign"/>
-		<entry key="ScenarioEditor_Objectives_AddExtraObjective" translation="Add another Condition"/>
-		<entry key="ScenarioEditor_Objectives_AddObjective" translation="Add Objective"/>
-		<entry key="ScenarioEditor_Objectives_Difficulty" translation="Difficulty"/>
-		<entry key="ScenarioEditor_Objectives_PreviewEmpty" translation="Empty"/>
-		<entry key="ScenarioEditor_Objectives_PreviewTitle" translation="Objectives Preview"/>
-		<entry key="ScenarioEditor_Objectives_SelectObjective" translation="Select Condition"/>
-		<entry key="ScenarioEditor_Objectives_Type" translation="Type"/>
-		<entry key="ScenarioEditor_Park_BoundaryDescription" translation="Place Guest Spawning Points and edit the boundaries of the park"/>
-		<entry key="ScenarioEditor_Park_BoundaryTitle" translation="Park Size, Shape, and Spawn Points"/>
-		<entry key="ScenarioEditor_Park_Breakdown" translation="Breakdown Rate"/>
-		<entry key="ScenarioEditor_Park_BreakdownRate" translation="Parkwide breakdown rate"/>
-		<entry key="ScenarioEditor_Park_ClosingTime" translation="Closing Time"/>
-		<entry key="ScenarioEditor_Park_EditBoundary" translation="Edit park dimensions and guest spawn points"/>
-		<entry key="ScenarioEditor_Park_EditOpeningTimes" translation="Allow the Player to Edit the Opening Times"/>
-		<entry key="ScenarioEditor_Park_EditParkCapacity" translation="Allow the Player to Edit the Park Capacity"/>
-		<entry key="ScenarioEditor_Park_EditTerrain" translation="Allow the Player to Edit the Terrain"/>
-		<entry key="ScenarioEditor_Park_ExtendedTrackRestrictions" translation="Extended track restrictions"/>
-		<entry key="ScenarioEditor_Park_KeepGuests" translation="Keep all Guests on Start"/>
-		<entry key="ScenarioEditor_Park_OpeningTime" translation="Opening Time"/>
-		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Opening Times"/>
-		<entry key="ScenarioEditor_Park_ParkCapacity" translation="Park Capacity"/>
-		<entry key="ScenarioEditor_Park_ParkCapacityStepper" translation="Park Capacity"/>
-		<entry key="ScenarioEditor_Park_PrestigeDecline" translation="Prestige decline rate"/>
-		<entry key="ScenarioEditor_Park_PrestigeDeclineDropDown" translation="Parkwide prestige decline rate"/>
-		<entry key="ScenarioEditor_Park_RemoveClutter" translation="Remove all clutter on Start (Rubbish, Vomit)"/>
-		<entry key="ScenarioEditor_Park_ScenarioStartTime" translation="Scenario Starts at a specific Time"/>
-		<entry key="ScenarioEditor_Park_StartTime" translation="Scenario Start Time:"/>
-		<entry key="ScenarioEditor_Park_TerrainCost" translation="Terrain editing cost"/>
-		<entry key="ScenarioEditor_Park_TerrainEditing" translation="Terrain Editing"/>
-		<entry key="ScenarioEditor_Park_TrackRestrictions" translation="Track Restrictions"/>
-		<entry key="ScenarioEditor_Research_AddSelection" translation="Add selection here"/>
-		<entry key="ScenarioEditor_Research_CurrentlySelected" translation="Currently selected: "/>
-		<entry key="ScenarioEditor_Research_Filters" translation="Research Type"/>
-		<entry key="ScenarioEditor_Research_FiltersButton" translation="Filters"/>
-		<entry key="ScenarioEditor_Research_FiltersTitle" translation="Filters"/>
-		<entry key="ScenarioEditor_Research_Filters_Building" translation="Buildings"/>
-		<entry key="ScenarioEditor_Research_Filters_Coaster" translation="Coasters"/>
-		<entry key="ScenarioEditor_Research_Filters_Facility" translation="Facilities"/>
-		<entry key="ScenarioEditor_Research_Filters_Flatride" translation="Flatrides"/>
-		<entry key="ScenarioEditor_Research_Filters_Scenery" translation="Scenery"/>
-		<entry key="ScenarioEditor_Research_Filters_TrackedRide" translation="Tracked Rides"/>
-		<entry key="ScenarioEditor_Research_MoveDownToolTip" translation="Move Selected Down"/>
-		<entry key="ScenarioEditor_Research_MoveUpToolTip" translation="Move Selected Up"/>
-		<entry key="ScenarioEditor_Research_NestToolTip" translation="Nest Selected"/>
-		<entry key="ScenarioEditor_Research_OptionsTitle" translation="Options"/>
-		<entry key="ScenarioEditor_Research_Preset_Easy" translation="Easy"/>
-		<entry key="ScenarioEditor_Research_Preset_Hard" translation="Hard"/>
-		<entry key="ScenarioEditor_Research_Preset_Harder" translation="Harder"/>
-		<entry key="ScenarioEditor_Research_Preset_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Research_Preset_None" translation="Custom"/>
-		<entry key="ScenarioEditor_Research_Presets" translation="Presets"/>
-		<entry key="ScenarioEditor_Research_PresetsDescription" translation="Presets let you pick from a list of predefined research setups."/>
-		<entry key="ScenarioEditor_Research_PresetsTooltip" translation="Presets"/>
-		<entry key="ScenarioEditor_Research_Researchable" translation="Researchable"/>
-		<entry key="ScenarioEditor_Research_SelectAllToolTip" translation="Select All"/>
-		<entry key="ScenarioEditor_Research_SelectNoneToolTip" translation="Deselect All"/>
-		<entry key="ScenarioEditor_Research_Unavailable" translation="Unavailable"/>
-		<entry key="ScenarioEditor_Research_Unlocked" translation="Unlocked"/>
-		<entry key="ScenarioEditor_Research_UnnestToolTip" translation="Unnest Selected"/>
-		<entry key="ScenarioEditor_Staff_AllowPlayerChange" translation="Allow the Player to toggle Staff Features"/>
-		<entry key="ScenarioEditor_Staff_EntertainersHeader" translation="Entertainers"/>
-		<entry key="ScenarioEditor_Staff_GeneralSettingsDescription" translation="These settings will apply to all staff regardless of type."/>
-		<entry key="ScenarioEditor_Staff_GeneralSettingsHeader" translation="General Settings"/>
-		<entry key="ScenarioEditor_Staff_GeneralStaffProfile" translation="General Profile"/>
-		<entry key="ScenarioEditor_Staff_JanitorsHeader" translation="Janitors"/>
-		<entry key="ScenarioEditor_Staff_MechanicsHeader" translation="Mechanics"/>
+		<entry key="ScenarioEditor_Marketing_MaxMarketing" translation="Campagne massime contemporaneamente "/>
+		<entry key="ScenarioEditor_Marketing_NameHeader" translation="Campagna"/>
+		<entry key="ScenarioEditor_Objectives_AddExtraObjective" translation="Aggiungi altra Condizione"/>
+		<entry key="ScenarioEditor_Objectives_AddObjective" translation="Aggiungi Obiettivo"/>
+		<entry key="ScenarioEditor_Objectives_Difficulty" translation="Difficultà"/>
+		<entry key="ScenarioEditor_Objectives_PreviewEmpty" translation="Vuoto"/>
+		<entry key="ScenarioEditor_Objectives_PreviewTitle" translation="Anteprima Obiettivi"/>
+		<entry key="ScenarioEditor_Objectives_SelectObjective" translation="Seleziona Condizione"/>
+		<entry key="ScenarioEditor_Objectives_Type" translation="Tipo"/>
+		<entry key="ScenarioEditor_Park_BoundaryDescription" translation="Posiziona i punti di arrivo dei Visitatori e modifica i confini del parco"/>
+		<entry key="ScenarioEditor_Park_BoundaryTitle" translation="Misura del Parco, Forma, e Punti di Arrivo"/>
+		<entry key="ScenarioEditor_Park_Breakdown" translation="Tasso di Guasti"/>
+		<entry key="ScenarioEditor_Park_BreakdownRate" translation="Tasso di guasti in tutto il parco"/>
+		<entry key="ScenarioEditor_Park_ClosingTime" translation="Orario di chiusura"/>
+		<entry key="ScenarioEditor_Park_EditBoundary" translation="Modifica le dimensioni del parco e i punti di arrivo dei visitatori"/>
+		<entry key="ScenarioEditor_Park_EditOpeningTimes" translation="Permetti al Giocatore di modificare gli orari di apertura"/>
+		<entry key="ScenarioEditor_Park_EditParkCapacity" translation="Permetti al Giocatore di modificare la capacità del parco"/>
+		<entry key="ScenarioEditor_Park_EditTerrain" translation="Permetti al Giocatore di modificare il terreno"/>
+		<entry key="ScenarioEditor_Park_ExtendedTrackRestrictions" translation="Limitazioni ai percorsi estesi"/>
+		<entry key="ScenarioEditor_Park_KeepGuests" translation="Mantieni tutti i Visitatori all'inizio "/>
+		<entry key="ScenarioEditor_Park_OpeningTime" translation="Orario di apertura"/>
+		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Orari di apertura"/>
+		<entry key="ScenarioEditor_Park_ParkCapacity" translation="Capacità Parco"/>
+		<entry key="ScenarioEditor_Park_ParkCapacityStepper" translation="Capacità Parco"/>
+		<entry key="ScenarioEditor_Park_PrestigeDecline" translation="Tasso di diminuzione Prestigio"/>
+		<entry key="ScenarioEditor_Park_PrestigeDeclineDropDown" translation="Tasso di diminuzione Prestigio di tutto il parco"/>
+		<entry key="ScenarioEditor_Park_RemoveClutter" translation="Rimuovi tutta la sporcizia all'inizio(Rifiuti, Vomito)"/>
+		<entry key="ScenarioEditor_Park_ScenarioStartTime" translation="Lo Scenario comincia ad un orario specifico"/>
+		<entry key="ScenarioEditor_Park_StartTime" translation="Orario di inizio dello Scenario:"/>
+		<entry key="ScenarioEditor_Park_TerrainCost" translation="Costo modifica terreno"/>
+		<entry key="ScenarioEditor_Park_TerrainEditing" translation="Modifica terreno"/>
+		<entry key="ScenarioEditor_Park_TrackRestrictions" translation="Restrizioni percorso"/>
+		<entry key="ScenarioEditor_Research_AddSelection" translation="Aggiungi selezione"/>
+		<entry key="ScenarioEditor_Research_CurrentlySelected" translation="Attualmente selezionato: "/>
+		<entry key="ScenarioEditor_Research_Filters" translation="Tipo ricerca"/>
+		<entry key="ScenarioEditor_Research_FiltersButton" translation="Filtri"/>
+		<entry key="ScenarioEditor_Research_FiltersTitle" translation="Filtri"/>
+		<entry key="ScenarioEditor_Research_Filters_Building" translation="Edifici"/>
+		<entry key="ScenarioEditor_Research_Filters_Coaster" translation="Montagne Russe"/>
+		<entry key="ScenarioEditor_Research_Filters_Facility" translation="Strutture"/>
+		<entry key="ScenarioEditor_Research_Filters_Flatride" translation="Attrazioni"/>
+		<entry key="ScenarioEditor_Research_Filters_Scenery" translation="Scenario"/>
+		<entry key="ScenarioEditor_Research_Filters_TrackedRide" translation="Attrazioni a Circuito"/>
+		<entry key="ScenarioEditor_Research_MoveDownToolTip" translation="Sposta selezionato in giù"/>
+		<entry key="ScenarioEditor_Research_MoveUpToolTip" translation="Sposta selezionato in sù"/>
+		<entry key="ScenarioEditor_Research_NestToolTip" translation="Inserisci selezionato"/>
+		<entry key="ScenarioEditor_Research_OptionsTitle" translation="Opzioni"/>
+		<entry key="ScenarioEditor_Research_Preset_Easy" translation="Facile"/>
+		<entry key="ScenarioEditor_Research_Preset_Hard" translation="Difficile"/>
+		<entry key="ScenarioEditor_Research_Preset_Harder" translation="Difficilissimo"/>
+		<entry key="ScenarioEditor_Research_Preset_Medium" translation="Medio"/>
+		<entry key="ScenarioEditor_Research_Preset_None" translation="Personalizzato"/>
+		<entry key="ScenarioEditor_Research_Presets" translation="Prestabiliti"/>
+		<entry key="ScenarioEditor_Research_PresetsDescription" translation="Prestabiliti ti permette di scegliere da una lista di impostazioni di ricerca predefinite."/>
+		<entry key="ScenarioEditor_Research_PresetsTooltip" translation="Prestabiliti"/>
+		<entry key="ScenarioEditor_Research_Researchable" translation="Ricercabile"/>
+		<entry key="ScenarioEditor_Research_SelectAllToolTip" translation="Seleziona Tutti"/>
+		<entry key="ScenarioEditor_Research_SelectNoneToolTip" translation="Deseleziona Tutti"/>
+		<entry key="ScenarioEditor_Research_Unavailable" translation="Non Disponibile"/>
+		<entry key="ScenarioEditor_Research_Unlocked" translation="Sbloccato"/>
+		<entry key="ScenarioEditor_Research_UnnestToolTip" translation="Togli selezionato"/>
+		<entry key="ScenarioEditor_Staff_AllowPlayerChange" translation="Permetti al Giocatore di attivare/disattivare le funzionalità dello Staff"/>
+		<entry key="ScenarioEditor_Staff_EntertainersHeader" translation="Intrattenitori"/>
+		<entry key="ScenarioEditor_Staff_GeneralSettingsDescription" translation="Queste impostazioni si applicheranno a tutto lo staff indipendentemente dalla tipologia."/>
+		<entry key="ScenarioEditor_Staff_GeneralSettingsHeader" translation="Impostazioni Generali"/>
+		<entry key="ScenarioEditor_Staff_GeneralStaffProfile" translation="Profilo Generale"/>
+		<entry key="ScenarioEditor_Staff_JanitorsHeader" translation="Spazzini"/>
+		<entry key="ScenarioEditor_Staff_MechanicsHeader" translation="Manutentori"/>
 		<entry key="ScenarioEditor_Staff_Off" translation="Off"/>
 		<entry key="ScenarioEditor_Staff_On" translation="On"/>
-		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Park Rating threshold for Staff Energy decline"/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Standard staff settings:&#10;• Staff building perks provide normal bonuses.&#10;• Staff quit at their normal happiness level.&#10;• Staff start at their normal happiness.&#10;• Staff stop working at 15% energy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Easy staff setting:&#10;• Staff building perks have a greater effect.&#10;• Staff can quit at a lower happiness level.&#10;• Staff start at a higher happiness value."/>
+		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Soglia di valutazione Parco sotto la quale diminuisce l'Energia Staff"/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I benefici dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I benefici dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Apathetic" translation="When Entertainers are set to Apathetic:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers can entertain less guests at once."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Commercial" translation="When Entertainers are set to Commercial:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers can entertain more guests at once."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Default" translation="When Entertainers are set to default:&#10;&#10;• Normal happiness increase for guests.&#10;• Normal Time between performances.&#10;• Normal amount of guests per performance.&#10;• Normal workload levels before Entertainers get stressed.&#10;• Normal pay and energy levels."/>
@@ -5515,7 +5515,7 @@
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Lazy" translation="When Entertainers are set to lazy:&#10;&#10;• Entertainers don't increase happiness of guests as much.&#10;• Entertainers have a larger gap between performances."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Passionate" translation="When Entertainers are set to passionate:&#10;&#10;• Entertainers increase guest happiness more than normal.&#10;• Entertainers can entertain more guests at once."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Stressed" translation="When Entertainers are set to get easily stressed:&#10;&#10;• Entertainers get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Hard staff setting: &#10;• Staff building perks have a reduced effect.&#10;• Staff can quit at a higher happiness level.&#10;• Staff start at lower happiness."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I benefici dell'edificio Staff hanno un effetto ridotto.&#10;• o staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Apathetic" translation="When Janitors are set to Apathetic:&#10;&#10;• Janitors are faster at performing tasks."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Default" translation="When Janitors are set to default:&#10;&#10;• Normal job durations.&#10;• Normal movement speed around the park.&#10;• Normal pay range requirements.&#10;• Normal energy levels."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Easy" translation="When Janitors are set to easy:&#10;&#10;• Bins have a higher capacity.&#10;• Janitors are faster at performing tasks.&#10;• Janitors can handle more workloads.&#10;• Janitors don't tire as easily."/>
@@ -12916,7 +12916,7 @@
 		<entry key="GuestPerkDesc_Roaming" translation="A loro non pesa andare in giro "/>
 		<entry key="GuestPerkDesc_ScaredyCat" translation="Non vogliono cose troppo spaventose!"/>
 		<entry key="GuestPerkDesc_Sickly" translation="Devono evitare di ammalarsi"/>
-		<entry key="GuestPerkDesc_Sightseer" translation="They want to visit beautiful vistas"/>
+		<entry key="GuestPerkDesc_Sightseer" translation="Vogliono visitare bei punti panoramici"/>
 		<entry key="GuestPerkDesc_SingleMinded" translation="Una volta decisa la destinazione, è quella"/>
 		<entry key="GuestPerkDesc_Slow" translation="Sono un pò più lenti della media"/>
 		<entry key="GuestPerkDesc_Stingy" translation="Contano il singolo centesimo"/>
@@ -12941,7 +12941,7 @@
 		<entry key="GuestPerk_Roaming" translation="Passeggiatore"/>
 		<entry key="GuestPerk_ScaredyCat" translation="Timoroso"/>
 		<entry key="GuestPerk_Sickly" translation="Malaticcio"/>
-		<entry key="GuestPerk_Sightseer" translation="Sightseer"/>
+		<entry key="GuestPerk_Sightseer" translation="Turista"/>
 		<entry key="GuestPerk_SingleMinded" translation="Deciso"/>
 		<entry key="GuestPerk_Slow" translation="Camminatore lento"/>
 		<entry key="GuestPerk_Stingy" translation="Avaro"/>
@@ -12966,7 +12966,7 @@
 		<entry key="Guests_Status_GuestDestination_Navigating" translation="Andando Verso"/>
 		<entry key="Guests_Status_GuestDestination_OnRide" translation="Su"/>
 		<entry key="Guests_Status_GuestDestination_Queueing" translation="In coda per"/>
-		<entry key="Guests_Status_GuetsDestination_AtVistaPoint" translation="Viewing"/>
+		<entry key="Guests_Status_GuetsDestination_AtVistaPoint" translation="Ammirando"/>
 		<entry key="Guests_Status_Idle" translation="Oziando"/>
 		<entry key="Guests_Status_LeavePark" translation="Tornando a casa"/>
 		<entry key="Guests_Status_Physics" translation="Colpito da un vagone"/>
@@ -12994,7 +12994,7 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per posizionare il prossimo pezzo di tracciato."/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} su Pezzo Posizionato"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Montagna Russa"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Attrazione"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Gli Inneschi sulle Montagne Russe permettono di attivare oggetti animati ed effetti speciali quando una vettura raggiunge uno specifico punto della pista."/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
