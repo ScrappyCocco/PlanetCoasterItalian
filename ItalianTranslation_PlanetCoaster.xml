@@ -5564,47 +5564,47 @@
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Stressed" translation="When Vendors are set to get easily stressed:&#10;&#10;• Vendors get overworked from smaller workloads."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_WorkBot" translation="When Vendors are set to Work-bot:&#10;&#10;• Vendors don't have an effect on guests' happiness.&#10;• Vendors are faster at serving guests."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_WorkAverse" translation="Work Averse staff setting:&#10;• A higher level of energy is required before staff will begin to work.&#10;• Staff lose more energy performing some work tasks.&#10;• Staff stop working at 25% energy."/>
-		<entry key="ScenarioEditor_Staff_Profile_Apathetic" translation="Apathetic"/>
-		<entry key="ScenarioEditor_Staff_Profile_BlindEye" translation="Blind Eye"/>
-		<entry key="ScenarioEditor_Staff_Profile_Commercial" translation="Commercial"/>
-		<entry key="ScenarioEditor_Staff_Profile_Default" translation="Default"/>
-		<entry key="ScenarioEditor_Staff_Profile_Easy" translation="Easy"/>
-		<entry key="ScenarioEditor_Staff_Profile_Energetic" translation="Energetic"/>
-		<entry key="ScenarioEditor_Staff_Profile_Entitled" translation="Entitled"/>
-		<entry key="ScenarioEditor_Staff_Profile_Fast" translation="Fast"/>
-		<entry key="ScenarioEditor_Staff_Profile_Fatigued" translation="Fatigued"/>
-		<entry key="ScenarioEditor_Staff_Profile_Grateful" translation="Grateful"/>
-		<entry key="ScenarioEditor_Staff_Profile_Hard" translation="Hard"/>
-		<entry key="ScenarioEditor_Staff_Profile_Lazy" translation="Lazy"/>
-		<entry key="ScenarioEditor_Staff_Profile_Overtime" translation="Overtime"/>
-		<entry key="ScenarioEditor_Staff_Profile_Passionate" translation="Passionate"/>
-		<entry key="ScenarioEditor_Staff_Profile_Stressed" translation="Stressed"/>
-		<entry key="ScenarioEditor_Staff_Profile_WorkAverse" translation="Work Averse"/>
-		<entry key="ScenarioEditor_Staff_Profile_WorkBot" translation="Work-bot"/>
-		<entry key="ScenarioEditor_Staff_SecurityGuardsHeader" translation="Security Guards"/>
+		<entry key="ScenarioEditor_Staff_Profile_Apathetic" translation="Apatico"/>
+		<entry key="ScenarioEditor_Staff_Profile_BlindEye" translation="Guercio"/>
+		<entry key="ScenarioEditor_Staff_Profile_Commercial" translation="Commerciale"/>
+		<entry key="ScenarioEditor_Staff_Profile_Default" translation="Predefinito"/>
+		<entry key="ScenarioEditor_Staff_Profile_Easy" translation="Semplice"/>
+		<entry key="ScenarioEditor_Staff_Profile_Energetic" translation="Energico"/>
+		<entry key="ScenarioEditor_Staff_Profile_Entitled" translation="Titolato"/>
+		<entry key="ScenarioEditor_Staff_Profile_Fast" translation="Veloce"/>
+		<entry key="ScenarioEditor_Staff_Profile_Fatigued" translation="Stanco"/>
+		<entry key="ScenarioEditor_Staff_Profile_Grateful" translation="Riconoscente"/>
+		<entry key="ScenarioEditor_Staff_Profile_Hard" translation="Difficile"/>
+		<entry key="ScenarioEditor_Staff_Profile_Lazy" translation="Pigro"/>
+		<entry key="ScenarioEditor_Staff_Profile_Overtime" translation="In straordinario"/>
+		<entry key="ScenarioEditor_Staff_Profile_Passionate" translation="Appassionato"/>
+		<entry key="ScenarioEditor_Staff_Profile_Stressed" translation="Stressato"/>
+		<entry key="ScenarioEditor_Staff_Profile_WorkAverse" translation="Fannullone"/>
+		<entry key="ScenarioEditor_Staff_Profile_WorkBot" translation="Automa"/>
+		<entry key="ScenarioEditor_Staff_SecurityGuardsHeader" translation="Guardie di Sicurezza"/>
 		<entry key="ScenarioEditor_Staff_Staff" translation="Staff"/>
-		<entry key="ScenarioEditor_Staff_StaffFeatures" translation="Staff Features"/>
-		<entry key="ScenarioEditor_Staff_StaffProfile" translation="Staff Profile"/>
-		<entry key="ScenarioEditor_Staff_TypeSettingsDescription" translation="These settings will change how staff behave on a per-staff type level."/>
-		<entry key="ScenarioEditor_Staff_TypeSettingsHeader" translation="Staff Type Specific Settings"/>
-		<entry key="ScenarioEditor_Staff_VendorsHeader" translation="Vendors"/>
-		<entry key="ScenarioEditor_Tab_Crime" translation="Crime"/>
-		<entry key="ScenarioEditor_Tab_Crime_ToolTip" translation="Crime"/>
-		<entry key="ScenarioEditor_Tab_Finances" translation="Finances"/>
-		<entry key="ScenarioEditor_Tab_Finances_ToolTip" translation="Finances"/>
-		<entry key="ScenarioEditor_Tab_Guests" translation="Guests"/>
-		<entry key="ScenarioEditor_Tab_Guests_ToolTip" translation="Guests"/>
+		<entry key="ScenarioEditor_Staff_StaffFeatures" translation="Caratteristiche Staff"/>
+		<entry key="ScenarioEditor_Staff_StaffProfile" translation="Profilo Staff"/>
+		<entry key="ScenarioEditor_Staff_TypeSettingsDescription" translation="Queste impostazioni cambieranno il comportamento dello Staff in base alla tipologia."/>
+		<entry key="ScenarioEditor_Staff_TypeSettingsHeader" translation="Impostazioni specifiche per tipologia Staff"/>
+		<entry key="ScenarioEditor_Staff_VendorsHeader" translation="Venditori"/>
+		<entry key="ScenarioEditor_Tab_Crime" translation="Crimine"/>
+		<entry key="ScenarioEditor_Tab_Crime_ToolTip" translation="Crimine"/>
+		<entry key="ScenarioEditor_Tab_Finances" translation="Economia"/>
+		<entry key="ScenarioEditor_Tab_Finances_ToolTip" translation="Economia"/>
+		<entry key="ScenarioEditor_Tab_Guests" translation="Visitatori"/>
+		<entry key="ScenarioEditor_Tab_Guests_ToolTip" translation="Visitatori"/>
 		<entry key="ScenarioEditor_Tab_Marketing" translation="Marketing"/>
 		<entry key="ScenarioEditor_Tab_Marketing_ToolTip" translation="Marketing"/>
-		<entry key="ScenarioEditor_Tab_Objectives" translation="Objectives"/>
-		<entry key="ScenarioEditor_Tab_Objectives_ToolTip" translation="Objectives"/>
-		<entry key="ScenarioEditor_Tab_Park" translation="Park"/>
-		<entry key="ScenarioEditor_Tab_Park_ToolTip" translation="Park"/>
-		<entry key="ScenarioEditor_Tab_Research" translation="Research"/>
-		<entry key="ScenarioEditor_Tab_Research_ToolTip" translation="Research"/>
+		<entry key="ScenarioEditor_Tab_Objectives" translation="Obiettivi"/>
+		<entry key="ScenarioEditor_Tab_Objectives_ToolTip" translation="Obiettivi"/>
+		<entry key="ScenarioEditor_Tab_Park" translation="Parco"/>
+		<entry key="ScenarioEditor_Tab_Park_ToolTip" translation="Parco"/>
+		<entry key="ScenarioEditor_Tab_Research" translation="Ricerca"/>
+		<entry key="ScenarioEditor_Tab_Research_ToolTip" translation="Ricerca"/>
 		<entry key="ScenarioEditor_Tab_Staff" translation="Staff"/>
 		<entry key="ScenarioEditor_Tab_Staff_ToolTip" translation="Staff"/>
-		<entry key="ScenarioEditor_Title" translation="Scenario Editor"/>
+		<entry key="ScenarioEditor_Title" translation="Editor Scenario"/>
 		<!--C4_Scenery-->
 		<entry key="BuildingPartDesc_FT_BN_01" translation="Decorative painted wood bench.&#10;Fairytale Theme"/>
 		<entry key="BuildingPartDesc_FT_BN_02" translation="Elegant carved wood bench.&#10;Fairytale Theme"/>
