@@ -4457,6 +4457,8 @@
 		<entry key="AdvancedTriggerEditor_DoneButton" translation="Fatto"/>
 		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplica"/>
 		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Modifica Sequenza di Innesco"/>
+		<entry key="AdvancedTriggerEditor_FadeToColour" translation="Fade to Colour"/>
+		<entry key="AdvancedTriggerEditor_FadeToDuration" translation="Fade Time"/>
 		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="Puoi modificare le sequenze di innesco per ogni sequenza dell'attrazione"/>
 		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
 		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Innesco Attrazione"/>
@@ -4527,13 +4529,24 @@
 		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
 		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Inneschi sul Tracciato"/>
 		<entry key="AdvancedTriggerEditor_TriggerActivate" translation="Attiva su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerActivate_Desc" translation="Turn on indefinitely when triggered."/>
 		<entry key="AdvancedTriggerEditor_TriggerDeactivate" translation="Disattiva su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerDeactivate_Desc" translation="Turn off when triggered"/>
 		<entry key="AdvancedTriggerEditor_TriggerDefault" translation="Avvia su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerDefault_Desc" translation="Perform an action when triggered"/>
 		<entry key="AdvancedTriggerEditor_TriggerEventPointsValueLabel" translation="Punti di Innesco: {Points:int}"/>
 		<entry key="AdvancedTriggerEditor_TriggerEventStatLabel" translation="Attiva Evento"/>
 		<entry key="AdvancedTriggerEditor_TriggerEventValueLabel" translation="Elementi: {Items:int}"/>
+		<entry key="AdvancedTriggerEditor_TriggerFlexiColour" translation="Change Colour on Trigger"/>
+		<entry key="AdvancedTriggerEditor_TriggerFlexiColour_Desc" translation="Change this object's colour when triggered"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour" translation="Swap Colour on Trigger"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour_Desc" translation="Change an object's colour for a period of time before returning to it's original colour"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause" translation="Avvia su Innesco, quindi Pausa"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause_Desc" translation="Play on trigger, and then wait for a period of time."/>
+		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour" translation="Restore Colour on Trigger"/>
+		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour_Desc" translation="Return to the object's last assigned colour when triggered"/>
 		<entry key="AdvancedTriggerEditor_TriggerToggle" translation="Ripeti Attiva/Disattiva su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerToggle_Desc" translation="Toggle between being on and off for small amounts of time over a duration"/>
 		<!--C3_Blueprints-->
 		<entry key="Blueprints_DowntownBuildingBlueprint01" translation="Downtown Edificio 01"/>
 		<entry key="Blueprints_DowntownBuildingBlueprint01Desc" translation="Edificio a tema Downtown"/>
@@ -5270,6 +5283,8 @@
 		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinazioni consigliate da questo elemento scenario"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Localizza Destinazione"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Information_DestinationsDescription" translation="Destinations advertised by this kiosk"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Information_SetAdvertisedDestinationsToolTip" translation="Multi-select guest destinations to be advertised by this kiosk"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Rimuovi tutte le Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Rimuovi Destinazioni"/>
@@ -5371,6 +5386,7 @@
 		<!--C4_ScenarioEditor-->
 		<entry key="ScenarioEditor_AcessButtonTooltip" translation="Editor Scenario"/>
 		<entry key="ScenarioEditor_AllowCoasterRestrictionToggle" translation="Permetti al Giocatore di disabilitare le restrizioni ai percorsi."/>
+		<entry key="ScenarioEditor_CamDeterrence" translation="Security Camera Deterrence"/>
 		<entry key="ScenarioEditor_Crime_AllowPlayerChange" translation="Permetti al Giocatore di cambiare le funzionalità della Sicurezza"/>
 		<entry key="ScenarioEditor_Crime_Crime" translation="Crimine"/>
 		<entry key="ScenarioEditor_Crime_Difficulty_Easy" translation="Facile"/>
@@ -5449,6 +5465,10 @@
 		<entry key="ScenarioEditor_Park_EditParkCapacity" translation="Permetti al Giocatore di modificare la capacità del parco"/>
 		<entry key="ScenarioEditor_Park_EditTerrain" translation="Permetti al Giocatore di modificare il terreno"/>
 		<entry key="ScenarioEditor_Park_ExtendedTrackRestrictions" translation="Limitazioni ai percorsi estesi"/>
+		<entry key="ScenarioEditor_Park_Hotel" translation="Hotel"/>
+		<entry key="ScenarioEditor_Park_HotelDeterioration" translation="Wear and tear (facility deterioration)"/>
+		<entry key="ScenarioEditor_Park_HotelPopularity" translation="Hotel Popularity"/>
+		<entry key="ScenarioEditor_Park_HotelRunningCost" translation="Hotel Monthly running costs multiplier"/>
 		<entry key="ScenarioEditor_Park_KeepGuests" translation="Mantieni tutti i Visitatori all'inizio "/>
 		<entry key="ScenarioEditor_Park_OpeningTime" translation="Orario di apertura"/>
 		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Orari di apertura"/>
@@ -5743,6 +5763,7 @@
 		<entry key="TrackElementDesc_HydraulicLaunch_End" translation="HydraulicLaunch_End Description"/>
 		<entry key="TrackElementDesc_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext Description"/>
 		<entry key="TrackElementDesc_HydraulicLaunch_Start" translation="HydraulicLaunch_Start Description"/>
+		<entry key="TrackElementDesc_LogSplashCustom" translation="Starts the splashdown section with customizable entrance height."/>
 		<entry key="TrackElementDesc_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementDesc_TopHat_DownRoll" translation="Drop Roll Description"/>
 		<entry key="TrackElementDesc_TopHat_DownTwist" translation="Drop Twist Description"/>
@@ -5767,6 +5788,7 @@
 		<entry key="TrackElementName_HydraulicLaunch_End" translation="HydraulicLaunch_End"/>
 		<entry key="TrackElementName_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext"/>
 		<entry key="TrackElementName_HydraulicLaunch_Start" translation="HydraulicLaunch_Start"/>
+		<entry key="TrackElementName_LogSplashCustom" translation="Splash Down Custom"/>
 		<entry key="TrackElementName_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementName_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementName_TopHat_DownTwist" translation="Drop Twist"/>
@@ -5791,6 +5813,7 @@
 		<entry key="TrackElementTool_HydraulicLaunch_End" translation="HydraulicLaunch_End"/>
 		<entry key="TrackElementTool_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext"/>
 		<entry key="TrackElementTool_HydraulicLaunch_Start" translation="HydraulicLaunch_Start"/>
+		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Splash Down Custom&lt;/font&gt;&#10;Starts the splashdown section with customizable entrance height."/>
 		<entry key="TrackElementTool_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementTool_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementTool_TopHat_DownTwist" translation="Drop Twist"/>
@@ -5808,6 +5831,10 @@
 		<entry key="TrackElementTool_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementTool_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementTool_TopHat_UpTwist" translation="Incline Twist"/>
+		<!--C5_Coasters-->
+		<entry key="TrackElementDesc_StopStart" translation="Allows the ride to stop for a certain amount of time before continuing."/>
+		<entry key="TrackElementName_StopStart" translation="Stop Start Track"/>
+		<entry key="TrackElementTool_StopStart" translation="&lt;font color='accent'&gt;Stop Start Track&lt;/font&gt;&#10;Allows the ride to stop for a certain amount of time before continuing."/>
 		<!--C5_Guests-->
 		<entry key="Guests_Status_GuestDestination_AtVistaPoint" translation="Admiring Vista Point"/>
 		<entry key="ShopItem_Acc_MobilePhoneLeft" translation="Mobile Phone"/>
@@ -5825,6 +5852,118 @@
 		<entry key="PopUp_SelectVistaFocusPart_Header" translation="Vista Focus Selection"/>
 		<entry key="PopUp_SelectVistaFocusPart_InvalidItem" translation="No valid piece selected"/>
 		<entry key="PopUp_SelectVistaFocusPart_Title" translation="Vista Focus Selection"/>
+		<!--C6_InfoPanel_Hotel-->
+		<entry key="InfoPanel_HotelRoom_ConnectRoomsLabel" translation="Connect Rooms to a Hotel via a Foyer Object"/>
+		<entry key="InfoPanel_HotelRoom_ConnectedTo" translation="Connected to"/>
+		<entry key="InfoPanel_HotelRoom_CostValue" translation="{cost:currency}"/>
+		<entry key="InfoPanel_HotelRoom_Information" translation="Room Information"/>
+		<entry key="InfoPanel_HotelRoom_Luxury" translation="Luxury Room"/>
+		<entry key="InfoPanel_HotelRoom_MonthlyRunningCosts" translation="Monthly running costs"/>
+		<entry key="InfoPanel_HotelRoom_Standard" translation="Standard Room"/>
+		<entry key="InfoPanel_HotelRoom_Type" translation="Room Type"/>
+		<entry key="InfoPanel_Hotel_AccommodationThoughts" translation="Accommodation Thoughts"/>
+		<entry key="InfoPanel_Hotel_ActivePerk" translation="Active Perk"/>
+		<entry key="InfoPanel_Hotel_ActivePerks" translation="Active Perks"/>
+		<entry key="InfoPanel_Hotel_AddHotelRooms" translation="Connect More Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_Arcade_Description" translation="•Medium boost to prestige.&#10;•Medium boost to family happiness.&#10;•Medium running cost."/>
+		<entry key="InfoPanel_Hotel_Arcade_Label" translation="Arcade"/>
+		<entry key="InfoPanel_Hotel_BaseChange" translation="Base costs"/>
+		<entry key="InfoPanel_Hotel_CantAffordChanges" translation="Cannot afford hotel changes"/>
+		<entry key="InfoPanel_Hotel_ConfirmChanges" translation="Confirm Changes"/>
+		<entry key="InfoPanel_Hotel_ConfirmCost" translation="Confirm: {Value:currency}"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelection" translation="Connect selection to Hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelectionTooManyItems" translation="Too many items to connect to Hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelectionUnownedDLC" translation="Selection contains unowned DLC"/>
+		<entry key="InfoPanel_Hotel_ConstructionChange" translation="Construction"/>
+		<entry key="InfoPanel_Hotel_ConstructionTitle" translation="Construction Costs"/>
+		<entry key="InfoPanel_Hotel_Dash" translation=""/>
+		<entry key="InfoPanel_Hotel_Expenses" translation="Expenses"/>
+		<entry key="InfoPanel_Hotel_FocusTooltip" translation="Locate Hotel Room"/>
+		<entry key="InfoPanel_Hotel_GeneralThoughts" translation="General Thoughts"/>
+		<entry key="InfoPanel_Hotel_GuestThoughts" translation="Guest Thoughts"/>
+		<entry key="InfoPanel_Hotel_Gym_Description" translation="•Medium boost to prestige.&#10;•Medium boost to adult happiness.&#10;•Medium running cost."/>
+		<entry key="InfoPanel_Hotel_Gym_Label" translation="Gym"/>
+		<entry key="InfoPanel_Hotel_Incoming" translation="Incoming"/>
+		<entry key="InfoPanel_Hotel_Info" translation="Hotel Information"/>
+		<entry key="InfoPanel_Hotel_LastMonth_Profit" translation="Last month's profit"/>
+		<entry key="InfoPanel_Hotel_Life_Profit" translation="Lifetime profit"/>
+		<entry key="InfoPanel_Hotel_LifetimeMonthlyRunning" translation="Lifetime running cost"/>
+		<entry key="InfoPanel_Hotel_LuxuryRoomMonthlyRunning" translation="Luxury Room monthly running cost"/>
+		<entry key="InfoPanel_Hotel_NoChanges" translation="No changes made"/>
+		<entry key="InfoPanel_Hotel_NoGuestThoughts" translation="There are no recent thoughts for this Hotel"/>
+		<entry key="InfoPanel_Hotel_Perk" translation="Hotel Perks"/>
+		<entry key="InfoPanel_Hotel_PerkDesc" translation="Hotel Perks increase Guest Happiness upon their stay."/>
+		<entry key="InfoPanel_Hotel_PerkMonthlyRunning" translation="Hotel Perks monthly running cost"/>
+		<entry key="InfoPanel_Hotel_PerkThoughts" translation="Perks Thoughts"/>
+		<entry key="InfoPanel_Hotel_Prestige" translation="Prestige"/>
+		<entry key="InfoPanel_Hotel_PrestigeToolTip" translation="This is the appeal and value of a hotel to guests. The prestige of a hotel is the sum of its:&#10;- Hotel Perks&#10;- Scenery Rating (%)&#10;- Rooms included&#10;Hotel perks get divided among the rooms, meaning larger hotels gain less benefit from perks compared to smaller hotels. Guests will be more inclined to use hotels with a higher prestige rating. They will also be willing to spend more money."/>
+		<entry key="InfoPanel_Hotel_PricePerNight" translation="Booking price per night for each group of guests"/>
+		<entry key="InfoPanel_Hotel_PriorityPass" translation="Priority Pass Required"/>
+		<entry key="InfoPanel_Hotel_PriorityPassTooltip" translation="Guests can only book these Rooms if they have bought a Priority Pass"/>
+		<entry key="InfoPanel_Hotel_Profit" translation="This month's profit"/>
+		<entry key="InfoPanel_Hotel_RemoveAllLuxury_Tooltip" translation="Disconnect all Luxury Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RemoveAllStandard_Tooltip" translation="Disconnect all Standard Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RemoveTooltip" translation="Disconnect Hotel Room"/>
+		<entry key="InfoPanel_Hotel_ResetAllHotelRooms" translation="Remove All Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_Restaurant_Description" translation="•Medium boost to prestige and happiness.&#10;•Medium boost to food and drink.&#10;•Medium running cost."/>
+		<entry key="InfoPanel_Hotel_Restaurant_Label" translation="Restaurant"/>
+		<entry key="InfoPanel_Hotel_RoomChange" translation="Room Coverage"/>
+		<entry key="InfoPanel_Hotel_RoomDesc" translation="Increase the capacity of your hotel by adding rooms."/>
+		<entry key="InfoPanel_Hotel_RoomName" translation="{ROOMNAME}"/>
+		<entry key="InfoPanel_Hotel_RoomNameLabel_Luxury" translation="Luxury Hotel Room"/>
+		<entry key="InfoPanel_Hotel_RoomNameLabel_Standard" translation="Standard Hotel Room"/>
+		<entry key="InfoPanel_Hotel_RoomPrices" translation="Hotel Prices"/>
+		<entry key="InfoPanel_Hotel_RoomPricesTitle" translation="Room Prices"/>
+		<entry key="InfoPanel_Hotel_RoomSelectAvailableLabel" translation="Available Hotel Rooms in radius"/>
+		<entry key="InfoPanel_Hotel_RoomSelectAvailableToolTip" translation="Available Hotel Rooms in the Hotel's radius"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedLabel" translation="Rooms connected to Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedListLabel" translation="Connected Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedToolTip" translation="Hotel Rooms that are already attached to the Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
+		<entry key="InfoPanel_Hotel_RoomSelectDescription" translation="Use the Multiselect tool to add new Hotel Rooms to your Hotel. Rooms with a red outline are too far away from the foyer object to be connected."/>
+		<entry key="InfoPanel_Hotel_RoomSelectDescriptionTwo" translation="A Hotel can have up to 100 rooms."/>
+		<entry key="InfoPanel_Hotel_RoomSelectGetMoreButton" translation="Get More Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedLabel" translation="Selected Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedListLabel" translation="Selected Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedToolTip" translation="Currently Selected Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSubTitle" translation="Connect Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectTitle" translation="Hotel Room Selector"/>
+		<entry key="InfoPanel_Hotel_RoomService_Description" translation="•Small boost to prestige and happiness.&#10;•Small boost to food and drink.&#10;•Low running cost."/>
+		<entry key="InfoPanel_Hotel_RoomService_Label" translation="Room Service"/>
+		<entry key="InfoPanel_Hotel_RoomTitle" translation="Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomUsage" translation="Room Usage"/>
+		<entry key="InfoPanel_Hotel_RoomUsageLabel" translation="{Current:int} / {Total:int} Rooms"/>
+		<entry key="InfoPanel_Hotel_Rooms" translation="Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomsTaken" translation="{Current:int} / {Total:int}"/>
+		<entry key="InfoPanel_Hotel_RunningCostMultiplier" translation="Running Cost Multiplier"/>
+		<entry key="InfoPanel_Hotel_RunningTitle" translation="New Hotel Perks monthly running cost"/>
+		<entry key="InfoPanel_Hotel_SceneryRating" translation="Scenery Rating (Counts towards prestige)"/>
+		<entry key="InfoPanel_Hotel_Service" translation="Hotel Perks"/>
+		<entry key="InfoPanel_Hotel_Spa_Description" translation="•Large boost to prestige and happiness.&#10;•High running cost."/>
+		<entry key="InfoPanel_Hotel_Spa_Label" translation="Spa"/>
+		<entry key="InfoPanel_Hotel_StandardRoomMonthlyRunning" translation="Standard Room monthly running cost"/>
+		<entry key="InfoPanel_Hotel_Stat_LuxuryRoomsTaken" translation="Luxury Rooms taken"/>
+		<entry key="InfoPanel_Hotel_Stat_StandardRoomsTaken" translation="Standard Rooms taken"/>
+		<entry key="InfoPanel_Hotel_Stats" translation="Hotel Information"/>
+		<entry key="InfoPanel_Hotel_StealRoomsHint" translation="Can select Rooms that are already connected to other Foyer objects"/>
+		<entry key="InfoPanel_Hotel_SyncPriceSettings" translation="Use the same Room Settings and Prices for all Hotels"/>
+		<entry key="InfoPanel_Hotel_TotalChange" translation="Total monthly running costs"/>
+		<entry key="InfoPanel_Hotel_TotalMonthlyRunning" translation="Total monthly running cost"/>
+		<entry key="InfoPanel_Hotel_Wifi_Description" translation="•Small boost to prestige.&#10;•Medium boost to happiness.&#10;•Low running cost."/>
+		<entry key="InfoPanel_Hotel_Wifi_Label" translation="Internet Access"/>
+		<!--C6_Research-->
+		<entry key="Research_Hint_ShopsAndFacilities_Hotel" translation="Hotels"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_Hotel" translation="Hotels"/>
+		<!--C6_Scenery-->
+		<entry key="BuildingPartDesc_HO_HotelEntrance" translation="Entrance to a hotel."/>
+		<entry key="BuildingPartDesc_HO_HotelRoom_Luxury" translation="Comes with complimentary soap and towels."/>
+		<entry key="BuildingPartDesc_HO_HotelRoom_Standard" translation="Standard room for standard guests."/>
+		<entry key="BuildingPartDesc_PC_RideCamTimeBox" translation="Sets the time of day seen in ride cam mode when triggered."/>
+		<entry key="BuildingPartName_HO_HotelEntrance" translation="Hotel Foyer"/>
+		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Hotel Room Luxury"/>
+		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Hotel Room Standard"/>
+		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Ride Cam Time Machine"/>
 		<!--Camera-->
 		<entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocità Scorrimento al Bordo"/>
@@ -5941,20 +6080,25 @@
 		<entry key="CoasterEditor_AutocompleteCannotBeAttempted" translation="Autocompletamento non possibile tra gli attuali segmenti finali"/>
 		<entry key="CoasterEditor_AutocompleteDisabled" translation="Autocompletamento non disponibile per questa attrazione"/>
 		<entry key="CoasterEditor_AutocompleteFailed" translation="Completamento Fallito"/>
+		<entry key="CoasterEditor_BoatColor" translation="Boat Colour"/>
+		<entry key="CoasterEditor_BusColor" translation="Bus Colour"/>
 		<entry key="CoasterEditor_Camera" translation="Camera"/>
 		<entry key="CoasterEditor_CarColor" translation="Colore vettura"/>
 		<entry key="CoasterEditor_Delete" translation="Elimina"/>
 		<entry key="CoasterEditor_ExtraSettings" translation="Impostazioni Utility"/>
 		<entry key="CoasterEditor_FreeCamera" translation="Libera"/>
 		<entry key="CoasterEditor_HeatmapG" translation="{VALUE:int} G"/>
+		<entry key="CoasterEditor_KartColor" translation="Kart Colour"/>
 		<entry key="CoasterEditor_Loops" translation="Giri della morte"/>
 		<entry key="CoasterEditor_NonInverted" translation="Non-invertito"/>
+		<entry key="CoasterEditor_RaftColor" translation="Raft Colour"/>
 		<entry key="CoasterEditor_ReverseDirection" translation="Direzione contraria"/>
 		<entry key="CoasterEditor_Rolls" translation="Avvitamenti"/>
 		<entry key="CoasterEditor_Scenery" translation="Scenario"/>
 		<entry key="CoasterEditor_Settings" translation="Impostazioni"/>
 		<entry key="CoasterEditor_ShowBank" translation="Mostra Curva"/>
 		<entry key="CoasterEditor_ShowCoasterName" translation="Show Coaster Name"/>
+		<entry key="CoasterEditor_SleighColor" translation="Sleigh Colour"/>
 		<entry key="CoasterEditor_Smooth" translation="Appiattisci tutto"/>
 		<entry key="CoasterEditor_SmoothBanking" translation="Appiattisci Curva"/>
 		<entry key="CoasterEditor_Speed" translation="Velocità"/>
@@ -5971,6 +6115,7 @@
 		<entry key="CoasterEditor_TopHat" translation="Top Hat"/>
 		<entry key="CoasterEditor_Track" translation="Tracciato"/>
 		<entry key="CoasterEditor_TrackColor" translation="Colore Tracciato"/>
+		<entry key="CoasterEditor_TrainColor" translation="Train Colour"/>
 		<entry key="CoasterEditor_Trains" translation="Treni"/>
 		<entry key="CoasterEditor_TunnelWidth" translation="Larghezza Tunnel"/>
 		<entry key="CoasterEditor_Utilities" translation="Varie"/>
@@ -6181,7 +6326,10 @@
 		<entry key="BuildingPartName_SH_Hats" translation="Cappelli Fantastici"/>
 		<entry key="BuildingPartName_SH_Souvenirs" translation="Just A Momento"/>
 		<entry key="BuildingPartName_TO_Toilets_Standard" translation="Bagni Standard"/>
+		<entry key="BuildingPrefixName_HO_HotelRoom_Luxury" translation="Luxury Room"/>
+		<entry key="BuildingPrefixName_HO_HotelRoom_Standard" translation="Standard Room"/>
 		<entry key="GenericFacilityPrefix" translation="Servizio"/>
+		<entry key="GenericHotelPrefix" translation="Hotel"/>
 		<entry key="ShopItem_Balloon_01" translation="Palloncino Rosso"/>
 		<entry key="ShopItem_Balloon_02" translation="Palloncino Arancione"/>
 		<entry key="ShopItem_Balloon_03" translation="Palloncino Verde"/>
@@ -12905,6 +13053,7 @@
 		<entry key="GuestPerkDesc_DayTripper" translation="Una visita breve, ma un'ampia scelta di attrazioni"/>
 		<entry key="GuestPerkDesc_Energetic" translation="Sono un pozzo di energia"/>
 		<entry key="GuestPerkDesc_Fast" translation="Vanno in giro più velocemente di altri"/>
+		<entry key="GuestPerkDesc_HotelLover" translation="They're more likely to check out your hotels"/>
 		<entry key="GuestPerkDesc_Hungry" translation="Hanno un metabolismo veloce"/>
 		<entry key="GuestPerkDesc_Impatient" translation="Odiano davvero fare la coda"/>
 		<entry key="GuestPerkDesc_Indecisive" translation="Cambiano spesso idea sulla destinazione"/>
@@ -12930,6 +13079,7 @@
 		<entry key="GuestPerk_DayTripper" translation="Visitatore di un giorno"/>
 		<entry key="GuestPerk_Energetic" translation="Pieno di energia"/>
 		<entry key="GuestPerk_Fast" translation="Camminatore veloce"/>
+		<entry key="GuestPerk_HotelLover" translation="Weekender"/>
 		<entry key="GuestPerk_Hungry" translation="Affamato"/>
 		<entry key="GuestPerk_Impatient" translation="Impaziente"/>
 		<entry key="GuestPerk_Indecisive" translation="Indeciso"/>
@@ -13269,6 +13419,7 @@
 		<entry key="PopUp_MultiSelect_BlueprintTooManyTrackedRides" translation="I progetti non possono contenere più di 5 montagne russe."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge" translation="Aggiungi scenario indipendente all'edificio selezionato."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge_TooBig" translation="Non è possibile aggiungere uno scenario per creare un edificio con più di 5000 pezzi tra costruzioni e scenario."/>
+		<entry key="PopUp_MultiSelect_CloneNoRides" translation="Cannot Duplicate rides."/>
 		<entry key="PopUp_MultiSelect_ContainsLockedItems" translation="Contains locked items"/>
 		<entry key="PopUp_MultiSelect_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Montagne Russe nella Catena"/>
@@ -13309,6 +13460,7 @@
 		<entry key="PopUp_MultiSelect_Title_MultiScenery" translation="Scenari selezionati ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_PatrolZones" translation="Crea zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_Title_SingleCustomNamed" translation="{NAME}"/>
+		<entry key="PopUp_MultiSelect_TooManyBuildings" translation="Cannot Duplicate more than one building at a time."/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiBlueprint" translation="Salva selezione come Progetto"/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiDelete" translation="Elimina selezione [{#LogicalButton.Editors_Delete#}]"/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiMove" translation="Sposta selezione [{#LogicalButton.Editors_Move#}]"/>
@@ -13410,6 +13562,9 @@
 		<entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
 		<entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
 		<entry key="PopUp_Ride_BlockSectionedMode" translation="Sezioni Bloccanti"/>
+		<entry key="PopUp_Ride_BoatSpeed" translation="Boat Speed"/>
+		<entry key="PopUp_Ride_BusPerTrain" translation="Cars per bus"/>
+		<entry key="PopUp_Ride_BusSpeed" translation="Bus Speed"/>
 		<entry key="PopUp_Ride_Capacity" translation="Capacità"/>
 		<entry key="PopUp_Ride_CarSpeed" translation="Velocità Vettura"/>
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
@@ -13464,6 +13619,7 @@
 		<entry key="PopUp_Ride_GuestsPerHour" translation="Visitatori per ora: {LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_Guests_Soon" translation="Pensieri sull'attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_IdealPrice" translation="Costo Biglietto Ideale: {VALUE:currency}"/>
+		<entry key="PopUp_Ride_KartSpeed" translation="Kart Speed"/>
 		<entry key="PopUp_Ride_LapsHint" translation="Non è possibile modificare il numero dei giri mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_LastMonthsProfit" translation="Profitto ultimo mese"/>
 		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Non bloccare la stazione"/>
@@ -13504,10 +13660,15 @@
 		<entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - costi servizio"/>
 		<entry key="PopUp_Ride_MoveEntrance" translation="Sposta entrata"/>
 		<entry key="PopUp_Ride_MoveExit" translation="Sposta uscita"/>
-		<entry key="PopUp_Ride_NumCars" translation="Numero vetture"/>
+		<entry key="PopUp_Ride_NumBoat" translation="Number of boats"/>
+		<entry key="PopUp_Ride_NumBus" translation="Number of buses"/>
+		<entry key="PopUp_Ride_NumCar" translation="Number of cars"/>
+		<entry key="PopUp_Ride_NumKart" translation="Number of karts"/>
 		<entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
 		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
-		<entry key="PopUp_Ride_NumTrains" translation="Numero di treni"/>
+		<entry key="PopUp_Ride_NumRaft" translation="Number of rafts"/>
+		<entry key="PopUp_Ride_NumSleigh" translation="Number of sleighs"/>
+		<entry key="PopUp_Ride_NumTrain" translation="Number of trains"/>
 		<entry key="PopUp_Ride_NumTrainsLimit" translation="Per aggiungere più treni prova ad aumentare la lunghezza della stazione, o ridurre il numero delle vetture per treno."/>
 		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più treni prova ad aggiungere sezioni aggiuntive."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
@@ -13528,7 +13689,9 @@
 		<entry key="PopUp_Ride_QueueTime" translation="Tempo Coda"/>
 		<entry key="PopUp_Ride_QueueTime_Debug" translation="Tempo Coda: {LAST:float}s ({AVERAGE:float}s media)"/>
 		<entry key="PopUp_Ride_Racing" translation="Opzioni Corsa"/>
+		<entry key="PopUp_Ride_RaftSpeed" translation="Raft Speed"/>
 		<entry key="PopUp_Ride_Refresh" translation="Aggiorna"/>
+		<entry key="PopUp_Ride_SleighSpeed" translation="Sleigh Speed"/>
 		<entry key="PopUp_Ride_TimeBetweenDepartures" translation="Intervallo Partenze"/>
 		<entry key="PopUp_Ride_TimeBetweenDeparturesHint" translation="Il tempo che deve trascorrere prima di permettere al treno di partire&#10;- Utile per far spazio tra le vetture&#10;- Si applica anche quando l'attrazione è completamente carica"/>
 		<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minuti"/>
@@ -13606,6 +13769,8 @@
 		<!--InfoPanel_Facility-->
 		<entry key="InfoPanel_Facility_BuildingStats" translation="Facility Statistics"/>
 		<entry key="InfoPanel_Facility_Cleanliness" translation="Cleanliness"/>
+		<entry key="InfoPanel_Facility_Debug_LuxuryRooms" translation="Luxury Rooms"/>
+		<entry key="InfoPanel_Facility_Debug_StandardRooms" translation="Standard Rooms"/>
 		<entry key="InfoPanel_Facility_Finance" translation="Economia"/>
 		<entry key="InfoPanel_Facility_Finances" translation="Statistiche Economiche"/>
 		<entry key="InfoPanel_Facility_Information" translation="Informazioni struttura"/>
@@ -13761,6 +13926,8 @@
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
 		<entry key="InfoPanel_MiscreantRunSpeed" translation="Miscreant Run Speed"/>
 		<!--InfoPanel_ModularScenery-->
+		<entry key="InfoPanel_EditModularScenery_ApparentTime" translation="Visual time"/>
+		<entry key="InfoPanel_EditModularScenery_BlendTime" translation="Fade time"/>
 		<entry key="InfoPanel_EditModularScenery_ConnectedTo" translation="Connected to"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Costo Per Innesco"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Console Effetti Speciali"/>
@@ -13794,18 +13961,25 @@
 		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitMulti" translation="Separa Selezione dalla Struttura"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitSingle" translation="Separa dalla Struttura"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerActivated" translation="Activated"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerActivated_Desc" translation="Play this object indefinitely."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerControlled" translation="Attiva su Innesco"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerControlledTriggerCostToolTip" translation="Questo elemento ha un costo per innesco e non farà nulla se non innescato"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerDeactivated" translation="Deactivated"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerDeactivated_Desc" translation="Turn off this object."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerDisactivated" translation="This item will not respond to any external Trigger Events."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerDuration" translation="Durata Innesco"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerLoop" translation="Loop"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerLoop_Desc" translation="Play this object indefinitely."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor" translation="Avvia per"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor_Tooltip" translation="Una volta innescata, l'animazione si svolgerà per un numero definito di secondi."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayImage_Tooltip" translation="Una volta innescata, l'immagine verrà mostrata per un numero definito di secondi."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayOnce" translation="Play once every X Seconds"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayOnce_Desc" translation="Play this object once every X seconds. The value of X can be changed."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayVideo_Tooltip" translation="Una volta innescati, i video saranno mostrati per intero."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerStationary" translation="Stationary"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerStationary_Desc" translation="Turn off this object."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerToggleState" translation="Play every X Seconds"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerToggleState_Desc" translation="Play this object for a controllable amount of time every X seconds. The value of X can be changed."/>
 		<entry key="InfoPanel_ModularScenery_TitleGroup" translation="{NAME}"/>
 		<entry key="InfoPanel_ModularScenery_Tooltip_Edit" translation="Modifica Struttura [{#LogicalButton.Editors_StartEditing#}]"/>
 		<!--InfoPanel_Ride-->
@@ -14034,6 +14208,7 @@
 		<entry key="InfoPanel_Staff_WorkTask_EjectGuestGroup" translation="Caccia via Gruppi di visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestEntertained" translation="Intrattiene i visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestServed" translation="Serve i visitatori"/>
+		<entry key="InfoPanel_Staff_WorkTask_HotelCleaned" translation="Clean Hotel Rooms"/>
 		<entry key="InfoPanel_Staff_WorkTask_LitterCleared" translation="Rifiuti"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideInspected" translation="Ispezioni"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideRefurbished" translation="Ristrutturazioni"/>
@@ -14049,6 +14224,7 @@
 		<entry key="InfoPanel_Staff_WorkType_Stat_EjectGuestGroup" translation="Gruppi di visitatori cacciati via il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_GuestEntertained" translation="Visitatori Intrattenuti"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_GuestServed" translation="Visitatori Serviti"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_HotelCleaned" translation="Hotel Rooms cleaned last month"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_Level" translation="Livello Staff"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_LitterCleared" translation="Rifiuti Eliminati"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideInspected" translation="Ispezioni questo mese"/>
@@ -14061,25 +14237,46 @@
 		<!--InfoPanel_Track-->
 		<entry key="GUI_audioFileToken" translation="{Name}"/>
 		<entry key="InfoPanel_Track_AddTrain" translation="Aggiungi Treno"/>
+		<entry key="InfoPanel_Track_BoatType" translation="Boat Type"/>
+		<entry key="InfoPanel_Track_BoatType_Hint" translation="Cannot change boat while ride is open."/>
+		<entry key="InfoPanel_Track_BoatType_Label" translation="Select Boat To Spawn"/>
+		<entry key="InfoPanel_Track_BusType" translation="Bus Type"/>
+		<entry key="InfoPanel_Track_BusType_Hint" translation="Cannot change the bus while the ride is open."/>
+		<entry key="InfoPanel_Track_BusType_Label" translation="Select Bus To Spawn"/>
 		<entry key="InfoPanel_Track_CameraTab" translation="Camera"/>
-		<entry key="InfoPanel_Track_CarTypes" translation="Tipo Vagone"/>
-		<entry key="InfoPanel_Track_CarTypes_Hint" translation="Cannot change car while ride is open."/>
-		<entry key="InfoPanel_Track_CarTypes_Label" translation="Select Car To Spawn"/>
+		<entry key="InfoPanel_Track_CarType" translation="Car Type"/>
+		<entry key="InfoPanel_Track_CarType_Hint" translation="Cannot change car while ride is open."/>
+		<entry key="InfoPanel_Track_CarType_Label" translation="Select Car To Spawn"/>
 		<entry key="InfoPanel_Track_ChaseCamera" translation="Visuale a inseguimento"/>
 		<entry key="InfoPanel_Track_CinematicCamera" translation="Visuale Cinematica"/>
 		<entry key="InfoPanel_Track_CloseBeforeEdit" translation="Devi chiudere l'attrazione prima di modificarne il tracciato"/>
 		<entry key="InfoPanel_Track_DeleteTrains" translation="Rimuovi Treno"/>
 		<entry key="InfoPanel_Track_Edit" translation="Modifica Tracciato"/>
 		<entry key="InfoPanel_Track_EditTriggers" translation="Modifica Inneschi"/>
+		<entry key="InfoPanel_Track_FixBeforeEdit" translation="You must fix the ride before you can edit the track"/>
 		<entry key="InfoPanel_Track_FlexiColour" translation="Colori Attrazione"/>
 		<entry key="InfoPanel_Track_FrontLookCamera" translation="Visuale Frontale"/>
 		<entry key="InfoPanel_Track_GuestCamera" translation="Visuale visitatori"/>
+		<entry key="InfoPanel_Track_KartType" translation="Kart Type"/>
+		<entry key="InfoPanel_Track_KartType_Hint" translation="Cannot change kart while ride is open."/>
+		<entry key="InfoPanel_Track_KartType_Label" translation="Select Kart To Spawn"/>
 		<entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale visitatori"/>
 		<entry key="InfoPanel_Track_LookBackCamera" translation="Visuale invertita"/>
 		<entry key="InfoPanel_Track_Name" translation="Tracciato"/>
 		<entry key="InfoPanel_Track_NewBuilding" translation="Costruisci sulla Griglia della Stazione"/>
-		<entry key="InfoPanel_Track_NumCars" translation="Vagoni"/>
+		<entry key="InfoPanel_Track_NumBoat" translation="Boats"/>
+		<entry key="InfoPanel_Track_NumBus" translation="Buses"/>
+		<entry key="InfoPanel_Track_NumCar" translation="Cars"/>
+		<entry key="InfoPanel_Track_NumKart" translation="Karts"/>
+		<entry key="InfoPanel_Track_NumRaft" translation="Rafts"/>
+		<entry key="InfoPanel_Track_NumSleigh" translation="Sleighs"/>
+		<entry key="InfoPanel_Track_RaftType" translation="Raft Type"/>
+		<entry key="InfoPanel_Track_RaftType_Hint" translation="Cannot change raft while ride is open."/>
+		<entry key="InfoPanel_Track_RaftType_Label" translation="Select Raft To Spawn"/>
 		<entry key="InfoPanel_Track_SaveBlueprint" translation="Salva Progetto"/>
+		<entry key="InfoPanel_Track_SleighType" translation="Sleigh Type"/>
+		<entry key="InfoPanel_Track_SleighType_Hint" translation="Cannot change sleigh while ride is open."/>
+		<entry key="InfoPanel_Track_SleighType_Label" translation="Select Sleigh To Spawn"/>
 		<entry key="InfoPanel_Track_TrainType" translation="Treno"/>
 		<entry key="InfoPanel_Track_TrainType_Hint" translation="Cannot change train while ride is open."/>
 		<entry key="InfoPanel_Track_TrainType_Label" translation="Select Train To Spawn"/>
@@ -14263,6 +14460,30 @@
 		<entry key="Ambience_Event_AMB_Adventure_Warehouse" translation="Warehouse"/>
 		<entry key="Ambience_Event_AMB_AirCraftCarrierBridge" translation="Ponte Portaerei"/>
 		<entry key="Ambience_Event_AMB_AlienForest" translation="Foresta Aliena"/>
+		<entry key="Ambience_Event_AMB_BL_1990sStreet" translation="1990's Street"/>
+		<entry key="Ambience_Event_AMB_BL_90sRaveBar" translation="Outside a 90's Club"/>
+		<entry key="Ambience_Event_AMB_BL_CityConstruction" translation="Construction Site"/>
+		<entry key="Ambience_Event_AMB_BL_CityPark" translation="City Park"/>
+		<entry key="Ambience_Event_AMB_BL_EarlyMorningInTheCity" translation="Early Morning in the City"/>
+		<entry key="Ambience_Event_AMB_BL_Earthquake" translation="Earthquake and Aftershocks"/>
+		<entry key="Ambience_Event_AMB_BL_EmergencyVehicles" translation="Emergency Vehicles Responding"/>
+		<entry key="Ambience_Event_AMB_BL_FilmSet" translation="Film Set: Scene being Set up"/>
+		<entry key="Ambience_Event_AMB_BL_FilmSetTake" translation="Film Set: Scene 2 - Take 5"/>
+		<entry key="Ambience_Event_AMB_BL_GiantHole" translation="Giant Cavern Under the City"/>
+		<entry key="Ambience_Event_AMB_BL_GladiatorArena" translation="Gladiator Arena"/>
+		<entry key="Ambience_Event_AMB_BL_HotelLobby" translation="Hotel Lobby"/>
+		<entry key="Ambience_Event_AMB_BL_Office" translation="Office Floor"/>
+		<entry key="Ambience_Event_AMB_BL_PlanconeyIslandFerryTerminal" translation="Planconey Island Ferry Terminal"/>
+		<entry key="Ambience_Event_AMB_BL_Sewer" translation="Sewer"/>
+		<entry key="Ambience_Event_AMB_BL_Shootout" translation="Shootout"/>
+		<entry key="Ambience_Event_AMB_BL_StockExchange" translation="Stock Exchange Opening and Trading"/>
+		<entry key="Ambience_Event_AMB_BL_StreetNearLTrain" translation="Street near L-Train"/>
+		<entry key="Ambience_Event_AMB_BL_SubwayStation" translation="Subway Station"/>
+		<entry key="Ambience_Event_AMB_BL_Swordfight" translation="Several Knights Fighting"/>
+		<entry key="Ambience_Event_AMB_BL_Tunnel" translation="Car Tunnel"/>
+		<entry key="Ambience_Event_AMB_BL_UndergroundCarPark" translation="Underground Car Park"/>
+		<entry key="Ambience_Event_AMB_BL_WeHaveYouSurrounded" translation="We Have You Surrounded"/>
+		<entry key="Ambience_Event_AMB_BL_ZombieGroup" translation="Group of Zombies"/>
 		<entry key="Ambience_Event_AMB_BackwardsVoices" translation="Voci da dietro"/>
 		<entry key="Ambience_Event_AMB_BewitchedForest" translation="Foresta Stregata"/>
 		<entry key="Ambience_Event_AMB_Blacksmith" translation="Forgia del fabbro"/>
@@ -14328,6 +14549,7 @@
 		<entry key="Ambience_Event_AMB_Western_Town_Showdown" translation="Duello al Villaggio Western"/>
 		<entry key="Ambience_Event_AMB_WhisperDrone" translation="Sussurrando nell'Oscurità"/>
 		<entry key="Music_Heading_Adventure" translation="Adventure"/>
+		<entry key="Music_Heading_BlockBuster" translation="Studios"/>
 		<entry key="Music_Heading_Classic" translation="Classica"/>
 		<entry key="Music_Heading_Coaster" translation="Musica da Montagna Russa"/>
 		<entry key="Music_Heading_Electronica" translation="Elettronica"/>
@@ -14356,6 +14578,11 @@
 		<entry key="Music_Track_AdventureTheme1" translation="Planet Adventure"/>
 		<entry key="Music_Track_AdventureTheme2" translation="Adventure Capital"/>
 		<entry key="Music_Track_BelongInTheAir" translation="Librarsi nell'Aria"/>
+		<entry key="Music_Track_BlockbusterSceneSetter1" translation="Cops ‘n’ Coasters"/>
+		<entry key="Music_Track_BlockbusterSceneSetter2" translation="Chief Beef of Police"/>
+		<entry key="Music_Track_BlockbusterSceneSetter3" translation="The Golden Age"/>
+		<entry key="Music_Track_BlockbusterSceneSetter4" translation="Stick to the Planco"/>
+		<entry key="Music_Track_BlockbusterSceneSetter5" translation="Coaster Royale"/>
 		<entry key="Music_Track_BumperCarMedley" translation="Medley Autoscontro "/>
 		<entry key="Music_Track_CLD" translation="Collisione tra Pianeti"/>
 		<entry key="Music_Track_CSL" translation="Doppio Strato di Piacere (Classica)"/>
@@ -14379,6 +14606,7 @@
 		<entry key="Music_Track_HeadInTheClouds" translation="Con la Testa tra le Nuvole"/>
 		<entry key="Music_Track_HeadInTheCloudsFast" translation="Con la Testa tra le Nuvole (Veloce)"/>
 		<entry key="Music_Track_Hellion" translation="Pianeta Euphoria"/>
+		<entry key="Music_Track_HorrorHeights" translation="Horror Heights"/>
 		<entry key="Music_Track_JDMAdventurousOrch" translation="Coaster Avventuroso"/>
 		<entry key="Music_Track_JDMHybridOrch" translation="Coaster in Azione"/>
 		<entry key="Music_Track_Kickflip" translation="Carosello Rockabilly"/>
@@ -14547,6 +14775,8 @@
 		<entry key="Notification_GuestsTrapped" translation="Molti visitatori sono intrappolati nel parco."/>
 		<entry key="Notification_HighPickpocketing" translation="Nel tuo parco ci sono alti livelli di crimine, il risultato è molti visitatori infelici e a cui capitano più borseggi. Considera di migliorare la sicurezza."/>
 		<entry key="Notification_HighVandalism" translation="Nel parco ci sono molti oggetti vandalizzati, che ridurranno la felicità dei visitatorii e la valutazione del parco. Considera di assumere un Manutentore, migliorare la sicurezza e pensare alla felicità dei visitatori."/>
+		<entry key="Notification_HotelNoPath" translation="The entrance of {Name} is not accessible from the Park Entrance"/>
+		<entry key="Notification_HotelNoPathStacked" translation="Multiple hotel entrances are not accessible from the Park Entrance"/>
 		<entry key="Notification_MarketingButton" translation="Visualizza Marketing"/>
 		<entry key="Notification_MarketingCampaignCompleted" translation="La campagna di marketing si è conclusa&#10;'{Name}'"/>
 		<entry key="Notification_MarketingCampaignCompletedCantRenew" translation="La campagna di marketing è fallita per mancanza di fondi&#10;'{Name}'"/>
@@ -14656,6 +14886,7 @@
 		<entry key="Notification_TriggerFailedForCost" translation="Un oggetto innescato non ha funzionato, perchè ti mancano i fondi per farlo."/>
 		<entry key="Notification_TriggerFailedForCostStacked" translation="Degli oggetti innescati non hanno funzionato, perchè ti mancano i fondi per farlo."/>
 		<entry key="Notification_TriggeredItemButton" translation="Vedi Oggetti Innescati"/>
+		<entry key="Notification_UnownedHotelRooms" translation="Your park contains hotel rooms unconnected to a hotel. These are not available"/>
 		<entry key="Notification_VandalisedObjectNearSecurityCamera" translation="Vandalismo registrato da una telecamera di sicurezza."/>
 		<entry key="Notification_VandalisedObjectNearSecurityCameraStacked" translation="Molti atti di vandalismo sono stati visti da una telecamera di sicurezza."/>
 		<entry key="Notification_Vandalism" translation="Visualizza"/>
@@ -15188,6 +15419,7 @@
 		<entry key="Station_Type_station_TK_204_Bucket_leftleft" translation="Station with left entry and left exit"/>
 		<entry key="TK_203_log_0" translation="Rail"/>
 		<entry key="TK_203_log_1" translation="Water Channel"/>
+		<entry key="TrackFeature_PoweredVehicle" translation="- Powered Vehicle"/>
 		<entry key="Water_IVenture" translation="Island Adventure"/>
 		<entry key="Water_IVenture_Desc" translation="Steam powered boat that follows a track for scenic purposes or for transportation. Should be placed in a lake or body of water."/>
 		<entry key="Water_LandHo" translation="Land Ahoy"/>
@@ -16205,6 +16437,1038 @@
 		<entry key="BuildingPartName_Rope_Bridge_Large_Cap" translation="Rope Bridge Large Cap"/>
 		<entry key="BuildingPartName_Rope_Bridge_Large_Mid" translation="Rope Bridge Large Mid"/>
 		<entry key="Tag_PDLC_Adventure" translation="Adventure"/>
+		<!--PDLC_BlockBuster_Blueprints-->
+		<entry key="Blueprints_AlleyScene" translation="Alley Scene"/>
+		<entry key="Blueprints_AlleySceneDesc" translation="Alley Scene.&#10;Studios Pack"/>
+		<entry key="Blueprints_Awardsceremony" translation="Awards Ceremony"/>
+		<entry key="Blueprints_AwardsceremonyDesc" translation="Awards ceremony"/>
+		<entry key="Blueprints_Backlottour" translation="Back Lot Tour"/>
+		<entry key="Blueprints_BacklottourDesc" translation="Back lot tour"/>
+		<entry key="Blueprints_Bank" translation="Bank"/>
+		<entry key="Blueprints_BankDesc" translation="Bank.&#10;Studios Pack"/>
+		<entry key="Blueprints_BoutiqueSouvenirshop" translation="Boutique Souvenir Shop"/>
+		<entry key="Blueprints_BoutiqueSouvenirshopDesc" translation="Boutique Souvenir Shop"/>
+		<entry key="Blueprints_BusStop" translation="Bus Stop"/>
+		<entry key="Blueprints_BusStopDesc" translation="Bus Stop"/>
+		<entry key="Blueprints_CalltheSheriff" translation="Call The Sheriff"/>
+		<entry key="Blueprints_CalltheSheriffDesc" translation="Call the Sheriff"/>
+		<entry key="Blueprints_CarExplosionTrafficJam" translation="Car Explosion Traffic Jam"/>
+		<entry key="Blueprints_CarExplosionTrafficJamDesc" translation="Car Explosion Traffic Jam"/>
+		<entry key="Blueprints_Carribean_Hotel_01" translation="Caribbean Hotel"/>
+		<entry key="Blueprints_Carribean_Hotel_01Desc" translation="A Caribbean themed hotel."/>
+		<entry key="Blueprints_CoasterPerk" translation="City Street"/>
+		<entry key="Blueprints_CoasterPerkDesc" translation="City street"/>
+		<entry key="Blueprints_CopsandRobbers" translation="Cops And Robbers"/>
+		<entry key="Blueprints_CopsandRobbersDesc" translation="Cops and Robbers"/>
+		<entry key="Blueprints_CornerStore" translation="Corner Store"/>
+		<entry key="Blueprints_CornerStoreDesc" translation="Corner Store.&#10;Studios Pack"/>
+		<entry key="Blueprints_CourthouseDrama" translation="Courthouse Drama"/>
+		<entry key="Blueprints_CourthouseDramaDesc" translation="Courthouse scene."/>
+		<entry key="Blueprints_CrashedBus" translation="Crashed Bus"/>
+		<entry key="Blueprints_CrashedBusDesc" translation="Crashed Bus.&#10;Studios Pack"/>
+		<entry key="Blueprints_DragonFightScene" translation="Dragon Fight Scene"/>
+		<entry key="Blueprints_DragonFightSceneDesc" translation="Dragon Fight Scene"/>
+		<entry key="Blueprints_FT_Hotel_01" translation="Fairytale Hotel"/>
+		<entry key="Blueprints_FT_Hotel_01Desc" translation="A fairytale mansion themed hotel with hotel objects."/>
+		<entry key="Blueprints_FT_Hotel_02" translation="Castle Hotel"/>
+		<entry key="Blueprints_FT_Hotel_02Desc" translation="A castle themed hotel."/>
+		<entry key="Blueprints_FireDepartment" translation="Fire Department"/>
+		<entry key="Blueprints_FireDepartmentDesc" translation="Fire Department"/>
+		<entry key="Blueprints_FireStation" translation="Fire Station"/>
+		<entry key="Blueprints_FireStationDesc" translation="Fire Station.&#10;Studios Pack"/>
+		<entry key="Blueprints_GeneralStore" translation="General Store"/>
+		<entry key="Blueprints_GeneralStoreDesc" translation="General Store"/>
+		<entry key="Blueprints_Goingunderground" translation="Going Underground"/>
+		<entry key="Blueprints_GoingundergroundDesc" translation="Going Underground"/>
+		<entry key="Blueprints_HighPursuitScene" translation="High Pursuit Scene"/>
+		<entry key="Blueprints_HighPursuitSceneDesc" translation="High Pursuit Scene"/>
+		<entry key="Blueprints_HorrorHeightsBlueprint01" translation="Erie Elevation"/>
+		<entry key="Blueprints_HorrorHeightsBlueprint01Desc" translation="A layout for the Horror Heights flat ride.&#10;Studios Pack"/>
+		<entry key="Blueprints_Hotel_01" translation="Parkside Hotel"/>
+		<entry key="Blueprints_Hotel_01Desc" translation="A large modern hotel."/>
+		<entry key="Blueprints_HouseFire" translation="House Fire"/>
+		<entry key="Blueprints_HouseFireDesc" translation="Generic burning terrace house with small explosions."/>
+		<entry key="Blueprints_IdleCrew" translation="Idle Crew"/>
+		<entry key="Blueprints_IdleCrewDesc" translation="Idle Crew.&#10;Studios Pack"/>
+		<entry key="Blueprints_KnightFightScene" translation="Knight Fight Scene"/>
+		<entry key="Blueprints_KnightFightSceneDesc" translation="Knight Fight Scene.&#10;Studios Pack"/>
+		<entry key="Blueprints_KnightsBattle" translation="Knight’s Battle"/>
+		<entry key="Blueprints_KnightsBattleDesc" translation="Knight battle scene in a tournament square.&#10;Studios Pack"/>
+		<entry key="Blueprints_LastStand" translation="Last Stand"/>
+		<entry key="Blueprints_LastStandDesc" translation="Last Stand.&#10;Studios Pack"/>
+		<entry key="Blueprints_MotorwayPileup" translation="Motorway Pileup"/>
+		<entry key="Blueprints_MotorwayPileupDesc" translation="Motorway Pileup"/>
+		<entry key="Blueprints_NoEscape" translation="No Escape"/>
+		<entry key="Blueprints_NoEscapeDesc" translation="No Escape"/>
+		<entry key="Blueprints_OfficeBuilding_01" translation="Office Building 1"/>
+		<entry key="Blueprints_OfficeBuilding_01Desc" translation="An office building."/>
+		<entry key="Blueprints_OfficeBuilding_02" translation="Office Building 2"/>
+		<entry key="Blueprints_OfficeBuilding_02Desc" translation="An office building."/>
+		<entry key="Blueprints_OfficeBuilding_03" translation="Office Building Damaged"/>
+		<entry key="Blueprints_OfficeBuilding_03Desc" translation="An office building that has been partially destroyed."/>
+		<entry key="Blueprints_OvergroundTrainStation" translation="Over Ground Train Station"/>
+		<entry key="Blueprints_OvergroundTrainStationDesc" translation="Over ground Train Station"/>
+		<entry key="Blueprints_PC_Hotel_01" translation="Planet Coaster Hotel"/>
+		<entry key="Blueprints_PC_Hotel_01Desc" translation="A coaster themed hotel."/>
+		<entry key="Blueprints_Performancestage" translation="Performance Stage"/>
+		<entry key="Blueprints_PerformancestageDesc" translation="Performance stage.&#10;Studios Pack"/>
+		<entry key="Blueprints_Pirate_Hotel_01" translation="Pirate Hotel"/>
+		<entry key="Blueprints_Pirate_Hotel_01Desc" translation="A pirate themed hotel."/>
+		<entry key="Blueprints_PiratesofPlanetCoasterRide" translation="Pirates of Planet Coaster Ride"/>
+		<entry key="Blueprints_PiratesofPlanetCoasterRideDesc" translation="Pirates of Planet Coaster Ride"/>
+		<entry key="Blueprints_PlanetCoasterStudioTour" translation="Planet Coaster Studio Tour"/>
+		<entry key="Blueprints_PlanetCoasterStudioTourDesc" translation="Planet Coaster Studio Tour"/>
+		<entry key="Blueprints_PoliceCrash" translation="Police Crash"/>
+		<entry key="Blueprints_PoliceCrashDesc" translation="Police Crash"/>
+		<entry key="Blueprints_PoliceStation" translation="Police Station"/>
+		<entry key="Blueprints_PoliceStationDesc" translation="Police Station"/>
+		<entry key="Blueprints_Policeraid" translation="Police Raid"/>
+		<entry key="Blueprints_PoliceraidDesc" translation="Police raid"/>
+		<entry key="Blueprints_Policeroadblockscene" translation="Police Road Block Scene"/>
+		<entry key="Blueprints_PoliceroadblocksceneDesc" translation="Police road block scene"/>
+		<entry key="Blueprints_PostOffice" translation="Post Office"/>
+		<entry key="Blueprints_PostOfficeDesc" translation="Post Office"/>
+		<entry key="Blueprints_Radioactivesharktank" translation="Radioactive Shark Tank"/>
+		<entry key="Blueprints_RadioactivesharktankDesc" translation="Radioactive Shark Tank.&#10;Studios Pack"/>
+		<entry key="Blueprints_ReMotionBlueprint01" translation="Panic At The Parking Lot"/>
+		<entry key="Blueprints_ReMotionBlueprint01Desc" translation="A layout for the Re-Motion tracked ride.&#10;Studios Pack"/>
+		<entry key="Blueprints_Riviera_Hotel_01" translation="Riviera Hotel 1"/>
+		<entry key="Blueprints_Riviera_Hotel_01Desc" translation="A Riviera themed hotel with hotel objects."/>
+		<entry key="Blueprints_Riviera_Hotel_02" translation="Riviera Hotel 2"/>
+		<entry key="Blueprints_Riviera_Hotel_02Desc" translation="A Riviera themed hotel with hotel objects."/>
+		<entry key="Blueprints_SciFi_Hotel_01" translation="Sci-Fi Hotel"/>
+		<entry key="Blueprints_SciFi_Hotel_01Desc" translation="A sci-fi themed hotel."/>
+		<entry key="Blueprints_SharkAttackRide" translation="Shark Attack Ride"/>
+		<entry key="Blueprints_SharkAttackRideDesc" translation="Shark Attack Ride"/>
+		<entry key="Blueprints_SharkDiving" translation="Shark Diving"/>
+		<entry key="Blueprints_SharkDivingDesc" translation="Pirate stuntman diving off an exploding tower."/>
+		<entry key="Blueprints_SharkyEnd" translation="Sharky End"/>
+		<entry key="Blueprints_SharkyEndDesc" translation="Sharky End.&#10;Studios Pack"/>
+		<entry key="Blueprints_SoundStage" translation="Sound Stage"/>
+		<entry key="Blueprints_SoundStageDesc" translation="Sound Stage"/>
+		<entry key="Blueprints_Souvenirshop" translation="Commercial Souvenir Shop"/>
+		<entry key="Blueprints_SouvenirshopDesc" translation="Commercial Souvenir Shop"/>
+		<entry key="Blueprints_StageSetup" translation="Stage Set Up"/>
+		<entry key="Blueprints_StageSetupDesc" translation="Stage lighting scaffolding and film crew.&#10;Studios Pack"/>
+		<entry key="Blueprints_Storageshootout" translation="Gulpee's Secret"/>
+		<entry key="Blueprints_StorageshootoutDesc" translation="Gulpee's Secret"/>
+		<entry key="Blueprints_StudioBacklot" translation="Studio Back Lot"/>
+		<entry key="Blueprints_StudioBacklotDesc" translation="Studio Back lot.&#10;Studios Pack"/>
+		<entry key="Blueprints_StudioTourBlueprint01" translation="Planco Studios"/>
+		<entry key="Blueprints_StudioTourBlueprint01Desc" translation="A layout for the Big Screen Tour tracked ride.&#10;Studios Pack"/>
+		<entry key="Blueprints_Studioentrance" translation="Studio Entrance"/>
+		<entry key="Blueprints_StudioentranceDesc" translation="Park entrance with a studio tour vibe.&#10;Studios Pack"/>
+		<entry key="Blueprints_Terracedtowncornerhouse" translation="Terraced Town House Corner"/>
+		<entry key="Blueprints_TerracedtowncornerhouseDesc" translation="Terraced town corner house.&#10;Studios Pack"/>
+		<entry key="Blueprints_TerracedtowncornerhouseWithFillers" translation="Terraced Town House with Fillers"/>
+		<entry key="Blueprints_TerracedtowncornerhouseWithFillersDesc" translation="Terraced Town House with Fillers"/>
+		<entry key="Blueprints_Terracedtownhouse" translation="Terraced Town House"/>
+		<entry key="Blueprints_TerracedtownhouseDesc" translation="Terraced Town House.&#10;Studios Pack"/>
+		<entry key="Blueprints_TerracedtownhouseFiller" translation="Terraced Town House Filler"/>
+		<entry key="Blueprints_TerracedtownhouseFillerDesc" translation="Terraced Town House Filler"/>
+		<entry key="Blueprints_TheBalladofMissEllyScene" translation="The Ballad Of Miss Elly Scene"/>
+		<entry key="Blueprints_TheBalladofMissEllySceneDesc" translation="The Ballad of Miss Elly Scene"/>
+		<entry key="Blueprints_Toweringinferno" translation="Towering Inferno"/>
+		<entry key="Blueprints_ToweringinfernoDesc" translation="Towering inferno.&#10;Studios Pack"/>
+		<entry key="Blueprints_TrainHeist_02" translation="Train Heist 2"/>
+		<entry key="Blueprints_TrainHeist_02Desc" translation="Train Heist 2"/>
+		<entry key="Blueprints_TrainShootOut" translation="Train Shoot Out"/>
+		<entry key="Blueprints_TrainShootOutDesc" translation="Train Shoot Out"/>
+		<entry key="Blueprints_Trainchase" translation="Train Chase"/>
+		<entry key="Blueprints_TrainchaseDesc" translation="Train chase"/>
+		<entry key="Blueprints_Trainheist_01" translation="Train Heist"/>
+		<entry key="Blueprints_Trainheist_01Desc" translation="Train heist.&#10;Studios Pack"/>
+		<entry key="Blueprints_Vehiclejunkyard" translation="Vehicle Junk Yard"/>
+		<entry key="Blueprints_VehiclejunkyardDesc" translation="Vehicle junk yard"/>
+		<entry key="Blueprints_WalkthePlank" translation="Walk The Plank"/>
+		<entry key="Blueprints_WalkthePlankDesc" translation="Walk the Plank"/>
+		<entry key="Blueprints_Warehouse" translation="Warehouse"/>
+		<entry key="Blueprints_WarehouseDesc" translation="Warehouse"/>
+		<entry key="Blueprints_Watertowercrash" translation="Water Tower Crash"/>
+		<entry key="Blueprints_WatertowercrashDesc" translation="Water tower crash"/>
+		<entry key="Blueprints_Western_Hotel_01" translation="Western Hotel"/>
+		<entry key="Blueprints_Western_Hotel_01Desc" translation="A Western themed hotel with hotel objects."/>
+		<entry key="Blueprints_ZombieAttack" translation="Zombie Attack"/>
+		<entry key="Blueprints_ZombieAttackDesc" translation="Zombie Attack"/>
+		<!--PDLC_BlockBuster_Coasters-->
+		<entry key="Coaster_Type_MechArm" translation="Motion Robotic Arm"/>
+		<entry key="Coaster_Type_StudioTour" translation="Tour Bus"/>
+		<entry key="Powered_MechArm" translation="Re-Motion"/>
+		<entry key="Powered_MechArm_Desc" translation="Electrically powered tracked ride with an adjustable robotic arm holding the seats. Four points of articulation allow the seats to be moved freely in all directions."/>
+		<entry key="Powered_StudioTour" translation="Big Screen Tour"/>
+		<entry key="Powered_StudioTour_Desc" translation="Electrically powered tour buses that can be used as a transport or tracked ride. The bus length can be changed from single car buses to multi-car buses."/>
+		<entry key="TK_205_Rails_0" translation="None"/>
+		<entry key="TK_205_Rails_1" translation="Right"/>
+		<entry key="TK_205_Rails_2" translation="Left"/>
+		<entry key="TK_205_StopStart_0" translation="None"/>
+		<entry key="TK_205_StopStart_1" translation="Right"/>
+		<entry key="TK_205_StopStart_2" translation="Left"/>
+		<entry key="TrackEditParam_MechArm_CabinAngle" translation="Pitch"/>
+		<entry key="TrackEditParam_MechArm_CabinAngleSet" translation="Control Seat Pitch"/>
+		<entry key="TrackEditParam_MechArm_CabinPitch02" translation="Pitch"/>
+		<entry key="TrackEditParam_MechArm_CabinPitch02Set" translation="Control Arm Pitch"/>
+		<entry key="TrackEditParam_MechArm_CabinRoll" translation="Spin"/>
+		<entry key="TrackEditParam_MechArm_CabinRollSet" translation="Control Seat Spin"/>
+		<entry key="TrackEditParam_MechArm_CabinYaw" translation="Rotation"/>
+		<entry key="TrackEditParam_MechArm_CabinYawSet" translation="Control Car Rotation"/>
+		<entry key="TrackEditParam_TrackMeshIndex_Walkways" translation="Walkway"/>
+		<!--PDLC_BlockBuster_Facilities-->
+		<entry key="Browser_Cat_Shop_Hotel" translation="Hotel"/>
+		<entry key="ShopItem_BL_Hat_01" translation="Police Hat"/>
+		<!--PDLC_BlockBuster_FlatRides-->
+		<entry key="FR_HHeights" translation="Horror Heights"/>
+		<entry key="FR_HHeights_Desc" translation="Scream in terror in this classic multi-drop tower.&#10;It's been designed to work within planet coasters buildings for you to create a multitude of themes and designs.&#10;Thrill Ride&#10;Studios Pack"/>
+		<entry key="FR_HHeights_Prefix" translation="Horror Heights"/>
+		<entry key="Sequence_FR_Reverse" translation="Reverse"/>
+		<entry key="Sequence_FR_ScenicRun" translation="Scenic"/>
+		<entry key="Sequence_FR_Standard" translation="Standard"/>
+		<entry key="Sequence_FR_TallShaft" translation="Tall Tower"/>
+		<entry key="TrackElementDesc_ParabolicLeft" translation="Turns 180 degrees to the left with a snapping point for the Parabolic Screens."/>
+		<entry key="TrackElementDesc_ParabolicRight" translation="Turns 180 degrees to the right with a snapping point for the Parabolic Screens."/>
+		<entry key="TrackElementName_ParabolicLeft" translation="Parabolic Left"/>
+		<entry key="TrackElementName_ParabolicRight" translation="Parabolic Right"/>
+		<entry key="TrackElementTool_ParabolicLeft" translation="&lt;font color='accent'&gt;Parabolic Left&lt;/font&gt;&#10;Turns 180 degrees to the left with a snapping point for the Parabolic Screens."/>
+		<entry key="TrackElementTool_ParabolicRight" translation="&lt;font color='accent'&gt;Parabolic Right&lt;/font&gt;&#10;Turns 180 degrees to the right with a snapping point for the Parabolic Screens."/>
+		<!--PDLC_BlockBuster_FlexiColourLabels-->
+		<entry key="SemanticFlexiColour_BL_Dust" translation="Dust"/>
+		<entry key="SemanticFlexiColour_BL_Electrical_Arc" translation="Electricity"/>
+		<entry key="SemanticFlexiColour_BL_Embers" translation="Embers"/>
+		<entry key="SemanticFlexiColour_BL_LargePlasmaExplosion_Core" translation="Core"/>
+		<entry key="SemanticFlexiColour_BL_LargePlasmaExplosion_Electricity" translation="Electricity"/>
+		<entry key="SemanticFlexiColour_BL_LargePlasmaExplosion_Plasma" translation="Plasma"/>
+		<entry key="SemanticFlexiColour_BL_LargePlasmaExplosion_Smoke" translation="Smoke"/>
+		<entry key="SemanticFlexiColour_BL_PlasmaExplosion_Core" translation="Core"/>
+		<entry key="SemanticFlexiColour_BL_PlasmaExplosion_Electricity" translation="Electricity"/>
+		<entry key="SemanticFlexiColour_BL_PlasmaExplosion_Plasma" translation="Plasma"/>
+		<entry key="SemanticFlexiColour_BL_PlasmaExplosion_Smoke" translation="Smoke"/>
+		<entry key="SemanticFlexiColour_BL_Rubble" translation="Rubble"/>
+		<!--PDLC_BlockBuster_FrontEndMenu-->
+		<entry key="FrontEndMenu_Studios" translation="Studios"/>
+		<!--PDLC_BlockBuster_Scenery-->
+		<entry key="BuildingPartDesc_BL_Animated_Light" translation="Event light which is animated to create light effects.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Animated_Light_01" translation="Event light which is animated to create light effects.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Animated_Light_02" translation="Event light which is animated to create light effects.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Animated_Light_03" translation="Event light which is animated to create light effects.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Animated_Light_04" translation="Event light which is animated to create light effects.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Animated_Light_05" translation="Event light which is animated to create light effects.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Awning_4m" translation="Commercial awning to stave off the rain.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Awning_Corner" translation="Commercial awning corner section.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Barrels_Biohazard" translation="Metal barrel filled with biohazardous materials.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Barrels_Corrosive" translation="Metal barrel filled with corrosive materials.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Barrels_Explosive" translation="Metal barrel filled with explosive materials.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Barrels_Flamable" translation="Metal barrel filled with flammable materials.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Barrels_Radioactive" translation="Metal barrel filled with radioactive materials.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Pile_01" translation="A cardboard box for storing and transporting equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Pile_02" translation="A cardboard box for storing and transporting equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Pile_03" translation="A cardboard box for storing and transporting equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Pile_04" translation="A cardboard box for storing and transporting equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Van" translation="Bigger than your average van, smaller than your average truck.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Van_Body" translation="Back section for a small truck.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Van_Explode" translation="Small truck animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Box_Van_MiniVan" translation="Multi-purpose vehicle.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Brownstone_Eave_4m" translation="Eaves that overhang a city house.&#10;Sandstone&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Brownstone_Eave_Corner_Inner" translation="Eaves that overhang a city house.&#10;Sandstone&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Brownstone_Eave_Corner_Outer" translation="Eaves that overhang a city house.&#10;Sandstone&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Brownstone_Trim_4m" translation="Trim often found on city houses.&#10;Sandstone&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Brownstone_Trim_Corner_Inner" translation="Trim often found on city houses.&#10;Sandstone&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Brownstone_Trim_Corner_Outer" translation="Trim often found on city houses.&#10;Sandstone&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Bulbar" translation="Placed on a vehicle to prevent damage during collisions.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Bus" translation="No standing!&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Bus_Launch_Crash_Flip" translation="Bus crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Bus_Launch_Crash_Straight" translation="Bus crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Camera_Crane" translation="Records multiple shots per second with the added advantage of being on an adjustable crane.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Camera_Dolly" translation="A camera that can be pushed around on wheels.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01" translation="Just keeps on going.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_ChaseLoop" translation="Car chase animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_Explode_Backwards" translation="Car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_Explode_Forward" translation="Car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_Explode_Sideways" translation="Car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_Launch_Crash_Jump" translation="Car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_Launch_Crash_Roll" translation="Car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_01_Launch_Crash_Straight" translation="Car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02" translation="A typical saloon.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_ChaseLoop" translation="Car chase animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Destroyed" translation="Just keeps on going... Maybe not...&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Explode_Backwards" translation="Car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Explode_Forward" translation="Car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Explode_Sideways" translation="Car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Launch_Crash_Jump" translation="Car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Launch_Crash_Roll" translation="Car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_02_Launch_Crash_Straight" translation="Car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Bullbars" translation="Placed on a vehicle to prevent damage during collisions.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Bullbars_02" translation="Placed on a vehicle to prevent damage during collisions.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police" translation="Somehow faster than they should be.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_ChaseLoop" translation="Police car chase animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_Explode_Backwards" translation="Police car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_Explode_Forward" translation="Police car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_Explode_Sideways" translation="Police car exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_Launch_Crash_Jump" translation="Police car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_Launch_Crash_Roll" translation="Police car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Police_Launch_Crash_Straight" translation="Police car crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi" translation="Taxi! Taxi!&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi_Explode_Backwards" translation="Taxi exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi_Explode_Forward" translation="Taxi exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi_Explode_Sideways" translation="Taxi exploding animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi_Launch_Crash_Jump" translation="Taxi crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi_Launch_Crash_Roll" translation="Taxi crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Car_Taxi_Launch_Crash_Straight" translation="Taxi crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Clapper_Board" translation="Cut!&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Colour_Screen" translation="Uniform screen used as a backdrop for Chroma keying an image or film.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Commercial_Fencing_01_2M" translation="Chain link fence panels&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Commercial_Fencing_01_4M" translation="Chain link fence panels&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Commercial_Fencing_02_2M" translation="Wooden fence panels&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Commercial_Fencing_02_4M" translation="Wooden fence panels&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Crossing_Sign" translation="Pedestrian crossing lights that attach to the street light sections.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Diffusion_Panel" translation="Light diffusion panel for a film set.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Directors_Chair" translation="Only the director can sit here.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_DoorScreen" translation="Billboard screen that opens.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_DropScreen" translation="Billboard screen that opens.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Electric_Cables_Pile" translation="Neatly coiled cable.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_ElevatorDoor" translation="Doors opening.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_01" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_01_Small" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_02" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_03" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_04" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_EM_01" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_EM_01_Small" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_EM_02" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_EM_03" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Emergency_Lights_EM_04" translation="Lights that are often seen on emergency vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Equipment_Box_01" translation="Metal box for carrying and storing equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Equipment_Box_02" translation="Metal box for carrying and storing equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Equipment_Box_03" translation="Metal box for carrying and storing equipment.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Equipment_Trolley_01" translation="Used when filming as the receiver for the camera and mic inputs.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Equipment_Trolley_02" translation="Full of parts and spares.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Cardboard_Box_Impact" translation="Cardboard box Impact FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Drifting_Embers" translation="Drifting Embers FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Dust_Blowing_Large" translation="Dust FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Dust_Blowing_Small" translation="Dust FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Dust_Explosion_01" translation="Dust FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Electricity_Arc_1m_01" translation="Electric Arc FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Electricity_Arc_1m_02" translation="Electric Arc FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Electricity_Arc_2m_01" translation="Electric Arc FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Electricity_Arc_2m_02" translation="Electric Arc FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Fire_Hydrant_Burst" translation="Fire Hydrant Burst FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Floating_Newspaper" translation="Newspaper FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Glass_Falling_01" translation="Glass Falling FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Glass_Window_Smash_01" translation="Glass FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Huge_Explosion_01" translation="Explosion FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Huge_Explosion_02" translation="Explosion FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Medium_Crate_Smash" translation="Crate Smash FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Newspaper_Explosion" translation="Newspaper FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Plasma_Explosion_01" translation="Plasma Explosion FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Plasma_Explosion_02" translation="Plasma Explosion FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Rubble_Fall" translation="Rubble FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Rubble_Fall_8m" translation="Rubble FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Small_Crate_Smash" translation="Crate Smash FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_FXBox_Straw_Pile_Bounce" translation="Straw Pile FX&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Female_BoomMic" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Female_Camera_Tripod" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Female_Fiddle" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Female_Idle" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Female_Sit" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Male_BoomMic" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Male_Camera_Held" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Male_Clapper" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Male_Fiddle" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Male_Idle" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Film_Crew_Male_Sit" translation="Film crew animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Fire_Escape_Base" translation="Usually built on large residential buildings to provide a means of escape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Fire_Escape_Ladder" translation="Usually built on large residential buildings to provide a means of escape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Fire_Escape_Stairs" translation="Usually built on large residential buildings to provide a means of escape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Fire_Hydrant" translation="Used by fire services to gain access to a water supply.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Fire_Truck" translation="Fully stocked to fight fire.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Flood_Light_01" translation="Produces a large field of light.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Flood_Light_02" translation="Produces a large field of light.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Garbage_Truck" translation="Consumes all rubbish.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Generator" translation="A backup power source can come in handy.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Generic_Crates_01" translation="Wooden crate used for transporting goods.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Generic_Crates_02" translation="Wooden crate used for transporting goods.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Generic_Crates_03" translation="Wooden crate used for transporting goods.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Generic_Crates_04" translation="Wooden crate used for transporting goods.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Glass_Windows_01_1x1m" translation="Clear glass window."/>
+		<entry key="BuildingPartDesc_BL_Glass_Windows_02_2x1m" translation="Clear glass window."/>
+		<entry key="BuildingPartDesc_BL_Glass_Windows_03_2x2m" translation="Clear glass window."/>
+		<entry key="BuildingPartDesc_BL_Glass_Windows_04_2x4m" translation="Clear glass window."/>
+		<entry key="BuildingPartDesc_BL_Glass_Windows_05_4x4m" translation="Clear glass window."/>
+		<entry key="BuildingPartDesc_BL_Greeble_Panel_Explode_01_SF" translation="Greeble panel that explodes.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter" translation="The latest means of transport.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter_Circle" translation="Animated helicopter.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter_News" translation="Helicopter that is being used for news reporting.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter_News_Circle" translation="Animated news helicopter.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter_Police" translation="Police helicopter used for finding and following criminals.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter_Police_Circle" translation="Animated police helicopter.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Helicopter_Rotor" translation="Rotor blades for a helicopter used to control altitude.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Jetty_Collapse_PT" translation="Collapsing jetting animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_L_Train" translation="Life sized model railway train.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_L_Train_Track" translation="Life sized model railway track.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_L_Train_Track_Curved" translation="Life sized model railway track.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_LiftScreen" translation="Billboard screen that opens.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Lighting_Scaffold_01" translation="Scaffold frames for supporting lights in theatres and other environments.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Lighting_Scaffold_02" translation="Scaffold frames for supporting lights in theatres and other environments.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Lighting_Scaffold_03" translation="Scaffold frames for supporting lights in theatres and other environments.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Lighting_Scaffold_04" translation="Scaffold frames for supporting lights in theatres and other environments.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Locomotive_Crash_WS" translation="Locomotive crash animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Manhole_Cover" translation="Removable lid for a hole in the ground, prevents people from falling in.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Metal_Walkway_Collapse_SF" translation="Animated metal walkway.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Microphone_Boom" translation="The microphone needs to be close to the action but out of the shot.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Movie_Camera" translation="Unmounted camera that can be carried around.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Movie_Camera_Tripod" translation="Fixed position camera used for recording steady shots.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Newspaper_Piles_01" translation="A neatly stacked and tied pile of news papers.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Newspaper_Piles_02" translation="A neatly stacked pile of news papers.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Newspaper_Piles_03" translation="A pile of news papers strewn around.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Newspaper_Vending_Machine" translation="Hot off the press this morning.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Oil_Barrels" translation="Metal barrel filled with unknown materials.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pallet" translation="Simple wooden pallet.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_ParabolicScreens_Fast" translation="Large rotating screen that moves with the Re-Motion tracked ride.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_ParabolicScreens_Slow" translation="Large rotating screen that moves with the Re-Motion tracked ride.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pavement_4m" translation="Standard pavement for pedestrians to walk on.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pavement_4m_NoKerb" translation="Standard pavement for pedestrians to walk on.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pavement_4m_OuterCorner" translation="Standard pavement for pedestrians to walk on.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Base" translation="The base section of the rounded pillar.&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Cap" translation="The top section of the rounded pillar.&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Middle_2m" translation="The central section of the rounded pillar.&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Middle_4m" translation="The central section of the rounded pillar.&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Middle_8m" translation="The central section of the rounded pillar.&#10;8m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Thin_Base" translation="The base section of the thin rounded pillar.&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Thin_Cap" translation="The top section of the thin rounded pillar.&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Thin_Middle_2m" translation="The central section of the thin rounded pillar.&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Thin_Middle_4m" translation="The central section of the thin rounded pillar.&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Pillar_Rounded_Thin_Middle_8m" translation="The central section of the thin rounded pillar.&#10;8m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Police_Lights" translation="Lights that go on a police vehicle.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Police_Lights_EM" translation="Lights that go on a police vehicle.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Police_Road_Block" translation="Police. Road closed.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Roadworks_Barrier" translation="Road ahead closed, follow diversions.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Searchlight" translation="Creates a powerful beam of light.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Attack" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Breach" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Chomp" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Small_Attack" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Small_Breach" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Small_Chomp" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Small_Swim" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shark_Swim" translation="Shark animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shipping_Container" translation="Stores anything and everything.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Boutique" translation="Shop front with a door and two display cabinets.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Boutique_Doors" translation="Shop front with two doors.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Boutique_Fascia" translation="Boutique style shop fascia&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Boutique_NoDisplay" translation="Shop front with a door and two windows.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Boutique_Window" translation="Shop front window with a display cabinet.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Boutique_Window_NoDisplay" translation="Shop front window.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Commercial" translation="Shop front with a door and two display cabinets.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Commercial_Doors" translation="Shop front with two doors.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Commercial_Fascia" translation="Commercial style shop fascia&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Commercial_NoDisplay" translation="Shop front with a door and two windows.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Commercial_Window" translation="Shop front window with a display cabinet.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Front_Commercial_Window_NoDisplay" translation="Shop front window.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Sign_BB_01" translation="Fixed shop sign that is perpendicular to its support&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Sign_BB_02" translation="Fixed shop sign that is perpendicular to its support&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Shop_Sign_BB_02_EM" translation="Fixed shop sign that is perpendicular to its support&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Signs_Biohazard" translation="Hazard sign for life threatening substances.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Signs_Corrosive" translation="Hazard sign for corrosive substances.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Signs_Explosive" translation="Hazard sign for explosive substances.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Signs_Flamable" translation="Hazard sign for flammable substances.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Signs_Radioactive" translation="Hazard sign for radioactive substances.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_SlideScreen" translation="Billboard screen that opens.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Spot_Light" translation="Produces a tight beam of light.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Spot_Light_02" translation="Produces a tight beam of light.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stairs_Shallow_4m" translation="Shallow set of stairs to go in a city scape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stairs_Shallow_Cap" translation="Shallow set of stairs to go in a city scape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stairs_Shallow_Corner_Inner" translation="Shallow set of stairs to go in a city scape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stairs_Shallow_Corner_Outer" translation="Shallow set of stairs to go in a city scape.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stairs_Stoop" translation="Stairs leading up to the front door of a building.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stairs_Stoop_Post" translation="Post that matches the stoop stairs.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Street_Light_Arm" translation="Arm to extend the street lights and traffic lights over a road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Street_Light_Post" translation="Base section for street lights and traffic lights.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Street_Light_Topper" translation="Lighting section for the street lights.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Studio_Tour_Bus_Destroyed" translation="Beaten, battered, but probably still working.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_StuntFall_Dumpster" translation="Specifically designed so actors can land safely when they do a jump off a high ledge.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_StuntFall_Pallet" translation="Specifically designed so actors can land safely when they do a jump off a high ledge.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Cower" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Dive_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Fall_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Adventure_Sit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Cower" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Dive_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Fall_8m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Levitate" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Business_Sit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Fairytale_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Fairytale_Fall_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Fairytale_Fall_8m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Fairytale_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Fairytale_Knight_Fight" translation="A pair of animatronic actors.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Pirate_Cower" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Pirate_Dive_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Pirate_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Pirate_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Pirate_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Pirate_Sit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Dive_8m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Fall_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Shootover" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Shootover_Hit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Police_Sit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_Fi_Cower" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_Fi_Dive_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_Fi_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_Fi_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_Fi_Fall_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_fi_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_fi_Levitate" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Sci_fi_Sit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Spooky_Dive_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Spooky_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Spooky_Zombie_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Cower" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Dive_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Dive_8m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Explode_Backward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Explode_Forward" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Fall_40m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Fall_8m" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Idle" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntman_Western_Sit" translation="Animatronic actor.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Adventure_Dive_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Adventure_Dive_8m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Adventure_Explode_Backward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Adventure_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Adventure_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Cower" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Dive_8m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Explode_Backward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Fall_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Levitate" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Business_Sit" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Fairytale_Dive_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Fairytale_Explode_Backward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Fairytale_Fall_8m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Fairytale_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Pirate_Cower" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Pirate_Explode_Backward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Pirate_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Pirate_Fall_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Pirate_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Pirate_Sit" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Dive_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Explode_Backward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Fall_8m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Shootover" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Shootover_Hit" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Police_Sit" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_Fi_Dive_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_Fi_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_Fi_Fall_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_fi_Cower" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_fi_Explode_Backwards" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_fi_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_fi_Levitate" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Sci_fi_Sit" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Spooky_Dive_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Spooky_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Spooky_Zombie_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Cower" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Dive_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Dive_8m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Explode_Backward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Explode_Forward" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Fall_40m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Fall_8m" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Idle" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Stuntwoman_Western_Sit" translation="Animatronic actress.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Subway_Entrance" translation="Entrance used for underground commuter networks.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Swat_Truck" translation="Armoured and probably quite heavy.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Tail_Rotor" translation="Rotor blades for the back of a helicopter used to stabilise the aircraft.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Tank_Explode" translation="Tank animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Tank_Shoot_01" translation="Tank animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Tank_Shoot_02" translation="Tank animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Taxi_Lights" translation="Lights with customizable text that go on a taxi.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Taxi_Lights_EM" translation="Lights with customizable text that go on a taxi.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Cone" translation="Used to keep people and traffic out of an area.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Lights_01" translation="4 way traffic lights that can be attached to the street light sections.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Lights_02" translation="1 way traffic lights that can be attached to the street light sections.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_01" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_02" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_03" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_04" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_05" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_06" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_07" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_08" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Traffic_Signs_01_09" translation="Road traffic sign.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Trash_Bag" translation="Useful way of disposing of trash that can accumulate in the house.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Trash_Can" translation="General waste only.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Trash_Can_Bin" translation="Trash can styled park bin.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_EM_Panels_1x1m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_EM_Panels_2x2m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_EM_Panels_2x4m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_EM_Panels_4x4m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_Panels_1x1m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_Panels_2x2m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_Panels_2x4m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Triggerable_FC_Panels_4x4m" translation="Panel that can have its colour changed using a display sequencer."/>
+		<entry key="BuildingPartDesc_BL_Van_Flatbed" translation="Back section for a small truck.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wagon_Roll" translation="Wagon burning and crashing animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Warehouse_Door" translation="A large sliding door.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Water_Storage_Tank_01" translation="Can be used to store water. Comes with two parts.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Water_Storage_Tank_01_Base" translation="The base section for the water storage tank.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Water_Tower_Split_Collapse_WS" translation="Water Tower partially falling animatronic.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_01" translation="Usually placed on a vehicle that drives on the road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_02" translation="Usually placed on a vehicle that drives on the road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_03" translation="Usually placed on a vehicle that drives on the road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_04" translation="Usually placed on a vehicle that drives on the road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_05" translation="Usually placed on a vehicle that drives on the road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_06" translation="Usually placed on a vehicle that drives on the road.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Wheels_Swat_05" translation="A variant of the Vehicle wheel that is designed for SWAT vehicles.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_BB_01" translation="A window suitable for brownstone city buildings.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_BB_01_EM" translation="A window suitable for brownstone city buildings.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_BB_02" translation="A window suitable for brownstone city buildings.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_BB_02_EM" translation="A window suitable for brownstone city buildings.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_BB_Smash" translation="An animated smashing window.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_FT_Smash" translation="An animated smashing window.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_PC_Smash" translation="An animated smashing window.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_BL_Window_WD_Smash" translation="An animated smashing window.&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_GL_Glass_Opaque_Merge_Wall_1m" translation="Glass&#10;1m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_GL_Glass_Opaque_Merge_Wall_2m" translation="Glass&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_GL_Glass_Opaque_Merge_Wall_4m" translation="Glass&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_GL_Glass_Opaque_Merge_Wall_4m_Damaged_Arch" translation="Glass&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_GL_Glass_Opaque_Merge_Wall_4m_Damaged_Base" translation="Glass&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_GL_Glass_Opaque_Merge_Wall_4m_EM" translation="Glass&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_TL_Tile_Gloss_Merge_Wall_1m" translation="Polished Stone&#10;1m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_TL_Tile_Gloss_Merge_Wall_2m" translation="Polished Stone&#10;2m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_TL_Tile_Gloss_Merge_Wall_4m" translation="Polished Stone&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_TL_Tile_Gloss_Merge_Wall_4m_Damaged_Arch" translation="Polished Stone&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_TL_Tile_Gloss_Merge_Wall_4m_Damaged_Base" translation="Polished Stone&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartDesc_TL_Tile_Gloss_Pillar_4m" translation="Gloss tile pillar section&#10;4m High&#10;Studios Pack"/>
+		<entry key="BuildingPartName_BL_Animated_Light" translation="Animated Light 1"/>
+		<entry key="BuildingPartName_BL_Animated_Light_01" translation="Animated Light 2"/>
+		<entry key="BuildingPartName_BL_Animated_Light_02" translation="Animated Light 3"/>
+		<entry key="BuildingPartName_BL_Animated_Light_03" translation="Animated Light 4"/>
+		<entry key="BuildingPartName_BL_Animated_Light_04" translation="Animated Light 5"/>
+		<entry key="BuildingPartName_BL_Animated_Light_05" translation="Animated Light 6"/>
+		<entry key="BuildingPartName_BL_Awning_4m" translation="Commercial Awning 4m"/>
+		<entry key="BuildingPartName_BL_Awning_Corner" translation="Commercial Awning Corner"/>
+		<entry key="BuildingPartName_BL_Barrels_Biohazard" translation="Metal Barrel Biohazard"/>
+		<entry key="BuildingPartName_BL_Barrels_Corrosive" translation="Metal Barrel Corrosive"/>
+		<entry key="BuildingPartName_BL_Barrels_Explosive" translation="Metal Barrel Explosive"/>
+		<entry key="BuildingPartName_BL_Barrels_Flamable" translation="Metal Barrel Flammable"/>
+		<entry key="BuildingPartName_BL_Barrels_Radioactive" translation="Metal Barrel Radioactive"/>
+		<entry key="BuildingPartName_BL_Box_Pile_01" translation="Cardboard Box 1"/>
+		<entry key="BuildingPartName_BL_Box_Pile_02" translation="Cardboard Box 2"/>
+		<entry key="BuildingPartName_BL_Box_Pile_03" translation="Cardboard Box 3"/>
+		<entry key="BuildingPartName_BL_Box_Pile_04" translation="Cardboard Box 4"/>
+		<entry key="BuildingPartName_BL_Box_Van" translation="Box Truck Chassis"/>
+		<entry key="BuildingPartName_BL_Box_Van_Body" translation="Small Truck Box Storage"/>
+		<entry key="BuildingPartName_BL_Box_Van_Explode" translation="Small Truck Explode"/>
+		<entry key="BuildingPartName_BL_Box_Van_MiniVan" translation="Minivan"/>
+		<entry key="BuildingPartName_BL_Brownstone_Eave_4m" translation="Brownstone Eave 4m"/>
+		<entry key="BuildingPartName_BL_Brownstone_Eave_Corner_Inner" translation="Brownstone Eave Corner Inner"/>
+		<entry key="BuildingPartName_BL_Brownstone_Eave_Corner_Outer" translation="Brownstone Eave Corner Outer"/>
+		<entry key="BuildingPartName_BL_Brownstone_Trim_4m" translation="Brownstone Trim 4m"/>
+		<entry key="BuildingPartName_BL_Brownstone_Trim_Corner_Inner" translation="Brownstone Trim Corner Inner"/>
+		<entry key="BuildingPartName_BL_Brownstone_Trim_Corner_Outer" translation="Brownstone Trim Corner Outer"/>
+		<entry key="BuildingPartName_BL_Bulbar" translation="Bull Bar"/>
+		<entry key="BuildingPartName_BL_Bus" translation="Bus"/>
+		<entry key="BuildingPartName_BL_Bus_Launch_Crash_Flip" translation="Bus Launch Crash Flip"/>
+		<entry key="BuildingPartName_BL_Bus_Launch_Crash_Straight" translation="Bus Launch Crash Straight"/>
+		<entry key="BuildingPartName_BL_Camera_Crane" translation="Movie Camera Crane"/>
+		<entry key="BuildingPartName_BL_Camera_Dolly" translation="Movie Camera Dolly"/>
+		<entry key="BuildingPartName_BL_Car_01" translation="Car 1"/>
+		<entry key="BuildingPartName_BL_Car_01_ChaseLoop" translation="Car 1 Chase Loop"/>
+		<entry key="BuildingPartName_BL_Car_01_Explode_Backwards" translation="Car 1 Explode Backwards"/>
+		<entry key="BuildingPartName_BL_Car_01_Explode_Forward" translation="Car 1 Explode Forward"/>
+		<entry key="BuildingPartName_BL_Car_01_Explode_Sideways" translation="Car 1 Explode Sideways"/>
+		<entry key="BuildingPartName_BL_Car_01_Launch_Crash_Jump" translation="Car 1 Launch Crash Jump"/>
+		<entry key="BuildingPartName_BL_Car_01_Launch_Crash_Roll" translation="Car 1 Launch Crash Roll"/>
+		<entry key="BuildingPartName_BL_Car_01_Launch_Crash_Straight" translation="Car 1 Launch Crash Straight"/>
+		<entry key="BuildingPartName_BL_Car_02" translation="Car 2"/>
+		<entry key="BuildingPartName_BL_Car_02_ChaseLoop" translation="Car 2 Chase Loop"/>
+		<entry key="BuildingPartName_BL_Car_02_Destroyed" translation="Car 2 Destroyed"/>
+		<entry key="BuildingPartName_BL_Car_02_Explode_Backwards" translation="Car 2 Explode Backwards"/>
+		<entry key="BuildingPartName_BL_Car_02_Explode_Forward" translation="Car 2 Explode Forward"/>
+		<entry key="BuildingPartName_BL_Car_02_Explode_Sideways" translation="Car 2 Explode Sideways"/>
+		<entry key="BuildingPartName_BL_Car_02_Launch_Crash_Jump" translation="Car 2 Launch Crash Jump"/>
+		<entry key="BuildingPartName_BL_Car_02_Launch_Crash_Roll" translation="Car 2 Launch Crash Roll"/>
+		<entry key="BuildingPartName_BL_Car_02_Launch_Crash_Straight" translation="Car 2 Launch Crash Straight"/>
+		<entry key="BuildingPartName_BL_Car_Bullbars" translation="Car Bull Bar 1"/>
+		<entry key="BuildingPartName_BL_Car_Bullbars_02" translation="Car Bull Bar 2"/>
+		<entry key="BuildingPartName_BL_Car_Police" translation="Car Police"/>
+		<entry key="BuildingPartName_BL_Car_Police_ChaseLoop" translation="Car Police Chase Loop"/>
+		<entry key="BuildingPartName_BL_Car_Police_Explode_Backwards" translation="Car Police Explode Backwards"/>
+		<entry key="BuildingPartName_BL_Car_Police_Explode_Forward" translation="Car Police Explode Forward"/>
+		<entry key="BuildingPartName_BL_Car_Police_Explode_Sideways" translation="Car Police Explode Sideways"/>
+		<entry key="BuildingPartName_BL_Car_Police_Launch_Crash_Jump" translation="Car Police Launch Crash Jump"/>
+		<entry key="BuildingPartName_BL_Car_Police_Launch_Crash_Roll" translation="Car Police Launch Crash Roll"/>
+		<entry key="BuildingPartName_BL_Car_Police_Launch_Crash_Straight" translation="Car Police Launch Crash Straight"/>
+		<entry key="BuildingPartName_BL_Car_Taxi" translation="Car Taxi"/>
+		<entry key="BuildingPartName_BL_Car_Taxi_Explode_Backwards" translation="Car Taxi Explode Backwards"/>
+		<entry key="BuildingPartName_BL_Car_Taxi_Explode_Forward" translation="Car Taxi Explode Forward"/>
+		<entry key="BuildingPartName_BL_Car_Taxi_Explode_Sideways" translation="Car Taxi Explode Sideways"/>
+		<entry key="BuildingPartName_BL_Car_Taxi_Launch_Crash_Jump" translation="Car Taxi Launch Crash Jump"/>
+		<entry key="BuildingPartName_BL_Car_Taxi_Launch_Crash_Roll" translation="Car Taxi Launch Crash Roll"/>
+		<entry key="BuildingPartName_BL_Car_Taxi_Launch_Crash_Straight" translation="Car Taxi Launch Crash Straight"/>
+		<entry key="BuildingPartName_BL_Clapper_Board" translation="Clapper Board"/>
+		<entry key="BuildingPartName_BL_Colour_Screen" translation="Backdrop Screen"/>
+		<entry key="BuildingPartName_BL_Commercial_Fencing_01_2M" translation="Chain link Fencing 2m"/>
+		<entry key="BuildingPartName_BL_Commercial_Fencing_01_4M" translation="Chain link Fencing 4m"/>
+		<entry key="BuildingPartName_BL_Commercial_Fencing_02_2M" translation="Wooden Fence Panel 2m"/>
+		<entry key="BuildingPartName_BL_Commercial_Fencing_02_4M" translation="Wooden Fence Panel 4m"/>
+		<entry key="BuildingPartName_BL_Crossing_Sign" translation="Traffic Lights Crossing Sign"/>
+		<entry key="BuildingPartName_BL_Diffusion_Panel" translation="Diffusion Panel"/>
+		<entry key="BuildingPartName_BL_Directors_Chair" translation="Directors Chair"/>
+		<entry key="BuildingPartName_BL_DoorScreen" translation="Opening Screen Door"/>
+		<entry key="BuildingPartName_BL_DropScreen" translation="Opening Screen Drop"/>
+		<entry key="BuildingPartName_BL_Electric_Cables_Pile" translation="Coiled Electric Cable"/>
+		<entry key="BuildingPartName_BL_ElevatorDoor" translation="Elevator Door"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_01" translation="Emergency Light 1"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_01_Small" translation="Emergency Light 1 Small"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_02" translation="Emergency Light 2"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_03" translation="Emergency Light 3"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_04" translation="Emergency Light 4"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_EM_01" translation="Emergency Light 1 lit"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_EM_01_Small" translation="Emergency Light 1 Small lit"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_EM_02" translation="Emergency Light 2 lit"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_EM_03" translation="Emergency Light 3 lit"/>
+		<entry key="BuildingPartName_BL_Emergency_Lights_EM_04" translation="Emergency Light 4 lit"/>
+		<entry key="BuildingPartName_BL_Equipment_Box_01" translation="Equipment Box 1"/>
+		<entry key="BuildingPartName_BL_Equipment_Box_02" translation="Equipment Box 2"/>
+		<entry key="BuildingPartName_BL_Equipment_Box_03" translation="Equipment Box 3"/>
+		<entry key="BuildingPartName_BL_Equipment_Trolley_01" translation="Equipment Trolley 1"/>
+		<entry key="BuildingPartName_BL_Equipment_Trolley_02" translation="Equipment Trolley 2"/>
+		<entry key="BuildingPartName_BL_FXBox_Cardboard_Box_Impact" translation="Special Effect - Cardboard Box Impact"/>
+		<entry key="BuildingPartName_BL_FXBox_Drifting_Embers" translation="Special Effect - Drifting Embers"/>
+		<entry key="BuildingPartName_BL_FXBox_Dust_Blowing_Large" translation="Special Effect - Dust Blowing Large"/>
+		<entry key="BuildingPartName_BL_FXBox_Dust_Blowing_Small" translation="Special Effect - Dust Blowing Small"/>
+		<entry key="BuildingPartName_BL_FXBox_Dust_Explosion_01" translation="Special Effect - Dust Explosion"/>
+		<entry key="BuildingPartName_BL_FXBox_Electricity_Arc_1m_01" translation="Special Effect - Electricity Arc 1m 1"/>
+		<entry key="BuildingPartName_BL_FXBox_Electricity_Arc_1m_02" translation="Special Effect - Electricity Arc 1m 2"/>
+		<entry key="BuildingPartName_BL_FXBox_Electricity_Arc_2m_01" translation="Special Effect - Electricity Arc 2m 1"/>
+		<entry key="BuildingPartName_BL_FXBox_Electricity_Arc_2m_02" translation="Special Effect - Electricity Arc 2m 2"/>
+		<entry key="BuildingPartName_BL_FXBox_Fire_Hydrant_Burst" translation="Special Effect - Fire Hydrant Burst"/>
+		<entry key="BuildingPartName_BL_FXBox_Floating_Newspaper" translation="Special Effect - Floating Newspaper"/>
+		<entry key="BuildingPartName_BL_FXBox_Glass_Falling_01" translation="Special Effect - Glass Falling"/>
+		<entry key="BuildingPartName_BL_FXBox_Glass_Window_Smash_01" translation="Special Effect - Glass Window Smash"/>
+		<entry key="BuildingPartName_BL_FXBox_Huge_Explosion_01" translation="Special Effect - Huge Explosion"/>
+		<entry key="BuildingPartName_BL_FXBox_Huge_Explosion_02" translation="Special Effect - Huge Explosion 2"/>
+		<entry key="BuildingPartName_BL_FXBox_Medium_Crate_Smash" translation="Special Effect - Crate Smash Medium"/>
+		<entry key="BuildingPartName_BL_FXBox_Newspaper_Explosion" translation="Special Effect - Newspaper Explosion"/>
+		<entry key="BuildingPartName_BL_FXBox_Plasma_Explosion_01" translation="Special Effect - Plasma Explosion 1"/>
+		<entry key="BuildingPartName_BL_FXBox_Plasma_Explosion_02" translation="Special Effect - Plasma Explosion 2"/>
+		<entry key="BuildingPartName_BL_FXBox_Rubble_Fall" translation="Special Effect - Rubble Fall"/>
+		<entry key="BuildingPartName_BL_FXBox_Rubble_Fall_8m" translation="Special Effect - Rubble Fall 8m"/>
+		<entry key="BuildingPartName_BL_FXBox_Small_Crate_Smash" translation="Special Effect - Crate Smash Small"/>
+		<entry key="BuildingPartName_BL_FXBox_Straw_Pile_Bounce" translation="Special Effect - Straw Pile Bounce"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Female_BoomMic" translation="Film Crew Female Boom Mic"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Female_Camera_Tripod" translation="Film Crew Female Camera Tripod"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Female_Fiddle" translation="Film Crew Female Fiddle"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Female_Idle" translation="Film Crew Female Idle"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Female_Sit" translation="Film Crew Female Sit"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Male_BoomMic" translation="Film Crew Male Boom Mic"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Male_Camera_Held" translation="Film Crew Male Camera Held"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Male_Clapper" translation="Film Crew Male Clapper"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Male_Fiddle" translation="Film Crew Male Fiddle"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Male_Idle" translation="Film Crew Male Idle"/>
+		<entry key="BuildingPartName_BL_Film_Crew_Male_Sit" translation="Film Crew Male Sit"/>
+		<entry key="BuildingPartName_BL_Fire_Escape_Base" translation="Fire Escape Platform"/>
+		<entry key="BuildingPartName_BL_Fire_Escape_Ladder" translation="Fire Escape Ladder"/>
+		<entry key="BuildingPartName_BL_Fire_Escape_Stairs" translation="Fire Escape Stairs"/>
+		<entry key="BuildingPartName_BL_Fire_Hydrant" translation="Fire Hydrant"/>
+		<entry key="BuildingPartName_BL_Fire_Truck" translation="Fire Truck"/>
+		<entry key="BuildingPartName_BL_Flood_Light_01" translation="Flood Light 1"/>
+		<entry key="BuildingPartName_BL_Flood_Light_02" translation="Flood Light 2"/>
+		<entry key="BuildingPartName_BL_Garbage_Truck" translation="Garbage Truck"/>
+		<entry key="BuildingPartName_BL_Generator" translation="Power Generator"/>
+		<entry key="BuildingPartName_BL_Generic_Crates_01" translation="Shipping Crate 1"/>
+		<entry key="BuildingPartName_BL_Generic_Crates_02" translation="Shipping Crate 2"/>
+		<entry key="BuildingPartName_BL_Generic_Crates_03" translation="Shipping Crate 3"/>
+		<entry key="BuildingPartName_BL_Generic_Crates_04" translation="Shipping Crate 4"/>
+		<entry key="BuildingPartName_BL_Glass_Windows_01_1x1m" translation="Glass Window 1m 1m"/>
+		<entry key="BuildingPartName_BL_Glass_Windows_02_2x1m" translation="Glass Window 2m 1m"/>
+		<entry key="BuildingPartName_BL_Glass_Windows_03_2x2m" translation="Glass Window 2m 2m"/>
+		<entry key="BuildingPartName_BL_Glass_Windows_04_2x4m" translation="Glass Window 4m 2m"/>
+		<entry key="BuildingPartName_BL_Glass_Windows_05_4x4m" translation="Glass Window 4m 4m"/>
+		<entry key="BuildingPartName_BL_Greeble_Panel_Explode_01_SF" translation="Fibreglass Greeble Panel Explode"/>
+		<entry key="BuildingPartName_BL_Helicopter" translation="Helicopter"/>
+		<entry key="BuildingPartName_BL_Helicopter_Circle" translation="Helicopter Circle"/>
+		<entry key="BuildingPartName_BL_Helicopter_News" translation="Helicopter News"/>
+		<entry key="BuildingPartName_BL_Helicopter_News_Circle" translation="Helicopter News Circle"/>
+		<entry key="BuildingPartName_BL_Helicopter_Police" translation="Helicopter Police"/>
+		<entry key="BuildingPartName_BL_Helicopter_Police_Circle" translation="Helicopter Police Circle"/>
+		<entry key="BuildingPartName_BL_Helicopter_Rotor" translation="Helicopter Rotor"/>
+		<entry key="BuildingPartName_BL_Jetty_Collapse_PT" translation="Jetty Collapse"/>
+		<entry key="BuildingPartName_BL_L_Train" translation="Train"/>
+		<entry key="BuildingPartName_BL_L_Train_Track" translation="Train Track"/>
+		<entry key="BuildingPartName_BL_L_Train_Track_Curved" translation="Train Track Curved"/>
+		<entry key="BuildingPartName_BL_LiftScreen" translation="Opening Screen Lift"/>
+		<entry key="BuildingPartName_BL_Lighting_Scaffold_01" translation="Lighting Scaffold 2m"/>
+		<entry key="BuildingPartName_BL_Lighting_Scaffold_02" translation="Lighting Scaffold 4m"/>
+		<entry key="BuildingPartName_BL_Lighting_Scaffold_03" translation="Lighting Scaffold 8m"/>
+		<entry key="BuildingPartName_BL_Lighting_Scaffold_04" translation="Lighting Scaffold 0.5m"/>
+		<entry key="BuildingPartName_BL_Locomotive_Crash_WS" translation="Locomotive Crash"/>
+		<entry key="BuildingPartName_BL_Manhole_Cover" translation="Manhole Cover"/>
+		<entry key="BuildingPartName_BL_Metal_Walkway_Collapse_SF" translation="Metal Walkway Collapse"/>
+		<entry key="BuildingPartName_BL_Microphone_Boom" translation="Boom Microphone"/>
+		<entry key="BuildingPartName_BL_Movie_Camera" translation="Movie Camera"/>
+		<entry key="BuildingPartName_BL_Movie_Camera_Tripod" translation="Movie Camera Tripod"/>
+		<entry key="BuildingPartName_BL_Newspaper_Piles_01" translation="Newspaper Pile 1"/>
+		<entry key="BuildingPartName_BL_Newspaper_Piles_02" translation="Newspaper Pile 2"/>
+		<entry key="BuildingPartName_BL_Newspaper_Piles_03" translation="Newspaper Pile 3"/>
+		<entry key="BuildingPartName_BL_Newspaper_Vending_Machine" translation="Newspaper Vending Machine"/>
+		<entry key="BuildingPartName_BL_Oil_Barrels" translation="Metal Barrel"/>
+		<entry key="BuildingPartName_BL_Pallet" translation="Pallet"/>
+		<entry key="BuildingPartName_BL_ParabolicScreens_Fast" translation="Parabolic Screen Anticlockwise"/>
+		<entry key="BuildingPartName_BL_ParabolicScreens_Slow" translation="Parabolic Screen Clockwise"/>
+		<entry key="BuildingPartName_BL_Pavement_4m" translation="Pavement 4m"/>
+		<entry key="BuildingPartName_BL_Pavement_4m_NoKerb" translation="Pavement 4m No Kerb"/>
+		<entry key="BuildingPartName_BL_Pavement_4m_OuterCorner" translation="Pavement 4m Outer Corner"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Base" translation="Stucco Rounded Pillar Base"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Cap" translation="Stucco Rounded Pillar Cap"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Middle_2m" translation="Stucco Rounded Pillar Middle 2m"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Middle_4m" translation="Stucco Rounded Pillar Middle 4m"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Middle_8m" translation="Stucco Rounded Pillar Middle 8m"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Thin_Base" translation="Stucco Rounded Pillar Thin Base"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Thin_Cap" translation="Stucco Rounded Pillar Thin Cap"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Thin_Middle_2m" translation="Stucco Rounded Pillar Thin Middle 2m"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Thin_Middle_4m" translation="Stucco Rounded Pillar Thin Middle 4m"/>
+		<entry key="BuildingPartName_BL_Pillar_Rounded_Thin_Middle_8m" translation="Stucco Rounded Pillar Thin Middle 8m"/>
+		<entry key="BuildingPartName_BL_Police_Lights" translation="Police Lights"/>
+		<entry key="BuildingPartName_BL_Police_Lights_EM" translation="Police Lights Lit"/>
+		<entry key="BuildingPartName_BL_Police_Road_Block" translation="Police Road Block"/>
+		<entry key="BuildingPartName_BL_Roadworks_Barrier" translation="Roadworks Barrier"/>
+		<entry key="BuildingPartName_BL_Searchlight" translation="Searchlight"/>
+		<entry key="BuildingPartName_BL_Shark_Attack" translation="Shark Attack"/>
+		<entry key="BuildingPartName_BL_Shark_Breach" translation="Shark Breach"/>
+		<entry key="BuildingPartName_BL_Shark_Chomp" translation="Shark Chomp"/>
+		<entry key="BuildingPartName_BL_Shark_Small_Attack" translation="Shark Small Attack"/>
+		<entry key="BuildingPartName_BL_Shark_Small_Breach" translation="Shark Small Breach"/>
+		<entry key="BuildingPartName_BL_Shark_Small_Chomp" translation="Shark Small Chomp"/>
+		<entry key="BuildingPartName_BL_Shark_Small_Swim" translation="Shark Small Swim"/>
+		<entry key="BuildingPartName_BL_Shark_Swim" translation="Shark Swim"/>
+		<entry key="BuildingPartName_BL_Shipping_Container" translation="Shipping Container"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Boutique" translation="Boutique Shop Front Display"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Boutique_Doors" translation="Boutique Shop Doors"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Boutique_Fascia" translation="Boutique Shop Fascia"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Boutique_NoDisplay" translation="Boutique Shop Front"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Boutique_Window" translation="Boutique Shop Window Display"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Boutique_Window_NoDisplay" translation="Boutique Shop Window"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Commercial" translation="Commercial Shop Front Display"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Commercial_Doors" translation="Commercial Shop Doors"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Commercial_Fascia" translation="Commercial Shop Fascia"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Commercial_NoDisplay" translation="Commercial Shop Front"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Commercial_Window" translation="Commercial Shop Window Display"/>
+		<entry key="BuildingPartName_BL_Shop_Front_Commercial_Window_NoDisplay" translation="Commercial Shop Window"/>
+		<entry key="BuildingPartName_BL_Shop_Sign_BB_01" translation="Commercial Shop Sign 1"/>
+		<entry key="BuildingPartName_BL_Shop_Sign_BB_02" translation="Commercial Shop Sign 2"/>
+		<entry key="BuildingPartName_BL_Shop_Sign_BB_02_EM" translation="Commercial Shop Sign 2 Lit"/>
+		<entry key="BuildingPartName_BL_Signs_Biohazard" translation="Hazard Sign Biohazard"/>
+		<entry key="BuildingPartName_BL_Signs_Corrosive" translation="Hazard Sign Corrosive"/>
+		<entry key="BuildingPartName_BL_Signs_Explosive" translation="Hazard Sign Explosive"/>
+		<entry key="BuildingPartName_BL_Signs_Flamable" translation="Hazard Sign Flammable"/>
+		<entry key="BuildingPartName_BL_Signs_Radioactive" translation="Hazard Sign Radioactive"/>
+		<entry key="BuildingPartName_BL_SlideScreen" translation="Opening Screen Slide"/>
+		<entry key="BuildingPartName_BL_Spot_Light" translation="Spot Light 1"/>
+		<entry key="BuildingPartName_BL_Spot_Light_02" translation="Spot Light 2"/>
+		<entry key="BuildingPartName_BL_Stairs_Shallow_4m" translation="Shallow Stairs 4m"/>
+		<entry key="BuildingPartName_BL_Stairs_Shallow_Cap" translation="Shallow Stairs Cap"/>
+		<entry key="BuildingPartName_BL_Stairs_Shallow_Corner_Inner" translation="Shallow Stairs Corner Inner"/>
+		<entry key="BuildingPartName_BL_Stairs_Shallow_Corner_Outer" translation="Shallow Stairs Corner Outer"/>
+		<entry key="BuildingPartName_BL_Stairs_Stoop" translation="Stoop Stairs"/>
+		<entry key="BuildingPartName_BL_Stairs_Stoop_Post" translation="Stoop Post"/>
+		<entry key="BuildingPartName_BL_Street_Light_Arm" translation="Street Light Arm"/>
+		<entry key="BuildingPartName_BL_Street_Light_Post" translation="Street Light Post"/>
+		<entry key="BuildingPartName_BL_Street_Light_Topper" translation="Street Light Lamp"/>
+		<entry key="BuildingPartName_BL_Studio_Tour_Bus_Destroyed" translation="Studio Tour Bus Destroyed"/>
+		<entry key="BuildingPartName_BL_StuntFall_Dumpster" translation="Stunt Fall Dumpster"/>
+		<entry key="BuildingPartName_BL_StuntFall_Pallet" translation="Stunt Fall Pallet"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Cower" translation="Stuntman Archaeologist Cower"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Dive_40m" translation="Stuntman Archaeologist Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Explode_Backward" translation="Stuntman Archaeologist Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Explode_Forward" translation="Stuntman Archaeologist Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Fall_40m" translation="Stuntman Archaeologist Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Idle" translation="Stuntman Archaeologist Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Adventure_Sit" translation="Stuntman Archaeologist Sit"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Cower" translation="Stuntman Business Cower"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Dive_40m" translation="Stuntman Business Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Explode_Backward" translation="Stuntman Business Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Explode_Forward" translation="Stuntman Business Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Fall_8m" translation="Stuntman Business Fall 8m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Idle" translation="Stuntman Business Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Levitate" translation="Stuntman Business Levitate"/>
+		<entry key="BuildingPartName_BL_Stuntman_Business_Sit" translation="Stuntman Business Sit"/>
+		<entry key="BuildingPartName_BL_Stuntman_Fairytale_Explode_Forward" translation="Stuntman Fairytale Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Fairytale_Fall_40m" translation="Stuntman Fairytale Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Fairytale_Fall_8m" translation="Stuntman Fairytale Fall 8m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Fairytale_Idle" translation="Stuntman Fairytale Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Fairytale_Knight_Fight" translation="Stuntman Fairytale Knights Fighting"/>
+		<entry key="BuildingPartName_BL_Stuntman_Pirate_Cower" translation="Stuntman Pirate Cower"/>
+		<entry key="BuildingPartName_BL_Stuntman_Pirate_Dive_40m" translation="Stuntman Pirate Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Pirate_Explode_Backward" translation="Stuntman Pirate Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Pirate_Explode_Forward" translation="Stuntman Pirate Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Pirate_Idle" translation="Stuntman Pirate Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Pirate_Sit" translation="Stuntman Pirate Sit"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Dive_8m" translation="Stuntman Police Dive 8m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Explode_Backward" translation="Stuntman Police Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Explode_Forward" translation="Stuntman Police Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Fall_40m" translation="Stuntman Police Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Idle" translation="Stuntman Police Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Shootover" translation="Stuntman Police Shootover"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Shootover_Hit" translation="Stuntman Police Shootover Hit"/>
+		<entry key="BuildingPartName_BL_Stuntman_Police_Sit" translation="Stuntman Police Sit"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_Fi_Cower" translation="Stuntman Sci-Fi Cower"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_Fi_Dive_40m" translation="Stuntman Sci-Fi Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_Fi_Explode_Backward" translation="Stuntman Sci-Fi Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_Fi_Explode_Forward" translation="Stuntman Sci-Fi Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_Fi_Fall_40m" translation="Stuntman Sci-Fi Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_fi_Idle" translation="Stuntman Sci-Fi Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_fi_Levitate" translation="Stuntman Sci-Fi Levitate "/>
+		<entry key="BuildingPartName_BL_Stuntman_Sci_fi_Sit" translation="Stuntman Sci-Fi Sit"/>
+		<entry key="BuildingPartName_BL_Stuntman_Spooky_Dive_40m" translation="Stuntman Zombie Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Spooky_Explode_Backward" translation="Stuntman Zombie Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Spooky_Zombie_Idle" translation="Stuntman Zombie Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Cower" translation="Stuntman Western Cower"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Dive_40m" translation="Stuntman Western Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Dive_8m" translation="Stuntman Western Dive 8m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Explode_Backward" translation="Stuntman Western Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Explode_Forward" translation="Stuntman Western Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Fall_40m" translation="Stuntman Western Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Fall_8m" translation="Stuntman Western Fall 8m"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Idle" translation="Stuntman Western Idle"/>
+		<entry key="BuildingPartName_BL_Stuntman_Western_Sit" translation="Stuntman Western Sit"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Adventure_Dive_40m" translation="Stuntwoman Mummy Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Adventure_Dive_8m" translation="Stuntwoman Mummy Dive 8m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Adventure_Explode_Backward" translation="Stuntwoman Mummy Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Adventure_Explode_Forward" translation="Stuntwoman Mummy Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Adventure_Idle" translation="Stuntwoman Mummy Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Cower" translation="Stuntwoman Business Cower"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Dive_8m" translation="Stuntwoman Business Dive 8m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Explode_Backward" translation="Stuntwoman Business Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Explode_Forward" translation="Stuntwoman Business Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Fall_40m" translation="Stuntwoman Business Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Idle" translation="Stuntwoman Business Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Levitate" translation="Stuntwoman Business Levitate"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Business_Sit" translation="Stuntwoman Business Sit"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Fairytale_Dive_40m" translation="Stuntwoman Fairytale Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Fairytale_Explode_Backward" translation="Stuntwoman Fairytale Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Fairytale_Fall_8m" translation="Stuntwoman Fairytale Fall 8m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Fairytale_Idle" translation="Stuntwoman Fairytale Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Pirate_Cower" translation="Stuntwoman Pirate Cower"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Pirate_Explode_Backward" translation="Stuntwoman Pirate Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Pirate_Explode_Forward" translation="Stuntwoman Pirate Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Pirate_Fall_40m" translation="Stuntwoman Pirate Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Pirate_Idle" translation="Stuntwoman Pirate Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Pirate_Sit" translation="Stuntwoman Pirate Sit"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Dive_40m" translation="Stuntwoman Police Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Explode_Backward" translation="Stuntwoman Police Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Explode_Forward" translation="Stuntwoman Police Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Fall_8m" translation="Stuntwoman Police Fall 8m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Idle" translation="Stuntwoman Police Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Shootover" translation="Stuntwoman Police Shootover"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Shootover_Hit" translation="Stuntwoman Police Shootover Hit"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Police_Sit" translation="Stuntwoman Police Sit"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_Fi_Dive_40m" translation="Stuntwoman Sci-Fi Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_Fi_Explode_Forward" translation="Stuntwoman Sci-Fi Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_Fi_Fall_40m" translation="Stuntwoman Sci-Fi Fall 40m "/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_fi_Cower" translation="Stuntwoman Sci-Fi Cower"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_fi_Explode_Backwards" translation="Stuntwoman Sci-Fi Explode Backwards"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_fi_Idle" translation="Stuntwoman Sci-Fi Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_fi_Levitate" translation="Stuntwoman Sci-Fi Levitate"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Sci_fi_Sit" translation="Stuntwoman Sci-Fi Sit"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Spooky_Dive_40m" translation="Stuntwoman Zombie Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Spooky_Explode_Forward" translation="Stuntwoman Zombie Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Spooky_Zombie_Idle" translation="Stuntwoman Zombie Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Cower" translation="Stuntwoman Western Cower"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Dive_40m" translation="Stuntwoman Western Dive 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Dive_8m" translation="Stuntwoman Western Dive 8m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Explode_Backward" translation="Stuntwoman Western Explode Backward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Explode_Forward" translation="Stuntwoman Western Explode Forward"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Fall_40m" translation="Stuntwoman Western Fall 40m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Fall_8m" translation="Stuntwoman Western Fall 8m"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Idle" translation="Stuntwoman Western Idle"/>
+		<entry key="BuildingPartName_BL_Stuntwoman_Western_Sit" translation="Stuntwoman Western Sit"/>
+		<entry key="BuildingPartName_BL_Subway_Entrance" translation="Subway Entrance"/>
+		<entry key="BuildingPartName_BL_Swat_Truck" translation="SWAT Truck"/>
+		<entry key="BuildingPartName_BL_Tail_Rotor" translation="Helicopter Tail Rotor"/>
+		<entry key="BuildingPartName_BL_Tank_Explode" translation="Tank Explode"/>
+		<entry key="BuildingPartName_BL_Tank_Shoot_01" translation="Tank Shoot 1"/>
+		<entry key="BuildingPartName_BL_Tank_Shoot_02" translation="Tank Shoot 2"/>
+		<entry key="BuildingPartName_BL_Taxi_Lights" translation="Taxi Light"/>
+		<entry key="BuildingPartName_BL_Taxi_Lights_EM" translation="Taxi Light Lit"/>
+		<entry key="BuildingPartName_BL_Traffic_Cone" translation="Traffic Cone"/>
+		<entry key="BuildingPartName_BL_Traffic_Lights_01" translation="Traffic Lights 1"/>
+		<entry key="BuildingPartName_BL_Traffic_Lights_02" translation="Traffic Lights 2"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_01" translation="Traffic Sign 1"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_02" translation="Traffic Sign 2"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_03" translation="Traffic Sign 3"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_04" translation="Traffic Sign 4"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_05" translation="Traffic Sign 5"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_06" translation="Traffic Sign 6"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_07" translation="Traffic Sign 7"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_08" translation="Traffic Sign 8"/>
+		<entry key="BuildingPartName_BL_Traffic_Signs_01_09" translation="Traffic Sign 9"/>
+		<entry key="BuildingPartName_BL_Trash_Bag" translation="Trash Bag"/>
+		<entry key="BuildingPartName_BL_Trash_Can" translation="Trash Can"/>
+		<entry key="BuildingPartName_BL_Trash_Can_Bin" translation="Studios Bin"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_EM_Panels_1x1m" translation="Colourable Panel Lit 1m 1m"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_EM_Panels_2x2m" translation="Colourable Panel Lit 2m 2m"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_EM_Panels_2x4m" translation="Colourable Panel Lit 2m 4m"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_EM_Panels_4x4m" translation="Colourable Panel Lit 4m 4m"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_Panels_1x1m" translation="Colourable Panel 1m 1m"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_Panels_2x2m" translation="Colourable Panel 2m 2m "/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_Panels_2x4m" translation="Colourable Panel 2m 4m"/>
+		<entry key="BuildingPartName_BL_Triggerable_FC_Panels_4x4m" translation="Colourable Panel 4m 4m"/>
+		<entry key="BuildingPartName_BL_Van_Flatbed" translation="Small Truck Flatbed"/>
+		<entry key="BuildingPartName_BL_Wagon_Roll" translation="Wagon Roll"/>
+		<entry key="BuildingPartName_BL_Warehouse_Door" translation="Warehouse Door"/>
+		<entry key="BuildingPartName_BL_Water_Storage_Tank_01" translation="Water Storage Tank"/>
+		<entry key="BuildingPartName_BL_Water_Storage_Tank_01_Base" translation="Water Storage Tank Base"/>
+		<entry key="BuildingPartName_BL_Water_Tower_Split_Collapse_WS" translation="Water Tower Split Collapse"/>
+		<entry key="BuildingPartName_BL_Wheels_01" translation="Vehicle Wheel 1"/>
+		<entry key="BuildingPartName_BL_Wheels_02" translation="Vehicle Wheel 2"/>
+		<entry key="BuildingPartName_BL_Wheels_03" translation="Vehicle Wheel 3"/>
+		<entry key="BuildingPartName_BL_Wheels_04" translation="Vehicle Wheel 4"/>
+		<entry key="BuildingPartName_BL_Wheels_05" translation="Vehicle Wheel 5"/>
+		<entry key="BuildingPartName_BL_Wheels_06" translation="Vehicle Wheel 6"/>
+		<entry key="BuildingPartName_BL_Wheels_Swat_05" translation="SWAT Vehicle Wheel"/>
+		<entry key="BuildingPartName_BL_Window_BB_01" translation="Brownstone Window 1"/>
+		<entry key="BuildingPartName_BL_Window_BB_01_EM" translation="Brownstone Window 1 Lit"/>
+		<entry key="BuildingPartName_BL_Window_BB_02" translation="Brownstone Window 2"/>
+		<entry key="BuildingPartName_BL_Window_BB_02_EM" translation="Brownstone Window 2 Lit"/>
+		<entry key="BuildingPartName_BL_Window_BB_Smash" translation="Brownstone Window 1 Smashed"/>
+		<entry key="BuildingPartName_BL_Window_FT_Smash" translation="Village Window - Plain Peaked Smashed"/>
+		<entry key="BuildingPartName_BL_Window_PC_Smash" translation="Plastic Window - Plain Smashed"/>
+		<entry key="BuildingPartName_BL_Window_WD_Smash" translation="Wooden Window - Open Shutters Smashed"/>
+		<entry key="BuildingPartName_GL_Glass_Opaque_Merge_Wall_1m" translation="Opaque Glass Wall 1m"/>
+		<entry key="BuildingPartName_GL_Glass_Opaque_Merge_Wall_2m" translation="Opaque Glass Wall 2m"/>
+		<entry key="BuildingPartName_GL_Glass_Opaque_Merge_Wall_4m" translation="Opaque Glass Wall 4m"/>
+		<entry key="BuildingPartName_GL_Glass_Opaque_Merge_Wall_4m_Damaged_Arch" translation="Opaque Glass Wall 4m Damaged Arch"/>
+		<entry key="BuildingPartName_GL_Glass_Opaque_Merge_Wall_4m_Damaged_Base" translation="Opaque Glass Wall 4m Damaged Base"/>
+		<entry key="BuildingPartName_GL_Glass_Opaque_Merge_Wall_4m_EM" translation="Opaque Glass Wall 4m Lit"/>
+		<entry key="BuildingPartName_TL_Tile_Gloss_Merge_Wall_1m" translation="Gloss Tile Wall 1m"/>
+		<entry key="BuildingPartName_TL_Tile_Gloss_Merge_Wall_2m" translation="Gloss Tile Wall 2m"/>
+		<entry key="BuildingPartName_TL_Tile_Gloss_Merge_Wall_4m" translation="Gloss Tile Wall 4m"/>
+		<entry key="BuildingPartName_TL_Tile_Gloss_Merge_Wall_4m_Damaged_Arch" translation="Gloss Tile Wall 4m Damaged Arch"/>
+		<entry key="BuildingPartName_TL_Tile_Gloss_Merge_Wall_4m_Damaged_Base" translation="Gloss Tile Wall 4m Damaged Base"/>
+		<entry key="BuildingPartName_TL_Tile_Gloss_Pillar_4m" translation="Gloss Tile Pillar 4m"/>
+		<entry key="Tag_PDLC_BlockBuster" translation="Studios"/>
+		<!--PDLC_BlockBuster_Terrain-->
+		<entry key="Terrain_Edit_IconName_iconTerrainStudiosConcrete" translation="Concrete"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainStudiosConcreteWorn" translation="Concrete Worn"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainStudiosTarmac" translation="Asphalt"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainStudiosTarmacWorn" translation="Asphalt Worn"/>
 		<!--PDLC_DeLorean_Coasters-->
 		<entry key="Coaster_Type_BackToTheFuture" translation="Go Karts"/>
 		<entry key="Powered_BackToTheFuture" translation="Ritorno al Futuro"/>
@@ -17393,6 +18657,8 @@
 		<entry key="ParkManagement_ExpenditureCategory_FacilityRunningCosts" translation="Costi di esercizio di Negozi e strutture"/>
 		<entry key="ParkManagement_ExpenditureCategory_FacilitySales" translation="Vendite Strutture"/>
 		<entry key="ParkManagement_ExpenditureCategory_FastPassSales" translation="Vendite dei Pass Salta-Coda"/>
+		<entry key="ParkManagement_ExpenditureCategory_HotelCosts" translation="Hotel Running Costs"/>
+		<entry key="ParkManagement_ExpenditureCategory_HotelSales" translation="Hotel Room Sales"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanInterest" translation="Pagamenti interessi del prestito"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanLumpRepayment" translation="Restituzione prestito"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanMonthlyRepayment" translation="Pagamenti mensili del prestito"/>
@@ -17468,6 +18734,9 @@
 		<entry key="ParkManagement_Guests_Tooltip" translation="Pensieri dei visitatori e informazioni"/>
 		<entry key="ParkManagement_Happiness_With_Percent" translation="Happiness - {percent}"/>
 		<entry key="ParkManagement_HireStaff" translation="Assumi dipendente"/>
+		<entry key="ParkManagement_Hotel_RoomCount" translation="{count:int} Rooms"/>
+		<entry key="ParkManagement_Hotels" translation="Hotels"/>
+		<entry key="ParkManagement_HotelsDesc" translation="Hotels allow Guests to stay the night instead of having to leave the Park."/>
 		<entry key="ParkManagement_Hunger_With_Percent" translation="Hunger - {percent}"/>
 		<entry key="ParkManagement_LeavingGuestThoughts" translation="Pensieri dei visitatori che vanno via"/>
 		<entry key="ParkManagement_List_Age" translation="Età"/>
@@ -17478,8 +18747,11 @@
 		<entry key="ParkManagement_List_HappinessHeader" translation="Felicità"/>
 		<entry key="ParkManagement_List_Janitor" translation="Spazzini"/>
 		<entry key="ParkManagement_List_LastMonthsProfit" translation="Profitti dell'ultimo mese"/>
+		<entry key="ParkManagement_List_LastProfit" translation="Last Month's Profit"/>
+		<entry key="ParkManagement_List_LuxuryRooms" translation="Luxury Rooms"/>
 		<entry key="ParkManagement_List_Mechanic" translation="Manutentori"/>
 		<entry key="ParkManagement_List_MonthlyGuests" translation="Visitatori mensili"/>
+		<entry key="ParkManagement_List_MonthlyRunningCost" translation="Monthly Running Cost"/>
 		<entry key="ParkManagement_List_NameHeader" translation="Nome"/>
 		<entry key="ParkManagement_List_NoAllStaff" translation="Non hai dipendenti"/>
 		<entry key="ParkManagement_List_NoEntertainer" translation="Non hai animatori"/>
@@ -17489,6 +18761,7 @@
 		<entry key="ParkManagement_List_NoVendor" translation="Non hai venditori"/>
 		<entry key="ParkManagement_List_PayHeader" translation="Paga"/>
 		<entry key="ParkManagement_List_PopularityHeader" translation="Popolarità"/>
+		<entry key="ParkManagement_List_Prestige" translation="Prestige"/>
 		<entry key="ParkManagement_List_PriceSync" translation="Sincronizza prezzo"/>
 		<entry key="ParkManagement_List_RideAge" translation="Reputazione"/>
 		<entry key="ParkManagement_List_RidePrestige" translation="Prestigio"/>
@@ -17496,6 +18769,7 @@
 		<entry key="ParkManagement_List_RosterAssignHeader" translation="Assegna coda"/>
 		<entry key="ParkManagement_List_SatisfactionHeader" translation="Soddisfazione"/>
 		<entry key="ParkManagement_List_Security" translation="Guardie di sicurezza"/>
+		<entry key="ParkManagement_List_StandardRooms" translation="Standard Rooms"/>
 		<entry key="ParkManagement_List_StatusHeader" translation="Stato"/>
 		<entry key="ParkManagement_List_TrainingHeader" translation="Livello di addestramento"/>
 		<entry key="ParkManagement_List_TrainingLevel" translation="Livello {level:int}"/>
@@ -17573,7 +18847,9 @@
 		<entry key="ParkManagement_NewResearchItemsAvailable" translation="Nuove ricerche disponibili"/>
 		<entry key="ParkManagement_NoAttractions" translation="Non hai attrazioni"/>
 		<entry key="ParkManagement_NoFacilities" translation="Non hai strutture"/>
+		<entry key="ParkManagement_NoHotels" translation="You have no hotels"/>
 		<entry key="ParkManagement_NoShops" translation="Non hai negozi"/>
+		<entry key="ParkManagement_NoUnconnectedRooms" translation="There have no unconnected rooms"/>
 		<entry key="ParkManagement_NotAvailableInSandbox_ToolTip" translation="Non disponibile in modalità Sandbox"/>
 		<entry key="ParkManagement_NotAvailableInScenario_ToolTip" translation="Non disponibile in questo scenario"/>
 		<entry key="ParkManagement_OpenTime" translation="Aperto"/>
@@ -17778,6 +19054,8 @@
 		<entry key="ParkManagement_Toilet_With_Percent" translation="Toilet - {percent}"/>
 		<entry key="ParkManagement_TopThoughts" translation="Migliori pensieri dei visitatori"/>
 		<entry key="ParkManagement_Triggers" translation="Inneschi"/>
+		<entry key="ParkManagement_UnconnectedRooms" translation="Unconnected Rooms"/>
+		<entry key="ParkManagement_UnconnectedRoomsDesc" translation="Here you can see Rooms that are currently not connected to Foyer objects."/>
 		<!--ParkUpload-->
 		<entry key="ParkUpload_ButtonBack" translation="Indietro"/>
 		<entry key="ParkUpload_ButtonCreateWorkshopItem" translation="Crea oggetto del workshop"/>
@@ -18144,6 +19422,8 @@
 		<entry key="Research_Type_TrackedRideGroup" translation="Track Rides"/>
 		<entry key="Research_Type_WoodenCoaster" translation="Coaster di Legno"/>
 		<!--RideCam-->
+		<entry key="RideCam_Boat" translation="Boat"/>
+		<entry key="RideCam_Bus" translation="Bus"/>
 		<entry key="RideCam_Cabin" translation="Cabina"/>
 		<entry key="RideCam_CabinOrbit" translation="Visuale esterna"/>
 		<entry key="RideCam_Camera" translation="Camera"/>
@@ -18162,15 +19442,18 @@
 		<entry key="RideCam_GuestCamera" translation="Camera visitatore"/>
 		<entry key="RideCam_GuestPOV" translation="Visuale visitatore"/>
 		<entry key="RideCam_Interest" translation="Visuali fisse"/>
+		<entry key="RideCam_Kart" translation="Kart"/>
 		<entry key="RideCam_LookAtCabin" translation="Cabina opposta"/>
 		<entry key="RideCam_LookAtGuest" translation="Visuale frontale"/>
 		<entry key="RideCam_NumberedCamera" translation="{Name} - {Number:int}"/>
 		<entry key="RideCam_Orbit" translation="Visuale aerea"/>
+		<entry key="RideCam_Raft" translation="Raft"/>
 		<entry key="RideCam_RideCamera" translation="Camera Attrazione"/>
 		<entry key="RideCam_Row" translation="Fila"/>
 		<entry key="RideCam_Seat" translation="Sedile"/>
 		<entry key="RideCam_ShowTestResults" translation="Risultati Test"/>
 		<entry key="RideCam_Side" translation="Lato"/>
+		<entry key="RideCam_Sleigh" translation="Sleigh"/>
 		<entry key="RideCam_ThirdPerson" translation="Terza persona"/>
 		<entry key="RideCam_Train" translation="Treno"/>
 		<entry key="RideCam_Wing" translation="Visuale laterale"/>
@@ -18243,6 +19526,7 @@
 		<entry key="Objective_Condition_Name_NumberOfMonths" translation="Meet Objective Conditions Over Time"/>
 		<entry key="Objective_Condition_Name_ParkRating" translation="Minimum Park Rating"/>
 		<entry key="Objective_Condition_Name_PrestigeMin" translation="Minimum Ride Prestige"/>
+		<entry key="Objective_Condition_Name_RoomCount" translation="Minimum Rooms"/>
 		<entry key="Objective_Condition_Name_TotalAirTimeMax" translation="Maximum Total Air Time"/>
 		<entry key="Objective_Condition_Name_TotalAirTimeMin" translation="Minimum Total Air Time"/>
 		<entry key="Objective_Condition_Variable_AllowBreakdowns" translation="Allow Broken Down Rides"/>
@@ -18273,6 +19557,7 @@
 		<entry key="Objective_Condition_Variable_NumberOfMonths" translation="Months"/>
 		<entry key="Objective_Condition_Variable_ParkRating" translation="Rating"/>
 		<entry key="Objective_Condition_Variable_PrestigeMin" translation="Prestige"/>
+		<entry key="Objective_Condition_Variable_Rooms" translation="Rooms"/>
 		<entry key="Objective_Condition_Variable_TotalAirTimeMax" translation="Time"/>
 		<entry key="Objective_Condition_Variable_TotalAirTimeMin" translation="Time"/>
 		<entry key="Objective_Item_AsPercentage" translation="As Percentage"/>
@@ -18286,6 +19571,7 @@
 		<entry key="Objective_Item_ProfitType" translation="Profit Type"/>
 		<entry key="Objective_Item_ProfitType_All" translation="All Profits"/>
 		<entry key="Objective_Item_ProfitType_Coasters" translation="Coaster Profits Only"/>
+		<entry key="Objective_Item_ProfitType_Hotels" translation="Hotel Profits Only"/>
 		<entry key="Objective_Item_ProfitType_Rides" translation="Ride Profits Only"/>
 		<entry key="Objective_Item_ProfitType_ShopsFacilities" translation="Shops and Facilities"/>
 		<entry key="Objective_Item_RatingType" translation="Rating Type"/>
@@ -18297,6 +19583,7 @@
 		<entry key="Objective_Item_TimeWatching" translation="Time Watching"/>
 		<entry key="Objective_Item_TrainingLevel" translation="Training Level"/>
 		<entry key="Objective_Item_Uses" translation="Total Uses"/>
+		<entry key="Objective_Item_UsesPerMonth" translation="Uses Per Month"/>
 		<entry key="Objective_Name_BuildRides" translation="Build Rides"/>
 		<entry key="Objective_Name_BuildTrackedRides" translation="Build Coasters"/>
 		<entry key="Objective_Name_CashProfit" translation="Park Profits"/>
@@ -18308,6 +19595,8 @@
 		<entry key="Objective_Name_GuestCount" translation="Guest Count"/>
 		<entry key="Objective_Name_GuestHappiness" translation="Guest Happiness"/>
 		<entry key="Objective_Name_HireStaff" translation="Hire Staff"/>
+		<entry key="Objective_Name_HotelStars" translation="Hotel Stars"/>
+		<entry key="Objective_Name_HotelUses" translation="Hotel Visits"/>
 		<entry key="Objective_Name_NoStaffQuit" translation="No Staff Leave"/>
 		<entry key="Objective_Name_ParkRating" translation="Park Rating"/>
 		<entry key="Objective_Name_ParkValue" translation="Park Value"/>
@@ -18316,6 +19605,11 @@
 		<entry key="Objective_Name_StaffBuildingsBuilt" translation="Staff Building Capacity"/>
 		<entry key="Objective_Name_TheftVictims" translation="Theft Victims"/>
 		<entry key="Objective_Name_TrainStaff" translation="Train Staff"/>
+		<entry key="Objective_RoomType" translation="Room Type"/>
+		<entry key="Objective_RoomType_Any" translation="Any"/>
+		<entry key="Objective_RoomType_Luxury" translation="Luxury"/>
+		<entry key="Objective_RoomType_Standard" translation="Standard"/>
+		<entry key="Objective_StarRating" translation="Star Rating"/>
 		<entry key="Objectives_AverageSpeedMax" translation="Una Velocità Media massima di {Value}"/>
 		<entry key="Objectives_AverageSpeedMin" translation="Una Velocità Media minima di {Value}"/>
 		<entry key="Objectives_BuildFlatRides_View" translation="Costruisci {Value:int} Attrazioni"/>
@@ -18328,8 +19622,10 @@
 		<entry key="Objectives_BuildTrackedRides_ViewSingular" translation="Costruisci una Montagna Russa"/>
 		<entry key="Objectives_CashProfitAll_View" translation="Raggiungi un Profitto Mensile di {Value:currency}"/>
 		<entry key="Objectives_CashProfitCoasters_View" translation="Raggiungi un Profitto Mensile di {Value:currency} dalle Montagne Russe"/>
+		<entry key="Objectives_CashProfitHotels_View" translation="Reach a Monthly Profit from Hotels of {Value:currency}"/>
 		<entry key="Objectives_CashProfitOverTimeAll_View" translation="Mantieni un Profitto Mensile di {Value:currency} per {Months:int} mesi"/>
 		<entry key="Objectives_CashProfitOverTimeCoasters_View" translation="Mantieni un Profitto Mensile dalle Montagne Russe di {Value:currency} per {Months:int} mesi"/>
+		<entry key="Objectives_CashProfitOverTimeHotels_View" translation="Sustain a Monthly Profit from Hotels of {Value:currency} for {Months:int} months"/>
 		<entry key="Objectives_CashProfitOverTimeRides_View" translation="Mantieni un Profitto Mensile dalle Attrazioni di {Value:currency} per {Months:int} mesi"/>
 		<entry key="Objectives_CashProfitOverTimeShopsFacilities_View" translation="Mantieni un Profitto Mensile da Negozi e Servizi di {Value:currency} per {Months:int} mesi"/>
 		<entry key="Objectives_CashProfitOverValue" translation="{Value:currency} &#10; {Months:int}/{TargetMonths:int} months"/>
@@ -18373,6 +19669,16 @@
 		<entry key="Objectives_GuestCount_View" translation="Attira {Value:int} visitatori"/>
 		<entry key="Objectives_GuestHappiness_View" translation="Incrementa la Felicità Media dei visitatori fino al {Value:float:decimalPlaces=0}%"/>
 		<entry key="Objectives_HireStaff_View" translation="Assumi {Value:int} {StaffTypes}"/>
+		<entry key="Objectives_HotelStars_View" translation="Build a hotel with a {Stars:int} star rating"/>
+		<entry key="Objectives_HotelStars_View_MinSize" translation="Build a hotel with a {Stars:int} star rating, and at least {Size:int} rooms"/>
+		<entry key="Objectives_HotelUses_ValueLabel_Multiple" translation="{Value:int} this month&#10; {Months:int}/{TargetMonths:int} months"/>
+		<entry key="Objectives_HotelUses_ValueLabel_Singular" translation="{Value:int}"/>
+		<entry key="Objectives_HotelUses_View_Multiple_Any" translation="Have {Value:int} groups use your hotels a month, for {Months:int} consecutive months"/>
+		<entry key="Objectives_HotelUses_View_Multiple_Luxury" translation="Have {Value:int} groups use luxury hotel rooms a month, for {Months:int} consecutive months"/>
+		<entry key="Objectives_HotelUses_View_Multiple_Standard" translation="Have {Value:int} groups use standard hotel rooms a month, for {Months:int} consecutive months"/>
+		<entry key="Objectives_HotelUses_View_Singular_Any" translation="Have {Value:int} groups use your hotels in a month"/>
+		<entry key="Objectives_HotelUses_View_Singular_Luxury" translation="Have {Value:int} groups use luxury hotel rooms in a month"/>
+		<entry key="Objectives_HotelUses_View_Singular_Standard" translation="Have {Value:int} groups use standard hotel rooms in a month"/>
 		<entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Mantieni le vittime di furto attuali sotto il {Value:float:decimalPlaces=1}% per {Months:int} mesi consecutivi"/>
 		<entry key="Objectives_KeepTheftVictimsLow_View" translation="Mantieni le vittime di furto attuali sotto {Value:int} per {Months:int} mesi consecutivi"/>
 		<entry key="Objectives_KeepTheftVictimsLow_ViewSingular" translation="Non avere furti per {Months:int} mesi consecutivi"/>
@@ -18432,6 +19738,12 @@
 		<entry key="Scenario_RideLocked" translation="Bloccato in questo scenario"/>
 		<entry key="Scneario_DefaultDesc" translation="A player-created scenario!"/>
 		<!--ScenarioEditor-->
+		<entry key="PrestigeSpecDescription_ChallengeEasy" translation="The settings used in an Easy challenge."/>
+		<entry key="PrestigeSpecDescription_ChallengeHard" translation="The settings used in a Hard challenge."/>
+		<entry key="PrestigeSpecDescription_ChallengeMedium" translation="The settings used in a Medium challenge."/>
+		<entry key="PrestigeSpecName_ChallengeEasy" translation="Easy"/>
+		<entry key="PrestigeSpecName_ChallengeHard" translation="Hard"/>
+		<entry key="PrestigeSpecName_ChallengeMedium" translation="Medium"/>
 		<entry key="ScenarioEditor" translation="Scenario Editor"/>
 		<entry key="ScenarioEditor_AccessButtonTooltip" translation="Edit Scenario"/>
 		<entry key="ScenarioEditor_ChooseCondition" translation="Choose Condition Type"/>
@@ -20275,6 +21587,7 @@
 		<entry key="Browser_SubCat_Props_Misc" translation="Varie"/>
 		<entry key="Browser_SubCat_Props_Signs" translation="Insegne e pubblicità"/>
 		<entry key="Browser_SubCat_Props_Statues" translation="Statue"/>
+		<entry key="Browser_SubCat_Props_Vehicles" translation="Vehicles"/>
 		<entry key="Browser_SubCat_Roof_Decorations" translation="Decorazioni per tetti"/>
 		<entry key="Browser_SubCat_Roof_Flat" translation="Tetti piatti"/>
 		<entry key="Browser_SubCat_Roof_Roof" translation="Tetti a punta"/>
@@ -20469,7 +21782,6 @@
 		<entry key="Terrain_Edit_ToolTip_Chisel" translation="scalpello"/>
 		<entry key="Terrain_Edit_ToolTip_FlattenToFoundation" translation="Appiattisci alle fondamenta"/>
 		<entry key="Terrain_Edit_ToolTip_FlattenToSurface" translation="Appiattisci alla superficie"/>
-		<entry key="Terrain_Edit_ToolTip_Lava" translation="Lava"/>
 		<entry key="Terrain_Edit_ToolTip_Pull" translation="Tira"/>
 		<entry key="Terrain_Edit_ToolTip_Push" translation="Spingi"/>
 		<entry key="Terrain_Edit_ToolTip_Roughen" translation="Irruvidisci"/>
@@ -21054,6 +22366,47 @@
 		<entry key="Guest_Thought_GoingHome_Teen_02" translation="Sono sfinito, per oggi ho finito"/>
 		<entry key="Guest_Thought_GoingHome_Teen_03" translation="È ora di andarsene, credo."/>
 		<entry key="Guest_Thought_GoingHome_Teen_04" translation="È stato bello finché è durato"/>
+		<entry key="Guest_Thought_Hotel_Both_PriceFree_Common_01" translation="What?! It's completely free to stay at {reference}?!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_NoPriorityPass_Common_01" translation="I don't have a Priority Pass, so I can't stay in a luxury room at {reference}!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceCheap_Common_01" translation="Luxury Rooms at {reference} are so cheap!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceExpensive_Common_01" translation="Luxury Rooms at {reference} are too expensive!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceFree_Common_01" translation="What?! It's free to stay in a Luxury Room at {reference}?!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceFree_Common_02" translation="I can't believe the Luxury Rooms at {reference} are free!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceReasonable_Common_01" translation="Luxury Rooms at {reference} are well priced"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriorityPass_Common_01" translation="I am glad I got the Priority Pass now!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriorityPass_Common_02" translation="The Luxury Rooms at {reference} must be special if I need my Priority Pass"/>
+		<entry key="Guest_Thought_Hotel_Need_Common_01" translation="This place is great! I want to stay the night!"/>
+		<entry key="Guest_Thought_Hotel_Need_Common_02" translation="I've had so much fun, I'm going to come back tomorrow!"/>
+		<entry key="Guest_Thought_Hotel_NoLuxuryRooms_Common_01" translation="There aren't any luxury rooms at {reference}!"/>
+		<entry key="Guest_Thought_Hotel_NoNeed_Common_01" translation="I want to stay the night here, but there's no hotels"/>
+		<entry key="Guest_Thought_Hotel_NoRooms_Common_01" translation="I want to stay at {reference}, but it's full!"/>
+		<entry key="Guest_Thought_Hotel_NoStandardRooms_Common_01" translation="There aren't any normal rooms at {reference}!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Arcade_Common_01" translation="Wow! {reference} has an Arcade!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Gym_Common_01" translation="Wow! {reference} has a Gym!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Restaurant_Common_01" translation="Wow! {reference} has a Restaurant!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_RoomService_Common_01" translation="Wow! {reference} has Room Service!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Spa_Common_01" translation="Wow! {reference} has a Spa!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Wifi_Common_01" translation="Wow! {reference} has Internet Access!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Arcade_Common_01" translation="Why is there not an Arcade!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Gym_Common_01" translation="Why is there not a Gym!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Restaurant_Common_01" translation="Why is there not a Restaurant!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_RoomService_Common_01" translation="Why is there no Room Service!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Spa_Common_01" translation="Why is there not a Spa!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Wifi_Common_01" translation="Why is there no Internet Access!"/>
+		<entry key="Guest_Thought_Hotel_Perk_All_Common_01" translation="This hotel has it all!"/>
+		<entry key="Guest_Thought_Hotel_Perk_All_Common_02" translation="This hotel has all my favourite perks!"/>
+		<entry key="Guest_Thought_Hotel_Prestige_High_Common_01" translation="{reference} is a fancy hotel!"/>
+		<entry key="Guest_Thought_Hotel_Prestige_Low_Common_01" translation="{reference} isn't very prestigious"/>
+		<entry key="Guest_Thought_Hotel_Scenery_High_Common_01" translation="{reference} is well decorated"/>
+		<entry key="Guest_Thought_Hotel_Scenery_Low_Common_01" translation="{reference} is a bit bland"/>
+		<entry key="Guest_Thought_Hotel_Standard_NoPriorityPass_Common_01" translation="I don't have a Priority Pass, so I can't stay in a standard room at {reference}!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceCheap_Common_01" translation="Standard Rooms at {reference} are so cheap!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceExpensive_Common_01" translation="Standard Rooms at {reference} are too expensive!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_01" translation="What?! It's free to stay in a Standard Room at {reference}?!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_02" translation="I can't believe the Standard Rooms at {reference} are free!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceReasonable_Common_01" translation="Standard Rooms at {reference} are well priced"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_01" translation="I am glad I got the Priority Pass now!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_02" translation="The Standard Rooms at {reference} must be special if I need my Priority Pass"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_01" translation="Sono affamato dopo {reference}"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_02" translation="{reference} mi rende affamato"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_03" translation="Sto morendo di fame dopo {reference}"/>
@@ -21664,6 +23017,8 @@
 		<entry key="TrackEditParam_StationExitSide" translation="Lato Uscita Stazione"/>
 		<entry key="TrackEditParam_StationExitSpeed" translation="Velocità di Uscita"/>
 		<entry key="TrackEditParam_StationStopLocation" translation="Posizione Fermata Treno"/>
+		<entry key="TrackEditParam_StopAndHold" translation="Stop and Hold"/>
+		<entry key="TrackEditParam_StopAndHoldWaitTime" translation="Wait Time"/>
 		<entry key="TrackEditParam_TrackMeshIndex" translation="Tipo Tracciato"/>
 		<entry key="TrackEditParam_TrackMeshIndex_Tunnel" translation="Luci del Tunnel"/>
 		<entry key="TrackEditParam_TunnelRadius" translation="Raggio del Tunnel"/>
@@ -22366,6 +23721,7 @@
 		<entry key="Train_HTG" translation="Salto nel Vuoto"/>
 		<entry key="Train_Hart" translation="Elettrocardiogramma"/>
 		<entry key="Train_IVenture" translation="Island Adventure"/>
+		<entry key="Train_InvertedArrow" translation="Inverted Arrow"/>
 		<entry key="Train_Invincible" translation="Invincibile"/>
 		<entry key="Train_IronHorse" translation="Iron Horse"/>
 		<entry key="Train_KnightRider" translation="Supercar"/>
@@ -22373,6 +23729,7 @@
 		<entry key="Train_LandHo" translation="Land Ho"/>
 		<entry key="Train_LunaAutos" translation="Automobili Luna"/>
 		<entry key="Train_MUC" translation="Malice Unchained"/>
+		<entry key="Train_MechArm" translation="Mech Arm"/>
 		<entry key="Train_MgcKatz" translation="Magic Katz"/>
 		<entry key="Train_Mnstr" translation="Bestia"/>
 		<entry key="Train_MtSplash" translation="Chopper's Creek"/>
@@ -22383,9 +23740,11 @@
 		<entry key="Train_SHydra" translation="Steel Hydra"/>
 		<entry key="Train_SPR" translation="Spirale"/>
 		<entry key="Train_SRay" translation="Stingray"/>
+		<entry key="Train_SVengeance" translation="Steel Vengeance"/>
 		<entry key="Train_SilvStar" translation="Light Line"/>
 		<entry key="Train_SleighRide" translation="Corsa in Slitta"/>
 		<entry key="Train_Sp500" translation="Sprint 500"/>
+		<entry key="Train_StudioTour" translation="Studio Tour"/>
 		<entry key="Train_SuperDrift" translation="Super Drift"/>
 		<entry key="Train_TK_010_CableHookCar" translation="Gancio di Traino Track 10"/>
 		<entry key="Train_TK_010_CatchCar" translation="Slitta di Lancio Track 10"/>
@@ -22442,6 +23801,83 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_03" translation="Sirena 3"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_04" translation="Sirena 4"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Alarms_Siren_05" translation="Sirena 5"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_AsteroidClose" translation="Asteroid Impact Close"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_AsteroidDistant" translation="Asteroid Impact Distant"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_ClapperBoard" translation="Film Set Clapperboard"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_Crosswalk" translation="Crosswalk Beep"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_FireTruckSiren" translation="Emergency Siren 1"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_PayphoneRing" translation="Payphone Rings"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_PoliceSiren" translation="Emergency Siren 2"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_PortalClose" translation="Inter-dimensional Portal Close"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_PortalOpen" translation="Inter-dimensional Portal Open"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_SoundStage_Warning" translation="Soundstage Filming Warning - Single"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_SoundStage_Warning2" translation="Soundstage Filming Warning - Double"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Action" translation="Film Set Direction - 'Action!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Brilliant" translation="Film Set Direction - 'Brilliant! Brilliant!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Cut" translation="Film Set Direction - 'Cut!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_01_WelcomeStudioTour" translation="Tour Guide: 'Welcome to the Studio Tour'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_02_PleaseRemainSeats" translation="Tour Guide: 'Please remain in your seats while the vehicle is in motion'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_03_ComingUpNow" translation="Tour Guide: 'Coming up now is a scene I'm sure you'll recognise'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_04_ArrivingFilmSet" translation="Tour Guide: 'We are just arriving at a film set you are sure to remember'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_05_MostPopularStops" translation="Tour Guide: 'This is one of the most popular stops on our tour'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_06_WatchOutStars" translation="Tour Guide: 'Watch out for your favourite stars'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_07_ThankYouComing" translation="Tour Guide: 'Thank you for coming on this tour'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_08_LookForwardSeeing" translation="Tour Guide: 'We look forward to seeing you again'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_09_TerrorMorph" translation="Tour Guide: 'Coming up now is the set from the sci-fi classic: 'Terror-Morph''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_10_BiomechanicalBeasts" translation="Tour Guide: 'Approaching us now is the set from the sci-fi blockbuster: 'Biomechanical Beasts''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_11_ReturnOfTheKraken" translation="Tour Guide: 'You can now see the scene from the finale of the pirate film: 'Return of the Kraken''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_12_StormAtCapeHorn" translation="Tour Guide: 'You can now see scenery from the pirate classic: 'Storm at Cape Horn''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_13_Treasure" translation="Tour Guide: 'Coming up now is the scene from the finale of the fantasy production: 'Treasure!''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_14_MutinyAtSea" translation="Tour Guide: 'Approaching us now is scenery from the pirate blockbuster: 'Mutiny at Sea''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_15_MutantArachnid3" translation="Tour Guide: 'You can now see the set from the sci-fi blockbuster: 'Mutant Arachnid 3''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_16_TheWildestWest" translation="Tour Guide: 'Coming up now is scenery from the western film: 'The Wildest West''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_17_UnmarkedGrave" translation="Tour Guide: 'Approaching us now is the scene from the finale of the fantasy production: 'Unmarked Grave''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_18_BestMilkInTheUniverse" translation="Tour Guide: 'You can now see the set from the sci-fi blockbuster:'Best Milk in the Universe''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_19_LockjawsRevenge" translation="Tour Guide: 'Coming up now is scenery from the pirate classic: 'Lockjaw's Revenge''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_20_WagonsWagonsWagons" translation="Tour Guide: 'Approaching us now is the scene from the finale of the western classic: 'Wagons, Wagons, Wagons''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Guide_21_TheresGoldInThoseMountains" translation="Tour Guide: 'Coming up now is the set from the fantasy film: 'There's Gold in those Mountains''"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_ILoveIt" translation="Film Set Direction - 'I love it!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_ItsAWrap" translation="Film Set Direction - 'It's a wrap!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Pirate_GreetingsCaptains" translation="Pirate Actor - 'Greetings! Captains'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Pirate_Hello" translation="Pirate Actor - 'Hello!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Pirate_SetSail" translation="Pirate Actor - 'Are you ready to set sail?'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Pirate_WelcomeAboard" translation="Pirate Actor - 'Welcome Aboard'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Pirate_WhatSayYou" translation="Pirate Actor - 'What say you, Pirates?'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_QuietOnSet" translation="Film Set Direction - 'Quiet On Set'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_RollCamera" translation="Film Set Direction - 'Roll Camera!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_RollSound" translation="Film Set Direction - 'Roll Sound!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Rolling" translation="Film Set Direction - 'Rolling'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene1" translation="Film Set Direction - 'Scene 1'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene10" translation="Film Set Direction - 'Scene 10'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene2" translation="Film Set Direction - 'Scene 2'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene3" translation="Film Set Direction - 'Scene 3'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene4" translation="Film Set Direction - 'Scene 4'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene5" translation="Film Set Direction - 'Scene 5'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene6" translation="Film Set Direction - 'Scene 6'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene7" translation="Film Set Direction - 'Scene 7'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene8" translation="Film Set Direction - 'Scene 8'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Scene9" translation="Film Set Direction - 'Scene 9'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_SciFi_OneGiantLeap" translation="SciFi Actor - 'One Giant Leap for Mankind'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_SciFi_OneSmallStep" translation="SciFi Actor - 'One Small Step for Man'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_SciFi_OnwardToTheStars" translation="SciFi Actor - 'Onward to the Stars!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_SciFi_StandByForLiftOff" translation="SciFi Actor - 'Stand by for lift-off'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_SciFi_ToTheMoon" translation="SciFi Actor - 'To the Moon and Beyond!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take1" translation="Film Set Direction - 'Take 1'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take10" translation="Film Set Direction - 'Take 10'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take2" translation="Film Set Direction - 'Take 2'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take3" translation="Film Set Direction - 'Take 3'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take4" translation="Film Set Direction - 'Take 4'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take5" translation="Film Set Direction - 'Take 5'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take6" translation="Film Set Direction - 'Take 6'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take7" translation="Film Set Direction - 'Take 7'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take8" translation="Film Set Direction - 'Take 8'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Take9" translation="Film Set Direction - 'Take 9'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_ThatsIt" translation="Film Set Direction - 'That's It'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_ThatsTheOne" translation="Film Set Direction - 'That's the One!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Western_Draw" translation="Western Actor - 'Draw!'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Western_Hello" translation="Western Actor - 'Hello'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Western_HowdyPartners" translation="Western Actor - 'Howdy Partners'"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_BL_VO_Western_WellLookHere" translation="Western Actor - 'Well Look Here'"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Bell_Ring" translation="Suono Campana"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_BoilingCauldron" translation="Calderone Bollente"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_CannonFire" translation="Cannonata"/>
@@ -22518,6 +23954,7 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Mechanical_Clang" translation="Fragore Metallico"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Misc_Impact" translation="Impatto"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Misc_Rumble" translation="Rombo"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_MotorbikeBurnoff" translation="Motorbike Burn-off"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_Glockenspiel" translation="Carillon"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra" translation="Musical: Orchestra Bassa"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Musical_LowOrchestra_Short" translation="Musical: Orchestra Bassa (Corta)"/>
@@ -22646,6 +24083,7 @@
 		<entry key="TriggeredSFX_Adventure_Heading" translation="Adventure"/>
 		<entry key="TriggeredSFX_Alarms_Heading" translation="Allarmi"/>
 		<entry key="TriggeredSFX_Announcement_Heading" translation="Avvisi"/>
+		<entry key="TriggeredSFX_BlockBuster_Heading" translation="Studio Tour"/>
 		<entry key="TriggeredSFX_Creatures_Heading" translation="Creature"/>
 		<entry key="TriggeredSFX_Horror_Heading" translation="Horror"/>
 		<entry key="TriggeredSFX_Human_Heading" translation="Umano"/>
