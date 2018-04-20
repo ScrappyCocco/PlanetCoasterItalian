@@ -1781,8 +1781,8 @@
 		<entry key="BuildingPartName_ST_Radius4_B_2m_90" translation="Muro curvo Castello 2m"/>
 		<entry key="BuildingPartName_ST_Radius4_B_4m_90" translation="Muro curvo Castello 4m"/>
 		<entry key="BuildingPartName_ST_Radius4_Buttressed_A_4m_90" translation="Muro curvo rinforzato in arenaria 4m"/>
-		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_01" translation="Archi Torre ottogonale Minaretto Castello 01"/>
-		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_02" translation="Archi Torre ottogonale Minaretto Castello 02"/>
+		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_01" translation="Archi Torre ottogonale Minareto Castello 01"/>
+		<entry key="BuildingPartName_ST_Roof_ArchDec_TowerOct_B_02" translation="Archi Torre ottogonale Minareto Castello 02"/>
 		<entry key="BuildingPartName_ST_Roof_Flat_A_4m" translation="Tetto piatto in arenaria"/>
 		<entry key="BuildingPartName_ST_Roof_Flat_A_Edge_4m" translation="Bordo per Tetto piatto in arenaria"/>
 		<entry key="BuildingPartName_ST_Roof_Flat_B_4m" translation="Tetto piatto Castello"/>
@@ -2384,9 +2384,9 @@
 		<entry key="BuildingPartDesc_SH_Awning_PizzaPen" translation="Una tenda per il tuo negozio.&#10;Set Monsieur Frites"/>
 		<entry key="BuildingPartDesc_SH_Awning_Tikichiki" translation="Una tenda per il tuo negozio.&#10;Set Tikichiki"/>
 		<entry key="BuildingPartDesc_ST_Door_A_01" translation="Porta di Legno rossa in telaio di pietra."/>
-		<entry key="BuildingPartDesc_ST_Door_A_02" translation="Porta di Legno rossa in telaio di pietra on a stone step."/>
+		<entry key="BuildingPartDesc_ST_Door_A_02" translation="Porta di Legno rossa in telaio di pietra su un gradino di pietra."/>
 		<entry key="BuildingPartDesc_ST_Door_A_03" translation="Porta di Legno robusta in telaio di pietra."/>
-		<entry key="BuildingPartDesc_ST_Door_A_04" translation="Porta di Legno blu in telaio di pietra on a stone step."/>
+		<entry key="BuildingPartDesc_ST_Door_A_04" translation="Porta di Legno blu in telaio di pietra su un gradino di pietra."/>
 		<entry key="BuildingPartDesc_ST_Door_A_05" translation="Porta di Legno semplice in telaio arquato di pietra stuccata."/>
 		<entry key="BuildingPartDesc_ST_Door_A_06" translation="Porta di Legno in telaio di pietra."/>
 		<entry key="BuildingPartDesc_ST_Door_A_07" translation="Porta di Legno semplice in ampio telaio di pietra."/>
@@ -2539,7 +2539,7 @@
 		<entry key="BuildingPartName_FT_Balcony_4m_01" translation="Balcone per Finestra di Pietra - Lunga"/>
 		<entry key="BuildingPartName_FT_Banner_Long" translation="Stendardo reale 8m"/>
 		<entry key="BuildingPartName_FT_Banner_Long_12m" translation="Stendardo reale 12m"/>
-		<entry key="BuildingPartName_FT_Banner_Long_Wide_12m" translation="Stendardo reale 16m Wide"/>
+		<entry key="BuildingPartName_FT_Banner_Long_Wide_12m" translation="Stendardo reale 16m Largo"/>
 		<entry key="BuildingPartName_FT_Banner_Short" translation="Stendardo reale Pole"/>
 		<entry key="BuildingPartName_FT_Castle_Motif_Dragon" translation="Tema - Dragone"/>
 		<entry key="BuildingPartName_FT_Castle_Motif_Drat" translation="Tema - Maledizione"/>
@@ -2564,8 +2564,8 @@
 		<entry key="BuildingPartName_FT_Door_6" translation="Porta del Villaggio - Arco diamante"/>
 		<entry key="BuildingPartName_FT_Door_7" translation="Porta del Villaggio - Cuore elegante"/>
 		<entry key="BuildingPartName_FT_Door_8" translation="Porta del Villaggio - Legno rinforzato"/>
-		<entry key="BuildingPartName_FT_Door_Castle_01" translation="Porta Castello doppia - Colonna alta arquata"/>
-		<entry key="BuildingPartName_FT_Door_Castle_02" translation="Porta Castello doppia - Colonna arquata"/>
+		<entry key="BuildingPartName_FT_Door_Castle_01" translation="Porta Castello doppia - Colonna alta arcuata"/>
+		<entry key="BuildingPartName_FT_Door_Castle_02" translation="Porta Castello doppia - Colonna arcuata"/>
 		<entry key="BuildingPartName_FT_Door_Castle_03" translation="Porta Castello doppia - Piccola Interna"/>
 		<entry key="BuildingPartName_FT_Door_Castle_04" translation="Porta Castello doppia - Ampia"/>
 		<entry key="BuildingPartName_FT_Door_Castle_05" translation="Porta Castello doppia - Arco acuto"/>
@@ -2745,14 +2745,14 @@
 		<entry key="BuildingPartName_PC_Signs_Feature_14" translation="Sagoma 14 - Traccia"/>
 		<entry key="BuildingPartName_PC_Signs_Glasses_Boys" translation="Insegna mista - Occhiali da Sole 1 piccola"/>
 		<entry key="BuildingPartName_PC_Signs_Glasses_Girls" translation="Insegna mista - Occhiali da Sole 2 piccola"/>
-		<entry key="BuildingPartName_PC_Signs_Graphic_Coaster" translation="Insegna mista - Coaster Loop Small Accesa"/>
+		<entry key="BuildingPartName_PC_Signs_Graphic_Coaster" translation="Insegna mista - Coaster Loop piccola Accesa"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Globe" translation="Insegna mista - Luce piccola globo"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Hand" translation="Insegna mista - Luce piccola mano"/>
 		<entry key="BuildingPartName_PC_Signs_Graphic_Wings" translation="Insegna mista - Luce piccola ali"/>
 		<entry key="BuildingPartName_PC_Signs_RobotArm" translation="Insegna Sci-Fi - Braccio Robot"/>
 		<entry key="BuildingPartName_PC_Signs_Spaceship" translation="Insegna Sci-Fi - Navicella piccola"/>
-		<entry key="BuildingPartName_PC_ToiletSigns_MaleFemale" translation="Insegna Toilet uomo/donna - Grande"/>
-		<entry key="BuildingPartName_PC_ToiletSigns_Plate" translation="Insegna Toilet uomo/donna - Piccola"/>
+		<entry key="BuildingPartName_PC_ToiletSigns_MaleFemale" translation="Insegna Bagno uomo/donna - Grande"/>
+		<entry key="BuildingPartName_PC_ToiletSigns_Plate" translation="Insegna Bagno uomo/donna - Piccola"/>
 		<entry key="BuildingPartName_PC_Window" translation="Finestra rettangolare nera"/>
 		<entry key="BuildingPartName_PR_Awning_01" translation="Tenda pirata"/>
 		<entry key="BuildingPartName_PR_Bone" translation="Osso Grande"/>
@@ -2763,7 +2763,7 @@
 		<entry key="BuildingPartName_PR_Flag_02" translation="Bandiera nera Pirata"/>
 		<entry key="BuildingPartName_PR_Flag_03" translation="Bandiera rossa Pirata"/>
 		<entry key="BuildingPartName_PR_Flag_04" translation="Bandiera Union Jack"/>
-		<entry key="BuildingPartName_PR_Frieze_01" translation="Fregio di marmo  - Ruote piovra"/>
+		<entry key="BuildingPartName_PR_Frieze_01" translation="Fregio di marmo  - Ruota Piovra"/>
 		<entry key="BuildingPartName_PR_Frieze_02" translation="Fregio di marmo  - Teschio e spade"/>
 		<entry key="BuildingPartName_PR_IronRing" translation="Anello di ferro"/>
 		<entry key="BuildingPartName_PR_Lantern_01" translation="Lanterna tempesta"/>
@@ -4322,10 +4322,10 @@
 		<entry key="BuildingPartName_WT_Water_Lily" translation="Foglie Ninfea 2"/>
 		<entry key="BuildingPartName_WT_Water_Lily_Leaves" translation="Foglie Ninfea 1"/>
 		<!--C2_TrackElements-->
-		<entry key="Station_Type_station_gokarts_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_gokarts_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_gokarts_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_gokarts_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_gokarts_LeftRight" translation="Stazione con entrata a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_gokarts_RightLeft" translation="Stazione con entrata a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_gokarts_RightRight" translation="Stazione con entrata a destra e uscita a destra"/>
+		<entry key="Station_Type_station_gokarts_leftleft" translation="Stazione con entrata a sinistra e uscita a sinistra"/>
 		<entry key="TrackElementDesc_180TurnLeft" translation="Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementDesc_180TurnRight" translation="Gira il tracciato 180 gradi a destra."/>
 		<entry key="TrackElementDesc_CableHillRevBot" translation="Tira i treni al contrario lungo un pendio."/>
@@ -4846,7 +4846,7 @@
 		<entry key="PopUp_DisplaySpeaker_Remove_Tooltip" translation="Scollega Altoparlante"/>
 		<!--C3_Research-->
 		<entry key="Research_Hint_Coaster_Bolt" translation="Raddoppia il divertimento"/>
-		<entry key="Research_Hint_Coaster_CCade" translation="Is it a water ride? Is it a coaster?"/>
+		<entry key="Research_Hint_Coaster_CCade" translation="E' un'Attrazione Acquatica? E' una Montagna Russa?"/>
 		<entry key="Research_Hint_Coaster_Degen" translation="Rinato per il loop"/>
 		<entry key="Research_Hint_Coaster_Gnarler" translation="Materiali naturali"/>
 		<entry key="Research_Hint_Coaster_ManicMouse" translation="Piccolo e Pazzo."/>
@@ -4946,9 +4946,9 @@
 		<entry key="BuildingPartDesc_PC_IMG_Mount_Wall" translation="Supporto per schermo."/>
 		<entry key="BuildingPartDesc_PC_IMG_Projector" translation="Un moderno proiettore con home theatre."/>
 		<entry key="BuildingPartDesc_PC_IMG_Scaffold" translation="Impalcatura di metallo con tavole di legno."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare" translation="Metal scaffolding."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare_Tall" translation="Metal scaffolding."/>
-		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Tall" translation="Metal scaffolding with wooden boards."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare" translation="Impalcatura di metallo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Bare_Tall" translation="Impalcatura di metallo."/>
+		<entry key="BuildingPartDesc_PC_IMG_Scaffold_Tall" translation="Impalcatura di metallo con tavole di legno."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m" translation="Schermo di proiezione, acceso"/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_16m_NonLit" translation="Schermo di proiezione."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Cinema_32m" translation="Schermo di proiezione, acceso"/>
@@ -5101,7 +5101,7 @@
 		<entry key="Blueprints_FestiveMedium04" translation="Casa Festosa 7"/>
 		<entry key="Blueprints_FestiveMedium04Desc" translation="Piena di gioia festosa!"/>
 		<entry key="Blueprints_HopTheGaps01" translation="Kinematica"/>
-		<entry key="Blueprints_HopTheGaps01Desc" translation="Uno schema per il coaster  Hop The Gaps"/>
+		<entry key="Blueprints_HopTheGaps01Desc" translation="Uno schema per il coaster Hop The Gaps"/>
 		<entry key="Blueprints_PC_EntranceLarge02" translation="Entrata Planet Coaster Grande 2"/>
 		<entry key="Blueprints_PC_EntranceLarge02Desc" translation="Ti aspetti più visitatori dal tuo bellissimo parco? Prova ad aggiornare la tua entrata principale in stile Planet Coaster!"/>
 		<entry key="Blueprints_PC_StaffBuilding" translation="Edificio Staff Planet Coaster"/>
@@ -5185,68 +5185,68 @@
 		<entry key="Blueprints_Zenith01" translation="Altitude"/>
 		<entry key="Blueprints_Zenith01Desc" translation="Uno schema per il coaster Zenith"/>
 		<!--C4_Career-->
-		<entry key="FanfareCareerSetUnlocked_DINO" translation="Will you give the lovable T. Rex a hand? He's only got short arms!"/>
-		<entry key="FanfarePackCompletion_DINO_1" translation="You collected all the Bronze stars for 'Gulpee's Island Paradise'."/>
-		<entry key="FanfarePackCompletion_DINO_2" translation="You collected all the Silver stars for 'Gulpee's Island Paradise'."/>
-		<entry key="FanfarePackCompletion_DINO_3" translation="You collected all the Gold stars for 'Gulpee's Island Paradise'."/>
-		<entry key="FanfarePackCompletion_DINO_All" translation="You have completed every objective in 'Gulpee's Island Paradise'!"/>
-		<entry key="FrontEndMenu_ScenarioDetails_DIG1" translation="Gulpee wants to turn this remote beachfront into a theme park, but he has no idea how to go about it. Can you help? It’s going to take skilful management and a full staff roster to keep everything running smoothly."/>
-		<entry key="FrontEndMenu_ScenarioName_DIG1" translation="Gulpee's Island Paradise"/>
-		<entry key="FrontEndMenu_SetDescription_DINO" translation="Gulpee makes great sodas but he isn’t great at building theme parks. Can you help him out?"/>
-		<entry key="FrontEndMenu_SetName_DINO" translation="Gulpee's Island Paradise"/>
+		<entry key="FanfareCareerSetUnlocked_DINO" translation="Darai una mano all'amabile T-Rex? Ha le braccia corte!"/>
+		<entry key="FanfarePackCompletion_DINO_1" translation="Hai ottenuto tutte le Stelle di Bronzo per 'Isola Paradiso di Gulpee'."/>
+		<entry key="FanfarePackCompletion_DINO_2" translation="Hai ottenuto tutte le Stelle d'Argento per 'Isola Paradiso di Gulpee'."/>
+		<entry key="FanfarePackCompletion_DINO_3" translation="Hai ottenuto tutte le Stelle d'Oro per 'Isola Paradiso di Gulpee'."/>
+		<entry key="FanfarePackCompletion_DINO_All" translation="Hai completato ogni obiettivo per 'Isola Paradiso di Gulpee'!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_DIG1" translation="Gulpee vuole trasformare questa spiaggia remota in un parco a tema, ma non ha idea di come farlo. Puoi aiutarlo? Ci vorrà un'abile gestione e un'ottima scelta di staff per far andare tutto liscio."/>
+		<entry key="FrontEndMenu_ScenarioName_DIG1" translation="Isola Paradiso di Gulpee"/>
+		<entry key="FrontEndMenu_SetDescription_DINO" translation="Gulpee fa delle ottime bibite ma non è bravo a costruire parchi a tema. Puoi aiutarlo?"/>
+		<entry key="FrontEndMenu_SetName_DINO" translation="Isola Paradiso di Gulpee"/>
 		<!--C4_Coasters-->
 		<entry key="Coaster_CCade" translation="Cascade"/>
-		<entry key="Coaster_CCade_Desc" translation="A coaster that combines a boat ride with a roller coaster."/>
+		<entry key="Coaster_CCade_Desc" translation="un Coaster che mette insieme un giro in barca con una Montagna Russa."/>
 		<entry key="Coaster_HTG" translation="Hop The Gaps"/>
-		<entry key="Coaster_HTG_Desc" translation="Classic wooden coaster with only two sets of wheels."/>
-		<entry key="Coaster_Type_CCade" translation="Water Coaster"/>
-		<entry key="Coaster_Type_HopTheGaps" translation="Wooden - SideFriction"/>
-		<entry key="Coaster_Type_ZenithPowered" translation="Launched - Hydraulic"/>
+		<entry key="Coaster_HTG_Desc" translation="Classica Montagna Russa di legno con soli due set di ruote."/>
+		<entry key="Coaster_Type_CCade" translation="Montagna Russa Acquatica"/>
+		<entry key="Coaster_Type_HopTheGaps" translation="In Legno - Attrito Laterale"/>
+		<entry key="Coaster_Type_ZenithPowered" translation="Lanciato - Idraulico"/>
 		<entry key="Coaster_ZenithPowered" translation="Zenith"/>
-		<entry key="Coaster_ZenithPowered_Desc" translation="Steel accelerator coaster that is propelled by a hydraulic launch mechanism."/>
-		<entry key="Research_Hint_Coaster_HopTheGaps" translation="Runaway Coaster"/>
-		<entry key="Research_Hint_Coaster_Zenith" translation="Pinnacle of Speed"/>
+		<entry key="Coaster_ZenithPowered_Desc" translation="Montagna Russa accelerata in acciaio spinta da un meccanismo di lancio iodraulico."/>
+		<entry key="Research_Hint_Coaster_HopTheGaps" translation="Fuga in Montagne Russe"/>
+		<entry key="Research_Hint_Coaster_Zenith" translation="Picco di Velocità"/>
 		<entry key="Research_Revealed_Coaster_HopTheGaps" translation="Hop The Gaps"/>
 		<entry key="Research_Revealed_Coaster_Zenith" translation="Zenith"/>
 		<!--C4_Facilities-->
-		<entry key="ShopItem_Extra_Bacon" translation="Bacon"/>
-		<entry key="ShopItem_Extra_BerryFlavouring" translation="Berry Flavouring"/>
-		<entry key="ShopItem_Extra_Caffiene" translation="Extra Caffeine"/>
-		<entry key="ShopItem_Extra_CaramelShot" translation="Caramel Shot"/>
-		<entry key="ShopItem_Extra_ChocolatePieces" translation="Chocolate Pieces"/>
-		<entry key="ShopItem_Extra_Cinnamon" translation="Cinnamon"/>
-		<entry key="ShopItem_Extra_CurrySauce" translation="Curry Sauce"/>
-		<entry key="ShopItem_Extra_LemonSlice" translation="Lemon Slice"/>
-		<entry key="ShopItem_Extra_Lemonade" translation="Lemonade"/>
-		<entry key="ShopItem_Extra_LimeCordial" translation="Lime Cordial"/>
-		<entry key="ShopItem_Extra_MapleSyrup" translation="Maple Syrup"/>
-		<entry key="ShopItem_Extra_MixedFlavour" translation="Mixed Flavour"/>
-		<entry key="ShopItem_Extra_Olives" translation="Olives"/>
-		<entry key="ShopItem_Extra_PineapplePieces" translation="Pineapple Pieces"/>
-		<entry key="ShopItem_Extra_ToffeeSauce" translation="Toffee Sauce"/>
-		<entry key="ShopItem_Extra_Tomatoes" translation="Tomatoes"/>
-		<entry key="ShopItem_Extra_TropicalFlavouring" translation="Tropical Flavouring"/>
+		<entry key="ShopItem_Extra_Bacon" translation="Pancetta"/>
+		<entry key="ShopItem_Extra_BerryFlavouring" translation="Gusto Fragola"/>
+		<entry key="ShopItem_Extra_Caffiene" translation="Caffeina Extra"/>
+		<entry key="ShopItem_Extra_CaramelShot" translation="Caramello Liquido"/>
+		<entry key="ShopItem_Extra_ChocolatePieces" translation="Pezzi di Cioccolato"/>
+		<entry key="ShopItem_Extra_Cinnamon" translation="Cannella"/>
+		<entry key="ShopItem_Extra_CurrySauce" translation="Salsa Curry"/>
+		<entry key="ShopItem_Extra_LemonSlice" translation="Fetta di Limone"/>
+		<entry key="ShopItem_Extra_Lemonade" translation="Limonata"/>
+		<entry key="ShopItem_Extra_LimeCordial" translation="Succo di Lime"/>
+		<entry key="ShopItem_Extra_MapleSyrup" translation="Sciroppo d'Acero"/>
+		<entry key="ShopItem_Extra_MixedFlavour" translation="Gusto Misto"/>
+		<entry key="ShopItem_Extra_Olives" translation="Olive"/>
+		<entry key="ShopItem_Extra_PineapplePieces" translation="Pezzi d'Ananas"/>
+		<entry key="ShopItem_Extra_ToffeeSauce" translation="Salsa Toffee"/>
+		<entry key="ShopItem_Extra_Tomatoes" translation="Pomodori"/>
+		<entry key="ShopItem_Extra_TropicalFlavouring" translation="Gusto Tropicale"/>
 		<entry key="ShopItem_Extra_Wafer" translation="Wafer"/>
-		<entry key="ShopItem_Extra_WaterIce" translation="Ice"/>
+		<entry key="ShopItem_Extra_WaterIce" translation="Ghiaccio"/>
 		<!--C4_FlatRides-->
 		<entry key="FR_MonteLeone" translation="Monte Leone"/>
-		<entry key="FR_MonteLeone_Desc" translation="Ride under cover on this vintage family ride.&#10;Gentle Ride"/>
+		<entry key="FR_MonteLeone_Desc" translation="Corri al coperto in questa attrazione vintage per famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_MonteLeone_Prefix" translation="Monte Leone"/>
 		<entry key="FR_WHorn" translation="Weisshorn"/>
-		<entry key="FR_WHorn_Desc" translation="Ride under cover on this vintage family ride.&#10;Gentle Ride"/>
+		<entry key="FR_WHorn_Desc" translation="Corri al coperto in questa attrazione vintage per famiglie.&#10;Attrazione Tranquilla"/>
 		<entry key="FR_WHorn_Prefix" translation="Weisshorn"/>
-		<entry key="Research_Hint_FR_MonteLeone" translation="Under cover"/>
-		<entry key="Research_Hint_FR_WHorn" translation="Under cover"/>
+		<entry key="Research_Hint_FR_MonteLeone" translation="Al coperto"/>
+		<entry key="Research_Hint_FR_WHorn" translation="Al coperto"/>
 		<entry key="Research_Revealed_FR_MonteLeone" translation="Monte Leone"/>
 		<entry key="Research_Revealed_FR_WHorn" translation="Weisshorn"/>
-		<entry key="Sequence_FR_MonteLeone_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_MonteLeone_SpinCanopy" translation="Spin with Canopy"/>
-		<entry key="Sequence_FR_MonteLeone_SpinReverse" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_MonteLeone_SpinReverseCanopy" translation="Reverse Spin with Canopy"/>
-		<entry key="Sequence_FR_WHorn_Spin" translation="Spin"/>
-		<entry key="Sequence_FR_WHorn_SpinCanopy" translation="Spin with Canopy"/>
-		<entry key="Sequence_FR_WHorn_SpinReverse" translation="Reverse Spin"/>
-		<entry key="Sequence_FR_WHorn_SpinReverseCanopy" translation="Reverse Spin with Canopy"/>
+		<entry key="Sequence_FR_MonteLeone_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_MonteLeone_SpinCanopy" translation="Rotazione con Calotta"/>
+		<entry key="Sequence_FR_MonteLeone_SpinReverse" translation="Rotazione Inversa"/>
+		<entry key="Sequence_FR_MonteLeone_SpinReverseCanopy" translation="Rotazione Inversa con Calotta"/>
+		<entry key="Sequence_FR_WHorn_Spin" translation="Rotazione"/>
+		<entry key="Sequence_FR_WHorn_SpinCanopy" translation="Rotazione con Calotta"/>
+		<entry key="Sequence_FR_WHorn_SpinReverse" translation="Rotazione Inversa"/>
+		<entry key="Sequence_FR_WHorn_SpinReverseCanopy" translation="Rotazione Inversa con Calotta"/>
 		<!--C4_FrontEndMenu-->
 		<entry key="FrontEndMenu_MyParksScenario" translation="I miei Parchi"/>
 		<entry key="FrontEndMenu_MyParksScenarioDetails" translation="Apri un Parco esistente come Nuovo Scenario"/>
@@ -5257,252 +5257,252 @@
 		<entry key="FrontEndMenu_ScenarioCreator" translation="Editor Scenario"/>
 		<entry key="FrontEndMenu_ScenarioCreatorDetails" translation="Crea o Modifica i tuoi Scenari personalizzati"/>
 		<!--C4_InfoPanel_ModularScenery-->
-		<entry key="CrowdDiscomfort_Discomfort" translation="Discomfort"/>
-		<entry key="CrowdDiscomfort_Label" translation="Crowd Repulsor Settings"/>
-		<entry key="CrowdObstacle_Cube" translation="Cube"/>
-		<entry key="CrowdObstacle_Height" translation="Height"/>
-		<entry key="CrowdObstacle_Label" translation="Crowd Blocker Settings"/>
-		<entry key="CrowdObstacle_Radius" translation="Radius"/>
-		<entry key="CrowdObstacle_Shape" translation="Shape"/>
-		<entry key="CrowdObstacle_Shape_ToolTip" translation="The desired shape of this Crowd Blocker"/>
-		<entry key="CrowdObstacle_Sphere" translation="Sphere"/>
-		<entry key="CrowdObstacle_Width" translation="Width"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Advertised Destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinations advertised by this scenery piece"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Locate Destination"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Advertised Destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Remove all advertised destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Remove Destination"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinations" translation="Set Advertised Destinations"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinationsToolTip" translation="Multi-select guest destinations to be advertised by this scenery piece"/>
-		<entry key="PopUp_AddGuestDestinations_ConfirmSelection" translation="Connect destinations to advert"/>
-		<entry key="PopUp_AddGuestDestinations_CurrentlySelected" translation="Currently Selected Destinations"/>
+		<entry key="CrowdDiscomfort_Discomfort" translation="Scomodità"/>
+		<entry key="CrowdDiscomfort_Label" translation="Impostazioni Respingi Folla"/>
+		<entry key="CrowdObstacle_Cube" translation="Cubo"/>
+		<entry key="CrowdObstacle_Height" translation="Altezza"/>
+		<entry key="CrowdObstacle_Label" translation="Impostazioni Blocca Folla"/>
+		<entry key="CrowdObstacle_Radius" translation="Raggio"/>
+		<entry key="CrowdObstacle_Shape" translation="Forma"/>
+		<entry key="CrowdObstacle_Shape_ToolTip" translation="La forma desiderata per questo Blocca Folla"/>
+		<entry key="CrowdObstacle_Sphere" translation="Sfera"/>
+		<entry key="CrowdObstacle_Width" translation="Larghezza"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinazioni consigliate da questo elemento scenario"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Localizza Destinazione"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Rimuovi tutte le Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Rimuovi Destinazioni"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinations" translation="Imposta Destinazioni Consigliate"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_SetAdvertisedDestinationsToolTip" translation="Seleziona più destinazioni per i visitatori da consigliare con questo elemento scenario"/>
+		<entry key="PopUp_AddGuestDestinations_ConfirmSelection" translation="Collega destinazioni da consigliare"/>
+		<entry key="PopUp_AddGuestDestinations_CurrentlySelected" translation="Destinazioni selezionate al momento"/>
 		<entry key="PopUp_AddGuestDestinations_CurrentlySelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{MAX:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_AddGuestDestinations_Description" translation="Destination Selector"/>
-		<entry key="PopUp_AddGuestDestinations_Header" translation="Destination Selector"/>
-		<entry key="PopUp_AddGuestDestinations_Title" translation="Destination Selector"/>
-		<entry key="PopUp_AddGuestDestinations_TooManyItems" translation="Too many destinations to connect"/>
+		<entry key="PopUp_AddGuestDestinations_Description" translation="Selettore Destinazioni"/>
+		<entry key="PopUp_AddGuestDestinations_Header" translation="Selettore Destinazioni"/>
+		<entry key="PopUp_AddGuestDestinations_Title" translation="Selettore Destinazioni"/>
+		<entry key="PopUp_AddGuestDestinations_TooManyItems" translation="Troppe destinazioni da collegare"/>
 		<!--C4_ObjectBrowser-->
 		<entry key="Browser_Cat_Shop_Management" translation="Gestione Staff"/>
-		<entry key="Browser_SubCat_PathExtra_Picnic" translation="Picnic Benches"/>
+		<entry key="Browser_SubCat_PathExtra_Picnic" translation="Panche Picnic"/>
 		<!--C4_ParkManagement-->
-		<entry key="EditorLoan10000Long10" translation="Long Loan, $10000"/>
-		<entry key="EditorLoan10000Long20" translation="Long Loan, $10000"/>
-		<entry key="EditorLoan10000Long30" translation="Long Loan, $10000"/>
-		<entry key="EditorLoan10000Short10" translation="Short Loan, $10000"/>
-		<entry key="EditorLoan10000Short20" translation="Short Loan, $10000"/>
-		<entry key="EditorLoan10000Short30" translation="Short Loan, $10000"/>
-		<entry key="EditorLoan1000Long10" translation="Long Loan, $1000"/>
-		<entry key="EditorLoan1000Long20" translation="Long Loan, $1000"/>
-		<entry key="EditorLoan1000Long30" translation="Long Loan, $1000"/>
-		<entry key="EditorLoan1000Short10" translation="Short Loan, $1000"/>
-		<entry key="EditorLoan1000Short20" translation="Short Loan, $1000"/>
-		<entry key="EditorLoan1000Short30" translation="Short Loan, $1000"/>
-		<entry key="EditorLoan20000Long10" translation="Long Loan, $20000"/>
-		<entry key="EditorLoan20000Long20" translation="Long Loan, $20000"/>
-		<entry key="EditorLoan20000Long30" translation="Long Loan, $20000"/>
-		<entry key="EditorLoan20000Short10" translation="Short Loan, $20000"/>
-		<entry key="EditorLoan20000Short20" translation="Short Loan, $20000"/>
-		<entry key="EditorLoan20000Short30" translation="Short Loan, $20000"/>
-		<entry key="EditorLoan2000Long10" translation="Long Loan, $2000"/>
-		<entry key="EditorLoan2000Long20" translation="Long Loan, $2000"/>
-		<entry key="EditorLoan2000Long30" translation="Long Loan, $2000"/>
-		<entry key="EditorLoan2000Short10" translation="Short Loan, $2000"/>
-		<entry key="EditorLoan2000Short20" translation="Short Loan, $2000"/>
-		<entry key="EditorLoan2000Short30" translation="Short Loan, $2000"/>
-		<entry key="EditorLoan50000Long10" translation="Long Loan, $50000"/>
-		<entry key="EditorLoan50000Long20" translation="Long Loan, $50000"/>
-		<entry key="EditorLoan50000Long30" translation="Long Loan, $50000"/>
-		<entry key="EditorLoan50000Short10" translation="Short Loan, $50000"/>
-		<entry key="EditorLoan50000Short20" translation="Short Loan, $50000"/>
-		<entry key="EditorLoan50000Short30" translation="Short Loan, $50000"/>
-		<entry key="EditorLoan5000Long10" translation="Long Loan, $5000"/>
-		<entry key="EditorLoan5000Long20" translation="Long Loan, $5000"/>
-		<entry key="EditorLoan5000Long30" translation="Long Loan, $5000"/>
-		<entry key="EditorLoan5000Short10" translation="Short Loan, $5000"/>
-		<entry key="EditorLoan5000Short20" translation="Short Loan, $5000"/>
-		<entry key="EditorLoan5000Short30" translation="Short Loan, $5000"/>
-		<entry key="EditorLoanCategory1" translation="Short Loans"/>
-		<entry key="EditorLoanCategory2" translation="Long Loans"/>
-		<entry key="EditorLoanCategory3" translation="Challenge Loans"/>
-		<entry key="EditorLoanCategory4" translation="Miscellaneous Loans"/>
-		<entry key="EditorLoanChallenge1000" translation="Challenge Loan, $1000"/>
-		<entry key="EditorLoanChallenge10000" translation="Challenge Loan, $10000"/>
-		<entry key="EditorLoanChallenge2000" translation="Challenge Loan, $2000"/>
-		<entry key="EditorLoanChallenge3000" translation="Challenge Loan, $3000"/>
-		<entry key="EditorLoanChallenge5000" translation="Challenge Loan, $5000"/>
-		<entry key="EditorLoanLongTermDebt" translation="Long Term Debt, $100000"/>
-		<entry key="ParkManagement_StaffBuilding_CapacityCost" translation="Capacity Cost"/>
-		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacity"/>
-		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Confirm: {Value:currency}"/>
-		<entry key="ParkManagement_StaffBuilding_ConfirmTooltipLabel" translation="Staff Building Change:"/>
-		<entry key="ParkManagement_StaffBuilding_Description" translation="A building within which staff can rest and recover and various staff perks can be selected and applied."/>
-		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="A building within which staff can rest and recover and various staff perks can be selected and applied.&#10;The need for staff to take a break can be disabled in the options"/>
-		<entry key="ParkManagement_StaffBuilding_EnergyDisabledHeading" translation="Staff Building - Staff energy features are disabled in this parks and these buildings will be unused."/>
-		<entry key="ParkManagement_StaffBuilding_EnergyDisabledNoItems" translation="Staff energy features are disabled. Staff will not need a staff building."/>
-		<entry key="ParkManagement_StaffBuilding_EnergyDisabledToolTip" translation="Staff energy features are disabled in this park."/>
-		<entry key="ParkManagement_StaffBuilding_Heading" translation="Staff Building"/>
-		<entry key="ParkManagement_StaffBuilding_MonthlyRunningCostHeading" translation="Monthly Running Cost"/>
-		<entry key="ParkManagement_StaffBuilding_NameHeading" translation="Name"/>
-		<entry key="ParkManagement_StaffBuilding_NoItems" translation="You have no staff buildings"/>
-		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Perk Cost"/>
-		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Perk"/>
-		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Perk"/>
-		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff Resting"/>
-		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Status"/>
-		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Total Cost"/>
-		<entry key="ScenarioEditor_GuestHappiness_Tooltip" translation="Rate at which the guest happiness declines."/>
-		<entry key="ScenarioEditor_KeepGuests_Tooltip" translation="If deselected all guests will be cleared from the scenario when it is first loaded."/>
-		<entry key="ScenarioEditor_OpeningTimes_Tooltip" translation="Opening and closing times determine the light levels within your park."/>
-		<entry key="ScenarioEditor_ParkAttraciveness_Tooltip" translation="Bonus to guest spawn rate based on the park rating."/>
-		<entry key="ScenarioEditor_ParkHeight_Tooltip" translation="Park height determines how high you can build your roller coasters."/>
-		<entry key="ScenarioEditor_ParkRatingThreshold_Tooltip" translation="Minimum Park Rating before staff energy loss reaches full effect."/>
-		<entry key="ScenarioEditor_Refunds_Tooltip" translation="This multiplier determines what amount of a ride or scenery items cost is refunded when it is deleted."/>
-		<entry key="ScenarioEditor_ResearchAvailable_Tooltip" translation="These items will be unlocked at the start of the scenario."/>
-		<entry key="ScenarioEditor_ResearchPresets_Tooltip" translation="Replace all research with pre-set values."/>
-		<entry key="ScenarioEditor_ResearchResearchable_Tooltip" translation="These items will be locked at the start of the scenario."/>
-		<entry key="ScenarioEditor_ResearchUnavailable_Tooltip" translation="These items will not be available in the scenario."/>
-		<entry key="ScenarioEditor_StaffFeatures_Tooltip" translation="Staff energy and staff buildings."/>
-		<entry key="ScenarioEditor_StartingMoney_Tooltip" translation="The scenario will start with this amount of money, plus any ongoing loans."/>
-		<entry key="ScenarioEditor_TrackRefunds_Tooltip" translation="This multiplier determines what amount of a track or tracked rides cost is refunded when it is deleted."/>
-		<entry key="ScenarioEditor_VandalGroupThreshold_Tooltip" translation="Happiness rating at which vandals will commit crimes."/>
-		<entry key="ScenarioEditor_VandalSpawnChance_Tooltip" translation="Chance that each new group of guests will spawn as vandals."/>
-		<entry key="Shop_Status_Unstaffed" translation="Unstaffed"/>
+		<entry key="EditorLoan10000Long10" translation="Prestito Lungo, $10000"/>
+		<entry key="EditorLoan10000Long20" translation="Prestito Lungo, $10000"/>
+		<entry key="EditorLoan10000Long30" translation="Prestito Lungo, $10000"/>
+		<entry key="EditorLoan10000Short10" translation="Prestito Breve, $10000"/>
+		<entry key="EditorLoan10000Short20" translation="Prestito Breve, $10000"/>
+		<entry key="EditorLoan10000Short30" translation="Prestito Breve, $10000"/>
+		<entry key="EditorLoan1000Long10" translation="Prestito Lungo, $1000"/>
+		<entry key="EditorLoan1000Long20" translation="Prestito Lungo, $1000"/>
+		<entry key="EditorLoan1000Long30" translation="Prestito Lungo, $1000"/>
+		<entry key="EditorLoan1000Short10" translation="Prestito Breve, $1000"/>
+		<entry key="EditorLoan1000Short20" translation="Prestito Breve, $1000"/>
+		<entry key="EditorLoan1000Short30" translation="Prestito Breve, $1000"/>
+		<entry key="EditorLoan20000Long10" translation="Prestito Lungo, $20000"/>
+		<entry key="EditorLoan20000Long20" translation="Prestito Lungo, $20000"/>
+		<entry key="EditorLoan20000Long30" translation="Prestito Lungo, $20000"/>
+		<entry key="EditorLoan20000Short10" translation="Prestito Breve, $20000"/>
+		<entry key="EditorLoan20000Short20" translation="Prestito Breve, $20000"/>
+		<entry key="EditorLoan20000Short30" translation="Prestito Breve, $20000"/>
+		<entry key="EditorLoan2000Long10" translation="Prestito Lungo, $2000"/>
+		<entry key="EditorLoan2000Long20" translation="Prestito Lungo, $2000"/>
+		<entry key="EditorLoan2000Long30" translation="Prestito Lungo, $2000"/>
+		<entry key="EditorLoan2000Short10" translation="Prestito Breve, $2000"/>
+		<entry key="EditorLoan2000Short20" translation="Prestito Breve, $2000"/>
+		<entry key="EditorLoan2000Short30" translation="Prestito Breve, $2000"/>
+		<entry key="EditorLoan50000Long10" translation="Prestito Lungo, $50000"/>
+		<entry key="EditorLoan50000Long20" translation="Prestito Lungo, $50000"/>
+		<entry key="EditorLoan50000Long30" translation="Prestito Lungo, $50000"/>
+		<entry key="EditorLoan50000Short10" translation="Prestito Breve, $50000"/>
+		<entry key="EditorLoan50000Short20" translation="Prestito Breve, $50000"/>
+		<entry key="EditorLoan50000Short30" translation="Prestito Breve, $50000"/>
+		<entry key="EditorLoan5000Long10" translation="Prestito Lungo, $5000"/>
+		<entry key="EditorLoan5000Long20" translation="Prestito Lungo, $5000"/>
+		<entry key="EditorLoan5000Long30" translation="Prestito Lungo, $5000"/>
+		<entry key="EditorLoan5000Short10" translation="Prestito Breve, $5000"/>
+		<entry key="EditorLoan5000Short20" translation="Prestito Breve, $5000"/>
+		<entry key="EditorLoan5000Short30" translation="Prestito Breve, $5000"/>
+		<entry key="EditorLoanCategory1" translation="Prestiti Brevi"/>
+		<entry key="EditorLoanCategory2" translation="Prestiti Lunghi"/>
+		<entry key="EditorLoanCategory3" translation="Prestiti Sfida"/>
+		<entry key="EditorLoanCategory4" translation="Prestiti Vari"/>
+		<entry key="EditorLoanChallenge1000" translation="Prestito Sfida, $1000"/>
+		<entry key="EditorLoanChallenge10000" translation="Prestito Sfida, $10000"/>
+		<entry key="EditorLoanChallenge2000" translation="Prestito Sfida, $2000"/>
+		<entry key="EditorLoanChallenge3000" translation="Prestito Sfida, $3000"/>
+		<entry key="EditorLoanChallenge5000" translation="Prestito Sfida, $5000"/>
+		<entry key="EditorLoanLongTermDebt" translation="Debito a lungo termine, $100000"/>
+		<entry key="ParkManagement_StaffBuilding_CapacityCost" translation="Costo Capacità"/>
+		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacità"/>
+		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Conferma: {Value:currency}"/>
+		<entry key="ParkManagement_StaffBuilding_ConfirmTooltipLabel" translation="Cambia Edificio Staff:"/>
+		<entry key="ParkManagement_StaffBuilding_Description" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati."/>
+		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati.&#10;La necessità per lo staff di prendere un pò d'aria  puà essere disabilitata nelle opzioni"/>
+		<entry key="ParkManagement_StaffBuilding_EnergyDisabledHeading" translation="Edificio Staff - Le caratteristiche di energia dello Staff sono disabilitate in questi parchi e gli edifici non verranno utilizzati."/>
+		<entry key="ParkManagement_StaffBuilding_EnergyDisabledNoItems" translation="Le caratteristiche di energia dello Staff sono disabilitate. Lo Staff non necessita di un Edificio Staff."/>
+		<entry key="ParkManagement_StaffBuilding_EnergyDisabledToolTip" translation="Le caratteristiche di energia dello Staff sono disabilitate in questo parco."/>
+		<entry key="ParkManagement_StaffBuilding_Heading" translation="Edificio Staff"/>
+		<entry key="ParkManagement_StaffBuilding_MonthlyRunningCostHeading" translation="Costo Esercizio Mensile"/>
+		<entry key="ParkManagement_StaffBuilding_NameHeading" translation="Nome"/>
+		<entry key="ParkManagement_StaffBuilding_NoItems" translation="Non hai Edifici Staff"/>
+		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Costo Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff a Riposo"/>
+		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Stato"/>
+		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Costo Totale"/>
+		<entry key="ScenarioEditor_GuestHappiness_Tooltip" translation="Velocità con cui diminuisce la felicità dei visitatori."/>
+		<entry key="ScenarioEditor_KeepGuests_Tooltip" translation="Se deselezionato tutti i visitatori verranno eliminati dallo scenario al primo caricamento."/>
+		<entry key="ScenarioEditor_OpeningTimes_Tooltip" translation="I tempi di apertuta e chiusura determinano i livelli di illuminazione nel tuo parco."/>
+		<entry key="ScenarioEditor_ParkAttraciveness_Tooltip" translation="Bonus al ritmo visitatori in arrivo basato sulla valutazione del parco."/>
+		<entry key="ScenarioEditor_ParkHeight_Tooltip" translation="L'altezza del parco determina quanto in alto puoi costruire le tue montagne russe."/>
+		<entry key="ScenarioEditor_ParkRatingThreshold_Tooltip" translation="Valutazione Parco Minima prima che la perdita di energia dello staff raggiunga l'effetto completo."/>
+		<entry key="ScenarioEditor_Refunds_Tooltip" translation="Questa percentuale determina la cifra rimborsata quando un'attrazione o un elemento scenario vengono cancellati."/>
+		<entry key="ScenarioEditor_ResearchAvailable_Tooltip" translation="Questi elementi verranno sbloccati all'inizio dello scenario."/>
+		<entry key="ScenarioEditor_ResearchPresets_Tooltip" translation="Sostituisci tutte le ricerche con valori pre-impostati."/>
+		<entry key="ScenarioEditor_ResearchResearchable_Tooltip" translation="Questi elementi verranno bloccati all'inizio dello scenario."/>
+		<entry key="ScenarioEditor_ResearchUnavailable_Tooltip" translation="Questi elementi non saranno disponibili nello scenario."/>
+		<entry key="ScenarioEditor_StaffFeatures_Tooltip" translation="Energia Staff ed Edifici Staff."/>
+		<entry key="ScenarioEditor_StartingMoney_Tooltip" translation="Lo scenario comincerà con questa quantità di denaro, più ogni prestito in atto."/>
+		<entry key="ScenarioEditor_TrackRefunds_Tooltip" translation="Questa percentuale determina la cifra rimborsata quando un percorso o un'attrazione a circuito vengono cancellati."/>
+		<entry key="ScenarioEditor_VandalGroupThreshold_Tooltip" translation="Soglia di felicità sotto la quale i vandali commetteranno crimini."/>
+		<entry key="ScenarioEditor_VandalSpawnChance_Tooltip" translation="Probabilità per cui ogni nuovo gruppo di visitatori sarà costituito da vandali."/>
+		<entry key="Shop_Status_Unstaffed" translation="Senza Staff"/>
 		<!--C4_ScenarioEditor-->
-		<entry key="ScenarioEditor_AcessButtonTooltip" translation="Scenario Editor"/>
-		<entry key="ScenarioEditor_AllowCoasterRestrictionToggle" translation="Allow the player to disable track restrictions."/>
-		<entry key="ScenarioEditor_Crime_AllowPlayerChange" translation="Allow the Player to Change Security Features"/>
-		<entry key="ScenarioEditor_Crime_Crime" translation="Crime"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_Easy" translation="Easy"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_Hard" translation="Hard"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Crime_Difficulty_VeryHard" translation="Very Hard"/>
-		<entry key="ScenarioEditor_Crime_GuardDetectionSpotMultip" translation="Guard Detection - Spot chance multiplier"/>
-		<entry key="ScenarioEditor_Crime_GuardPaySpotMultip" translation="Guard Monthly Pay - Spot chance multiplier"/>
-		<entry key="ScenarioEditor_Crime_MaxPickpockets" translation="Max. Pickpockets"/>
-		<entry key="ScenarioEditor_Crime_MinPickpockets" translation="Min. Pickpockets per 1000 Guests"/>
+		<entry key="ScenarioEditor_AcessButtonTooltip" translation="Editor Scenario"/>
+		<entry key="ScenarioEditor_AllowCoasterRestrictionToggle" translation="Permetti al Giocatore di disabilitare le restrizioni ai percorsi."/>
+		<entry key="ScenarioEditor_Crime_AllowPlayerChange" translation="Permetti al Giocatore di cambiare le funzionalità della Sicurezza"/>
+		<entry key="ScenarioEditor_Crime_Crime" translation="Crimine"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_Easy" translation="Facile"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_Hard" translation="Difficile"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_Medium" translation="Medio"/>
+		<entry key="ScenarioEditor_Crime_Difficulty_VeryHard" translation="Molto Difficile"/>
+		<entry key="ScenarioEditor_Crime_GuardDetectionSpotMultip" translation="Rilevamento Guardia - Percentuale probabilità individuazione"/>
+		<entry key="ScenarioEditor_Crime_GuardPaySpotMultip" translation="Paga Mensile Guardia - Percentuale probabilità individuazione"/>
+		<entry key="ScenarioEditor_Crime_MaxPickpockets" translation="Borseggi Massimi"/>
+		<entry key="ScenarioEditor_Crime_MinPickpockets" translation="Borseggi minimi per 1000 Visitatori"/>
 		<entry key="ScenarioEditor_Crime_Off" translation="Off"/>
 		<entry key="ScenarioEditor_Crime_On" translation="On"/>
-		<entry key="ScenarioEditor_Crime_PickpocketDifficulty" translation="Pickpockets Difficulty"/>
-		<entry key="ScenarioEditor_Crime_PickpocketSpawnRate" translation="Pickpockets Spawn rate"/>
-		<entry key="ScenarioEditor_Crime_Pickpockets" translation="Pickpockets"/>
-		<entry key="ScenarioEditor_Crime_PickpocketsMinGuests" translation="Min. number of Guests for Pickpockets"/>
-		<entry key="ScenarioEditor_Crime_ScurityFeatures" translation="Security Features"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_Average" translation="Average"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_High" translation="High"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_Low" translation="Low"/>
-		<entry key="ScenarioEditor_Crime_SpawnRate_VeryHigh" translation="Very High"/>
-		<entry key="ScenarioEditor_Crime_VandalHappinessThreshold" translation="Vandal Group Happiness threshold"/>
-		<entry key="ScenarioEditor_Crime_VandalSpawnChance" translation="Vandal Group Spawn Chance"/>
-		<entry key="ScenarioEditor_Crime_Vandalism" translation="Vandalism"/>
-		<entry key="ScenarioEditor_Finances_Cost" translation="Monthly Cost:"/>
-		<entry key="ScenarioEditor_Finances_Duration" translation="Duration:"/>
-		<entry key="ScenarioEditor_Finances_Funds" translation="Funds"/>
-		<entry key="ScenarioEditor_Finances_LoanItemActiveCheckBox" translation="Initially Active"/>
-		<entry key="ScenarioEditor_Finances_LoanItemAvailableCheckBox" translation="Available during play"/>
-		<entry key="ScenarioEditor_Finances_LoansList" translation="Loans"/>
-		<entry key="ScenarioEditor_Finances_LoansListDescription" translation="Active loans the player starts out with and has to deal with. A park may have no more than three active loans.&#10;Available Loans the player can take out during play."/>
-		<entry key="ScenarioEditor_Finances_RefundMultip" translation="Refund Multiplier"/>
-		<entry key="ScenarioEditor_Finances_Refunds" translation="Refunds"/>
-		<entry key="ScenarioEditor_Finances_StartingMoney" translation="Starting Money"/>
-		<entry key="ScenarioEditor_Finances_TotalInterest" translation="Total Interest:"/>
-		<entry key="ScenarioEditor_Finances_TrackRefundMultip" translation="Coaster Track Refund Multiplier"/>
-		<entry key="ScenarioEditor_Finances_UnlimitedMoney" translation="Unlimited Money"/>
-		<entry key="ScenarioEditor_Guests_Adults" translation="Adults"/>
-		<entry key="ScenarioEditor_Guests_AttractivenessMultip" translation="Park Attractiveness Multiplier"/>
-		<entry key="ScenarioEditor_Guests_Demographics" translation="Demographics"/>
-		<entry key="ScenarioEditor_Guests_DemographicsSegragation" translation="Demographics Segragation"/>
-		<entry key="ScenarioEditor_Guests_Family" translation="Family"/>
-		<entry key="ScenarioEditor_Guests_GroupSplitGroup" translation="Group"/>
-		<entry key="ScenarioEditor_Guests_GroupSplitSingle" translation="Single"/>
-		<entry key="ScenarioEditor_Guests_HappinessRate" translation="Guest Happiness Rate"/>
-		<entry key="ScenarioEditor_Guests_KeepGuestsAtStart" translation="Keep Current Guests At Start"/>
-		<entry key="ScenarioEditor_Guests_ParkAttractiveness" translation="Park Attractiveness"/>
-		<entry key="ScenarioEditor_Guests_ParkAttractivenessDescription" translation="How likely specific Guest Groups will visit this park"/>
-		<entry key="ScenarioEditor_Guests_Teenagers" translation="Teenagers"/>
-		<entry key="ScenarioEditor_Guests_TraitsListHeader" translation="Guest Traits - Spawn Chance"/>
+		<entry key="ScenarioEditor_Crime_PickpocketDifficulty" translation="Difficoltà Borseggi"/>
+		<entry key="ScenarioEditor_Crime_PickpocketSpawnRate" translation="Tasso Borseggi"/>
+		<entry key="ScenarioEditor_Crime_Pickpockets" translation="Borseggi"/>
+		<entry key="ScenarioEditor_Crime_PickpocketsMinGuests" translation="Numero minimo Visitatori per Borseggi"/>
+		<entry key="ScenarioEditor_Crime_ScurityFeatures" translation="Funzionalità della Sicurezza"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_Average" translation="Medio"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_High" translation="Alto"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_Low" translation="Basso"/>
+		<entry key="ScenarioEditor_Crime_SpawnRate_VeryHigh" translation="Molto Alto"/>
+		<entry key="ScenarioEditor_Crime_VandalHappinessThreshold" translation="Soglia Felicità per Gruppo Vandali"/>
+		<entry key="ScenarioEditor_Crime_VandalSpawnChance" translation="Probabilità di arrivo Gruppo Vandali"/>
+		<entry key="ScenarioEditor_Crime_Vandalism" translation="Vandalismo"/>
+		<entry key="ScenarioEditor_Finances_Cost" translation="Costo mensile:"/>
+		<entry key="ScenarioEditor_Finances_Duration" translation="Durata:"/>
+		<entry key="ScenarioEditor_Finances_Funds" translation="Fondi"/>
+		<entry key="ScenarioEditor_Finances_LoanItemActiveCheckBox" translation="Attivo dall'inizio"/>
+		<entry key="ScenarioEditor_Finances_LoanItemAvailableCheckBox" translation="Disponibile durante la partita"/>
+		<entry key="ScenarioEditor_Finances_LoansList" translation="Prestiti"/>
+		<entry key="ScenarioEditor_Finances_LoansListDescription" translation="Prestiti attivi con cui il giocatore comincia e con cui ha a che fare. Un parco non può avere più di tre prestiti attivi.&#10;Prestiti Disponibili che il giocatore può ottenere durante la partita."/>
+		<entry key="ScenarioEditor_Finances_RefundMultip" translation="Percentuale Rimborso"/>
+		<entry key="ScenarioEditor_Finances_Refunds" translation="Rimborsi"/>
+		<entry key="ScenarioEditor_Finances_StartingMoney" translation="Denaro iniziale"/>
+		<entry key="ScenarioEditor_Finances_TotalInterest" translation="Interesse Totale:"/>
+		<entry key="ScenarioEditor_Finances_TrackRefundMultip" translation="Percentuale Rimborso elementi percorso"/>
+		<entry key="ScenarioEditor_Finances_UnlimitedMoney" translation="Denaro illimitato"/>
+		<entry key="ScenarioEditor_Guests_Adults" translation="Adulti"/>
+		<entry key="ScenarioEditor_Guests_AttractivenessMultip" translation="Percentuale Attrattività Parco"/>
+		<entry key="ScenarioEditor_Guests_Demographics" translation="Demografici"/>
+		<entry key="ScenarioEditor_Guests_DemographicsSegragation" translation="Segregazione Demografica"/>
+		<entry key="ScenarioEditor_Guests_Family" translation="Famiglia"/>
+		<entry key="ScenarioEditor_Guests_GroupSplitGroup" translation="Gruppo"/>
+		<entry key="ScenarioEditor_Guests_GroupSplitSingle" translation="Singolo"/>
+		<entry key="ScenarioEditor_Guests_HappinessRate" translation="Tasso Felicità Visitatori"/>
+		<entry key="ScenarioEditor_Guests_KeepGuestsAtStart" translation="Mantieni gli attuali Visitatori all'inizio"/>
+		<entry key="ScenarioEditor_Guests_ParkAttractiveness" translation="Attrattività Parco"/>
+		<entry key="ScenarioEditor_Guests_ParkAttractivenessDescription" translation="Quanto specifici gruppi di Visitatori visiteranno il parco"/>
+		<entry key="ScenarioEditor_Guests_Teenagers" translation="Giovani"/>
+		<entry key="ScenarioEditor_Guests_TraitsListHeader" translation="Caratteristiche Visitatori - Probabiltà arrivo"/>
 		<entry key="ScenarioEditor_Guests_TraitsPreset" translation="Preset"/>
-		<entry key="ScenarioEditor_Guests_TraitsSpawnChance" translation="Chance that a guest will spawn with a Trait"/>
-		<entry key="ScenarioEditor_Guests_TraitsSpawnHeader" translation="Guest Traits"/>
-		<entry key="ScenarioEditor_Marketing_AllowMarketing" translation="Allow Marketing Campaigns"/>
-		<entry key="ScenarioEditor_Marketing_AudienceHeader" translation="Primary Target Audience"/>
-		<entry key="ScenarioEditor_Marketing_AvailableCampaigns" translation="Available Campaigns"/>
-		<entry key="ScenarioEditor_Marketing_CostHeader" translation="Cost"/>
-		<entry key="ScenarioEditor_Marketing_DurationHeader" translation="Impact"/>
+		<entry key="ScenarioEditor_Guests_TraitsSpawnChance" translation="Probabilità che un visitatore abbia un Tratto caratteristico"/>
+		<entry key="ScenarioEditor_Guests_TraitsSpawnHeader" translation="Caratteristiche Visitatori"/>
+		<entry key="ScenarioEditor_Marketing_AllowMarketing" translation="Permetti Campagne di Marketing"/>
+		<entry key="ScenarioEditor_Marketing_AudienceHeader" translation="Pubblico di destinazione primario"/>
+		<entry key="ScenarioEditor_Marketing_AvailableCampaigns" translation="Campagne disponibili"/>
+		<entry key="ScenarioEditor_Marketing_CostHeader" translation="Costo"/>
+		<entry key="ScenarioEditor_Marketing_DurationHeader" translation="Impatto"/>
 		<entry key="ScenarioEditor_Marketing_Marketing" translation="Marketing"/>
-		<entry key="ScenarioEditor_Marketing_MaxMarketing" translation="Max Concurrent Campaigns"/>
-		<entry key="ScenarioEditor_Marketing_NameHeader" translation="Campaign"/>
-		<entry key="ScenarioEditor_Objectives_AddExtraObjective" translation="Add another Condition"/>
-		<entry key="ScenarioEditor_Objectives_AddObjective" translation="Add Objective"/>
-		<entry key="ScenarioEditor_Objectives_Difficulty" translation="Difficulty"/>
-		<entry key="ScenarioEditor_Objectives_PreviewEmpty" translation="Empty"/>
-		<entry key="ScenarioEditor_Objectives_PreviewTitle" translation="Objectives Preview"/>
-		<entry key="ScenarioEditor_Objectives_SelectObjective" translation="Select Condition"/>
-		<entry key="ScenarioEditor_Objectives_Type" translation="Type"/>
-		<entry key="ScenarioEditor_Park_BoundaryDescription" translation="Place Guest Spawning Points and edit the boundaries of the park"/>
-		<entry key="ScenarioEditor_Park_BoundaryTitle" translation="Park Size, Shape, and Spawn Points"/>
-		<entry key="ScenarioEditor_Park_Breakdown" translation="Breakdown Rate"/>
-		<entry key="ScenarioEditor_Park_BreakdownRate" translation="Parkwide breakdown rate"/>
-		<entry key="ScenarioEditor_Park_ClosingTime" translation="Closing Time"/>
-		<entry key="ScenarioEditor_Park_EditBoundary" translation="Edit park dimensions and guest spawn points"/>
-		<entry key="ScenarioEditor_Park_EditOpeningTimes" translation="Allow the Player to Edit the Opening Times"/>
-		<entry key="ScenarioEditor_Park_EditParkCapacity" translation="Allow the Player to Edit the Park Capacity"/>
-		<entry key="ScenarioEditor_Park_EditTerrain" translation="Allow the Player to Edit the Terrain"/>
-		<entry key="ScenarioEditor_Park_ExtendedTrackRestrictions" translation="Extended track restrictions"/>
-		<entry key="ScenarioEditor_Park_KeepGuests" translation="Keep all Guests on Start"/>
-		<entry key="ScenarioEditor_Park_OpeningTime" translation="Opening Time"/>
-		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Opening Times"/>
-		<entry key="ScenarioEditor_Park_ParkCapacity" translation="Park Capacity"/>
-		<entry key="ScenarioEditor_Park_ParkCapacityStepper" translation="Park Capacity"/>
-		<entry key="ScenarioEditor_Park_PrestigeDecline" translation="Prestige decline rate"/>
-		<entry key="ScenarioEditor_Park_PrestigeDeclineDropDown" translation="Parkwide prestige decline rate"/>
-		<entry key="ScenarioEditor_Park_RemoveClutter" translation="Remove all clutter on Start (Rubbish, Vomit)"/>
-		<entry key="ScenarioEditor_Park_ScenarioStartTime" translation="Scenario Starts at a specific Time"/>
-		<entry key="ScenarioEditor_Park_StartTime" translation="Scenario Start Time:"/>
-		<entry key="ScenarioEditor_Park_TerrainCost" translation="Terrain editing cost"/>
-		<entry key="ScenarioEditor_Park_TerrainEditing" translation="Terrain Editing"/>
-		<entry key="ScenarioEditor_Park_TrackRestrictions" translation="Track Restrictions"/>
-		<entry key="ScenarioEditor_Research_AddSelection" translation="Add selection here"/>
-		<entry key="ScenarioEditor_Research_CurrentlySelected" translation="Currently selected: "/>
-		<entry key="ScenarioEditor_Research_Filters" translation="Research Type"/>
-		<entry key="ScenarioEditor_Research_FiltersButton" translation="Filters"/>
-		<entry key="ScenarioEditor_Research_FiltersTitle" translation="Filters"/>
-		<entry key="ScenarioEditor_Research_Filters_Building" translation="Buildings"/>
-		<entry key="ScenarioEditor_Research_Filters_Coaster" translation="Coasters"/>
-		<entry key="ScenarioEditor_Research_Filters_Facility" translation="Facilities"/>
-		<entry key="ScenarioEditor_Research_Filters_Flatride" translation="Flatrides"/>
-		<entry key="ScenarioEditor_Research_Filters_Scenery" translation="Scenery"/>
-		<entry key="ScenarioEditor_Research_Filters_TrackedRide" translation="Tracked Rides"/>
-		<entry key="ScenarioEditor_Research_MoveDownToolTip" translation="Move Selected Down"/>
-		<entry key="ScenarioEditor_Research_MoveUpToolTip" translation="Move Selected Up"/>
-		<entry key="ScenarioEditor_Research_NestToolTip" translation="Nest Selected"/>
-		<entry key="ScenarioEditor_Research_OptionsTitle" translation="Options"/>
-		<entry key="ScenarioEditor_Research_Preset_Easy" translation="Easy"/>
-		<entry key="ScenarioEditor_Research_Preset_Hard" translation="Hard"/>
-		<entry key="ScenarioEditor_Research_Preset_Harder" translation="Harder"/>
-		<entry key="ScenarioEditor_Research_Preset_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Research_Preset_None" translation="Custom"/>
-		<entry key="ScenarioEditor_Research_Presets" translation="Presets"/>
-		<entry key="ScenarioEditor_Research_PresetsDescription" translation="Presets let you pick from a list of predefined research setups."/>
-		<entry key="ScenarioEditor_Research_PresetsTooltip" translation="Presets"/>
-		<entry key="ScenarioEditor_Research_Researchable" translation="Researchable"/>
-		<entry key="ScenarioEditor_Research_SelectAllToolTip" translation="Select All"/>
-		<entry key="ScenarioEditor_Research_SelectNoneToolTip" translation="Deselect All"/>
-		<entry key="ScenarioEditor_Research_Unavailable" translation="Unavailable"/>
-		<entry key="ScenarioEditor_Research_Unlocked" translation="Unlocked"/>
-		<entry key="ScenarioEditor_Research_UnnestToolTip" translation="Unnest Selected"/>
-		<entry key="ScenarioEditor_Staff_AllowPlayerChange" translation="Allow the Player to toggle Staff Features"/>
-		<entry key="ScenarioEditor_Staff_EntertainersHeader" translation="Entertainers"/>
-		<entry key="ScenarioEditor_Staff_GeneralSettingsDescription" translation="These settings will apply to all staff regardless of type."/>
-		<entry key="ScenarioEditor_Staff_GeneralSettingsHeader" translation="General Settings"/>
-		<entry key="ScenarioEditor_Staff_GeneralStaffProfile" translation="General Profile"/>
-		<entry key="ScenarioEditor_Staff_JanitorsHeader" translation="Janitors"/>
-		<entry key="ScenarioEditor_Staff_MechanicsHeader" translation="Mechanics"/>
+		<entry key="ScenarioEditor_Marketing_MaxMarketing" translation="Campagne massime contemporaneamente "/>
+		<entry key="ScenarioEditor_Marketing_NameHeader" translation="Campagna"/>
+		<entry key="ScenarioEditor_Objectives_AddExtraObjective" translation="Aggiungi altra Condizione"/>
+		<entry key="ScenarioEditor_Objectives_AddObjective" translation="Aggiungi Obiettivo"/>
+		<entry key="ScenarioEditor_Objectives_Difficulty" translation="Difficultà"/>
+		<entry key="ScenarioEditor_Objectives_PreviewEmpty" translation="Vuoto"/>
+		<entry key="ScenarioEditor_Objectives_PreviewTitle" translation="Anteprima Obiettivi"/>
+		<entry key="ScenarioEditor_Objectives_SelectObjective" translation="Seleziona Condizione"/>
+		<entry key="ScenarioEditor_Objectives_Type" translation="Tipo"/>
+		<entry key="ScenarioEditor_Park_BoundaryDescription" translation="Posiziona i punti di arrivo dei Visitatori e modifica i confini del parco"/>
+		<entry key="ScenarioEditor_Park_BoundaryTitle" translation="Misura del Parco, Forma, e Punti di Arrivo"/>
+		<entry key="ScenarioEditor_Park_Breakdown" translation="Tasso di Guasti"/>
+		<entry key="ScenarioEditor_Park_BreakdownRate" translation="Tasso di guasti in tutto il parco"/>
+		<entry key="ScenarioEditor_Park_ClosingTime" translation="Orario di chiusura"/>
+		<entry key="ScenarioEditor_Park_EditBoundary" translation="Modifica le dimensioni del parco e i punti di arrivo dei visitatori"/>
+		<entry key="ScenarioEditor_Park_EditOpeningTimes" translation="Permetti al Giocatore di modificare gli orari di apertura"/>
+		<entry key="ScenarioEditor_Park_EditParkCapacity" translation="Permetti al Giocatore di modificare la capacità del parco"/>
+		<entry key="ScenarioEditor_Park_EditTerrain" translation="Permetti al Giocatore di modificare il terreno"/>
+		<entry key="ScenarioEditor_Park_ExtendedTrackRestrictions" translation="Limitazioni ai percorsi estesi"/>
+		<entry key="ScenarioEditor_Park_KeepGuests" translation="Mantieni tutti i Visitatori all'inizio "/>
+		<entry key="ScenarioEditor_Park_OpeningTime" translation="Orario di apertura"/>
+		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Orari di apertura"/>
+		<entry key="ScenarioEditor_Park_ParkCapacity" translation="Capacità Parco"/>
+		<entry key="ScenarioEditor_Park_ParkCapacityStepper" translation="Capacità Parco"/>
+		<entry key="ScenarioEditor_Park_PrestigeDecline" translation="Tasso di diminuzione Prestigio"/>
+		<entry key="ScenarioEditor_Park_PrestigeDeclineDropDown" translation="Tasso di diminuzione Prestigio di tutto il parco"/>
+		<entry key="ScenarioEditor_Park_RemoveClutter" translation="Rimuovi tutta la sporcizia all'inizio(Rifiuti, Vomito)"/>
+		<entry key="ScenarioEditor_Park_ScenarioStartTime" translation="Lo Scenario comincia ad un orario specifico"/>
+		<entry key="ScenarioEditor_Park_StartTime" translation="Orario di inizio dello Scenario:"/>
+		<entry key="ScenarioEditor_Park_TerrainCost" translation="Costo modifica terreno"/>
+		<entry key="ScenarioEditor_Park_TerrainEditing" translation="Modifica terreno"/>
+		<entry key="ScenarioEditor_Park_TrackRestrictions" translation="Restrizioni percorso"/>
+		<entry key="ScenarioEditor_Research_AddSelection" translation="Aggiungi selezione"/>
+		<entry key="ScenarioEditor_Research_CurrentlySelected" translation="Attualmente selezionato: "/>
+		<entry key="ScenarioEditor_Research_Filters" translation="Tipo ricerca"/>
+		<entry key="ScenarioEditor_Research_FiltersButton" translation="Filtri"/>
+		<entry key="ScenarioEditor_Research_FiltersTitle" translation="Filtri"/>
+		<entry key="ScenarioEditor_Research_Filters_Building" translation="Edifici"/>
+		<entry key="ScenarioEditor_Research_Filters_Coaster" translation="Montagne Russe"/>
+		<entry key="ScenarioEditor_Research_Filters_Facility" translation="Strutture"/>
+		<entry key="ScenarioEditor_Research_Filters_Flatride" translation="Attrazioni"/>
+		<entry key="ScenarioEditor_Research_Filters_Scenery" translation="Scenario"/>
+		<entry key="ScenarioEditor_Research_Filters_TrackedRide" translation="Attrazioni a Circuito"/>
+		<entry key="ScenarioEditor_Research_MoveDownToolTip" translation="Sposta selezionato in giù"/>
+		<entry key="ScenarioEditor_Research_MoveUpToolTip" translation="Sposta selezionato in sù"/>
+		<entry key="ScenarioEditor_Research_NestToolTip" translation="Inserisci selezionato"/>
+		<entry key="ScenarioEditor_Research_OptionsTitle" translation="Opzioni"/>
+		<entry key="ScenarioEditor_Research_Preset_Easy" translation="Facile"/>
+		<entry key="ScenarioEditor_Research_Preset_Hard" translation="Difficile"/>
+		<entry key="ScenarioEditor_Research_Preset_Harder" translation="Difficilissimo"/>
+		<entry key="ScenarioEditor_Research_Preset_Medium" translation="Medio"/>
+		<entry key="ScenarioEditor_Research_Preset_None" translation="Personalizzato"/>
+		<entry key="ScenarioEditor_Research_Presets" translation="Prestabiliti"/>
+		<entry key="ScenarioEditor_Research_PresetsDescription" translation="Prestabiliti ti permette di scegliere da una lista di impostazioni di ricerca predefinite."/>
+		<entry key="ScenarioEditor_Research_PresetsTooltip" translation="Prestabiliti"/>
+		<entry key="ScenarioEditor_Research_Researchable" translation="Ricercabile"/>
+		<entry key="ScenarioEditor_Research_SelectAllToolTip" translation="Seleziona Tutti"/>
+		<entry key="ScenarioEditor_Research_SelectNoneToolTip" translation="Deseleziona Tutti"/>
+		<entry key="ScenarioEditor_Research_Unavailable" translation="Non Disponibile"/>
+		<entry key="ScenarioEditor_Research_Unlocked" translation="Sbloccato"/>
+		<entry key="ScenarioEditor_Research_UnnestToolTip" translation="Togli selezionato"/>
+		<entry key="ScenarioEditor_Staff_AllowPlayerChange" translation="Permetti al Giocatore di attivare/disattivare le funzionalità dello Staff"/>
+		<entry key="ScenarioEditor_Staff_EntertainersHeader" translation="Intrattenitori"/>
+		<entry key="ScenarioEditor_Staff_GeneralSettingsDescription" translation="Queste impostazioni si applicheranno a tutto lo staff indipendentemente dalla tipologia."/>
+		<entry key="ScenarioEditor_Staff_GeneralSettingsHeader" translation="Impostazioni Generali"/>
+		<entry key="ScenarioEditor_Staff_GeneralStaffProfile" translation="Profilo Generale"/>
+		<entry key="ScenarioEditor_Staff_JanitorsHeader" translation="Spazzini"/>
+		<entry key="ScenarioEditor_Staff_MechanicsHeader" translation="Manutentori"/>
 		<entry key="ScenarioEditor_Staff_Off" translation="Off"/>
 		<entry key="ScenarioEditor_Staff_On" translation="On"/>
-		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Park Rating threshold for Staff Energy decline"/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Standard staff settings:&#10;• Staff building perks provide normal bonuses.&#10;• Staff quit at their normal happiness level.&#10;• Staff start at their normal happiness.&#10;• Staff stop working at 15% energy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Easy staff setting:&#10;• Staff building perks have a greater effect.&#10;• Staff can quit at a lower happiness level.&#10;• Staff start at a higher happiness value."/>
+		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Soglia di valutazione Parco sotto la quale diminuisce l'Energia Staff"/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I benefici dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I benefici dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Apathetic" translation="When Entertainers are set to Apathetic:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers can entertain less guests at once."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Commercial" translation="When Entertainers are set to Commercial:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers can entertain more guests at once."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Default" translation="When Entertainers are set to default:&#10;&#10;• Normal happiness increase for guests.&#10;• Normal Time between performances.&#10;• Normal amount of guests per performance.&#10;• Normal workload levels before Entertainers get stressed.&#10;• Normal pay and energy levels."/>
@@ -5515,7 +5515,7 @@
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Lazy" translation="When Entertainers are set to lazy:&#10;&#10;• Entertainers don't increase happiness of guests as much.&#10;• Entertainers have a larger gap between performances."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Passionate" translation="When Entertainers are set to passionate:&#10;&#10;• Entertainers increase guest happiness more than normal.&#10;• Entertainers can entertain more guests at once."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Stressed" translation="When Entertainers are set to get easily stressed:&#10;&#10;• Entertainers get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Hard staff setting: &#10;• Staff building perks have a reduced effect.&#10;• Staff can quit at a higher happiness level.&#10;• Staff start at lower happiness."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I benefici dell'edificio Staff hanno un effetto ridotto.&#10;• o staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Apathetic" translation="When Janitors are set to Apathetic:&#10;&#10;• Janitors are faster at performing tasks."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Default" translation="When Janitors are set to default:&#10;&#10;• Normal job durations.&#10;• Normal movement speed around the park.&#10;• Normal pay range requirements.&#10;• Normal energy levels."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Easy" translation="When Janitors are set to easy:&#10;&#10;• Bins have a higher capacity.&#10;• Janitors are faster at performing tasks.&#10;• Janitors can handle more workloads.&#10;• Janitors don't tire as easily."/>
@@ -5564,47 +5564,47 @@
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Stressed" translation="When Vendors are set to get easily stressed:&#10;&#10;• Vendors get overworked from smaller workloads."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_WorkBot" translation="When Vendors are set to Work-bot:&#10;&#10;• Vendors don't have an effect on guests' happiness.&#10;• Vendors are faster at serving guests."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_WorkAverse" translation="Work Averse staff setting:&#10;• A higher level of energy is required before staff will begin to work.&#10;• Staff lose more energy performing some work tasks.&#10;• Staff stop working at 25% energy."/>
-		<entry key="ScenarioEditor_Staff_Profile_Apathetic" translation="Apathetic"/>
-		<entry key="ScenarioEditor_Staff_Profile_BlindEye" translation="Blind Eye"/>
-		<entry key="ScenarioEditor_Staff_Profile_Commercial" translation="Commercial"/>
-		<entry key="ScenarioEditor_Staff_Profile_Default" translation="Default"/>
-		<entry key="ScenarioEditor_Staff_Profile_Easy" translation="Easy"/>
-		<entry key="ScenarioEditor_Staff_Profile_Energetic" translation="Energetic"/>
-		<entry key="ScenarioEditor_Staff_Profile_Entitled" translation="Entitled"/>
-		<entry key="ScenarioEditor_Staff_Profile_Fast" translation="Fast"/>
-		<entry key="ScenarioEditor_Staff_Profile_Fatigued" translation="Fatigued"/>
-		<entry key="ScenarioEditor_Staff_Profile_Grateful" translation="Grateful"/>
-		<entry key="ScenarioEditor_Staff_Profile_Hard" translation="Hard"/>
-		<entry key="ScenarioEditor_Staff_Profile_Lazy" translation="Lazy"/>
-		<entry key="ScenarioEditor_Staff_Profile_Overtime" translation="Overtime"/>
-		<entry key="ScenarioEditor_Staff_Profile_Passionate" translation="Passionate"/>
-		<entry key="ScenarioEditor_Staff_Profile_Stressed" translation="Stressed"/>
-		<entry key="ScenarioEditor_Staff_Profile_WorkAverse" translation="Work Averse"/>
-		<entry key="ScenarioEditor_Staff_Profile_WorkBot" translation="Work-bot"/>
-		<entry key="ScenarioEditor_Staff_SecurityGuardsHeader" translation="Security Guards"/>
+		<entry key="ScenarioEditor_Staff_Profile_Apathetic" translation="Apatico"/>
+		<entry key="ScenarioEditor_Staff_Profile_BlindEye" translation="Guercio"/>
+		<entry key="ScenarioEditor_Staff_Profile_Commercial" translation="Commerciale"/>
+		<entry key="ScenarioEditor_Staff_Profile_Default" translation="Predefinito"/>
+		<entry key="ScenarioEditor_Staff_Profile_Easy" translation="Semplice"/>
+		<entry key="ScenarioEditor_Staff_Profile_Energetic" translation="Energico"/>
+		<entry key="ScenarioEditor_Staff_Profile_Entitled" translation="Titolato"/>
+		<entry key="ScenarioEditor_Staff_Profile_Fast" translation="Veloce"/>
+		<entry key="ScenarioEditor_Staff_Profile_Fatigued" translation="Stanco"/>
+		<entry key="ScenarioEditor_Staff_Profile_Grateful" translation="Riconoscente"/>
+		<entry key="ScenarioEditor_Staff_Profile_Hard" translation="Difficile"/>
+		<entry key="ScenarioEditor_Staff_Profile_Lazy" translation="Pigro"/>
+		<entry key="ScenarioEditor_Staff_Profile_Overtime" translation="In straordinario"/>
+		<entry key="ScenarioEditor_Staff_Profile_Passionate" translation="Appassionato"/>
+		<entry key="ScenarioEditor_Staff_Profile_Stressed" translation="Stressato"/>
+		<entry key="ScenarioEditor_Staff_Profile_WorkAverse" translation="Fannullone"/>
+		<entry key="ScenarioEditor_Staff_Profile_WorkBot" translation="Automa"/>
+		<entry key="ScenarioEditor_Staff_SecurityGuardsHeader" translation="Guardie di Sicurezza"/>
 		<entry key="ScenarioEditor_Staff_Staff" translation="Staff"/>
-		<entry key="ScenarioEditor_Staff_StaffFeatures" translation="Staff Features"/>
-		<entry key="ScenarioEditor_Staff_StaffProfile" translation="Staff Profile"/>
-		<entry key="ScenarioEditor_Staff_TypeSettingsDescription" translation="These settings will change how staff behave on a per-staff type level."/>
-		<entry key="ScenarioEditor_Staff_TypeSettingsHeader" translation="Staff Type Specific Settings"/>
-		<entry key="ScenarioEditor_Staff_VendorsHeader" translation="Vendors"/>
-		<entry key="ScenarioEditor_Tab_Crime" translation="Crime"/>
-		<entry key="ScenarioEditor_Tab_Crime_ToolTip" translation="Crime"/>
-		<entry key="ScenarioEditor_Tab_Finances" translation="Finances"/>
-		<entry key="ScenarioEditor_Tab_Finances_ToolTip" translation="Finances"/>
-		<entry key="ScenarioEditor_Tab_Guests" translation="Guests"/>
-		<entry key="ScenarioEditor_Tab_Guests_ToolTip" translation="Guests"/>
+		<entry key="ScenarioEditor_Staff_StaffFeatures" translation="Caratteristiche Staff"/>
+		<entry key="ScenarioEditor_Staff_StaffProfile" translation="Profilo Staff"/>
+		<entry key="ScenarioEditor_Staff_TypeSettingsDescription" translation="Queste impostazioni cambieranno il comportamento dello Staff in base alla tipologia."/>
+		<entry key="ScenarioEditor_Staff_TypeSettingsHeader" translation="Impostazioni specifiche per tipologia Staff"/>
+		<entry key="ScenarioEditor_Staff_VendorsHeader" translation="Venditori"/>
+		<entry key="ScenarioEditor_Tab_Crime" translation="Crimine"/>
+		<entry key="ScenarioEditor_Tab_Crime_ToolTip" translation="Crimine"/>
+		<entry key="ScenarioEditor_Tab_Finances" translation="Economia"/>
+		<entry key="ScenarioEditor_Tab_Finances_ToolTip" translation="Economia"/>
+		<entry key="ScenarioEditor_Tab_Guests" translation="Visitatori"/>
+		<entry key="ScenarioEditor_Tab_Guests_ToolTip" translation="Visitatori"/>
 		<entry key="ScenarioEditor_Tab_Marketing" translation="Marketing"/>
 		<entry key="ScenarioEditor_Tab_Marketing_ToolTip" translation="Marketing"/>
-		<entry key="ScenarioEditor_Tab_Objectives" translation="Objectives"/>
-		<entry key="ScenarioEditor_Tab_Objectives_ToolTip" translation="Objectives"/>
-		<entry key="ScenarioEditor_Tab_Park" translation="Park"/>
-		<entry key="ScenarioEditor_Tab_Park_ToolTip" translation="Park"/>
-		<entry key="ScenarioEditor_Tab_Research" translation="Research"/>
-		<entry key="ScenarioEditor_Tab_Research_ToolTip" translation="Research"/>
+		<entry key="ScenarioEditor_Tab_Objectives" translation="Obiettivi"/>
+		<entry key="ScenarioEditor_Tab_Objectives_ToolTip" translation="Obiettivi"/>
+		<entry key="ScenarioEditor_Tab_Park" translation="Parco"/>
+		<entry key="ScenarioEditor_Tab_Park_ToolTip" translation="Parco"/>
+		<entry key="ScenarioEditor_Tab_Research" translation="Ricerca"/>
+		<entry key="ScenarioEditor_Tab_Research_ToolTip" translation="Ricerca"/>
 		<entry key="ScenarioEditor_Tab_Staff" translation="Staff"/>
 		<entry key="ScenarioEditor_Tab_Staff_ToolTip" translation="Staff"/>
-		<entry key="ScenarioEditor_Title" translation="Scenario Editor"/>
+		<entry key="ScenarioEditor_Title" translation="Editor Scenario"/>
 		<!--C4_Scenery-->
 		<entry key="BuildingPartDesc_FT_BN_01" translation="Decorative painted wood bench.&#10;Fairytale Theme"/>
 		<entry key="BuildingPartDesc_FT_BN_02" translation="Elegant carved wood bench.&#10;Fairytale Theme"/>
@@ -12916,7 +12916,7 @@
 		<entry key="GuestPerkDesc_Roaming" translation="A loro non pesa andare in giro "/>
 		<entry key="GuestPerkDesc_ScaredyCat" translation="Non vogliono cose troppo spaventose!"/>
 		<entry key="GuestPerkDesc_Sickly" translation="Devono evitare di ammalarsi"/>
-		<entry key="GuestPerkDesc_Sightseer" translation="They want to visit beautiful vistas"/>
+		<entry key="GuestPerkDesc_Sightseer" translation="Vogliono visitare bei punti panoramici"/>
 		<entry key="GuestPerkDesc_SingleMinded" translation="Una volta decisa la destinazione, è quella"/>
 		<entry key="GuestPerkDesc_Slow" translation="Sono un pò più lenti della media"/>
 		<entry key="GuestPerkDesc_Stingy" translation="Contano il singolo centesimo"/>
@@ -12941,7 +12941,7 @@
 		<entry key="GuestPerk_Roaming" translation="Passeggiatore"/>
 		<entry key="GuestPerk_ScaredyCat" translation="Timoroso"/>
 		<entry key="GuestPerk_Sickly" translation="Malaticcio"/>
-		<entry key="GuestPerk_Sightseer" translation="Sightseer"/>
+		<entry key="GuestPerk_Sightseer" translation="Turista"/>
 		<entry key="GuestPerk_SingleMinded" translation="Deciso"/>
 		<entry key="GuestPerk_Slow" translation="Camminatore lento"/>
 		<entry key="GuestPerk_Stingy" translation="Avaro"/>
@@ -12966,7 +12966,7 @@
 		<entry key="Guests_Status_GuestDestination_Navigating" translation="Andando Verso"/>
 		<entry key="Guests_Status_GuestDestination_OnRide" translation="Su"/>
 		<entry key="Guests_Status_GuestDestination_Queueing" translation="In coda per"/>
-		<entry key="Guests_Status_GuetsDestination_AtVistaPoint" translation="Viewing"/>
+		<entry key="Guests_Status_GuetsDestination_AtVistaPoint" translation="Ammirando"/>
 		<entry key="Guests_Status_Idle" translation="Oziando"/>
 		<entry key="Guests_Status_LeavePark" translation="Tornando a casa"/>
 		<entry key="Guests_Status_Physics" translation="Colpito da un vagone"/>
@@ -12994,7 +12994,7 @@
 		<entry key="HUD_HelpPopup_CoasterEdit_Command_06" translation="Attiva/Disattiva angoli fissi"/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Description" translation="Usa i pulsanti a schermo per manipolare il tracciato con precisione. Clicca col tasto sinistro fuori dal coaster per posizionare il prossimo pezzo di tracciato."/>
 		<entry key="HUD_HelpPopup_CoasterEdit_Input_OnPlacedPiece" translation="{ControlText} su Pezzo Posizionato"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Montagna Russa"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Modalità Modifica Attrazione"/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Description" translation="Gli Inneschi sulle Montagne Russe permettono di attivare oggetti animati ed effetti speciali quando una vettura raggiunge uno specifico punto della pista."/>
 		<entry key="HUD_HelpPopup_CoasterTriggers_Title" translation="Inneschi Montagne Russe"/>
 		<entry key="HUD_HelpPopup_Control_Hold" translation="{ControlText} (Hold)"/>
