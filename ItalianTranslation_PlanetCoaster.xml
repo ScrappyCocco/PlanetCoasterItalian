@@ -206,7 +206,7 @@
 		<entry key="Blueprints_FairyShortTowerDesc" translation="Una piccola, tozza torre per i maghi."/>
 		<entry key="Blueprints_FairySmallEnt" translation="Piccola entrata fiabesca"/>
 		<entry key="Blueprints_FairySmallEntDesc" translation="Ispirata al mondo delle fiabe, questa entrata sarà il perfetto ingresso al vostro mondo della fantasia."/>
-		<entry key="Blueprints_FairyThemedShops" translation="Negozi a tema Fiabesco"/>
+		<entry key="Blueprints_FairyThemedShops" translation="Negozi a Tema Fantasy"/>
 		<entry key="Blueprints_FairyThemedShopsDesc" translation="A quanto pare la Principessa adora fare shopping qui intorno."/>
 		<entry key="Blueprints_FairyToilets" translation="Blocco di Bagni fiabeschi"/>
 		<entry key="Blueprints_FairyToiletsDesc" translation="A quanto pare Il Re e la Regina ne hanno uno all'interno del loro castello.Ma solo uno."/>
@@ -3087,8 +3087,8 @@
 		<entry key="Blueprints_HOL_FestiveSceneDesc" translation="Un amorevole e festoso momento."/>
 		<entry key="Blueprints_HOL_FestiveShopping" translation="Area shopping festosa"/>
 		<entry key="Blueprints_HOL_FestiveShoppingDesc" translation="Piena di spirito festoso!"/>
-		<entry key="Blueprints_HOL_FestiveThemed" translation="Negozi a tema Festoso"/>
-		<entry key="Blueprints_HOL_FestiveThemed02" translation="Negozi a tema Festoso 2"/>
+		<entry key="Blueprints_HOL_FestiveThemed" translation="Negozi a tema Festivo"/>
+		<entry key="Blueprints_HOL_FestiveThemed02" translation="Negozi a tema Festivo 2"/>
 		<entry key="Blueprints_HOL_FestiveThemed02Desc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveThemedDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveToilet" translation="Bagni Festosi"/>
@@ -4040,34 +4040,34 @@
 		<entry key="BuildingPartDesc_FAD_PizzaPenSwingSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenVerticalSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenWoodenSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
-		<entry key="BuildingPartDesc_FT_1M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_2M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_2M_Fence_03" translation="Recinto fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Band" translation="Uno spettacolo teatrale musicale.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Canopy_01" translation="Tettoia Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Canopy_02" translation="Tettoia Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Canopy_03" translation="Tettoia Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Chain_Attachment_Point" translation="Punto aggancio catena.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Chains_Curve_4m" translation="Catena Curva.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Chains_Straight_4m" translation="Catena Dritta.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_CoasterDoor_01" translation="Cancello per l'avventura.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone" translation="Pilastro Rituale.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone_Cap" translation="Tetto Pilastro Rituale.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone_horizontal_column" translation="Colonna di Pietra incisa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone_vertical_column" translation="Colonna di Pietra incisa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fascia_01" translation="Fascia.Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fascia_02" translation="Fascia.Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fence_2m" translation="Recinto Fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fence_4m" translation="Recinto Fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Palace_Archway" translation="Arcata del Palazzo ornata in pietra.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Curve_2m" translation="Corda curva.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Curve_4m" translation="Corda curva.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Hanging_2m" translation="Corda appesa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Hanging_4m" translation="Corda appesa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Straight_2m" translation="Corda dritta.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Straight_4m" translation="Corda dritta.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_StoneArchway" translation="Un arcata di pietra elegante.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_TreeArchway" translation="Arcata di tronchi di legno illuminata.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_1M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_2M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_2M_Fence_03" translation="Recinto fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Band" translation="Uno spettacolo teatrale musicale.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Canopy_01" translation="Tettoia Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Canopy_02" translation="Tettoia Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Canopy_03" translation="Tettoia Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Chain_Attachment_Point" translation="Punto aggancio catena.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Chains_Curve_4m" translation="Catena Curva.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Chains_Straight_4m" translation="Catena Dritta.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CoasterDoor_01" translation="Cancello per l'avventura.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone" translation="Pilastro Rituale.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone_Cap" translation="Tetto Pilastro Rituale.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone_horizontal_column" translation="Colonna di Pietra incisa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone_vertical_column" translation="Colonna di Pietra incisa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fascia_01" translation="Fascia.Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fascia_02" translation="Fascia.Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fence_2m" translation="Recinto Fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fence_4m" translation="Recinto Fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Palace_Archway" translation="Arcata del Palazzo ornata in pietra.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Curve_2m" translation="Corda curva.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Curve_4m" translation="Corda curva.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Hanging_2m" translation="Corda appesa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Hanging_4m" translation="Corda appesa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Straight_2m" translation="Corda dritta.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Straight_4m" translation="Corda dritta.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_StoneArchway" translation="Un arcata di pietra elegante.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_TreeArchway" translation="Arcata di tronchi di legno illuminata.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_HOL_Snowman_Coal" translation="Non tutti amano i regali.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_StandardPinkWafer" translation="Zucchero delizioso.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Wreath_Straight" translation="Una tradizione festiva.&#10;Tema Festivo"/>
@@ -4978,9 +4978,9 @@
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_2m" translation="Schermo TV."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_4m" translation="Schermo TV."/>
 		<entry key="BuildingPartDesc_Steel_Vengance_Sign" translation="Insegna ufficiale Cedar Point per la montagna russa Steel Vengeance."/>
-		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartName_CP_Cedar_Point_Sign" translation="Insegna Ufficiale di Cedar Point"/>
 		<entry key="BuildingPartName_CP_Cedar_Point_Sign_Large" translation="Insegna Grande Ufficiale di Cedar Point"/>
 		<entry key="BuildingPartName_FWK_Firework_CatherineWheel" translation="Fuoco d'artificio Ruota di Catherine"/>
@@ -5100,9 +5100,9 @@
 		<entry key="Blueprints_Cascade01" translation="The Acropolis"/>
 		<entry key="Blueprints_Cascade01Desc" translation="Uno schema per il coaster Cascade"/>
 		<entry key="Blueprints_FT_EntranceSmall01" translation="Entrata Parco Mercato Fatato"/>
-		<entry key="Blueprints_FT_EntranceSmall01Desc" translation="Ispirata al tema fiabesco questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
+		<entry key="Blueprints_FT_EntranceSmall01Desc" translation="Ispirata al Tema Fantasy questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
 		<entry key="Blueprints_FT_Gateway" translation="Entrata Parco Castello Fatato"/>
-		<entry key="Blueprints_FT_GatewayDesc" translation="Ispirata al tema fiabesco questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
+		<entry key="Blueprints_FT_GatewayDesc" translation="Ispirata al Tema Fantasy questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
 		<entry key="Blueprints_FT_StaffBuilding" translation="Edificio Staff Fiabesco"/>
 		<entry key="Blueprints_FT_StaffBuildingDesc" translation="Un comodo e rustico edificio per lo staff."/>
 		<entry key="Blueprints_FestiveLarge03" translation="Casa Festosa - Grande 3"/>
@@ -5386,7 +5386,7 @@
 		<!--C4_ScenarioEditor-->
 		<entry key="ScenarioEditor_AcessButtonTooltip" translation="Editor Scenario"/>
 		<entry key="ScenarioEditor_AllowCoasterRestrictionToggle" translation="Permetti al Giocatore di disabilitare le restrizioni ai percorsi."/>
-		<entry key="ScenarioEditor_CamDeterrence" translation="Security Camera Deterrence"/>
+		<entry key="ScenarioEditor_CamDeterrence" translation="Deterrenza Telecamere di Sicurezza"/>
 		<entry key="ScenarioEditor_Crime_AllowPlayerChange" translation="Permetti al Giocatore di cambiare le funzionalità della Sicurezza"/>
 		<entry key="ScenarioEditor_Crime_Crime" translation="Crimine"/>
 		<entry key="ScenarioEditor_Crime_Difficulty_Easy" translation="Facile"/>
@@ -5466,9 +5466,9 @@
 		<entry key="ScenarioEditor_Park_EditTerrain" translation="Permetti al Giocatore di modificare il terreno"/>
 		<entry key="ScenarioEditor_Park_ExtendedTrackRestrictions" translation="Limitazioni ai percorsi estesi"/>
 		<entry key="ScenarioEditor_Park_Hotel" translation="Hotel"/>
-		<entry key="ScenarioEditor_Park_HotelDeterioration" translation="Wear and tear (facility deterioration)"/>
-		<entry key="ScenarioEditor_Park_HotelPopularity" translation="Hotel Popularity"/>
-		<entry key="ScenarioEditor_Park_HotelRunningCost" translation="Hotel Monthly running costs multiplier"/>
+		<entry key="ScenarioEditor_Park_HotelDeterioration" translation="Usura (deterioramento struttura)"/>
+		<entry key="ScenarioEditor_Park_HotelPopularity" translation="Popolarità Hotel "/>
+		<entry key="ScenarioEditor_Park_HotelRunningCost" translation="Percentuale costo esercizio mensile Hotel"/>
 		<entry key="ScenarioEditor_Park_KeepGuests" translation="Mantieni tutti i Visitatori all'inizio "/>
 		<entry key="ScenarioEditor_Park_OpeningTime" translation="Orario di apertura"/>
 		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Orari di apertura"/>
@@ -5523,72 +5523,72 @@
 		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Soglia di valutazione Parco sotto la quale diminuisce l'Energia Staff"/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I benefici dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I benefici dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Apathetic" translation="When Entertainers are set to Apathetic:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers can entertain less guests at once."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Commercial" translation="When Entertainers are set to Commercial:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers can entertain more guests at once."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Default" translation="When Entertainers are set to default:&#10;&#10;• Normal happiness increase for guests.&#10;• Normal Time between performances.&#10;• Normal amount of guests per performance.&#10;• Normal workload levels before Entertainers get stressed.&#10;• Normal pay and energy levels."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Easy" translation="When Entertainers are set to easy:&#10;&#10;• Entertainers increase guest happiness more than normal.&#10;• Entertainers can perform more regularly.&#10;• Entertainers can handle more workloads.&#10;• Entertainers don't tire as quickly."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Energetic" translation="When Entertainers are set to Energetic:&#10;&#10;• Entertainers lose energy at a decreased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Entitled" translation="When Entertainers are set to entitled:&#10;&#10;• Entertainers require more money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Fatigued" translation="When Entertainers are set to Fatigued:&#10;&#10;• Entertainers lose energy at an increased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Grateful" translation="When Entertainers are set to Grateful:&#10;&#10;• Entertainers require less money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Hard" translation="When Entertainers are set to hard:&#10;&#10;• Entertainers don't increase guest happiness as much as normal.&#10;• Entertainers have a longer delay between performances.&#10;• Entertainers get overworked from lower workloads.&#10;• Entertainers get tired faster."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Lazy" translation="When Entertainers are set to lazy:&#10;&#10;• Entertainers don't increase happiness of guests as much.&#10;• Entertainers have a larger gap between performances."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Passionate" translation="When Entertainers are set to passionate:&#10;&#10;• Entertainers increase guest happiness more than normal.&#10;• Entertainers can entertain more guests at once."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Stressed" translation="When Entertainers are set to get easily stressed:&#10;&#10;• Entertainers get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I benefici dell'edificio Staff hanno un effetto ridotto.&#10;• o staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Apathetic" translation="When Janitors are set to Apathetic:&#10;&#10;• Janitors are faster at performing tasks."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Default" translation="When Janitors are set to default:&#10;&#10;• Normal job durations.&#10;• Normal movement speed around the park.&#10;• Normal pay range requirements.&#10;• Normal energy levels."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Easy" translation="When Janitors are set to easy:&#10;&#10;• Bins have a higher capacity.&#10;• Janitors are faster at performing tasks.&#10;• Janitors can handle more workloads.&#10;• Janitors don't tire as easily."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Energetic" translation="When Janitors are set to Energetic:&#10;&#10;• Janitors lose energy at a decreased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Entitled" translation="When Janitors are set to entitled:&#10;&#10;• Janitors require more money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Fatigued" translation="When Janitors are set to Fatigued:&#10;&#10;• Janitors lose energy at an increased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Grateful" translation="When Janitors are set to grateful:&#10;&#10;• Janitors require less money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Hard" translation="When Janitors are set to hard:&#10;&#10;• Bins have a lower capacity.&#10;• Janitors are not as fast at performing tasks.&#10;• Janitors get overworked from lower workloads.&#10;• Janitors get tired faster."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Lazy" translation="When Janitors are set to lazy:&#10;&#10;• Less effective at cleaning toilets.&#10;• Slower at performing tasks.&#10;• Slower movement speed."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Passionate" translation="When Janitors are set to passionate:&#10;&#10;• Janitors perform tasks faster.&#10;• Janitors move around the park faster."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Stressed" translation="When Janitors are set to get easily stressed:&#10;&#10;• Janitors get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Apathetic" translation="When Mechanics are set to Apathetic:&#10;&#10;• Mechanics don't increase the durability of rides as much as normal.&#10;• Mechanics are faster at performing tasks."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Default" translation="When Mechanics are set to default:&#10;&#10;• Normal Inspection/Refurbishment/Repair durations.&#10;• Normal Durability gain.&#10;• Normal breakdown prevention threshold.&#10;• Normal movement speeds around the park.&#10;• Normal pay and Energy levels."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Easy" translation="When Mechanics are set to easy:&#10;&#10;• Lowers the breakdown threshold.&#10;• Mechanics are faster at performing tasks.&#10;• Mechanics move around the park faster.&#10;• Mechanics can handle more workloads.&#10;• Mechanics don't tire as easily."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Energetic" translation="When Mechanics are set to Energetic:&#10;&#10;• Mechanics lose energy at a decreased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Entitled" translation="When Mechanics are set to entitled:&#10;&#10;• Mechanics require more money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Fatigued" translation="When Mechanics are set to Fatigued:&#10;&#10;• Mechanics lose energy at an increased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Grateful" translation="When Mechanics are set to Grateful:&#10;&#10;• Mechanics require less money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Hard" translation="When Mechanics are set to hard:&#10;&#10;• Raises the breakdown threshold.&#10;• Mechanics are not as fast at performing tasks.&#10;• Mechanics move around the park slower.&#10;• Mechanics get overworked from lower workloads.&#10;• Mechanics get tired faster."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Lazy" translation="When Mechanics are set to lazy:&#10;&#10;• Slower at performing tasks.&#10;• Slower movement speeds."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Passionate" translation="When Mechanics are set to passionate:&#10;&#10;• Mechanics perform tasks faster.&#10;• Mechanics have an increased effect on the durability of rides."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Stressed" translation="When Mechanics are set to stressed:&#10;&#10;• Mechanics get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Overtime" translation="Overtime staff setting:&#10;• Staff need less energy to leave the staff building.&#10;• Staff stop working at 1% energy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Apathetic" translation="When Security guards are set to Apathetic:&#10;&#10;• Security guards have a lower chance of detecting pickpockets from reports.&#10;• Security guards have a smaller radius of detecting crimes."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_BlindEye" translation="When Security guards are set to Blind Eye:&#10;&#10;• Security guards have a smaller radius of detection."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Default" translation="When Security guards are set to default:&#10;&#10;• Normal detection chances per report.&#10;• Normal detection radius.&#10;• Normal Running speeds and movement speed around the park.&#10;• Normal ability to handle workload.&#10;• Normal pay requirements and Energy levels."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Easy" translation="When Security guards are set to easy:&#10;&#10;• Security guards have a larger radius of detecting crimes.&#10;• Security guards are faster when giving chase.&#10;• Security guards can handle more workloads.&#10;• Security guards don't tire as easily."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Energetic" translation="When Security guards are set to Energetic:&#10;&#10;• Security guards lose energy at a decreased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Entitled" translation="When Security guards are set to entitled:&#10;&#10;• Security guards require more money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Fatigued" translation="When Security guards are set to Fatigued:&#10;&#10;• Security guards lose energy at an increased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Grateful" translation="When Security guards are set to Grateful:&#10;&#10;• Security guards require less money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Hard" translation="When Security guards are set to hard:&#10;&#10;• Security guards have a smaller radius of detecting crimes.&#10;• Security guards are not as fast when giving chase.&#10;• Security guards get overworked from lower workloads.&#10;• Security guards get tired faster."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Lazy" translation="When Security guards are set to lazy:&#10;&#10;• Slower run speeds.&#10;• Slower movement speed around the park.&#10;• Tires from sprinting and patrolling faster."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Passionate" translation="When Security guards are set to passionate:&#10;&#10;• Security guards have an increased chance to detect criminals from reports.&#10;• Security guards have a larger radius of detecting crimes.&#10;• Security guards recover from sprinting faster.&#10;• Security guards give chase at an increased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Stressed" translation="When Security guards are set to get easily stressed:&#10;&#10;• Security guards get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Default" translation="When Vendors are set to default:&#10;&#10;• Normal serving speeds.&#10;• Normal effect on on guest happiness.&#10;• Normal workload levels before Vendors get stressed.&#10;• Normal pay range requirements.&#10;• Normal Energy levels."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Easy" translation="When Vendors are set to easy:&#10;&#10;• Vendors can handle more workloads.&#10;• Vendors don't tire as easily.&#10;• Vendors are faster at serving guests."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Energetic" translation="When Vendors are set to Energetic:&#10;&#10;• Vendors lose energy at a decreased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Entitled" translation="When Vendors are set to entitled:&#10;&#10;• Vendors require more money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Fast" translation="When Vendors are set to Fast:&#10;&#10;• Vendors serve items faster than normal."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Fatigued" translation="When Vendors are set to Fatigued:&#10;&#10;• Vendors lose energy at an increased rate."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Grateful" translation="When Vendors are set to Grateful:&#10;&#10;• Vendors require less money to keep them happy."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Hard" translation="When Vendors are set to hard:&#10;&#10;• Vendors get tired faster.&#10;• Vendors get overworked from lower workloads.&#10;• Vendors are not as fast at serving guests."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Lazy" translation="When Vendors are set to lazy:&#10;&#10;• Slower serving speeds."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Passionate" translation="When Vendors are set to passionate:&#10;&#10;• Vendors serve guests faster.&#10;• Vendors have an increased positive effect on guest happiness."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Stressed" translation="When Vendors are set to get easily stressed:&#10;&#10;• Vendors get overworked from smaller workloads."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_WorkBot" translation="When Vendors are set to Work-bot:&#10;&#10;• Vendors don't have an effect on guests' happiness.&#10;• Vendors are faster at serving guests."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_WorkAverse" translation="Work Averse staff setting:&#10;• A higher level of energy is required before staff will begin to work.&#10;• Staff lose more energy performing some work tasks.&#10;• Staff stop working at 25% energy."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Apathetic" translation="Quando gli intrattenitori sono impostati su Apatico:&#10;&#10;• Gli intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori divertono meno visitatori alla volta."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Commercial" translation="Quando gli Intrattenitori sono impostati su Commerciale:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori divertono più visitatori alla volta."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Default" translation="Quando gli Intrattenitori sono impostati su Predefinito:&#10;&#10;• Normale crescita della felicità per i visitatori.&#10;• Normale intervallo di tempo fra le performances.&#10;• Normale quantità di visitatori per performance.&#10;• Normale carico di lavoro prima che gli Intrattenitori diventino stressati.&#10;• Normale salario e livelli di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Easy" translation="Quando gli Intrattenitori sono impostati su Facile:&#10;&#10;• Gli Intrattenitori aumentano la felicità dei visitatori più del normale.&#10;• Gli Intrattenitori possono performare più spesso.&#10;• Gli Intrattenitori possono sopportare più carico di lavoro.&#10;• Gli Intrattenitori non si stancano facilmente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Energetic" translation="Quando gli Intrattenitori sono impostati su Energico:&#10;&#10;• Gli Intrattenitori perdono energia ad una percentuale di velocità minore."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Entitled" translation="Quando gli Intrattenitori sono impostati su Titolato:&#10;&#10;• Gli Intrattenitori richiedono più denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Fatigued" translation="Quando gli Intrattenitori sono impostati su Stanco:&#10;&#10;• Gli Intrattenitori perdono energia ad una percentuale di velocità maggiore."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Grateful" translation="Quando gli Intrattenitori sono impostati su Riconoscente:&#10;&#10;• Gli Intrattenitori richiedono meno denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Hard" translation="Quando gli Intrattenitori sono impostati su Difficile:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori fanno lunghe pause tra le performances.&#10;• Gli Intrattenitori sono oberati di lavoro anche con carichi di lavoro bassi.&#10;• Gli Intrattenitori si stancano velocemente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Lazy" translation="Quando gli Intrattenitori sono impostati su Pigro:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori fanno pause molto lunghe tra le performances."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Passionate" translation="Quando gli Intrattenitori sono impostati su Appassionato:&#10;&#10;• Gli Intrattenitori aumentano la felicità dei visitatori più del normale.&#10;• Gli Intrattenitori divertono più visitatori alla volta."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Stressed" translation="Quando gli Intrattenitori sono impostati su Stressato:&#10;&#10;• Gli Intrattenitori sono oberati di lavoro anche con piccoli carichi di lavoro."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I benefici dell'edificio Staff hanno un effetto ridotto.&#10;• Lo staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Apathetic" translation="Quando gli Spazzini sono impostati su Apatico:&#10;&#10;• Gli Spazzini sono più lenti a svolgere le mansioni."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Default" translation="Quando gli Spazzini sono impostati su Predefinito:&#10;&#10;• Normale durata del lavoro.&#10;• Normale velocità nel parco.&#10;• Normali richieste di salario.&#10;• Normali livelli di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Easy" translation="Quando gli Spazzini sono impostati su Facile:&#10;&#10;• I cestini sono più capienti.&#10;• Gli Spazzini sono più veloci a svolgere le mansioni.&#10;• Gli Spazzini possono sopportare più carico di lavoro.&#10;• Gli Spazzini non si stancano facilmente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Energetic" translation="Quando gli Spazzini sono impostati su Energico:&#10;&#10;• Gli Spazzini perdono energia ad una percentuale di velocità minore."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Entitled" translation="Quando gli Spazzini sono impostati su Titolato:&#10;&#10;• Gli Spazzini richiedono più denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Fatigued" translation="Quando gli Spazzini sono impostati su to Stanco:&#10;&#10;• Gli Spazzini perdono energia ad una percentuale di velocità maggiore."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Grateful" translation="Quando gli Spazzini sono impostati su Riconoscente:&#10;&#10;• Gli Spazzini richiedono meno denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Hard" translation="Quando gli Spazzini sono impostati su Difficile:&#10;&#10;• I cestini hanno una capacità minore.&#10;• Gli Spazzini non sono molto veloci a svolgere i compiti.&#10;• Gli Spazzini sono oberati di lavoro anche con carichi di lavoro bassi.&#10;• Gli Spazzini si stancano velocemente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Lazy" translation="Quando gli Spazzini sono impostati su Pigro:&#10;&#10;• Meno efficaci nella pulizia delle toilettes.&#10;• Più lenti a svolgere i compiti.&#10;• Velocità di movimento rallentata."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Passionate" translation="Quando gli Spazzini sono impostati su Appassionato:&#10;&#10;• Gli spazzini svolgono i compiti più velocemente.&#10;• Gli spazzini si muovono per il parco più velocemente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Stressed" translation="Quando gli Spazzini sono sono impostati su Stressato:&#10;&#10;• Gli Spazzini sono oberati di lavoro anche con piccoli carichi di lavoro."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Apathetic" translation="Quando i Manutentori sono impostati su Apatico:&#10;&#10;• I Manutentori non incrementano la durabilità delle attrazioni come normale.&#10;• I Manutentori sono più veloci a svolgere le mansioni."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Default" translation="Quando i Manutentori sono impostati su Predefinito:&#10;&#10;• Durata Ispezioni/Rinnovi/Riparazioni normale.&#10;• Durata miglioramento normale.&#10;• Livello prevenzione rotture normale.&#10;• Velocità di spostamento per il parco normale.&#10;• Paga e livelli energia normali."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Easy" translation="Quando i Manutentori sono impostati su Facile:&#10;&#10;• Diminuisce soglia di rottura.&#10;• I Manutentori sono più veloci a svolgere le mansioni.&#10;• I Manutentori si spostano per il parco più velocemente.&#10;• I Manutentori possono sopportare più carico di lavoro.&#10;• I Manutentori non si stancano facilmente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Energetic" translation="Quando i Manutentori sono impostati su Energico:&#10;&#10;• I Manutentori perdono energia ad un tasso ridotto."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Entitled" translation="Quando i Manutentori sono impostati su Titolato:&#10;&#10;• I Manutentori richiedono più denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Fatigued" translation="Quando i Manutentori sono impostati su to Stanco:&#10;&#10;• I Manutentori perdono energia ad un tasso aumentato."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Grateful" translation="Quando i Manutentori sono impostati su Riconoscente:&#10;&#10;• I Manutentori richiedono meno denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Hard" translation="Quando i Manutentori sono impostati su Difficile:&#10;&#10;• Aumenta soglia di rottura.&#10;• I Manutentori non sono così veloci a svolgere le mansioni.&#10;• I Manutentori si spostano per il parco più lentamente.&#10;• I Manutentori sono oberati di lavoro anche con carichi di lavoro bassi.&#10;• I Manutentori si stancano velocemente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Lazy" translation="Quando i Manutentori sono impostati su Pigro:&#10;&#10;• Più lenti a svolgere le mansioni.&#10;• Velocità di movimento più bassa."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Passionate" translation="Quando i Manutentori sono impostati su Appassionato:&#10;&#10;• I Manutentori sono più veloci a svolgere le mansioni.&#10;• I Manutentori hanno un effetto maggiore sulla durabilità delle attrazioni."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Mechanic_Stressed" translation="Quando i Manutentori sono impostati su Stressato:&#10;&#10;• I Manutentori sono oberati di lavoro anche con carichi di lavoro bassi."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Overtime" translation="Impostazioni Staff in straordinario:&#10;• Lo Staff ha bisogno di meno energia per lasciare l'edificio Staff.&#10;• Lo Staff smette di lavorare al 1% di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Apathetic" translation="Quando le Guardie di Sicurezza sono impostate su Apatico:&#10;&#10;• Le Guardie di Sicurezza hanno meno possibilità di rilevare borseggi dalle segnalazioni.&#10;• Le Guardie di Sicurezza hanno un raggio di rilevamento dei crimini ridotto."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_BlindEye" translation="Quando le Guardie di Sicurezza sono impostate su Guercio:&#10;&#10;• Le Guardie di Sicurezza hanno un raggio di rilevamento ridotto."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Default" translation="Quando le Guardie di Sicurezza sono impostate su Predefinito&#10;&#10;• Possibilità di rilevamento segalazioni normali.&#10;• Raggio di rilevamento normale.&#10;• Velocità di corsa e di spostamneto per il parco normali.&#10;• Normale capacità di sopportare il carico di lavoro.&#10;• Richieste di salario e livelli di energia normali."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Easy" translation="Quando le Guardie di Sicurezza sono impostate su Facile:&#10;&#10;• Le Guardie di Sicurezza hanno un raggio di rilevamento dei crimini aumentato.&#10;• Le Guardie di Sicurezza sono più veloci quando inseguono.&#10;• Le Guardie di Sicurezza possono sopportare più carico di lavoro.&#10;• Le Guardie di Sicurezza non si stancano facilmente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Energetic" translation="Quando le Guardie di Sicurezza sono impostate su Energico:&#10;&#10;• Le Guardie di Sicurezza perdono energia ad un tasso ridotto."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Entitled" translation="Quando le Guardie di Sicurezza sono impostate su Titolato:&#10;&#10;• Le Guardie di Sicurezza richiedono più denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Fatigued" translation="Quando le Guardie di Sicurezza sono impostate su Stanco:&#10;&#10;• Le Guardie di Sicurezza perdono energia ad un tasso aumentato."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Grateful" translation="Quando le Guardie di Sicurezza sono impostate su Riconoscente:&#10;&#10;• Le Guardie di Sicurezza richiedono meno denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Hard" translation="Quando le Guardie di Sicurezza sono impostate su Difficile:&#10;&#10;• Le Guardie di Sicurezza hanno un raggio di rilevamento dei crimini ridotto.&#10;• Le Guardie di Sicurezza non sono così veloci quando inseguono.&#10;• Le Guardie di Sicurezza sono oberate di lavoro anche con carichi di lavoro bassi.&#10;• Le Guardie di Sicurezza si stancano velocemente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Lazy" translation="Quando le Guardie di Sicurezza sono impostate su Pigro:&#10;&#10;• Corrono più lentamente.&#10;• Velocità di spostamento per il parco ridotta.&#10;• Si stancano più velocemente di correre e pattugliare."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Passionate" translation="Quando le Guardie di Sicurezza sono impostate su Appassionato:&#10;&#10;• Le Guardie di Sicurezza hanno più possibilità di scovare i criminali dalle segnalazioni.&#10;• Le Guardie di Sicurezza hanno un raggio di rilevamento dei crimini aumentato.&#10;• Le Guardie di Sicurezza si riprendono dalla corsa più velocemente.&#10;• Le Guardie di Sicurezza possono inseguire ad un tasso più elevato."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Security_Stressed" translation="Quando le Guardie di Sicurezza sono impostate su Stressato:&#10;&#10;• Le Guardie di Sicurezza sono oberate di lavoro anche con carichi di lavoro bassi."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Default" translation="Quando i Venditori sono impostati su Predefinito:&#10;&#10;• Velocità di servizio normale.&#10;• Effetto normale sulla felicità dei Visitatori.&#10;• Normale carico di lavoro prima che i Venditori si sentano stressati.&#10;• Richieste di salario normali.&#10;• Livelli di energia normali."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Easy" translation="Quando i Venditori sono impostati su Facile:&#10;&#10;• I Venditori possono sopportare più carico di lavoro.&#10;• I Venditori non si stancano facilmente.&#10;• I Venditori sono più veloci nel servire i Visitatori."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Energetic" translation="Quando i Venditori sono impostati su Energico:&#10;&#10;• I Venditori perdono energia ad un tasso ridotto."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Entitled" translation="Quando i Venditori sono impostati su Titolato:&#10;&#10;• I Venditori richiedono più denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Fast" translation="Quando i Venditori sono impostati su Veloce:&#10;&#10;• I Venditori servono più velocemente del normale."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Fatigued" translation="Quando i Venditori sono impostati su Stanco:&#10;&#10;• I Venditori perdono energia ad un tasso aumentato."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Grateful" translation="Quando i Venditori sono impostati su Riconoscente:&#10;&#10;• I Venditori richiedono meno denaro per essere felici."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Hard" translation="Quando i Venditori sono impostati su Difficile:&#10;&#10;• I Venditori si stancano facilmente.&#10;• I Venditori sono oberati di lavoro anche con carichi di lavoro bassi.&#10;• I Venditori non sono così veloci a servire i Visitatori."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Lazy" translation="Quando i Venditori sono impostati su Pigro:&#10;&#10;• Velocità di servizio minore."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Passionate" translation="Quando i Venditori sono impostati su Appassionato:&#10;&#10;• I Venditori servono i Visitatori velocemente.&#10;• I Venditori hanno un effetto positivo incrementato sulla felicità dei Visitatori."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_Stressed" translation="Quando i Venditori sono impostati su Stressato:&#10;&#10;• I Venditori sono oberati di lavoro anche con carichi di lavoro bassi."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Vendor_WorkBot" translation="Quando i Venditori sono impostati su Automa:&#10;&#10;• I Venditori non hanno effetto sulla felicità dei Visitatori.&#10;• I Venditori  servono i Visitatori velocemente."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_WorkAverse" translation="Impostazioni Staff fannullone&#10;• E' necessario un livello di energia maggiore prima che lo Staff cominci a lavorare.&#10;• Lo Staff perde più energia a svolgere determinate mansioni.&#10;• Lo Staff smette di lavorare al 25% di energia."/>
 		<entry key="ScenarioEditor_Staff_Profile_Apathetic" translation="Apatico"/>
 		<entry key="ScenarioEditor_Staff_Profile_BlindEye" translation="Guercio"/>
 		<entry key="ScenarioEditor_Staff_Profile_Commercial" translation="Commerciale"/>
 		<entry key="ScenarioEditor_Staff_Profile_Default" translation="Predefinito"/>
-		<entry key="ScenarioEditor_Staff_Profile_Easy" translation="Semplice"/>
+		<entry key="ScenarioEditor_Staff_Profile_Easy" translation="Facile"/>
 		<entry key="ScenarioEditor_Staff_Profile_Energetic" translation="Energico"/>
 		<entry key="ScenarioEditor_Staff_Profile_Entitled" translation="Titolato"/>
 		<entry key="ScenarioEditor_Staff_Profile_Fast" translation="Veloce"/>
@@ -5626,26 +5626,26 @@
 		<entry key="ScenarioEditor_Tab_Staff_ToolTip" translation="Staff"/>
 		<entry key="ScenarioEditor_Title" translation="Editor Scenario"/>
 		<!--C4_Scenery-->
-		<entry key="BuildingPartDesc_FT_BN_01" translation="Decorative painted wood bench.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_BN_02" translation="Elegant carved wood bench.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_CN_01" translation="Decorative painted wood canopy.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_CN_02" translation="Ornate glass and iron canopy.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_PN_01" translation="Decorative painted wood table and benches.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_PN_02" translation="Elegant carved wood table and benches.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_HOL_CN_01" translation="Striped umbrella for picnic tables.&#10;Holiday Theme"/>
-		<entry key="BuildingPartDesc_HOL_PN_01" translation="Which sweet seat is the most comfortable?&#10;Holiday Theme"/>
-		<entry key="BuildingPartDesc_PC_BN_02" translation="Metal mesh bench.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_Barrier1M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Barrier2M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Barrier4M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_CN_01" translation="Custom canopy for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Custom canopy for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_CN_02" translation="Umbrella for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_CN_03" translation="Striped umbrella for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_Kerb1M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Kerb2M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Kerb4M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_PN_02" translation="Metal mesh table and benches.&#10;Planet Coaster Theme"/>
+		<entry key="BuildingPartDesc_FT_BN_01" translation="Panca decorativa dipinta in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_BN_02" translation="Panca elegante intagliata in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_01" translation="Tettuccio decorativo dipinto in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_02" translation="Tettuccio ornato in vetro e ferro.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_PN_01" translation="Tavolo e panche decorativi dipinti in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_PN_02" translation="Tavolo e panca elegannti intagliati in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_HOL_CN_01" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_PN_01" translation="Quale dolce seduta è la più confortevole?&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_PC_BN_02" translation="Tavolo in metallo.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Barrier1M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Barrier2M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Barrier4M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_CN_01" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_02" translation="Ombrellone per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_03" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Kerb1M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Kerb2M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Kerb4M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_PN_02" translation="Tavolo e panche in metallo.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_PicnicTable" translation="Painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
 		<entry key="BuildingPartDesc_PC_PicnicTable_Circular" translation="Circular painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
 		<entry key="BuildingPartDesc_PC_PicnicTable_Modern" translation="A modern varnished wood bench.&#10;Planet Coaster Theme"/>
@@ -5665,10 +5665,10 @@
 		<entry key="BuildingPartName_FT_BN_02" translation="Fairytale Picnic Bench 2"/>
 		<entry key="BuildingPartName_FT_CN_01" translation="Fairytale Picnic Canopy 1"/>
 		<entry key="BuildingPartName_FT_CN_02" translation="Fairytale Picnic Canopy 2"/>
-		<entry key="BuildingPartName_FT_PN_01" translation="Fairytale Picnic Table 1"/>
-		<entry key="BuildingPartName_FT_PN_02" translation="Fairytale Picnic Table 2"/>
+		<entry key="BuildingPartName_FT_PN_01" translation="Fairytale Tavolo Picnic 1"/>
+		<entry key="BuildingPartName_FT_PN_02" translation="Fairytale Tavolo Picnic 2"/>
 		<entry key="BuildingPartName_HOL_CN_01" translation="Holiday Picnic Umbrella"/>
-		<entry key="BuildingPartName_HOL_PN_01" translation="Holiday Picnic Table"/>
+		<entry key="BuildingPartName_HOL_PN_01" translation="Holiday Tavolo Picnic"/>
 		<entry key="BuildingPartName_PC_BN_02" translation="Picnic Bench 2"/>
 		<entry key="BuildingPartName_PC_Barrier1M" translation="1 Metre Barrier"/>
 		<entry key="BuildingPartName_PC_Barrier2M" translation="2 Metre Barrier"/>
@@ -5680,22 +5680,22 @@
 		<entry key="BuildingPartName_PC_Kerb1M" translation="1 Metre Kerb"/>
 		<entry key="BuildingPartName_PC_Kerb2M" translation="2 Metre Kerb"/>
 		<entry key="BuildingPartName_PC_Kerb4M" translation="4 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_PN_02" translation="Picnic Table 2"/>
-		<entry key="BuildingPartName_PC_PicnicTable" translation="Picnic Table 1"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Picnic Table Circular"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Picnic Table Modern"/>
+		<entry key="BuildingPartName_PC_PN_02" translation="Tavolo Picnic 2"/>
+		<entry key="BuildingPartName_PC_PicnicTable" translation="Tavolo Picnic 1"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Tavolo Picnic Circular"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Tavolo Picnic Modern"/>
 		<entry key="BuildingPartName_PC_StaffBuilding" translation="Staff Building"/>
 		<entry key="BuildingPartName_PR_BN_01" translation="Pirate Picnic Bench"/>
 		<entry key="BuildingPartName_PR_CN_01" translation="Pirate Picnic Canopy"/>
-		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Picnic Table"/>
+		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Tavolo Picnic"/>
 		<entry key="BuildingPartName_SF_BN_01" translation="Sci-fi Picnic Bench"/>
 		<entry key="BuildingPartName_SF_CN_01" translation="Sci-fi Picnic Canopy"/>
-		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Picnic Table"/>
+		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Tavolo Picnic"/>
 		<entry key="BuildingPartName_SP_BN_01" translation="Spooky Picnic Bench"/>
-		<entry key="BuildingPartName_SP_PN_01" translation="Spooky Picnic Table"/>
+		<entry key="BuildingPartName_SP_PN_01" translation="Spooky Tavolo Picnic"/>
 		<entry key="BuildingPartName_WS_BN_01" translation="Western Picnic Bench"/>
 		<entry key="BuildingPartName_WS_CN_01" translation="Western Picnic Canopy"/>
-		<entry key="BuildingPartName_WS_PN_01" translation="Western Picnic Table"/>
+		<entry key="BuildingPartName_WS_PN_01" translation="Western Tavolo Picnic"/>
 		<!--C4_Staff-->
 		<entry key="InfoPanel_StaffBuilding_ActivePerk" translation="Active Perk"/>
 		<entry key="InfoPanel_StaffBuilding_CantAffordChanges" translation="Cannot afford staff building changes"/>
@@ -16126,7 +16126,7 @@
 		<entry key="BuildingPartName_AD_Mummy_Rise" translation="Tomb Mummy Rise"/>
 		<entry key="BuildingPartName_AD_Mummy_Slump" translation="Tomb Mummy Slump"/>
 		<entry key="BuildingPartName_AD_Mummy_Walk" translation="Tomb Mummy Walking"/>
-		<entry key="BuildingPartName_AD_PicnicTable" translation="Adventure Picnic Table"/>
+		<entry key="BuildingPartName_AD_PicnicTable" translation="Adventure Tavolo Picnic"/>
 		<entry key="BuildingPartName_AD_Plane" translation="Biplane Aircraft"/>
 		<entry key="BuildingPartName_AD_Plane_BentPropeller" translation="Biplane Propeller Bent"/>
 		<entry key="BuildingPartName_AD_Plane_Hull" translation="Biplane Aircraft Hull"/>
@@ -19931,10 +19931,10 @@
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_03" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_04" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_plinth" translation="Estremamente resistente.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_01" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_02" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WaterTrough_Stone" translation="Parzialmente ricoperto di vegetazione.\nTema Fantasy"/>
@@ -20354,7 +20354,7 @@
 		<entry key="BuildingPartDesc_WS_Anvil" translation="Ferro caldo.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_01" translation="Pronto per il bestiame.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_Deco_01" translation="Yee haw!&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WS_Band" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_WS_Belt" translation="Per chi ha bisogno di spostarsi velocemente.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Refined" translation="Vecchio ma ben curato.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Rustic" translation="Messo insieme con robuste tavole.&#10;Tema Western"/>
