@@ -206,7 +206,7 @@
 		<entry key="Blueprints_FairyShortTowerDesc" translation="Una piccola, tozza torre per i maghi."/>
 		<entry key="Blueprints_FairySmallEnt" translation="Piccola entrata fiabesca"/>
 		<entry key="Blueprints_FairySmallEntDesc" translation="Ispirata al mondo delle fiabe, questa entrata sarà il perfetto ingresso al vostro mondo della fantasia."/>
-		<entry key="Blueprints_FairyThemedShops" translation="Negozi a tema Fiabesco"/>
+		<entry key="Blueprints_FairyThemedShops" translation="Negozi a Tema Fantasy"/>
 		<entry key="Blueprints_FairyThemedShopsDesc" translation="A quanto pare la Principessa adora fare shopping qui intorno."/>
 		<entry key="Blueprints_FairyToilets" translation="Blocco di Bagni fiabeschi"/>
 		<entry key="Blueprints_FairyToiletsDesc" translation="A quanto pare Il Re e la Regina ne hanno uno all'interno del loro castello.Ma solo uno."/>
@@ -3087,8 +3087,8 @@
 		<entry key="Blueprints_HOL_FestiveSceneDesc" translation="Un amorevole e festoso momento."/>
 		<entry key="Blueprints_HOL_FestiveShopping" translation="Area shopping festosa"/>
 		<entry key="Blueprints_HOL_FestiveShoppingDesc" translation="Piena di spirito festoso!"/>
-		<entry key="Blueprints_HOL_FestiveThemed" translation="Negozi a tema Festoso"/>
-		<entry key="Blueprints_HOL_FestiveThemed02" translation="Negozi a tema Festoso 2"/>
+		<entry key="Blueprints_HOL_FestiveThemed" translation="Negozi a tema Festivo"/>
+		<entry key="Blueprints_HOL_FestiveThemed02" translation="Negozi a tema Festivo 2"/>
 		<entry key="Blueprints_HOL_FestiveThemed02Desc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveThemedDesc" translation="Piena di spirito festoso!"/>
 		<entry key="Blueprints_HOL_FestiveToilet" translation="Bagni Festosi"/>
@@ -4040,34 +4040,34 @@
 		<entry key="BuildingPartDesc_FAD_PizzaPenSwingSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenVerticalSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenWoodenSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
-		<entry key="BuildingPartDesc_FT_1M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_2M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_2M_Fence_03" translation="Recinto fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Band" translation="Uno spettacolo teatrale musicale.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Canopy_01" translation="Tettoia Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Canopy_02" translation="Tettoia Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Canopy_03" translation="Tettoia Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Chain_Attachment_Point" translation="Punto aggancio catena.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Chains_Curve_4m" translation="Catena Curva.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Chains_Straight_4m" translation="Catena Dritta.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_CoasterDoor_01" translation="Cancello per l'avventura.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone" translation="Pilastro Rituale.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone_Cap" translation="Tetto Pilastro Rituale.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone_horizontal_column" translation="Colonna di Pietra incisa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Cornerstone_vertical_column" translation="Colonna di Pietra incisa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fascia_01" translation="Fascia.Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fascia_02" translation="Fascia.Fiabesca.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fence_2m" translation="Recinto Fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Fence_4m" translation="Recinto Fiabesco.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Palace_Archway" translation="Arcata del Palazzo ornata in pietra.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Curve_2m" translation="Corda curva.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Curve_4m" translation="Corda curva.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Hanging_2m" translation="Corda appesa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Hanging_4m" translation="Corda appesa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Straight_2m" translation="Corda dritta.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_Rope_Straight_4m" translation="Corda dritta.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_StoneArchway" translation="Un arcata di pietra elegante.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_TreeArchway" translation="Arcata di tronchi di legno illuminata.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_1M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_2M_Fence_02" translation="Recinto fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_2M_Fence_03" translation="Recinto fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Band" translation="Uno spettacolo teatrale musicale.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Canopy_01" translation="Tettoia Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Canopy_02" translation="Tettoia Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Canopy_03" translation="Tettoia Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Chain_Attachment_Point" translation="Punto aggancio catena.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Chains_Curve_4m" translation="Catena Curva.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Chains_Straight_4m" translation="Catena Dritta.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CoasterDoor_01" translation="Cancello per l'avventura.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone" translation="Pilastro Rituale.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone_Cap" translation="Tetto Pilastro Rituale.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone_horizontal_column" translation="Colonna di Pietra incisa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Cornerstone_vertical_column" translation="Colonna di Pietra incisa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fascia_01" translation="Fascia.Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fascia_02" translation="Fascia.Fiabesca.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fence_2m" translation="Recinto Fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Fence_4m" translation="Recinto Fiabesco.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Palace_Archway" translation="Arcata del Palazzo ornata in pietra.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Curve_2m" translation="Corda curva.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Curve_4m" translation="Corda curva.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Hanging_2m" translation="Corda appesa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Hanging_4m" translation="Corda appesa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Straight_2m" translation="Corda dritta.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Rope_Straight_4m" translation="Corda dritta.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_StoneArchway" translation="Un arcata di pietra elegante.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_TreeArchway" translation="Arcata di tronchi di legno illuminata.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_HOL_Snowman_Coal" translation="Non tutti amano i regali.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_StandardPinkWafer" translation="Zucchero delizioso.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_Wreath_Straight" translation="Una tradizione festiva.&#10;Tema Festivo"/>
@@ -4978,9 +4978,9 @@
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_2m" translation="Schermo TV."/>
 		<entry key="BuildingPartDesc_PC_IMG_Screen_Wide_4m" translation="Schermo TV."/>
 		<entry key="BuildingPartDesc_Steel_Vengance_Sign" translation="Insegna ufficiale Cedar Point per la montagna russa Steel Vengeance."/>
-		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band_Bar" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_WS_Band_Piano" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_WS_Band_Stage" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartName_CP_Cedar_Point_Sign" translation="Insegna Ufficiale di Cedar Point"/>
 		<entry key="BuildingPartName_CP_Cedar_Point_Sign_Large" translation="Insegna Grande Ufficiale di Cedar Point"/>
 		<entry key="BuildingPartName_FWK_Firework_CatherineWheel" translation="Fuoco d'artificio Ruota di Catherine"/>
@@ -5100,9 +5100,9 @@
 		<entry key="Blueprints_Cascade01" translation="The Acropolis"/>
 		<entry key="Blueprints_Cascade01Desc" translation="Uno schema per il coaster Cascade"/>
 		<entry key="Blueprints_FT_EntranceSmall01" translation="Entrata Parco Mercato Fatato"/>
-		<entry key="Blueprints_FT_EntranceSmall01Desc" translation="Ispirata al tema fiabesco questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
+		<entry key="Blueprints_FT_EntranceSmall01Desc" translation="Ispirata al Tema Fantasy questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
 		<entry key="Blueprints_FT_Gateway" translation="Entrata Parco Castello Fatato"/>
-		<entry key="Blueprints_FT_GatewayDesc" translation="Ispirata al tema fiabesco questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
+		<entry key="Blueprints_FT_GatewayDesc" translation="Ispirata al Tema Fantasy questa entrata del parco farà da ottimo igresso per la tua terra fantastica."/>
 		<entry key="Blueprints_FT_StaffBuilding" translation="Edificio Staff Fiabesco"/>
 		<entry key="Blueprints_FT_StaffBuildingDesc" translation="Un comodo e rustico edificio per lo staff."/>
 		<entry key="Blueprints_FestiveLarge03" translation="Casa Festosa - Grande 3"/>
@@ -5607,7 +5607,7 @@
 		<entry key="ScenarioEditor_Staff_StaffProfile" translation="Profilo Staff"/>
 		<entry key="ScenarioEditor_Staff_TypeSettingsDescription" translation="Queste impostazioni cambieranno il comportamento dello Staff in base alla tipologia."/>
 		<entry key="ScenarioEditor_Staff_TypeSettingsHeader" translation="Impostazioni specifiche per tipologia Staff"/>
-		<entry key="ScenarioEditor_Staff_I VenditoriHeader" translation="Venditori"/>
+		<entry key="ScenarioEditor_Staff_VendorsHeader" translation="Venditori"/>
 		<entry key="ScenarioEditor_Tab_Crime" translation="Crimine"/>
 		<entry key="ScenarioEditor_Tab_Crime_ToolTip" translation="Crimine"/>
 		<entry key="ScenarioEditor_Tab_Finances" translation="Economia"/>
@@ -5626,26 +5626,26 @@
 		<entry key="ScenarioEditor_Tab_Staff_ToolTip" translation="Staff"/>
 		<entry key="ScenarioEditor_Title" translation="Editor Scenario"/>
 		<!--C4_Scenery-->
-		<entry key="BuildingPartDesc_FT_BN_01" translation="Decorative painted wood bench.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_BN_02" translation="Elegant carved wood bench.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_CN_01" translation="Decorative painted wood canopy.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_CN_02" translation="Ornate glass and iron canopy.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_PN_01" translation="Decorative painted wood table and benches.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_FT_PN_02" translation="Elegant carved wood table and benches.&#10;Fairytale Theme"/>
-		<entry key="BuildingPartDesc_HOL_CN_01" translation="Striped umbrella for picnic tables.&#10;Holiday Theme"/>
-		<entry key="BuildingPartDesc_HOL_PN_01" translation="Which sweet seat is the most comfortable?&#10;Holiday Theme"/>
-		<entry key="BuildingPartDesc_PC_BN_02" translation="Metal mesh bench.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_Barrier1M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Barrier2M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Barrier4M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_CN_01" translation="Custom canopy for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Custom canopy for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_CN_02" translation="Umbrella for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_CN_03" translation="Striped umbrella for picnic tables.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_Kerb1M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Kerb2M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_Kerb4M" translation="Influences guest movement."/>
-		<entry key="BuildingPartDesc_PC_PN_02" translation="Metal mesh table and benches.&#10;Planet Coaster Theme"/>
+		<entry key="BuildingPartDesc_FT_BN_01" translation="Panca decorativa dipinta in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_BN_02" translation="Panca elegante intagliata in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_01" translation="Tettuccio decorativo dipinto in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_02" translation="Tettuccio ornato in vetro e ferro.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_PN_01" translation="Tavolo e panche decorativi dipinti in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_PN_02" translation="Tavolo e panca elegannti intagliati in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_HOL_CN_01" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_HOL_PN_01" translation="Quale dolce seduta è la più confortevole?&#10;Tema Festivo"/>
+		<entry key="BuildingPartDesc_PC_BN_02" translation="Tavolo in metallo.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Barrier1M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Barrier2M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Barrier4M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_CN_01" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_02" translation="Ombrellone per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_03" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_Kerb1M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Kerb2M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_Kerb4M" translation="Influisce sul movimento dei Visitatori."/>
+		<entry key="BuildingPartDesc_PC_PN_02" translation="Tavolo e panche in metallo.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_PicnicTable" translation="Painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
 		<entry key="BuildingPartDesc_PC_PicnicTable_Circular" translation="Circular painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
 		<entry key="BuildingPartDesc_PC_PicnicTable_Modern" translation="A modern varnished wood bench.&#10;Planet Coaster Theme"/>
@@ -5665,10 +5665,10 @@
 		<entry key="BuildingPartName_FT_BN_02" translation="Fairytale Picnic Bench 2"/>
 		<entry key="BuildingPartName_FT_CN_01" translation="Fairytale Picnic Canopy 1"/>
 		<entry key="BuildingPartName_FT_CN_02" translation="Fairytale Picnic Canopy 2"/>
-		<entry key="BuildingPartName_FT_PN_01" translation="Fairytale Picnic Table 1"/>
-		<entry key="BuildingPartName_FT_PN_02" translation="Fairytale Picnic Table 2"/>
+		<entry key="BuildingPartName_FT_PN_01" translation="Fairytale Tavolo Picnic 1"/>
+		<entry key="BuildingPartName_FT_PN_02" translation="Fairytale Tavolo Picnic 2"/>
 		<entry key="BuildingPartName_HOL_CN_01" translation="Holiday Picnic Umbrella"/>
-		<entry key="BuildingPartName_HOL_PN_01" translation="Holiday Picnic Table"/>
+		<entry key="BuildingPartName_HOL_PN_01" translation="Holiday Tavolo Picnic"/>
 		<entry key="BuildingPartName_PC_BN_02" translation="Picnic Bench 2"/>
 		<entry key="BuildingPartName_PC_Barrier1M" translation="1 Metre Barrier"/>
 		<entry key="BuildingPartName_PC_Barrier2M" translation="2 Metre Barrier"/>
@@ -5680,22 +5680,22 @@
 		<entry key="BuildingPartName_PC_Kerb1M" translation="1 Metre Kerb"/>
 		<entry key="BuildingPartName_PC_Kerb2M" translation="2 Metre Kerb"/>
 		<entry key="BuildingPartName_PC_Kerb4M" translation="4 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_PN_02" translation="Picnic Table 2"/>
-		<entry key="BuildingPartName_PC_PicnicTable" translation="Picnic Table 1"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Picnic Table Circular"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Picnic Table Modern"/>
+		<entry key="BuildingPartName_PC_PN_02" translation="Tavolo Picnic 2"/>
+		<entry key="BuildingPartName_PC_PicnicTable" translation="Tavolo Picnic 1"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Tavolo Picnic Circular"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Tavolo Picnic Modern"/>
 		<entry key="BuildingPartName_PC_StaffBuilding" translation="Staff Building"/>
 		<entry key="BuildingPartName_PR_BN_01" translation="Pirate Picnic Bench"/>
 		<entry key="BuildingPartName_PR_CN_01" translation="Pirate Picnic Canopy"/>
-		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Picnic Table"/>
+		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Tavolo Picnic"/>
 		<entry key="BuildingPartName_SF_BN_01" translation="Sci-fi Picnic Bench"/>
 		<entry key="BuildingPartName_SF_CN_01" translation="Sci-fi Picnic Canopy"/>
-		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Picnic Table"/>
+		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Tavolo Picnic"/>
 		<entry key="BuildingPartName_SP_BN_01" translation="Spooky Picnic Bench"/>
-		<entry key="BuildingPartName_SP_PN_01" translation="Spooky Picnic Table"/>
+		<entry key="BuildingPartName_SP_PN_01" translation="Spooky Tavolo Picnic"/>
 		<entry key="BuildingPartName_WS_BN_01" translation="Western Picnic Bench"/>
 		<entry key="BuildingPartName_WS_CN_01" translation="Western Picnic Canopy"/>
-		<entry key="BuildingPartName_WS_PN_01" translation="Western Picnic Table"/>
+		<entry key="BuildingPartName_WS_PN_01" translation="Western Tavolo Picnic"/>
 		<!--C4_Staff-->
 		<entry key="InfoPanel_StaffBuilding_ActivePerk" translation="Active Perk"/>
 		<entry key="InfoPanel_StaffBuilding_CantAffordChanges" translation="Cannot afford staff building changes"/>
@@ -16126,7 +16126,7 @@
 		<entry key="BuildingPartName_AD_Mummy_Rise" translation="Tomb Mummy Rise"/>
 		<entry key="BuildingPartName_AD_Mummy_Slump" translation="Tomb Mummy Slump"/>
 		<entry key="BuildingPartName_AD_Mummy_Walk" translation="Tomb Mummy Walking"/>
-		<entry key="BuildingPartName_AD_PicnicTable" translation="Adventure Picnic Table"/>
+		<entry key="BuildingPartName_AD_PicnicTable" translation="Adventure Tavolo Picnic"/>
 		<entry key="BuildingPartName_AD_Plane" translation="Biplane Aircraft"/>
 		<entry key="BuildingPartName_AD_Plane_BentPropeller" translation="Biplane Propeller Bent"/>
 		<entry key="BuildingPartName_AD_Plane_Hull" translation="Biplane Aircraft Hull"/>
@@ -19931,10 +19931,10 @@
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_03" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_04" translation="Set di Vasi e Pentole\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_VasesAndPots_Palace_plinth" translation="Estremamente resistente.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
-		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Set di Vasi e Pentole&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_01" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_02" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_03" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_VasesAndPots_Witch_04" translation="Set di Vasi e Pentole&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_01" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WallPlanter_02" translation="Fiori in bella mostra.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_WaterTrough_Stone" translation="Parzialmente ricoperto di vegetazione.\nTema Fantasy"/>
@@ -20354,7 +20354,7 @@
 		<entry key="BuildingPartDesc_WS_Anvil" translation="Ferro caldo.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_01" translation="Pronto per il bestiame.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Arch_Deco_01" translation="Yee haw!&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WS_Band" translation="Spettacolo a comparsa.&#10;Tema Fiabesco"/>
+		<entry key="BuildingPartDesc_WS_Band" translation="Spettacolo a comparsa.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_WS_Belt" translation="Per chi ha bisogno di spostarsi velocemente.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Refined" translation="Vecchio ma ben curato.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WS_Bench_Rustic" translation="Messo insieme con robuste tavole.&#10;Tema Western"/>
