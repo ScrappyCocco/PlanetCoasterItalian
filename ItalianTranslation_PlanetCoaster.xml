@@ -5351,8 +5351,8 @@
 		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacità"/>
 		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Conferma: {Value:currency}"/>
 		<entry key="ParkManagement_StaffBuilding_ConfirmTooltipLabel" translation="Cambia Edificio Staff:"/>
-		<entry key="ParkManagement_StaffBuilding_Description" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati."/>
-		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati.&#10;La necessità per lo staff di prendere un pò d'aria  puà essere disabilitata nelle opzioni"/>
+		<entry key="ParkManagement_StaffBuilding_Description" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari Vantaggi possono essere selezionati e applicati."/>
+		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari Vantaggi possono essere selezionati e applicati.&#10;La necessità per lo staff di prendere un pò d'aria  può essere disabilitata nelle opzioni"/>
 		<entry key="ParkManagement_StaffBuilding_EnergyDisabledHeading" translation="Edificio Staff - Le caratteristiche di energia dello Staff sono disabilitate in questi parchi e gli edifici non verranno utilizzati."/>
 		<entry key="ParkManagement_StaffBuilding_EnergyDisabledNoItems" translation="Le caratteristiche di energia dello Staff sono disabilitate. Lo Staff non necessita di un Edificio Staff."/>
 		<entry key="ParkManagement_StaffBuilding_EnergyDisabledToolTip" translation="Le caratteristiche di energia dello Staff sono disabilitate in questo parco."/>
@@ -5521,8 +5521,8 @@
 		<entry key="ScenarioEditor_Staff_Off" translation="Off"/>
 		<entry key="ScenarioEditor_Staff_On" translation="On"/>
 		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Soglia di valutazione Parco sotto la quale diminuisce l'Energia Staff"/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I benefici dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I benefici dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I Vantaggi dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I Vantaggi dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Apathetic" translation="Quando gli intrattenitori sono impostati su Apatico:&#10;&#10;• Gli intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori divertono meno visitatori alla volta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Commercial" translation="Quando gli Intrattenitori sono impostati su Commerciale:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori divertono più visitatori alla volta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Default" translation="Quando gli Intrattenitori sono impostati su Predefinito:&#10;&#10;• Normale crescita della felicità per i visitatori.&#10;• Normale intervallo di tempo fra le performances.&#10;• Normale quantità di visitatori per performance.&#10;• Normale carico di lavoro prima che gli Intrattenitori diventino stressati.&#10;• Normale salario e livelli di energia."/>
@@ -5535,7 +5535,7 @@
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Lazy" translation="Quando gli Intrattenitori sono impostati su Pigro:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori fanno pause molto lunghe tra le performances."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Passionate" translation="Quando gli Intrattenitori sono impostati su Appassionato:&#10;&#10;• Gli Intrattenitori aumentano la felicità dei visitatori più del normale.&#10;• Gli Intrattenitori divertono più visitatori alla volta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Stressed" translation="Quando gli Intrattenitori sono impostati su Stressato:&#10;&#10;• Gli Intrattenitori sono oberati di lavoro anche con piccoli carichi di lavoro."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I benefici dell'edificio Staff hanno un effetto ridotto.&#10;• Lo staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I Vantaggi dell'edificio Staff hanno un effetto ridotto.&#10;• Lo staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Apathetic" translation="Quando gli Spazzini sono impostati su Apatico:&#10;&#10;• Gli Spazzini sono più lenti a svolgere le mansioni."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Default" translation="Quando gli Spazzini sono impostati su Predefinito:&#10;&#10;• Normale durata del lavoro.&#10;• Normale velocità nel parco.&#10;• Normali richieste di salario.&#10;• Normali livelli di energia."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Easy" translation="Quando gli Spazzini sono impostati su Facile:&#10;&#10;• I cestini sono più capienti.&#10;• Gli Spazzini sono più veloci a svolgere le mansioni.&#10;• Gli Spazzini possono sopportare più carico di lavoro.&#10;• Gli Spazzini non si stancano facilmente."/>
@@ -5998,20 +5998,20 @@
 		<entry key="CameraOptionsMenu_RotateFocus" translation="Rotazione"/>
 		<entry key="CameraOptionsMenu_RotateFocus_Centre" translation="Ruota al centro"/>
 		<entry key="CameraOptionsMenu_RotateFocus_Cursor" translation="Ruota sul mouse"/>
-		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Determina attorno a cosa ruota la camera."/>
+		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Determina attorno a cosa ruota la visuale."/>
 		<entry key="CameraOptionsMenu_SensitivityKey" translation="Sensibilità Tasti"/>
 		<entry key="CameraOptionsMenu_SensitivityLabel" translation="Sensibilità"/>
 		<entry key="CameraOptionsMenu_SensitivityMouse" translation="Sensibilità Mouse"/>
 		<entry key="CameraOptionsMenu_SensitivityWheel" translation="Sensibilità Zoom"/>
 		<entry key="CameraOptionsMenu_WindowTitle" translation="Visuale"/>
-		<entry key="CameraOptionsMenu_YAxisInvert_All" translation="Tutti"/>
+		<entry key="CameraOptionsMenu_YAxisInvert_All" translation="Tutte"/>
 		<entry key="CameraOptionsMenu_YAxisInvert_Freelook" translation="Solo Visuale Libera"/>
-		<entry key="CameraOptionsMenu_YAxisInvert_None" translation="Nessuno"/>
+		<entry key="CameraOptionsMenu_YAxisInvert_None" translation="Nessuna"/>
 		<entry key="CameraOptionsMenu_ZoomFocus" translation="Comportamento Zoom"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Centre" translation="Zoom al centro"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Cursor" translation="Zoom sul mouse"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Mixed" translation="Zoom misto"/>
-		<entry key="CameraOptionsMenu_ZoomFocus_ToolTip" translation="Determina dove si muove la camera mentre fai zoom dentro e fuori."/>
+		<entry key="CameraOptionsMenu_ZoomFocus_ToolTip" translation="Determina dove si muove la visuale mentre fai zoom dentro e fuori."/>
 		<!--Career-->
 		<entry key="FanfareCareerSetUnlocked_DEXR" translation="Sei in grado di domare la frontiera selvaggia?"/>
 		<entry key="FanfareCareerSetUnlocked_KNGC" translation="Re Coaster desidera mettere alla prova la tua famigerata abilità!"/>
@@ -15252,7 +15252,7 @@
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSlider" translation="Controlli Attrito Montagna Russa"/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSliderHint" translation="Mostra il controllo attrito della montagna russa nel pannello informazioni"/>
 		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrains" translation="Permetti più Vetture Intercambiabili sulle Montagne Russe"/>
-		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrainsHint" translation="Permette ad alcune vetture di essere intercambiate anche se utilizzano un'altro tracciato. Puà causare visual clipping ed errori alle tracce audio."/>
+		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrainsHint" translation="Permette ad alcune vetture di essere scambiate anche se utilizzano un'altro tracciato. Può causare visual clipping ed errori alle tracce audio."/>
 		<entry key="OptionsMenu_Graphics" translation="Grafica"/>
 		<entry key="OptionsMenu_GuestLitter" translation="Rifiuti dei Visitatori"/>
 		<entry key="OptionsMenu_GuestLitterHint" translation="I Visitatori getteranno rifiuti."/>
