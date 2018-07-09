@@ -5360,9 +5360,9 @@
 		<entry key="ParkManagement_StaffBuilding_MonthlyRunningCostHeading" translation="Costo Esercizio Mensile"/>
 		<entry key="ParkManagement_StaffBuilding_NameHeading" translation="Nome"/>
 		<entry key="ParkManagement_StaffBuilding_NoItems" translation="Non hai Edifici Staff"/>
-		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Costo Beneficio"/>
-		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Beneficio"/>
-		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Costo Vantaggio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Vantaggio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Vantaggio"/>
 		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff a Riposo"/>
 		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Stato"/>
 		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Costo Totale"/>
@@ -5628,133 +5628,133 @@
 		<!--C4_Scenery-->
 		<entry key="BuildingPartDesc_FT_BN_01" translation="Panca decorativa dipinta in legno.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_BN_02" translation="Panca elegante intagliata in legno.&#10;Tema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_CN_01" translation="Tettuccio decorativo dipinto in legno.&#10;Tema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_CN_02" translation="Tettuccio ornato in vetro e ferro.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_01" translation="Tettoia decorativa dipinta in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_02" translation="Tettoia ornata in vetro e ferro.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_PN_01" translation="Tavolo e panche decorativi dipinti in legno.&#10;Tema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_PN_02" translation="Tavolo e panca elegannti intagliati in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_PN_02" translation="Tavolo e panca eleganti intagliati in legno.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_HOL_CN_01" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_PN_01" translation="Quale dolce seduta è la più confortevole?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_PC_BN_02" translation="Tavolo in metallo.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Barrier1M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Barrier2M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Barrier4M" translation="Influisce sul movimento dei Visitatori."/>
-		<entry key="BuildingPartDesc_PC_CN_01" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_01" translation="Tettoia personalizzata per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Tettoia personalizzata per tavoli da picnic.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_CN_02" translation="Ombrellone per tavoli da picnic.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_CN_03" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Kerb1M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Kerb2M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Kerb4M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_PN_02" translation="Tavolo e panche in metallo.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_PicnicTable" translation="Painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_PicnicTable_Circular" translation="Circular painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_PicnicTable_Modern" translation="A modern varnished wood bench.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_StaffBuilding" translation="A building needed for staff to rest in.&#10;Facility"/>
-		<entry key="BuildingPartDesc_PR_BN_01" translation="X Marks the spot!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_PR_CN_01" translation="Sail on the horizon captain!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_PR_PN_01" translation="X Marks the spot!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_SF_BN_01" translation="Advanced temperature controlled picnic seating.&#10;Sci-Fi Theme"/>
-		<entry key="BuildingPartDesc_SF_CN_01" translation="Advanced materials for maximum shelter.&#10;Sci-Fi Theme"/>
-		<entry key="BuildingPartDesc_SF_PN_01" translation="Advanced temperature controlled picnic seating.&#10;Sci-Fi Theme"/>
-		<entry key="BuildingPartDesc_SP_BN_01" translation="Carved stone bench.&#10;Spooky Theme"/>
-		<entry key="BuildingPartDesc_SP_PN_01" translation="Carved stone picnic table and benches.&#10;Spooky Theme"/>
-		<entry key="BuildingPartDesc_WS_BN_01" translation="Authentic wood grain effect picnic bench.&#10;Western Theme"/>
-		<entry key="BuildingPartDesc_WS_CN_01" translation="Broad fabric picnic table canopy.&#10;Western Theme"/>
-		<entry key="BuildingPartDesc_WS_PN_01" translation="Authentic wood grain effect picnic table.&#10;Western Theme"/>
-		<entry key="BuildingPartName_FT_BN_01" translation="Fairytale Picnic Bench 1"/>
-		<entry key="BuildingPartName_FT_BN_02" translation="Fairytale Picnic Bench 2"/>
-		<entry key="BuildingPartName_FT_CN_01" translation="Fairytale Picnic Canopy 1"/>
-		<entry key="BuildingPartName_FT_CN_02" translation="Fairytale Picnic Canopy 2"/>
-		<entry key="BuildingPartName_FT_PN_01" translation="Fairytale Tavolo Picnic 1"/>
-		<entry key="BuildingPartName_FT_PN_02" translation="Fairytale Tavolo Picnic 2"/>
-		<entry key="BuildingPartName_HOL_CN_01" translation="Holiday Picnic Umbrella"/>
-		<entry key="BuildingPartName_HOL_PN_01" translation="Holiday Tavolo Picnic"/>
-		<entry key="BuildingPartName_PC_BN_02" translation="Picnic Bench 2"/>
-		<entry key="BuildingPartName_PC_Barrier1M" translation="1 Metre Barrier"/>
-		<entry key="BuildingPartName_PC_Barrier2M" translation="2 Metre Barrier"/>
-		<entry key="BuildingPartName_PC_Barrier4M" translation="4 Metre Barrier"/>
-		<entry key="BuildingPartName_PC_CN_01" translation="Custom Picnic Canopy"/>
-		<entry key="BuildingPartName_PC_CN_01_LIT" translation="Custom Picnic Canopy Lit"/>
-		<entry key="BuildingPartName_PC_CN_02" translation="Picnic Umbrella 1"/>
-		<entry key="BuildingPartName_PC_CN_03" translation="Picnic Umbrella 2"/>
-		<entry key="BuildingPartName_PC_Kerb1M" translation="1 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_Kerb2M" translation="2 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_Kerb4M" translation="4 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_PN_02" translation="Tavolo Picnic 2"/>
-		<entry key="BuildingPartName_PC_PicnicTable" translation="Tavolo Picnic 1"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Tavolo Picnic Circular"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Tavolo Picnic Modern"/>
-		<entry key="BuildingPartName_PC_StaffBuilding" translation="Staff Building"/>
-		<entry key="BuildingPartName_PR_BN_01" translation="Pirate Picnic Bench"/>
-		<entry key="BuildingPartName_PR_CN_01" translation="Pirate Picnic Canopy"/>
-		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Tavolo Picnic"/>
-		<entry key="BuildingPartName_SF_BN_01" translation="Sci-fi Picnic Bench"/>
-		<entry key="BuildingPartName_SF_CN_01" translation="Sci-fi Picnic Canopy"/>
-		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Tavolo Picnic"/>
-		<entry key="BuildingPartName_SP_BN_01" translation="Spooky Picnic Bench"/>
-		<entry key="BuildingPartName_SP_PN_01" translation="Spooky Tavolo Picnic"/>
-		<entry key="BuildingPartName_WS_BN_01" translation="Western Picnic Bench"/>
-		<entry key="BuildingPartName_WS_CN_01" translation="Western Picnic Canopy"/>
-		<entry key="BuildingPartName_WS_PN_01" translation="Western Tavolo Picnic"/>
+		<entry key="BuildingPartDesc_PC_PicnicTable" translation="Tavolo a stecche e panche dipinti in legno.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_PicnicTable_Circular" translation="Tavolo a stecche circolare e panche dipinti in legno.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_PicnicTable_Modern" translation="Una panca in legno moderna verniciata.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_StaffBuilding" translation="Un edificio necessario al riposo dello Staff.&#10;Struttura"/>
+		<entry key="BuildingPartDesc_PR_BN_01" translation="Scavare sulla X!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_CN_01" translation="Naviga verso l'orizzonte capitano!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_PN_01" translation="Scavare sulla X!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_SF_BN_01" translation="Sedili per picnic avveniristici a temperatura controllata.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_CN_01" translation="Materiali avveniristici per la massima copertura.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_PN_01" translation="Sedili per picnic avveniristici a temperatura controllata.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SP_BN_01" translation="Panca in pietra scavata.&#10;Tema Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_PN_01" translation="Tavolo da picnic e panche in pietra scavata.&#10;Tema Spaventoso"/>
+		<entry key="BuildingPartDesc_WS_BN_01" translation="Panca da picnic in autentico effetto legno.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WS_CN_01" translation="Tettoia per tavolo da picnic tessuta larga.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WS_PN_01" translation="Tavolo da picnic in autentico effetto legno.&#10;Tema Western"/>
+		<entry key="BuildingPartName_FT_BN_01" translation="Panca da Picnic Fantasy 1"/>
+		<entry key="BuildingPartName_FT_BN_02" translation="Panca da Picnic Fantasy 2"/>
+		<entry key="BuildingPartName_FT_CN_01" translation="Tettoia per Picnic Fantasy 1"/>
+		<entry key="BuildingPartName_FT_CN_02" translation="Tettoia per Picnic Fantasy 2"/>
+		<entry key="BuildingPartName_FT_PN_01" translation="Tavolo da Picnic Fantasy 1"/>
+		<entry key="BuildingPartName_FT_PN_02" translation="Tavolo da Picnic Fantasy 2"/>
+		<entry key="BuildingPartName_HOL_CN_01" translation="Ombrellone da Picnic Festivo"/>
+		<entry key="BuildingPartName_HOL_PN_01" translation="Tavolo da Picnic Festivo"/>
+		<entry key="BuildingPartName_PC_BN_02" translation="Panca da Picnic 2"/>
+		<entry key="BuildingPartName_PC_Barrier1M" translation="Barriera 1 Metro"/>
+		<entry key="BuildingPartName_PC_Barrier2M" translation="Barriera 2 Metri"/>
+		<entry key="BuildingPartName_PC_Barrier4M" translation="Barriera 4 Metri"/>
+		<entry key="BuildingPartName_PC_CN_01" translation="Tettoia per Picnic Personalizzata"/>
+		<entry key="BuildingPartName_PC_CN_01_LIT" translation="Tettoia per Picnic Personalizzata - Illuminata"/>
+		<entry key="BuildingPartName_PC_CN_02" translation="Ombrellone da Picnic 1"/>
+		<entry key="BuildingPartName_PC_CN_03" translation="Ombrellone da Picnic 2"/>
+		<entry key="BuildingPartName_PC_Kerb1M" translation="Cordone 1 Metro"/>
+		<entry key="BuildingPartName_PC_Kerb2M" translation="Cordone 2 Metri"/>
+		<entry key="BuildingPartName_PC_Kerb4M" translation="Cordone 4 Metri"/>
+		<entry key="BuildingPartName_PC_PN_02" translation="Tavolo da Picnic 2"/>
+		<entry key="BuildingPartName_PC_PicnicTable" translation="Tavolo da Picnic 1"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Tavolo da Picnic Circolare"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Tavolo da Picnic Moderno"/>
+		<entry key="BuildingPartName_PC_StaffBuilding" translation="Edificio Staff"/>
+		<entry key="BuildingPartName_PR_BN_01" translation="Panca da Picnic Pirata"/>
+		<entry key="BuildingPartName_PR_CN_01" translation="Tettoia per Picnic Pirata"/>
+		<entry key="BuildingPartName_PR_PN_01" translation="Tavolo da Picnic Pirata "/>
+		<entry key="BuildingPartName_SF_BN_01" translation="Panca da Picnic Sci-fi"/>
+		<entry key="BuildingPartName_SF_CN_01" translation="Tettoia per Picnic Sci-fi"/>
+		<entry key="BuildingPartName_SF_PN_01" translation="Tavolo da Picnic Sci-fi"/>
+		<entry key="BuildingPartName_SP_BN_01" translation="Panca da Picnic Spaventosa"/>
+		<entry key="BuildingPartName_SP_PN_01" translation="Tavolo da Picnic Spaventoso"/>
+		<entry key="BuildingPartName_WS_BN_01" translation="Panca da Picnic Western"/>
+		<entry key="BuildingPartName_WS_CN_01" translation="Tettoia per Picnic Western"/>
+		<entry key="BuildingPartName_WS_PN_01" translation="Tavolo da Picnic Western"/>
 		<!--C4_Staff-->
-		<entry key="InfoPanel_StaffBuilding_ActivePerk" translation="Active Perk"/>
-		<entry key="InfoPanel_StaffBuilding_CantAffordChanges" translation="Cannot afford staff building changes"/>
-		<entry key="InfoPanel_StaffBuilding_Capacity" translation="Capacity"/>
-		<entry key="InfoPanel_StaffBuilding_CapacityChangeCost" translation="Capacity Change Cost"/>
-		<entry key="InfoPanel_StaffBuilding_Change" translation="Staff Building Change"/>
-		<entry key="InfoPanel_StaffBuilding_ChangeCost" translation="Staff Building Change Cost: {COST:currency}&#10;Monthly Running Cost Change: {RunningCost:currency}"/>
-		<entry key="InfoPanel_StaffBuilding_ConfirmChanges" translation="Confirm Changes"/>
-		<entry key="InfoPanel_StaffBuilding_CurrentCapacity" translation="Current Capacity"/>
-		<entry key="InfoPanel_StaffBuilding_CurrentlyResting" translation="Currently Resting"/>
-		<entry key="InfoPanel_StaffBuilding_EnergyDisabled" translation="Energy features are disabled in this park. Staff will not use this building"/>
-		<entry key="InfoPanel_StaffBuilding_Finance" translation="Finance"/>
-		<entry key="InfoPanel_StaffBuilding_Info" translation="Staff Building Information"/>
-		<entry key="InfoPanel_StaffBuilding_NoChanges" translation="No changes made"/>
-		<entry key="InfoPanel_StaffBuilding_NumStaffResting" translation="Number of staff resting"/>
-		<entry key="InfoPanel_StaffBuilding_OpenState" translation="Staff Building status: {STATUS}"/>
-		<entry key="InfoPanel_StaffBuilding_Operations" translation="Operations"/>
-		<entry key="InfoPanel_StaffBuilding_Overview" translation="Overview"/>
-		<entry key="InfoPanel_StaffBuilding_Perk" translation="Perk"/>
-		<entry key="InfoPanel_StaffBuilding_PerkChangeCost" translation="Perk Change Cost"/>
-		<entry key="InfoPanel_StaffBuilding_RunningCostChange" translation="Running Cost Change"/>
-		<entry key="InfoPanel_StaffBuilding_StaffNeeds" translation="Staff Needs"/>
-		<entry key="InfoPanel_StaffBuilding_TotalChangeCost" translation="Total Cost"/>
-		<entry key="InfoPanel_StaffBuilding_Type" translation="Staff Building"/>
-		<entry key="StaffBuilding_CapacityMonthlyCost" translation="Capacity monthly running cost"/>
-		<entry key="StaffBuilding_LifetimeRunningCost" translation="Lifetime running cost"/>
-		<entry key="StaffBuilding_PerkDescription_EnergyRecoverBoost" translation="Staff resting here will recover energy slightly faster"/>
-		<entry key="StaffBuilding_PerkDescription_GuestHappinessInteractionBoost" translation="Entertainers and vendors with this perk will make the guests they interact with even happier"/>
-		<entry key="StaffBuilding_PerkDescription_HappinessBoost" translation="Staff members with this perk gain happiness faster"/>
-		<entry key="StaffBuilding_PerkDescription_None" translation="No staff perk applied&#10;&#10;Select a perk to apply to this staff building. Applying a perk will give certain benefits to your staff."/>
-		<entry key="StaffBuilding_PerkDescription_OverworkedHelp" translation="Staff will be more resilient against being overworked"/>
-		<entry key="StaffBuilding_PerkDescription_SecurityBoost" translation="Security staff with this perk will have better detection rates"/>
-		<entry key="StaffBuilding_PerkDescription_StaffInfoPanel_None" translation="No staff perk applied&#10;&#10;Upgrade your staff building to offer a perk to give staff members who rest there certain benefits."/>
-		<entry key="StaffBuilding_PerkDescription_TrainingTimeBoost" translation="While resting in the staff building, staff will learn more about their job, bringing their training date forward"/>
-		<entry key="StaffBuilding_PerkDescription_UnderworkedHelp" translation="Staff will be more resilient against being underworked"/>
-		<entry key="StaffBuilding_PerkMonthlyCost" translation="Perk monthly running cost"/>
-		<entry key="StaffBuilding_Perk_EnergyRecoverBoost" translation="Rec Room"/>
-		<entry key="StaffBuilding_Perk_GuestHappinessInteractionBoost" translation="Staff PR Course"/>
-		<entry key="StaffBuilding_Perk_HappinessBoost" translation="Social Club"/>
-		<entry key="StaffBuilding_Perk_None" translation="None"/>
-		<entry key="StaffBuilding_Perk_OverworkedHelp" translation="Staff Healthcare"/>
-		<entry key="StaffBuilding_Perk_SecurityBoost" translation="Security Office"/>
-		<entry key="StaffBuilding_Perk_TrainingTimeBoost" translation="Learning Resources"/>
-		<entry key="StaffBuilding_Perk_UnderworkedHelp" translation="Staff Entertainment"/>
-		<entry key="StaffBuilding_SceneryRating" translation="Building Scenery Rating&#10;&#10; The better your staff buildings look, the more appreciated your staff will feel, recovering energy faster"/>
-		<entry key="StaffBuilding_TotalMonthlyCost" translation="Total monthly running cost"/>
-		<entry key="Staff_SelectAssignedShop_ConfirmSelection" translation="Assign shop to vendor"/>
-		<entry key="Staff_SelectAssignedShop_Description" translation="Select a shop to assign this vendor to"/>
-		<entry key="Staff_SelectAssignedShop_NoShopSelected" translation="No shop selected"/>
-		<entry key="Staff_SelectAssignedShop_ShopSelected" translation="Shop Selected"/>
+		<entry key="InfoPanel_StaffBuilding_ActivePerk" translation="Vantaggio Attivo"/>
+		<entry key="InfoPanel_StaffBuilding_CantAffordChanges" translation="Non puoi permetterti variazioni all'edificio staff"/>
+		<entry key="InfoPanel_StaffBuilding_Capacity" translation="Capacità"/>
+		<entry key="InfoPanel_StaffBuilding_CapacityChangeCost" translation="Costo Variazione Capacità"/>
+		<entry key="InfoPanel_StaffBuilding_Change" translation="Variazione Edificio Staff"/>
+		<entry key="InfoPanel_StaffBuilding_ChangeCost" translation="Costo Variazione Edificio Staff: {COST:currency}&#10;Variazione Costo Esercizio Mensile: {RunningCost:currency}"/>
+		<entry key="InfoPanel_StaffBuilding_ConfirmChanges" translation="Conferma Variazioni"/>
+		<entry key="InfoPanel_StaffBuilding_CurrentCapacity" translation="Capacità Attuale"/>
+		<entry key="InfoPanel_StaffBuilding_CurrentlyResting" translation="Attualmente a riposo"/>
+		<entry key="InfoPanel_StaffBuilding_EnergyDisabled" translation="Le caratteristiche di energia dello Staff sono disabilitate in questo parco. Lo Staff non utilizzerà questo edificio"/>
+		<entry key="InfoPanel_StaffBuilding_Finance" translation="Economia"/>
+		<entry key="InfoPanel_StaffBuilding_Info" translation="Informazioni Edificio Staff"/>
+		<entry key="InfoPanel_StaffBuilding_NoChanges" translation="Nessuna variazione effettuata"/>
+		<entry key="InfoPanel_StaffBuilding_NumStaffResting" translation="Numero elementi Staff a riposo"/>
+		<entry key="InfoPanel_StaffBuilding_OpenState" translation="Stato Edificio Staff: {STATUS}"/>
+		<entry key="InfoPanel_StaffBuilding_Operations" translation="Operazioni"/>
+		<entry key="InfoPanel_StaffBuilding_Overview" translation="Panoramica"/>
+		<entry key="InfoPanel_StaffBuilding_Perk" translation="Vantaggio"/>
+		<entry key="InfoPanel_StaffBuilding_PerkChangeCost" translation="Costo Variazione Vantaggio"/>
+		<entry key="InfoPanel_StaffBuilding_RunningCostChange" translation="Variazione Costo Esercizio"/>
+		<entry key="InfoPanel_StaffBuilding_StaffNeeds" translation="Necessità dello Staff"/>
+		<entry key="InfoPanel_StaffBuilding_TotalChangeCost" translation="Costo Totale"/>
+		<entry key="InfoPanel_StaffBuilding_Type" translation="Edificio Staff"/>
+		<entry key="StaffBuilding_CapacityMonthlyCost" translation="Costo mensile Capacità"/>
+		<entry key="StaffBuilding_LifetimeRunningCost" translation="Costo di esercizio dalla costruzione"/>
+		<entry key="StaffBuilding_PerkDescription_EnergyRecoverBoost" translation="Lo Staff che si riposa qui recupererà energia un po più velocemente"/>
+		<entry key="StaffBuilding_PerkDescription_GuestHappinessInteractionBoost" translation="Gli Intrattenitori e i venditori con questo Vantaggio renderanno i visitatori con cui interagiscono sempre più felici"/>
+		<entry key="StaffBuilding_PerkDescription_HappinessBoost" translation="I membri dello Staff con questo Vantaggio guadagnano felicità più velocemente"/>
+		<entry key="StaffBuilding_PerkDescription_None" translation="Nessun Vantaggio Staff Applicato&#10;&#10;Seleziona un Vantaggio da applicare a questo edificio staff. Applicare un Vantaggio darà alcuni benefici al tuo Staff."/>
+		<entry key="StaffBuilding_PerkDescription_OverworkedHelp" translation="Lo Staff sarà più elastico nei confronti del sovraccarico di lavoro"/>
+		<entry key="StaffBuilding_PerkDescription_SecurityBoost" translation="Lo Staff della Sicurezza con questo Vantaggio avrà migliori livelli di rilevazione"/>
+		<entry key="StaffBuilding_PerkDescription_StaffInfoPanel_None" translation="Nessun Vantaggio Staff applicato&#10;&#10;Aggiorna il tuo Edificio Staff per offrire un Vantaggio che darà ai membri dello Staff che si riposano qui alcuni benefici."/>
+		<entry key="StaffBuilding_PerkDescription_TrainingTimeBoost" translation="Mentre si riposa nell'Edificio Staff, lo Staff imparerà di più sul proprio lavoro, posticipando la data di aggiornamento"/>
+		<entry key="StaffBuilding_PerkDescription_UnderworkedHelp" translation="Lo Staff sarà più elastico nei confronti del sovraccarico di lavoro"/>
+		<entry key="StaffBuilding_PerkMonthlyCost" translation="Costo mensile Vantaggio"/>
+		<entry key="StaffBuilding_Perk_EnergyRecoverBoost" translation="Stanza per Recupero Energie"/>
+		<entry key="StaffBuilding_Perk_GuestHappinessInteractionBoost" translation="Corso di Pubbliche Relazioni per lo Staff"/>
+		<entry key="StaffBuilding_Perk_HappinessBoost" translation="Circolo Sociale"/>
+		<entry key="StaffBuilding_Perk_None" translation="Nessuno"/>
+		<entry key="StaffBuilding_Perk_OverworkedHelp" translation="Sistema Sanitario per lo Staff"/>
+		<entry key="StaffBuilding_Perk_SecurityBoost" translation="Ufficio Sicurezza"/>
+		<entry key="StaffBuilding_Perk_TrainingTimeBoost" translation="Risorse per l'apprendimento"/>
+		<entry key="StaffBuilding_Perk_UnderworkedHelp" translation="Intrattenimento per lo Staff"/>
+		<entry key="StaffBuilding_SceneryRating" translation="Valutazione Costruzione Scenario&#10;&#10; Più appare bello l'Edificio Staff, più lo Staff si sentirà apprezzato, recuperando le energie più velocemente"/>
+		<entry key="StaffBuilding_TotalMonthlyCost" translation="Costo esercizio mensile totale"/>
+		<entry key="Staff_SelectAssignedShop_ConfirmSelection" translation="Assegna un negozio al venditore"/>
+		<entry key="Staff_SelectAssignedShop_Description" translation="Seleziona un negozio a cui assegnare questo venditore"/>
+		<entry key="Staff_SelectAssignedShop_NoShopSelected" translation="Nessun negozio selezionato"/>
+		<entry key="Staff_SelectAssignedShop_ShopSelected" translation="Negozio Selezionato"/>
 		<entry key="Staff_SelectAssignedShop_ShopSelectedCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="Staff_SelectAssignedShop_Title" translation="Preferred Shop Assignment"/>
-		<entry key="Staff_SelectAssignedShop_TitleLabel" translation="Single Shop Selection"/>
-		<entry key="Staff_Status_EnteringShop" translation="Entering shop"/>
-		<entry key="Staff_Status_ExitingShop" translation="Exiting shop"/>
-		<entry key="Staff_Status_Nav_StaffBuilding" translation="Heading to staff building"/>
-		<entry key="Staff_Status_RestingAtStaffBuilding" translation="Resting at staff building"/>
-		<entry key="Staff_Status_WaitingForCustomersToServe" translation="Waiting for customers to serve"/>
-		<entry key="Staff_Vendor_Desc" translation="Serves customers at shops"/>
+		<entry key="Staff_SelectAssignedShop_Title" translation="Preferenze di Assegnazione Negozio"/>
+		<entry key="Staff_SelectAssignedShop_TitleLabel" translation="Selezione Singola Negozio"/>
+		<entry key="Staff_Status_EnteringShop" translation="Entra nel negozio"/>
+		<entry key="Staff_Status_ExitingShop" translation="Esce dal negozio"/>
+		<entry key="Staff_Status_Nav_StaffBuilding" translation="Si dirige verso l'Edificio Staff"/>
+		<entry key="Staff_Status_RestingAtStaffBuilding" translation="Si riposa nell'Edificio Staff"/>
+		<entry key="Staff_Status_WaitingForCustomersToServe" translation="Attende clienti da servire"/>
+		<entry key="Staff_Vendor_Desc" translation="Serve clienti nei negozi"/>
 		<!--C4_TrackElements-->
 		<entry key="TrackElementDesc_ChannelEntry" translation="Drops the boat into the water."/>
 		<entry key="TrackElementDesc_ChannelTrack" translation="Channel of water that pushes the boat along."/>
@@ -16513,7 +16513,7 @@
 		<entry key="Blueprints_Performancestage" translation="Performance Stage"/>
 		<entry key="Blueprints_PerformancestageDesc" translation="Performance stage.&#10;Studios Pack"/>
 		<entry key="Blueprints_Pirate_Hotel_01" translation="Pirate Hotel"/>
-		<entry key="Blueprints_Pirate_Hotel_01Desc" translation="A pirate themed hotel."/>
+		<entry key="Blueprints_Tema Sci-Fi_01Desc" translation="A pirate themed hotel."/>
 		<entry key="Blueprints_PiratesofPlanetCoasterRide" translation="Pirates of Planet Coaster Ride"/>
 		<entry key="Blueprints_PiratesofPlanetCoasterRideDesc" translation="Pirates of Planet Coaster Ride"/>
 		<entry key="Blueprints_PlanetCoasterStudioTour" translation="Planet Coaster Studio Tour"/>
