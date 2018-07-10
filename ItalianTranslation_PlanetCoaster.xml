@@ -629,7 +629,7 @@
 		<entry key="BuildingPartCategory_Building_Decorations" translation="Decorazioni"/>
 		<entry key="BuildingPartCategory_Building_Facilities" translation="Negozi e Servizi"/>
 		<entry key="BuildingPartCategory_Building_Roofs" translation="Tetti"/>
-		<entry key="BuildingPartCategory_Building_Signs" translation="Cartelli da Parete"/>
+		<entry key="BuildingPartCategory_Building_Signs" translation="Insegne a Parete"/>
 		<entry key="BuildingPartCategory_Building_Simulation" translation="Strutture"/>
 		<entry key="BuildingPartCategory_Building_Walls" translation="Muri"/>
 		<entry key="BuildingPartCategory_Path_Extras" translation="Extra per Sentieri"/>
@@ -5351,8 +5351,8 @@
 		<entry key="ParkManagement_StaffBuilding_CapacityHeading" translation="Capacità"/>
 		<entry key="ParkManagement_StaffBuilding_ConfirmCost" translation="Conferma: {Value:currency}"/>
 		<entry key="ParkManagement_StaffBuilding_ConfirmTooltipLabel" translation="Cambia Edificio Staff:"/>
-		<entry key="ParkManagement_StaffBuilding_Description" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati."/>
-		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari benefici possono essere selezionati e applicati.&#10;La necessità per lo staff di prendere un pò d'aria  puà essere disabilitata nelle opzioni"/>
+		<entry key="ParkManagement_StaffBuilding_Description" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari Vantaggi possono essere selezionati e applicati."/>
+		<entry key="ParkManagement_StaffBuilding_DescriptionCanDisable" translation="Un edificio in cui lo staff può riposare e recuperare le forze e nel quale vari Vantaggi possono essere selezionati e applicati.&#10;La necessità per lo staff di prendere un pò d'aria  può essere disabilitata nelle opzioni"/>
 		<entry key="ParkManagement_StaffBuilding_EnergyDisabledHeading" translation="Edificio Staff - Le caratteristiche di energia dello Staff sono disabilitate in questi parchi e gli edifici non verranno utilizzati."/>
 		<entry key="ParkManagement_StaffBuilding_EnergyDisabledNoItems" translation="Le caratteristiche di energia dello Staff sono disabilitate. Lo Staff non necessita di un Edificio Staff."/>
 		<entry key="ParkManagement_StaffBuilding_EnergyDisabledToolTip" translation="Le caratteristiche di energia dello Staff sono disabilitate in questo parco."/>
@@ -5360,9 +5360,9 @@
 		<entry key="ParkManagement_StaffBuilding_MonthlyRunningCostHeading" translation="Costo Esercizio Mensile"/>
 		<entry key="ParkManagement_StaffBuilding_NameHeading" translation="Nome"/>
 		<entry key="ParkManagement_StaffBuilding_NoItems" translation="Non hai Edifici Staff"/>
-		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Costo Beneficio"/>
-		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Beneficio"/>
-		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Beneficio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkCost" translation="Costo Vantaggio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkHeading" translation="Vantaggio"/>
+		<entry key="ParkManagement_StaffBuilding_PerkPrompt" translation="Vantaggio"/>
 		<entry key="ParkManagement_StaffBuilding_StaffRestingHeading" translation="Staff a Riposo"/>
 		<entry key="ParkManagement_StaffBuilding_StatusHeading" translation="Stato"/>
 		<entry key="ParkManagement_StaffBuilding_TotalCost" translation="Costo Totale"/>
@@ -5521,8 +5521,8 @@
 		<entry key="ScenarioEditor_Staff_Off" translation="Off"/>
 		<entry key="ScenarioEditor_Staff_On" translation="On"/>
 		<entry key="ScenarioEditor_Staff_ParkRatingEnergyModif" translation="Soglia di valutazione Parco sotto la quale diminuisce l'Energia Staff"/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I benefici dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I benefici dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Default" translation="Impostazioni Staff Standard:&#10;• I Vantaggi dell'edificio Staff forniscono bonus normali.&#10;• Lo staff si licenzia ad un livello felicità normale.&#10;• Lo staff inizia con una felicità normale.&#10;• Lo staff smette di lavorare al 15% di energia."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Easy" translation="Impostazioni Staff Facili:&#10;•I Vantaggi dell'edificio Staff hanno un effetto maggiore.&#10;• Lo staff si licenzia ad un livello felicità più basso.&#10;• Lo staff inizia con una felicità più alta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Apathetic" translation="Quando gli intrattenitori sono impostati su Apatico:&#10;&#10;• Gli intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori divertono meno visitatori alla volta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Commercial" translation="Quando gli Intrattenitori sono impostati su Commerciale:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori divertono più visitatori alla volta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Default" translation="Quando gli Intrattenitori sono impostati su Predefinito:&#10;&#10;• Normale crescita della felicità per i visitatori.&#10;• Normale intervallo di tempo fra le performances.&#10;• Normale quantità di visitatori per performance.&#10;• Normale carico di lavoro prima che gli Intrattenitori diventino stressati.&#10;• Normale salario e livelli di energia."/>
@@ -5535,7 +5535,7 @@
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Lazy" translation="Quando gli Intrattenitori sono impostati su Pigro:&#10;&#10;• Gli Intrattenitori non aumentano la felicità dei visitatori come normale.&#10;• Gli Intrattenitori fanno pause molto lunghe tra le performances."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Passionate" translation="Quando gli Intrattenitori sono impostati su Appassionato:&#10;&#10;• Gli Intrattenitori aumentano la felicità dei visitatori più del normale.&#10;• Gli Intrattenitori divertono più visitatori alla volta."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Entertainer_Stressed" translation="Quando gli Intrattenitori sono impostati su Stressato:&#10;&#10;• Gli Intrattenitori sono oberati di lavoro anche con piccoli carichi di lavoro."/>
-		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I benefici dell'edificio Staff hanno un effetto ridotto.&#10;• Lo staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
+		<entry key="ScenarioEditor_Staff_ProfileDescription_Hard" translation="Impostazioni Staff Difficili: &#10;• I Vantaggi dell'edificio Staff hanno un effetto ridotto.&#10;• Lo staff si licenzia ad un livello felicità più alto.&#10;• Lo staff inizia con una felicità più bassa."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Apathetic" translation="Quando gli Spazzini sono impostati su Apatico:&#10;&#10;• Gli Spazzini sono più lenti a svolgere le mansioni."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Default" translation="Quando gli Spazzini sono impostati su Predefinito:&#10;&#10;• Normale durata del lavoro.&#10;• Normale velocità nel parco.&#10;• Normali richieste di salario.&#10;• Normali livelli di energia."/>
 		<entry key="ScenarioEditor_Staff_ProfileDescription_Janitor_Easy" translation="Quando gli Spazzini sono impostati su Facile:&#10;&#10;• I cestini sono più capienti.&#10;• Gli Spazzini sono più veloci a svolgere le mansioni.&#10;• Gli Spazzini possono sopportare più carico di lavoro.&#10;• Gli Spazzini non si stancano facilmente."/>
@@ -5628,133 +5628,133 @@
 		<!--C4_Scenery-->
 		<entry key="BuildingPartDesc_FT_BN_01" translation="Panca decorativa dipinta in legno.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_BN_02" translation="Panca elegante intagliata in legno.&#10;Tema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_CN_01" translation="Tettuccio decorativo dipinto in legno.&#10;Tema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_CN_02" translation="Tettuccio ornato in vetro e ferro.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_01" translation="Tettoia decorativa dipinta in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_CN_02" translation="Tettoia ornata in vetro e ferro.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_PN_01" translation="Tavolo e panche decorativi dipinti in legno.&#10;Tema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_PN_02" translation="Tavolo e panca elegannti intagliati in legno.&#10;Tema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_PN_02" translation="Tavolo e panca eleganti intagliati in legno.&#10;Tema Fantasy"/>
 		<entry key="BuildingPartDesc_HOL_CN_01" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_HOL_PN_01" translation="Quale dolce seduta è la più confortevole?&#10;Tema Festivo"/>
 		<entry key="BuildingPartDesc_PC_BN_02" translation="Tavolo in metallo.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Barrier1M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Barrier2M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Barrier4M" translation="Influisce sul movimento dei Visitatori."/>
-		<entry key="BuildingPartDesc_PC_CN_01" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Tettuccio personalizzato per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_01" translation="Tettoia personalizzata per tavoli da picnic.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_CN_01_LIT" translation="Tettoia personalizzata per tavoli da picnic.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_CN_02" translation="Ombrellone per tavoli da picnic.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_CN_03" translation="Ombrellone a strisce per tavoli da picnic.&#10;Tema Planet Coaster"/>
 		<entry key="BuildingPartDesc_PC_Kerb1M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Kerb2M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_Kerb4M" translation="Influisce sul movimento dei Visitatori."/>
 		<entry key="BuildingPartDesc_PC_PN_02" translation="Tavolo e panche in metallo.&#10;Tema Planet Coaster"/>
-		<entry key="BuildingPartDesc_PC_PicnicTable" translation="Painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_PicnicTable_Circular" translation="Circular painted wooded slat table and benches.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_PicnicTable_Modern" translation="A modern varnished wood bench.&#10;Planet Coaster Theme"/>
-		<entry key="BuildingPartDesc_PC_StaffBuilding" translation="A building needed for staff to rest in.&#10;Facility"/>
-		<entry key="BuildingPartDesc_PR_BN_01" translation="X Marks the spot!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_PR_CN_01" translation="Sail on the horizon captain!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_PR_PN_01" translation="X Marks the spot!&#10;Pirate Theme"/>
-		<entry key="BuildingPartDesc_SF_BN_01" translation="Advanced temperature controlled picnic seating.&#10;Sci-Fi Theme"/>
-		<entry key="BuildingPartDesc_SF_CN_01" translation="Advanced materials for maximum shelter.&#10;Sci-Fi Theme"/>
-		<entry key="BuildingPartDesc_SF_PN_01" translation="Advanced temperature controlled picnic seating.&#10;Sci-Fi Theme"/>
-		<entry key="BuildingPartDesc_SP_BN_01" translation="Carved stone bench.&#10;Spooky Theme"/>
-		<entry key="BuildingPartDesc_SP_PN_01" translation="Carved stone picnic table and benches.&#10;Spooky Theme"/>
-		<entry key="BuildingPartDesc_WS_BN_01" translation="Authentic wood grain effect picnic bench.&#10;Western Theme"/>
-		<entry key="BuildingPartDesc_WS_CN_01" translation="Broad fabric picnic table canopy.&#10;Western Theme"/>
-		<entry key="BuildingPartDesc_WS_PN_01" translation="Authentic wood grain effect picnic table.&#10;Western Theme"/>
-		<entry key="BuildingPartName_FT_BN_01" translation="Fairytale Picnic Bench 1"/>
-		<entry key="BuildingPartName_FT_BN_02" translation="Fairytale Picnic Bench 2"/>
-		<entry key="BuildingPartName_FT_CN_01" translation="Fairytale Picnic Canopy 1"/>
-		<entry key="BuildingPartName_FT_CN_02" translation="Fairytale Picnic Canopy 2"/>
-		<entry key="BuildingPartName_FT_PN_01" translation="Fairytale Tavolo Picnic 1"/>
-		<entry key="BuildingPartName_FT_PN_02" translation="Fairytale Tavolo Picnic 2"/>
-		<entry key="BuildingPartName_HOL_CN_01" translation="Holiday Picnic Umbrella"/>
-		<entry key="BuildingPartName_HOL_PN_01" translation="Holiday Tavolo Picnic"/>
-		<entry key="BuildingPartName_PC_BN_02" translation="Picnic Bench 2"/>
-		<entry key="BuildingPartName_PC_Barrier1M" translation="1 Metre Barrier"/>
-		<entry key="BuildingPartName_PC_Barrier2M" translation="2 Metre Barrier"/>
-		<entry key="BuildingPartName_PC_Barrier4M" translation="4 Metre Barrier"/>
-		<entry key="BuildingPartName_PC_CN_01" translation="Custom Picnic Canopy"/>
-		<entry key="BuildingPartName_PC_CN_01_LIT" translation="Custom Picnic Canopy Lit"/>
-		<entry key="BuildingPartName_PC_CN_02" translation="Picnic Umbrella 1"/>
-		<entry key="BuildingPartName_PC_CN_03" translation="Picnic Umbrella 2"/>
-		<entry key="BuildingPartName_PC_Kerb1M" translation="1 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_Kerb2M" translation="2 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_Kerb4M" translation="4 Metre Kerb"/>
-		<entry key="BuildingPartName_PC_PN_02" translation="Tavolo Picnic 2"/>
-		<entry key="BuildingPartName_PC_PicnicTable" translation="Tavolo Picnic 1"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Tavolo Picnic Circular"/>
-		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Tavolo Picnic Modern"/>
-		<entry key="BuildingPartName_PC_StaffBuilding" translation="Staff Building"/>
-		<entry key="BuildingPartName_PR_BN_01" translation="Pirate Picnic Bench"/>
-		<entry key="BuildingPartName_PR_CN_01" translation="Pirate Picnic Canopy"/>
-		<entry key="BuildingPartName_PR_PN_01" translation="Pirate Tavolo Picnic"/>
-		<entry key="BuildingPartName_SF_BN_01" translation="Sci-fi Picnic Bench"/>
-		<entry key="BuildingPartName_SF_CN_01" translation="Sci-fi Picnic Canopy"/>
-		<entry key="BuildingPartName_SF_PN_01" translation="Sci-fi Tavolo Picnic"/>
-		<entry key="BuildingPartName_SP_BN_01" translation="Spooky Picnic Bench"/>
-		<entry key="BuildingPartName_SP_PN_01" translation="Spooky Tavolo Picnic"/>
-		<entry key="BuildingPartName_WS_BN_01" translation="Western Picnic Bench"/>
-		<entry key="BuildingPartName_WS_CN_01" translation="Western Picnic Canopy"/>
-		<entry key="BuildingPartName_WS_PN_01" translation="Western Tavolo Picnic"/>
+		<entry key="BuildingPartDesc_PC_PicnicTable" translation="Tavolo a stecche e panche dipinti in legno.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_PicnicTable_Circular" translation="Tavolo a stecche circolare e panche dipinti in legno.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_PicnicTable_Modern" translation="Una panca in legno moderna verniciata.&#10;Tema Planet Coaster"/>
+		<entry key="BuildingPartDesc_PC_StaffBuilding" translation="Un edificio necessario al riposo dello Staff.&#10;Struttura"/>
+		<entry key="BuildingPartDesc_PR_BN_01" translation="Scavare sulla X!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_CN_01" translation="Naviga verso l'orizzonte capitano!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_PN_01" translation="Scavare sulla X!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_SF_BN_01" translation="Sedili per picnic avveniristici a temperatura controllata.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_CN_01" translation="Materiali avveniristici per la massima copertura.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SF_PN_01" translation="Sedili per picnic avveniristici a temperatura controllata.&#10;Tema Sci-Fi"/>
+		<entry key="BuildingPartDesc_SP_BN_01" translation="Panca in pietra scavata.&#10;Tema Spaventoso"/>
+		<entry key="BuildingPartDesc_SP_PN_01" translation="Tavolo da picnic e panche in pietra scavata.&#10;Tema Spaventoso"/>
+		<entry key="BuildingPartDesc_WS_BN_01" translation="Panca da picnic in autentico effetto legno.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WS_CN_01" translation="Tettoia per tavolo da picnic tessuta larga.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WS_PN_01" translation="Tavolo da picnic in autentico effetto legno.&#10;Tema Western"/>
+		<entry key="BuildingPartName_FT_BN_01" translation="Panca da Picnic Fantasy 1"/>
+		<entry key="BuildingPartName_FT_BN_02" translation="Panca da Picnic Fantasy 2"/>
+		<entry key="BuildingPartName_FT_CN_01" translation="Tettoia per Picnic Fantasy 1"/>
+		<entry key="BuildingPartName_FT_CN_02" translation="Tettoia per Picnic Fantasy 2"/>
+		<entry key="BuildingPartName_FT_PN_01" translation="Tavolo da Picnic Fantasy 1"/>
+		<entry key="BuildingPartName_FT_PN_02" translation="Tavolo da Picnic Fantasy 2"/>
+		<entry key="BuildingPartName_HOL_CN_01" translation="Ombrellone da Picnic Festivo"/>
+		<entry key="BuildingPartName_HOL_PN_01" translation="Tavolo da Picnic Festivo"/>
+		<entry key="BuildingPartName_PC_BN_02" translation="Panca da Picnic 2"/>
+		<entry key="BuildingPartName_PC_Barrier1M" translation="Barriera 1 Metro"/>
+		<entry key="BuildingPartName_PC_Barrier2M" translation="Barriera 2 Metri"/>
+		<entry key="BuildingPartName_PC_Barrier4M" translation="Barriera 4 Metri"/>
+		<entry key="BuildingPartName_PC_CN_01" translation="Tettoia per Picnic Personalizzata"/>
+		<entry key="BuildingPartName_PC_CN_01_LIT" translation="Tettoia per Picnic Personalizzata - Illuminata"/>
+		<entry key="BuildingPartName_PC_CN_02" translation="Ombrellone da Picnic 1"/>
+		<entry key="BuildingPartName_PC_CN_03" translation="Ombrellone da Picnic 2"/>
+		<entry key="BuildingPartName_PC_Kerb1M" translation="Cordone 1 Metro"/>
+		<entry key="BuildingPartName_PC_Kerb2M" translation="Cordone 2 Metri"/>
+		<entry key="BuildingPartName_PC_Kerb4M" translation="Cordone 4 Metri"/>
+		<entry key="BuildingPartName_PC_PN_02" translation="Tavolo da Picnic 2"/>
+		<entry key="BuildingPartName_PC_PicnicTable" translation="Tavolo da Picnic 1"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Circular" translation="Tavolo da Picnic Circolare"/>
+		<entry key="BuildingPartName_PC_PicnicTable_Modern" translation="Tavolo da Picnic Moderno"/>
+		<entry key="BuildingPartName_PC_StaffBuilding" translation="Edificio Staff"/>
+		<entry key="BuildingPartName_PR_BN_01" translation="Panca da Picnic Pirata"/>
+		<entry key="BuildingPartName_PR_CN_01" translation="Tettoia per Picnic Pirata"/>
+		<entry key="BuildingPartName_PR_PN_01" translation="Tavolo da Picnic Pirata "/>
+		<entry key="BuildingPartName_SF_BN_01" translation="Panca da Picnic Sci-fi"/>
+		<entry key="BuildingPartName_SF_CN_01" translation="Tettoia per Picnic Sci-fi"/>
+		<entry key="BuildingPartName_SF_PN_01" translation="Tavolo da Picnic Sci-fi"/>
+		<entry key="BuildingPartName_SP_BN_01" translation="Panca da Picnic Spaventosa"/>
+		<entry key="BuildingPartName_SP_PN_01" translation="Tavolo da Picnic Spaventoso"/>
+		<entry key="BuildingPartName_WS_BN_01" translation="Panca da Picnic Western"/>
+		<entry key="BuildingPartName_WS_CN_01" translation="Tettoia per Picnic Western"/>
+		<entry key="BuildingPartName_WS_PN_01" translation="Tavolo da Picnic Western"/>
 		<!--C4_Staff-->
-		<entry key="InfoPanel_StaffBuilding_ActivePerk" translation="Active Perk"/>
-		<entry key="InfoPanel_StaffBuilding_CantAffordChanges" translation="Cannot afford staff building changes"/>
-		<entry key="InfoPanel_StaffBuilding_Capacity" translation="Capacity"/>
-		<entry key="InfoPanel_StaffBuilding_CapacityChangeCost" translation="Capacity Change Cost"/>
-		<entry key="InfoPanel_StaffBuilding_Change" translation="Staff Building Change"/>
-		<entry key="InfoPanel_StaffBuilding_ChangeCost" translation="Staff Building Change Cost: {COST:currency}&#10;Monthly Running Cost Change: {RunningCost:currency}"/>
-		<entry key="InfoPanel_StaffBuilding_ConfirmChanges" translation="Confirm Changes"/>
-		<entry key="InfoPanel_StaffBuilding_CurrentCapacity" translation="Current Capacity"/>
-		<entry key="InfoPanel_StaffBuilding_CurrentlyResting" translation="Currently Resting"/>
-		<entry key="InfoPanel_StaffBuilding_EnergyDisabled" translation="Energy features are disabled in this park. Staff will not use this building"/>
-		<entry key="InfoPanel_StaffBuilding_Finance" translation="Finance"/>
-		<entry key="InfoPanel_StaffBuilding_Info" translation="Staff Building Information"/>
-		<entry key="InfoPanel_StaffBuilding_NoChanges" translation="No changes made"/>
-		<entry key="InfoPanel_StaffBuilding_NumStaffResting" translation="Number of staff resting"/>
-		<entry key="InfoPanel_StaffBuilding_OpenState" translation="Staff Building status: {STATUS}"/>
-		<entry key="InfoPanel_StaffBuilding_Operations" translation="Operations"/>
-		<entry key="InfoPanel_StaffBuilding_Overview" translation="Overview"/>
-		<entry key="InfoPanel_StaffBuilding_Perk" translation="Perk"/>
-		<entry key="InfoPanel_StaffBuilding_PerkChangeCost" translation="Perk Change Cost"/>
-		<entry key="InfoPanel_StaffBuilding_RunningCostChange" translation="Running Cost Change"/>
-		<entry key="InfoPanel_StaffBuilding_StaffNeeds" translation="Staff Needs"/>
-		<entry key="InfoPanel_StaffBuilding_TotalChangeCost" translation="Total Cost"/>
-		<entry key="InfoPanel_StaffBuilding_Type" translation="Staff Building"/>
-		<entry key="StaffBuilding_CapacityMonthlyCost" translation="Capacity monthly running cost"/>
-		<entry key="StaffBuilding_LifetimeRunningCost" translation="Lifetime running cost"/>
-		<entry key="StaffBuilding_PerkDescription_EnergyRecoverBoost" translation="Staff resting here will recover energy slightly faster"/>
-		<entry key="StaffBuilding_PerkDescription_GuestHappinessInteractionBoost" translation="Entertainers and vendors with this perk will make the guests they interact with even happier"/>
-		<entry key="StaffBuilding_PerkDescription_HappinessBoost" translation="Staff members with this perk gain happiness faster"/>
-		<entry key="StaffBuilding_PerkDescription_None" translation="No staff perk applied&#10;&#10;Select a perk to apply to this staff building. Applying a perk will give certain benefits to your staff."/>
-		<entry key="StaffBuilding_PerkDescription_OverworkedHelp" translation="Staff will be more resilient against being overworked"/>
-		<entry key="StaffBuilding_PerkDescription_SecurityBoost" translation="Security staff with this perk will have better detection rates"/>
-		<entry key="StaffBuilding_PerkDescription_StaffInfoPanel_None" translation="No staff perk applied&#10;&#10;Upgrade your staff building to offer a perk to give staff members who rest there certain benefits."/>
-		<entry key="StaffBuilding_PerkDescription_TrainingTimeBoost" translation="While resting in the staff building, staff will learn more about their job, bringing their training date forward"/>
-		<entry key="StaffBuilding_PerkDescription_UnderworkedHelp" translation="Staff will be more resilient against being underworked"/>
-		<entry key="StaffBuilding_PerkMonthlyCost" translation="Perk monthly running cost"/>
-		<entry key="StaffBuilding_Perk_EnergyRecoverBoost" translation="Rec Room"/>
-		<entry key="StaffBuilding_Perk_GuestHappinessInteractionBoost" translation="Staff PR Course"/>
-		<entry key="StaffBuilding_Perk_HappinessBoost" translation="Social Club"/>
-		<entry key="StaffBuilding_Perk_None" translation="None"/>
-		<entry key="StaffBuilding_Perk_OverworkedHelp" translation="Staff Healthcare"/>
-		<entry key="StaffBuilding_Perk_SecurityBoost" translation="Security Office"/>
-		<entry key="StaffBuilding_Perk_TrainingTimeBoost" translation="Learning Resources"/>
-		<entry key="StaffBuilding_Perk_UnderworkedHelp" translation="Staff Entertainment"/>
-		<entry key="StaffBuilding_SceneryRating" translation="Building Scenery Rating&#10;&#10; The better your staff buildings look, the more appreciated your staff will feel, recovering energy faster"/>
-		<entry key="StaffBuilding_TotalMonthlyCost" translation="Total monthly running cost"/>
-		<entry key="Staff_SelectAssignedShop_ConfirmSelection" translation="Assign shop to vendor"/>
-		<entry key="Staff_SelectAssignedShop_Description" translation="Select a shop to assign this vendor to"/>
-		<entry key="Staff_SelectAssignedShop_NoShopSelected" translation="No shop selected"/>
-		<entry key="Staff_SelectAssignedShop_ShopSelected" translation="Shop Selected"/>
+		<entry key="InfoPanel_StaffBuilding_ActivePerk" translation="Vantaggio Attivo"/>
+		<entry key="InfoPanel_StaffBuilding_CantAffordChanges" translation="Non puoi permetterti variazioni all'edificio staff"/>
+		<entry key="InfoPanel_StaffBuilding_Capacity" translation="Capacità"/>
+		<entry key="InfoPanel_StaffBuilding_CapacityChangeCost" translation="Costo Variazione Capacità"/>
+		<entry key="InfoPanel_StaffBuilding_Change" translation="Variazione Edificio Staff"/>
+		<entry key="InfoPanel_StaffBuilding_ChangeCost" translation="Costo Variazione Edificio Staff: {COST:currency}&#10;Variazione Costo Esercizio Mensile: {RunningCost:currency}"/>
+		<entry key="InfoPanel_StaffBuilding_ConfirmChanges" translation="Conferma Variazioni"/>
+		<entry key="InfoPanel_StaffBuilding_CurrentCapacity" translation="Capacità Attuale"/>
+		<entry key="InfoPanel_StaffBuilding_CurrentlyResting" translation="Attualmente a riposo"/>
+		<entry key="InfoPanel_StaffBuilding_EnergyDisabled" translation="Le caratteristiche di energia dello Staff sono disabilitate in questo parco. Lo Staff non utilizzerà questo edificio"/>
+		<entry key="InfoPanel_StaffBuilding_Finance" translation="Economia"/>
+		<entry key="InfoPanel_StaffBuilding_Info" translation="Informazioni Edificio Staff"/>
+		<entry key="InfoPanel_StaffBuilding_NoChanges" translation="Nessuna variazione effettuata"/>
+		<entry key="InfoPanel_StaffBuilding_NumStaffResting" translation="Numero elementi Staff a riposo"/>
+		<entry key="InfoPanel_StaffBuilding_OpenState" translation="Stato Edificio Staff: {STATUS}"/>
+		<entry key="InfoPanel_StaffBuilding_Operations" translation="Operazioni"/>
+		<entry key="InfoPanel_StaffBuilding_Overview" translation="Panoramica"/>
+		<entry key="InfoPanel_StaffBuilding_Perk" translation="Vantaggio"/>
+		<entry key="InfoPanel_StaffBuilding_PerkChangeCost" translation="Costo Variazione Vantaggio"/>
+		<entry key="InfoPanel_StaffBuilding_RunningCostChange" translation="Variazione Costo Esercizio"/>
+		<entry key="InfoPanel_StaffBuilding_StaffNeeds" translation="Necessità dello Staff"/>
+		<entry key="InfoPanel_StaffBuilding_TotalChangeCost" translation="Costo Totale"/>
+		<entry key="InfoPanel_StaffBuilding_Type" translation="Edificio Staff"/>
+		<entry key="StaffBuilding_CapacityMonthlyCost" translation="Costo mensile Capacità"/>
+		<entry key="StaffBuilding_LifetimeRunningCost" translation="Costo di esercizio dalla costruzione"/>
+		<entry key="StaffBuilding_PerkDescription_EnergyRecoverBoost" translation="Lo Staff che si riposa qui recupererà energia un po più velocemente"/>
+		<entry key="StaffBuilding_PerkDescription_GuestHappinessInteractionBoost" translation="Gli Intrattenitori e i venditori con questo Vantaggio renderanno i visitatori con cui interagiscono sempre più felici"/>
+		<entry key="StaffBuilding_PerkDescription_HappinessBoost" translation="I membri dello Staff con questo Vantaggio guadagnano felicità più velocemente"/>
+		<entry key="StaffBuilding_PerkDescription_None" translation="Nessun Vantaggio Staff Applicato&#10;&#10;Seleziona un Vantaggio da applicare a questo edificio staff. Applicare un Vantaggio darà alcuni benefici al tuo Staff."/>
+		<entry key="StaffBuilding_PerkDescription_OverworkedHelp" translation="Lo Staff sarà più elastico nei confronti del sovraccarico di lavoro"/>
+		<entry key="StaffBuilding_PerkDescription_SecurityBoost" translation="Lo Staff della Sicurezza con questo Vantaggio avrà migliori livelli di rilevazione"/>
+		<entry key="StaffBuilding_PerkDescription_StaffInfoPanel_None" translation="Nessun Vantaggio Staff applicato&#10;&#10;Aggiorna il tuo Edificio Staff per offrire un Vantaggio che darà ai membri dello Staff che si riposano qui alcuni benefici."/>
+		<entry key="StaffBuilding_PerkDescription_TrainingTimeBoost" translation="Mentre si riposa nell'Edificio Staff, lo Staff imparerà di più sul proprio lavoro, posticipando la data di aggiornamento"/>
+		<entry key="StaffBuilding_PerkDescription_UnderworkedHelp" translation="Lo Staff sarà più elastico nei confronti del sovraccarico di lavoro"/>
+		<entry key="StaffBuilding_PerkMonthlyCost" translation="Costo mensile Vantaggio"/>
+		<entry key="StaffBuilding_Perk_EnergyRecoverBoost" translation="Stanza per Recupero Energie"/>
+		<entry key="StaffBuilding_Perk_GuestHappinessInteractionBoost" translation="Corso di Pubbliche Relazioni per lo Staff"/>
+		<entry key="StaffBuilding_Perk_HappinessBoost" translation="Circolo Sociale"/>
+		<entry key="StaffBuilding_Perk_None" translation="Nessuno"/>
+		<entry key="StaffBuilding_Perk_OverworkedHelp" translation="Sistema Sanitario per lo Staff"/>
+		<entry key="StaffBuilding_Perk_SecurityBoost" translation="Ufficio Sicurezza"/>
+		<entry key="StaffBuilding_Perk_TrainingTimeBoost" translation="Risorse per l'apprendimento"/>
+		<entry key="StaffBuilding_Perk_UnderworkedHelp" translation="Intrattenimento per lo Staff"/>
+		<entry key="StaffBuilding_SceneryRating" translation="Valutazione Costruzione Scenario&#10;&#10; Più appare bello l'Edificio Staff, più lo Staff si sentirà apprezzato, recuperando le energie più velocemente"/>
+		<entry key="StaffBuilding_TotalMonthlyCost" translation="Costo esercizio mensile totale"/>
+		<entry key="Staff_SelectAssignedShop_ConfirmSelection" translation="Assegna un negozio al venditore"/>
+		<entry key="Staff_SelectAssignedShop_Description" translation="Seleziona un negozio a cui assegnare questo venditore"/>
+		<entry key="Staff_SelectAssignedShop_NoShopSelected" translation="Nessun negozio selezionato"/>
+		<entry key="Staff_SelectAssignedShop_ShopSelected" translation="Negozio Selezionato"/>
 		<entry key="Staff_SelectAssignedShop_ShopSelectedCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="Staff_SelectAssignedShop_Title" translation="Preferred Shop Assignment"/>
-		<entry key="Staff_SelectAssignedShop_TitleLabel" translation="Single Shop Selection"/>
-		<entry key="Staff_Status_EnteringShop" translation="Entering shop"/>
-		<entry key="Staff_Status_ExitingShop" translation="Exiting shop"/>
-		<entry key="Staff_Status_Nav_StaffBuilding" translation="Heading to staff building"/>
-		<entry key="Staff_Status_RestingAtStaffBuilding" translation="Resting at staff building"/>
-		<entry key="Staff_Status_WaitingForCustomersToServe" translation="Waiting for customers to serve"/>
-		<entry key="Staff_Vendor_Desc" translation="Serves customers at shops"/>
+		<entry key="Staff_SelectAssignedShop_Title" translation="Preferenze di Assegnazione Negozio"/>
+		<entry key="Staff_SelectAssignedShop_TitleLabel" translation="Selezione Singola Negozio"/>
+		<entry key="Staff_Status_EnteringShop" translation="Entra nel negozio"/>
+		<entry key="Staff_Status_ExitingShop" translation="Esce dal negozio"/>
+		<entry key="Staff_Status_Nav_StaffBuilding" translation="Si dirige verso l'Edificio Staff"/>
+		<entry key="Staff_Status_RestingAtStaffBuilding" translation="Si riposa nell'Edificio Staff"/>
+		<entry key="Staff_Status_WaitingForCustomersToServe" translation="Attende clienti da servire"/>
+		<entry key="Staff_Vendor_Desc" translation="Serve clienti nei negozi"/>
 		<!--C4_TrackElements-->
 		<entry key="TrackElementDesc_ChannelEntry" translation="Drops the boat into the water."/>
 		<entry key="TrackElementDesc_ChannelTrack" translation="Channel of water that pushes the boat along."/>
@@ -5971,12 +5971,12 @@
 		<entry key="CameraOptionsMenu_FreelookToggle" translation="Visuale Libera"/>
 		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Muovi la visuale liberamente per il parco. Utile in zone strette o per fare screenshot.&#10;&#10;Puoi attivarla premendo [{#LogicalButton.GameCamera_FreelookMode#}] in gioco.&#10;&#10;[{#LogicalButton.GameCamera_RotateLeft#}] e [{#LogicalButton.GameCamera_RotateRight#}] muoveranno la camera in sù e in giù."/>
 		<entry key="CameraOptionsMenu_InvertY" translation="Inverti asse Y"/>
-		<entry key="CameraOptionsMenu_InvertY_ToolTip" translation="Inverte l'asse Y della visuale in freelook e sulle attrazioni."/>
-		<entry key="CameraOptionsMenu_MiscLabel" translation="Comportamento Camera"/>
+		<entry key="CameraOptionsMenu_InvertY_ToolTip" translation="Inverte l'asse Y della visuale in Visuale Libera e sulle attrazioni."/>
+		<entry key="CameraOptionsMenu_MiscLabel" translation="Comportamento Visuale"/>
 		<entry key="CameraOptionsMenu_NoClip" translation="No Clip"/>
 		<entry key="CameraOptionsMenu_NoClip_ToolTip" translation="Permette alla visuale di muoversi attraverso il terreno"/>
 		<entry key="CameraOptionsMenu_PhysicsRaycasts" translation="Centra su Scenario"/>
-		<entry key="CameraOptionsMenu_PhysicsRaycasts_ToolTip" translation="Permette alla camera di centrare su oggetti come scenari e costruzioni in aggiunta a terreno e sentieri. Centrare sullo scenario influisce sulla velocità della camera e sulle limitazioni di zoom."/>
+		<entry key="CameraOptionsMenu_PhysicsRaycasts_ToolTip" translation="Permette alla visuale di centrare su oggetti come scenari e costruzioni in aggiunta a terreno e sentieri. Centrare sullo scenario influisce sulla velocità della visuale e sulle limitazioni di zoom."/>
 		<entry key="CameraOptionsMenu_Presets" translation="Configurazione"/>
 		<entry key="CameraOptionsMenu_Presets_Centre" translation="Semplice"/>
 		<entry key="CameraOptionsMenu_Presets_Centre_ToolTip" translation="Questo preset utilizza l'opzione Centra in Mezzo ed è per lo più simile ai giochi di strategia e gestionali. Funziona meglio nei parchi piatti.\n\nImpostazione predefinita."/>
@@ -5998,20 +5998,20 @@
 		<entry key="CameraOptionsMenu_RotateFocus" translation="Rotazione"/>
 		<entry key="CameraOptionsMenu_RotateFocus_Centre" translation="Ruota al centro"/>
 		<entry key="CameraOptionsMenu_RotateFocus_Cursor" translation="Ruota sul mouse"/>
-		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Determina attorno a cosa ruota la camera."/>
+		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Determina attorno a cosa ruota la visuale."/>
 		<entry key="CameraOptionsMenu_SensitivityKey" translation="Sensibilità Tasti"/>
 		<entry key="CameraOptionsMenu_SensitivityLabel" translation="Sensibilità"/>
 		<entry key="CameraOptionsMenu_SensitivityMouse" translation="Sensibilità Mouse"/>
 		<entry key="CameraOptionsMenu_SensitivityWheel" translation="Sensibilità Zoom"/>
-		<entry key="CameraOptionsMenu_WindowTitle" translation="Camera"/>
-		<entry key="CameraOptionsMenu_YAxisInvert_All" translation="All"/>
-		<entry key="CameraOptionsMenu_YAxisInvert_Freelook" translation="Freelook Only"/>
-		<entry key="CameraOptionsMenu_YAxisInvert_None" translation="None"/>
+		<entry key="CameraOptionsMenu_WindowTitle" translation="Visuale"/>
+		<entry key="CameraOptionsMenu_YAxisInvert_All" translation="Tutte"/>
+		<entry key="CameraOptionsMenu_YAxisInvert_Freelook" translation="Solo Visuale Libera"/>
+		<entry key="CameraOptionsMenu_YAxisInvert_None" translation="Nessuna"/>
 		<entry key="CameraOptionsMenu_ZoomFocus" translation="Comportamento Zoom"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Centre" translation="Zoom al centro"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Cursor" translation="Zoom sul mouse"/>
 		<entry key="CameraOptionsMenu_ZoomFocus_Mixed" translation="Zoom misto"/>
-		<entry key="CameraOptionsMenu_ZoomFocus_ToolTip" translation="Determina dove si muove la camera mentre fai zoom dentro e fuori."/>
+		<entry key="CameraOptionsMenu_ZoomFocus_ToolTip" translation="Determina dove si muove la visuale mentre fai zoom dentro e fuori."/>
 		<!--Career-->
 		<entry key="FanfareCareerSetUnlocked_DEXR" translation="Sei in grado di domare la frontiera selvaggia?"/>
 		<entry key="FanfareCareerSetUnlocked_KNGC" translation="Re Coaster desidera mettere alla prova la tua famigerata abilità!"/>
@@ -13674,7 +13674,7 @@
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
 		<entry key="PopUp_Ride_Occupancy" translation="Riempimento: {LAST:float}% ({AVERAGE:float}% average)"/>
 		<entry key="PopUp_Ride_Operations_Soon" translation="Operazioni sull'attrazione in elaborazione"/>
-		<entry key="PopUp_Ride_Options" translation="Opzioni Corsa"/>
+		<entry key="PopUp_Ride_Options" translation="Opzioni Attrazione"/>
 		<entry key="PopUp_Ride_Overview_Soon" translation="Panoramica attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_PassesHint" translation="Non è possibile modificare il numero di passaggi attraverso la stazione mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
@@ -13689,9 +13689,9 @@
 		<entry key="PopUp_Ride_QueueTime" translation="Tempo Coda"/>
 		<entry key="PopUp_Ride_QueueTime_Debug" translation="Tempo Coda: {LAST:float}s ({AVERAGE:float}s media)"/>
 		<entry key="PopUp_Ride_Racing" translation="Opzioni Corsa"/>
-		<entry key="PopUp_Ride_RaftSpeed" translation="Raft Speed"/>
+		<entry key="PopUp_Ride_RaftSpeed" translation="Velocità Zattera"/>
 		<entry key="PopUp_Ride_Refresh" translation="Aggiorna"/>
-		<entry key="PopUp_Ride_SleighSpeed" translation="Sleigh Speed"/>
+		<entry key="PopUp_Ride_SleighSpeed" translation="Velocità Slitta"/>
 		<entry key="PopUp_Ride_TimeBetweenDepartures" translation="Intervallo Partenze"/>
 		<entry key="PopUp_Ride_TimeBetweenDeparturesHint" translation="Il tempo che deve trascorrere prima di permettere al treno di partire&#10;- Utile per far spazio tra le vetture&#10;- Si applica anche quando l'attrazione è completamente carica"/>
 		<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minuti"/>
@@ -14088,8 +14088,8 @@
 		<entry key="InfoPanel_Ride_RequestRefurbishment_NoMechanicAccess" translation="Il Manutentore assegnato alla ristrutturazione di questa attrazione non può raggiungere l'uscita."/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_NoNeed" translation="Ristrutturazione non richiesta"/>
 		<entry key="InfoPanel_Ride_RequestRefurbishment_Untested" translation="Ristruttura (fai un Test prima)"/>
-		<entry key="InfoPanel_Ride_ScenarioTab" translation="Scenario Editor Ride Options"/>
-		<entry key="InfoPanel_Ride_Scenario_Tooltip" translation="You can manipulate this ride to suit your Scenario.&#10;Enqueue a Breakdown, alter its Wear and Tear or set its Starting Age."/>
+		<entry key="InfoPanel_Ride_ScenarioTab" translation="Opzioni Attrazione Editor Scenario"/>
+		<entry key="InfoPanel_Ride_Scenario_Tooltip" translation="Puoi modificare questa attrazione per adeguarsi al tuo Scenario.&#10;Metti in coda un guasto, altera la sua usura o imposta la sua età di partenza."/>
 		<entry key="InfoPanel_Ride_Statistics" translation="Statistiche attrazione"/>
 		<entry key="InfoPanel_Ride_Thoughts" translation="Pensieri dei visitatori"/>
 		<entry key="InfoPanel_Ride_TicketPrice" translation="Prezzo Biglietto"/>
@@ -14104,7 +14104,7 @@
 		<entry key="InfoPanel_Ride_Tooltip_ExitRideCam" translation="Abbandona Telecamera"/>
 		<entry key="InfoPanel_Ride_Tooltip_Parent" translation="Seleziona attrazione"/>
 		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Telecamera attrazione"/>
-		<entry key="InfoPanel_Ride_TriggerBreakdown_Tooltip" translation="The ride will break down at its next opportunity."/>
+		<entry key="InfoPanel_Ride_TriggerBreakdown_Tooltip" translation="L'attrazione si guasterà alla prossima occasione."/>
 		<entry key="InfoPanel_Ride_Type" translation="Tipo di attrazione"/>
 		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
 		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
@@ -15232,7 +15232,7 @@
 		<entry key="OptionsMenu_Exit" translation="Torna al Menu Principale"/>
 		<entry key="OptionsMenu_Game" translation="Partita"/>
 		<entry key="OptionsMenu_GameGlobalSettings" translation="Impostazioni Globali"/>
-		<entry key="OptionsMenu_GameLocalParkSettings" translation="Local Park Settings"/>
+		<entry key="OptionsMenu_GameLocalParkSettings" translation="Impostazioni Locali Parco"/>
 		<entry key="OptionsMenu_Gameplay" translation="Gameplay"/>
 		<entry key="OptionsMenu_GameplaySettings" translation="Impostazioni Gameplay"/>
 		<entry key="OptionsMenu_GlobalDisableCoasterObstruction" translation="Disabilita Collisioni Montagne Russe"/>
@@ -15243,23 +15243,23 @@
 		<entry key="OptionsMenu_GlobalDisableSceneryObstructionHint" translation="Impedisci alle attrazioni e alle stazioni di partenza di bloccare il posizionamento degli oggetti scenario."/>
 		<entry key="OptionsMenu_GlobalDisableTerrainObstruction" translation="Disabilita Collisioni Terreno"/>
 		<entry key="OptionsMenu_GlobalDisableTerrainObstructionHint" translation="Permetti al terreno di essere manipolato attraverso scenari o attrazioni esistenti."/>
-		<entry key="OptionsMenu_GlobalRemoveTrackLimits" translation="Disable Track Limits"/>
-		<entry key="OptionsMenu_GlobalRemoveTrackLimitsHint" translation="Removes the limits on banking and sloping angles for most coasters."/>
+		<entry key="OptionsMenu_GlobalRemoveTrackLimits" translation="Disabilità Limiti Tracciato"/>
+		<entry key="OptionsMenu_GlobalRemoveTrackLimitsHint" translation="Rimuove i limiti su angoli di curvatura e pendenza per la maggior parte delle Montagne Russe."/>
 		<entry key="OptionsMenu_GlobalRideDecline" translation="Reputazione Attrazioni"/>
 		<entry key="OptionsMenu_GlobalRideDeclineHint" translation="Disabilita il cambiamento della reputazione delle attrazioni col passare del tempo. Si applica solo a specifici Scenari e a difficoltà in modalità Sfida."/>
 		<entry key="OptionsMenu_GlobalSecurityFeatures" translation="Gestione Sicurezza Parco"/>
 		<entry key="OptionsMenu_GlobalSecurityFeaturesHint" translation="Attiva le funzioni Sicurezza. Alcuni Scenari la prevedono e ignoreranno questa impostazione."/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSlider" translation="Controlli Attrito Montagna Russa"/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSliderHint" translation="Mostra il controllo attrito della montagna russa nel pannello informazioni"/>
-		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrains" translation="Allow More Interchangeable Coaster Cars"/>
-		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrainsHint" translation="Allows some Coaster Cars to be interchanged even if they use another track. Can result in visual clipping and a default experience for track audio."/>
+		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrains" translation="Permetti più vetture intercambiabili sulle Montagne Russe"/>
+		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrainsHint" translation="Permette ad alcune vetture di essere scambiate anche se utilizzano un'altro tracciato. Può causare visual clipping ed errori alle tracce audio."/>
 		<entry key="OptionsMenu_Graphics" translation="Grafica"/>
-		<entry key="OptionsMenu_GuestLitter" translation="Guest Litter"/>
-		<entry key="OptionsMenu_GuestLitterHint" translation="Guests will drop litter."/>
-		<entry key="OptionsMenu_GuestVomit" translation="Guest Vomit"/>
-		<entry key="OptionsMenu_GuestVomitHint" translation="Guests will vomit if nauseous."/>
-		<entry key="OptionsMenu_HeatmapColourBlind" translation="Colour Blindness - Heatmap Contrast"/>
-		<entry key="OptionsMenu_HeatmapColourBlind_Tooltip" translation="This feature changes the colours of the heatmap gradients on Coasters and Track Rides. The change affects the live Data panel, the Heatmaps panel, and the on-track gradient colours."/>
+		<entry key="OptionsMenu_GuestLitter" translation="Rifiuti dei Visitatori"/>
+		<entry key="OptionsMenu_GuestLitterHint" translation="I Visitatori getteranno rifiuti."/>
+		<entry key="OptionsMenu_GuestVomit" translation="Vomito dei Visitatori"/>
+		<entry key="OptionsMenu_GuestVomitHint" translation="I Visitatori vomiteranno quando nauseati."/>
+		<entry key="OptionsMenu_HeatmapColourBlind" translation="Daltonismo - Contrasto della mappa di intensità"/>
+		<entry key="OptionsMenu_HeatmapColourBlind_Tooltip" translation="Questa opzione cambia il colore delle sfumature di intensità sulle Montagne Russe e sulle Attrazioni a Circuito. Il cambiamento influenza il pannello Dati attuali, il pannello Mappa di Intensità, e i colori delle sfumature su tracciato."/>
 		<entry key="OptionsMenu_HidePlayerName" translation="Nascondi Nome Giocatore"/>
 		<entry key="OptionsMenu_Interface" translation="Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceAutoScale" translation="Dimensione Automatica Interfaccia"/>
@@ -15289,9 +15289,9 @@
 		<entry key="OptionsMenu_LoadPrompt_ConfirmHeader" translation="Carica Parco Salvato"/>
 		<entry key="OptionsMenu_LoadPrompt_ConfirmLabel" translation="Caricare il salvataggio '{Name}'?&#10;Perderai le modifiche non salvate."/>
 		<entry key="OptionsMenu_LoadPrompt_ConfirmOk" translation="OK"/>
-		<entry key="OptionsMenu_LocalParkSettingsNotInPark" translation="Setting only applies within a park"/>
-		<entry key="OptionsMenu_LocalParkStaffEnergyFeatures" translation="Staff Management Features"/>
-		<entry key="OptionsMenu_LocalParkStaffEnergyFeaturesHint" translation="Enable Staff Management Features. Some Scenarios require them and will override this setting.&#10;Changing this setting will not only enable/disable the staff energy system but will also change the values of hiring staff and their wage requirements."/>
+		<entry key="OptionsMenu_LocalParkSettingsNotInPark" translation="L'impostazione si attiva solo in un parco"/>
+		<entry key="OptionsMenu_LocalParkStaffEnergyFeatures" translation="Funzioni Gestione Staff"/>
+		<entry key="OptionsMenu_LocalParkStaffEnergyFeaturesHint" translation="Attiva le Funzioni di Gestione dello Staff. Alcuni Scenari le richiedono e ignoreranno questa impostazione.&#10;Variare questa impostazione non solo abiliterà/disabiliterà il sistema di Energia dello Staff ma cambierà anche i costi di assunzione dello Staff e le loro richieste salariali."/>
 		<entry key="OptionsMenu_LockCursorToFullscreen" translation="Blocca Cursore in Schermo Intero"/>
 		<entry key="OptionsMenu_LockCursorToWindow" translation="Blocca Cursore in Finestra"/>
 		<entry key="OptionsMenu_Notifications" translation="Notifiche"/>
@@ -15302,13 +15302,13 @@
 		<entry key="OptionsMenu_NotificationsStaff" translation="Pop-ups Staff"/>
 		<entry key="OptionsMenu_NotificationsStalls" translation="Pop-ups Negozi"/>
 		<entry key="OptionsMenu_NotificationsTitle" translation="Pop-ups Notifiche"/>
-		<entry key="OptionsMenu_OnlyInSandboxMode" translation="Only editable in sandbox mode"/>
+		<entry key="OptionsMenu_OnlyInSandboxMode" translation="Modificabile solo in modalità sandbox"/>
 		<entry key="OptionsMenu_Options" translation="Impostazioni"/>
 		<entry key="OptionsMenu_OtherInterfaceOptions" translation="Altre Opzioni Interfaccia"/>
 		<entry key="OptionsMenu_Preview" translation="Anteprima"/>
 		<entry key="OptionsMenu_Resume" translation="Riprendi"/>
-		<entry key="OptionsMenu_RideBreakdowns" translation="Ride Breakdowns"/>
-		<entry key="OptionsMenu_RideBreakdownsHint" translation="Enable Ride Breakdowns. Rides will require maintenance, or will break down."/>
+		<entry key="OptionsMenu_RideBreakdowns" translation="Guasti Attrazioni"/>
+		<entry key="OptionsMenu_RideBreakdownsHint" translation="Abiliti i guasti nelle Attrazioni. Le Attrazioni necessiteranno di manutenzione o altrimenti si guasteranno."/>
 		<entry key="OptionsMenu_SaveAs" translation="Salva come..."/>
 		<entry key="OptionsMenu_SaveMenu_LoadDate" translation="{TimeString} - {DateString}"/>
 		<entry key="OptionsMenu_SaveMenu_LoadDate_AM" translation="AM"/>
@@ -15321,12 +15321,12 @@
 		<entry key="OptionsMenu_SaveMenu_SavesNameHeader" translation="Nome"/>
 		<entry key="OptionsMenu_SaveMenu_SavesTypeHeader" translation="Tipo di Parco"/>
 		<entry key="OptionsMenu_SaveMenu_Saving" translation="Salvataggio..."/>
-		<entry key="OptionsMenu_SaveMenu_SpawnPointWarning" translation="&lt;font color='#FF0000'&gt;Warning: No guest spawn points present&lt;/font&gt;"/>
+		<entry key="OptionsMenu_SaveMenu_SpawnPointWarning" translation="&lt;font color='#FF0000'&gt;Attenzione: Nessun punto di generazione dei Visitatori impostato&lt;/font&gt;"/>
 		<entry key="OptionsMenu_SaveMenu_TypeChallenge" translation="Sfida"/>
 		<entry key="OptionsMenu_SaveMenu_TypeSandbox" translation="Sandbox"/>
 		<entry key="OptionsMenu_SaveMenu_TypeScenarioCareer" translation="Carriera"/>
-		<entry key="OptionsMenu_SaveMenu_TypeScenarioEdit" translation="Scenario Editor"/>
-		<entry key="OptionsMenu_SaveMenu_TypeScenarioOther" translation="Custom Scenario"/>
+		<entry key="OptionsMenu_SaveMenu_TypeScenarioEdit" translation="Editor Scenario"/>
+		<entry key="OptionsMenu_SaveMenu_TypeScenarioOther" translation="Scenario Personalizzato"/>
 		<entry key="OptionsMenu_SaveMenu_UnknownType" translation="-"/>
 		<entry key="OptionsMenu_SavePrompt_EraseAutoSaveLabel" translation="Eliminare il Salvataggio Automatico '{Name}'?"/>
 		<entry key="OptionsMenu_SavePrompt_EraseCancel" translation="Annulla"/>
@@ -15345,20 +15345,20 @@
 		<entry key="OptionsMenu_ScaleMenuEntry" translation="Regola Ingrandimento Interfaccia"/>
 		<entry key="OptionsMenu_Settings" translation="Impostazioni"/>
 		<entry key="OptionsMenu_ShowParkBoundary" translation="Mostra Confine Parco"/>
-		<entry key="OptionsMenu_StaffHappiness" translation="Staff Happiness"/>
-		<entry key="OptionsMenu_StaffHappinessHint" translation="Enable Staff Happiness. Staff happiness will require management, or they may quit."/>
-		<entry key="OptionsMenu_ToiletCleanliness" translation="Toilet Cleanliness"/>
-		<entry key="OptionsMenu_ToiletCleanlinessHint" translation="Enable Toilet Cleanliness. Toilets will require periodic cleaning after use."/>
+		<entry key="OptionsMenu_StaffHappiness" translation="Felicità dello Staff"/>
+		<entry key="OptionsMenu_StaffHappinessHint" translation="Abilita la Felicità dello Staff. Richiederà un'ottima gestione o lo Staff si licenzierà."/>
+		<entry key="OptionsMenu_ToiletCleanliness" translation="Pulizia Bagni"/>
+		<entry key="OptionsMenu_ToiletCleanlinessHint" translation="Abilita la Pulizia dei Bagni. I Bagni richiederanno una pulizia periodica dopo l'utilizzo."/>
 		<entry key="OptionsMenu_apply" translation="Applica"/>
 		<entry key="OptionsMenu_back" translation="Indietro"/>
 		<entry key="OptionsMenu_cancel" translation="Annulla"/>
 		<entry key="OptionsMenu_load" translation="Carica"/>
 		<entry key="OptionsMenu_ok" translation="Ok"/>
 		<entry key="OptionsMenu_quit" translation="Abbandona Planet Coaster"/>
-		<entry key="OptionsMenu_remove" translation="Remove DLC"/>
+		<entry key="OptionsMenu_remove" translation="Rimuovi DLC"/>
 		<entry key="OptionsMenu_save" translation="Salva"/>
-		<entry key="OptionsMenu_savescenario" translation="Save Scenario"/>
-		<entry key="OptionsMenu_savescenarioandplay" translation="Save Scenario and Play"/>
+		<entry key="OptionsMenu_savescenario" translation="Salva Scenario"/>
+		<entry key="OptionsMenu_savescenarioandplay" translation="Salva Scenario e Gioca"/>
 		<entry key="OptionsMenu_windowTitle" translation="Opzioni"/>
 		<!--PDLC_Adventure_Blueprints-->
 		<entry key="AdventureArchwayBlueprint" translation="Adventure Scorpion Archway"/>
