@@ -629,7 +629,7 @@
 		<entry key="BuildingPartCategory_Building_Decorations" translation="Decorazioni"/>
 		<entry key="BuildingPartCategory_Building_Facilities" translation="Negozi e Servizi"/>
 		<entry key="BuildingPartCategory_Building_Roofs" translation="Tetti"/>
-		<entry key="BuildingPartCategory_Building_Signs" translation="Cartelli da Parete"/>
+		<entry key="BuildingPartCategory_Building_Signs" translation="Insegne a Parete"/>
 		<entry key="BuildingPartCategory_Building_Simulation" translation="Strutture"/>
 		<entry key="BuildingPartCategory_Building_Walls" translation="Muri"/>
 		<entry key="BuildingPartCategory_Path_Extras" translation="Extra per Sentieri"/>
@@ -15232,7 +15232,7 @@
 		<entry key="OptionsMenu_Exit" translation="Torna al Menu Principale"/>
 		<entry key="OptionsMenu_Game" translation="Partita"/>
 		<entry key="OptionsMenu_GameGlobalSettings" translation="Impostazioni Globali"/>
-		<entry key="OptionsMenu_GameLocalParkSettings" translation="Local Park Settings"/>
+		<entry key="OptionsMenu_GameLocalParkSettings" translation="Impostazioni Locali Parco"/>
 		<entry key="OptionsMenu_Gameplay" translation="Gameplay"/>
 		<entry key="OptionsMenu_GameplaySettings" translation="Impostazioni Gameplay"/>
 		<entry key="OptionsMenu_GlobalDisableCoasterObstruction" translation="Disabilita Collisioni Montagne Russe"/>
@@ -15244,14 +15244,14 @@
 		<entry key="OptionsMenu_GlobalDisableTerrainObstruction" translation="Disabilita Collisioni Terreno"/>
 		<entry key="OptionsMenu_GlobalDisableTerrainObstructionHint" translation="Permetti al terreno di essere manipolato attraverso scenari o attrazioni esistenti."/>
 		<entry key="OptionsMenu_GlobalRemoveTrackLimits" translation="Disabilità Limiti Tracciato"/>
-		<entry key="OptionsMenu_GlobalRemoveTrackLimitsHint" translation="Remuove i limiti su angoli di curvatura e pendenza per la maggior parte delle Montagne Russe."/>
+		<entry key="OptionsMenu_GlobalRemoveTrackLimitsHint" translation="Rimuove i limiti su angoli di curvatura e pendenza per la maggior parte delle Montagne Russe."/>
 		<entry key="OptionsMenu_GlobalRideDecline" translation="Reputazione Attrazioni"/>
 		<entry key="OptionsMenu_GlobalRideDeclineHint" translation="Disabilita il cambiamento della reputazione delle attrazioni col passare del tempo. Si applica solo a specifici Scenari e a difficoltà in modalità Sfida."/>
 		<entry key="OptionsMenu_GlobalSecurityFeatures" translation="Gestione Sicurezza Parco"/>
 		<entry key="OptionsMenu_GlobalSecurityFeaturesHint" translation="Attiva le funzioni Sicurezza. Alcuni Scenari la prevedono e ignoreranno questa impostazione."/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSlider" translation="Controlli Attrito Montagna Russa"/>
 		<entry key="OptionsMenu_GlobalShowCoasterFrictionSliderHint" translation="Mostra il controllo attrito della montagna russa nel pannello informazioni"/>
-		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrains" translation="Permetti più Vetture Intercambiabili sulle Montagne Russe"/>
+		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrains" translation="Permetti più vetture intercambiabili sulle Montagne Russe"/>
 		<entry key="OptionsMenu_GlobalShowExtraInterchangeableTrainsHint" translation="Permette ad alcune vetture di essere scambiate anche se utilizzano un'altro tracciato. Può causare visual clipping ed errori alle tracce audio."/>
 		<entry key="OptionsMenu_Graphics" translation="Grafica"/>
 		<entry key="OptionsMenu_GuestLitter" translation="Rifiuti dei Visitatori"/>
