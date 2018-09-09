@@ -19596,7 +19596,7 @@
 		<entry key="ParkManagement_DutyRosters_Name" translation="Nome della coda"/>
 		<entry key="ParkManagement_DutyRosters_NoItems" translation="Non hai compiti in coda"/>
 		<entry key="ParkManagement_DutyRosters_Tools" translation="Strumenti"/>
-		<entry key="ParkManagement_Energy_With_Percent" translation="Energy - {percent}"/>
+		<entry key="ParkManagement_Energy_With_Percent" translation="Energia - {percent}"/>
 		<entry key="ParkManagement_EntranceTicketPrices" translation="Prezzi del biglietto di entrata"/>
 		<entry key="ParkManagement_ExpenditureCategory_CoasterRunningCosts" translation="Costi di esercizio delle Montagne Russe"/>
 		<entry key="ParkManagement_ExpenditureCategory_CoasterTickets" translation="Vendita biglietti delle Montagne Russe"/>
@@ -19681,12 +19681,12 @@
 		<entry key="ParkManagement_Guests_Graph_Teen_Count" translation="Membri del gruppo di ragazzi"/>
 		<entry key="ParkManagement_Guests_Graph_Total_Count" translation="Visitatori totali"/>
 		<entry key="ParkManagement_Guests_Tooltip" translation="Pensieri dei visitatori e informazioni"/>
-		<entry key="ParkManagement_Happiness_With_Percent" translation="Happiness - {percent}"/>
+		<entry key="ParkManagement_Happiness_With_Percent" translation="Felicità - {percent}"/>
 		<entry key="ParkManagement_HireStaff" translation="Assumi dipendente"/>
 		<entry key="ParkManagement_Hotel_RoomCount" translation="{count:int} Rooms"/>
 		<entry key="ParkManagement_Hotels" translation="Hotels"/>
 		<entry key="ParkManagement_HotelsDesc" translation="Hotels allow Guests to stay the night instead of having to leave the Park."/>
-		<entry key="ParkManagement_Hunger_With_Percent" translation="Hunger - {percent}"/>
+		<entry key="ParkManagement_Hunger_With_Percent" translation="Fame - {percent}"/>
 		<entry key="ParkManagement_LeavingGuestThoughts" translation="Pensieri dei visitatori che vanno via"/>
 		<entry key="ParkManagement_List_Age" translation="Età"/>
 		<entry key="ParkManagement_List_AllStaff" translation="Tutti i dipendenti"/>
@@ -19988,7 +19988,7 @@
 		<entry key="ParkManagement_Staff_Workload_Low" translation="Basso"/>
 		<entry key="ParkManagement_Staff_Workload_Medium" translation="Normale"/>
 		<entry key="ParkManagement_TeenGroups" translation="Gruppi di ragazzi"/>
-		<entry key="ParkManagement_Thirst_With_Percent" translation="Thirst - {percent}"/>
+		<entry key="ParkManagement_Thirst_With_Percent" translation="Sete - {percent}"/>
 		<entry key="ParkManagement_TicketLifetimeVisitors" translation="Visitatori dall'apertura del parco"/>
 		<entry key="ParkManagement_TicketMissedSalesLastMonth" translation="Vendite perse l'ultimo mese"/>
 		<entry key="ParkManagement_TicketPrices" translation="Prezzi biglietto"/>
@@ -20003,7 +20003,7 @@
 		<entry key="ParkManagement_TicketVisitorsLastMonth" translation="Visitatori dell'ultimo mese"/>
 		<entry key="ParkManagement_Tickets_ParkCapacityCannotBeChangedInScenario" translation="La capacità del parco non può essere cambiata in questo scenario"/>
 		<entry key="ParkManagement_TitleStatus" translation="Stato del parco: {STATUS}"/>
-		<entry key="ParkManagement_Toilet_With_Percent" translation="Toilet - {percent}"/>
+		<entry key="ParkManagement_Toilet_With_Percent" translation="Toilette - {percent}"/>
 		<entry key="ParkManagement_TopThoughts" translation="Migliori pensieri dei visitatori"/>
 		<entry key="ParkManagement_Triggers" translation="Inneschi"/>
 		<entry key="ParkManagement_UnconnectedRooms" translation="Unconnected Rooms"/>
@@ -20547,22 +20547,22 @@
 		<entry key="Objective_Condition_Name_TotalAirTimeMax" translation="Maximum Total Air Time"/>
 		<entry key="Objective_Condition_Name_TotalAirTimeMin" translation="Minimum Total Air Time"/>
 		<entry key="Objective_Condition_Variable_AllowBreakdowns" translation="Allow Broken Down Rides"/>
-		<entry key="Objective_Condition_Variable_AverageHappiness" translation="Happiness"/>
-		<entry key="Objective_Condition_Variable_AverageSpeedMax" translation="Speed"/>
-		<entry key="Objective_Condition_Variable_AverageSpeedMin" translation="Speed"/>
+		<entry key="Objective_Condition_Variable_AverageHappiness" translation="Felicità"/>
+		<entry key="Objective_Condition_Variable_AverageSpeedMax" translation="Velocità"/>
+		<entry key="Objective_Condition_Variable_AverageSpeedMin" translation="Velocità"/>
 		<entry key="Objective_Condition_Variable_CycleTimeMax" translation="Time"/>
 		<entry key="Objective_Condition_Variable_CycleTimeMin" translation="Time"/>
-		<entry key="Objective_Condition_Variable_DeadlineMonths" translation="Month"/>
-		<entry key="Objective_Condition_Variable_DeadlineYears" translation="Year"/>
+		<entry key="Objective_Condition_Variable_DeadlineMonths" translation="Mese"/>
+		<entry key="Objective_Condition_Variable_DeadlineYears" translation="Anno"/>
 		<entry key="Objective_Condition_Variable_ExcitementMin" translation="Excitement"/>
 		<entry key="Objective_Condition_Variable_FearMax" translation="Fear"/>
 		<entry key="Objective_Condition_Variable_FearMin" translation="Fear"/>
-		<entry key="Objective_Condition_Variable_LengthMax" translation="Length"/>
-		<entry key="Objective_Condition_Variable_LengthMin" translation="Length"/>
-		<entry key="Objective_Condition_Variable_MaxDropMax" translation="Height"/>
-		<entry key="Objective_Condition_Variable_MaxDropMin" translation="Height"/>
-		<entry key="Objective_Condition_Variable_MaxSpeedMax" translation="Speed"/>
-		<entry key="Objective_Condition_Variable_MaxSpeedMin" translation="Speed"/>
+		<entry key="Objective_Condition_Variable_LengthMax" translation="Lunghezza"/>
+		<entry key="Objective_Condition_Variable_LengthMin" translation="Lunghezza"/>
+		<entry key="Objective_Condition_Variable_MaxDropMax" translation="Altezza"/>
+		<entry key="Objective_Condition_Variable_MaxDropMin" translation="Altezza"/>
+		<entry key="Objective_Condition_Variable_MaxSpeedMax" translation="Velocità"/>
+		<entry key="Objective_Condition_Variable_MaxSpeedMin" translation="Velocità"/>
 		<entry key="Objective_Condition_Variable_MinStaff" translation="Staff"/>
 		<entry key="Objective_Condition_Variable_MinimumGuests" translation="Guests"/>
 		<entry key="Objective_Condition_Variable_MonthlyProfit" translation="Amount"/>
@@ -20571,9 +20571,9 @@
 		<entry key="Objective_Condition_Variable_NumAirTimeMin" translation="Moments"/>
 		<entry key="Objective_Condition_Variable_NumInversionsMax" translation="Inversions"/>
 		<entry key="Objective_Condition_Variable_NumInversionsMin" translation="Inversions"/>
-		<entry key="Objective_Condition_Variable_NumberOfMonths" translation="Months"/>
+		<entry key="Objective_Condition_Variable_NumberOfMonths" translation="Mesi"/>
 		<entry key="Objective_Condition_Variable_ParkRating" translation="Rating"/>
-		<entry key="Objective_Condition_Variable_PrestigeMin" translation="Prestige"/>
+		<entry key="Objective_Condition_Variable_PrestigeMin" translation="Prestigio"/>
 		<entry key="Objective_Condition_Variable_Rooms" translation="Rooms"/>
 		<entry key="Objective_Condition_Variable_TotalAirTimeMax" translation="Time"/>
 		<entry key="Objective_Condition_Variable_TotalAirTimeMin" translation="Time"/>
@@ -20581,7 +20581,7 @@
 		<entry key="Objective_Item_Capacity" translation="Total Capacity"/>
 		<entry key="Objective_Item_FewerThan" translation="Fewer Than"/>
 		<entry key="Objective_Item_FlatRidesOnly" translation="Exclude Coasters and Tracked Rides"/>
-		<entry key="Objective_Item_ForMonths" translation="For a Number of Months"/>
+		<entry key="Objective_Item_ForMonths" translation="Per un numero di mesi"/>
 		<entry key="Objective_Item_GoKarts" translation="Apply to Go-Karts instead of Coasters"/>
 		<entry key="Objective_Item_NumberOfMonths" translation="Over a Number of Months"/>
 		<entry key="Objective_Item_PerMonth" translation="Per Month"/>
@@ -20653,29 +20653,29 @@
 		<entry key="Objectives_CatchPickpockets_ViewSingular" translation="Prendi un borseggiatore"/>
 		<entry key="Objectives_ClearLoans_View" translation="Restituisci tutti i Prestiti"/>
 		<entry key="Objectives_CompanyValue_View" translation="Ottieni un Valore Compagnia pari a {Value:currency}"/>
-		<entry key="Objectives_CompletedDifficulty1" translation="Obiettivi Facili Completati"/>
-		<entry key="Objectives_CompletedDifficulty2" translation="Obiettivi Medi Completati"/>
-		<entry key="Objectives_CompletedDifficulty3" translation="Obiettivi Difficili Completati"/>
+		<entry key="Objectives_CompletedDifficulty1" translation="Obiettivi facili completati"/>
+		<entry key="Objectives_CompletedDifficulty2" translation="Obiettivi medi completati"/>
+		<entry key="Objectives_CompletedDifficulty3" translation="Obiettivi difficili completati"/>
 		<entry key="Objectives_CurrentThefts" translation="Vittime di furto attuali: {Value:int}"/>
 		<entry key="Objectives_CurrentTheftsPercentage" translation="Tasso di furti attuale: {Value:float:decimalPlaces=1}%"/>
 		<entry key="Objectives_CycleTimeMax" translation="Dura al massimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_CycleTimeMin" translation="Dura minimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_Deadline" translation="Before then end of {Month} year {Year:int}."/>
-		<entry key="Objectives_Deadline_Month" translation="1 month"/>
-		<entry key="Objectives_Deadline_Months" translation="{Months:int} months"/>
+		<entry key="Objectives_Deadline_Month" translation="1 mese"/>
+		<entry key="Objectives_Deadline_Months" translation="{Months:int} mesi"/>
 		<entry key="Objectives_Deadline_MonthsRemaining" translation="Less than {Months} remaining"/>
 		<entry key="Objectives_Deadline_TimeRemaining" translation="Less than {Years} and {Months} remaining"/>
-		<entry key="Objectives_Deadline_Year" translation="1 year"/>
-		<entry key="Objectives_Deadline_Years" translation="{Years:int} years"/>
+		<entry key="Objectives_Deadline_Year" translation="1 anno"/>
+		<entry key="Objectives_Deadline_Years" translation="{Years:int} anni"/>
 		<entry key="Objectives_Deadline_YearsRemaining" translation="Less than {Years} remaining"/>
 		<entry key="Objectives_DecimalValue" translation="{Value:float:decimalPlaces=2}"/>
 		<entry key="Objectives_Difficulty1" translation="Facile"/>
 		<entry key="Objectives_Difficulty2" translation="Medio"/>
 		<entry key="Objectives_Difficulty3" translation="Difficile"/>
 		<entry key="Objectives_ExcitementMin" translation="Almeno {Value:float:decimalPlaces=1} di Eccitazione"/>
-		<entry key="Objectives_FailedDifficulty1" translation="Easy objectives failed"/>
-		<entry key="Objectives_FailedDifficulty2" translation="Medium objectives failed"/>
-		<entry key="Objectives_FailedDifficulty3" translation="Hard objectives failed"/>
+		<entry key="Objectives_FailedDifficulty1" translation="Obiettivi facili falliti"/>
+		<entry key="Objectives_FailedDifficulty2" translation="Obiettivi medi falliti"/>
+		<entry key="Objectives_FailedDifficulty3" translation="Obiettivi difficili falliti"/>
 		<entry key="Objectives_FearMax" translation="Al massimo {Value:float:decimalPlaces=1} di Paura"/>
 		<entry key="Objectives_FearMin" translation="Almeno {Value:float:decimalPlaces=1} di Paura"/>
 		<entry key="Objectives_FireworksDisplay_MaxViewingTime" translation="Tempo Massimo che un visitatore ha guardato uno spettacolo: {Value:float:decimalPlaces=2} secondi"/>
@@ -20778,7 +20778,7 @@
 		<entry key="ScenarioEditor_Guests_TraitWeight_High" translation="High"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Low" translation="Low"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="None"/>
+		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="Nessuno"/>
 		<!--ScenarioObjectTranslations-->
 		<entry key="C2_ChiefBeefsRaceway_Building01" translation="Race Pits"/>
 		<entry key="C2_ChiefBeefsRaceway_Building02" translation="Dusan's Yacht"/>
