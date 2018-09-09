@@ -20661,12 +20661,12 @@
 		<entry key="Objectives_CycleTimeMax" translation="Dura al massimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_CycleTimeMin" translation="Dura minimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_Deadline" translation="Before then end of {Month} year {Year:int}."/>
-		<entry key="Objectives_Deadline_Month" translation="1 month"/>
-		<entry key="Objectives_Deadline_Months" translation="{Months:int} months"/>
+		<entry key="Objectives_Deadline_Month" translation="1 mese"/>
+		<entry key="Objectives_Deadline_Months" translation="{Months:int} mesi"/>
 		<entry key="Objectives_Deadline_MonthsRemaining" translation="Less than {Months} remaining"/>
 		<entry key="Objectives_Deadline_TimeRemaining" translation="Less than {Years} and {Months} remaining"/>
-		<entry key="Objectives_Deadline_Year" translation="1 year"/>
-		<entry key="Objectives_Deadline_Years" translation="{Years:int} years"/>
+		<entry key="Objectives_Deadline_Year" translation="1 anno"/>
+		<entry key="Objectives_Deadline_Years" translation="{Years:int} anni"/>
 		<entry key="Objectives_Deadline_YearsRemaining" translation="Less than {Years} remaining"/>
 		<entry key="Objectives_DecimalValue" translation="{Value:float:decimalPlaces=2}"/>
 		<entry key="Objectives_Difficulty1" translation="Facile"/>
@@ -20693,8 +20693,8 @@
 		<entry key="Objectives_HotelUses_View_Multiple_Any" translation="Have {Value:int} groups use your hotels a month, for {Months:int} consecutive months"/>
 		<entry key="Objectives_HotelUses_View_Multiple_Luxury" translation="Have {Value:int} groups use luxury hotel rooms a month, for {Months:int} consecutive months"/>
 		<entry key="Objectives_HotelUses_View_Multiple_Standard" translation="Have {Value:int} groups use standard hotel rooms a month, for {Months:int} consecutive months"/>
-		<entry key="Objectives_HotelUses_View_Singular_Any" translation="Avere {Value:int} gruppi che usano i tuoi hotel in un mese"/>
-		<entry key="Objectives_HotelUses_View_Singular_Luxury" translation="Avere {Value:int} groups use luxury hotel rooms in a month"/>
+		<entry key="Objectives_HotelUses_View_Singular_Any" translation="Have {Value:int} groups use your hotels in a month"/>
+		<entry key="Objectives_HotelUses_View_Singular_Luxury" translation="Have {Value:int} groups use luxury hotel rooms in a month"/>
 		<entry key="Objectives_HotelUses_View_Singular_Standard" translation="Have {Value:int} groups use standard hotel rooms in a month"/>
 		<entry key="Objectives_KeepTheftVictimsLowPercentage_View" translation="Mantieni le vittime di furto attuali sotto il {Value:float:decimalPlaces=1}% per {Months:int} mesi consecutivi"/>
 		<entry key="Objectives_KeepTheftVictimsLow_View" translation="Mantieni le vittime di furto attuali sotto {Value:int} per {Months:int} mesi consecutivi"/>
@@ -20778,7 +20778,7 @@
 		<entry key="ScenarioEditor_Guests_TraitWeight_High" translation="High"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Low" translation="Low"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="None"/>
+		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="Nessuno"/>
 		<!--ScenarioObjectTranslations-->
 		<entry key="C2_ChiefBeefsRaceway_Building01" translation="Race Pits"/>
 		<entry key="C2_ChiefBeefsRaceway_Building02" translation="Dusan's Yacht"/>
