@@ -5268,8 +5268,8 @@
 		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinazioni consigliate da questo elemento scenario"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Localizza Destinazione"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_Information_DestinationsDescription" translation="Destinations advertised by this kiosk"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_Information_SetAdvertisedDestinationsToolTip" translation="Multi-select guest destinations to be advertised by this kiosk"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Information_DestinationsDescription" translation="Destinazioni pubblicizzate da questo chiosco"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Information_SetAdvertisedDestinationsToolTip" translation="Seleziona più destinazioni per i visitatori da pubblicizzare con questo chiosco"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Rimuovi tutte le Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Rimuovi Destinazioni"/>
@@ -5741,20 +5741,20 @@
 		<entry key="Staff_Status_WaitingForCustomersToServe" translation="Attende clienti da servire"/>
 		<entry key="Staff_Vendor_Desc" translation="Serve clienti nei negozi"/>
 		<!--C4_TrackElements-->
-		<entry key="TrackElementDesc_ChannelEntry" translation="Drops the boat into the water."/>
-		<entry key="TrackElementDesc_ChannelTrack" translation="Channel of water that pushes the boat along."/>
-		<entry key="TrackElementDesc_ConveyorBeltChainStart" translation="Starts lifting the boat uphill and allows a continuous transition into a chain lift."/>
-		<entry key="TrackElementDesc_ConveyorBeltChannelExit" translation="Lifts the boat out of the water onto normal track."/>
-		<entry key="TrackElementDesc_HydraulicLaunch_End" translation="HydraulicLaunch_End Description"/>
-		<entry key="TrackElementDesc_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext Description"/>
-		<entry key="TrackElementDesc_HydraulicLaunch_Start" translation="HydraulicLaunch_Start Description"/>
-		<entry key="TrackElementDesc_LogSplashCustom" translation="Starts the splashdown section with customizable entrance height."/>
+		<entry key="TrackElementDesc_ChannelEntry" translation="Spinge la barca nell'acqua."/>
+		<entry key="TrackElementDesc_ChannelTrack" translation="Canale acquatico che spinge la barca in avanti."/>
+		<entry key="TrackElementDesc_ConveyorBeltChainStart" translation="Inizia la salita della barca e permette una transizione continua nella salita a catena."/>
+		<entry key="TrackElementDesc_ConveyorBeltChannelExit" translation="Tira fuori la barca dall'acqua verso un tracciato normale."/>
+		<entry key="TrackElementDesc_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
+		<entry key="TrackElementDesc_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
+		<entry key="TrackElementDesc_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
+		<entry key="TrackElementDesc_LogSplashCustom" translation="Inizia la sezione a spruzzi con un'altezza di entrata personalizzabile."/>
 		<entry key="TrackElementDesc_TopHat_Down" translation="Top Hat Drop"/>
-		<entry key="TrackElementDesc_TopHat_DownRoll" translation="Drop Roll Description"/>
-		<entry key="TrackElementDesc_TopHat_DownTwist" translation="Drop Twist Description"/>
-		<entry key="TrackElementDesc_TopHat_SlopeDown" translation="Top Hat Exit Description"/>
-		<entry key="TrackElementDesc_TopHat_SlopeUp" translation="Top Hat Entry Description"/>
-		<entry key="TrackElementDesc_TopHat_Top" translation="Top Hat Top Description"/>
+		<entry key="TrackElementDesc_TopHat_DownRoll" translation="Drop Roll"/>
+		<entry key="TrackElementDesc_TopHat_DownTwist" translation="Drop Twist"/>
+		<entry key="TrackElementDesc_TopHat_SlopeDown" translation="Uscita Top Hat"/>
+		<entry key="TrackElementDesc_TopHat_SlopeUp" translation="Entrata Top Hat"/>
+		<entry key="TrackElementDesc_TopHat_Top" translation="Cima Top Hat"/>
 		<entry key="TrackElementDesc_TopHat_TopDropRollLeft" translation="Drop Roll Left Description"/>
 		<entry key="TrackElementDesc_TopHat_TopDropRollRight" translation="Drop Roll Right Description"/>
 		<entry key="TrackElementDesc_TopHat_TopDropTwistLeft" translation="Drop Twist Left Description"/>
@@ -5766,177 +5766,177 @@
 		<entry key="TrackElementDesc_TopHat_Up" translation="Top Hat Incline Description"/>
 		<entry key="TrackElementDesc_TopHat_UpRoll" translation="Incline Roll Description"/>
 		<entry key="TrackElementDesc_TopHat_UpTwist" translation="Incline Twist Description"/>
-		<entry key="TrackElementName_ChannelEntry" translation="Channel Entry"/>
-		<entry key="TrackElementName_ChannelTrack" translation="Channel Track"/>
+		<entry key="TrackElementName_ChannelEntry" translation="Entrata Canale"/>
+		<entry key="TrackElementName_ChannelTrack" translation="Sezione Canale"/>
 		<entry key="TrackElementName_ConveyorBeltChainStart" translation="Conveyor Belt Chain Lift Start"/>
 		<entry key="TrackElementName_ConveyorBeltChannelExit" translation="Conveyor Belt Channel Exit"/>
-		<entry key="TrackElementName_HydraulicLaunch_End" translation="HydraulicLaunch_End"/>
-		<entry key="TrackElementName_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext"/>
-		<entry key="TrackElementName_HydraulicLaunch_Start" translation="HydraulicLaunch_Start"/>
-		<entry key="TrackElementName_LogSplashCustom" translation="Splash Down Custom"/>
+		<entry key="TrackElementName_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
+		<entry key="TrackElementName_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
+		<entry key="TrackElementName_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
+		<entry key="TrackElementName_LogSplashCustom" translation="Spruzzi Personalizzabili"/>
 		<entry key="TrackElementName_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementName_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementName_TopHat_DownTwist" translation="Drop Twist"/>
-		<entry key="TrackElementName_TopHat_SlopeDown" translation="Top Hat Exit"/>
-		<entry key="TrackElementName_TopHat_SlopeUp" translation="Top Hat Entry"/>
-		<entry key="TrackElementName_TopHat_Top" translation="Top Hat Top"/>
-		<entry key="TrackElementName_TopHat_TopDropRollLeft" translation="Drop Roll Left"/>
-		<entry key="TrackElementName_TopHat_TopDropRollRight" translation="Drop Roll Right"/>
-		<entry key="TrackElementName_TopHat_TopDropTwistLeft" translation="Drop Twist Left"/>
-		<entry key="TrackElementName_TopHat_TopDropTwistRight" translation="Drop Twist Right"/>
-		<entry key="TrackElementName_TopHat_TopUpRollLeft" translation="Incline Roll Left"/>
-		<entry key="TrackElementName_TopHat_TopUpRollRight" translation="Incline Roll Right"/>
-		<entry key="TrackElementName_TopHat_TopUpTwistLeft" translation="Incline Twist Left"/>
-		<entry key="TrackElementName_TopHat_TopUpTwistRight" translation="Incline Twist Right"/>
+		<entry key="TrackElementName_TopHat_SlopeDown" translation="Uscita Top Hat"/>
+		<entry key="TrackElementName_TopHat_SlopeUp" translation="Entrata Top Hat"/>
+		<entry key="TrackElementName_TopHat_Top" translation="Cima Top Hat"/>
+		<entry key="TrackElementName_TopHat_TopDropRollLeft" translation="Drop Roll Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopDropRollRight" translation="Drop Roll Destro"/>
+		<entry key="TrackElementName_TopHat_TopDropTwistLeft" translation="Drop Twist Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopDropTwistRight" translation="Drop Twist Destro"/>
+		<entry key="TrackElementName_TopHat_TopUpRollLeft" translation="Incline Roll Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopUpRollRight" translation="Incline Roll Destro"/>
+		<entry key="TrackElementName_TopHat_TopUpTwistLeft" translation="Incline Twist Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopUpTwistRight" translation="Incline Twist Destro"/>
 		<entry key="TrackElementName_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementName_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementName_TopHat_UpTwist" translation="Incline Twist"/>
-		<entry key="TrackElementTool_ChannelEntry" translation="&lt;font color='accent'&gt;Channel Entry&lt;/font&gt;&#10;Drops the boat into the water."/>
-		<entry key="TrackElementTool_ChannelTrack" translation="&lt;font color='accent'&gt;Water Channel&lt;/font&gt;&#10;Channel of water that pushes the boat round."/>
-		<entry key="TrackElementTool_ConveyorBeltChainStart" translation="&lt;font color='accent'&gt;Conveyor Belt Chain Lift Start&lt;/font&gt;&#10;Starts lifting the boat uphill and allows a continuous transition into a chain lift."/>
-		<entry key="TrackElementTool_ConveyorBeltChannelExit" translation="&lt;font color='accent'&gt;Conveyor Belt Channel Exit&lt;/font&gt;&#10;Lifts the boat out of the water onto normal track."/>
-		<entry key="TrackElementTool_HydraulicLaunch_End" translation="HydraulicLaunch_End"/>
-		<entry key="TrackElementTool_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext"/>
-		<entry key="TrackElementTool_HydraulicLaunch_Start" translation="HydraulicLaunch_Start"/>
-		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Splash Down Custom&lt;/font&gt;&#10;Starts the splashdown section with customizable entrance height."/>
+		<entry key="TrackElementTool_ChannelEntry" translation="&lt;font color='accent'&gt;Channel Entry&lt;/font&gt;&#10;Spinge la barca nell'acqua."/>
+		<entry key="TrackElementTool_ChannelTrack" translation="&lt;font color='accent'&gt;Water Channel&lt;/font&gt;&#10;Canale acquatico che spinge la barca."/>
+		<entry key="TrackElementTool_ConveyorBeltChainStart" translation="&lt;font color='accent'&gt;Conveyor Belt Chain Lift Start&lt;/font&gt;&#10;Inizia la salita della barca e permette una transizione continua nella salita a catena."/>
+		<entry key="TrackElementTool_ConveyorBeltChannelExit" translation="&lt;font color='accent'&gt;Conveyor Belt Channel Exit&lt;/font&gt;&#10;Tira fuori la barca dall'acqua verso un tracciato normale."/>
+		<entry key="TrackElementTool_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
+		<entry key="TrackElementTool_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
+		<entry key="TrackElementTool_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
+		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Splash Down Custom&lt;/font&gt;&#10;Inizia la sezione a spruzzi con un'altezza di entrata personalizzabile."/>
 		<entry key="TrackElementTool_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementTool_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementTool_TopHat_DownTwist" translation="Drop Twist"/>
-		<entry key="TrackElementTool_TopHat_SlopeDown" translation="Top Hat Exit"/>
-		<entry key="TrackElementTool_TopHat_SlopeUp" translation="Top Hat Entry"/>
-		<entry key="TrackElementTool_TopHat_Top" translation="Top Hat Top"/>
-		<entry key="TrackElementTool_TopHat_TopDropRollLeft" translation="Drop Roll Left"/>
-		<entry key="TrackElementTool_TopHat_TopDropRollRight" translation="Drop Roll Right"/>
-		<entry key="TrackElementTool_TopHat_TopDropTwistLeft" translation="Drop Twist Left"/>
-		<entry key="TrackElementTool_TopHat_TopDropTwistRight" translation="Drop Twist Right"/>
-		<entry key="TrackElementTool_TopHat_TopUpRollLeft" translation="Incline Roll Left"/>
-		<entry key="TrackElementTool_TopHat_TopUpRollRight" translation="Incline Roll Right"/>
-		<entry key="TrackElementTool_TopHat_TopUpTwistLeft" translation="Incline Twist Left"/>
-		<entry key="TrackElementTool_TopHat_TopUpTwistRight" translation="Incline Twist Right"/>
+		<entry key="TrackElementTool_TopHat_SlopeDown" translation="Uscita Top Hat"/>
+		<entry key="TrackElementTool_TopHat_SlopeUp" translation="Entrata Top Hat"/>
+		<entry key="TrackElementTool_TopHat_Top" translation="Cima Top Hat"/>
+		<entry key="TrackElementTool_TopHat_TopDropRollLeft" translation="Drop Roll Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopDropRollRight" translation="Drop Roll Destro"/>
+		<entry key="TrackElementTool_TopHat_TopDropTwistLeft" translation="Drop Twist Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopDropTwistRight" translation="Drop Twist Destro"/>
+		<entry key="TrackElementTool_TopHat_TopUpRollLeft" translation="Incline Roll Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopUpRollRight" translation="Incline Roll Destro"/>
+		<entry key="TrackElementTool_TopHat_TopUpTwistLeft" translation="Incline Twist Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopUpTwistRight" translation="Incline Twist Destro"/>
 		<entry key="TrackElementTool_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementTool_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementTool_TopHat_UpTwist" translation="Incline Twist"/>
 		<!--C5_Coasters-->
-		<entry key="TrackElementDesc_StopStart" translation="Allows the ride to stop for a certain amount of time before continuing."/>
-		<entry key="TrackElementName_StopStart" translation="Stop Start Track"/>
-		<entry key="TrackElementTool_StopStart" translation="&lt;font color='accent'&gt;Stop Start Track&lt;/font&gt;&#10;Allows the ride to stop for a certain amount of time before continuing."/>
+		<entry key="TrackElementDesc_StopStart" translation="Permette all'attrazione di fermarsi per un certo periodo di tempo prima di continuare."/>
+		<entry key="TrackElementName_StopStart" translation="Ferma corsa"/>
+		<entry key="TrackElementTool_StopStart" translation="&lt;font color='accent'&gt;Ferma corsa&lt;/font&gt;&#10;Permette all'attrazione di fermarsi per un certo periodo di tempo prima di continuare."/>
 		<!--C5_Guests-->
-		<entry key="Guests_Status_GuestDestination_AtVistaPoint" translation="Admiring Vista Point"/>
-		<entry key="ShopItem_Acc_MobilePhoneLeft" translation="Mobile Phone"/>
-		<entry key="ShopItem_Acc_MobilePhoneRight" translation="Mobile Phone"/>
+		<entry key="Guests_Status_GuestDestination_AtVistaPoint" translation="Ammira il Punto Panoramico"/>
+		<entry key="ShopItem_Acc_MobilePhoneLeft" translation="Telefono Cellulare"/>
+		<entry key="ShopItem_Acc_MobilePhoneRight" translation="Telefono Cellulare"/>
 		<!--C5_InfoPanel_ModularScenery-->
-		<entry key="InfoPanel_VistaPoint_Focus" translation="Vista Point Focus"/>
-		<entry key="InfoPanel_VistaPoint_FocusForwardDirection" translation="Facing Direction"/>
-		<entry key="InfoPanel_VistaPoint_Info" translation="Vista Point Information"/>
-		<entry key="InfoPanel_VistaPoint_RemoveFocus" translation="Remove Focus Part"/>
-		<entry key="InfoPanel_VistaPoint_RemoveFocusTooltip" translation="Remove the piece looked at and instead use the facing direction of the vista point"/>
-		<entry key="InfoPanel_VistaPoint_SetFocus" translation="Set Focus Part"/>
-		<entry key="InfoPanel_VistaPoint_SetFocusTooltip" translation="Set a scenery or building piece as the focus for guests to look at"/>
-		<entry key="PopUp_SelectVistaFocusPart_ConfirmSelection" translation="Select piece to be the focus of this vista point"/>
-		<entry key="PopUp_SelectVistaFocusPart_Description" translation="Select a scenery or building piece to be the focus point for guests at this vista point."/>
-		<entry key="PopUp_SelectVistaFocusPart_Header" translation="Vista Focus Selection"/>
-		<entry key="PopUp_SelectVistaFocusPart_InvalidItem" translation="No valid piece selected"/>
-		<entry key="PopUp_SelectVistaFocusPart_Title" translation="Vista Focus Selection"/>
+		<entry key="InfoPanel_VistaPoint_Focus" translation="Punto di Osservazione"/>
+		<entry key="InfoPanel_VistaPoint_FocusForwardDirection" translation="Direzione osservazione"/>
+		<entry key="InfoPanel_VistaPoint_Info" translation="Informazione Punto Panoramico"/>
+		<entry key="InfoPanel_VistaPoint_RemoveFocus" translation="Rimuovi Punto di Osservazione"/>
+		<entry key="InfoPanel_VistaPoint_RemoveFocusTooltip" translation="Rimuove l'elemento che si osserva usando invece la direzione di osservazione del punto panoramico"/>
+		<entry key="InfoPanel_VistaPoint_SetFocus" translation="Imposta Punto Osservazione"/>
+		<entry key="InfoPanel_VistaPoint_SetFocusTooltip" translation="Seleziona un elemento scenario o un edificio come punto di osservazione per i visitatori"/>
+		<entry key="PopUp_SelectVistaFocusPart_ConfirmSelection" translation="Seleziona elemento da osservare in questo punto panoramico"/>
+		<entry key="PopUp_SelectVistaFocusPart_Description" translation="Seleziona un elemento scenario o un edificio come punto di osservazione per i visitatori in questo punto panoramico."/>
+		<entry key="PopUp_SelectVistaFocusPart_Header" translation="Seleziona Punto di Osservazione"/>
+		<entry key="PopUp_SelectVistaFocusPart_InvalidItem" translation="Nessun elemento valido selezionato"/>
+		<entry key="PopUp_SelectVistaFocusPart_Title" translation="Selezione Punto di Osservazione"/>
 		<!--C6_InfoPanel_Hotel-->
-		<entry key="InfoPanel_HotelRoom_ConnectRoomsLabel" translation="Connect Rooms to a Hotel via a Foyer Object"/>
-		<entry key="InfoPanel_HotelRoom_ConnectedTo" translation="Connected to"/>
+		<entry key="InfoPanel_HotelRoom_ConnectRoomsLabel" translation="Collega le Camere ad un Hotel per mezzo di un corridoio"/>
+		<entry key="InfoPanel_HotelRoom_ConnectedTo" translation="Collegato a"/>
 		<entry key="InfoPanel_HotelRoom_CostValue" translation="{cost:currency}"/>
-		<entry key="InfoPanel_HotelRoom_Information" translation="Room Information"/>
-		<entry key="InfoPanel_HotelRoom_Luxury" translation="Luxury Room"/>
-		<entry key="InfoPanel_HotelRoom_MonthlyRunningCosts" translation="Monthly running costs"/>
-		<entry key="InfoPanel_HotelRoom_Standard" translation="Standard Room"/>
-		<entry key="InfoPanel_HotelRoom_Type" translation="Room Type"/>
-		<entry key="InfoPanel_Hotel_AccommodationThoughts" translation="Accommodation Thoughts"/>
-		<entry key="InfoPanel_Hotel_ActivePerk" translation="Active Perk"/>
-		<entry key="InfoPanel_Hotel_ActivePerks" translation="Active Perks"/>
-		<entry key="InfoPanel_Hotel_AddHotelRooms" translation="Connect More Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_Arcade_Description" translation="•Medium boost to prestige.&#10;•Medium boost to family happiness.&#10;•Medium running cost."/>
+		<entry key="InfoPanel_HotelRoom_Information" translation="Informazioni Stanza"/>
+		<entry key="InfoPanel_HotelRoom_Luxury" translation="Camera di Lusso"/>
+		<entry key="InfoPanel_HotelRoom_MonthlyRunningCosts" translation="Costi esercizio mensili"/>
+		<entry key="InfoPanel_HotelRoom_Standard" translation="Camera Standard"/>
+		<entry key="InfoPanel_HotelRoom_Type" translation="Tipo di Camera"/>
+		<entry key="InfoPanel_Hotel_AccommodationThoughts" translation="Pensieri sulla sistemazione"/>
+		<entry key="InfoPanel_Hotel_ActivePerk" translation="Vantaggio Attivo"/>
+		<entry key="InfoPanel_Hotel_ActivePerks" translation="Vantaggi Attivi"/>
+		<entry key="InfoPanel_Hotel_AddHotelRooms" translation="Collega più camere di Hotel"/>
+		<entry key="InfoPanel_Hotel_Arcade_Description" translation="•Medio incremento al prestigio.&#10;•Medio incremento alla felicità della famiglia.&#10;•Medio costo di esercizio."/>
 		<entry key="InfoPanel_Hotel_Arcade_Label" translation="Arcade"/>
-		<entry key="InfoPanel_Hotel_BaseChange" translation="Base costs"/>
-		<entry key="InfoPanel_Hotel_CantAffordChanges" translation="Cannot afford hotel changes"/>
-		<entry key="InfoPanel_Hotel_ConfirmChanges" translation="Confirm Changes"/>
-		<entry key="InfoPanel_Hotel_ConfirmCost" translation="Confirm: {Value:currency}"/>
-		<entry key="InfoPanel_Hotel_ConfirmSelection" translation="Connect selection to Hotel"/>
-		<entry key="InfoPanel_Hotel_ConfirmSelectionTooManyItems" translation="Too many items to connect to Hotel"/>
-		<entry key="InfoPanel_Hotel_ConfirmSelectionUnownedDLC" translation="Selection contains unowned DLC"/>
-		<entry key="InfoPanel_Hotel_ConstructionChange" translation="Construction"/>
-		<entry key="InfoPanel_Hotel_ConstructionTitle" translation="Construction Costs"/>
+		<entry key="InfoPanel_Hotel_BaseChange" translation="Costi Base"/>
+		<entry key="InfoPanel_Hotel_CantAffordChanges" translation="Non ci si può permettere cambiamenti all'hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmChanges" translation="Conferma Cambiamenti"/>
+		<entry key="InfoPanel_Hotel_ConfirmCost" translation="Conferma: {Value:currency}"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelection" translation="Collega selezione all'Hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelectionTooManyItems" translation="Troppi elementi da collegare all'Hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelectionUnownedDLC" translation="La selezione contiene un DLC non posseduto"/>
+		<entry key="InfoPanel_Hotel_ConstructionChange" translation="Costruzione"/>
+		<entry key="InfoPanel_Hotel_ConstructionTitle" translation="Costi di Costruzione"/>
 		<entry key="InfoPanel_Hotel_Dash" translation=""/>
-		<entry key="InfoPanel_Hotel_Expenses" translation="Expenses"/>
-		<entry key="InfoPanel_Hotel_FocusTooltip" translation="Locate Hotel Room"/>
-		<entry key="InfoPanel_Hotel_GeneralThoughts" translation="General Thoughts"/>
-		<entry key="InfoPanel_Hotel_GuestThoughts" translation="Guest Thoughts"/>
-		<entry key="InfoPanel_Hotel_Gym_Description" translation="•Medium boost to prestige.&#10;•Medium boost to adult happiness.&#10;•Medium running cost."/>
-		<entry key="InfoPanel_Hotel_Gym_Label" translation="Gym"/>
-		<entry key="InfoPanel_Hotel_Incoming" translation="Incoming"/>
-		<entry key="InfoPanel_Hotel_Info" translation="Hotel Information"/>
-		<entry key="InfoPanel_Hotel_LastMonth_Profit" translation="Last month's profit"/>
-		<entry key="InfoPanel_Hotel_Life_Profit" translation="Lifetime profit"/>
-		<entry key="InfoPanel_Hotel_LifetimeMonthlyRunning" translation="Lifetime running cost"/>
-		<entry key="InfoPanel_Hotel_LuxuryRoomMonthlyRunning" translation="Luxury Room monthly running cost"/>
-		<entry key="InfoPanel_Hotel_NoChanges" translation="No changes made"/>
-		<entry key="InfoPanel_Hotel_NoGuestThoughts" translation="There are no recent thoughts for this Hotel"/>
-		<entry key="InfoPanel_Hotel_Perk" translation="Hotel Perks"/>
-		<entry key="InfoPanel_Hotel_PerkDesc" translation="Hotel Perks increase Guest Happiness upon their stay."/>
-		<entry key="InfoPanel_Hotel_PerkMonthlyRunning" translation="Hotel Perks monthly running cost"/>
-		<entry key="InfoPanel_Hotel_PerkThoughts" translation="Perks Thoughts"/>
-		<entry key="InfoPanel_Hotel_Prestige" translation="Prestige"/>
-		<entry key="InfoPanel_Hotel_PrestigeToolTip" translation="This is the appeal and value of a hotel to guests. The prestige of a hotel is the sum of its:&#10;- Hotel Perks&#10;- Scenery Rating (%)&#10;- Rooms included&#10;Hotel perks get divided among the rooms, meaning larger hotels gain less benefit from perks compared to smaller hotels. Guests will be more inclined to use hotels with a higher prestige rating. They will also be willing to spend more money."/>
-		<entry key="InfoPanel_Hotel_PricePerNight" translation="Booking price per night for each group of guests"/>
-		<entry key="InfoPanel_Hotel_PriorityPass" translation="Priority Pass Required"/>
-		<entry key="InfoPanel_Hotel_PriorityPassTooltip" translation="Guests can only book these Rooms if they have bought a Priority Pass"/>
-		<entry key="InfoPanel_Hotel_Profit" translation="This month's profit"/>
-		<entry key="InfoPanel_Hotel_RemoveAllLuxury_Tooltip" translation="Disconnect all Luxury Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RemoveAllStandard_Tooltip" translation="Disconnect all Standard Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RemoveTooltip" translation="Disconnect Hotel Room"/>
-		<entry key="InfoPanel_Hotel_ResetAllHotelRooms" translation="Remove All Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_Restaurant_Description" translation="•Medium boost to prestige and happiness.&#10;•Medium boost to food and drink.&#10;•Medium running cost."/>
-		<entry key="InfoPanel_Hotel_Restaurant_Label" translation="Restaurant"/>
-		<entry key="InfoPanel_Hotel_RoomChange" translation="Room Coverage"/>
-		<entry key="InfoPanel_Hotel_RoomDesc" translation="Increase the capacity of your hotel by adding rooms."/>
+		<entry key="InfoPanel_Hotel_Expenses" translation="Spese"/>
+		<entry key="InfoPanel_Hotel_FocusTooltip" translation="Trova camere d'Hotel"/>
+		<entry key="InfoPanel_Hotel_GeneralThoughts" translation="Pensieri Generali"/>
+		<entry key="InfoPanel_Hotel_GuestThoughts" translation="Pensieri dei Visitatori"/>
+		<entry key="InfoPanel_Hotel_Gym_Description" translation="•Medio incremento al prestigio.&#10;•Medio incremento alla felicità degli adulti.&#10;•Medio costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_Gym_Label" translation="Palestra"/>
+		<entry key="InfoPanel_Hotel_Incoming" translation="In Arrivo"/>
+		<entry key="InfoPanel_Hotel_Info" translation="Informazioni Hotel"/>
+		<entry key="InfoPanel_Hotel_LastMonth_Profit" translation="Profitto Ultimo Mese"/>
+		<entry key="InfoPanel_Hotel_Life_Profit" translation="Profitto dall'inizio"/>
+		<entry key="InfoPanel_Hotel_LifetimeMonthlyRunning" translation="Costo esercizio dall'inizio"/>
+		<entry key="InfoPanel_Hotel_LuxuryRoomMonthlyRunning" translation="Costo mensile Camere di Lusso"/>
+		<entry key="InfoPanel_Hotel_NoChanges" translation="Nessun cambiamento effettuato"/>
+		<entry key="InfoPanel_Hotel_NoGuestThoughts" translation="Non ci sono pensieri recenti per questo Hotel"/>
+		<entry key="InfoPanel_Hotel_Perk" translation="Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_PerkDesc" translation="I Vantaggi Hotel aumentano la felicità dei visitatori durante il loro soggiorno."/>
+		<entry key="InfoPanel_Hotel_PerkMonthlyRunning" translation="Costo mensile Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_PerkThoughts" translation="Pensieri sui Vantaggi"/>
+		<entry key="InfoPanel_Hotel_Prestige" translation="Prestigio"/>
+		<entry key="InfoPanel_Hotel_PrestigeToolTip" translation="Questo è l'appeal e il valore di un hotel per i visitatori. Il prestigio di un hotel è la somma dei suoi:&#10;- Vantaggi Hotel&#10;- Valutazione Scenario (%)&#10;- Camere incluse&#10;I vantaggi Hotel vengono divisi fra le camere, ciò significa che hotels più grandi beneficiano meno dei vantaggi in confronto agli hotels più piccoli. I Visitatori preferiranno hotels con una vautazione di prestigio maggiore. Avranno anche più voglia di spendere più denaro."/>
+		<entry key="InfoPanel_Hotel_PricePerNight" translation="Prezzo di prenotazione per notte per ogni gruppo di visitatori"/>
+		<entry key="InfoPanel_Hotel_PriorityPass" translation="Pass Prioritario richiesto"/>
+		<entry key="InfoPanel_Hotel_PriorityPassTooltip" translation="I Visitatori possono prenotare queste camere solo se hanno acquistato il Pass Prioritario"/>
+		<entry key="InfoPanel_Hotel_Profit" translation="Profitto di questo mese"/>
+		<entry key="InfoPanel_Hotel_RemoveAllLuxury_Tooltip" translation="Scollega tutte le Camere di Lusso"/>
+		<entry key="InfoPanel_Hotel_RemoveAllStandard_Tooltip" translation="Scollega tutte le Camere Standard"/>
+		<entry key="InfoPanel_Hotel_RemoveTooltip" translation="Scollega Camera"/>
+		<entry key="InfoPanel_Hotel_ResetAllHotelRooms" translation="Rimuovi tutte le Camere"/>
+		<entry key="InfoPanel_Hotel_Restaurant_Description" translation="•Medio incremento a prestigio e felicità.&#10;•Medio incremento a cibo e bevande.&#10;•Medio costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_Restaurant_Label" translation="Ristorante"/>
+		<entry key="InfoPanel_Hotel_RoomChange" translation="Copertura Camera"/>
+		<entry key="InfoPanel_Hotel_RoomDesc" translation="Aumenta la capacità del tuo hotel aggiungendo camere."/>
 		<entry key="InfoPanel_Hotel_RoomName" translation="{ROOMNAME}"/>
-		<entry key="InfoPanel_Hotel_RoomNameLabel_Luxury" translation="Luxury Hotel Room"/>
-		<entry key="InfoPanel_Hotel_RoomNameLabel_Standard" translation="Standard Hotel Room"/>
-		<entry key="InfoPanel_Hotel_RoomPrices" translation="Hotel Prices"/>
-		<entry key="InfoPanel_Hotel_RoomPricesTitle" translation="Room Prices"/>
-		<entry key="InfoPanel_Hotel_RoomSelectAvailableLabel" translation="Available Hotel Rooms in radius"/>
-		<entry key="InfoPanel_Hotel_RoomSelectAvailableToolTip" translation="Available Hotel Rooms in the Hotel's radius"/>
-		<entry key="InfoPanel_Hotel_RoomSelectConnectedLabel" translation="Rooms connected to Hotel"/>
-		<entry key="InfoPanel_Hotel_RoomSelectConnectedListLabel" translation="Connected Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectConnectedToolTip" translation="Hotel Rooms that are already attached to the Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomNameLabel_Luxury" translation="Camera di Lusso"/>
+		<entry key="InfoPanel_Hotel_RoomNameLabel_Standard" translation="Camera Standard"/>
+		<entry key="InfoPanel_Hotel_RoomPrices" translation="Prezzi Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomPricesTitle" translation="Prezzi Camera"/>
+		<entry key="InfoPanel_Hotel_RoomSelectAvailableLabel" translation="Camere disponibili nelle vicinanze"/>
+		<entry key="InfoPanel_Hotel_RoomSelectAvailableToolTip" translation="Camere disponibili nelle vicinanze dell'Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedLabel" translation="Camere collegate all'Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedListLabel" translation="Camere collegate"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedToolTip" translation="Camere già connesse all'Hotel"/>
 		<entry key="InfoPanel_Hotel_RoomSelectConnectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_Hotel_RoomSelectDescription" translation="Use the Multiselect tool to add new Hotel Rooms to your Hotel. Rooms with a red outline are too far away from the foyer object to be connected."/>
-		<entry key="InfoPanel_Hotel_RoomSelectDescriptionTwo" translation="A Hotel can have up to 100 rooms."/>
-		<entry key="InfoPanel_Hotel_RoomSelectGetMoreButton" translation="Get More Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSelectedLabel" translation="Selected Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSelectedListLabel" translation="Selected Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSelectedToolTip" translation="Currently Selected Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectDescription" translation="Usa la selezione multipla per aggiungere nuove Camere al tuo Hotel. Le Camere con un profilo rosso sono troppo lontane dal corridoio per essere connesse."/>
+		<entry key="InfoPanel_Hotel_RoomSelectDescriptionTwo" translation="Un Hotel può avere fino a 100 Camere."/>
+		<entry key="InfoPanel_Hotel_RoomSelectGetMoreButton" translation="Ottieni più Camere"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedLabel" translation="Camere selezionate"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedListLabel" translation="Camere selezionate"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedToolTip" translation="Camere selezionate al momento"/>
 		<entry key="InfoPanel_Hotel_RoomSelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSubTitle" translation="Connect Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectTitle" translation="Hotel Room Selector"/>
-		<entry key="InfoPanel_Hotel_RoomService_Description" translation="•Small boost to prestige and happiness.&#10;•Small boost to food and drink.&#10;•Low running cost."/>
-		<entry key="InfoPanel_Hotel_RoomService_Label" translation="Room Service"/>
-		<entry key="InfoPanel_Hotel_RoomTitle" translation="Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomUsage" translation="Room Usage"/>
-		<entry key="InfoPanel_Hotel_RoomUsageLabel" translation="{Current:int} / {Total:int} Rooms"/>
-		<entry key="InfoPanel_Hotel_Rooms" translation="Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSubTitle" translation="Collega Camere"/>
+		<entry key="InfoPanel_Hotel_RoomSelectTitle" translation="Selettore Camere"/>
+		<entry key="InfoPanel_Hotel_RoomService_Description" translation="•Piccolo incremento a prestigio e felicità.&#10;•Piccolo incremento a cibo e bevande.&#10;•Basso costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_RoomService_Label" translation="Servizio in Camera"/>
+		<entry key="InfoPanel_Hotel_RoomTitle" translation="Camere Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomUsage" translation="Utilizzo Camere"/>
+		<entry key="InfoPanel_Hotel_RoomUsageLabel" translation="{Current:int} / {Total:int} Camere"/>
+		<entry key="InfoPanel_Hotel_Rooms" translation="Camere Hotel"/>
 		<entry key="InfoPanel_Hotel_RoomsTaken" translation="{Current:int} / {Total:int}"/>
-		<entry key="InfoPanel_Hotel_RunningCostMultiplier" translation="Running Cost Multiplier"/>
-		<entry key="InfoPanel_Hotel_RunningTitle" translation="New Hotel Perks monthly running cost"/>
-		<entry key="InfoPanel_Hotel_SceneryRating" translation="Scenery Rating (Counts towards prestige)"/>
-		<entry key="InfoPanel_Hotel_Service" translation="Hotel Perks"/>
-		<entry key="InfoPanel_Hotel_Spa_Description" translation="•Large boost to prestige and happiness.&#10;•High running cost."/>
+		<entry key="InfoPanel_Hotel_RunningCostMultiplier" translation="Moltiplicatore Costo Esercizio"/>
+		<entry key="InfoPanel_Hotel_RunningTitle" translation="Costo mensile nuovi Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_SceneryRating" translation="Valutazione Scenario (influisce sul prestigio)"/>
+		<entry key="InfoPanel_Hotel_Service" translation="Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_Spa_Description" translation="•Grande incremento a prestigio e felicità.&#10;•Alti costi di esercizio."/>
 		<entry key="InfoPanel_Hotel_Spa_Label" translation="Spa"/>
-		<entry key="InfoPanel_Hotel_StandardRoomMonthlyRunning" translation="Standard Room monthly running cost"/>
-		<entry key="InfoPanel_Hotel_Stat_LuxuryRoomsTaken" translation="Luxury Rooms taken"/>
-		<entry key="InfoPanel_Hotel_Stat_StandardRoomsTaken" translation="Standard Rooms taken"/>
-		<entry key="InfoPanel_Hotel_Stats" translation="Hotel Information"/>
-		<entry key="InfoPanel_Hotel_StealRoomsHint" translation="Can select Rooms that are already connected to other Foyer objects"/>
-		<entry key="InfoPanel_Hotel_SyncPriceSettings" translation="Use the same Room Settings and Prices for all Hotels"/>
-		<entry key="InfoPanel_Hotel_TotalChange" translation="Total monthly running costs"/>
-		<entry key="InfoPanel_Hotel_TotalMonthlyRunning" translation="Total monthly running cost"/>
-		<entry key="InfoPanel_Hotel_Wifi_Description" translation="•Small boost to prestige.&#10;•Medium boost to happiness.&#10;•Low running cost."/>
-		<entry key="InfoPanel_Hotel_Wifi_Label" translation="Internet Access"/>
+		<entry key="InfoPanel_Hotel_StandardRoomMonthlyRunning" translation="Costo mensile Camere Standard"/>
+		<entry key="InfoPanel_Hotel_Stat_LuxuryRoomsTaken" translation="Camere di Lusso occupate"/>
+		<entry key="InfoPanel_Hotel_Stat_StandardRoomsTaken" translation="Camere Standard occupate"/>
+		<entry key="InfoPanel_Hotel_Stats" translation="Informazioni Hotel"/>
+		<entry key="InfoPanel_Hotel_StealRoomsHint" translation="Si possono selezionare Camere che sono giù collegate ad altri corridoi"/>
+		<entry key="InfoPanel_Hotel_SyncPriceSettings" translation="Utilizza le stesse impostazioni Camera e Prezzi per tutti gli Hotels"/>
+		<entry key="InfoPanel_Hotel_TotalChange" translation="Costi esercizio mensili totali"/>
+		<entry key="InfoPanel_Hotel_TotalMonthlyRunning" translation="Costo esercizio mensile totale"/>
+		<entry key="InfoPanel_Hotel_Wifi_Description" translation="•Piccolo incremento al prestigio.&#10;•Medio incremento alla felicità.&#10;•Basso costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_Wifi_Label" translation="Accesso Internet"/>
 		<!--C6_Research-->
 		<entry key="Research_Hint_ShopsAndFacilities_Hotel" translation="Hotels"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Hotel" translation="Hotels"/>
