@@ -5941,14 +5941,14 @@
 		<entry key="Research_Hint_ShopsAndFacilities_Hotel" translation="Hotels"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Hotel" translation="Hotels"/>
 		<!--C6_Scenery-->
-		<entry key="BuildingPartDesc_HO_HotelEntrance" translation="Entrance to a hotel."/>
-		<entry key="BuildingPartDesc_HO_HotelRoom_Luxury" translation="Comes with complimentary soap and towels."/>
-		<entry key="BuildingPartDesc_HO_HotelRoom_Standard" translation="Standard room for standard guests."/>
-		<entry key="BuildingPartDesc_PC_RideCamTimeBox" translation="Sets the time of day seen in ride cam mode when triggered."/>
-		<entry key="BuildingPartName_HO_HotelEntrance" translation="Hotel Foyer"/>
-		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Hotel Room Luxury"/>
-		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Hotel Room Standard"/>
-		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Ride Cam Time Machine"/>
+		<entry key="BuildingPartDesc_HO_HotelEntrance" translation="Entrata di un Hotel."/>
+		<entry key="BuildingPartDesc_HO_HotelRoom_Luxury" translation="Offerta con sapone e asciugamani omaggio."/>
+		<entry key="BuildingPartDesc_HO_HotelRoom_Standard" translation="Camera Standard per visitatori standard."/>
+		<entry key="BuildingPartDesc_PC_RideCamTimeBox" translation="Imposta il momento del giorno quando si attiva la modalità visuale attrazione."/>
+		<entry key="BuildingPartName_HO_HotelEntrance" translation="Ingresso Hotel"/>
+		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Camera di Lusso"/>
+		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Camera Standard"/>
+		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Macchina del Tempo Visuale Attrazione"/>
 		<!--C7_Facilities-->
 		<entry key="BuildingPartDesc_PC_Interactive_Grabber_Machine" translation="A place for your guests to fight the odds and win prizes.&#10;Small Attraction"/>
 		<entry key="BuildingPartDesc_PC_VendingMachine_CosmicCow" translation="A vending machine that sells Cosmic Cow branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
@@ -14216,7 +14216,7 @@
 		<entry key="InfoPanel_ride_GForceTooHigh_ToolTip" translation="G-force exceeds safe limits&#10;&#10;Have a look at the various G-force Heatmaps to see which areas of your Ride are problematic."/>
 		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
 		<!--InfoPanel_Scenery-->
-		<entry key="InfoPanel_Scenery_BuildingEditWithSelectedPart" translation="Edit Building With Selected Part"/>
+		<entry key="InfoPanel_Scenery_BuildingEditWithSelectedPart" translation="Modifica l'Edificio con l'elemento selezionato"/>
 		<entry key="InfoPanel_Scenery_BuildingStatistics" translation="Statistiche Struttura"/>
 		<entry key="InfoPanel_Scenery_ButtonShop" translation="{NAME}"/>
 		<entry key="InfoPanel_Scenery_Name" translation="Scenario"/>
@@ -14229,12 +14229,12 @@
 		<entry key="InfoPanel_Scenery_RepairVandalisedObject_ToolTip_NotNeeded" translation="L'elemento non ha bisogno di essere rimpiazzato"/>
 		<entry key="InfoPanel_Scenery_RunningCostLabel" translation="Costo Mensile"/>
 		<entry key="InfoPanel_Scenery_RunningGainLabel" translation="Guadagni"/>
-		<entry key="InfoPanel_Scenery_ScenarioLock" translation="Lock this scenery for scenario players"/>
-		<entry key="InfoPanel_Scenery_ScenarioUnlock" translation="Unlock this scenery for scenario players"/>
-		<entry key="InfoPanel_Scenery_SceneryGroupEditWithSelectedPart" translation="Edit Scenery Group With Selected Part"/>
-		<entry key="InfoPanel_Scenery_SceneryGroupStatistics" translation="Scenery Group Statistics"/>
+		<entry key="InfoPanel_Scenery_ScenarioLock" translation="Blocca questo scenario per i giocatori"/>
+		<entry key="InfoPanel_Scenery_ScenarioUnlock" translation="Sblocca questo scenario per i giocatori"/>
+		<entry key="InfoPanel_Scenery_SceneryGroupEditWithSelectedPart" translation="Modifica il Gruppo Scenario con l'elemento selezionato"/>
+		<entry key="InfoPanel_Scenery_SceneryGroupStatistics" translation="Statistiche gruppo Scenario"/>
 		<entry key="InfoPanel_Scenery_SceneryStatistics" translation="Statistiche Scenario"/>
-		<entry key="InfoPanel_Scenery_SelectedPart" translation="Selected Part"/>
+		<entry key="InfoPanel_Scenery_SelectedPart" translation="Elemento Selezionato"/>
 		<entry key="InfoPanel_Scenery_ShopsLabel" translation="Servizi"/>
 		<entry key="InfoPanel_Scenery_TextOnSign" translation="{VALUE}"/>
 		<entry key="InfoPanel_Scenery_TotalObjectsCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
@@ -14252,20 +14252,20 @@
 		<entry key="InfoPanel_Staff_FocusCam" translation="Centra Visuale"/>
 		<entry key="InfoPanel_Staff_Happiness" translation="Felicità Staff"/>
 		<entry key="InfoPanel_Staff_Information" translation="Informazioni Staff"/>
-		<entry key="InfoPanel_Staff_KickFromStaffBuilding" translation="Kick out of building"/>
+		<entry key="InfoPanel_Staff_KickFromStaffBuilding" translation="Caccia dall'edificio"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus1" translation="Produttività Incrementata"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus2" translation="Felicità Incrementata"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus3" translation="Maggiore aspettativa di stipendio"/>
 		<entry key="InfoPanel_Staff_NextLevel" translation="Livello Successivo"/>
 		<entry key="InfoPanel_Staff_Overview" translation="Anteprima"/>
 		<entry key="InfoPanel_Staff_RecentThoughts" translation="Pensieri Recenti"/>
-		<entry key="InfoPanel_Staff_Rehire_ButtonLabel" translation="Rehire Staff ({cost:currency})"/>
-		<entry key="InfoPanel_Staff_Rehire_Description" translation="You can choose to rehire a staff member, if this staff member's pay is lower than the salary level suggested by their skills and the general pay expectations for the given job, it will be adjusted upon rehiring."/>
-		<entry key="InfoPanel_Staff_Rehire_Label" translation="{Name} has Quit"/>
-		<entry key="InfoPanel_Staff_Rehire_Label_Fired" translation="{Name} has been fired"/>
+		<entry key="InfoPanel_Staff_Rehire_ButtonLabel" translation="Riassumi Staff ({cost:currency})"/>
+		<entry key="InfoPanel_Staff_Rehire_Description" translation="Puoi scegliere di riassumere un membro dello staff, se lo stipendio di questo membro è più basso del livello di salario suggerito dalle sue abilità e le aspettative di paga per quel tipo di lavoro, sarà aggiornato alla sua riassunzione."/>
+		<entry key="InfoPanel_Staff_Rehire_Label" translation="{Name} si è licenziato"/>
+		<entry key="InfoPanel_Staff_Rehire_Label_Fired" translation="{Name} è stato licenziato"/>
 		<entry key="InfoPanel_Staff_RideCam" translation="Camera Staff"/>
 		<entry key="InfoPanel_Staff_Salary" translation="Stipendio"/>
-		<entry key="InfoPanel_Staff_ScheduledLevelUp" translation="Already Scheduled Training"/>
+		<entry key="InfoPanel_Staff_ScheduledLevelUp" translation="Formazione già programmata"/>
 		<entry key="InfoPanel_Staff_ScheduledLevelUpTooltip" translation="This staff member has already been scheduled to be trained and will do so the next time they rest in a staff building"/>
 		<entry key="InfoPanel_Staff_SprintingEnergy" translation="Sprinting Energy"/>
 		<entry key="InfoPanel_Staff_StaffBuildingFocusCam" translation="Staff Building Focus Camera"/>
