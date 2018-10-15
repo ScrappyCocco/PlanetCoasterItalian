@@ -5950,41 +5950,41 @@
 		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Camera Standard"/>
 		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Macchina del Tempo Visuale Attrazione"/>
 		<!--C7_Facilities-->
-		<entry key="BuildingPartDesc_PC_Interactive_Grabber_Machine" translation="A place for your guests to fight the odds and win prizes.&#10;Small Attraction"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_CosmicCow" translation="A vending machine that sells Cosmic Cow branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_FoxCoffee" translation="A vending machine that sells Street Fox Coffee branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_Gulpee" translation="A vending machine that sells Gulpee branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_Pipshot" translation="A vending machine that sells Pipshot branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartName_PC_Interactive_Grabber_Machine" translation="Claw Crane Machine"/>
-		<entry key="BuildingPartName_PC_VendingMachine_CosmicCow" translation="Vending Machine - Cosmic Cow Milk"/>
-		<entry key="BuildingPartName_PC_VendingMachine_FoxCoffee" translation="Vending Machine - Street Fox Coffee"/>
-		<entry key="BuildingPartName_PC_VendingMachine_Gulpee" translation="Vending Machine - Gulpee"/>
-		<entry key="BuildingPartName_PC_VendingMachine_Pipshot" translation="Vending Machine - Pipshot"/>
-		<entry key="ShopItem_Crane_Prize" translation="King Coaster Plushie"/>
-		<entry key="ShopItem_Fortune_Bad" translation="Bad Fortune"/>
-		<entry key="ShopItem_Fortune_Good" translation="Good Fortune"/>
-		<entry key="ShopItem_Fortune_Neutral" translation="Average Fortune"/>
-		<entry key="ShopItem_Vend_Cosmic_ChocMilk" translation="Chocolate Cosmic Milk"/>
-		<entry key="ShopItem_Vend_Cosmic_GlowingMilk" translation="Glowing Cosmic Milk"/>
-		<entry key="ShopItem_Vend_Cosmic_Milk" translation="Cosmic Milk"/>
-		<entry key="ShopItem_Vend_Gulpee_Energy" translation="Gulpee Energy Small"/>
-		<entry key="ShopItem_Vend_Gulpee_Soda" translation="Gulpee Soda Small"/>
-		<entry key="ShopItem_Vend_Gulpee_SodaLE" translation="Gulpee Soda Limited Edition"/>
-		<entry key="ShopItem_Vend_Gumball" translation="Colourful Gum Ball"/>
-		<entry key="ShopItem_Vend_Pipshot_Juice" translation="Pipshot Original Juice"/>
-		<entry key="ShopItem_Vend_Pipshot_Smoothie" translation="Pipshot Original Smoothie"/>
-		<entry key="ShopItem_Vend_Pipshot_Water" translation="Pipshot Water Small"/>
+		<entry key="BuildingPartDesc_PC_Interactive_Grabber_Machine" translation="Un posto per i tuoi visitatori dove sfidare la sorte e vincere premi.&#10;Piccola Attrazione"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_CosmicCow" translation="Un distributore che vende bevande di Mucca Cosmica.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_FoxCoffee" translation="Un distributore che vende bevande di Street Fox.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_Gulpee" translation="Un distributore che vende bevande di Gulpee.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_Pipshot" translation="Un distributore che vende bevande di Pipshot.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartName_PC_Interactive_Grabber_Machine" translation="Macchina a premi con artiglio"/>
+		<entry key="BuildingPartName_PC_VendingMachine_CosmicCow" translation="Distributore - Latte Mucca Cosmica"/>
+		<entry key="BuildingPartName_PC_VendingMachine_FoxCoffee" translation="Distributore - Caffè Street Fox "/>
+		<entry key="BuildingPartName_PC_VendingMachine_Gulpee" translation="Distributore - Gulpee"/>
+		<entry key="BuildingPartName_PC_VendingMachine_Pipshot" translation="Distributore - Pipshot"/>
+		<entry key="ShopItem_Crane_Prize" translation="Peluche di Re Coaster"/>
+		<entry key="ShopItem_Fortune_Bad" translation="Poca Fortuna"/>
+		<entry key="ShopItem_Fortune_Good" translation="Buona Fortuna"/>
+		<entry key="ShopItem_Fortune_Neutral" translation="Media Fortuna"/>
+		<entry key="ShopItem_Vend_Cosmic_ChocMilk" translation="Latte al Cioccolato Cosmico"/>
+		<entry key="ShopItem_Vend_Cosmic_GlowingMilk" translation="Latte Luminoso Cosmico"/>
+		<entry key="ShopItem_Vend_Cosmic_Milk" translation="Latte Cosmico"/>
+		<entry key="ShopItem_Vend_Gulpee_Energy" translation="Gulpee Energy Piccola"/>
+		<entry key="ShopItem_Vend_Gulpee_Soda" translation="Gulpee Soda Piccola"/>
+		<entry key="ShopItem_Vend_Gulpee_SodaLE" translation="Gulpee Soda Edizione Limitata"/>
+		<entry key="ShopItem_Vend_Gumball" translation="Gomma da masticare colorata"/>
+		<entry key="ShopItem_Vend_Pipshot_Juice" translation="Succo Originale Pipshot"/>
+		<entry key="ShopItem_Vend_Pipshot_Smoothie" translation="Frullato Originale Pipshot"/>
+		<entry key="ShopItem_Vend_Pipshot_Water" translation="Acqua Piccola Pipshot"/>
 		<entry key="ShopItem_Vend_Popcorn" translation="Popcorn"/>
-		<entry key="ShopItem_Vend_Streefox_01" translation="Canned Coffee"/>
-		<entry key="ShopItem_Vend_Streefox_02" translation="Canned Caramel Late"/>
-		<entry key="ShopItem_Vend_Streefox_03" translation="Canned Decaf Coffee"/>
+		<entry key="ShopItem_Vend_Streefox_01" translation="Caffè in lattina"/>
+		<entry key="ShopItem_Vend_Streefox_02" translation="Latte macchiato in lattina"/>
+		<entry key="ShopItem_Vend_Streefox_03" translation="Caffè Deca in lattina"/>
 		<!--C7_Research-->
-		<entry key="Research_Hint_ShopsAndFacilities_SmallAttractions" translation="Small Attractions"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_SmallAttractions" translation="Small Attractions"/>
+		<entry key="Research_Hint_ShopsAndFacilities_SmallAttractions" translation="Piccole Attrazioni"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_SmallAttractions" translation="Piccole Attrazioni"/>
 		<!--C7_Tags-->
-		<entry key="Set_Masonry" translation="Masonry"/>
-		<entry key="Set_Stone" translation="Decorative Stone"/>
-		<entry key="Set_TinPanel" translation="Tin Panel"/>
+		<entry key="Set_Masonry" translation="Muratura"/>
+		<entry key="Set_Stone" translation="Pietra Decorativa"/>
+		<entry key="Set_TinPanel" translation="Pannello in latta"/>
 		<!--Camera-->
 		<entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocità Scorrimento al Bordo"/>
@@ -6041,7 +6041,7 @@
 		<entry key="FanfarePackCompletion_MAIN_1" translation="Ben fatto! Hai guadagnato tutte le Stelle di Bronzo!"/>
 		<entry key="FanfarePackCompletion_MAIN_2" translation="Congratulazioni! Hai collezionato tutte le Stelle d'Argento!"/>
 		<entry key="FanfarePackCompletion_MAIN_3" translation="Stupefacente! Hai ottenuto tutte le Stelle d'Oro!"/>
-		<entry key="FanfarePackCompletion_MAIN_All" translation="Uao! Hai completato tutti gli obiettivi fissati nella tua carriera!"/>
+		<entry key="FanfarePackCompletion_MAIN_All" translation="WOW! Hai completato tutti gli obiettivi fissati nella tua carriera!"/>
 		<entry key="FrontEndMenu_Difficulty_Beginner" translation="Principiante"/>
 		<entry key="FrontEndMenu_Difficulty_Easy" translation="Facile"/>
 		<entry key="FrontEndMenu_Difficulty_Hard" translation="Difficile"/>
@@ -6101,25 +6101,25 @@
 		<entry key="CoasterEditor_AutocompleteCannotBeAttempted" translation="Autocompletamento non possibile tra gli attuali segmenti finali"/>
 		<entry key="CoasterEditor_AutocompleteDisabled" translation="Autocompletamento non disponibile per questa attrazione"/>
 		<entry key="CoasterEditor_AutocompleteFailed" translation="Completamento Fallito"/>
-		<entry key="CoasterEditor_BoatColor" translation="Boat Colour"/>
-		<entry key="CoasterEditor_BusColor" translation="Bus Colour"/>
+		<entry key="CoasterEditor_BoatColor" translation="Colore Barca"/>
+		<entry key="CoasterEditor_BusColor" translation="Colore Bus"/>
 		<entry key="CoasterEditor_Camera" translation="Camera"/>
-		<entry key="CoasterEditor_CarColor" translation="Colore vettura"/>
+		<entry key="CoasterEditor_CarColor" translation="Colore Vettura"/>
 		<entry key="CoasterEditor_Delete" translation="Elimina"/>
 		<entry key="CoasterEditor_ExtraSettings" translation="Impostazioni Utility"/>
 		<entry key="CoasterEditor_FreeCamera" translation="Libera"/>
 		<entry key="CoasterEditor_HeatmapG" translation="{VALUE:int} G"/>
-		<entry key="CoasterEditor_KartColor" translation="Kart Colour"/>
+		<entry key="CoasterEditor_KartColor" translation="Colore Kart"/>
 		<entry key="CoasterEditor_Loops" translation="Giri della morte"/>
 		<entry key="CoasterEditor_NonInverted" translation="Non-invertito"/>
-		<entry key="CoasterEditor_RaftColor" translation="Raft Colour"/>
+		<entry key="CoasterEditor_RaftColor" translation="Colore Zattera"/>
 		<entry key="CoasterEditor_ReverseDirection" translation="Direzione contraria"/>
 		<entry key="CoasterEditor_Rolls" translation="Avvitamenti"/>
 		<entry key="CoasterEditor_Scenery" translation="Scenario"/>
 		<entry key="CoasterEditor_Settings" translation="Impostazioni"/>
 		<entry key="CoasterEditor_ShowBank" translation="Mostra Curva"/>
-		<entry key="CoasterEditor_ShowCoasterName" translation="Show Coaster Name"/>
-		<entry key="CoasterEditor_SleighColor" translation="Sleigh Colour"/>
+		<entry key="CoasterEditor_ShowCoasterName" translation="Mostra Nome Montagna Russa"/>
+		<entry key="CoasterEditor_SleighColor" translation="Colore Slitta"/>
 		<entry key="CoasterEditor_Smooth" translation="Appiattisci tutto"/>
 		<entry key="CoasterEditor_SmoothBanking" translation="Appiattisci Curva"/>
 		<entry key="CoasterEditor_Speed" translation="Velocità"/>
@@ -6136,7 +6136,7 @@
 		<entry key="CoasterEditor_TopHat" translation="Top Hat"/>
 		<entry key="CoasterEditor_Track" translation="Tracciato"/>
 		<entry key="CoasterEditor_TrackColor" translation="Colore Tracciato"/>
-		<entry key="CoasterEditor_TrainColor" translation="Train Colour"/>
+		<entry key="CoasterEditor_TrainColor" translation="Colore Treno"/>
 		<entry key="CoasterEditor_Trains" translation="Treni"/>
 		<entry key="CoasterEditor_TunnelWidth" translation="Larghezza Tunnel"/>
 		<entry key="CoasterEditor_Utilities" translation="Varie"/>
@@ -6250,13 +6250,13 @@
 		<entry key="Station_Type_station_log_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
 		<entry key="Station_Type_station_log_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
 		<entry key="Station_Type_station_log_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
-		<entry key="Station_Type_station_viperone_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_viperone_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_viperone_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_viperone_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_viperone_LeftRight" translation="Stazione con ingresso a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_viperone_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_viperone_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
+		<entry key="Station_Type_station_viperone_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
 		<entry key="TrackFeature_CableAndChainLift" translation="- Sollevamento a cavo e a catena"/>
 		<entry key="TrackFeature_CableLift" translation="- Sollevamento a cavo"/>
-		<entry key="TrackFeature_CanInvert" translation="-  Può invertirsi"/>
+		<entry key="TrackFeature_CanInvert" translation="- Può invertirsi"/>
 		<entry key="TrackFeature_CanPartiallyInvert" translation="- Può parzialmente invertirsi"/>
 		<entry key="TrackFeature_CannotInvert" translation="- Non può invertirsi"/>
 		<entry key="TrackFeature_ChainLift" translation="- Sollevamento a catena"/>
@@ -6283,49 +6283,49 @@
 		<entry key="Water_RollingRiver" translation="Rolling River"/>
 		<entry key="Water_RollingRiver_Desc" translation="Attrazione acquatica sulle rapide del fiume, dove i passeggeri siedono in gommoni circolari e viaggiano lungo sezioni d'acqua a scorrimento veloce."/>
 		<!--ColourCorrection-->
-		<entry key="ColourGrading_70S" translation="70's"/>
-		<entry key="ColourGrading_BW_Blast" translation="Black and White Blast"/>
-		<entry key="ColourGrading_Base" translation="No Colour Grading"/>
+		<entry key="ColourGrading_70S" translation="Anni 70"/>
+		<entry key="ColourGrading_BW_Blast" translation="Bianco e Nero"/>
+		<entry key="ColourGrading_Base" translation="Nessuna categoria"/>
 		<entry key="ColourGrading_Blackout" translation="Blackout"/>
-		<entry key="ColourGrading_Bleach" translation="Bleach"/>
-		<entry key="ColourGrading_Bleak" translation="Bleak"/>
+		<entry key="ColourGrading_Bleach" translation="Sbiadito"/>
+		<entry key="ColourGrading_Bleak" translation="Tetro"/>
 		<entry key="ColourGrading_Blueshift" translation="Blueshift"/>
 		<entry key="ColourGrading_Cyber" translation="Cyber"/>
-		<entry key="ColourGrading_Fish" translation="Fish"/>
-		<entry key="ColourGrading_Frosty" translation="Frosty"/>
-		<entry key="ColourGrading_Greyscale" translation="Greyscale"/>
+		<entry key="ColourGrading_Fish" translation="Pesce"/>
+		<entry key="ColourGrading_Frosty" translation="Ghiacciato"/>
+		<entry key="ColourGrading_Greyscale" translation="Scala di grigi"/>
 		<entry key="ColourGrading_HollyWould" translation="Holly Would"/>
-		<entry key="ColourGrading_Inversion" translation="Inversion"/>
+		<entry key="ColourGrading_Inversion" translation="Inversione"/>
 		<entry key="ColourGrading_Jive" translation="Jive"/>
 		<entry key="ColourGrading_Magenta" translation="Magenta"/>
 		<entry key="ColourGrading_Metrix" translation="Metrix"/>
-		<entry key="ColourGrading_NightVision" translation="Night Vision"/>
+		<entry key="ColourGrading_NightVision" translation="Visione notturna"/>
 		<entry key="ColourGrading_Noir" translation="Noir"/>
 		<entry key="ColourGrading_Pancake" translation="Pancake"/>
 		<entry key="ColourGrading_Percy" translation="Percy"/>
 		<entry key="ColourGrading_Philliskies" translation="Philliskies"/>
 		<entry key="ColourGrading_Pop" translation="Pop"/>
 		<entry key="ColourGrading_Poster" translation="Poster"/>
-		<entry key="ColourGrading_Red_Ink" translation="Red Ink"/>
-		<entry key="ColourGrading_Saturate" translation="Saturate"/>
+		<entry key="ColourGrading_Red_Ink" translation="Inchiostro Rosso"/>
+		<entry key="ColourGrading_Saturate" translation="Saturato"/>
 		<entry key="ColourGrading_Sepia" translation="Sepia"/>
 		<entry key="ColourGrading_Sepia2" translation="Sepia 2"/>
 		<entry key="ColourGrading_Smith" translation="Smith"/>
-		<entry key="ColourGrading_Spooky" translation="Spooky"/>
-		<entry key="ColourGrading_Stark" translation="Stark"/>
-		<entry key="ColourGrading_Trip" translation="Trip"/>
+		<entry key="ColourGrading_Spooky" translation="Spaventoso"/>
+		<entry key="ColourGrading_Stark" translation="Netto"/>
+		<entry key="ColourGrading_Trip" translation="Viaggio"/>
 		<entry key="ColourGrading_Western" translation="Western"/>
 		<entry key="ColourGrading_Whiteout" translation="Whiteout"/>
-		<entry key="ColourGrading_Wonderyears" translation="Wonder Years"/>
-		<entry key="Colour_Correction_ContentDescription" translation="Apply camera effects to change how your park appears."/>
-		<entry key="Colour_Correction_ContentTitle" translation="Camera Effects"/>
-		<entry key="Colour_Correction_Effect" translation="Effect - {EffectName}"/>
-		<entry key="Colour_Correction_EnabledDescription" translation="You can choose to have camera effects persist as you play the game, persisting effects will be saved"/>
-		<entry key="Colour_Correction_EnabledLabel" translation="Camera Effects Always On"/>
-		<entry key="Colour_Correction_FilmGrain" translation="Film Grain"/>
-		<entry key="Colour_Correction_TimeOfDayTitle" translation="Lock time of day"/>
-		<entry key="Colour_Correction_Title" translation="Camera Effects"/>
-		<entry key="Colour_Correction_Vignette" translation="Vignette"/>
+		<entry key="ColourGrading_Wonderyears" translation="Anni meravigliosi"/>
+		<entry key="Colour_Correction_ContentDescription" translation="Applica effetti visuali per cambiare l'aspetto del tuo parco."/>
+		<entry key="Colour_Correction_ContentTitle" translation="Effetti Visuali"/>
+		<entry key="Colour_Correction_Effect" translation="Effetto - {EffectName}"/>
+		<entry key="Colour_Correction_EnabledDescription" translation="Puoi scegliere di avere effetti visuali permanenti durante il gioco, gli effetti permanenti saranno salvati"/>
+		<entry key="Colour_Correction_EnabledLabel" translation="Effetti Visuali Sempre Attivi"/>
+		<entry key="Colour_Correction_FilmGrain" translation="Grana Pellicola"/>
+		<entry key="Colour_Correction_TimeOfDayTitle" translation="Blocca momento del giorno"/>
+		<entry key="Colour_Correction_Title" translation="Effetti Visuali"/>
+		<entry key="Colour_Correction_Vignette" translation="Vignetta"/>
 		<!--CommunityTranslation-->
 		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
 		<!--Facilities-->
@@ -6403,8 +6403,8 @@
 		<entry key="BuildingPartName_VM_DebugVendingMachine_Standard" translation="Debug Vending Machine"/>
 		<entry key="BuildingPartName_VT_DebugGrabber_Standard" translation="TEMP Grabber Vending Machine"/>
 		<entry key="BuildingPartName_VT_DebugGumBall_Standard" translation="TEMP Gumball Vending Machine"/>
-		<entry key="BuildingPrefixName_HO_HotelRoom_Luxury" translation="Luxury Room"/>
-		<entry key="BuildingPrefixName_HO_HotelRoom_Standard" translation="Standard Room"/>
+		<entry key="BuildingPrefixName_HO_HotelRoom_Luxury" translation="Camera di Lusso"/>
+		<entry key="BuildingPrefixName_HO_HotelRoom_Standard" translation="Camera Standard"/>
 		<entry key="GenericFacilityPrefix" translation="Servizio"/>
 		<entry key="GenericHotelPrefix" translation="Hotel"/>
 		<entry key="ShopItem_Balloon_01" translation="Palloncino Rosso"/>
@@ -6412,7 +6412,7 @@
 		<entry key="ShopItem_Balloon_03" translation="Palloncino Verde"/>
 		<entry key="ShopItem_Balloon_04" translation="Palloncino Giallo"/>
 		<entry key="ShopItem_Balloon_05" translation="Palloncino Rosa"/>
-		<entry key="ShopItem_CustomNameDebug" translation="Custom Name for {VALUE}"/>
+		<entry key="ShopItem_CustomNameDebug" translation="Nome personalizzato per {VALUE}"/>
 		<entry key="ShopItem_CustomNameText" translation="{VALUE}"/>
 		<entry key="ShopItem_Drink_Coffee_01" translation="Americano"/>
 		<entry key="ShopItem_Drink_Coffee_02" translation="Doppio Espresso"/>
@@ -6450,20 +6450,20 @@
 		<entry key="ShopItem_Extra_ChocolateSauce" translation="Salsa al Cioccolato"/>
 		<entry key="ShopItem_Extra_CoconutFlakes" translation="Fiocchi di Cocco"/>
 		<entry key="ShopItem_Extra_Cream" translation="Crema"/>
-		<entry key="ShopItem_Extra_Effect" translation="{Name} will make guests:{Happiness}{Energy}{Hunger}{Thirst}{Toilet}{Nausea}"/>
+		<entry key="ShopItem_Extra_Effect" translation="{Name} renderà i visitatori:{Happiness}{Energy}{Hunger}{Thirst}{Toilet}{Nausea}"/>
 		<entry key="ShopItem_Extra_Effect_Blank" translation=""/>
-		<entry key="ShopItem_Extra_Effect_Energy_Less" translation="&#10; -Less energetic"/>
-		<entry key="ShopItem_Extra_Effect_Energy_More" translation="&#10; -More energetic"/>
-		<entry key="ShopItem_Extra_Effect_Happiness_Less" translation="&#10; -Unhappier"/>
-		<entry key="ShopItem_Extra_Effect_Happiness_More" translation="&#10; -Happier"/>
-		<entry key="ShopItem_Extra_Effect_Hunger_Less" translation="&#10; -More hungry"/>
-		<entry key="ShopItem_Extra_Effect_Hunger_More" translation="&#10; -Less hungry"/>
-		<entry key="ShopItem_Extra_Effect_Nausea_Less" translation="&#10; -More nauseous"/>
-		<entry key="ShopItem_Extra_Effect_Nausea_More" translation="&#10; -Less nauseous"/>
-		<entry key="ShopItem_Extra_Effect_Thirst_Less" translation="&#10; -Thirstier"/>
-		<entry key="ShopItem_Extra_Effect_Thirst_More" translation="&#10; -Less thirsty"/>
-		<entry key="ShopItem_Extra_Effect_Toilet_Less" translation="&#10; -More in need of the toilet"/>
-		<entry key="ShopItem_Extra_Effect_Toilet_More" translation="&#10; -Less in need of the toilet"/>
+		<entry key="ShopItem_Extra_Effect_Energy_Less" translation="&#10; -Meno energici"/>
+		<entry key="ShopItem_Extra_Effect_Energy_More" translation="&#10; -Più energici"/>
+		<entry key="ShopItem_Extra_Effect_Happiness_Less" translation="&#10; -Più infelici"/>
+		<entry key="ShopItem_Extra_Effect_Happiness_More" translation="&#10; -Più felici"/>
+		<entry key="ShopItem_Extra_Effect_Hunger_Less" translation="&#10; -Più affamati"/>
+		<entry key="ShopItem_Extra_Effect_Hunger_More" translation="&#10; -Meno affamati"/>
+		<entry key="ShopItem_Extra_Effect_Nausea_Less" translation="&#10; -Più nauseati"/>
+		<entry key="ShopItem_Extra_Effect_Nausea_More" translation="&#10; -Meno nauseati"/>
+		<entry key="ShopItem_Extra_Effect_Thirst_Less" translation="&#10; -Più assetati"/>
+		<entry key="ShopItem_Extra_Effect_Thirst_More" translation="&#10; -Meno assetati"/>
+		<entry key="ShopItem_Extra_Effect_Toilet_Less" translation="&#10; -Più bisognosi del bagno"/>
+		<entry key="ShopItem_Extra_Effect_Toilet_More" translation="&#10; -Meno bisognosi del bagno"/>
 		<entry key="ShopItem_Extra_Fruit" translation="Pezzi di Frutta"/>
 		<entry key="ShopItem_Extra_FudgePieces" translation="Pezzi di Caramello"/>
 		<entry key="ShopItem_Extra_Gherkins" translation="Cetrioli"/>
@@ -6476,7 +6476,7 @@
 		<entry key="ShopItem_Extra_Marshmallows" translation="Marshmallow"/>
 		<entry key="ShopItem_Extra_Mayo" translation="Maionese"/>
 		<entry key="ShopItem_Extra_Milk" translation="Latte"/>
-		<entry key="ShopItem_Extra_Mustard" translation="Mostarda"/>
+		<entry key="ShopItem_Extra_Mustard" translation="Senape"/>
 		<entry key="ShopItem_Extra_Onions" translation="Cipolle"/>
 		<entry key="ShopItem_Extra_Peppers" translation="Peperoni"/>
 		<entry key="ShopItem_Extra_PizzaCheese" translation="Formaggio Extra"/>
@@ -6735,16 +6735,16 @@
 		<entry key="FrontEndMenu_AllUploads" translation="Guarda tutti gli Uploads"/>
 		<entry key="FrontEndMenu_Alpine" translation="Alpino"/>
 		<entry key="FrontEndMenu_AlpineDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario freddo e montuoso!"/>
-		<entry key="FrontEndMenu_AlpineScenario" translation="Alpine"/>
-		<entry key="FrontEndMenu_AlpineScenarioDescription" translation="Start a new custom scenario in a cold and crisp environment!"/>
+		<entry key="FrontEndMenu_AlpineScenario" translation="Alpino"/>
+		<entry key="FrontEndMenu_AlpineScenarioDescription" translation="Comincia a costruire il tuo parco in uno scenario freddo e montuoso!"/>
 		<entry key="FrontEndMenu_AlpineSimulation" translation="Alpino"/>
 		<entry key="FrontEndMenu_AlpineSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario freddo e montuoso!"/>
-		<entry key="FrontEndMenu_AlterChallenge" translation="Load Challenge"/>
-		<entry key="FrontEndMenu_AlterChallengeCustom" translation="Carica Sfida - Ambiente Custom"/>
-		<entry key="FrontEndMenu_AlterSandbox" translation="Load Sandbox"/>
-		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Carica Sandbox - Ambiente Custom"/>
-		<entry key="FrontEndMenu_AlterScenario" translation="Load Scenario"/>
-		<entry key="FrontEndMenu_AlterScenarioCustom" translation="Load Scenario - Custom Environment"/>
+		<entry key="FrontEndMenu_AlterChallenge" translation="Carica Sfida"/>
+		<entry key="FrontEndMenu_AlterChallengeCustom" translation="Carica Sfida - Ambiente Personalizzato"/>
+		<entry key="FrontEndMenu_AlterSandbox" translation="Carica Sandbox"/>
+		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Carica Sandbox - Ambiente Personalizzato"/>
+		<entry key="FrontEndMenu_AlterScenario" translation="Carica Scenario"/>
+		<entry key="FrontEndMenu_AlterScenarioCustom" translation="Carica Scenario - Ambiente Personalizzato"/>
 		<entry key="FrontEndMenu_AutoSave" translation="Nascondi Salvataggi Automatici"/>
 		<entry key="FrontEndMenu_AutosaveNumber" translation="Salvataggio Automatico {Number:int:minDigits=1}"/>
 		<entry key="FrontEndMenu_AvatarEditor_InfoTitle" translation="Crea il tuo Avatar!"/>
@@ -6755,7 +6755,7 @@
 		<entry key="FrontEndMenu_AvatarModerationSent" translation="Il tuo avatar sarà mandato ai nostri server per un controllo.&#10;Potrebbe volerci un pò prima che appaia."/>
 		<entry key="FrontEndMenu_AvatarModerationSentHeader" translation="Creazione Avatar Completata!"/>
 		<entry key="FrontEndMenu_AvatarNameNeeded" translation="Dai un nome al tuo avatar."/>
-		<entry key="FrontEndMenu_AvatarNameNeededGroup" translation="Per piacere dai un nome ad ogni componente del gruppo."/>
+		<entry key="FrontEndMenu_AvatarNameNeededGroup" translation="Prego dai un nome ad ogni componente del gruppo."/>
 		<entry key="FrontEndMenu_AvatarNameNeededHeader" translation="Nome avatar mancante"/>
 		<entry key="FrontEndMenu_AvatarOkButton" translation="Ok"/>
 		<entry key="FrontEndMenu_AvatarOptions" translation="Opzioni Avatar"/>
@@ -6772,7 +6772,7 @@
 		<entry key="FrontEndMenu_CareerPrevious" translation="I Miei Parchi"/>
 		<entry key="FrontEndMenu_CareerPreviousTooltips" translation="Carica salvataggio precedente"/>
 		<entry key="FrontEndMenu_CareerResume" translation="Riprendi"/>
-		<entry key="FrontEndMenu_CareerSets" translation="Sets"/>
+		<entry key="FrontEndMenu_CareerSets" translation="Serie"/>
 		<entry key="FrontEndMenu_CareerStartNew" translation="Inizia un nuovo Scenario"/>
 		<entry key="FrontEndMenu_CareerTotal" translation="/{Value:int}"/>
 		<entry key="FrontEndMenu_Celebrity" translation="Celebrità"/>
@@ -6782,7 +6782,7 @@
 		<entry key="FrontEndMenu_CreatedBy" translation="Creato da: {Name}"/>
 		<entry key="FrontEndMenu_Credits" translation="Crediti"/>
 		<entry key="FrontEndMenu_CreditsButton" translation="Crediti"/>
-		<entry key="FrontEndMenu_Custom" translation="Custom"/>
+		<entry key="FrontEndMenu_Custom" translation="Personalizzato"/>
 		<entry key="FrontEndMenu_CustomAmbienceDescription" translation="Scegli l'audio ambientale per questo nuovo ambiente."/>
 		<entry key="FrontEndMenu_CustomAmbienceHeader" translation="Atmosfera Personalizzata"/>
 		<entry key="FrontEndMenu_CustomBiomeDescription" translation="Scegli il terreno su cui desideri basarti per l'ambiente personalizzato."/>
@@ -6790,29 +6790,29 @@
 		<entry key="FrontEndMenu_CustomDescription" translation="Comincia a costruire il tuo parco con denaro illimitato e costruisci in un ambiente personalizzato!"/>
 		<entry key="FrontEndMenu_CustomPaint_ConfirmCancel" translation="Annulla"/>
 		<entry key="FrontEndMenu_CustomPaint_ConfirmOK" translation="OK"/>
-		<entry key="FrontEndMenu_CustomPaint_Title" translation="Scelta Vernice"/>
+		<entry key="FrontEndMenu_CustomPaint_Title" translation="Scelta Colore"/>
 		<entry key="FrontEndMenu_CustomSandbox_Terrain" translation="Terreno di Partenza"/>
-		<entry key="FrontEndMenu_CustomScenario" translation="Custom"/>
+		<entry key="FrontEndMenu_CustomScenario" translation="Personalizzato"/>
 		<entry key="FrontEndMenu_CustomScenarioDescription" translation="Start a new custom scenario in a custom environment!"/>
 		<entry key="FrontEndMenu_CustomSimulation" translation="Personalizzato"/>
 		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Comincia a costruire il tuo parco con denaro limitato e costruisci in un ambiente personalizzato"/>
 		<entry key="FrontEndMenu_CustomTerrainPaintFilter" translation="Filtro"/>
-		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Scambio Vernice"/>
+		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Cambio Colore"/>
 		<entry key="FrontEndMenu_Deciduous" translation="Deciduo"/>
 		<entry key="FrontEndMenu_DeciduousDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario lussureggiante!"/>
-		<entry key="FrontEndMenu_DeciduousScenario" translation="Deciduous"/>
-		<entry key="FrontEndMenu_DeciduousScenarioDescription" translation="Start a new custom scenario in this lush environment!"/>
+		<entry key="FrontEndMenu_DeciduousScenario" translation="Deciduo"/>
+		<entry key="FrontEndMenu_DeciduousScenarioDescription" translation="Comincia a costruire il tuo parco in uno scenario lussureggiante!"/>
 		<entry key="FrontEndMenu_DeciduousSimulation" translation="Deciduo"/>
 		<entry key="FrontEndMenu_DeciduousSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario lussureggiante!"/>
 		<entry key="FrontEndMenu_DefaultChallengeParkName" translation="Parco Sfida"/>
 		<entry key="FrontEndMenu_DefaultSandboxParkName" translation="Parco Sandbox"/>
-		<entry key="FrontEndMenu_DefaultScenarioParkDescription" translation="A Player-Created Scenario"/>
-		<entry key="FrontEndMenu_DefaultScenarioParkName" translation="Custom Scenario"/>
+		<entry key="FrontEndMenu_DefaultScenarioParkDescription" translation="Uno Scenario creato dal Giocatore"/>
+		<entry key="FrontEndMenu_DefaultScenarioParkName" translation="Scenario Personalizzato"/>
 		<entry key="FrontEndMenu_DeleteButton" translation="Elimina"/>
 		<entry key="FrontEndMenu_Desert" translation="Deserto"/>
 		<entry key="FrontEndMenu_DesertDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario sabbioso!"/>
-		<entry key="FrontEndMenu_DesertScenario" translation="Desert"/>
-		<entry key="FrontEndMenu_DesertScenarioDescription" translation="Start a new custom scenario on a sandy expanse!"/>
+		<entry key="FrontEndMenu_DesertScenario" translation="Deserto"/>
+		<entry key="FrontEndMenu_DesertScenarioDescription" translation="Comincia a costruire il tuo parco in uno scenario sabbioso!"/>
 		<entry key="FrontEndMenu_DesertSimulation" translation="Deserto"/>
 		<entry key="FrontEndMenu_DesertSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario sabbioso!"/>
 		<entry key="FrontEndMenu_Details" translation="Dettagli"/>
@@ -6830,12 +6830,12 @@
 		<entry key="FrontEndMenu_Disconnected" translation="Sei Offline!"/>
 		<entry key="FrontEndMenu_Downloads" translation="Scaricamenti"/>
 		<entry key="FrontEndMenu_DownloadsDescription" translation="Guarda i parchi ed i progetti che hai scaricato"/>
-		<entry key="FrontEndMenu_EditAsNewScenario" translation="Edit as new Scenario"/>
+		<entry key="FrontEndMenu_EditAsNewScenario" translation="Modifica come nuovo Scenario"/>
 		<entry key="FrontEndMenu_EditAvatar" translation="Modifica Avatar"/>
 		<entry key="FrontEndMenu_EditAvatarGroup" translation="Modifica Biglietto Gruppo VIP"/>
 		<entry key="FrontEndMenu_EditAvatarStaff" translation="Modifica Pass Staff VIP"/>
 		<entry key="FrontEndMenu_EditAvatarVIP" translation="Modifica Biglietto Singolo VIP"/>
-		<entry key="FrontEndMenu_EditScenario" translation="Edit Scenario"/>
+		<entry key="FrontEndMenu_EditScenario" translation="Modifica Scenario"/>
 		<entry key="FrontEndMenu_EnterParkName" translation="Scrivi il nome del tuo parco..."/>
 		<entry key="FrontEndMenu_Exit" translation="Abbandona Planet Coaster"/>
 		<entry key="FrontEndMenu_ExitButton" translation="Abbandona Planet Coaster"/>
@@ -6854,8 +6854,8 @@
 		<entry key="FrontEndMenu_GlobeFilter_Friends" translation="Amici"/>
 		<entry key="FrontEndMenu_Grassland" translation="Prateria"/>
 		<entry key="FrontEndMenu_GrasslandDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in queste ricche praterie!"/>
-		<entry key="FrontEndMenu_GrasslandScenario" translation="Grassland"/>
-		<entry key="FrontEndMenu_GrasslandScenarioDescription" translation="Start a new custom scenario on these rich pastures!"/>
+		<entry key="FrontEndMenu_GrasslandScenario" translation="Prateria"/>
+		<entry key="FrontEndMenu_GrasslandScenarioDescription" translation="Comincia a costruire il tuo parco in queste ricche praterie!"/>
 		<entry key="FrontEndMenu_GrasslandSimulation" translation="Prateria"/>
 		<entry key="FrontEndMenu_GrasslandSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in queste ricche praterie!"/>
 		<entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Spedisci un gruppo là fuori nei parchi dell'universo Planet Coaster!"/>
@@ -6863,7 +6863,7 @@
 		<entry key="FrontEndMenu_HQPlacement_InfoLabel" translation="Il Quartier Generale è dove gli altri giocatori vedranno il tuo avatar e avranno accesso ad ogni parco o progetto che hai condiviso.\n\nPosiziona il tuo avatar in qualsiasi parte del globo. Puoi modificare la posizione del Quartier Generale del tuo avatar anche dopo."/>
 		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo Quartier Generale!"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptCancel" translation="No"/>
-		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Sì"/>
+		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Si"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptLabel" translation="Sei sicuro?\n\nPotrai modificarlo in seguito."/>
 		<entry key="FrontEndMenu_HQPlacement_PromptTitle" translation="Posizionamento Quartier Generale"/>
 		<entry key="FrontEndMenu_LastUpdated" translation="Ultimo Aggiornamento: {Date}"/>
@@ -6903,7 +6903,7 @@
 		<entry key="FrontEndMenu_PlayTime" translation="Totale tempo di gioco: {Value:float:decimalPlaces=1} ore"/>
 		<entry key="FrontEndMenu_Player" translation="Sei tu!"/>
 		<entry key="FrontEndMenu_PromptNo" translation="No"/>
-		<entry key="FrontEndMenu_PromptYes" translation="Sì"/>
+		<entry key="FrontEndMenu_PromptYes" translation="Si"/>
 		<entry key="FrontEndMenu_Rating" translation="Valutazione"/>
 		<entry key="FrontEndMenu_RepositionHQ" translation="Modifica Quartier Generale Avatar"/>
 		<entry key="FrontEndMenu_Resume" translation="Continua"/>
@@ -7006,7 +7006,7 @@
 		<entry key="FrontEndMenu_UserInGame" translation="Giocando A Planet Coaster"/>
 		<entry key="FrontEndMenu_UserOffline" translation="Offline"/>
 		<entry key="FrontEndMenu_UserOnline" translation="Online"/>
-		<entry key="FrontEndMenu_UserScenario" translation="Custom Scenario"/>
+		<entry key="FrontEndMenu_UserScenario" translation="Scenario Personalizzato"/>
 		<entry key="FrontEndMenu_Username" translation="{Name}"/>
 		<entry key="FrontEndMenu_VIPEditor_InfoLabel" translation="Crea un ospite per visitare il parco degli altri giocatori."/>
 		<entry key="FrontEndMenu_VIPEditor_InfoTitle" translation="Crea il tuo Biglietto VIP Singolo!"/>
@@ -7116,7 +7116,7 @@
 		<entry key="InfoPanel_CustomTextures_NamedTexture" translation="{NAME}"/>
 		<entry key="InfoPanel_CustomTextures_OffLabel" translation="Cartellone Spento"/>
 		<entry key="InfoPanel_CustomTextures_OffTT" translation="Spegni Cartellone"/>
-		<entry key="InfoPanel_CustomTextures_OffTT_RunningCosts" translation="Spegni cartellone&#10;&#10;Un cartellone non ha costi di esercizio quando spento ma anche nessun effetto sui visitatori."/>
+		<entry key="InfoPanel_CustomTextures_OffTT_RunningCosts" translation="Spegni Cartellone&#10;&#10;Un cartellone non ha costi di esercizio quando spento ma anche nessun effetto sui visitatori."/>
 		<entry key="InfoPanel_CustomTextures_OnLabel" translation="Cartellone Acceso"/>
 		<entry key="InfoPanel_CustomTextures_OnTT" translation="Accendi Cartellone"/>
 		<entry key="InfoPanel_CustomTextures_Refresh" translation="Aggiorna cartella texture personalizzate"/>
@@ -7159,16 +7159,16 @@
 		<entry key="MiscPopup_Label" translation="{Item} {Type} {File}."/>
 		<entry key="MiscPopup_Label_File_Multiple" translation="files"/>
 		<entry key="MiscPopup_Label_File_Single" translation="file &quot;{Name}&quot;"/>
-		<entry key="MiscPopup_Label_Item_Multiple" translation="Multiple items reference"/>
-		<entry key="MiscPopup_Label_Item_Single" translation="{Name} references"/>
-		<entry key="MiscPopup_Label_Type_Audio" translation="missing user audio"/>
-		<entry key="MiscPopup_Label_Type_Mixed" translation="missing user content"/>
-		<entry key="MiscPopup_Label_Type_Texture" translation="missing user texture"/>
-		<entry key="MiscPopup_Title_Audio" translation="Missing User Audio"/>
-		<entry key="MiscPopup_Title_Mixed" translation="Missing User Content"/>
-		<entry key="MiscPopup_Title_Texture" translation="Missing User Texture"/>
-		<entry key="ObjectBrowser_BlueprintBuyNow" translation="Buy unowned blueprint content"/>
-		<entry key="ObjectBrowser_BuyNowTooltip" translation="Buy now in the {PackName} pack"/>
+		<entry key="MiscPopup_Label_Item_Multiple" translation="Riferimenti Oggetto Multipli"/>
+		<entry key="MiscPopup_Label_Item_Single" translation="{Name} riferimenti"/>
+		<entry key="MiscPopup_Label_Type_Audio" translation="audio utente mancante"/>
+		<entry key="MiscPopup_Label_Type_Mixed" translation="contenuto utente mancante"/>
+		<entry key="MiscPopup_Label_Type_Texture" translation="texture utente mancante"/>
+		<entry key="MiscPopup_Title_Audio" translation="Audio Utente Mancante"/>
+		<entry key="MiscPopup_Title_Mixed" translation="Contenuto Utente Mancante"/>
+		<entry key="MiscPopup_Title_Texture" translation="Texture Utente Mancante"/>
+		<entry key="ObjectBrowser_BlueprintBuyNow" translation="Compra contenuto progetto non posseduto"/>
+		<entry key="ObjectBrowser_BuyNowTooltip" translation="Compra ora nel {PackName} pack"/>
 		<entry key="ObjectBrowser_DLCFilterLabel" translation="Oggetti DLC"/>
 		<entry key="ObjectBrowser_DLCFilterTooltip" translation="Disattiva oggetti DLC non acquistati"/>
 		<entry key="Obstructed" translation="Bloccato"/>
