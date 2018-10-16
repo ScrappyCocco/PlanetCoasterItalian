@@ -6793,9 +6793,9 @@
 		<entry key="FrontEndMenu_CustomPaint_Title" translation="Scelta Colore"/>
 		<entry key="FrontEndMenu_CustomSandbox_Terrain" translation="Terreno di Partenza"/>
 		<entry key="FrontEndMenu_CustomScenario" translation="Personalizzato"/>
-		<entry key="FrontEndMenu_CustomScenarioDescription" translation="Start a new custom scenario in a custom environment!"/>
+		<entry key="FrontEndMenu_CustomScenarioDescription" translation="Comincia a costruire il tuo parco in un ambiente personalizzato!"/>
 		<entry key="FrontEndMenu_CustomSimulation" translation="Personalizzato"/>
-		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Comincia a costruire il tuo parco con denaro limitato e costruisci in un ambiente personalizzato"/>
+		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Comincia a costruire il tuo parco con denaro limitato e costruisci in un ambiente personalizzato!"/>
 		<entry key="FrontEndMenu_CustomTerrainPaintFilter" translation="Filtro"/>
 		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Cambio Colore"/>
 		<entry key="FrontEndMenu_Deciduous" translation="Deciduo"/>
@@ -7034,7 +7034,7 @@
 		<entry key="AutosaveName" translation="Salvataggio Automatico"/>
 		<entry key="Average" translation="Media"/>
 		<entry key="Back" translation="Indietro"/>
-		<entry key="BrokenDown" translation="Rotto"/>
+		<entry key="BrokenDown" translation="Guasto"/>
 		<entry key="BuildingGroupInitialPrefix" translation="Struttura"/>
 		<entry key="Button" translation="Pulsante"/>
 		<entry key="COMING_SOON" translation="Prossimamente!"/>
@@ -7094,7 +7094,7 @@
 		<entry key="FanfareRankUpDesc" translation="Hai raggiunto il livello {Rank}"/>
 		<entry key="FanfareScenarioUnlocked" translation="Scenario Sbloccato!"/>
 		<entry key="FlatRidePrefix" translation="Attrazione"/>
-		<entry key="FrontEndMenu_GlobeFilter_DLC" translation="New DLC"/>
+		<entry key="FrontEndMenu_GlobeFilter_DLC" translation="Nuovo DLC"/>
 		<entry key="GAMEDATE_DAY_MONTH" translation="{Day:int:minDigits=2} {MonthName}"/>
 		<entry key="GAMEDATE_DAY_MONTH_YEAR" translation="{Day:int:minDigits=2} {MonthName}, Anno {Year:int}"/>
 		<entry key="GAMEDATE_MONTH_YEAR" translation="{MonthName}, Anno {Year:int}"/>
@@ -7142,7 +7142,7 @@
 		<entry key="MONTH_6" translation="Giu"/>
 		<entry key="MONTH_7" translation="Lug"/>
 		<entry key="MONTH_8" translation="Ago"/>
-		<entry key="MONTH_9" translation="Sett"/>
+		<entry key="MONTH_9" translation="Set"/>
 		<entry key="MONTH_LONG_1" translation="Gennaio"/>
 		<entry key="MONTH_LONG_10" translation="Ottobre"/>
 		<entry key="MONTH_LONG_11" translation="Novembre"/>
@@ -7192,10 +7192,10 @@
 		<entry key="SPEED_MPH" translation="{Value:float:decimalPlaces=0} mph"/>
 		<entry key="SPEED_MPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} mph/s"/>
 		<entry key="STRING_LITERAL" translation="{Value}"/>
-		<entry key="SceneryGroupInitialPrefix" translation="Scenery Group"/>
+		<entry key="SceneryGroupInitialPrefix" translation="Gruppo Scenario"/>
 		<entry key="Settings_Less" translation="Riduci"/>
 		<entry key="Settings_More" translation="Espandi"/>
-		<entry key="Start" translation="Start"/>
+		<entry key="Start" translation="Partenza"/>
 		<entry key="StationPrefix" translation="Stazione"/>
 		<entry key="TIME" translation="{Hours:int}:{Minutes:int}"/>
 		<entry key="TIME_MONTHS" translation="{Months:int} mesi"/>
@@ -13137,7 +13137,7 @@
 		<entry key="GuestPerkDesc_DayTripper" translation="Una visita breve, ma un'ampia scelta di attrazioni"/>
 		<entry key="GuestPerkDesc_Energetic" translation="Sono un pozzo di energia"/>
 		<entry key="GuestPerkDesc_Fast" translation="Vanno in giro più velocemente di altri"/>
-		<entry key="GuestPerkDesc_HotelLover" translation="They're more likely to check out your hotels"/>
+		<entry key="GuestPerkDesc_HotelLover" translation="Sono più propensi a vedere i tuoi hotels"/>
 		<entry key="GuestPerkDesc_Hungry" translation="Hanno un metabolismo veloce"/>
 		<entry key="GuestPerkDesc_Impatient" translation="Odiano davvero fare la coda"/>
 		<entry key="GuestPerkDesc_Indecisive" translation="Cambiano spesso idea sulla destinazione"/>
@@ -13345,11 +13345,11 @@
 		<entry key="HUD_HelpPopup_Select_Command_13" translation="Annulla Modifica"/>
 		<entry key="HUD_HelpPopup_Select_Command_14" translation="Ripeti"/>
 		<entry key="HUD_HelpPopup_Select_Command_15" translation="Menù Salvataggio Parco"/>
-		<entry key="HUD_HelpPopup_Select_Command_16" translation="Camera Torch"/>
+		<entry key="HUD_HelpPopup_Select_Command_16" translation="Luce Camera"/>
 		<entry key="HUD_HelpPopup_Select_Description" translation="Seleziona un oggetto nel parco per vedere il suo pannello informazioni e le opzioni di gestione. Apri i menù in basso allo schermo per iniziare a costruire o vedere più opzioni."/>
 		<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
-		<entry key="HUD_HelpPopup_StaffBuilding_Description" translation="Staff buildings allow staff members to rest and recover energy.&#10;Improved building capacity and extra perks for occupants can be purchased from the building operations tab."/>
-		<entry key="HUD_HelpPopup_StaffBuilding_Title" translation="Staff Building"/>
+		<entry key="HUD_HelpPopup_StaffBuilding_Description" translation="Gli Edifici dello Staff permettono ai membri dello Staff di riposarsi e recuperare energie.&#10;Capacità migliorata e vantaggi extra per gli occupanti possono essere acquistati dalle opzioni dell'edificio."/>
+		<entry key="HUD_HelpPopup_StaffBuilding_Title" translation="Edificio Staff"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_01" translation="Posiziona Membro dello Staff"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_02" translation="Annulla Posizionamento"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di inserirlo nel parco."/>
@@ -13431,7 +13431,7 @@
 		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
 		<entry key="HUD_TimePanel_Title" translation="Imposta illuminazione alle"/>
 		<entry key="HUD_ToolTip_AttractionsLists" translation="Lista attrazioni"/>
-		<entry key="HUD_ToolTip_CameraEffects" translation="Camera Effects"/>
+		<entry key="HUD_ToolTip_CameraEffects" translation="Effetti Visuale"/>
 		<entry key="HUD_ToolTip_ChallengesPopup" translation="Sfide"/>
 		<entry key="HUD_ToolTip_Delete" translation="Modalità Cancella (Prossimamente)"/>
 		<entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocità Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
@@ -13447,7 +13447,7 @@
 		<entry key="HUD_ToolTip_ParkManagement" translation="Gestione Parco"/>
 		<entry key="HUD_ToolTip_Pause" translation="Attiva/Disattiva Pausa [{#LogicalButton.Editors_ToggleSimulationSpeed#}]"/>
 		<entry key="HUD_ToolTip_Redo" translation="Riesegui [{#LogicalButton.Editors_Redo#}]"/>
-		<entry key="HUD_ToolTip_SelectMode" translation="Selection Mode"/>
+		<entry key="HUD_ToolTip_SelectMode" translation="Modalità Selezione"/>
 		<entry key="HUD_ToolTip_Undo" translation="Annulla [{#LogicalButton.Editors_Undo#}]"/>
 		<entry key="HUD_ToolsMenu_Path" translation="Sentieri"/>
 		<entry key="HUD_ToolsMenu_Terrain" translation="Terreno"/>
@@ -13504,8 +13504,8 @@
 		<entry key="PopUp_MultiSelect_BlueprintTooManyTrackedRides" translation="I progetti non possono contenere più di 5 montagne russe."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge" translation="Aggiungi scenario indipendente all'edificio selezionato."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge_TooBig" translation="Non è possibile aggiungere uno scenario per creare un edificio con più di 5000 pezzi tra costruzioni e scenario."/>
-		<entry key="PopUp_MultiSelect_CloneNoRides" translation="Cannot Duplicate rides."/>
-		<entry key="PopUp_MultiSelect_ContainsLockedItems" translation="Contains locked items"/>
+		<entry key="PopUp_MultiSelect_CloneNoRides" translation="Non è possibile duplicare attrazioni."/>
+		<entry key="PopUp_MultiSelect_ContainsLockedItems" translation="Contiene oggetti bloccati"/>
 		<entry key="PopUp_MultiSelect_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Montagne Russe nella Catena"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInSelection" translation="Montagne Russe nella Selezione"/>
@@ -13537,8 +13537,8 @@
 		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountTrackedRideStations" translation="Stazioni Attrazioni a Circuito"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Name" translation="Nome zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Unnamed" translation="Zona senza nome"/>
-		<entry key="PopUp_MultiSelect_RemoveLockedItems" translation="Remove locked items from selection"/>
-		<entry key="PopUp_MultiSelect_SceneryGroupMerge" translation="Merge scenery into scenery group."/>
+		<entry key="PopUp_MultiSelect_RemoveLockedItems" translation="Elimina oggetti bloccati dalla selezione"/>
+		<entry key="PopUp_MultiSelect_SceneryGroupMerge" translation="Unisci scenario al gruppo scenari."/>
 		<entry key="PopUp_MultiSelect_Title_MultiBuilding" translation="Strutture selezionate( {Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_MultiCoaster" translation="Coaster selezionati ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_MultiFlatride" translation="Attrazioni selezionate ({Count:separatedFloat:decimalPlaces=0})"/>
@@ -13546,7 +13546,7 @@
 		<entry key="PopUp_MultiSelect_Title_MultiScenery" translation="Scenari selezionati ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_PatrolZones" translation="Crea zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_Title_SingleCustomNamed" translation="{NAME}"/>
-		<entry key="PopUp_MultiSelect_TooManyBuildings" translation="Cannot Duplicate more than one building at a time."/>
+		<entry key="PopUp_MultiSelect_TooManyBuildings" translation="Non è possibile duplicare più di un edificio per volta."/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiBlueprint" translation="Salva selezione come Progetto"/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiDelete" translation="Elimina selezione [{#LogicalButton.Editors_Delete#}]"/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiMove" translation="Sposta selezione [{#LogicalButton.Editors_Move#}]"/>
@@ -13563,20 +13563,20 @@
 		<entry key="PopUp_Open" translation="Apri"/>
 		<entry key="PopUp_Operations" translation="Attività"/>
 		<entry key="PopUp_Overview" translation="Panoramica"/>
-		<entry key="PopUp_ParkBoundary_Centre" translation="Boundary Offset"/>
-		<entry key="PopUp_ParkBoundary_CentreX" translation="X Direction"/>
-		<entry key="PopUp_ParkBoundary_CentreY" translation="Y Direction"/>
-		<entry key="PopUp_ParkBoundary_CentreZ" translation="Z Direction"/>
-		<entry key="PopUp_ParkBoundary_Opacity" translation="Preview Opacity"/>
-		<entry key="PopUp_ParkBoundary_Size" translation="Boundary Size"/>
-		<entry key="PopUp_ParkBoundary_SizeX" translation="Width"/>
-		<entry key="PopUp_ParkBoundary_SizeY" translation="Height"/>
-		<entry key="PopUp_ParkBoundary_SizeZ" translation="Length"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints" translation="Guest Spawn Points"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints_Add" translation="Add Spawn Point"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints_Edit" translation="Edit Spawn Point"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints_Focus" translation="Focus Camera on Spawn Point"/>
-		<entry key="PopUp_ParkBoundary_Title" translation="Adjust Park Boundary"/>
+		<entry key="PopUp_ParkBoundary_Centre" translation="Spostamento Confini"/>
+		<entry key="PopUp_ParkBoundary_CentreX" translation="Direzione X"/>
+		<entry key="PopUp_ParkBoundary_CentreY" translation="Direzione Y"/>
+		<entry key="PopUp_ParkBoundary_CentreZ" translation="Direzione Z"/>
+		<entry key="PopUp_ParkBoundary_Opacity" translation="Opacità Anteprima"/>
+		<entry key="PopUp_ParkBoundary_Size" translation="Misura Confini"/>
+		<entry key="PopUp_ParkBoundary_SizeX" translation="Larghezza"/>
+		<entry key="PopUp_ParkBoundary_SizeY" translation="Altezza"/>
+		<entry key="PopUp_ParkBoundary_SizeZ" translation="Lunghezza"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints" translation="Punti di Ingresso Visitatori"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints_Add" translation="Aggiungi Punto di Ingresso"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints_Edit" translation="Modifica Punto di Ingresso"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints_Focus" translation="Centra Visuale su Punto di Ingresso"/>
+		<entry key="PopUp_ParkBoundary_Title" translation="Modifica Confini del Parco"/>
 		<entry key="PopUp_Peeps_HeadingTo" translation="Diretto a: {LOCATIONNAME}"/>
 		<entry key="PopUp_Peeps_Needs_Energy" translation="Energia"/>
 		<entry key="PopUp_Peeps_Needs_Happiness" translation="Felicità"/>
@@ -13632,7 +13632,7 @@
 		<entry key="PopUp_RideTesting_NoHeatmap" translation="NESSUNA"/>
 		<entry key="PopUp_RideTesting_NumAirTime" translation="Tempo in Volo"/>
 		<entry key="PopUp_RideTesting_NumInversions" translation="Numero inversioni"/>
-		<entry key="PopUp_RideTesting_NumSceneryReactions" translation="Scenery Reaction Count"/>
+		<entry key="PopUp_RideTesting_NumSceneryReactions" translation="Numero reazioni Scenario"/>
 		<entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
 		<entry key="PopUp_RideTesting_Results" translation="Risultati"/>
 		<entry key="PopUp_RideTesting_Speed" translation="Velocità"/>
@@ -13648,9 +13648,9 @@
 		<entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
 		<entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
 		<entry key="PopUp_Ride_BlockSectionedMode" translation="Sezioni Bloccanti"/>
-		<entry key="PopUp_Ride_BoatSpeed" translation="Boat Speed"/>
-		<entry key="PopUp_Ride_BusPerTrain" translation="Cars per bus"/>
-		<entry key="PopUp_Ride_BusSpeed" translation="Bus Speed"/>
+		<entry key="PopUp_Ride_BoatSpeed" translation="Velocità Barca"/>
+		<entry key="PopUp_Ride_BusPerTrain" translation="Vetture per Bus"/>
+		<entry key="PopUp_Ride_BusSpeed" translation="Velocità Bus"/>
 		<entry key="PopUp_Ride_Capacity" translation="Capacità"/>
 		<entry key="PopUp_Ride_CarSpeed" translation="Velocità Vettura"/>
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
@@ -13705,7 +13705,7 @@
 		<entry key="PopUp_Ride_GuestsPerHour" translation="Visitatori per ora: {LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_Guests_Soon" translation="Pensieri sull'attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_IdealPrice" translation="Costo Biglietto Ideale: {VALUE:currency}"/>
-		<entry key="PopUp_Ride_KartSpeed" translation="Kart Speed"/>
+		<entry key="PopUp_Ride_KartSpeed" translation="Velocità Kart"/>
 		<entry key="PopUp_Ride_LapsHint" translation="Non è possibile modificare il numero dei giri mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_LastMonthsProfit" translation="Profitto ultimo mese"/>
 		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Non bloccare la stazione"/>
@@ -13746,15 +13746,15 @@
 		<entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - costi servizio"/>
 		<entry key="PopUp_Ride_MoveEntrance" translation="Sposta entrata"/>
 		<entry key="PopUp_Ride_MoveExit" translation="Sposta uscita"/>
-		<entry key="PopUp_Ride_NumBoat" translation="Number of boats"/>
-		<entry key="PopUp_Ride_NumBus" translation="Number of buses"/>
-		<entry key="PopUp_Ride_NumCar" translation="Number of cars"/>
-		<entry key="PopUp_Ride_NumKart" translation="Number of karts"/>
+		<entry key="PopUp_Ride_NumBoat" translation="Numero di barche"/>
+		<entry key="PopUp_Ride_NumBus" translation="Numero di bus"/>
+		<entry key="PopUp_Ride_NumCar" translation="Numero di vetture"/>
+		<entry key="PopUp_Ride_NumKart" translation="Numero di karts"/>
 		<entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
 		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
-		<entry key="PopUp_Ride_NumRaft" translation="Number of rafts"/>
-		<entry key="PopUp_Ride_NumSleigh" translation="Number of sleighs"/>
-		<entry key="PopUp_Ride_NumTrain" translation="Number of trains"/>
+		<entry key="PopUp_Ride_NumRaft" translation="Numero di zattere"/>
+		<entry key="PopUp_Ride_NumSleigh" translation="Numero di slitte"/>
+		<entry key="PopUp_Ride_NumTrain" translation="Numero di treni"/>
 		<entry key="PopUp_Ride_NumTrainsLimit" translation="Per aggiungere più treni prova ad aumentare la lunghezza della stazione, o ridurre il numero delle vetture per treno."/>
 		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più treni prova ad aggiungere sezioni aggiuntive."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
@@ -13764,8 +13764,8 @@
 		<entry key="PopUp_Ride_Overview_Soon" translation="Panoramica attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_PassesHint" translation="Non è possibile modificare il numero di passaggi attraverso la stazione mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
-		<entry key="PopUp_Ride_PoweredBehaviourLabel" translation="Constant powered deceleration"/>
-		<entry key="PopUp_Ride_PoweredBehaviourTooltip" translation="With this on, powered rides provide enough power to reduce deceleration and keep momentum on the ride"/>
+		<entry key="PopUp_Ride_PoweredBehaviourLabel" translation="Decelerazione a potenza costante"/>
+		<entry key="PopUp_Ride_PoweredBehaviourTooltip" translation="Con questo attivo, le attrazioni elettriche producono abbastanza potenza da ridurre la decelerazione e mantenere la spinta sull'attrazione"/>
 		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Moltiplicatore diminuzione prestigio: {VALUE:float}"/>
 		<entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Entrate mensili stimate"/>
@@ -13838,7 +13838,7 @@
 		<entry key="PopUp_Triggers_UserTriggersTab" translation="Inneschi Utente"/>
 		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Non è possibile aprire un'attrazione incompleta"/>
 		<entry key="PopUp_UnknownOperation" translation="Operazione sconosciuta"/>
-		<entry key="PopUp_VendingMachine_BrokenDown" translation="Cannot open vending machines whilst broken-down"/>
+		<entry key="PopUp_VendingMachine_BrokenDown" translation="Non è possibile aprire i distributori guasti"/>
 		<!--InfoPanel-->
 		<entry key="InfoPanel_Close" translation="X"/>
 		<entry key="InfoPanel_ScenarioLock" translation="Lock all items for scenario players"/>
