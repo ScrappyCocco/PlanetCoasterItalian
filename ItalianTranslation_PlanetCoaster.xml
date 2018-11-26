@@ -5268,8 +5268,8 @@
 		<entry key="InfoPanel_GuestDestinationAdvert_Destinations" translation="Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_DestinationsDescription" translation="Destinazioni consigliate da questo elemento scenario"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_FocusTooltip" translation="Localizza Destinazione"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_Information_DestinationsDescription" translation="Destinations advertised by this kiosk"/>
-		<entry key="InfoPanel_GuestDestinationAdvert_Information_SetAdvertisedDestinationsToolTip" translation="Multi-select guest destinations to be advertised by this kiosk"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Information_DestinationsDescription" translation="Destinazioni pubblicizzate da questo chiosco"/>
+		<entry key="InfoPanel_GuestDestinationAdvert_Information_SetAdvertisedDestinationsToolTip" translation="Seleziona più destinazioni per i visitatori da pubblicizzare con questo chiosco"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_NumSelected_Label" translation="Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_RemoveAll_Tooltip" translation="Rimuovi tutte le Destinazioni Consigliate"/>
 		<entry key="InfoPanel_GuestDestinationAdvert_RemoveTooltip" translation="Rimuovi Destinazioni"/>
@@ -5741,20 +5741,20 @@
 		<entry key="Staff_Status_WaitingForCustomersToServe" translation="Attende clienti da servire"/>
 		<entry key="Staff_Vendor_Desc" translation="Serve clienti nei negozi"/>
 		<!--C4_TrackElements-->
-		<entry key="TrackElementDesc_ChannelEntry" translation="Drops the boat into the water."/>
-		<entry key="TrackElementDesc_ChannelTrack" translation="Channel of water that pushes the boat along."/>
-		<entry key="TrackElementDesc_ConveyorBeltChainStart" translation="Starts lifting the boat uphill and allows a continuous transition into a chain lift."/>
-		<entry key="TrackElementDesc_ConveyorBeltChannelExit" translation="Lifts the boat out of the water onto normal track."/>
-		<entry key="TrackElementDesc_HydraulicLaunch_End" translation="HydraulicLaunch_End Description"/>
-		<entry key="TrackElementDesc_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext Description"/>
-		<entry key="TrackElementDesc_HydraulicLaunch_Start" translation="HydraulicLaunch_Start Description"/>
-		<entry key="TrackElementDesc_LogSplashCustom" translation="Starts the splashdown section with customizable entrance height."/>
+		<entry key="TrackElementDesc_ChannelEntry" translation="Spinge la barca nell'acqua."/>
+		<entry key="TrackElementDesc_ChannelTrack" translation="Canale acquatico che spinge la barca in avanti."/>
+		<entry key="TrackElementDesc_ConveyorBeltChainStart" translation="Inizia la salita della barca e permette una transizione continua nella salita a catena."/>
+		<entry key="TrackElementDesc_ConveyorBeltChannelExit" translation="Tira fuori la barca dall'acqua verso un tracciato normale."/>
+		<entry key="TrackElementDesc_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
+		<entry key="TrackElementDesc_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
+		<entry key="TrackElementDesc_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
+		<entry key="TrackElementDesc_LogSplashCustom" translation="Inizia la sezione a spruzzi con un'altezza di entrata personalizzabile."/>
 		<entry key="TrackElementDesc_TopHat_Down" translation="Top Hat Drop"/>
-		<entry key="TrackElementDesc_TopHat_DownRoll" translation="Drop Roll Description"/>
-		<entry key="TrackElementDesc_TopHat_DownTwist" translation="Drop Twist Description"/>
-		<entry key="TrackElementDesc_TopHat_SlopeDown" translation="Top Hat Exit Description"/>
-		<entry key="TrackElementDesc_TopHat_SlopeUp" translation="Top Hat Entry Description"/>
-		<entry key="TrackElementDesc_TopHat_Top" translation="Top Hat Top Description"/>
+		<entry key="TrackElementDesc_TopHat_DownRoll" translation="Drop Roll"/>
+		<entry key="TrackElementDesc_TopHat_DownTwist" translation="Drop Twist"/>
+		<entry key="TrackElementDesc_TopHat_SlopeDown" translation="Uscita Top Hat"/>
+		<entry key="TrackElementDesc_TopHat_SlopeUp" translation="Entrata Top Hat"/>
+		<entry key="TrackElementDesc_TopHat_Top" translation="Cima Top Hat"/>
 		<entry key="TrackElementDesc_TopHat_TopDropRollLeft" translation="Drop Roll Left Description"/>
 		<entry key="TrackElementDesc_TopHat_TopDropRollRight" translation="Drop Roll Right Description"/>
 		<entry key="TrackElementDesc_TopHat_TopDropTwistLeft" translation="Drop Twist Left Description"/>
@@ -5766,225 +5766,225 @@
 		<entry key="TrackElementDesc_TopHat_Up" translation="Top Hat Incline Description"/>
 		<entry key="TrackElementDesc_TopHat_UpRoll" translation="Incline Roll Description"/>
 		<entry key="TrackElementDesc_TopHat_UpTwist" translation="Incline Twist Description"/>
-		<entry key="TrackElementName_ChannelEntry" translation="Channel Entry"/>
-		<entry key="TrackElementName_ChannelTrack" translation="Channel Track"/>
+		<entry key="TrackElementName_ChannelEntry" translation="Entrata Canale"/>
+		<entry key="TrackElementName_ChannelTrack" translation="Sezione Canale"/>
 		<entry key="TrackElementName_ConveyorBeltChainStart" translation="Conveyor Belt Chain Lift Start"/>
 		<entry key="TrackElementName_ConveyorBeltChannelExit" translation="Conveyor Belt Channel Exit"/>
-		<entry key="TrackElementName_HydraulicLaunch_End" translation="HydraulicLaunch_End"/>
-		<entry key="TrackElementName_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext"/>
-		<entry key="TrackElementName_HydraulicLaunch_Start" translation="HydraulicLaunch_Start"/>
-		<entry key="TrackElementName_LogSplashCustom" translation="Splash Down Custom"/>
+		<entry key="TrackElementName_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
+		<entry key="TrackElementName_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
+		<entry key="TrackElementName_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
+		<entry key="TrackElementName_LogSplashCustom" translation="Spruzzi Personalizzabili"/>
 		<entry key="TrackElementName_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementName_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementName_TopHat_DownTwist" translation="Drop Twist"/>
-		<entry key="TrackElementName_TopHat_SlopeDown" translation="Top Hat Exit"/>
-		<entry key="TrackElementName_TopHat_SlopeUp" translation="Top Hat Entry"/>
-		<entry key="TrackElementName_TopHat_Top" translation="Top Hat Top"/>
-		<entry key="TrackElementName_TopHat_TopDropRollLeft" translation="Drop Roll Left"/>
-		<entry key="TrackElementName_TopHat_TopDropRollRight" translation="Drop Roll Right"/>
-		<entry key="TrackElementName_TopHat_TopDropTwistLeft" translation="Drop Twist Left"/>
-		<entry key="TrackElementName_TopHat_TopDropTwistRight" translation="Drop Twist Right"/>
-		<entry key="TrackElementName_TopHat_TopUpRollLeft" translation="Incline Roll Left"/>
-		<entry key="TrackElementName_TopHat_TopUpRollRight" translation="Incline Roll Right"/>
-		<entry key="TrackElementName_TopHat_TopUpTwistLeft" translation="Incline Twist Left"/>
-		<entry key="TrackElementName_TopHat_TopUpTwistRight" translation="Incline Twist Right"/>
+		<entry key="TrackElementName_TopHat_SlopeDown" translation="Uscita Top Hat"/>
+		<entry key="TrackElementName_TopHat_SlopeUp" translation="Entrata Top Hat"/>
+		<entry key="TrackElementName_TopHat_Top" translation="Cima Top Hat"/>
+		<entry key="TrackElementName_TopHat_TopDropRollLeft" translation="Drop Roll Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopDropRollRight" translation="Drop Roll Destro"/>
+		<entry key="TrackElementName_TopHat_TopDropTwistLeft" translation="Drop Twist Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopDropTwistRight" translation="Drop Twist Destro"/>
+		<entry key="TrackElementName_TopHat_TopUpRollLeft" translation="Incline Roll Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopUpRollRight" translation="Incline Roll Destro"/>
+		<entry key="TrackElementName_TopHat_TopUpTwistLeft" translation="Incline Twist Sinistro"/>
+		<entry key="TrackElementName_TopHat_TopUpTwistRight" translation="Incline Twist Destro"/>
 		<entry key="TrackElementName_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementName_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementName_TopHat_UpTwist" translation="Incline Twist"/>
-		<entry key="TrackElementTool_ChannelEntry" translation="&lt;font color='accent'&gt;Channel Entry&lt;/font&gt;&#10;Drops the boat into the water."/>
-		<entry key="TrackElementTool_ChannelTrack" translation="&lt;font color='accent'&gt;Water Channel&lt;/font&gt;&#10;Channel of water that pushes the boat round."/>
-		<entry key="TrackElementTool_ConveyorBeltChainStart" translation="&lt;font color='accent'&gt;Conveyor Belt Chain Lift Start&lt;/font&gt;&#10;Starts lifting the boat uphill and allows a continuous transition into a chain lift."/>
-		<entry key="TrackElementTool_ConveyorBeltChannelExit" translation="&lt;font color='accent'&gt;Conveyor Belt Channel Exit&lt;/font&gt;&#10;Lifts the boat out of the water onto normal track."/>
-		<entry key="TrackElementTool_HydraulicLaunch_End" translation="HydraulicLaunch_End"/>
-		<entry key="TrackElementTool_HydraulicLaunch_Ext" translation="HydraulicLaunch_Ext"/>
-		<entry key="TrackElementTool_HydraulicLaunch_Start" translation="HydraulicLaunch_Start"/>
-		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Splash Down Custom&lt;/font&gt;&#10;Starts the splashdown section with customizable entrance height."/>
+		<entry key="TrackElementTool_ChannelEntry" translation="&lt;font color='accent'&gt;Channel Entry&lt;/font&gt;&#10;Spinge la barca nell'acqua."/>
+		<entry key="TrackElementTool_ChannelTrack" translation="&lt;font color='accent'&gt;Water Channel&lt;/font&gt;&#10;Canale acquatico che spinge la barca."/>
+		<entry key="TrackElementTool_ConveyorBeltChainStart" translation="&lt;font color='accent'&gt;Conveyor Belt Chain Lift Start&lt;/font&gt;&#10;Inizia la salita della barca e permette una transizione continua nella salita a catena."/>
+		<entry key="TrackElementTool_ConveyorBeltChannelExit" translation="&lt;font color='accent'&gt;Conveyor Belt Channel Exit&lt;/font&gt;&#10;Tira fuori la barca dall'acqua verso un tracciato normale."/>
+		<entry key="TrackElementTool_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
+		<entry key="TrackElementTool_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
+		<entry key="TrackElementTool_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
+		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Splash Down Custom&lt;/font&gt;&#10;Inizia la sezione a spruzzi con un'altezza di entrata personalizzabile."/>
 		<entry key="TrackElementTool_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementTool_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementTool_TopHat_DownTwist" translation="Drop Twist"/>
-		<entry key="TrackElementTool_TopHat_SlopeDown" translation="Top Hat Exit"/>
-		<entry key="TrackElementTool_TopHat_SlopeUp" translation="Top Hat Entry"/>
-		<entry key="TrackElementTool_TopHat_Top" translation="Top Hat Top"/>
-		<entry key="TrackElementTool_TopHat_TopDropRollLeft" translation="Drop Roll Left"/>
-		<entry key="TrackElementTool_TopHat_TopDropRollRight" translation="Drop Roll Right"/>
-		<entry key="TrackElementTool_TopHat_TopDropTwistLeft" translation="Drop Twist Left"/>
-		<entry key="TrackElementTool_TopHat_TopDropTwistRight" translation="Drop Twist Right"/>
-		<entry key="TrackElementTool_TopHat_TopUpRollLeft" translation="Incline Roll Left"/>
-		<entry key="TrackElementTool_TopHat_TopUpRollRight" translation="Incline Roll Right"/>
-		<entry key="TrackElementTool_TopHat_TopUpTwistLeft" translation="Incline Twist Left"/>
-		<entry key="TrackElementTool_TopHat_TopUpTwistRight" translation="Incline Twist Right"/>
+		<entry key="TrackElementTool_TopHat_SlopeDown" translation="Uscita Top Hat"/>
+		<entry key="TrackElementTool_TopHat_SlopeUp" translation="Entrata Top Hat"/>
+		<entry key="TrackElementTool_TopHat_Top" translation="Cima Top Hat"/>
+		<entry key="TrackElementTool_TopHat_TopDropRollLeft" translation="Drop Roll Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopDropRollRight" translation="Drop Roll Destro"/>
+		<entry key="TrackElementTool_TopHat_TopDropTwistLeft" translation="Drop Twist Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopDropTwistRight" translation="Drop Twist Destro"/>
+		<entry key="TrackElementTool_TopHat_TopUpRollLeft" translation="Incline Roll Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopUpRollRight" translation="Incline Roll Destro"/>
+		<entry key="TrackElementTool_TopHat_TopUpTwistLeft" translation="Incline Twist Sinistro"/>
+		<entry key="TrackElementTool_TopHat_TopUpTwistRight" translation="Incline Twist Destro"/>
 		<entry key="TrackElementTool_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementTool_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementTool_TopHat_UpTwist" translation="Incline Twist"/>
 		<!--C5_Coasters-->
-		<entry key="TrackElementDesc_StopStart" translation="Allows the ride to stop for a certain amount of time before continuing."/>
-		<entry key="TrackElementName_StopStart" translation="Stop Start Track"/>
-		<entry key="TrackElementTool_StopStart" translation="&lt;font color='accent'&gt;Stop Start Track&lt;/font&gt;&#10;Allows the ride to stop for a certain amount of time before continuing."/>
+		<entry key="TrackElementDesc_StopStart" translation="Permette all'attrazione di fermarsi per un certo periodo di tempo prima di continuare."/>
+		<entry key="TrackElementName_StopStart" translation="Ferma corsa"/>
+		<entry key="TrackElementTool_StopStart" translation="&lt;font color='accent'&gt;Ferma corsa&lt;/font&gt;&#10;Permette all'attrazione di fermarsi per un certo periodo di tempo prima di continuare."/>
 		<!--C5_Guests-->
-		<entry key="Guests_Status_GuestDestination_AtVistaPoint" translation="Admiring Vista Point"/>
-		<entry key="ShopItem_Acc_MobilePhoneLeft" translation="Mobile Phone"/>
-		<entry key="ShopItem_Acc_MobilePhoneRight" translation="Mobile Phone"/>
+		<entry key="Guests_Status_GuestDestination_AtVistaPoint" translation="Ammira il Punto Panoramico"/>
+		<entry key="ShopItem_Acc_MobilePhoneLeft" translation="Telefono Cellulare"/>
+		<entry key="ShopItem_Acc_MobilePhoneRight" translation="Telefono Cellulare"/>
 		<!--C5_InfoPanel_ModularScenery-->
-		<entry key="InfoPanel_VistaPoint_Focus" translation="Vista Point Focus"/>
-		<entry key="InfoPanel_VistaPoint_FocusForwardDirection" translation="Facing Direction"/>
-		<entry key="InfoPanel_VistaPoint_Info" translation="Vista Point Information"/>
-		<entry key="InfoPanel_VistaPoint_RemoveFocus" translation="Remove Focus Part"/>
-		<entry key="InfoPanel_VistaPoint_RemoveFocusTooltip" translation="Remove the piece looked at and instead use the facing direction of the vista point"/>
-		<entry key="InfoPanel_VistaPoint_SetFocus" translation="Set Focus Part"/>
-		<entry key="InfoPanel_VistaPoint_SetFocusTooltip" translation="Set a scenery or building piece as the focus for guests to look at"/>
-		<entry key="PopUp_SelectVistaFocusPart_ConfirmSelection" translation="Select piece to be the focus of this vista point"/>
-		<entry key="PopUp_SelectVistaFocusPart_Description" translation="Select a scenery or building piece to be the focus point for guests at this vista point."/>
-		<entry key="PopUp_SelectVistaFocusPart_Header" translation="Vista Focus Selection"/>
-		<entry key="PopUp_SelectVistaFocusPart_InvalidItem" translation="No valid piece selected"/>
-		<entry key="PopUp_SelectVistaFocusPart_Title" translation="Vista Focus Selection"/>
+		<entry key="InfoPanel_VistaPoint_Focus" translation="Punto di Osservazione"/>
+		<entry key="InfoPanel_VistaPoint_FocusForwardDirection" translation="Direzione osservazione"/>
+		<entry key="InfoPanel_VistaPoint_Info" translation="Informazione Punto Panoramico"/>
+		<entry key="InfoPanel_VistaPoint_RemoveFocus" translation="Rimuovi Punto di Osservazione"/>
+		<entry key="InfoPanel_VistaPoint_RemoveFocusTooltip" translation="Rimuove l'elemento che si osserva usando invece la direzione di osservazione del punto panoramico"/>
+		<entry key="InfoPanel_VistaPoint_SetFocus" translation="Imposta Punto Osservazione"/>
+		<entry key="InfoPanel_VistaPoint_SetFocusTooltip" translation="Seleziona un elemento scenario o un edificio come punto di osservazione per i visitatori"/>
+		<entry key="PopUp_SelectVistaFocusPart_ConfirmSelection" translation="Seleziona elemento da osservare in questo punto panoramico"/>
+		<entry key="PopUp_SelectVistaFocusPart_Description" translation="Seleziona un elemento scenario o un edificio come punto di osservazione per i visitatori in questo punto panoramico."/>
+		<entry key="PopUp_SelectVistaFocusPart_Header" translation="Seleziona Punto di Osservazione"/>
+		<entry key="PopUp_SelectVistaFocusPart_InvalidItem" translation="Nessun elemento valido selezionato"/>
+		<entry key="PopUp_SelectVistaFocusPart_Title" translation="Selezione Punto di Osservazione"/>
 		<!--C6_InfoPanel_Hotel-->
-		<entry key="InfoPanel_HotelRoom_ConnectRoomsLabel" translation="Connect Rooms to a Hotel via a Foyer Object"/>
-		<entry key="InfoPanel_HotelRoom_ConnectedTo" translation="Connected to"/>
+		<entry key="InfoPanel_HotelRoom_ConnectRoomsLabel" translation="Collega le Camere ad un Hotel per mezzo di un corridoio"/>
+		<entry key="InfoPanel_HotelRoom_ConnectedTo" translation="Collegato a"/>
 		<entry key="InfoPanel_HotelRoom_CostValue" translation="{cost:currency}"/>
-		<entry key="InfoPanel_HotelRoom_Information" translation="Room Information"/>
-		<entry key="InfoPanel_HotelRoom_Luxury" translation="Luxury Room"/>
-		<entry key="InfoPanel_HotelRoom_MonthlyRunningCosts" translation="Monthly running costs"/>
-		<entry key="InfoPanel_HotelRoom_Standard" translation="Standard Room"/>
-		<entry key="InfoPanel_HotelRoom_Type" translation="Room Type"/>
-		<entry key="InfoPanel_Hotel_AccommodationThoughts" translation="Accommodation Thoughts"/>
-		<entry key="InfoPanel_Hotel_ActivePerk" translation="Active Perk"/>
-		<entry key="InfoPanel_Hotel_ActivePerks" translation="Active Perks"/>
-		<entry key="InfoPanel_Hotel_AddHotelRooms" translation="Connect More Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_Arcade_Description" translation="•Medium boost to prestige.&#10;•Medium boost to family happiness.&#10;•Medium running cost."/>
+		<entry key="InfoPanel_HotelRoom_Information" translation="Informazioni Stanza"/>
+		<entry key="InfoPanel_HotelRoom_Luxury" translation="Camera di Lusso"/>
+		<entry key="InfoPanel_HotelRoom_MonthlyRunningCosts" translation="Costi esercizio mensili"/>
+		<entry key="InfoPanel_HotelRoom_Standard" translation="Camera Standard"/>
+		<entry key="InfoPanel_HotelRoom_Type" translation="Tipo di Camera"/>
+		<entry key="InfoPanel_Hotel_AccommodationThoughts" translation="Pensieri sulla sistemazione"/>
+		<entry key="InfoPanel_Hotel_ActivePerk" translation="Vantaggio Attivo"/>
+		<entry key="InfoPanel_Hotel_ActivePerks" translation="Vantaggi Attivi"/>
+		<entry key="InfoPanel_Hotel_AddHotelRooms" translation="Collega più camere di Hotel"/>
+		<entry key="InfoPanel_Hotel_Arcade_Description" translation="•Medio incremento al prestigio.&#10;•Medio incremento alla felicità della famiglia.&#10;•Medio costo di esercizio."/>
 		<entry key="InfoPanel_Hotel_Arcade_Label" translation="Arcade"/>
-		<entry key="InfoPanel_Hotel_BaseChange" translation="Base costs"/>
-		<entry key="InfoPanel_Hotel_CantAffordChanges" translation="Cannot afford hotel changes"/>
-		<entry key="InfoPanel_Hotel_ConfirmChanges" translation="Confirm Changes"/>
-		<entry key="InfoPanel_Hotel_ConfirmCost" translation="Confirm: {Value:currency}"/>
-		<entry key="InfoPanel_Hotel_ConfirmSelection" translation="Connect selection to Hotel"/>
-		<entry key="InfoPanel_Hotel_ConfirmSelectionTooManyItems" translation="Too many items to connect to Hotel"/>
-		<entry key="InfoPanel_Hotel_ConfirmSelectionUnownedDLC" translation="Selection contains unowned DLC"/>
-		<entry key="InfoPanel_Hotel_ConstructionChange" translation="Construction"/>
-		<entry key="InfoPanel_Hotel_ConstructionTitle" translation="Construction Costs"/>
+		<entry key="InfoPanel_Hotel_BaseChange" translation="Costi Base"/>
+		<entry key="InfoPanel_Hotel_CantAffordChanges" translation="Non ci si può permettere cambiamenti all'hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmChanges" translation="Conferma Cambiamenti"/>
+		<entry key="InfoPanel_Hotel_ConfirmCost" translation="Conferma: {Value:currency}"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelection" translation="Collega selezione all'Hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelectionTooManyItems" translation="Troppi elementi da collegare all'Hotel"/>
+		<entry key="InfoPanel_Hotel_ConfirmSelectionUnownedDLC" translation="La selezione contiene un DLC non posseduto"/>
+		<entry key="InfoPanel_Hotel_ConstructionChange" translation="Costruzione"/>
+		<entry key="InfoPanel_Hotel_ConstructionTitle" translation="Costi di Costruzione"/>
 		<entry key="InfoPanel_Hotel_Dash" translation=""/>
-		<entry key="InfoPanel_Hotel_Expenses" translation="Expenses"/>
-		<entry key="InfoPanel_Hotel_FocusTooltip" translation="Locate Hotel Room"/>
-		<entry key="InfoPanel_Hotel_GeneralThoughts" translation="General Thoughts"/>
-		<entry key="InfoPanel_Hotel_GuestThoughts" translation="Guest Thoughts"/>
-		<entry key="InfoPanel_Hotel_Gym_Description" translation="•Medium boost to prestige.&#10;•Medium boost to adult happiness.&#10;•Medium running cost."/>
-		<entry key="InfoPanel_Hotel_Gym_Label" translation="Gym"/>
-		<entry key="InfoPanel_Hotel_Incoming" translation="Incoming"/>
-		<entry key="InfoPanel_Hotel_Info" translation="Hotel Information"/>
-		<entry key="InfoPanel_Hotel_LastMonth_Profit" translation="Last month's profit"/>
-		<entry key="InfoPanel_Hotel_Life_Profit" translation="Lifetime profit"/>
-		<entry key="InfoPanel_Hotel_LifetimeMonthlyRunning" translation="Lifetime running cost"/>
-		<entry key="InfoPanel_Hotel_LuxuryRoomMonthlyRunning" translation="Luxury Room monthly running cost"/>
-		<entry key="InfoPanel_Hotel_NoChanges" translation="No changes made"/>
-		<entry key="InfoPanel_Hotel_NoGuestThoughts" translation="There are no recent thoughts for this Hotel"/>
-		<entry key="InfoPanel_Hotel_Perk" translation="Hotel Perks"/>
-		<entry key="InfoPanel_Hotel_PerkDesc" translation="Hotel Perks increase Guest Happiness upon their stay."/>
-		<entry key="InfoPanel_Hotel_PerkMonthlyRunning" translation="Hotel Perks monthly running cost"/>
-		<entry key="InfoPanel_Hotel_PerkThoughts" translation="Perks Thoughts"/>
-		<entry key="InfoPanel_Hotel_Prestige" translation="Prestige"/>
-		<entry key="InfoPanel_Hotel_PrestigeToolTip" translation="This is the appeal and value of a hotel to guests. The prestige of a hotel is the sum of its:&#10;- Hotel Perks&#10;- Scenery Rating (%)&#10;- Rooms included&#10;Hotel perks get divided among the rooms, meaning larger hotels gain less benefit from perks compared to smaller hotels. Guests will be more inclined to use hotels with a higher prestige rating. They will also be willing to spend more money."/>
-		<entry key="InfoPanel_Hotel_PricePerNight" translation="Booking price per night for each group of guests"/>
-		<entry key="InfoPanel_Hotel_PriorityPass" translation="Priority Pass Required"/>
-		<entry key="InfoPanel_Hotel_PriorityPassTooltip" translation="Guests can only book these Rooms if they have bought a Priority Pass"/>
-		<entry key="InfoPanel_Hotel_Profit" translation="This month's profit"/>
-		<entry key="InfoPanel_Hotel_RemoveAllLuxury_Tooltip" translation="Disconnect all Luxury Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RemoveAllStandard_Tooltip" translation="Disconnect all Standard Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RemoveTooltip" translation="Disconnect Hotel Room"/>
-		<entry key="InfoPanel_Hotel_ResetAllHotelRooms" translation="Remove All Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_Restaurant_Description" translation="•Medium boost to prestige and happiness.&#10;•Medium boost to food and drink.&#10;•Medium running cost."/>
-		<entry key="InfoPanel_Hotel_Restaurant_Label" translation="Restaurant"/>
-		<entry key="InfoPanel_Hotel_RoomChange" translation="Room Coverage"/>
-		<entry key="InfoPanel_Hotel_RoomDesc" translation="Increase the capacity of your hotel by adding rooms."/>
+		<entry key="InfoPanel_Hotel_Expenses" translation="Spese"/>
+		<entry key="InfoPanel_Hotel_FocusTooltip" translation="Trova camere d'Hotel"/>
+		<entry key="InfoPanel_Hotel_GeneralThoughts" translation="Pensieri Generali"/>
+		<entry key="InfoPanel_Hotel_GuestThoughts" translation="Pensieri dei Visitatori"/>
+		<entry key="InfoPanel_Hotel_Gym_Description" translation="•Medio incremento al prestigio.&#10;•Medio incremento alla felicità degli adulti.&#10;•Medio costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_Gym_Label" translation="Palestra"/>
+		<entry key="InfoPanel_Hotel_Incoming" translation="In Arrivo"/>
+		<entry key="InfoPanel_Hotel_Info" translation="Informazioni Hotel"/>
+		<entry key="InfoPanel_Hotel_LastMonth_Profit" translation="Profitto Ultimo Mese"/>
+		<entry key="InfoPanel_Hotel_Life_Profit" translation="Profitto dall'inizio"/>
+		<entry key="InfoPanel_Hotel_LifetimeMonthlyRunning" translation="Costo esercizio dall'inizio"/>
+		<entry key="InfoPanel_Hotel_LuxuryRoomMonthlyRunning" translation="Costo mensile Camere di Lusso"/>
+		<entry key="InfoPanel_Hotel_NoChanges" translation="Nessun cambiamento effettuato"/>
+		<entry key="InfoPanel_Hotel_NoGuestThoughts" translation="Non ci sono pensieri recenti per questo Hotel"/>
+		<entry key="InfoPanel_Hotel_Perk" translation="Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_PerkDesc" translation="I Vantaggi Hotel aumentano la felicità dei visitatori durante il loro soggiorno."/>
+		<entry key="InfoPanel_Hotel_PerkMonthlyRunning" translation="Costo mensile Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_PerkThoughts" translation="Pensieri sui Vantaggi"/>
+		<entry key="InfoPanel_Hotel_Prestige" translation="Prestigio"/>
+		<entry key="InfoPanel_Hotel_PrestigeToolTip" translation="Questo è l'appeal e il valore di un hotel per i visitatori. Il prestigio di un hotel è la somma dei suoi:&#10;- Vantaggi Hotel&#10;- Valutazione Scenario (%)&#10;- Camere incluse&#10;I vantaggi Hotel vengono divisi fra le camere, ciò significa che hotels più grandi beneficiano meno dei vantaggi in confronto agli hotels più piccoli. I Visitatori preferiranno hotels con una vautazione di prestigio maggiore. Avranno anche più voglia di spendere più denaro."/>
+		<entry key="InfoPanel_Hotel_PricePerNight" translation="Prezzo di prenotazione per notte per ogni gruppo di visitatori"/>
+		<entry key="InfoPanel_Hotel_PriorityPass" translation="Pass Prioritario richiesto"/>
+		<entry key="InfoPanel_Hotel_PriorityPassTooltip" translation="I Visitatori possono prenotare queste camere solo se hanno acquistato il Pass Prioritario"/>
+		<entry key="InfoPanel_Hotel_Profit" translation="Profitto di questo mese"/>
+		<entry key="InfoPanel_Hotel_RemoveAllLuxury_Tooltip" translation="Scollega tutte le Camere di Lusso"/>
+		<entry key="InfoPanel_Hotel_RemoveAllStandard_Tooltip" translation="Scollega tutte le Camere Standard"/>
+		<entry key="InfoPanel_Hotel_RemoveTooltip" translation="Scollega Camera"/>
+		<entry key="InfoPanel_Hotel_ResetAllHotelRooms" translation="Rimuovi tutte le Camere"/>
+		<entry key="InfoPanel_Hotel_Restaurant_Description" translation="•Medio incremento a prestigio e felicità.&#10;•Medio incremento a cibo e bevande.&#10;•Medio costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_Restaurant_Label" translation="Ristorante"/>
+		<entry key="InfoPanel_Hotel_RoomChange" translation="Copertura Camera"/>
+		<entry key="InfoPanel_Hotel_RoomDesc" translation="Aumenta la capacità del tuo hotel aggiungendo camere."/>
 		<entry key="InfoPanel_Hotel_RoomName" translation="{ROOMNAME}"/>
-		<entry key="InfoPanel_Hotel_RoomNameLabel_Luxury" translation="Luxury Hotel Room"/>
-		<entry key="InfoPanel_Hotel_RoomNameLabel_Standard" translation="Standard Hotel Room"/>
-		<entry key="InfoPanel_Hotel_RoomPrices" translation="Hotel Prices"/>
-		<entry key="InfoPanel_Hotel_RoomPricesTitle" translation="Room Prices"/>
-		<entry key="InfoPanel_Hotel_RoomSelectAvailableLabel" translation="Available Hotel Rooms in radius"/>
-		<entry key="InfoPanel_Hotel_RoomSelectAvailableToolTip" translation="Available Hotel Rooms in the Hotel's radius"/>
-		<entry key="InfoPanel_Hotel_RoomSelectConnectedLabel" translation="Rooms connected to Hotel"/>
-		<entry key="InfoPanel_Hotel_RoomSelectConnectedListLabel" translation="Connected Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectConnectedToolTip" translation="Hotel Rooms that are already attached to the Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomNameLabel_Luxury" translation="Camera di Lusso"/>
+		<entry key="InfoPanel_Hotel_RoomNameLabel_Standard" translation="Camera Standard"/>
+		<entry key="InfoPanel_Hotel_RoomPrices" translation="Prezzi Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomPricesTitle" translation="Prezzi Camera"/>
+		<entry key="InfoPanel_Hotel_RoomSelectAvailableLabel" translation="Camere disponibili nelle vicinanze"/>
+		<entry key="InfoPanel_Hotel_RoomSelectAvailableToolTip" translation="Camere disponibili nelle vicinanze dell'Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedLabel" translation="Camere collegate all'Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedListLabel" translation="Camere collegate"/>
+		<entry key="InfoPanel_Hotel_RoomSelectConnectedToolTip" translation="Camere già connesse all'Hotel"/>
 		<entry key="InfoPanel_Hotel_RoomSelectConnectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_Hotel_RoomSelectDescription" translation="Use the Multiselect tool to add new Hotel Rooms to your Hotel. Rooms with a red outline are too far away from the foyer object to be connected."/>
-		<entry key="InfoPanel_Hotel_RoomSelectDescriptionTwo" translation="A Hotel can have up to 100 rooms."/>
-		<entry key="InfoPanel_Hotel_RoomSelectGetMoreButton" translation="Get More Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSelectedLabel" translation="Selected Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSelectedListLabel" translation="Selected Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSelectedToolTip" translation="Currently Selected Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectDescription" translation="Usa la selezione multipla per aggiungere nuove Camere al tuo Hotel. Le Camere con un profilo rosso sono troppo lontane dal corridoio per essere connesse."/>
+		<entry key="InfoPanel_Hotel_RoomSelectDescriptionTwo" translation="Un Hotel può avere fino a 100 Camere."/>
+		<entry key="InfoPanel_Hotel_RoomSelectGetMoreButton" translation="Ottieni più Camere"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedLabel" translation="Camere selezionate"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedListLabel" translation="Camere selezionate"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSelectedToolTip" translation="Camere selezionate al momento"/>
 		<entry key="InfoPanel_Hotel_RoomSelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_Hotel_RoomSelectSubTitle" translation="Connect Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomSelectTitle" translation="Hotel Room Selector"/>
-		<entry key="InfoPanel_Hotel_RoomService_Description" translation="•Small boost to prestige and happiness.&#10;•Small boost to food and drink.&#10;•Low running cost."/>
-		<entry key="InfoPanel_Hotel_RoomService_Label" translation="Room Service"/>
-		<entry key="InfoPanel_Hotel_RoomTitle" translation="Hotel Rooms"/>
-		<entry key="InfoPanel_Hotel_RoomUsage" translation="Room Usage"/>
-		<entry key="InfoPanel_Hotel_RoomUsageLabel" translation="{Current:int} / {Total:int} Rooms"/>
-		<entry key="InfoPanel_Hotel_Rooms" translation="Hotel Rooms"/>
+		<entry key="InfoPanel_Hotel_RoomSelectSubTitle" translation="Collega Camere"/>
+		<entry key="InfoPanel_Hotel_RoomSelectTitle" translation="Selettore Camere"/>
+		<entry key="InfoPanel_Hotel_RoomService_Description" translation="•Piccolo incremento a prestigio e felicità.&#10;•Piccolo incremento a cibo e bevande.&#10;•Basso costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_RoomService_Label" translation="Servizio in Camera"/>
+		<entry key="InfoPanel_Hotel_RoomTitle" translation="Camere Hotel"/>
+		<entry key="InfoPanel_Hotel_RoomUsage" translation="Utilizzo Camere"/>
+		<entry key="InfoPanel_Hotel_RoomUsageLabel" translation="{Current:int} / {Total:int} Camere"/>
+		<entry key="InfoPanel_Hotel_Rooms" translation="Camere Hotel"/>
 		<entry key="InfoPanel_Hotel_RoomsTaken" translation="{Current:int} / {Total:int}"/>
-		<entry key="InfoPanel_Hotel_RunningCostMultiplier" translation="Running Cost Multiplier"/>
-		<entry key="InfoPanel_Hotel_RunningTitle" translation="New Hotel Perks monthly running cost"/>
-		<entry key="InfoPanel_Hotel_SceneryRating" translation="Scenery Rating (Counts towards prestige)"/>
-		<entry key="InfoPanel_Hotel_Service" translation="Hotel Perks"/>
-		<entry key="InfoPanel_Hotel_Spa_Description" translation="•Large boost to prestige and happiness.&#10;•High running cost."/>
+		<entry key="InfoPanel_Hotel_RunningCostMultiplier" translation="Moltiplicatore Costo Esercizio"/>
+		<entry key="InfoPanel_Hotel_RunningTitle" translation="Costo mensile nuovi Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_SceneryRating" translation="Valutazione Scenario (influisce sul prestigio)"/>
+		<entry key="InfoPanel_Hotel_Service" translation="Vantaggi Hotel"/>
+		<entry key="InfoPanel_Hotel_Spa_Description" translation="•Grande incremento a prestigio e felicità.&#10;•Alti costi di esercizio."/>
 		<entry key="InfoPanel_Hotel_Spa_Label" translation="Spa"/>
-		<entry key="InfoPanel_Hotel_StandardRoomMonthlyRunning" translation="Standard Room monthly running cost"/>
-		<entry key="InfoPanel_Hotel_Stat_LuxuryRoomsTaken" translation="Luxury Rooms taken"/>
-		<entry key="InfoPanel_Hotel_Stat_StandardRoomsTaken" translation="Standard Rooms taken"/>
-		<entry key="InfoPanel_Hotel_Stats" translation="Hotel Information"/>
-		<entry key="InfoPanel_Hotel_StealRoomsHint" translation="Can select Rooms that are already connected to other Foyer objects"/>
-		<entry key="InfoPanel_Hotel_SyncPriceSettings" translation="Use the same Room Settings and Prices for all Hotels"/>
-		<entry key="InfoPanel_Hotel_TotalChange" translation="Total monthly running costs"/>
-		<entry key="InfoPanel_Hotel_TotalMonthlyRunning" translation="Total monthly running cost"/>
-		<entry key="InfoPanel_Hotel_Wifi_Description" translation="•Small boost to prestige.&#10;•Medium boost to happiness.&#10;•Low running cost."/>
-		<entry key="InfoPanel_Hotel_Wifi_Label" translation="Internet Access"/>
+		<entry key="InfoPanel_Hotel_StandardRoomMonthlyRunning" translation="Costo mensile Camere Standard"/>
+		<entry key="InfoPanel_Hotel_Stat_LuxuryRoomsTaken" translation="Camere di Lusso occupate"/>
+		<entry key="InfoPanel_Hotel_Stat_StandardRoomsTaken" translation="Camere Standard occupate"/>
+		<entry key="InfoPanel_Hotel_Stats" translation="Informazioni Hotel"/>
+		<entry key="InfoPanel_Hotel_StealRoomsHint" translation="Si possono selezionare Camere che sono giù collegate ad altri corridoi"/>
+		<entry key="InfoPanel_Hotel_SyncPriceSettings" translation="Utilizza le stesse impostazioni Camera e Prezzi per tutti gli Hotels"/>
+		<entry key="InfoPanel_Hotel_TotalChange" translation="Costi esercizio mensili totali"/>
+		<entry key="InfoPanel_Hotel_TotalMonthlyRunning" translation="Costo esercizio mensile totale"/>
+		<entry key="InfoPanel_Hotel_Wifi_Description" translation="•Piccolo incremento al prestigio.&#10;•Medio incremento alla felicità.&#10;•Basso costo di esercizio."/>
+		<entry key="InfoPanel_Hotel_Wifi_Label" translation="Accesso Internet"/>
 		<!--C6_Research-->
 		<entry key="Research_Hint_ShopsAndFacilities_Hotel" translation="Hotels"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_Hotel" translation="Hotels"/>
 		<!--C6_Scenery-->
-		<entry key="BuildingPartDesc_HO_HotelEntrance" translation="Entrance to a hotel."/>
-		<entry key="BuildingPartDesc_HO_HotelRoom_Luxury" translation="Comes with complimentary soap and towels."/>
-		<entry key="BuildingPartDesc_HO_HotelRoom_Standard" translation="Standard room for standard guests."/>
-		<entry key="BuildingPartDesc_PC_RideCamTimeBox" translation="Sets the time of day seen in ride cam mode when triggered."/>
-		<entry key="BuildingPartName_HO_HotelEntrance" translation="Hotel Foyer"/>
-		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Hotel Room Luxury"/>
-		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Hotel Room Standard"/>
-		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Ride Cam Time Machine"/>
+		<entry key="BuildingPartDesc_HO_HotelEntrance" translation="Entrata di un Hotel."/>
+		<entry key="BuildingPartDesc_HO_HotelRoom_Luxury" translation="Offerta con sapone e asciugamani omaggio."/>
+		<entry key="BuildingPartDesc_HO_HotelRoom_Standard" translation="Camera Standard per visitatori standard."/>
+		<entry key="BuildingPartDesc_PC_RideCamTimeBox" translation="Imposta il momento del giorno quando si attiva la modalità visuale attrazione."/>
+		<entry key="BuildingPartName_HO_HotelEntrance" translation="Ingresso Hotel"/>
+		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Camera di Lusso"/>
+		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Camera Standard"/>
+		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Macchina del Tempo Visuale Attrazione"/>
 		<!--C7_Facilities-->
-		<entry key="BuildingPartDesc_PC_Interactive_Grabber_Machine" translation="A place for your guests to fight the odds and win prizes.&#10;Small Attraction"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_CosmicCow" translation="A vending machine that sells Cosmic Cow branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_FoxCoffee" translation="A vending machine that sells Street Fox Coffee branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_Gulpee" translation="A vending machine that sells Gulpee branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartDesc_PC_VendingMachine_Pipshot" translation="A vending machine that sells Pipshot branded drinks.&#10;Drinks Vending Machine&#10;Vintage Pack"/>
-		<entry key="BuildingPartName_PC_Interactive_Grabber_Machine" translation="Claw Crane Machine"/>
-		<entry key="BuildingPartName_PC_VendingMachine_CosmicCow" translation="Vending Machine - Cosmic Cow Milk"/>
-		<entry key="BuildingPartName_PC_VendingMachine_FoxCoffee" translation="Vending Machine - Street Fox Coffee"/>
-		<entry key="BuildingPartName_PC_VendingMachine_Gulpee" translation="Vending Machine - Gulpee"/>
-		<entry key="BuildingPartName_PC_VendingMachine_Pipshot" translation="Vending Machine - Pipshot"/>
-		<entry key="ShopItem_Crane_Prize" translation="King Coaster Plushie"/>
-		<entry key="ShopItem_Fortune_Bad" translation="Bad Fortune"/>
-		<entry key="ShopItem_Fortune_Good" translation="Good Fortune"/>
-		<entry key="ShopItem_Fortune_Neutral" translation="Average Fortune"/>
-		<entry key="ShopItem_Vend_Cosmic_ChocMilk" translation="Chocolate Cosmic Milk"/>
-		<entry key="ShopItem_Vend_Cosmic_GlowingMilk" translation="Glowing Cosmic Milk"/>
-		<entry key="ShopItem_Vend_Cosmic_Milk" translation="Cosmic Milk"/>
-		<entry key="ShopItem_Vend_Gulpee_Energy" translation="Gulpee Energy Small"/>
-		<entry key="ShopItem_Vend_Gulpee_Soda" translation="Gulpee Soda Small"/>
-		<entry key="ShopItem_Vend_Gulpee_SodaLE" translation="Gulpee Soda Limited Edition"/>
-		<entry key="ShopItem_Vend_Gumball" translation="Colourful Gum Ball"/>
-		<entry key="ShopItem_Vend_Pipshot_Juice" translation="Pipshot Original Juice"/>
-		<entry key="ShopItem_Vend_Pipshot_Smoothie" translation="Pipshot Original Smoothie"/>
-		<entry key="ShopItem_Vend_Pipshot_Water" translation="Pipshot Water Small"/>
+		<entry key="BuildingPartDesc_PC_Interactive_Grabber_Machine" translation="Un posto per i tuoi visitatori dove sfidare la sorte e vincere premi.&#10;Piccola Attrazione"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_CosmicCow" translation="Un distributore che vende bevande di Mucca Cosmica.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_FoxCoffee" translation="Un distributore che vende bevande di Street Fox.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_Gulpee" translation="Un distributore che vende bevande di Gulpee.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartDesc_PC_VendingMachine_Pipshot" translation="Un distributore che vende bevande di Pipshot.&#10;Distributore Bevande#10;Vintage Pack"/>
+		<entry key="BuildingPartName_PC_Interactive_Grabber_Machine" translation="Macchina a premi con artiglio"/>
+		<entry key="BuildingPartName_PC_VendingMachine_CosmicCow" translation="Distributore - Latte Mucca Cosmica"/>
+		<entry key="BuildingPartName_PC_VendingMachine_FoxCoffee" translation="Distributore - Caffè Street Fox "/>
+		<entry key="BuildingPartName_PC_VendingMachine_Gulpee" translation="Distributore - Gulpee"/>
+		<entry key="BuildingPartName_PC_VendingMachine_Pipshot" translation="Distributore - Pipshot"/>
+		<entry key="ShopItem_Crane_Prize" translation="Peluche di Re Coaster"/>
+		<entry key="ShopItem_Fortune_Bad" translation="Poca Fortuna"/>
+		<entry key="ShopItem_Fortune_Good" translation="Buona Fortuna"/>
+		<entry key="ShopItem_Fortune_Neutral" translation="Media Fortuna"/>
+		<entry key="ShopItem_Vend_Cosmic_ChocMilk" translation="Latte al Cioccolato Cosmico"/>
+		<entry key="ShopItem_Vend_Cosmic_GlowingMilk" translation="Latte Luminoso Cosmico"/>
+		<entry key="ShopItem_Vend_Cosmic_Milk" translation="Latte Cosmico"/>
+		<entry key="ShopItem_Vend_Gulpee_Energy" translation="Gulpee Energy Piccola"/>
+		<entry key="ShopItem_Vend_Gulpee_Soda" translation="Gulpee Soda Piccola"/>
+		<entry key="ShopItem_Vend_Gulpee_SodaLE" translation="Gulpee Soda Edizione Limitata"/>
+		<entry key="ShopItem_Vend_Gumball" translation="Gomma da masticare colorata"/>
+		<entry key="ShopItem_Vend_Pipshot_Juice" translation="Succo Originale Pipshot"/>
+		<entry key="ShopItem_Vend_Pipshot_Smoothie" translation="Frullato Originale Pipshot"/>
+		<entry key="ShopItem_Vend_Pipshot_Water" translation="Acqua Piccola Pipshot"/>
 		<entry key="ShopItem_Vend_Popcorn" translation="Popcorn"/>
-		<entry key="ShopItem_Vend_Streefox_01" translation="Canned Coffee"/>
-		<entry key="ShopItem_Vend_Streefox_02" translation="Canned Caramel Late"/>
-		<entry key="ShopItem_Vend_Streefox_03" translation="Canned Decaf Coffee"/>
+		<entry key="ShopItem_Vend_Streefox_01" translation="Caffè in lattina"/>
+		<entry key="ShopItem_Vend_Streefox_02" translation="Latte macchiato in lattina"/>
+		<entry key="ShopItem_Vend_Streefox_03" translation="Caffè Deca in lattina"/>
 		<!--C7_Research-->
-		<entry key="Research_Hint_ShopsAndFacilities_SmallAttractions" translation="Small Attractions"/>
-		<entry key="Research_Revealed_ShopsAndFacilities_SmallAttractions" translation="Small Attractions"/>
+		<entry key="Research_Hint_ShopsAndFacilities_SmallAttractions" translation="Piccole Attrazioni"/>
+		<entry key="Research_Revealed_ShopsAndFacilities_SmallAttractions" translation="Piccole Attrazioni"/>
 		<!--C7_Tags-->
-		<entry key="Set_Masonry" translation="Masonry"/>
-		<entry key="Set_Stone" translation="Decorative Stone"/>
-		<entry key="Set_TinPanel" translation="Tin Panel"/>
+		<entry key="Set_Masonry" translation="Muratura"/>
+		<entry key="Set_Stone" translation="Pietra Decorativa"/>
+		<entry key="Set_TinPanel" translation="Pannello in latta"/>
 		<!--Camera-->
 		<entry key="CameraOptionsMenu_EdgePan" translation="Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocità Scorrimento al Bordo"/>
@@ -6041,7 +6041,7 @@
 		<entry key="FanfarePackCompletion_MAIN_1" translation="Ben fatto! Hai guadagnato tutte le Stelle di Bronzo!"/>
 		<entry key="FanfarePackCompletion_MAIN_2" translation="Congratulazioni! Hai collezionato tutte le Stelle d'Argento!"/>
 		<entry key="FanfarePackCompletion_MAIN_3" translation="Stupefacente! Hai ottenuto tutte le Stelle d'Oro!"/>
-		<entry key="FanfarePackCompletion_MAIN_All" translation="Uao! Hai completato tutti gli obiettivi fissati nella tua carriera!"/>
+		<entry key="FanfarePackCompletion_MAIN_All" translation="WOW! Hai completato tutti gli obiettivi fissati nella tua carriera!"/>
 		<entry key="FrontEndMenu_Difficulty_Beginner" translation="Principiante"/>
 		<entry key="FrontEndMenu_Difficulty_Easy" translation="Facile"/>
 		<entry key="FrontEndMenu_Difficulty_Hard" translation="Difficile"/>
@@ -6101,25 +6101,25 @@
 		<entry key="CoasterEditor_AutocompleteCannotBeAttempted" translation="Autocompletamento non possibile tra gli attuali segmenti finali"/>
 		<entry key="CoasterEditor_AutocompleteDisabled" translation="Autocompletamento non disponibile per questa attrazione"/>
 		<entry key="CoasterEditor_AutocompleteFailed" translation="Completamento Fallito"/>
-		<entry key="CoasterEditor_BoatColor" translation="Boat Colour"/>
-		<entry key="CoasterEditor_BusColor" translation="Bus Colour"/>
+		<entry key="CoasterEditor_BoatColor" translation="Colore Barca"/>
+		<entry key="CoasterEditor_BusColor" translation="Colore Bus"/>
 		<entry key="CoasterEditor_Camera" translation="Camera"/>
-		<entry key="CoasterEditor_CarColor" translation="Colore vettura"/>
+		<entry key="CoasterEditor_CarColor" translation="Colore Vettura"/>
 		<entry key="CoasterEditor_Delete" translation="Elimina"/>
 		<entry key="CoasterEditor_ExtraSettings" translation="Impostazioni Utility"/>
 		<entry key="CoasterEditor_FreeCamera" translation="Libera"/>
 		<entry key="CoasterEditor_HeatmapG" translation="{VALUE:int} G"/>
-		<entry key="CoasterEditor_KartColor" translation="Kart Colour"/>
+		<entry key="CoasterEditor_KartColor" translation="Colore Kart"/>
 		<entry key="CoasterEditor_Loops" translation="Giri della morte"/>
 		<entry key="CoasterEditor_NonInverted" translation="Non-invertito"/>
-		<entry key="CoasterEditor_RaftColor" translation="Raft Colour"/>
+		<entry key="CoasterEditor_RaftColor" translation="Colore Zattera"/>
 		<entry key="CoasterEditor_ReverseDirection" translation="Direzione contraria"/>
 		<entry key="CoasterEditor_Rolls" translation="Avvitamenti"/>
 		<entry key="CoasterEditor_Scenery" translation="Scenario"/>
 		<entry key="CoasterEditor_Settings" translation="Impostazioni"/>
 		<entry key="CoasterEditor_ShowBank" translation="Mostra Curva"/>
-		<entry key="CoasterEditor_ShowCoasterName" translation="Show Coaster Name"/>
-		<entry key="CoasterEditor_SleighColor" translation="Sleigh Colour"/>
+		<entry key="CoasterEditor_ShowCoasterName" translation="Mostra Nome Montagna Russa"/>
+		<entry key="CoasterEditor_SleighColor" translation="Colore Slitta"/>
 		<entry key="CoasterEditor_Smooth" translation="Appiattisci tutto"/>
 		<entry key="CoasterEditor_SmoothBanking" translation="Appiattisci Curva"/>
 		<entry key="CoasterEditor_Speed" translation="Velocità"/>
@@ -6136,7 +6136,7 @@
 		<entry key="CoasterEditor_TopHat" translation="Top Hat"/>
 		<entry key="CoasterEditor_Track" translation="Tracciato"/>
 		<entry key="CoasterEditor_TrackColor" translation="Colore Tracciato"/>
-		<entry key="CoasterEditor_TrainColor" translation="Train Colour"/>
+		<entry key="CoasterEditor_TrainColor" translation="Colore Treno"/>
 		<entry key="CoasterEditor_Trains" translation="Treni"/>
 		<entry key="CoasterEditor_TunnelWidth" translation="Larghezza Tunnel"/>
 		<entry key="CoasterEditor_Utilities" translation="Varie"/>
@@ -6250,13 +6250,13 @@
 		<entry key="Station_Type_station_log_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
 		<entry key="Station_Type_station_log_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
 		<entry key="Station_Type_station_log_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
-		<entry key="Station_Type_station_viperone_LeftRight" translation="Station with left entry and right exit"/>
-		<entry key="Station_Type_station_viperone_RightLeft" translation="Station with right entry and left exit"/>
-		<entry key="Station_Type_station_viperone_RightRight" translation="Station with right entry and right exit"/>
-		<entry key="Station_Type_station_viperone_leftleft" translation="Station with left entry and left exit"/>
+		<entry key="Station_Type_station_viperone_LeftRight" translation="Stazione con ingresso a sinistra e uscita a destra"/>
+		<entry key="Station_Type_station_viperone_RightLeft" translation="Stazione con ingresso a destra e uscita a sinistra"/>
+		<entry key="Station_Type_station_viperone_RightRight" translation="Stazione con ingresso a destra e uscita a destra"/>
+		<entry key="Station_Type_station_viperone_leftleft" translation="Stazione con ingresso a sinistra e uscita a sinistra"/>
 		<entry key="TrackFeature_CableAndChainLift" translation="- Sollevamento a cavo e a catena"/>
 		<entry key="TrackFeature_CableLift" translation="- Sollevamento a cavo"/>
-		<entry key="TrackFeature_CanInvert" translation="-  Può invertirsi"/>
+		<entry key="TrackFeature_CanInvert" translation="- Può invertirsi"/>
 		<entry key="TrackFeature_CanPartiallyInvert" translation="- Può parzialmente invertirsi"/>
 		<entry key="TrackFeature_CannotInvert" translation="- Non può invertirsi"/>
 		<entry key="TrackFeature_ChainLift" translation="- Sollevamento a catena"/>
@@ -6283,49 +6283,49 @@
 		<entry key="Water_RollingRiver" translation="Rolling River"/>
 		<entry key="Water_RollingRiver_Desc" translation="Attrazione acquatica sulle rapide del fiume, dove i passeggeri siedono in gommoni circolari e viaggiano lungo sezioni d'acqua a scorrimento veloce."/>
 		<!--ColourCorrection-->
-		<entry key="ColourGrading_70S" translation="70's"/>
-		<entry key="ColourGrading_BW_Blast" translation="Black and White Blast"/>
-		<entry key="ColourGrading_Base" translation="No Colour Grading"/>
+		<entry key="ColourGrading_70S" translation="Anni 70"/>
+		<entry key="ColourGrading_BW_Blast" translation="Bianco e Nero"/>
+		<entry key="ColourGrading_Base" translation="Nessuna categoria"/>
 		<entry key="ColourGrading_Blackout" translation="Blackout"/>
-		<entry key="ColourGrading_Bleach" translation="Bleach"/>
-		<entry key="ColourGrading_Bleak" translation="Bleak"/>
+		<entry key="ColourGrading_Bleach" translation="Sbiadito"/>
+		<entry key="ColourGrading_Bleak" translation="Tetro"/>
 		<entry key="ColourGrading_Blueshift" translation="Blueshift"/>
 		<entry key="ColourGrading_Cyber" translation="Cyber"/>
-		<entry key="ColourGrading_Fish" translation="Fish"/>
-		<entry key="ColourGrading_Frosty" translation="Frosty"/>
-		<entry key="ColourGrading_Greyscale" translation="Greyscale"/>
+		<entry key="ColourGrading_Fish" translation="Pesce"/>
+		<entry key="ColourGrading_Frosty" translation="Ghiacciato"/>
+		<entry key="ColourGrading_Greyscale" translation="Scala di grigi"/>
 		<entry key="ColourGrading_HollyWould" translation="Holly Would"/>
-		<entry key="ColourGrading_Inversion" translation="Inversion"/>
+		<entry key="ColourGrading_Inversion" translation="Inversione"/>
 		<entry key="ColourGrading_Jive" translation="Jive"/>
 		<entry key="ColourGrading_Magenta" translation="Magenta"/>
 		<entry key="ColourGrading_Metrix" translation="Metrix"/>
-		<entry key="ColourGrading_NightVision" translation="Night Vision"/>
+		<entry key="ColourGrading_NightVision" translation="Visione notturna"/>
 		<entry key="ColourGrading_Noir" translation="Noir"/>
 		<entry key="ColourGrading_Pancake" translation="Pancake"/>
 		<entry key="ColourGrading_Percy" translation="Percy"/>
 		<entry key="ColourGrading_Philliskies" translation="Philliskies"/>
 		<entry key="ColourGrading_Pop" translation="Pop"/>
 		<entry key="ColourGrading_Poster" translation="Poster"/>
-		<entry key="ColourGrading_Red_Ink" translation="Red Ink"/>
-		<entry key="ColourGrading_Saturate" translation="Saturate"/>
+		<entry key="ColourGrading_Red_Ink" translation="Inchiostro Rosso"/>
+		<entry key="ColourGrading_Saturate" translation="Saturato"/>
 		<entry key="ColourGrading_Sepia" translation="Sepia"/>
 		<entry key="ColourGrading_Sepia2" translation="Sepia 2"/>
 		<entry key="ColourGrading_Smith" translation="Smith"/>
-		<entry key="ColourGrading_Spooky" translation="Spooky"/>
-		<entry key="ColourGrading_Stark" translation="Stark"/>
-		<entry key="ColourGrading_Trip" translation="Trip"/>
+		<entry key="ColourGrading_Spooky" translation="Spaventoso"/>
+		<entry key="ColourGrading_Stark" translation="Netto"/>
+		<entry key="ColourGrading_Trip" translation="Viaggio"/>
 		<entry key="ColourGrading_Western" translation="Western"/>
 		<entry key="ColourGrading_Whiteout" translation="Whiteout"/>
-		<entry key="ColourGrading_Wonderyears" translation="Wonder Years"/>
-		<entry key="Colour_Correction_ContentDescription" translation="Apply camera effects to change how your park appears."/>
-		<entry key="Colour_Correction_ContentTitle" translation="Camera Effects"/>
-		<entry key="Colour_Correction_Effect" translation="Effect - {EffectName}"/>
-		<entry key="Colour_Correction_EnabledDescription" translation="You can choose to have camera effects persist as you play the game, persisting effects will be saved"/>
-		<entry key="Colour_Correction_EnabledLabel" translation="Camera Effects Always On"/>
-		<entry key="Colour_Correction_FilmGrain" translation="Film Grain"/>
-		<entry key="Colour_Correction_TimeOfDayTitle" translation="Lock time of day"/>
-		<entry key="Colour_Correction_Title" translation="Camera Effects"/>
-		<entry key="Colour_Correction_Vignette" translation="Vignette"/>
+		<entry key="ColourGrading_Wonderyears" translation="Anni meravigliosi"/>
+		<entry key="Colour_Correction_ContentDescription" translation="Applica effetti visuali per cambiare l'aspetto del tuo parco."/>
+		<entry key="Colour_Correction_ContentTitle" translation="Effetti Visuali"/>
+		<entry key="Colour_Correction_Effect" translation="Effetto - {EffectName}"/>
+		<entry key="Colour_Correction_EnabledDescription" translation="Puoi scegliere di avere effetti visuali permanenti durante il gioco, gli effetti permanenti saranno salvati"/>
+		<entry key="Colour_Correction_EnabledLabel" translation="Effetti Visuali Sempre Attivi"/>
+		<entry key="Colour_Correction_FilmGrain" translation="Grana Pellicola"/>
+		<entry key="Colour_Correction_TimeOfDayTitle" translation="Blocca momento del giorno"/>
+		<entry key="Colour_Correction_Title" translation="Effetti Visuali"/>
+		<entry key="Colour_Correction_Vignette" translation="Vignetta"/>
 		<!--CommunityTranslation-->
 		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
 		<!--Facilities-->
@@ -6403,8 +6403,8 @@
 		<entry key="BuildingPartName_VM_DebugVendingMachine_Standard" translation="Debug Vending Machine"/>
 		<entry key="BuildingPartName_VT_DebugGrabber_Standard" translation="TEMP Grabber Vending Machine"/>
 		<entry key="BuildingPartName_VT_DebugGumBall_Standard" translation="TEMP Gumball Vending Machine"/>
-		<entry key="BuildingPrefixName_HO_HotelRoom_Luxury" translation="Luxury Room"/>
-		<entry key="BuildingPrefixName_HO_HotelRoom_Standard" translation="Standard Room"/>
+		<entry key="BuildingPrefixName_HO_HotelRoom_Luxury" translation="Camera di Lusso"/>
+		<entry key="BuildingPrefixName_HO_HotelRoom_Standard" translation="Camera Standard"/>
 		<entry key="GenericFacilityPrefix" translation="Servizio"/>
 		<entry key="GenericHotelPrefix" translation="Hotel"/>
 		<entry key="ShopItem_Balloon_01" translation="Palloncino Rosso"/>
@@ -6412,7 +6412,7 @@
 		<entry key="ShopItem_Balloon_03" translation="Palloncino Verde"/>
 		<entry key="ShopItem_Balloon_04" translation="Palloncino Giallo"/>
 		<entry key="ShopItem_Balloon_05" translation="Palloncino Rosa"/>
-		<entry key="ShopItem_CustomNameDebug" translation="Custom Name for {VALUE}"/>
+		<entry key="ShopItem_CustomNameDebug" translation="Nome personalizzato per {VALUE}"/>
 		<entry key="ShopItem_CustomNameText" translation="{VALUE}"/>
 		<entry key="ShopItem_Drink_Coffee_01" translation="Americano"/>
 		<entry key="ShopItem_Drink_Coffee_02" translation="Doppio Espresso"/>
@@ -6450,20 +6450,20 @@
 		<entry key="ShopItem_Extra_ChocolateSauce" translation="Salsa al Cioccolato"/>
 		<entry key="ShopItem_Extra_CoconutFlakes" translation="Fiocchi di Cocco"/>
 		<entry key="ShopItem_Extra_Cream" translation="Crema"/>
-		<entry key="ShopItem_Extra_Effect" translation="{Name} will make guests:{Happiness}{Energy}{Hunger}{Thirst}{Toilet}{Nausea}"/>
+		<entry key="ShopItem_Extra_Effect" translation="{Name} renderà i visitatori:{Happiness}{Energy}{Hunger}{Thirst}{Toilet}{Nausea}"/>
 		<entry key="ShopItem_Extra_Effect_Blank" translation=""/>
-		<entry key="ShopItem_Extra_Effect_Energy_Less" translation="&#10; -Less energetic"/>
-		<entry key="ShopItem_Extra_Effect_Energy_More" translation="&#10; -More energetic"/>
-		<entry key="ShopItem_Extra_Effect_Happiness_Less" translation="&#10; -Unhappier"/>
-		<entry key="ShopItem_Extra_Effect_Happiness_More" translation="&#10; -Happier"/>
-		<entry key="ShopItem_Extra_Effect_Hunger_Less" translation="&#10; -More hungry"/>
-		<entry key="ShopItem_Extra_Effect_Hunger_More" translation="&#10; -Less hungry"/>
-		<entry key="ShopItem_Extra_Effect_Nausea_Less" translation="&#10; -More nauseous"/>
-		<entry key="ShopItem_Extra_Effect_Nausea_More" translation="&#10; -Less nauseous"/>
-		<entry key="ShopItem_Extra_Effect_Thirst_Less" translation="&#10; -Thirstier"/>
-		<entry key="ShopItem_Extra_Effect_Thirst_More" translation="&#10; -Less thirsty"/>
-		<entry key="ShopItem_Extra_Effect_Toilet_Less" translation="&#10; -More in need of the toilet"/>
-		<entry key="ShopItem_Extra_Effect_Toilet_More" translation="&#10; -Less in need of the toilet"/>
+		<entry key="ShopItem_Extra_Effect_Energy_Less" translation="&#10; -Meno energici"/>
+		<entry key="ShopItem_Extra_Effect_Energy_More" translation="&#10; -Più energici"/>
+		<entry key="ShopItem_Extra_Effect_Happiness_Less" translation="&#10; -Più infelici"/>
+		<entry key="ShopItem_Extra_Effect_Happiness_More" translation="&#10; -Più felici"/>
+		<entry key="ShopItem_Extra_Effect_Hunger_Less" translation="&#10; -Più affamati"/>
+		<entry key="ShopItem_Extra_Effect_Hunger_More" translation="&#10; -Meno affamati"/>
+		<entry key="ShopItem_Extra_Effect_Nausea_Less" translation="&#10; -Più nauseati"/>
+		<entry key="ShopItem_Extra_Effect_Nausea_More" translation="&#10; -Meno nauseati"/>
+		<entry key="ShopItem_Extra_Effect_Thirst_Less" translation="&#10; -Più assetati"/>
+		<entry key="ShopItem_Extra_Effect_Thirst_More" translation="&#10; -Meno assetati"/>
+		<entry key="ShopItem_Extra_Effect_Toilet_Less" translation="&#10; -Più bisognosi del bagno"/>
+		<entry key="ShopItem_Extra_Effect_Toilet_More" translation="&#10; -Meno bisognosi del bagno"/>
 		<entry key="ShopItem_Extra_Fruit" translation="Pezzi di Frutta"/>
 		<entry key="ShopItem_Extra_FudgePieces" translation="Pezzi di Caramello"/>
 		<entry key="ShopItem_Extra_Gherkins" translation="Cetrioli"/>
@@ -6476,7 +6476,7 @@
 		<entry key="ShopItem_Extra_Marshmallows" translation="Marshmallow"/>
 		<entry key="ShopItem_Extra_Mayo" translation="Maionese"/>
 		<entry key="ShopItem_Extra_Milk" translation="Latte"/>
-		<entry key="ShopItem_Extra_Mustard" translation="Mostarda"/>
+		<entry key="ShopItem_Extra_Mustard" translation="Senape"/>
 		<entry key="ShopItem_Extra_Onions" translation="Cipolle"/>
 		<entry key="ShopItem_Extra_Peppers" translation="Peperoni"/>
 		<entry key="ShopItem_Extra_PizzaCheese" translation="Formaggio Extra"/>
@@ -6735,16 +6735,16 @@
 		<entry key="FrontEndMenu_AllUploads" translation="Guarda tutti gli Uploads"/>
 		<entry key="FrontEndMenu_Alpine" translation="Alpino"/>
 		<entry key="FrontEndMenu_AlpineDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario freddo e montuoso!"/>
-		<entry key="FrontEndMenu_AlpineScenario" translation="Alpine"/>
-		<entry key="FrontEndMenu_AlpineScenarioDescription" translation="Start a new custom scenario in a cold and crisp environment!"/>
+		<entry key="FrontEndMenu_AlpineScenario" translation="Alpino"/>
+		<entry key="FrontEndMenu_AlpineScenarioDescription" translation="Comincia a costruire il tuo parco in uno scenario freddo e montuoso!"/>
 		<entry key="FrontEndMenu_AlpineSimulation" translation="Alpino"/>
 		<entry key="FrontEndMenu_AlpineSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario freddo e montuoso!"/>
-		<entry key="FrontEndMenu_AlterChallenge" translation="Load Challenge"/>
-		<entry key="FrontEndMenu_AlterChallengeCustom" translation="Carica Sfida - Ambiente Custom"/>
-		<entry key="FrontEndMenu_AlterSandbox" translation="Load Sandbox"/>
-		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Carica Sandbox - Ambiente Custom"/>
-		<entry key="FrontEndMenu_AlterScenario" translation="Load Scenario"/>
-		<entry key="FrontEndMenu_AlterScenarioCustom" translation="Load Scenario - Custom Environment"/>
+		<entry key="FrontEndMenu_AlterChallenge" translation="Carica Sfida"/>
+		<entry key="FrontEndMenu_AlterChallengeCustom" translation="Carica Sfida - Ambiente Personalizzato"/>
+		<entry key="FrontEndMenu_AlterSandbox" translation="Carica Sandbox"/>
+		<entry key="FrontEndMenu_AlterSandboxCustom" translation="Carica Sandbox - Ambiente Personalizzato"/>
+		<entry key="FrontEndMenu_AlterScenario" translation="Carica Scenario"/>
+		<entry key="FrontEndMenu_AlterScenarioCustom" translation="Carica Scenario - Ambiente Personalizzato"/>
 		<entry key="FrontEndMenu_AutoSave" translation="Nascondi Salvataggi Automatici"/>
 		<entry key="FrontEndMenu_AutosaveNumber" translation="Salvataggio Automatico {Number:int:minDigits=1}"/>
 		<entry key="FrontEndMenu_AvatarEditor_InfoTitle" translation="Crea il tuo Avatar!"/>
@@ -6755,7 +6755,7 @@
 		<entry key="FrontEndMenu_AvatarModerationSent" translation="Il tuo avatar sarà mandato ai nostri server per un controllo.&#10;Potrebbe volerci un pò prima che appaia."/>
 		<entry key="FrontEndMenu_AvatarModerationSentHeader" translation="Creazione Avatar Completata!"/>
 		<entry key="FrontEndMenu_AvatarNameNeeded" translation="Dai un nome al tuo avatar."/>
-		<entry key="FrontEndMenu_AvatarNameNeededGroup" translation="Per piacere dai un nome ad ogni componente del gruppo."/>
+		<entry key="FrontEndMenu_AvatarNameNeededGroup" translation="Prego dai un nome ad ogni componente del gruppo."/>
 		<entry key="FrontEndMenu_AvatarNameNeededHeader" translation="Nome avatar mancante"/>
 		<entry key="FrontEndMenu_AvatarOkButton" translation="Ok"/>
 		<entry key="FrontEndMenu_AvatarOptions" translation="Opzioni Avatar"/>
@@ -6772,7 +6772,7 @@
 		<entry key="FrontEndMenu_CareerPrevious" translation="I Miei Parchi"/>
 		<entry key="FrontEndMenu_CareerPreviousTooltips" translation="Carica salvataggio precedente"/>
 		<entry key="FrontEndMenu_CareerResume" translation="Riprendi"/>
-		<entry key="FrontEndMenu_CareerSets" translation="Sets"/>
+		<entry key="FrontEndMenu_CareerSets" translation="Serie"/>
 		<entry key="FrontEndMenu_CareerStartNew" translation="Inizia un nuovo Scenario"/>
 		<entry key="FrontEndMenu_CareerTotal" translation="/{Value:int}"/>
 		<entry key="FrontEndMenu_Celebrity" translation="Celebrità"/>
@@ -6782,7 +6782,7 @@
 		<entry key="FrontEndMenu_CreatedBy" translation="Creato da: {Name}"/>
 		<entry key="FrontEndMenu_Credits" translation="Crediti"/>
 		<entry key="FrontEndMenu_CreditsButton" translation="Crediti"/>
-		<entry key="FrontEndMenu_Custom" translation="Custom"/>
+		<entry key="FrontEndMenu_Custom" translation="Personalizzato"/>
 		<entry key="FrontEndMenu_CustomAmbienceDescription" translation="Scegli l'audio ambientale per questo nuovo ambiente."/>
 		<entry key="FrontEndMenu_CustomAmbienceHeader" translation="Atmosfera Personalizzata"/>
 		<entry key="FrontEndMenu_CustomBiomeDescription" translation="Scegli il terreno su cui desideri basarti per l'ambiente personalizzato."/>
@@ -6790,29 +6790,29 @@
 		<entry key="FrontEndMenu_CustomDescription" translation="Comincia a costruire il tuo parco con denaro illimitato e costruisci in un ambiente personalizzato!"/>
 		<entry key="FrontEndMenu_CustomPaint_ConfirmCancel" translation="Annulla"/>
 		<entry key="FrontEndMenu_CustomPaint_ConfirmOK" translation="OK"/>
-		<entry key="FrontEndMenu_CustomPaint_Title" translation="Scelta Vernice"/>
+		<entry key="FrontEndMenu_CustomPaint_Title" translation="Scelta Colore"/>
 		<entry key="FrontEndMenu_CustomSandbox_Terrain" translation="Terreno di Partenza"/>
-		<entry key="FrontEndMenu_CustomScenario" translation="Custom"/>
-		<entry key="FrontEndMenu_CustomScenarioDescription" translation="Start a new custom scenario in a custom environment!"/>
+		<entry key="FrontEndMenu_CustomScenario" translation="Personalizzato"/>
+		<entry key="FrontEndMenu_CustomScenarioDescription" translation="Comincia a costruire il tuo parco in un ambiente personalizzato!"/>
 		<entry key="FrontEndMenu_CustomSimulation" translation="Personalizzato"/>
-		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Comincia a costruire il tuo parco con denaro limitato e costruisci in un ambiente personalizzato"/>
+		<entry key="FrontEndMenu_CustomSimulationDescription" translation="Comincia a costruire il tuo parco con denaro limitato e costruisci in un ambiente personalizzato!"/>
 		<entry key="FrontEndMenu_CustomTerrainPaintFilter" translation="Filtro"/>
-		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Scambio Vernice"/>
+		<entry key="FrontEndMenu_Custom_SwapPaint" translation="Cambio Colore"/>
 		<entry key="FrontEndMenu_Deciduous" translation="Deciduo"/>
 		<entry key="FrontEndMenu_DeciduousDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario lussureggiante!"/>
-		<entry key="FrontEndMenu_DeciduousScenario" translation="Deciduous"/>
-		<entry key="FrontEndMenu_DeciduousScenarioDescription" translation="Start a new custom scenario in this lush environment!"/>
+		<entry key="FrontEndMenu_DeciduousScenario" translation="Deciduo"/>
+		<entry key="FrontEndMenu_DeciduousScenarioDescription" translation="Comincia a costruire il tuo parco in uno scenario lussureggiante!"/>
 		<entry key="FrontEndMenu_DeciduousSimulation" translation="Deciduo"/>
 		<entry key="FrontEndMenu_DeciduousSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario lussureggiante!"/>
 		<entry key="FrontEndMenu_DefaultChallengeParkName" translation="Parco Sfida"/>
 		<entry key="FrontEndMenu_DefaultSandboxParkName" translation="Parco Sandbox"/>
-		<entry key="FrontEndMenu_DefaultScenarioParkDescription" translation="A Player-Created Scenario"/>
-		<entry key="FrontEndMenu_DefaultScenarioParkName" translation="Custom Scenario"/>
+		<entry key="FrontEndMenu_DefaultScenarioParkDescription" translation="Uno Scenario creato dal Giocatore"/>
+		<entry key="FrontEndMenu_DefaultScenarioParkName" translation="Scenario Personalizzato"/>
 		<entry key="FrontEndMenu_DeleteButton" translation="Elimina"/>
 		<entry key="FrontEndMenu_Desert" translation="Deserto"/>
 		<entry key="FrontEndMenu_DesertDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in uno scenario sabbioso!"/>
-		<entry key="FrontEndMenu_DesertScenario" translation="Desert"/>
-		<entry key="FrontEndMenu_DesertScenarioDescription" translation="Start a new custom scenario on a sandy expanse!"/>
+		<entry key="FrontEndMenu_DesertScenario" translation="Deserto"/>
+		<entry key="FrontEndMenu_DesertScenarioDescription" translation="Comincia a costruire il tuo parco in uno scenario sabbioso!"/>
 		<entry key="FrontEndMenu_DesertSimulation" translation="Deserto"/>
 		<entry key="FrontEndMenu_DesertSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in uno scenario sabbioso!"/>
 		<entry key="FrontEndMenu_Details" translation="Dettagli"/>
@@ -6830,12 +6830,12 @@
 		<entry key="FrontEndMenu_Disconnected" translation="Sei Offline!"/>
 		<entry key="FrontEndMenu_Downloads" translation="Scaricamenti"/>
 		<entry key="FrontEndMenu_DownloadsDescription" translation="Guarda i parchi ed i progetti che hai scaricato"/>
-		<entry key="FrontEndMenu_EditAsNewScenario" translation="Edit as new Scenario"/>
+		<entry key="FrontEndMenu_EditAsNewScenario" translation="Modifica come nuovo Scenario"/>
 		<entry key="FrontEndMenu_EditAvatar" translation="Modifica Avatar"/>
 		<entry key="FrontEndMenu_EditAvatarGroup" translation="Modifica Biglietto Gruppo VIP"/>
 		<entry key="FrontEndMenu_EditAvatarStaff" translation="Modifica Pass Staff VIP"/>
 		<entry key="FrontEndMenu_EditAvatarVIP" translation="Modifica Biglietto Singolo VIP"/>
-		<entry key="FrontEndMenu_EditScenario" translation="Edit Scenario"/>
+		<entry key="FrontEndMenu_EditScenario" translation="Modifica Scenario"/>
 		<entry key="FrontEndMenu_EnterParkName" translation="Scrivi il nome del tuo parco..."/>
 		<entry key="FrontEndMenu_Exit" translation="Abbandona Planet Coaster"/>
 		<entry key="FrontEndMenu_ExitButton" translation="Abbandona Planet Coaster"/>
@@ -6854,8 +6854,8 @@
 		<entry key="FrontEndMenu_GlobeFilter_Friends" translation="Amici"/>
 		<entry key="FrontEndMenu_Grassland" translation="Prateria"/>
 		<entry key="FrontEndMenu_GrasslandDescription" translation="Comincia a costruire il tuo parco con soldi illimitati in queste ricche praterie!"/>
-		<entry key="FrontEndMenu_GrasslandScenario" translation="Grassland"/>
-		<entry key="FrontEndMenu_GrasslandScenarioDescription" translation="Start a new custom scenario on these rich pastures!"/>
+		<entry key="FrontEndMenu_GrasslandScenario" translation="Prateria"/>
+		<entry key="FrontEndMenu_GrasslandScenarioDescription" translation="Comincia a costruire il tuo parco in queste ricche praterie!"/>
 		<entry key="FrontEndMenu_GrasslandSimulation" translation="Prateria"/>
 		<entry key="FrontEndMenu_GrasslandSimulationDescription" translation="Comincia a costruire il tuo parco con soldi limitati in queste ricche praterie!"/>
 		<entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Spedisci un gruppo là fuori nei parchi dell'universo Planet Coaster!"/>
@@ -6863,7 +6863,7 @@
 		<entry key="FrontEndMenu_HQPlacement_InfoLabel" translation="Il Quartier Generale è dove gli altri giocatori vedranno il tuo avatar e avranno accesso ad ogni parco o progetto che hai condiviso.\n\nPosiziona il tuo avatar in qualsiasi parte del globo. Puoi modificare la posizione del Quartier Generale del tuo avatar anche dopo."/>
 		<entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Posiziona il tuo Quartier Generale!"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptCancel" translation="No"/>
-		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Sì"/>
+		<entry key="FrontEndMenu_HQPlacement_PromptConfrim" translation="Si"/>
 		<entry key="FrontEndMenu_HQPlacement_PromptLabel" translation="Sei sicuro?\n\nPotrai modificarlo in seguito."/>
 		<entry key="FrontEndMenu_HQPlacement_PromptTitle" translation="Posizionamento Quartier Generale"/>
 		<entry key="FrontEndMenu_LastUpdated" translation="Ultimo Aggiornamento: {Date}"/>
@@ -6903,7 +6903,7 @@
 		<entry key="FrontEndMenu_PlayTime" translation="Totale tempo di gioco: {Value:float:decimalPlaces=1} ore"/>
 		<entry key="FrontEndMenu_Player" translation="Sei tu!"/>
 		<entry key="FrontEndMenu_PromptNo" translation="No"/>
-		<entry key="FrontEndMenu_PromptYes" translation="Sì"/>
+		<entry key="FrontEndMenu_PromptYes" translation="Si"/>
 		<entry key="FrontEndMenu_Rating" translation="Valutazione"/>
 		<entry key="FrontEndMenu_RepositionHQ" translation="Modifica Quartier Generale Avatar"/>
 		<entry key="FrontEndMenu_Resume" translation="Continua"/>
@@ -7006,7 +7006,7 @@
 		<entry key="FrontEndMenu_UserInGame" translation="Giocando A Planet Coaster"/>
 		<entry key="FrontEndMenu_UserOffline" translation="Offline"/>
 		<entry key="FrontEndMenu_UserOnline" translation="Online"/>
-		<entry key="FrontEndMenu_UserScenario" translation="Custom Scenario"/>
+		<entry key="FrontEndMenu_UserScenario" translation="Scenario Personalizzato"/>
 		<entry key="FrontEndMenu_Username" translation="{Name}"/>
 		<entry key="FrontEndMenu_VIPEditor_InfoLabel" translation="Crea un ospite per visitare il parco degli altri giocatori."/>
 		<entry key="FrontEndMenu_VIPEditor_InfoTitle" translation="Crea il tuo Biglietto VIP Singolo!"/>
@@ -7034,7 +7034,7 @@
 		<entry key="AutosaveName" translation="Salvataggio Automatico"/>
 		<entry key="Average" translation="Media"/>
 		<entry key="Back" translation="Indietro"/>
-		<entry key="BrokenDown" translation="Rotto"/>
+		<entry key="BrokenDown" translation="Guasto"/>
 		<entry key="BuildingGroupInitialPrefix" translation="Struttura"/>
 		<entry key="Button" translation="Pulsante"/>
 		<entry key="COMING_SOON" translation="Prossimamente!"/>
@@ -7094,7 +7094,7 @@
 		<entry key="FanfareRankUpDesc" translation="Hai raggiunto il livello {Rank}"/>
 		<entry key="FanfareScenarioUnlocked" translation="Scenario Sbloccato!"/>
 		<entry key="FlatRidePrefix" translation="Attrazione"/>
-		<entry key="FrontEndMenu_GlobeFilter_DLC" translation="New DLC"/>
+		<entry key="FrontEndMenu_GlobeFilter_DLC" translation="Nuovo DLC"/>
 		<entry key="GAMEDATE_DAY_MONTH" translation="{Day:int:minDigits=2} {MonthName}"/>
 		<entry key="GAMEDATE_DAY_MONTH_YEAR" translation="{Day:int:minDigits=2} {MonthName}, Anno {Year:int}"/>
 		<entry key="GAMEDATE_MONTH_YEAR" translation="{MonthName}, Anno {Year:int}"/>
@@ -7116,7 +7116,7 @@
 		<entry key="InfoPanel_CustomTextures_NamedTexture" translation="{NAME}"/>
 		<entry key="InfoPanel_CustomTextures_OffLabel" translation="Cartellone Spento"/>
 		<entry key="InfoPanel_CustomTextures_OffTT" translation="Spegni Cartellone"/>
-		<entry key="InfoPanel_CustomTextures_OffTT_RunningCosts" translation="Spegni cartellone&#10;&#10;Un cartellone non ha costi di esercizio quando spento ma anche nessun effetto sui visitatori."/>
+		<entry key="InfoPanel_CustomTextures_OffTT_RunningCosts" translation="Spegni Cartellone&#10;&#10;Un cartellone non ha costi di esercizio quando spento ma anche nessun effetto sui visitatori."/>
 		<entry key="InfoPanel_CustomTextures_OnLabel" translation="Cartellone Acceso"/>
 		<entry key="InfoPanel_CustomTextures_OnTT" translation="Accendi Cartellone"/>
 		<entry key="InfoPanel_CustomTextures_Refresh" translation="Aggiorna cartella texture personalizzate"/>
@@ -7142,7 +7142,7 @@
 		<entry key="MONTH_6" translation="Giu"/>
 		<entry key="MONTH_7" translation="Lug"/>
 		<entry key="MONTH_8" translation="Ago"/>
-		<entry key="MONTH_9" translation="Sett"/>
+		<entry key="MONTH_9" translation="Set"/>
 		<entry key="MONTH_LONG_1" translation="Gennaio"/>
 		<entry key="MONTH_LONG_10" translation="Ottobre"/>
 		<entry key="MONTH_LONG_11" translation="Novembre"/>
@@ -7159,16 +7159,16 @@
 		<entry key="MiscPopup_Label" translation="{Item} {Type} {File}."/>
 		<entry key="MiscPopup_Label_File_Multiple" translation="files"/>
 		<entry key="MiscPopup_Label_File_Single" translation="file &quot;{Name}&quot;"/>
-		<entry key="MiscPopup_Label_Item_Multiple" translation="Multiple items reference"/>
-		<entry key="MiscPopup_Label_Item_Single" translation="{Name} references"/>
-		<entry key="MiscPopup_Label_Type_Audio" translation="missing user audio"/>
-		<entry key="MiscPopup_Label_Type_Mixed" translation="missing user content"/>
-		<entry key="MiscPopup_Label_Type_Texture" translation="missing user texture"/>
-		<entry key="MiscPopup_Title_Audio" translation="Missing User Audio"/>
-		<entry key="MiscPopup_Title_Mixed" translation="Missing User Content"/>
-		<entry key="MiscPopup_Title_Texture" translation="Missing User Texture"/>
-		<entry key="ObjectBrowser_BlueprintBuyNow" translation="Buy unowned blueprint content"/>
-		<entry key="ObjectBrowser_BuyNowTooltip" translation="Buy now in the {PackName} pack"/>
+		<entry key="MiscPopup_Label_Item_Multiple" translation="Riferimenti Oggetto Multipli"/>
+		<entry key="MiscPopup_Label_Item_Single" translation="{Name} riferimenti"/>
+		<entry key="MiscPopup_Label_Type_Audio" translation="audio utente mancante"/>
+		<entry key="MiscPopup_Label_Type_Mixed" translation="contenuto utente mancante"/>
+		<entry key="MiscPopup_Label_Type_Texture" translation="texture utente mancante"/>
+		<entry key="MiscPopup_Title_Audio" translation="Audio Utente Mancante"/>
+		<entry key="MiscPopup_Title_Mixed" translation="Contenuto Utente Mancante"/>
+		<entry key="MiscPopup_Title_Texture" translation="Texture Utente Mancante"/>
+		<entry key="ObjectBrowser_BlueprintBuyNow" translation="Compra contenuto progetto non posseduto"/>
+		<entry key="ObjectBrowser_BuyNowTooltip" translation="Compra ora nel {PackName} pack"/>
 		<entry key="ObjectBrowser_DLCFilterLabel" translation="Oggetti DLC"/>
 		<entry key="ObjectBrowser_DLCFilterTooltip" translation="Disattiva oggetti DLC non acquistati"/>
 		<entry key="Obstructed" translation="Bloccato"/>
@@ -7192,10 +7192,10 @@
 		<entry key="SPEED_MPH" translation="{Value:float:decimalPlaces=0} mph"/>
 		<entry key="SPEED_MPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} mph/s"/>
 		<entry key="STRING_LITERAL" translation="{Value}"/>
-		<entry key="SceneryGroupInitialPrefix" translation="Scenery Group"/>
+		<entry key="SceneryGroupInitialPrefix" translation="Gruppo Scenario"/>
 		<entry key="Settings_Less" translation="Riduci"/>
 		<entry key="Settings_More" translation="Espandi"/>
-		<entry key="Start" translation="Start"/>
+		<entry key="Start" translation="Partenza"/>
 		<entry key="StationPrefix" translation="Stazione"/>
 		<entry key="TIME" translation="{Hours:int}:{Minutes:int}"/>
 		<entry key="TIME_MONTHS" translation="{Months:int} mesi"/>
@@ -13137,7 +13137,7 @@
 		<entry key="GuestPerkDesc_DayTripper" translation="Una visita breve, ma un'ampia scelta di attrazioni"/>
 		<entry key="GuestPerkDesc_Energetic" translation="Sono un pozzo di energia"/>
 		<entry key="GuestPerkDesc_Fast" translation="Vanno in giro più velocemente di altri"/>
-		<entry key="GuestPerkDesc_HotelLover" translation="They're more likely to check out your hotels"/>
+		<entry key="GuestPerkDesc_HotelLover" translation="Sono più propensi a vedere i tuoi hotels"/>
 		<entry key="GuestPerkDesc_Hungry" translation="Hanno un metabolismo veloce"/>
 		<entry key="GuestPerkDesc_Impatient" translation="Odiano davvero fare la coda"/>
 		<entry key="GuestPerkDesc_Indecisive" translation="Cambiano spesso idea sulla destinazione"/>
@@ -13345,11 +13345,11 @@
 		<entry key="HUD_HelpPopup_Select_Command_13" translation="Annulla Modifica"/>
 		<entry key="HUD_HelpPopup_Select_Command_14" translation="Ripeti"/>
 		<entry key="HUD_HelpPopup_Select_Command_15" translation="Menù Salvataggio Parco"/>
-		<entry key="HUD_HelpPopup_Select_Command_16" translation="Camera Torch"/>
+		<entry key="HUD_HelpPopup_Select_Command_16" translation="Luce Camera"/>
 		<entry key="HUD_HelpPopup_Select_Description" translation="Seleziona un oggetto nel parco per vedere il suo pannello informazioni e le opzioni di gestione. Apri i menù in basso allo schermo per iniziare a costruire o vedere più opzioni."/>
 		<entry key="HUD_HelpPopup_Select_Title" translation="Controlli Base"/>
-		<entry key="HUD_HelpPopup_StaffBuilding_Description" translation="Staff buildings allow staff members to rest and recover energy.&#10;Improved building capacity and extra perks for occupants can be purchased from the building operations tab."/>
-		<entry key="HUD_HelpPopup_StaffBuilding_Title" translation="Staff Building"/>
+		<entry key="HUD_HelpPopup_StaffBuilding_Description" translation="Gli Edifici dello Staff permettono ai membri dello Staff di riposarsi e recuperare energie.&#10;Capacità migliorata e vantaggi extra per gli occupanti possono essere acquistati dalle opzioni dell'edificio."/>
+		<entry key="HUD_HelpPopup_StaffBuilding_Title" translation="Edificio Staff"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_01" translation="Posiziona Membro dello Staff"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Command_02" translation="Annulla Posizionamento"/>
 		<entry key="HUD_HelpPopup_StaffPlacement_Description" translation="Posiziona lo Staff con il cursore prima di inserirlo nel parco."/>
@@ -13431,7 +13431,7 @@
 		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
 		<entry key="HUD_TimePanel_Title" translation="Imposta illuminazione alle"/>
 		<entry key="HUD_ToolTip_AttractionsLists" translation="Lista attrazioni"/>
-		<entry key="HUD_ToolTip_CameraEffects" translation="Camera Effects"/>
+		<entry key="HUD_ToolTip_CameraEffects" translation="Effetti Visuale"/>
 		<entry key="HUD_ToolTip_ChallengesPopup" translation="Sfide"/>
 		<entry key="HUD_ToolTip_Delete" translation="Modalità Cancella (Prossimamente)"/>
 		<entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocità Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
@@ -13447,7 +13447,7 @@
 		<entry key="HUD_ToolTip_ParkManagement" translation="Gestione Parco"/>
 		<entry key="HUD_ToolTip_Pause" translation="Attiva/Disattiva Pausa [{#LogicalButton.Editors_ToggleSimulationSpeed#}]"/>
 		<entry key="HUD_ToolTip_Redo" translation="Riesegui [{#LogicalButton.Editors_Redo#}]"/>
-		<entry key="HUD_ToolTip_SelectMode" translation="Selection Mode"/>
+		<entry key="HUD_ToolTip_SelectMode" translation="Modalità Selezione"/>
 		<entry key="HUD_ToolTip_Undo" translation="Annulla [{#LogicalButton.Editors_Undo#}]"/>
 		<entry key="HUD_ToolsMenu_Path" translation="Sentieri"/>
 		<entry key="HUD_ToolsMenu_Terrain" translation="Terreno"/>
@@ -13504,8 +13504,8 @@
 		<entry key="PopUp_MultiSelect_BlueprintTooManyTrackedRides" translation="I progetti non possono contenere più di 5 montagne russe."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge" translation="Aggiungi scenario indipendente all'edificio selezionato."/>
 		<entry key="PopUp_MultiSelect_BuildingMerge_TooBig" translation="Non è possibile aggiungere uno scenario per creare un edificio con più di 5000 pezzi tra costruzioni e scenario."/>
-		<entry key="PopUp_MultiSelect_CloneNoRides" translation="Cannot Duplicate rides."/>
-		<entry key="PopUp_MultiSelect_ContainsLockedItems" translation="Contains locked items"/>
+		<entry key="PopUp_MultiSelect_CloneNoRides" translation="Non è possibile duplicare attrazioni."/>
+		<entry key="PopUp_MultiSelect_ContainsLockedItems" translation="Contiene oggetti bloccati"/>
 		<entry key="PopUp_MultiSelect_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInChain" translation="Montagne Russe nella Catena"/>
 		<entry key="PopUp_MultiSelect_DuellingCoasters_CoastersInSelection" translation="Montagne Russe nella Selezione"/>
@@ -13537,8 +13537,8 @@
 		<entry key="PopUp_MultiSelect_PatrolZones_LabelCountTrackedRideStations" translation="Stazioni Attrazioni a Circuito"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Name" translation="Nome zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_PatrolZones_Unnamed" translation="Zona senza nome"/>
-		<entry key="PopUp_MultiSelect_RemoveLockedItems" translation="Remove locked items from selection"/>
-		<entry key="PopUp_MultiSelect_SceneryGroupMerge" translation="Merge scenery into scenery group."/>
+		<entry key="PopUp_MultiSelect_RemoveLockedItems" translation="Elimina oggetti bloccati dalla selezione"/>
+		<entry key="PopUp_MultiSelect_SceneryGroupMerge" translation="Unisci scenario al gruppo scenari."/>
 		<entry key="PopUp_MultiSelect_Title_MultiBuilding" translation="Strutture selezionate( {Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_MultiCoaster" translation="Coaster selezionati ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_MultiFlatride" translation="Attrazioni selezionate ({Count:separatedFloat:decimalPlaces=0})"/>
@@ -13546,7 +13546,7 @@
 		<entry key="PopUp_MultiSelect_Title_MultiScenery" translation="Scenari selezionati ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="PopUp_MultiSelect_Title_PatrolZones" translation="Crea zona di lavoro"/>
 		<entry key="PopUp_MultiSelect_Title_SingleCustomNamed" translation="{NAME}"/>
-		<entry key="PopUp_MultiSelect_TooManyBuildings" translation="Cannot Duplicate more than one building at a time."/>
+		<entry key="PopUp_MultiSelect_TooManyBuildings" translation="Non è possibile duplicare più di un edificio per volta."/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiBlueprint" translation="Salva selezione come Progetto"/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiDelete" translation="Elimina selezione [{#LogicalButton.Editors_Delete#}]"/>
 		<entry key="PopUp_MultiSelect_Tooltip_MultiMove" translation="Sposta selezione [{#LogicalButton.Editors_Move#}]"/>
@@ -13563,20 +13563,20 @@
 		<entry key="PopUp_Open" translation="Apri"/>
 		<entry key="PopUp_Operations" translation="Attività"/>
 		<entry key="PopUp_Overview" translation="Panoramica"/>
-		<entry key="PopUp_ParkBoundary_Centre" translation="Boundary Offset"/>
-		<entry key="PopUp_ParkBoundary_CentreX" translation="X Direction"/>
-		<entry key="PopUp_ParkBoundary_CentreY" translation="Y Direction"/>
-		<entry key="PopUp_ParkBoundary_CentreZ" translation="Z Direction"/>
-		<entry key="PopUp_ParkBoundary_Opacity" translation="Preview Opacity"/>
-		<entry key="PopUp_ParkBoundary_Size" translation="Boundary Size"/>
-		<entry key="PopUp_ParkBoundary_SizeX" translation="Width"/>
-		<entry key="PopUp_ParkBoundary_SizeY" translation="Height"/>
-		<entry key="PopUp_ParkBoundary_SizeZ" translation="Length"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints" translation="Guest Spawn Points"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints_Add" translation="Add Spawn Point"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints_Edit" translation="Edit Spawn Point"/>
-		<entry key="PopUp_ParkBoundary_SpawnPoints_Focus" translation="Focus Camera on Spawn Point"/>
-		<entry key="PopUp_ParkBoundary_Title" translation="Adjust Park Boundary"/>
+		<entry key="PopUp_ParkBoundary_Centre" translation="Spostamento Confini"/>
+		<entry key="PopUp_ParkBoundary_CentreX" translation="Direzione X"/>
+		<entry key="PopUp_ParkBoundary_CentreY" translation="Direzione Y"/>
+		<entry key="PopUp_ParkBoundary_CentreZ" translation="Direzione Z"/>
+		<entry key="PopUp_ParkBoundary_Opacity" translation="Opacità Anteprima"/>
+		<entry key="PopUp_ParkBoundary_Size" translation="Misura Confini"/>
+		<entry key="PopUp_ParkBoundary_SizeX" translation="Larghezza"/>
+		<entry key="PopUp_ParkBoundary_SizeY" translation="Altezza"/>
+		<entry key="PopUp_ParkBoundary_SizeZ" translation="Lunghezza"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints" translation="Punti di Ingresso Visitatori"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints_Add" translation="Aggiungi Punto di Ingresso"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints_Edit" translation="Modifica Punto di Ingresso"/>
+		<entry key="PopUp_ParkBoundary_SpawnPoints_Focus" translation="Centra Visuale su Punto di Ingresso"/>
+		<entry key="PopUp_ParkBoundary_Title" translation="Modifica Confini del Parco"/>
 		<entry key="PopUp_Peeps_HeadingTo" translation="Diretto a: {LOCATIONNAME}"/>
 		<entry key="PopUp_Peeps_Needs_Energy" translation="Energia"/>
 		<entry key="PopUp_Peeps_Needs_Happiness" translation="Felicità"/>
@@ -13632,7 +13632,7 @@
 		<entry key="PopUp_RideTesting_NoHeatmap" translation="NESSUNA"/>
 		<entry key="PopUp_RideTesting_NumAirTime" translation="Tempo in Volo"/>
 		<entry key="PopUp_RideTesting_NumInversions" translation="Numero inversioni"/>
-		<entry key="PopUp_RideTesting_NumSceneryReactions" translation="Scenery Reaction Count"/>
+		<entry key="PopUp_RideTesting_NumSceneryReactions" translation="Numero reazioni Scenario"/>
 		<entry key="PopUp_RideTesting_Reputation" translation="Giudizio sullo Scenario del Percorso"/>
 		<entry key="PopUp_RideTesting_Results" translation="Risultati"/>
 		<entry key="PopUp_RideTesting_Speed" translation="Velocità"/>
@@ -13648,9 +13648,9 @@
 		<entry key="PopUp_RideTicketBooth_Name" translation="Biglietteria"/>
 		<entry key="PopUp_Ride_Analytics_Soon" translation="Analisi Corsa in arrivo"/>
 		<entry key="PopUp_Ride_BlockSectionedMode" translation="Sezioni Bloccanti"/>
-		<entry key="PopUp_Ride_BoatSpeed" translation="Boat Speed"/>
-		<entry key="PopUp_Ride_BusPerTrain" translation="Cars per bus"/>
-		<entry key="PopUp_Ride_BusSpeed" translation="Bus Speed"/>
+		<entry key="PopUp_Ride_BoatSpeed" translation="Velocità Barca"/>
+		<entry key="PopUp_Ride_BusPerTrain" translation="Vetture per Bus"/>
+		<entry key="PopUp_Ride_BusSpeed" translation="Velocità Bus"/>
 		<entry key="PopUp_Ride_Capacity" translation="Capacità"/>
 		<entry key="PopUp_Ride_CarSpeed" translation="Velocità Vettura"/>
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
@@ -13705,7 +13705,7 @@
 		<entry key="PopUp_Ride_GuestsPerHour" translation="Visitatori per ora: {LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_Guests_Soon" translation="Pensieri sull'attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_IdealPrice" translation="Costo Biglietto Ideale: {VALUE:currency}"/>
-		<entry key="PopUp_Ride_KartSpeed" translation="Kart Speed"/>
+		<entry key="PopUp_Ride_KartSpeed" translation="Velocità Kart"/>
 		<entry key="PopUp_Ride_LapsHint" translation="Non è possibile modificare il numero dei giri mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_LastMonthsProfit" translation="Profitto ultimo mese"/>
 		<entry key="PopUp_Ride_LeaveIfWaiting" translation="Non bloccare la stazione"/>
@@ -13746,15 +13746,15 @@
 		<entry key="PopUp_Ride_MonthlyUtilityRunningCost" translation=" - costi servizio"/>
 		<entry key="PopUp_Ride_MoveEntrance" translation="Sposta entrata"/>
 		<entry key="PopUp_Ride_MoveExit" translation="Sposta uscita"/>
-		<entry key="PopUp_Ride_NumBoat" translation="Number of boats"/>
-		<entry key="PopUp_Ride_NumBus" translation="Number of buses"/>
-		<entry key="PopUp_Ride_NumCar" translation="Number of cars"/>
-		<entry key="PopUp_Ride_NumKart" translation="Number of karts"/>
+		<entry key="PopUp_Ride_NumBoat" translation="Numero di barche"/>
+		<entry key="PopUp_Ride_NumBus" translation="Numero di bus"/>
+		<entry key="PopUp_Ride_NumCar" translation="Numero di vetture"/>
+		<entry key="PopUp_Ride_NumKart" translation="Numero di karts"/>
 		<entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
 		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
-		<entry key="PopUp_Ride_NumRaft" translation="Number of rafts"/>
-		<entry key="PopUp_Ride_NumSleigh" translation="Number of sleighs"/>
-		<entry key="PopUp_Ride_NumTrain" translation="Number of trains"/>
+		<entry key="PopUp_Ride_NumRaft" translation="Numero di zattere"/>
+		<entry key="PopUp_Ride_NumSleigh" translation="Numero di slitte"/>
+		<entry key="PopUp_Ride_NumTrain" translation="Numero di treni"/>
 		<entry key="PopUp_Ride_NumTrainsLimit" translation="Per aggiungere più treni prova ad aumentare la lunghezza della stazione, o ridurre il numero delle vetture per treno."/>
 		<entry key="PopUp_Ride_NumTrainsLimit_BlockSection" translation="Per aggiungere più treni prova ad aggiungere sezioni aggiuntive."/>
 		<entry key="PopUp_Ride_NumberOfSeats" translation="Numero di Posti: {SEATS:int}"/>
@@ -13764,8 +13764,8 @@
 		<entry key="PopUp_Ride_Overview_Soon" translation="Panoramica attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_PassesHint" translation="Non è possibile modificare il numero di passaggi attraverso la stazione mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
-		<entry key="PopUp_Ride_PoweredBehaviourLabel" translation="Constant powered deceleration"/>
-		<entry key="PopUp_Ride_PoweredBehaviourTooltip" translation="With this on, powered rides provide enough power to reduce deceleration and keep momentum on the ride"/>
+		<entry key="PopUp_Ride_PoweredBehaviourLabel" translation="Decelerazione a potenza costante"/>
+		<entry key="PopUp_Ride_PoweredBehaviourTooltip" translation="Con questo attivo, le attrazioni elettriche producono abbastanza potenza da ridurre la decelerazione e mantenere la spinta sull'attrazione"/>
 		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Moltiplicatore diminuzione prestigio: {VALUE:float}"/>
 		<entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Entrate mensili stimate"/>
@@ -13838,7 +13838,7 @@
 		<entry key="PopUp_Triggers_UserTriggersTab" translation="Inneschi Utente"/>
 		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Non è possibile aprire un'attrazione incompleta"/>
 		<entry key="PopUp_UnknownOperation" translation="Operazione sconosciuta"/>
-		<entry key="PopUp_VendingMachine_BrokenDown" translation="Cannot open vending machines whilst broken-down"/>
+		<entry key="PopUp_VendingMachine_BrokenDown" translation="Non è possibile aprire i distributori guasti"/>
 		<!--InfoPanel-->
 		<entry key="InfoPanel_Close" translation="X"/>
 		<entry key="InfoPanel_ScenarioLock" translation="Lock all items for scenario players"/>
@@ -14216,7 +14216,7 @@
 		<entry key="InfoPanel_ride_GForceTooHigh_ToolTip" translation="G-force exceeds safe limits&#10;&#10;Have a look at the various G-force Heatmaps to see which areas of your Ride are problematic."/>
 		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
 		<!--InfoPanel_Scenery-->
-		<entry key="InfoPanel_Scenery_BuildingEditWithSelectedPart" translation="Edit Building With Selected Part"/>
+		<entry key="InfoPanel_Scenery_BuildingEditWithSelectedPart" translation="Modifica l'Edificio con l'elemento selezionato"/>
 		<entry key="InfoPanel_Scenery_BuildingStatistics" translation="Statistiche Struttura"/>
 		<entry key="InfoPanel_Scenery_ButtonShop" translation="{NAME}"/>
 		<entry key="InfoPanel_Scenery_Name" translation="Scenario"/>
@@ -14229,12 +14229,12 @@
 		<entry key="InfoPanel_Scenery_RepairVandalisedObject_ToolTip_NotNeeded" translation="L'elemento non ha bisogno di essere rimpiazzato"/>
 		<entry key="InfoPanel_Scenery_RunningCostLabel" translation="Costo Mensile"/>
 		<entry key="InfoPanel_Scenery_RunningGainLabel" translation="Guadagni"/>
-		<entry key="InfoPanel_Scenery_ScenarioLock" translation="Lock this scenery for scenario players"/>
-		<entry key="InfoPanel_Scenery_ScenarioUnlock" translation="Unlock this scenery for scenario players"/>
-		<entry key="InfoPanel_Scenery_SceneryGroupEditWithSelectedPart" translation="Edit Scenery Group With Selected Part"/>
-		<entry key="InfoPanel_Scenery_SceneryGroupStatistics" translation="Scenery Group Statistics"/>
+		<entry key="InfoPanel_Scenery_ScenarioLock" translation="Blocca questo scenario per i giocatori"/>
+		<entry key="InfoPanel_Scenery_ScenarioUnlock" translation="Sblocca questo scenario per i giocatori"/>
+		<entry key="InfoPanel_Scenery_SceneryGroupEditWithSelectedPart" translation="Modifica il Gruppo Scenario con l'elemento selezionato"/>
+		<entry key="InfoPanel_Scenery_SceneryGroupStatistics" translation="Statistiche gruppo Scenario"/>
 		<entry key="InfoPanel_Scenery_SceneryStatistics" translation="Statistiche Scenario"/>
-		<entry key="InfoPanel_Scenery_SelectedPart" translation="Selected Part"/>
+		<entry key="InfoPanel_Scenery_SelectedPart" translation="Elemento Selezionato"/>
 		<entry key="InfoPanel_Scenery_ShopsLabel" translation="Servizi"/>
 		<entry key="InfoPanel_Scenery_TextOnSign" translation="{VALUE}"/>
 		<entry key="InfoPanel_Scenery_TotalObjectsCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
@@ -14252,20 +14252,20 @@
 		<entry key="InfoPanel_Staff_FocusCam" translation="Centra Visuale"/>
 		<entry key="InfoPanel_Staff_Happiness" translation="Felicità Staff"/>
 		<entry key="InfoPanel_Staff_Information" translation="Informazioni Staff"/>
-		<entry key="InfoPanel_Staff_KickFromStaffBuilding" translation="Kick out of building"/>
+		<entry key="InfoPanel_Staff_KickFromStaffBuilding" translation="Caccia dall'edificio"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus1" translation="Produttività Incrementata"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus2" translation="Felicità Incrementata"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus3" translation="Maggiore aspettativa di stipendio"/>
 		<entry key="InfoPanel_Staff_NextLevel" translation="Livello Successivo"/>
 		<entry key="InfoPanel_Staff_Overview" translation="Anteprima"/>
 		<entry key="InfoPanel_Staff_RecentThoughts" translation="Pensieri Recenti"/>
-		<entry key="InfoPanel_Staff_Rehire_ButtonLabel" translation="Rehire Staff ({cost:currency})"/>
-		<entry key="InfoPanel_Staff_Rehire_Description" translation="You can choose to rehire a staff member, if this staff member's pay is lower than the salary level suggested by their skills and the general pay expectations for the given job, it will be adjusted upon rehiring."/>
-		<entry key="InfoPanel_Staff_Rehire_Label" translation="{Name} has Quit"/>
-		<entry key="InfoPanel_Staff_Rehire_Label_Fired" translation="{Name} has been fired"/>
+		<entry key="InfoPanel_Staff_Rehire_ButtonLabel" translation="Riassumi Staff ({cost:currency})"/>
+		<entry key="InfoPanel_Staff_Rehire_Description" translation="Puoi scegliere di riassumere un membro dello staff, se lo stipendio di questo membro è più basso del livello di salario suggerito dalle sue abilità e le aspettative di paga per quel tipo di lavoro, sarà aggiornato alla sua riassunzione."/>
+		<entry key="InfoPanel_Staff_Rehire_Label" translation="{Name} si è licenziato"/>
+		<entry key="InfoPanel_Staff_Rehire_Label_Fired" translation="{Name} è stato licenziato"/>
 		<entry key="InfoPanel_Staff_RideCam" translation="Camera Staff"/>
 		<entry key="InfoPanel_Staff_Salary" translation="Stipendio"/>
-		<entry key="InfoPanel_Staff_ScheduledLevelUp" translation="Already Scheduled Training"/>
+		<entry key="InfoPanel_Staff_ScheduledLevelUp" translation="Formazione già programmata"/>
 		<entry key="InfoPanel_Staff_ScheduledLevelUpTooltip" translation="This staff member has already been scheduled to be trained and will do so the next time they rest in a staff building"/>
 		<entry key="InfoPanel_Staff_SprintingEnergy" translation="Sprinting Energy"/>
 		<entry key="InfoPanel_Staff_StaffBuildingFocusCam" translation="Staff Building Focus Camera"/>
@@ -19596,7 +19596,7 @@
 		<entry key="ParkManagement_DutyRosters_Name" translation="Nome della coda"/>
 		<entry key="ParkManagement_DutyRosters_NoItems" translation="Non hai compiti in coda"/>
 		<entry key="ParkManagement_DutyRosters_Tools" translation="Strumenti"/>
-		<entry key="ParkManagement_Energy_With_Percent" translation="Energy - {percent}"/>
+		<entry key="ParkManagement_Energy_With_Percent" translation="Energia - {percent}"/>
 		<entry key="ParkManagement_EntranceTicketPrices" translation="Prezzi del biglietto di entrata"/>
 		<entry key="ParkManagement_ExpenditureCategory_CoasterRunningCosts" translation="Costi di esercizio delle Montagne Russe"/>
 		<entry key="ParkManagement_ExpenditureCategory_CoasterTickets" translation="Vendita biglietti delle Montagne Russe"/>
@@ -19681,12 +19681,12 @@
 		<entry key="ParkManagement_Guests_Graph_Teen_Count" translation="Membri del gruppo di ragazzi"/>
 		<entry key="ParkManagement_Guests_Graph_Total_Count" translation="Visitatori totali"/>
 		<entry key="ParkManagement_Guests_Tooltip" translation="Pensieri dei visitatori e informazioni"/>
-		<entry key="ParkManagement_Happiness_With_Percent" translation="Happiness - {percent}"/>
+		<entry key="ParkManagement_Happiness_With_Percent" translation="Felicità - {percent}"/>
 		<entry key="ParkManagement_HireStaff" translation="Assumi dipendente"/>
 		<entry key="ParkManagement_Hotel_RoomCount" translation="{count:int} Rooms"/>
 		<entry key="ParkManagement_Hotels" translation="Hotels"/>
 		<entry key="ParkManagement_HotelsDesc" translation="Hotels allow Guests to stay the night instead of having to leave the Park."/>
-		<entry key="ParkManagement_Hunger_With_Percent" translation="Hunger - {percent}"/>
+		<entry key="ParkManagement_Hunger_With_Percent" translation="Fame - {percent}"/>
 		<entry key="ParkManagement_LeavingGuestThoughts" translation="Pensieri dei visitatori che vanno via"/>
 		<entry key="ParkManagement_List_Age" translation="Età"/>
 		<entry key="ParkManagement_List_AllStaff" translation="Tutti i dipendenti"/>
@@ -19988,7 +19988,7 @@
 		<entry key="ParkManagement_Staff_Workload_Low" translation="Basso"/>
 		<entry key="ParkManagement_Staff_Workload_Medium" translation="Normale"/>
 		<entry key="ParkManagement_TeenGroups" translation="Gruppi di ragazzi"/>
-		<entry key="ParkManagement_Thirst_With_Percent" translation="Thirst - {percent}"/>
+		<entry key="ParkManagement_Thirst_With_Percent" translation="Sete - {percent}"/>
 		<entry key="ParkManagement_TicketLifetimeVisitors" translation="Visitatori dall'apertura del parco"/>
 		<entry key="ParkManagement_TicketMissedSalesLastMonth" translation="Vendite perse l'ultimo mese"/>
 		<entry key="ParkManagement_TicketPrices" translation="Prezzi biglietto"/>
@@ -20003,7 +20003,7 @@
 		<entry key="ParkManagement_TicketVisitorsLastMonth" translation="Visitatori dell'ultimo mese"/>
 		<entry key="ParkManagement_Tickets_ParkCapacityCannotBeChangedInScenario" translation="La capacità del parco non può essere cambiata in questo scenario"/>
 		<entry key="ParkManagement_TitleStatus" translation="Stato del parco: {STATUS}"/>
-		<entry key="ParkManagement_Toilet_With_Percent" translation="Toilet - {percent}"/>
+		<entry key="ParkManagement_Toilet_With_Percent" translation="Toilette - {percent}"/>
 		<entry key="ParkManagement_TopThoughts" translation="Migliori pensieri dei visitatori"/>
 		<entry key="ParkManagement_Triggers" translation="Inneschi"/>
 		<entry key="ParkManagement_UnconnectedRooms" translation="Unconnected Rooms"/>
@@ -20547,22 +20547,22 @@
 		<entry key="Objective_Condition_Name_TotalAirTimeMax" translation="Maximum Total Air Time"/>
 		<entry key="Objective_Condition_Name_TotalAirTimeMin" translation="Minimum Total Air Time"/>
 		<entry key="Objective_Condition_Variable_AllowBreakdowns" translation="Allow Broken Down Rides"/>
-		<entry key="Objective_Condition_Variable_AverageHappiness" translation="Happiness"/>
-		<entry key="Objective_Condition_Variable_AverageSpeedMax" translation="Speed"/>
-		<entry key="Objective_Condition_Variable_AverageSpeedMin" translation="Speed"/>
+		<entry key="Objective_Condition_Variable_AverageHappiness" translation="Felicità"/>
+		<entry key="Objective_Condition_Variable_AverageSpeedMax" translation="Velocità"/>
+		<entry key="Objective_Condition_Variable_AverageSpeedMin" translation="Velocità"/>
 		<entry key="Objective_Condition_Variable_CycleTimeMax" translation="Time"/>
 		<entry key="Objective_Condition_Variable_CycleTimeMin" translation="Time"/>
-		<entry key="Objective_Condition_Variable_DeadlineMonths" translation="Month"/>
-		<entry key="Objective_Condition_Variable_DeadlineYears" translation="Year"/>
+		<entry key="Objective_Condition_Variable_DeadlineMonths" translation="Mese"/>
+		<entry key="Objective_Condition_Variable_DeadlineYears" translation="Anno"/>
 		<entry key="Objective_Condition_Variable_ExcitementMin" translation="Excitement"/>
 		<entry key="Objective_Condition_Variable_FearMax" translation="Fear"/>
 		<entry key="Objective_Condition_Variable_FearMin" translation="Fear"/>
-		<entry key="Objective_Condition_Variable_LengthMax" translation="Length"/>
-		<entry key="Objective_Condition_Variable_LengthMin" translation="Length"/>
-		<entry key="Objective_Condition_Variable_MaxDropMax" translation="Height"/>
-		<entry key="Objective_Condition_Variable_MaxDropMin" translation="Height"/>
-		<entry key="Objective_Condition_Variable_MaxSpeedMax" translation="Speed"/>
-		<entry key="Objective_Condition_Variable_MaxSpeedMin" translation="Speed"/>
+		<entry key="Objective_Condition_Variable_LengthMax" translation="Lunghezza"/>
+		<entry key="Objective_Condition_Variable_LengthMin" translation="Lunghezza"/>
+		<entry key="Objective_Condition_Variable_MaxDropMax" translation="Altezza"/>
+		<entry key="Objective_Condition_Variable_MaxDropMin" translation="Altezza"/>
+		<entry key="Objective_Condition_Variable_MaxSpeedMax" translation="Velocità"/>
+		<entry key="Objective_Condition_Variable_MaxSpeedMin" translation="Velocità"/>
 		<entry key="Objective_Condition_Variable_MinStaff" translation="Staff"/>
 		<entry key="Objective_Condition_Variable_MinimumGuests" translation="Guests"/>
 		<entry key="Objective_Condition_Variable_MonthlyProfit" translation="Amount"/>
@@ -20571,9 +20571,9 @@
 		<entry key="Objective_Condition_Variable_NumAirTimeMin" translation="Moments"/>
 		<entry key="Objective_Condition_Variable_NumInversionsMax" translation="Inversions"/>
 		<entry key="Objective_Condition_Variable_NumInversionsMin" translation="Inversions"/>
-		<entry key="Objective_Condition_Variable_NumberOfMonths" translation="Months"/>
+		<entry key="Objective_Condition_Variable_NumberOfMonths" translation="Mesi"/>
 		<entry key="Objective_Condition_Variable_ParkRating" translation="Rating"/>
-		<entry key="Objective_Condition_Variable_PrestigeMin" translation="Prestige"/>
+		<entry key="Objective_Condition_Variable_PrestigeMin" translation="Prestigio"/>
 		<entry key="Objective_Condition_Variable_Rooms" translation="Rooms"/>
 		<entry key="Objective_Condition_Variable_TotalAirTimeMax" translation="Time"/>
 		<entry key="Objective_Condition_Variable_TotalAirTimeMin" translation="Time"/>
@@ -20581,7 +20581,7 @@
 		<entry key="Objective_Item_Capacity" translation="Total Capacity"/>
 		<entry key="Objective_Item_FewerThan" translation="Fewer Than"/>
 		<entry key="Objective_Item_FlatRidesOnly" translation="Exclude Coasters and Tracked Rides"/>
-		<entry key="Objective_Item_ForMonths" translation="For a Number of Months"/>
+		<entry key="Objective_Item_ForMonths" translation="Per un numero di mesi"/>
 		<entry key="Objective_Item_GoKarts" translation="Apply to Go-Karts instead of Coasters"/>
 		<entry key="Objective_Item_NumberOfMonths" translation="Over a Number of Months"/>
 		<entry key="Objective_Item_PerMonth" translation="Per Month"/>
@@ -20653,29 +20653,29 @@
 		<entry key="Objectives_CatchPickpockets_ViewSingular" translation="Prendi un borseggiatore"/>
 		<entry key="Objectives_ClearLoans_View" translation="Restituisci tutti i Prestiti"/>
 		<entry key="Objectives_CompanyValue_View" translation="Ottieni un Valore Compagnia pari a {Value:currency}"/>
-		<entry key="Objectives_CompletedDifficulty1" translation="Obiettivi Facili Completati"/>
-		<entry key="Objectives_CompletedDifficulty2" translation="Obiettivi Medi Completati"/>
-		<entry key="Objectives_CompletedDifficulty3" translation="Obiettivi Difficili Completati"/>
+		<entry key="Objectives_CompletedDifficulty1" translation="Obiettivi facili completati"/>
+		<entry key="Objectives_CompletedDifficulty2" translation="Obiettivi medi completati"/>
+		<entry key="Objectives_CompletedDifficulty3" translation="Obiettivi difficili completati"/>
 		<entry key="Objectives_CurrentThefts" translation="Vittime di furto attuali: {Value:int}"/>
 		<entry key="Objectives_CurrentTheftsPercentage" translation="Tasso di furti attuale: {Value:float:decimalPlaces=1}%"/>
 		<entry key="Objectives_CycleTimeMax" translation="Dura al massimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_CycleTimeMin" translation="Dura minimo {Value:float:decimalPlaces=0} s"/>
 		<entry key="Objectives_Deadline" translation="Before then end of {Month} year {Year:int}."/>
-		<entry key="Objectives_Deadline_Month" translation="1 month"/>
-		<entry key="Objectives_Deadline_Months" translation="{Months:int} months"/>
+		<entry key="Objectives_Deadline_Month" translation="1 mese"/>
+		<entry key="Objectives_Deadline_Months" translation="{Months:int} mesi"/>
 		<entry key="Objectives_Deadline_MonthsRemaining" translation="Less than {Months} remaining"/>
 		<entry key="Objectives_Deadline_TimeRemaining" translation="Less than {Years} and {Months} remaining"/>
-		<entry key="Objectives_Deadline_Year" translation="1 year"/>
-		<entry key="Objectives_Deadline_Years" translation="{Years:int} years"/>
+		<entry key="Objectives_Deadline_Year" translation="1 anno"/>
+		<entry key="Objectives_Deadline_Years" translation="{Years:int} anni"/>
 		<entry key="Objectives_Deadline_YearsRemaining" translation="Less than {Years} remaining"/>
 		<entry key="Objectives_DecimalValue" translation="{Value:float:decimalPlaces=2}"/>
 		<entry key="Objectives_Difficulty1" translation="Facile"/>
 		<entry key="Objectives_Difficulty2" translation="Medio"/>
 		<entry key="Objectives_Difficulty3" translation="Difficile"/>
 		<entry key="Objectives_ExcitementMin" translation="Almeno {Value:float:decimalPlaces=1} di Eccitazione"/>
-		<entry key="Objectives_FailedDifficulty1" translation="Easy objectives failed"/>
-		<entry key="Objectives_FailedDifficulty2" translation="Medium objectives failed"/>
-		<entry key="Objectives_FailedDifficulty3" translation="Hard objectives failed"/>
+		<entry key="Objectives_FailedDifficulty1" translation="Obiettivi facili falliti"/>
+		<entry key="Objectives_FailedDifficulty2" translation="Obiettivi medi falliti"/>
+		<entry key="Objectives_FailedDifficulty3" translation="Obiettivi difficili falliti"/>
 		<entry key="Objectives_FearMax" translation="Al massimo {Value:float:decimalPlaces=1} di Paura"/>
 		<entry key="Objectives_FearMin" translation="Almeno {Value:float:decimalPlaces=1} di Paura"/>
 		<entry key="Objectives_FireworksDisplay_MaxViewingTime" translation="Tempo Massimo che un visitatore ha guardato uno spettacolo: {Value:float:decimalPlaces=2} secondi"/>
@@ -20778,7 +20778,7 @@
 		<entry key="ScenarioEditor_Guests_TraitWeight_High" translation="High"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Low" translation="Low"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_Medium" translation="Medium"/>
-		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="None"/>
+		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="Nessuno"/>
 		<!--ScenarioObjectTranslations-->
 		<entry key="C2_ChiefBeefsRaceway_Building01" translation="Race Pits"/>
 		<entry key="C2_ChiefBeefsRaceway_Building02" translation="Dusan's Yacht"/>
