@@ -65,7 +65,7 @@
 		<entry key="Blueprints_ButtonPrevious" translation="Precedente"/>
 		<entry key="Blueprints_ButtonUpdateBlueprint" translation="Aggiorna Progetto"/>
 		<entry key="Blueprints_ButtonUpdateWorkshopItem" translation="Aggiorna Oggetto Workshop"/>
-		<entry key="Blueprints_CameraControls" translation="Posiziona la camera usando il mouse per catturare un'immagine del tuo progetto."/>
+		<entry key="Blueprints_CameraControls" translation="Posiziona la visuale usando il mouse per catturare un'immagine del tuo progetto."/>
 		<entry key="Blueprints_CanyonBlueprint01" translation="Rebel"/>
 		<entry key="Blueprints_CanyonBlueprint01Desc" translation="Uno schema per il Treno della Miniera"/>
 		<entry key="Blueprints_CanyonRunner01" translation="Rebel"/>
@@ -4842,14 +4842,14 @@
 		<entry key="PopUp_DisplayCamera_AddCamera_Tooltip" translation="Non è possibile aggiungere più di {COUNT:separatedFloat:decimalPlaces=0} Videocamere."/>
 		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Videocamere Collegate"/>
 		<entry key="PopUp_DisplayCamera_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_DisplayCamera_DefaultName" translation="Videocamera {Value:separatedFloat:decimalPlaces=0}"/>
-		<entry key="PopUp_DisplayCamera_Description" translation="Usa la visuale libera per inquadrare lo scatto perfetto. Clicca Aggiungi Videocamera per collegare la vista corrente alla nuova Videocamera."/>
-		<entry key="PopUp_DisplayCamera_Edit_Tooltip" translation="Sovrascrivi Videocamera"/>
-		<entry key="PopUp_DisplayCamera_Focus_Tooltip" translation="Localizza Videocamera"/>
-		<entry key="PopUp_DisplayCamera_Header" translation="Collega Videocamera"/>
+		<entry key="PopUp_DisplayCamera_DefaultName" translation="Visuale {Value:separatedFloat:decimalPlaces=0}"/>
+		<entry key="PopUp_DisplayCamera_Description" translation="Usa la visuale libera per inquadrare lo scatto perfetto. Clicca Aggiungi Visuale per collegare la vista corrente alla nuova Visuale."/>
+		<entry key="PopUp_DisplayCamera_Edit_Tooltip" translation="Sovrascrivi Visuale"/>
+		<entry key="PopUp_DisplayCamera_Focus_Tooltip" translation="Localizza Visuale"/>
+		<entry key="PopUp_DisplayCamera_Header" translation="Collega Visuale"/>
 		<entry key="PopUp_DisplayCamera_Name" translation="{Value}"/>
-		<entry key="PopUp_DisplayCamera_NumSelected" translation="Sposta la camera e quindi clicca Conferma per collegare una nuova camera."/>
-		<entry key="PopUp_DisplayCamera_NumSelected_Label" translation="Videocamere collegate"/>
+		<entry key="PopUp_DisplayCamera_NumSelected" translation="Sposta la visuale e quindi clicca Conferma per collegare una nuova visuale."/>
+		<entry key="PopUp_DisplayCamera_NumSelected_Label" translation="Visuali collegate"/>
 		<entry key="PopUp_DisplayCamera_Preview_Tooltip" translation="Anteprima Ripresa"/>
 		<entry key="PopUp_DisplayCamera_RemoveAll_Tooltip" translation="Rimuovi Riprese"/>
 		<entry key="PopUp_DisplayCamera_Remove_Tooltip" translation="Rimuovi Ripresa"/>
@@ -5985,34 +5985,34 @@
 		<entry key="BuildingPartName_HO_HotelEntrance" translation="Ingresso Hotel"/>
 		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Camera di Lusso"/>
 		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Camera Standard"/>
-		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Macchina del Tempo Visuale Attrazione"/>
+		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Sequenziatore per Visuale Attrazione"/>
 		<!--C7_Blueprints-->
 		<entry key="Blueprints_WildMouseBlueprint01" translation="Mouse Maze"/>
-		<entry key="Blueprints_WildMouseBlueprint01Desc" translation="A layout for the Mouse Hunt coaster."/>
+		<entry key="Blueprints_WildMouseBlueprint01Desc" translation="Uno schema per il coaster Mouse Hunt."/>
 		<!--C7_Coasters-->
 		<entry key="Coaster_MouseHunt" translation="Mouse Hunt"/>
-		<entry key="Coaster_MouseHunt_Desc" translation="A wooden roller coaster with two seats per car. This coaster utilises sharp corners and little banking and has a track piece that allows it to be aligned to the grid."/>
-		<entry key="Coaster_Type_MouseHunt" translation="Wooden - Wild Mouse"/>
-		<entry key="Research_Hint_Coaster_MouseHunt" translation="Vintage Cheese"/>
+		<entry key="Coaster_MouseHunt_Desc" translation="Una montagna russa di legno con due sedili per vettura. Questa attrazione utilizza angoli acuti, un po di virate ed elementi di tracciato che gli permettono di rimanere agganciato ad una griglia."/>
+		<entry key="Coaster_Type_MouseHunt" translation="Di legno - Wild Mouse"/>
+		<entry key="Research_Hint_Coaster_MouseHunt" translation="Formaggio Vintage"/>
 		<entry key="Research_Revealed_Coaster_MouseHunt" translation="Mouse Hunt"/>
-		<entry key="TrackElementDesc_180DegreeTurnLeft" translation="Track with supports that snap to the grid and turns a complete 180."/>
-		<entry key="TrackElementDesc_180DegreeTurnRight" translation="Track with supports that snap to the grid and turns a complete 180."/>
-		<entry key="TrackElementDesc_GridSnapTrack" translation="Grid Snap Track Description."/>
-		<entry key="TrackElementDesc_GridTrack" translation="Grid Track Description."/>
-		<entry key="TrackElementDesc_SBendLeft" translation="Shallow S bend track."/>
-		<entry key="TrackElementDesc_SBendRight" translation="Shallow S bend track."/>
-		<entry key="TrackElementName_180DegreeTurnLeft" translation="180 Turn Left"/>
-		<entry key="TrackElementName_180DegreeTurnRight" translation="180 Turn Right"/>
-		<entry key="TrackElementName_GridSnapTrack" translation="Grid Snap Track"/>
-		<entry key="TrackElementName_GridTrack" translation="Grid Track"/>
-		<entry key="TrackElementName_SBendLeft" translation="S Bend Left"/>
-		<entry key="TrackElementName_SBendRight" translation="S Bend Right"/>
-		<entry key="TrackElementTool_180DegreeTurnLeft" translation="&lt;font color='accent'&gt;180 Turn Left&lt;/font&gt;&#10;Track with supports that snap to the grid and turns a complete 180."/>
-		<entry key="TrackElementTool_180DegreeTurnRight" translation="&lt;font color='accent'&gt;180 Turn Right&lt;/font&gt;&#10;Track with supports that snap to the grid and turns a complete 180."/>
-		<entry key="TrackElementTool_GridSnapTrack" translation="&lt;font color='accent'&gt;Grid Snap Track&lt;/font&gt;&#10;Grid Snap Track Description."/>
-		<entry key="TrackElementTool_GridTrack" translation="&lt;font color='accent'&gt;Grid Track&lt;/font&gt;&#10;Standard track piece that aligns to the grid."/>
-		<entry key="TrackElementTool_SBendLeft" translation="&lt;font color='accent'&gt;S Bend Left&lt;/font&gt;&#10;Shallow S bend track with supports that snap to the grid."/>
-		<entry key="TrackElementTool_SBendRight" translation="&lt;font color='accent'&gt;S Bend Right&lt;/font&gt;&#10;Shallow S bend track with supports that snap to the grid."/>
+		<entry key="TrackElementDesc_180DegreeTurnLeft" translation="Tracciato con supporti che si aggancia alla griglia e si gira a 180 gradi."/>
+		<entry key="TrackElementDesc_180DegreeTurnRight" translation="Tracciato con supporti che si aggancia alla griglia e si gira a 180 gradi."/>
+		<entry key="TrackElementDesc_GridSnapTrack" translation="Descrizione tracciato agganciato alla griglia ."/>
+		<entry key="TrackElementDesc_GridTrack" translation="Descrizione tracciato griglia."/>
+		<entry key="TrackElementDesc_SBendLeft" translation="Tracciato con curva ad S poco profondo."/>
+		<entry key="TrackElementDesc_SBendRight" translation="Tracciato con curva ad S poco profondo."/>
+		<entry key="TrackElementName_180DegreeTurnLeft" translation="Curva a Sinistra 180°"/>
+		<entry key="TrackElementName_180DegreeTurnRight" translation="Curva a Destra 180°"/>
+		<entry key="TrackElementName_GridSnapTrack" translation="Tracciato agganciato alla griglia"/>
+		<entry key="TrackElementName_GridTrack" translation="Tracciato griglia"/>
+		<entry key="TrackElementName_SBendLeft" translation="Curva a Sinistra ad S"/>
+		<entry key="TrackElementName_SBendRight" translation="Curva a Destra ad S"/>
+		<entry key="TrackElementTool_180DegreeTurnLeft" translation="&lt;font color='accent'&gt;180 Curva a Sinistra&lt;/font&gt;&#10;Tracciato con supporti che si aggancia alla griglia e si gira a 180 gradi."/>
+		<entry key="TrackElementTool_180DegreeTurnRight" translation="&lt;font color='accent'&gt;180 Curva a Destra&lt;/font&gt;&#10;Tracciato con supporti che si aggancia alla griglia e si gira a 180 gradi."/>
+		<entry key="TrackElementTool_GridSnapTrack" translation="&lt;font color='accent'&gt;Tracciato agganciato alla griglia&lt;/font&gt;&#10;Descrizione tracciato agganciato alla griglia."/>
+		<entry key="TrackElementTool_GridTrack" translation="&lt;font color='accent'&gt;Tracciato griglia&lt;/font&gt;&#10;Pezzo di tracciato standard che si aggancia alla griglia."/>
+		<entry key="TrackElementTool_SBendLeft" translation="&lt;font color='accent'&gt;Curva a Sinistra ad S&lt;/font&gt;&#10;Tracciato con curva ad S poco profondo con supporti che si agganciano alla griglia."/>
+		<entry key="TrackElementTool_SBendRight" translation="&lt;font color='accent'&gt;Curva a Destra ad S&lt;/font&gt;&#10;Tracciato con curva ad S poco profondo con supporti che si agganciano alla griglia."/>
 		<!--C7_Facilities-->
 		<entry key="BuildingPartDesc_PC_Interactive_Grabber_Machine" translation="Un posto per i tuoi visitatori dove sfidare la sorte e vincere premi.&#10;Piccola Attrazione"/>
 		<entry key="BuildingPartDesc_PC_VendingMachine_CosmicCow" translation="Un distributore che vende bevande di Mucca Cosmica.&#10;Distributore Bevande#10;Vintage Pack"/>
@@ -6046,121 +6046,121 @@
 		<entry key="Research_Hint_ShopsAndFacilities_SmallAttractions" translation="Piccole Attrazioni"/>
 		<entry key="Research_Revealed_ShopsAndFacilities_SmallAttractions" translation="Piccole Attrazioni"/>
 		<!--C7_Scenery-->
-		<entry key="BuildingPartDesc_VT_Begonias" translation="Small flowering plant.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Climbing_Rose_01" translation="A type of rose with long flexible stems that allow it to be trained up structures.&#10;Park."/>
-		<entry key="BuildingPartDesc_VT_Climbing_Rose_02" translation="A type of rose with long flexible stems that allow it to be trained up structures.&#10;Park."/>
-		<entry key="BuildingPartDesc_VT_Climbing_Rose_03" translation="A type of rose with long flexible stems that allow it to be trained up structures.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Dahlias" translation="Perennial plant with large decorative flowers.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_FXBox_Sprinkler_Spray" translation="Sprinkler FX"/>
-		<entry key="BuildingPartDesc_VT_Gladiolus_Round" translation="A clump of flowers with a circular footprint.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Gladiolus_Square" translation="A clump of flowers with a square footprint.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Lit" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;This version of the panel uses the top half of an image."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Unlit" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;This version of the panel uses the top half of an image."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Lit" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Unlit" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Lit" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;This version of the panel uses the bottom half of an image."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Unlit" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;This version of the panel uses the bottom half of an image."/>
-		<entry key="BuildingPartDesc_VT_Narcissus_Round" translation="A clump of flowers with a circular footprint.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Narcissus_Square" translation="A clump of flowers with a square footprint.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Petunias" translation="A flowering plant with different coloured flower heads.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Planter_AngleExt_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_AngleExt_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Corner90oSmooth_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Corner90oSmooth_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Corner90o_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Corner90o_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CornerCurve_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CornerCurve_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CornerRndAngle_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CornerRndAngle_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CornerRnd_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CornerRnd_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CurveExt_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CurveExt_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CurveInt_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_CurveInt_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Edge_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Edge_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_NoEdge_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_NoEdge_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_RndExt_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_RndExt_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_SquareEndCap_Block_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_SquareEndCap_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Thin_2m_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Thin_4m_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Thin_Corner_4m_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Thin_Curve_4m_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Thin_EndCap_Circle_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Planter_Thin_EndCap_Square_ST" translation="Part of the modular planter set."/>
-		<entry key="BuildingPartDesc_VT_Rose_Bush" translation="A large bush of roses&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Set01_2mLrg_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_2mSml_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_4mLrg_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_4mSml_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Lrg_Cnct" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Lrg_Fln" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Lrg_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Lrg_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Sml_Cnct" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Sml_Fln" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Sml_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set01_Sml_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_2mLrg_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_2mSml_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_4mLrg_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_4mSml_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Lrg_Cnctor" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Lrg_Fln" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Lrg_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Lrg_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Sml_Cnctor" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Sml_Fln" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Sml_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set02_Sml_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set03_2m_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set03_4m_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set03_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set03_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set03_ShallowCon" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set03_Sml_Fln" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_2mLrg_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_2mSml_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_4mLrg_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_4mSml_Sup" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Con01" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Con02" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Con03" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Con04" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Lrg_Fln" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Lrg_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Lrg_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Sml_Fot" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_Sml_FotExt" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set04_XBeam" translation="Coaster support piece."/>
-		<entry key="BuildingPartDesc_VT_Set35_Fot" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit."/>
-		<entry key="BuildingPartDesc_VT_Set35_PrimSup_2m" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit.&#10;2m high"/>
-		<entry key="BuildingPartDesc_VT_Set35_PrimSup_4m" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit.&#10;4m high"/>
-		<entry key="BuildingPartDesc_VT_Set35_PrimSup_8m" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit.&#10;8m high"/>
-		<entry key="BuildingPartDesc_VT_Set35_SecSup_2m" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit.&#10;2m long"/>
-		<entry key="BuildingPartDesc_VT_Set35_SecSup_4m" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit.&#10;4m long"/>
-		<entry key="BuildingPartDesc_VT_Set35_SecSup_8m" translation="Part of the Mouse Hunt hoarding set, used to create supports and decoration around wooden coasters.&#10;These pieces have been designed to fit with the Mouse Hunt grid system. Use the grid from the station piece to get a perfect fit.&#10;8m long"/>
-		<entry key="BuildingPartDesc_VT_Sprinkler_Oscillating" translation="Sprinkler for flower beds."/>
-		<entry key="BuildingPartDesc_VT_Sprinkler_Oscillating_90" translation="Sprinkler for flower beds."/>
-		<entry key="BuildingPartDesc_VT_Sprinkler_Rotation" translation="Sprinkler for flower beds."/>
-		<entry key="BuildingPartDesc_VT_Sunflowers" translation="A small clump of Sunflowers.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Sunflowers_01" translation="Tall singular Sunflower.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Sunflowers_02" translation="Tall singular Sunflower.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Tulips_Round" translation="A clump of flowers with a circular footprint.&#10;Park"/>
-		<entry key="BuildingPartDesc_VT_Tulips_Square" translation="A clump of flowers with a square footprint.&#10;Park"/>
-		<entry key="BuildingPartName_VT_Begonias" translation="Begonia Flowers"/>
-		<entry key="BuildingPartName_VT_Climbing_Rose_01" translation="Climbing Roses 1"/>
-		<entry key="BuildingPartName_VT_Climbing_Rose_02" translation="Climbing Roses 2"/>
-		<entry key="BuildingPartName_VT_Climbing_Rose_03" translation="Climbing Roses 3"/>
-		<entry key="BuildingPartName_VT_Dahlias" translation="Dahlia Flowers"/>
-		<entry key="BuildingPartName_VT_FXBox_Sprinkler_Spray" translation="Special Effect - Sprinkler Spray"/>
-		<entry key="BuildingPartName_VT_Gladiolus_Round" translation="Gladiolus Flowers Round"/>
-		<entry key="BuildingPartName_VT_Gladiolus_Square" translation="Gladiolus Flowers Square"/>
+		<entry key="BuildingPartDesc_VT_Begonias" translation="Piccola pianta a fiore.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Climbing_Rose_01" translation="Un esemplare di rosa con lunghi e flessibili steli che le permettono di arrampicarsi alle strutture.&#10;Parco."/>
+		<entry key="BuildingPartDesc_VT_Climbing_Rose_02" translation="Un esemplare di rosa con lunghi e flessibili steli che le permettono di arrampicarsi alle strutture.&#10;Parco."/>
+		<entry key="BuildingPartDesc_VT_Climbing_Rose_03" translation="Un esemplare di rosa con lunghi e flessibili steli che le permettono di arrampicarsi alle strutture.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Dahlias" translation="Pianta perenne con grandi fiori decorativi.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_FXBox_Sprinkler_Spray" translation="Effetto irrigatore"/>
+		<entry key="BuildingPartDesc_VT_Gladiolus_Round" translation="Un mazzo di fiori con una forma circolare.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Gladiolus_Square" translation="Un mazzo di fiori con una forma quadrata.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Lit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà superiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Unlit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà superiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Lit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno"/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Unlit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno"/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Lit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà inferiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Unlit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà inferiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Narcissus_Round" translation="Un mazzo di fiori con una forma circolare.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Narcissus_Square" translation="Un mazzo di fiori con una forma quadrata.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Petunias" translation="Una pianta fiorita con differenti corolle colorate.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Planter_AngleExt_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_AngleExt_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Corner90oSmooth_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Corner90oSmooth_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Corner90o_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Corner90o_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CornerCurve_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CornerCurve_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CornerRndAngle_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CornerRndAngle_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CornerRnd_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CornerRnd_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CurveExt_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CurveExt_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CurveInt_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_CurveInt_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Edge_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Edge_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_NoEdge_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_NoEdge_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_RndExt_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_RndExt_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_SquareEndCap_Block_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_SquareEndCap_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Thin_2m_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Thin_4m_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Thin_Corner_4m_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Thin_Curve_4m_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Thin_EndCap_Circle_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Planter_Thin_EndCap_Square_ST" translation="Parte del set di giardinaggio modulare."/>
+		<entry key="BuildingPartDesc_VT_Rose_Bush" translation="Un grande cespuglio di rose&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Set01_2mLrg_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_2mSml_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_4mLrg_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_4mSml_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Lrg_Cnct" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Lrg_Fln" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Lrg_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Lrg_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Sml_Cnct" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Sml_Fln" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Sml_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set01_Sml_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_2mLrg_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_2mSml_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_4mLrg_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_4mSml_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Lrg_Cnctor" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Lrg_Fln" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Lrg_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Lrg_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Sml_Cnctor" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Sml_Fln" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Sml_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set02_Sml_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set03_2m_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set03_4m_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set03_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set03_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set03_ShallowCon" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set03_Sml_Fln" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_2mLrg_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_2mSml_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_4mLrg_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_4mSml_Sup" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Con01" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Con02" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Con03" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Con04" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Lrg_Fln" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Lrg_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Lrg_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Sml_Fot" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_Sml_FotExt" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set04_XBeam" translation="Elemento di supporto per Coaster."/>
+		<entry key="BuildingPartDesc_VT_Set35_Fot" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta."/>
+		<entry key="BuildingPartDesc_VT_Set35_PrimSup_2m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;alto 2m"/>
+		<entry key="BuildingPartDesc_VT_Set35_PrimSup_4m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;alto 4m"/>
+		<entry key="BuildingPartDesc_VT_Set35_PrimSup_8m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta&#10;alto 8m"/>
+		<entry key="BuildingPartDesc_VT_Set35_SecSup_2m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 2m"/>
+		<entry key="BuildingPartDesc_VT_Set35_SecSup_4m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 4m"/>
+		<entry key="BuildingPartDesc_VT_Set35_SecSup_8m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 8m"/>
+		<entry key="BuildingPartDesc_VT_Sprinkler_Oscillating" translation="Irrigatore per manti fioriti."/>
+		<entry key="BuildingPartDesc_VT_Sprinkler_Oscillating_90" translation="Irrigatore per manti fioriti."/>
+		<entry key="BuildingPartDesc_VT_Sprinkler_Rotation" translation="Irrigatore per manti fioriti."/>
+		<entry key="BuildingPartDesc_VT_Sunflowers" translation="Un piccolo mazzo di Girasoli .&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Sunflowers_01" translation="Girasole alto singolo.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Sunflowers_02" translation="Girasole alto singolo.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Tulips_Round" translation="Un mazzo di fiori con una forma circolare.&#10;Parco"/>
+		<entry key="BuildingPartDesc_VT_Tulips_Square" translation="Un mazzo di fiori con una forma quadrata.&#10;Parco"/>
+		<entry key="BuildingPartName_VT_Begonias" translation="Fiori di Begonia"/>
+		<entry key="BuildingPartName_VT_Climbing_Rose_01" translation="Rose rampicanti 1"/>
+		<entry key="BuildingPartName_VT_Climbing_Rose_02" translation="Rose rampicanti 2"/>
+		<entry key="BuildingPartName_VT_Climbing_Rose_03" translation="Rose rampicanti 3"/>
+		<entry key="BuildingPartName_VT_Dahlias" translation="Fiori di Dahlia"/>
+		<entry key="BuildingPartName_VT_FXBox_Sprinkler_Spray" translation="Effetto Speciale - Spruzzo di irrigatore"/>
+		<entry key="BuildingPartName_VT_Gladiolus_Round" translation="Cerchio di Fiori di Gladiolo"/>
+		<entry key="BuildingPartName_VT_Gladiolus_Square" translation="Quadrato di Fiori di Gladiolo"/>
 		<entry key="BuildingPartName_VT_Hoarding_Alt_Lit" translation="Mouse Hunt Hoarding Panel Top Lit"/>
 		<entry key="BuildingPartName_VT_Hoarding_Alt_Unlit" translation="Mouse Hunt Hoarding Panel Top"/>
 		<entry key="BuildingPartName_VT_Hoarding_Corner_Lit" translation="Mouse Hunt Hoarding Panel Corner Lit"/>
@@ -6620,7 +6620,7 @@
 		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Velocità Scorrimento al Bordo"/>
 		<entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Muove la visuale quando il mouse è al bordo dello schermo."/>
 		<entry key="CameraOptionsMenu_FreelookToggle" translation="Visuale Libera"/>
-		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Muovi la visuale liberamente per il parco. Utile in zone strette o per fare screenshot.&#10;&#10;Puoi attivarla premendo [{#LogicalButton.GameCamera_FreelookMode#}] in gioco.&#10;&#10;[{#LogicalButton.GameCamera_RotateLeft#}] e [{#LogicalButton.GameCamera_RotateRight#}] muoveranno la camera in sù e in giù."/>
+		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Muovi la visuale liberamente per il parco. Utile in zone strette o per fare screenshot.&#10;&#10;Puoi attivarla premendo [{#LogicalButton.GameCamera_FreelookMode#}] in gioco.&#10;&#10;[{#LogicalButton.GameCamera_RotateLeft#}] e [{#LogicalButton.GameCamera_RotateRight#}] muoveranno la visuale in sù e in giù."/>
 		<entry key="CameraOptionsMenu_InvertY" translation="Inverti asse Y"/>
 		<entry key="CameraOptionsMenu_InvertY_ToolTip" translation="Inverte l'asse Y della visuale in Visuale Libera e sulle attrazioni."/>
 		<entry key="CameraOptionsMenu_MiscLabel" translation="Comportamento Visuale"/>
@@ -7643,8 +7643,8 @@
 		<entry key="FrontEndMenu_TerrainPaintTooltip_Steep" translation="Ripido"/>
 		<entry key="FrontEndMenu_TestDetails" translation="Divertiti nel fantastico mondo di Planet Coaster, scopri le possibilità illimitate e costruisci il tuo parco."/>
 		<entry key="FrontEndMenu_TestSaveName" translation="Carica Parco"/>
-		<entry key="FrontEndMenu_ThemeMakerDescr" translation="Convert your 3D model creations into Planet Coaster scenery items!"/>
-		<entry key="FrontEndMenu_ThemeMakerUpload" translation="Create"/>
+		<entry key="FrontEndMenu_ThemeMakerDescr" translation="Converti i tuoi modelli 3D in elementi scenario per Planet Coaster!"/>
+		<entry key="FrontEndMenu_ThemeMakerUpload" translation="Crea"/>
 		<entry key="FrontEndMenu_Tooltip_Offline" translation="Sei Offline!"/>
 		<entry key="FrontEndMenu_TrendingUploads" translation="Uploads di tendenza"/>
 		<entry key="FrontEndMenu_Tropical" translation="Tropicale"/>
@@ -7671,8 +7671,8 @@
 		<entry key="FrontEndMenu_VIPEditor_InfoTitle" translation="Crea il tuo Biglietto VIP Singolo!"/>
 		<entry key="FrontEndMenu_ViewInDownloads" translation="Guarda in Downloads"/>
 		<entry key="FrontEndMenu_ViewInWorkshop" translation="Guarda in Workshop"/>
-		<entry key="FrontEndMenu_ViewSteamProfile" translation="Guarda tutti gli Upload"/>
-		<entry key="FrontEndMenu_ViewWeGameProfile" translation="View All Uploads"/>
+		<entry key="FrontEndMenu_ViewSteamProfile" translation="Guarda tutti gli Uploads"/>
+		<entry key="FrontEndMenu_ViewWeGameProfile" translation="Guarda tutti gli Uploads"/>
 		<entry key="FrontEndMenu_VisitPark" translation="Visita Parco"/>
 		<entry key="FrontEndMenu_Visitors" translation="Visitatori"/>
 		<entry key="FrontEndMenu_Welcome" translation="Benvenuto!"/>
@@ -7836,11 +7836,11 @@
 		<entry key="MiscPopup_Title_Mixed" translation="Contenuto Utente Mancante"/>
 		<entry key="MiscPopup_Title_Texture" translation="Texture Utente Mancante"/>
 		<entry key="ObjectBrowser_BlueprintBuyNow" translation="Compra contenuto progetto non posseduto"/>
-		<entry key="ObjectBrowser_Blueprints_UGCNotUploaded" translation="Cannot upload a blueprint containing local Toolkit items."/>
+		<entry key="ObjectBrowser_Blueprints_UGCNotUploaded" translation="Non è possibile caricare un progetto che contiene elementi locali del Toolkit."/>
 		<entry key="ObjectBrowser_BuyNowTooltip" translation="Compra ora nel {PackName} pack"/>
 		<entry key="ObjectBrowser_DLCFilterLabel" translation="Oggetti DLC"/>
 		<entry key="ObjectBrowser_DLCFilterTooltip" translation="Disattiva oggetti DLC non acquistati"/>
-		<entry key="ObjectBrowser_UGCRefreshTooltip" translation="Refresh local Thememaker's Toolkit items"/>
+		<entry key="ObjectBrowser_UGCRefreshTooltip" translation="Ricarica gli elementi locali del Thememaker's Toolkit"/>
 		<entry key="Obstructed" translation="Bloccato"/>
 		<entry key="Ok" translation="Ok"/>
 		<entry key="OnLoadPopup_body" translation="Questo parco contiene DLC che non possiedi. Non puoi salvare le modifiche a questo parco."/>
@@ -7852,10 +7852,10 @@
 		<entry key="OptionsMenu_DLCLabel" translation="Ti manca il DLC necessario a salvare questo parco!"/>
 		<entry key="OptionsMenu_DLCTitle" translation="DLC Richiesto"/>
 		<entry key="PERCENTAGE" translation="{Value:float:decimalPlaces=0}%"/>
-		<entry key="Prompt_Subscribe" translation="Subscribe"/>
-		<entry key="Prompt_UGCBuildFailed" translation="Build Failed"/>
-		<entry key="Prompt_UGCBuildReady" translation="Build Ready!"/>
-		<entry key="Prompt_ViewUGCRequest" translation="View"/>
+		<entry key="Prompt_Subscribe" translation="Sottoscrivi"/>
+		<entry key="Prompt_UGCBuildFailed" translation="Costruzione fallita"/>
+		<entry key="Prompt_UGCBuildReady" translation="Costruzione pronta!"/>
+		<entry key="Prompt_ViewUGCRequest" translation="Vedi"/>
 		<entry key="Redo" translation="Ripeti"/>
 		<entry key="Refurbishing" translation="Rinnovando"/>
 		<entry key="SECOND" translation="{Value:float:decimalPlaces=0} s"/>
@@ -14920,7 +14920,7 @@
 		<entry key="InfoPanel_Ride_ToolTipWithErrors_1" translation="{toolTip}&#10;{error1}"/>
 		<entry key="InfoPanel_Ride_Tooltip_ExitRideCam" translation="Abbandona Telecamera"/>
 		<entry key="InfoPanel_Ride_Tooltip_Parent" translation="Seleziona attrazione"/>
-		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Telecamera attrazione"/>
+		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Visuale attrazione"/>
 		<entry key="InfoPanel_Ride_TriggerBreakdown_Tooltip" translation="L'attrazione si guasterà alla prossima occasione."/>
 		<entry key="InfoPanel_Ride_Type" translation="Tipo di attrazione"/>
 		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
@@ -14974,7 +14974,7 @@
 		<entry key="InfoPanel_Staff_Rehire_Description" translation="Puoi scegliere di riassumere un membro dello staff, se lo stipendio di questo membro è più basso del livello di salario suggerito dalle sue abilità e le aspettative di paga per quel tipo di lavoro, sarà aggiornato alla sua riassunzione."/>
 		<entry key="InfoPanel_Staff_Rehire_Label" translation="{Name} si è licenziato"/>
 		<entry key="InfoPanel_Staff_Rehire_Label_Fired" translation="{Name} è stato licenziato"/>
-		<entry key="InfoPanel_Staff_RideCam" translation="Camera Staff"/>
+		<entry key="InfoPanel_Staff_RideCam" translation="Visuale Staff"/>
 		<entry key="InfoPanel_Staff_Salary" translation="Stipendio"/>
 		<entry key="InfoPanel_Staff_ScheduledLevelUp" translation="Formazione già programmata"/>
 		<entry key="InfoPanel_Staff_ScheduledLevelUpTooltip" translation="This staff member has already been scheduled to be trained and will do so the next time they rest in a staff building"/>
@@ -15175,12 +15175,12 @@
 		<entry key="LoadingScreen_Input_MouseButtonMiddle" translation="click-centrale"/>
 		<entry key="LoadingScreen_Input_MouseButtonRight" translation="click-destro"/>
 		<entry key="LoadingScreen_Loading" translation="Caricamento..."/>
-		<entry key="LoadingScreen_Tooltip_1" translation="Sentieri più larghi ridurranno l'ammassarsi della folla"/>
-		<entry key="LoadingScreen_Tooltip_10" translation="Le Decorazioni si possono essere aggiungere su quasi tutte le superfici, non solo sui muri"/>
+		<entry key="LoadingScreen_Tooltip_1" translation="Sentieri più larghi ridurranno l'accalcarsi della folla"/>
+		<entry key="LoadingScreen_Tooltip_10" translation="Le Decorazioni si possono aggiungere su quasi tutte le superfici, non solo sui muri"/>
 		<entry key="LoadingScreen_Tooltip_11" translation="Puoi tenere premuto {#LogicalButton.MouseMiddle#} per guardarti attorno in alcune visuali dell'Attrazione"/>
 		<entry key="LoadingScreen_Tooltip_12" translation="I pulsanti per la visuale nello strumento Sentieri ti aiuteranno a creare percorsi migliori e più velocemente"/>
 		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve secche o morbide"/>
-		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Camera Attrazione per vivere l'esperienza da prospettive diverse"/>
+		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Visuale Attrazione per vivere l'esperienza da prospettive diverse"/>
 		<entry key="LoadingScreen_Tooltip_15" translation="Puoi premere '{#LogicalButton.GameCamera_FreelookMode#}' per attivare o disattivare la visuale libera"/>
 		<entry key="LoadingScreen_Tooltip_16" translation="Puoi rifare ogni azione utilizzando {#LogicalButton.Editors_Redo#}"/>
 		<entry key="LoadingScreen_Tooltip_17" translation="Quando si costruiscono i Sentieri, tieni premuto '{#LogicalButton.Editors_PathYJunctionModifier#}' per creare giunzioni ad angolo o congiungerli a sentieri con angoli più acuti"/>
@@ -15199,7 +15199,7 @@
 		<entry key="LoadingScreen_Tooltip_29" translation="La Selezione Multipla ti permette di selezionare più oggetti da salvare come progetto"/>
 		<entry key="LoadingScreen_Tooltip_3" translation="Puoi regolare le impostazioni della visuale dal Menù Impostazioni"/>
 		<entry key="LoadingScreen_Tooltip_31" translation="Mentre modifichi una struttura, puoi usare lo strumenti Dividi per crearne una nuova dalla tua selezione"/>
-		<entry key="LoadingScreen_Tooltip_32" translation="Puoi scaricare nuovi Progetti dallo Steam Workshop"/>
+		<entry key="LoadingScreen_Tooltip_32" translation="Puoi scaricare nuovi Progetti dal Workshop di Steam"/>
 		<entry key="LoadingScreen_Tooltip_34" translation="Il Menù Impostazioni di una struttura ti permette di modificare la griglia su cui lavori"/>
 		<entry key="LoadingScreen_Tooltip_35" translation="Puoi allineare i sentieri ad una griglia usando lo strumento Griglia nelle Impostazioni Sentiero"/>
 		<entry key="LoadingScreen_Tooltip_36" translation="Puoi cambiare il prezzo di un'Attrazione nella sezione Economia"/>
@@ -15219,7 +15219,7 @@
 		<entry key="LoadingScreen_Tooltip_49" translation="Le Montagne Russe devono completare un Test prima che i visitatori possano salirci"/>
 		<entry key="LoadingScreen_Tooltip_5" translation="Il tasto Duplica clonerà un oggetto o una struttura"/>
 		<entry key="LoadingScreen_Tooltip_50" translation="Le Montagne Russe migliori mettono un pò di paura, ma non troppa!"/>
-		<entry key="LoadingScreen_Tooltip_51" translation="When editing paths you can hold {#LogicalButton.Editors_PathDeleteModifier#} and {#LogicalButton.MouseLeft#} and drag to delete any path under the mouse cursor"/>
+		<entry key="LoadingScreen_Tooltip_51" translation="Quando si modificano i sentieri puoi tenere premuto {#LogicalButton.Editors_PathDeleteModifier#} e {#LogicalButton.MouseLeft#} per selezionare e cancellare ogni tratto sotto il cursore del mouse"/>
 		<entry key="LoadingScreen_Tooltip_6" translation="I muri si auto-allineano durante la costruzione. Disattiva quest'opzione per un controllo più preciso"/>
 		<entry key="LoadingScreen_Tooltip_7" translation="Puoi tener premuto '{#LogicalButton.Editors_UpwardPlacementModifier#}' mentre costruisci, per sollevare la maggior parte degli oggetti"/>
 		<entry key="LoadingScreen_Tooltip_8" translation="Le entrate per le attrazioni possono essere decorate come le strutture"/>
@@ -15806,18 +15806,18 @@
 		<entry key="Notification_VandalismWitnessed" translation="E' stato segnalato un atto di vandalismo."/>
 		<entry key="Notification_VandalismWitnessedStacked" translation="Sono stati segnalati molti atti di vandalismo."/>
 		<!--ObjectBrowser-->
-		<entry key="ObjectBrowser_AddTag" translation="Add new tag"/>
+		<entry key="ObjectBrowser_AddTag" translation="Aggiungi nuova etichetta"/>
 		<entry key="ObjectBrowser_AdvancedSettings" translation="Impostazioni avanzate"/>
 		<entry key="ObjectBrowser_All" translation="Tutte"/>
 		<entry key="ObjectBrowser_Amusements" translation="Divertimenti"/>
 		<entry key="ObjectBrowser_AngleSnap_Tooltip" translation="Fissa la rotazione su determinati angoli"/>
-		<entry key="ObjectBrowser_ApplyCustomTags" translation="Add existing tag"/>
+		<entry key="ObjectBrowser_ApplyCustomTags" translation="Aggiungi etichetta esistente"/>
 		<entry key="ObjectBrowser_Ascending" translation="Ascendente"/>
 		<entry key="ObjectBrowser_Blueprint_Description" translation="{DESC}"/>
 		<entry key="ObjectBrowser_Blueprint_Title" translation="{NAME}"/>
 		<entry key="ObjectBrowser_Blueprints_AllBlueprints" translation="Tutti i Progetti"/>
 		<entry key="ObjectBrowser_Blueprints_DeleteItem" translation="Cancella Progetti Recenti"/>
-		<entry key="ObjectBrowser_Blueprints_FavouriteBlueprints" translation="Favourite Blueprints"/>
+		<entry key="ObjectBrowser_Blueprints_FavouriteBlueprints" translation="Progetti Preferiti"/>
 		<entry key="ObjectBrowser_Blueprints_RecentBlueprints" translation="Progetti Recenti"/>
 		<entry key="ObjectBrowser_Category_Blueprint" translation="Progetti"/>
 		<entry key="ObjectBrowser_Category_BreadCrumb" translation="{CATEGORY} -"/>
@@ -15838,12 +15838,12 @@
 		<entry key="ObjectBrowser_Coaster_SteelPoweredLaunch" translation="Lanciata"/>
 		<entry key="ObjectBrowser_Coaster_SteelWing" translation="Alata"/>
 		<entry key="ObjectBrowser_Coaster_WoodenParent" translation="Montagne Russe di Legno"/>
-		<entry key="ObjectBrowser_CustomTagCategory" translation="Custom Tags"/>
-		<entry key="ObjectBrowser_DeleteCustomTag_Amount_MultipleItems" translation="applied to {Count:int} items"/>
-		<entry key="ObjectBrowser_DeleteCustomTag_Amount_NoItems" translation="not applied to any items"/>
-		<entry key="ObjectBrowser_DeleteCustomTag_Amount_SingleItem" translation="applied to 1 item"/>
-		<entry key="ObjectBrowser_DeleteCustomTag_Body" translation="The tag &quot;{Name}&quot; is {Amount}.&#10;Do you wish to continue?"/>
-		<entry key="ObjectBrowser_DeleteCustomTag_Title" translation="Delete Tag?"/>
+		<entry key="ObjectBrowser_CustomTagCategory" translation="Etichette Personalizzate"/>
+		<entry key="ObjectBrowser_DeleteCustomTag_Amount_MultipleItems" translation="riferito a {Count:int} elementi"/>
+		<entry key="ObjectBrowser_DeleteCustomTag_Amount_NoItems" translation="non riferito a nessun elemento"/>
+		<entry key="ObjectBrowser_DeleteCustomTag_Amount_SingleItem" translation="riferito a 1 elemento"/>
+		<entry key="ObjectBrowser_DeleteCustomTag_Body" translation="L'etichetta &quot;{Name}&quot;è {Amount}.&#10;Vuoi continuare?"/>
+		<entry key="ObjectBrowser_DeleteCustomTag_Title" translation="Cancella etichetta?"/>
 		<entry key="ObjectBrowser_Descending" translation="Discendente"/>
 		<entry key="ObjectBrowser_Drink" translation="Chiosco di bibite"/>
 		<entry key="ObjectBrowser_EFN_EmptyLabel" translation="-"/>
@@ -15853,19 +15853,19 @@
 		<entry key="ObjectBrowser_EFN_Nausea_ToolTip" translation="Nausea"/>
 		<entry key="ObjectBrowser_EmptyBrowser_NoFilters" translation="Nessun elemento"/>
 		<entry key="ObjectBrowser_EmptyBrowser_NoneResearched" translation="Nessun oggetto ricercato"/>
-		<entry key="ObjectBrowser_EmptyBrowser_Refreshing" translation="Refreshing Items"/>
-		<entry key="ObjectBrowser_EmptyBrowser_RefreshingTracking" translation="Refreshing Items: {Count:int} of {Total:int}"/>
+		<entry key="ObjectBrowser_EmptyBrowser_Refreshing" translation="Ricaricando elementi"/>
+		<entry key="ObjectBrowser_EmptyBrowser_RefreshingTracking" translation="Ricaricando elementi: {Count:int} di {Total:int}"/>
 		<entry key="ObjectBrowser_EmptyBrowser_Search" translation="Nessun oggetto corrisponde a quanto cercato"/>
 		<entry key="ObjectBrowser_EmptyBrowser_SearchAndTags" translation="Nessun oggetto corrisponde a quanto cercato e ai filtri"/>
-		<entry key="ObjectBrowser_EmptyBrowser_Searching" translation="Searching For Items"/>
+		<entry key="ObjectBrowser_EmptyBrowser_Searching" translation="Ricerca elementi"/>
 		<entry key="ObjectBrowser_EmptyBrowser_Tags" translation="Nessun oggetto corrisponde ai filtri"/>
 		<entry key="ObjectBrowser_EmptySearch" translation="Scrivi per cercare"/>
 		<entry key="ObjectBrowser_Excitement" translation="Eccitazione"/>
 		<entry key="ObjectBrowser_Facility" translation="Strutture"/>
-		<entry key="ObjectBrowser_Favourites" translation="Favourites"/>
+		<entry key="ObjectBrowser_Favourites" translation="Preferiti"/>
 		<entry key="ObjectBrowser_Fear" translation="Paura"/>
 		<entry key="ObjectBrowser_FilterAccept" translation="Applica"/>
-		<entry key="ObjectBrowser_FilterActiveTitle" translation="Active Filters"/>
+		<entry key="ObjectBrowser_FilterActiveTitle" translation="Filtri Attivi"/>
 		<entry key="ObjectBrowser_FilterButton" translation="Filtra per gruppo"/>
 		<entry key="ObjectBrowser_FilterButtonOn" translation="Filtro Attivo"/>
 		<entry key="ObjectBrowser_FilterDatabase" translation="Frontier"/>
@@ -15875,7 +15875,7 @@
 		<entry key="ObjectBrowser_FilterReset" translation="Mostra tutti i gruppi"/>
 		<entry key="ObjectBrowser_FilterScifi" translation="Sci-Fi"/>
 		<entry key="ObjectBrowser_FilterSource" translation="Origine"/>
-		<entry key="ObjectBrowser_FilterTags" translation="Tags"/>
+		<entry key="ObjectBrowser_FilterTags" translation="Etichette"/>
 		<entry key="ObjectBrowser_FilterTheme" translation="Scenografie"/>
 		<entry key="ObjectBrowser_FilterTitle" translation="Filtra per gruppo"/>
 		<entry key="ObjectBrowser_FilterWestern" translation="Western"/>
@@ -15898,12 +15898,12 @@
 		<entry key="ObjectBrowser_HelpLabel_Shops" translation="Clicca su un negozio per iniziare a costruirne nel tuo parco."/>
 		<entry key="ObjectBrowser_HelpLabel_Staff" translation="Clicca su un membro dello staff per aggiungerlo al parco"/>
 		<entry key="ObjectBrowser_HelpLabel_TrackedRides" translation="Clicca su un Circuito per posizionarlo nel tuo parco, o costruiscine uno dalla scheda Personalizzato."/>
-		<entry key="ObjectBrowser_HelpLabel_UGC" translation="Subscribe to Thememaker's Toolkit items on Steam Workshop!"/>
+		<entry key="ObjectBrowser_HelpLabel_UGC" translation="Sottoscrivi agli oggetti del Thememaker's Toolkit sul Workshop di Steam!"/>
 		<entry key="ObjectBrowser_Info" translation="Info"/>
 		<entry key="ObjectBrowser_InfoItem_Author" translation="Autore"/>
 		<entry key="ObjectBrowser_InfoItem_Description" translation="Descrizione"/>
 		<entry key="ObjectBrowser_Nausea" translation="Nausea"/>
-		<entry key="ObjectBrowser_NoCustomTagsAvailable" translation="You currently do not have any custom tags to apply. Please use the add tag option in the Filter Menu to make new tags."/>
+		<entry key="ObjectBrowser_NoCustomTagsAvailable" translation="Al momento non hai etichette personalizzate da applicare. Utlizza la funzione Aggiungi Etichetta nel Menu Filtri per creare nuove etichette."/>
 		<entry key="ObjectBrowser_Overview" translation="Panoramica"/>
 		<entry key="ObjectBrowser_Powered" translation="Attrazioni a motore"/>
 		<entry key="ObjectBrowser_PriceHigh" translation="Prezzo Alto"/>
@@ -15911,8 +15911,8 @@
 		<entry key="ObjectBrowser_Recent" translation="Recenti"/>
 		<entry key="ObjectBrowser_Scenery_AddToBuilding" translation="Aggiungi alla costruzione"/>
 		<entry key="ObjectBrowser_Scenery_AddToBuildingHint" translation="Aggiungi un oggetto ad una costruzione esistente"/>
-		<entry key="ObjectBrowser_Scenery_AdvancedMove" translation="Advanced Move"/>
-		<entry key="ObjectBrowser_Scenery_AdvancedMove_Tooltip" translation="Press X to enable advanced move"/>
+		<entry key="ObjectBrowser_Scenery_AdvancedMove" translation="Movimenti Avanzati"/>
+		<entry key="ObjectBrowser_Scenery_AdvancedMove_Tooltip" translation="Premi X per attivare i movimenti avanzati"/>
 		<entry key="ObjectBrowser_Scenery_AlignSurface" translation="Allinea alla superfice/Aggiungi alla costruzione"/>
 		<entry key="ObjectBrowser_Scenery_AlignSurfaceHint" translation="Ruota gli oggetti basandoti sugli oggetti sottostanti e il terreno"/>
 		<entry key="ObjectBrowser_Scenery_AutoStack" translation="Impilamento automatico"/>
@@ -15959,8 +15959,8 @@
 		<entry key="ObjectBrowser_Track_MaxDropAngle" translation="Angolo di caduta massima"/>
 		<entry key="ObjectBrowser_Track_MaxInclineAngle" translation="Angolo di inclinazione massima"/>
 		<entry key="ObjectBrowser_Track_MaxTrackHeight" translation="Altezza massima del tracciato"/>
-		<entry key="ObjectBrowser_Track_MaxTrackLength" translation="Max Track Length"/>
-		<entry key="ObjectBrowser_Track_MinTrackLength" translation="Min Track Length"/>
+		<entry key="ObjectBrowser_Track_MaxTrackLength" translation="Lunghezza Massima tracciato"/>
+		<entry key="ObjectBrowser_Track_MinTrackLength" translation="Lunghezza Minima tracciato"/>
 		<entry key="ObjectBrowser_Transport" translation="Trasporti"/>
 		<entry key="ObjectBrowser_Type" translation="Tipologia"/>
 		<entry key="ObjectBrowser_Water" translation="Attrazioni Acquatiche"/>
@@ -16003,7 +16003,7 @@
 		<entry key="OptionsMenu_Camera_Speed_Slow" translation="Lenta"/>
 		<entry key="OptionsMenu_Camera_Up" translation="Visuale su"/>
 		<entry key="OptionsMenu_Camera_WheelSensitivity" translation="Sensibilità Rotella"/>
-		<entry key="OptionsMenu_CannotChangeSettingBecauseOfScenarioParameter" translation="Cannot change in this scenario"/>
+		<entry key="OptionsMenu_CannotChangeSettingBecauseOfScenarioParameter" translation="Non si può modificare in questo scenario"/>
 		<entry key="OptionsMenu_ColorPickerPreview" translation="Anteprima"/>
 		<entry key="OptionsMenu_ColorPickerTitle" translation="Colore Interfaccia"/>
 		<entry key="OptionsMenu_Controls" translation="Controlli"/>
@@ -16075,8 +16075,8 @@
 		<entry key="OptionsMenu_Controls_General_Command_13b" translation="Duplica e Sposta/Ruota Avanzato"/>
 		<entry key="OptionsMenu_Controls_General_Command_14" translation="Sposta Selezione"/>
 		<entry key="OptionsMenu_Controls_General_Command_15" translation="Modifica Edificio"/>
-		<entry key="OptionsMenu_Controls_General_Command_16" translation="Focus Camera"/>
-		<entry key="OptionsMenu_Controls_General_Command_17" translation="Camera Torch"/>
+		<entry key="OptionsMenu_Controls_General_Command_16" translation="Centra Visuale"/>
+		<entry key="OptionsMenu_Controls_General_Command_17" translation="Luce Visuale"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickLoad" translation="Apri Menu Caricamento"/>
 		<entry key="OptionsMenu_Controls_General_Command_QuickSave" translation="Apri Menu Salvataggio"/>
 		<entry key="OptionsMenu_Controls_Menu" translation="Scorciatoie Menù"/>
@@ -16197,7 +16197,7 @@
 		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Dimensione Interfaccia"/>
 		<entry key="OptionsMenu_InterfaceScale_Tooltip" translation="Ingrandire oltre il 100% è raccomandato solo per l'uso con schermi ad alta risoluzione (1440p / 4K). Potrebbe causare problemi di visibilità dell'interfaccia a risoluzioni più basse."/>
 		<entry key="OptionsMenu_InterfaceSpeedFS" translation="Piedi al secondo (ft/s)"/>
-		<entry key="OptionsMenu_InterfaceSpeedKPH" translation="Kilometri all'ora (kmh)"/>
+		<entry key="OptionsMenu_InterfaceSpeedKPH" translation="Chilometri all'ora (kmh)"/>
 		<entry key="OptionsMenu_InterfaceSpeedMPH" translation="Miglia all'ora (mph)"/>
 		<entry key="OptionsMenu_InterfaceSpeedMS" translation="Metri al secondo (m/s)"/>
 		<entry key="OptionsMenu_InterfaceSpeedUnit" translation="Unità di Misura Velocità"/>
@@ -21718,10 +21718,10 @@
 		<entry key="PathEdit_Title" translation="Editor percorso"/>
 		<entry key="PathEdit_ToggleSupports" translation="Supporti percorso"/>
 		<entry key="PathEdit_ToolTipDeleteMode" translation="Quando è attivo clicca e trascina per cancellare il percorso"/>
-		<entry key="PathEdit_ToolTipFollowRotate" translation="La videocamera seguirà e ruoterà"/>
-		<entry key="PathEdit_ToolTipNoFollow" translation="La videocamera si muoverà liberamente"/>
-		<entry key="PathEdit_ToolTipNudge" translation="La videocamerà seguirà"/>
-		<entry key="PathEdit_ToolTipNudgeJump" translation="La videocamera seguirà e si centrerà"/>
+		<entry key="PathEdit_ToolTipFollowRotate" translation="La visuale seguirà e ruoterà"/>
+		<entry key="PathEdit_ToolTipNoFollow" translation="La visuale si muoverà liberamente"/>
+		<entry key="PathEdit_ToolTipNudge" translation="La visuale seguirà"/>
+		<entry key="PathEdit_ToolTipNudgeJump" translation="La visuale seguirà e si centrerà"/>
 		<entry key="PathEdit_Tunnel" translation="Traforo"/>
 		<entry key="PathEdit_Turn" translation="Gira"/>
 		<entry key="PathEdit_Undo" translation="Annullare ultima azione"/>
@@ -22106,11 +22106,11 @@
 		<entry key="Research_Type_TrackedRideGroup" translation="Track Rides"/>
 		<entry key="Research_Type_WoodenCoaster" translation="Coaster di Legno"/>
 		<!--RideCam-->
-		<entry key="RideCam_Boat" translation="Boat"/>
+		<entry key="RideCam_Boat" translation="Barca"/>
 		<entry key="RideCam_Bus" translation="Bus"/>
 		<entry key="RideCam_Cabin" translation="Cabina"/>
 		<entry key="RideCam_CabinOrbit" translation="Visuale esterna"/>
-		<entry key="RideCam_Camera" translation="Camera"/>
+		<entry key="RideCam_Camera" translation="Visuale"/>
 		<entry key="RideCam_Car" translation="Vagone"/>
 		<entry key="RideCam_CarFrontBumper" translation="Paraurti anteriore"/>
 		<entry key="RideCam_CarFrontLook" translation="Visuale centrale"/>
@@ -22120,24 +22120,24 @@
 		<entry key="RideCam_CinematicCabin" translation="Cinematica Cabina"/>
 		<entry key="RideCam_CinematicTrack" translation="Cinematica tracciato"/>
 		<entry key="RideCam_Derail" translation="Scontro"/>
-		<entry key="RideCam_DisplayCamera" translation="Mostra Camera"/>
+		<entry key="RideCam_DisplayCamera" translation="Mostra Visuale"/>
 		<entry key="RideCam_FirstPerson" translation="Prima persona"/>
 		<entry key="RideCam_Guest" translation="Visitatore"/>
-		<entry key="RideCam_GuestCamera" translation="Camera visitatore"/>
-		<entry key="RideCam_GuestPOV" translation="Visuale visitatore"/>
+		<entry key="RideCam_GuestCamera" translation="Visuale visitatore"/>
+		<entry key="RideCam_GuestPOV" translation="Punto di vista visitatore"/>
 		<entry key="RideCam_Interest" translation="Visuali fisse"/>
 		<entry key="RideCam_Kart" translation="Kart"/>
 		<entry key="RideCam_LookAtCabin" translation="Cabina opposta"/>
 		<entry key="RideCam_LookAtGuest" translation="Visuale frontale"/>
 		<entry key="RideCam_NumberedCamera" translation="{Name} - {Number:int}"/>
 		<entry key="RideCam_Orbit" translation="Visuale aerea"/>
-		<entry key="RideCam_Raft" translation="Raft"/>
-		<entry key="RideCam_RideCamera" translation="Camera Attrazione"/>
+		<entry key="RideCam_Raft" translation="Zattera"/>
+		<entry key="RideCam_RideCamera" translation="Visuale Attrazione"/>
 		<entry key="RideCam_Row" translation="Fila"/>
 		<entry key="RideCam_Seat" translation="Sedile"/>
 		<entry key="RideCam_ShowTestResults" translation="Risultati Test"/>
 		<entry key="RideCam_Side" translation="Lato"/>
-		<entry key="RideCam_Sleigh" translation="Sleigh"/>
+		<entry key="RideCam_Sleigh" translation="Slitta"/>
 		<entry key="RideCam_ThirdPerson" translation="Terza persona"/>
 		<entry key="RideCam_Train" translation="Treno"/>
 		<entry key="RideCam_Wing" translation="Visuale laterale"/>
@@ -27248,15 +27248,15 @@
 		<entry key="TriggeredSFX_Whoosh_Heading" translation="Whoosh"/>
 		<entry key="TriggeredSFX_WorldFair_Heading" translation="World's Fair"/>
 		<!--UserScenery-->
-		<entry key="Browser_Category_UGC" translation="Thememaker's Toolkit Items"/>
+		<entry key="Browser_Category_UGC" translation="Elementi del Thememaker's Toolkit"/>
 		<entry key="No" translation="No"/>
-		<entry key="UserScenery_ButtonCreateWorkshopItem" translation="Create Workshop Item"/>
-		<entry key="UserScenery_ButtonNext" translation="Next"/>
-		<entry key="UserScenery_ButtonPrevious" translation="Previous"/>
-		<entry key="UserScenery_ButtonUpdateWorkshopItem" translation="Update Workshop Item"/>
-		<entry key="UserScenery_CannotUploadItem" translation="Cannot upload this Toolkit item"/>
+		<entry key="UserScenery_ButtonCreateWorkshopItem" translation="Crea elementi per Workshop"/>
+		<entry key="UserScenery_ButtonNext" translation="Successivo"/>
+		<entry key="UserScenery_ButtonPrevious" translation="Precedente"/>
+		<entry key="UserScenery_ButtonUpdateWorkshopItem" translation="Aggiorna elemento per Workshop"/>
+		<entry key="UserScenery_CannotUploadItem" translation="Non è possibile caricare questo elemento Toolkit"/>
 		<entry key="UserScenery_CannotUploadItemMessage" translation="The file for this local Thememaker's Toolkit item cannot be found. Check that it is still in your TMT folder."/>
-		<entry key="UserScenery_ChooseWorkshopDescription" translation="My Thememaker's Toolkit Workshop items"/>
+		<entry key="UserScenery_ChooseWorkshopDescription" translation="I miei elementi del Workshop Thememaker's Toolkit"/>
 		<entry key="UserScenery_DownloadFailed" translation="Content subscription failed"/>
 		<entry key="UserScenery_DownloadFailed_Body" translation="One or more items failed to download. Were they deleted from Steam?"/>
 		<entry key="UserScenery_DownloadPrompt_BlueprintBody" translation="This blueprint contains Toolkit items you haven't downloaded. You can either load the blueprint with these items missing or download them all from the Steam Workshop"/>
