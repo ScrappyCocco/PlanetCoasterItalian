@@ -1468,7 +1468,7 @@
 		<entry key="BuildingPartName_PC_Merge_Wall_Slope_1m" translation="Muro di Pannelli 1m Inclinato"/>
 		<entry key="BuildingPartName_PC_Merge_Wall_Slope_2m" translation="Muro di Pannelli 2m Inclinato"/>
 		<entry key="BuildingPartName_PC_Merge_Wall_Slope_B" translation="Muro di Plastica 4m Inclinato"/>
-		<entry key="BuildingPartName_PC_Merge_Wall_Slope_B_1m" translation="Rough Concrete Wall 1m Inclinato"/>
+		<entry key="BuildingPartName_PC_Merge_Wall_Slope_B_1m" translation="Muro di Cemento Grezzo 1m Inclinato"/>
 		<entry key="BuildingPartName_PC_Merge_Wall_Slope_B_2m" translation="Muro di Plastica 2m Inclinato"/>
 		<entry key="BuildingPartName_PC_Merge_Wall_Slope_D" translation="Muro di Legno 4m Inclinato"/>
 		<entry key="BuildingPartName_PC_Merge_Wall_Slope_D_1m" translation="Muro di Legno Moderno 1m Inclinato"/>
@@ -4429,10 +4429,10 @@
 		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questa Console"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico alla Console"/>
-		<entry key="AdvancedTriggerEditor_BendToPitch" translation="Bend Pitch"/>
+		<entry key="AdvancedTriggerEditor_BendToPitch" translation="Abbassa Tonalità"/>
 		<entry key="AdvancedTriggerEditor_CancelButton" translation="Annulla"/>
 		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Scollega tutti gli elementi da questo innesco"/>
-		<entry key="AdvancedTriggerEditor_CloseDoorFor" translation="Close Door for"/>
+		<entry key="AdvancedTriggerEditor_CloseDoorFor" translation="Chiudi porta per"/>
 		<entry key="AdvancedTriggerEditor_CoasterAddGroup" translation="Aggiungi Innesco"/>
 		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipDisabled" translation="Non puoi aggiungere altri inneschi a questo percorso"/>
 		<entry key="AdvancedTriggerEditor_CoasterAddGroupToolTipEnabled" translation="Aggiungi un punto al percorso che si attiverà quando passa il treno."/>
@@ -4447,11 +4447,11 @@
 		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Inneschi Display"/>
 		<entry key="AdvancedTriggerEditor_DoneButton" translation="Fatto"/>
 		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplica"/>
-		<entry key="AdvancedTriggerEditor_Duration" translation="Duration"/>
+		<entry key="AdvancedTriggerEditor_Duration" translation="Durata"/>
 		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Modifica Sequenza di Innesco"/>
-		<entry key="AdvancedTriggerEditor_FadeToColour" translation="Fade to Colour"/>
-		<entry key="AdvancedTriggerEditor_FadeToDuration" translation="Fade Time"/>
-		<entry key="AdvancedTriggerEditor_FadeToVolume" translation="Fade to Volume"/>
+		<entry key="AdvancedTriggerEditor_FadeToColour" translation="Dissolvenza per Colore"/>
+		<entry key="AdvancedTriggerEditor_FadeToDuration" translation="Dissolvenza Tempo"/>
+		<entry key="AdvancedTriggerEditor_FadeToVolume" translation="Dissolvenza per Volume"/>
 		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="Puoi modificare le sequenze di innesco per ogni sequenza dell'attrazione"/>
 		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
 		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Innesco Attrazione"/>
@@ -4461,7 +4461,7 @@
 		<entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="Inneschi {Name}"/>
 		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato&#10; La prima vettura che passerà oltre questo punto lo attiverà."/>
 		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Crea una Sequenza d'Innesco"/>
-		<entry key="AdvancedTriggerEditor_OpenDoorFor" translation="Open Door for"/>
+		<entry key="AdvancedTriggerEditor_OpenDoorFor" translation="Apri porta per"/>
 		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Tracciato"/>
 		<entry key="AdvancedTriggerEditor_Play" translation="Prova attivazione sugli oggetti collegati"/>
 		<entry key="AdvancedTriggerEditor_PlayTriggerSequence" translation="Avvia Sequenza Innesco"/>
@@ -4523,47 +4523,47 @@
 		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
 		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Inneschi sul Tracciato"/>
 		<entry key="AdvancedTriggerEditor_TriggerActivate" translation="Attiva su Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerActivate_Desc" translation="Turn on indefinitely when triggered."/>
-		<entry key="AdvancedTriggerEditor_TriggerAnimatedProp" translation="Trigger Animation"/>
-		<entry key="AdvancedTriggerEditor_TriggerAnimatedProp_Desc" translation="When enabled, the scenery piece will move when triggered."/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeAudioPitch" translation="Change Pitch on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeAudioPitch_Desc" translation="Change the pitch on this triggered speaker's sound"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeAudioVolume" translation="Change Volume on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeAudioVolume_Desc" translation="Change the volume on this triggered speaker's sound"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch" translation="Change then Restore Pitch"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch_Desc" translation="Change the pitch on this triggered speaker's sound, then return to the sound's last assigned pitch when triggered"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertVolume" translation="Change then Restore Volume"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertVolume_Desc" translation="Change the volume on this triggered speaker's sound, then return to the sound's last assigned volume when triggered"/>
+		<entry key="AdvancedTriggerEditor_TriggerActivate_Desc" translation="Attiva per sempre quando innescato."/>
+		<entry key="AdvancedTriggerEditor_TriggerAnimatedProp" translation="Innesca Animazione"/>
+		<entry key="AdvancedTriggerEditor_TriggerAnimatedProp_Desc" translation="Se attivato, l'elemento scenario si muoverà quando innescato."/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeAudioPitch" translation="Cambia Tonalità su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeAudioPitch_Desc" translation="Cambia la Tonalità del suono di questo altoparlante innescato"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeAudioVolume" translation="Cambia Volume su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeAudioVolume_Desc" translation="Cambia il Volume del suono di questo altoparlante innescato"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch" translation="Cambia e Ripristina Tono"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch_Desc" translation="Cambia il tono del suono di questo altoparlante attivato, poi torna all'ultimo tono prima dell'attivazione"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertVolume" translation="Cambia e Ripristina Volume"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertVolume_Desc" translation="Cambia il volume dell suono di questo altoparlante attivato, poi torna all'ultimo volume prima dell'attivazione"/>
 		<entry key="AdvancedTriggerEditor_TriggerDeactivate" translation="Disattiva su Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerDeactivate_Desc" translation="Turn off when triggered"/>
+		<entry key="AdvancedTriggerEditor_TriggerDeactivate_Desc" translation="Disattiva quando attivato"/>
 		<entry key="AdvancedTriggerEditor_TriggerDefault" translation="Avvia su Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerDefault_Desc" translation="Perform an action when triggered"/>
-		<entry key="AdvancedTriggerEditor_TriggerDoorClose" translation="Close Door"/>
-		<entry key="AdvancedTriggerEditor_TriggerDoorClose_Desc" translation="Closes a Coaster Door indefinitely when triggered."/>
-		<entry key="AdvancedTriggerEditor_TriggerDoorOpen" translation="Open Door"/>
-		<entry key="AdvancedTriggerEditor_TriggerDoorOpenCloseDelay" translation="Open Door, Pause, Close Door"/>
-		<entry key="AdvancedTriggerEditor_TriggerDoorOpenCloseDelay_Desc" translation="Opens a Coaster Door for a period of time when triggered."/>
-		<entry key="AdvancedTriggerEditor_TriggerDoorOpen_Desc" translation="Opens a Coaster Door indefinitely when triggered."/>
+		<entry key="AdvancedTriggerEditor_TriggerDefault_Desc" translation="Esegue un'azione quando attivato"/>
+		<entry key="AdvancedTriggerEditor_TriggerDoorClose" translation="Chiudi Porta"/>
+		<entry key="AdvancedTriggerEditor_TriggerDoorClose_Desc" translation="Chiude a tempo indeterminato la porta di un'attrazione quando attivato."/>
+		<entry key="AdvancedTriggerEditor_TriggerDoorOpen" translation="Apri Porta"/>
+		<entry key="AdvancedTriggerEditor_TriggerDoorOpenCloseDelay" translation="Apri la porta, Pausa, Chiudi la porta"/>
+		<entry key="AdvancedTriggerEditor_TriggerDoorOpenCloseDelay_Desc" translation="Apre la porta di un'attrazione per un periodo di tempo quando attivato."/>
+		<entry key="AdvancedTriggerEditor_TriggerDoorOpen_Desc" translation="Apre a tempo indeterminato la porta di un'attrazione quando attivato."/>
 		<entry key="AdvancedTriggerEditor_TriggerEventPointsValueLabel" translation="Punti di Innesco: {Points:int}"/>
 		<entry key="AdvancedTriggerEditor_TriggerEventStatLabel" translation="Attiva Evento"/>
 		<entry key="AdvancedTriggerEditor_TriggerEventValueLabel" translation="Elementi: {Items:int}"/>
-		<entry key="AdvancedTriggerEditor_TriggerFlexiColour" translation="Change Colour on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerFlexiColour_Desc" translation="Change this object's colour when triggered"/>
-		<entry key="AdvancedTriggerEditor_TriggerOptions" translation="Trigger Options"/>
-		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour" translation="Swap Colour on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour_Desc" translation="Change an object's colour for a period of time before returning to it's original colour"/>
+		<entry key="AdvancedTriggerEditor_TriggerFlexiColour" translation="Cambia Colore su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerFlexiColour_Desc" translation="Cambia il colore di questo oggetto quando attivato"/>
+		<entry key="AdvancedTriggerEditor_TriggerOptions" translation="Opzioni Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour" translation="Cambia colore su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour_Desc" translation="Cambia il colore di un oggetto per un periodo di tempo prima di tornare al colore originale"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause" translation="Avvia su Innesco, quindi Pausa"/>
-		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause_Desc" translation="Play on trigger, and then wait for a period of time."/>
-		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour" translation="Restore Colour on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour_Desc" translation="Return to the object's last assigned colour when triggered"/>
-		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch" translation="Restore Pitch on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch_Desc" translation="Return to the sound's last assigned pitch when triggered"/>
-		<entry key="AdvancedTriggerEditor_TriggerRevertAudioVolume" translation="Restore Volume on Trigger"/>
-		<entry key="AdvancedTriggerEditor_TriggerRevertAudioVolume_Desc" translation="Return to the sound's last assigned volume when triggered"/>
-		<entry key="AdvancedTriggerEditor_TriggerScreen" translation="Trigger Screen"/>
-		<entry key="AdvancedTriggerEditor_TriggerScreen_Desc" translation="When enabled, the screen will play when triggered."/>
-		<entry key="AdvancedTriggerEditor_TriggerToggle" translation="Ripeti Attiva/Disattiva su Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerToggle_Desc" translation="Toggle between being on and off for small amounts of time over a duration"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause_Desc" translation="Avvia su Innesco, e poi attende per un periodo di tempo."/>
+		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour" translation="Ripristina Colore su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour_Desc" translation="Torna all'ultimo colore assegnato all'oggetto quando attivato"/>
+		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch" translation="Ripristina Tono su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch_Desc" translation="Torna all'ultimo tono assegnato al suono quando attivato"/>
+		<entry key="AdvancedTriggerEditor_TriggerRevertAudioVolume" translation="Ripristina Volume su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerRevertAudioVolume_Desc" translation="Torna all'ultimo volume assegnato al suono quando attivato"/>
+		<entry key="AdvancedTriggerEditor_TriggerScreen" translation="Innesca Schermo"/>
+		<entry key="AdvancedTriggerEditor_TriggerScreen_Desc" translation="Quando attivo lo schermo si accenderà su innesco."/>
+		<entry key="AdvancedTriggerEditor_TriggerToggle" translation="Ripeti Accendi/Spegni su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerToggle_Desc" translation="Passa ripetutamente da acceso a spento per un limitato periodo di tempo "/>
 		<!--C3_Blueprints-->
 		<entry key="Blueprints_DowntownBuildingBlueprint01" translation="Downtown Edificio 01"/>
 		<entry key="Blueprints_DowntownBuildingBlueprint01Desc" translation="Edificio a tema Downtown"/>
