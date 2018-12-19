@@ -355,7 +355,7 @@
 		<entry key="Blueprints_PirateFirstAid" translation="Infermeria Pirata"/>
 		<entry key="Blueprints_PirateFirstAid1" translation="Infermeria Pirata 2"/>
 		<entry key="Blueprints_PirateFirstAid1Desc" translation="Un infermeria a tema Pirata"/>
-		<entry key="Blueprints_PirateFirstAidDesc" translation="I vistatori possono far curare il proprio mal di mare in questa struttura medica."/>
+		<entry key="Blueprints_PirateFirstAidDesc" translation="I visitatori possono far curare il proprio mal di mare in questa struttura medica."/>
 		<entry key="Blueprints_PirateFood" translation="Chiosco del cibo dei pirati"/>
 		<entry key="Blueprints_PirateFood2" translation="Un doppio chiosco del cibo a tema Pirata"/>
 		<entry key="Blueprints_PirateFood2Desc" translation="I visitatori e i pirati hanno bisogni di un pasto salutare dopo un lungo viaggio!"/>
@@ -396,8 +396,8 @@
 		<entry key="Blueprints_PirateToilet1Desc" translation="Bagni a tema Pirata"/>
 		<entry key="Blueprints_PirateToilets" translation="Blocco di bagni Pirata"/>
 		<entry key="Blueprints_PirateToiletsDesc" translation="Non puoi farne a meno, devi averlo nel tuo parco a tema."/>
-		<entry key="Blueprints_PirateWatery" translation="Tomba acquatica"/>
-		<entry key="Blueprints_PirateWateryDesc" translation="Leggenda narra che il Capitano Coaster ha nascosto qui sotto il suo tesoro."/>
+		<entry key="Blueprints_PirateWatery" translation="Fontana Pirata"/>
+		<entry key="Blueprints_PirateWateryDesc" translation="Leggenda narra che il Capitano Coaster abbia nascosto qui sotto il suo tesoro."/>
 		<entry key="Blueprints_PreviewItemDescrLabelDefault" translation="Inserisci la descrizione dell'oggetto"/>
 		<entry key="Blueprints_PreviewItemDescrTitle" translation="Descrizione oggetto:"/>
 		<entry key="Blueprints_PreviewItemLabelDefault" translation="Nome del progetto"/>
@@ -2054,7 +2054,7 @@
 		<entry key="BuildingPartDesc_FT_ShopAwnings_01" translation="Perfetto per il mercato.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_ShopAwnings_03" translation="Un Portico eccellente.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_ShopAwnings_04" translation="Completo di Fiocchi.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_Signs_Toilet" translation="Un'insegna per una toilet fiabesca.\nTema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_Signs_Toilet" translation="Un'insegna per una toilette fiabesca.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Signs_Wooden_01" translation="Venga uno, vengano tutti alla chiamata di Jester.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Signs_Wooden_02" translation="Per qualsiasi cosa.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_StainedGlass_01" translation="Un monumento alla Monarchia.\nTema Fantasy"/>
@@ -4530,8 +4530,8 @@
 		<entry key="AdvancedTriggerEditor_TriggerChangeAudioPitch_Desc" translation="Cambia la Tonalità del suono di questo altoparlante innescato"/>
 		<entry key="AdvancedTriggerEditor_TriggerChangeAudioVolume" translation="Cambia Volume su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerChangeAudioVolume_Desc" translation="Cambia il Volume del suono di questo altoparlante innescato"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch" translation="Cambia e Ripristina Tono"/>
-		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch_Desc" translation="Cambia il tono del suono di questo altoparlante attivato, poi torna all'ultimo tono prima dell'attivazione"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch" translation="Cambia e Ripristina Tonalità"/>
+		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertPitch_Desc" translation="Cambia tonalità del suono di questo altoparlante attivato, poi torna all'ultima tonalità prima dell'attivazione"/>
 		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertVolume" translation="Cambia e Ripristina Volume"/>
 		<entry key="AdvancedTriggerEditor_TriggerChangeThenRevertVolume_Desc" translation="Cambia il volume dell suono di questo altoparlante attivato, poi torna all'ultimo volume prima dell'attivazione"/>
 		<entry key="AdvancedTriggerEditor_TriggerDeactivate" translation="Disattiva su Innesco"/>
@@ -4556,8 +4556,8 @@
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause_Desc" translation="Avvia su Innesco, e poi attende per un periodo di tempo."/>
 		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour" translation="Ripristina Colore su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour_Desc" translation="Torna all'ultimo colore assegnato all'oggetto quando attivato"/>
-		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch" translation="Ripristina Tono su Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch_Desc" translation="Torna all'ultimo tono assegnato al suono quando attivato"/>
+		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch" translation="Ripristina Tonalità su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch_Desc" translation="Torna all'ultima tonalità assegnata al suono quando attivato"/>
 		<entry key="AdvancedTriggerEditor_TriggerRevertAudioVolume" translation="Ripristina Volume su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerRevertAudioVolume_Desc" translation="Torna all'ultimo volume assegnato al suono quando attivato"/>
 		<entry key="AdvancedTriggerEditor_TriggerScreen" translation="Innesca Schermo"/>
@@ -5489,8 +5489,8 @@
 		<entry key="ScenarioEditor_Park_HotelDeterioration" translation="Usura (deterioramento struttura)"/>
 		<entry key="ScenarioEditor_Park_HotelPopularity" translation="Popolarità Hotel "/>
 		<entry key="ScenarioEditor_Park_HotelRunningCost" translation="Percentuale costo esercizio mensile Hotel"/>
-		<entry key="ScenarioEditor_Park_InitialGuestsRate" translation="Percentage of normal guest rate with a single ride"/>
-		<entry key="ScenarioEditor_Park_InitialGuestsRate_ToolTip" translation="When there is only one ride in a park, the amount of guests it draws in will be increased. This modifier allows you to change the number of guests a single ride will bring in. The number of guests per ride will reduce to a normal level when more rides are in the park. The number of rides needed to hit that level can be changed using the adjustable value below."/>
+		<entry key="ScenarioEditor_Park_InitialGuestsRate" translation="Percentuale normale di tasso visitatori per singola attrazione"/>
+		<entry key="ScenarioEditor_Park_InitialGuestsRate_ToolTip" translation="Se c'è una sola attrazione, la quantità di visitatori che attira sarà aumentata. Questo modificatore permette di cambiare il numero di visitatori che richiamerà l'unica attrazione. Il numero di visitatori per attrazione si ridurrà ad un livello normale quando nel parco ce ne saranno di più. Il numero di attrazioni necessarie per raggiungere quel limite può essere variato usando il valore seguente."/>
 		<entry key="ScenarioEditor_Park_KeepGuests" translation="Mantieni tutti i Visitatori all'inizio "/>
 		<entry key="ScenarioEditor_Park_OpeningTime" translation="Orario di apertura"/>
 		<entry key="ScenarioEditor_Park_OpeningTimes" translation="Orari di apertura"/>
@@ -5499,8 +5499,8 @@
 		<entry key="ScenarioEditor_Park_PrestigeDecline" translation="Tasso di diminuzione Prestigio"/>
 		<entry key="ScenarioEditor_Park_PrestigeDeclineDropDown" translation="Tasso di diminuzione Prestigio di tutto il parco"/>
 		<entry key="ScenarioEditor_Park_RemoveClutter" translation="Rimuovi tutta la sporcizia all'inizio(Rifiuti, Vomito)"/>
-		<entry key="ScenarioEditor_Park_RidesForMaxGuestsRate" translation="Number of rides to achieve normal guest rate"/>
-		<entry key="ScenarioEditor_Park_RidesForMaxGuestsRate_ToolTip" translation="This is the number of rides needed in a park before the flow of guests will return to a normal amount per ride. The amount of guests a single ride will bring in can be changed by the above slider. "/>
+		<entry key="ScenarioEditor_Park_RidesForMaxGuestsRate" translation="Numero di attrazioni per raggiungere un tasso di visitatori normale"/>
+		<entry key="ScenarioEditor_Park_RidesForMaxGuestsRate_ToolTip" translation="Questo è il numero di attrazioni necessarie in un parco affinchè il flusso di visitatori torni ad una quantità normale per attrazione. La quantità di visitatori che richiamerà l'unica attrazione può essere cambiata dal regolatore sovrastante. "/>
 		<entry key="ScenarioEditor_Park_ScenarioStartTime" translation="Lo Scenario comincia ad un orario specifico"/>
 		<entry key="ScenarioEditor_Park_StartTime" translation="Orario di inizio dello Scenario:"/>
 		<entry key="ScenarioEditor_Park_TerrainCost" translation="Costo modifica terreno"/>
@@ -5785,7 +5785,7 @@
 		<entry key="TrackElementDesc_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
 		<entry key="TrackElementDesc_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
 		<entry key="TrackElementDesc_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
-		<entry key="TrackElementDesc_LogSplashCustom" translation="Inizia la sezione a spruzzi con un'altezza di entrata personalizzabile."/>
+		<entry key="TrackElementDesc_LogSplashCustom" translation="Inizia la sezione con un'altezza di spruzzi in entrata personalizzabile."/>
 		<entry key="TrackElementDesc_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementDesc_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementDesc_TopHat_DownTwist" translation="Drop Twist"/>
@@ -5805,8 +5805,8 @@
 		<entry key="TrackElementDesc_TopHat_UpTwist" translation="Incline Twist Description"/>
 		<entry key="TrackElementName_ChannelEntry" translation="Entrata Canale"/>
 		<entry key="TrackElementName_ChannelTrack" translation="Sezione Canale"/>
-		<entry key="TrackElementName_ConveyorBeltChainStart" translation="Conveyor Belt Chain Lift Start"/>
-		<entry key="TrackElementName_ConveyorBeltChannelExit" translation="Conveyor Belt Channel Exit"/>
+		<entry key="TrackElementName_ConveyorBeltChainStart" translation="Inizio salita con nastro trasportatore"/>
+		<entry key="TrackElementName_ConveyorBeltChannelExit" translation="Canale di uscita nastro trasportatore"/>
 		<entry key="TrackElementName_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
 		<entry key="TrackElementName_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
 		<entry key="TrackElementName_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
@@ -5828,14 +5828,14 @@
 		<entry key="TrackElementName_TopHat_Up" translation="Top Hat Incline"/>
 		<entry key="TrackElementName_TopHat_UpRoll" translation="Incline Roll"/>
 		<entry key="TrackElementName_TopHat_UpTwist" translation="Incline Twist"/>
-		<entry key="TrackElementTool_ChannelEntry" translation="&lt;font color='accent'&gt;Channel Entry&lt;/font&gt;&#10;Spinge la barca nell'acqua."/>
-		<entry key="TrackElementTool_ChannelTrack" translation="&lt;font color='accent'&gt;Water Channel&lt;/font&gt;&#10;Canale acquatico che spinge la barca."/>
-		<entry key="TrackElementTool_ConveyorBeltChainStart" translation="&lt;font color='accent'&gt;Conveyor Belt Chain Lift Start&lt;/font&gt;&#10;Inizia la salita della barca e permette una transizione continua nella salita a catena."/>
-		<entry key="TrackElementTool_ConveyorBeltChannelExit" translation="&lt;font color='accent'&gt;Conveyor Belt Channel Exit&lt;/font&gt;&#10;Tira fuori la barca dall'acqua verso un tracciato normale."/>
+		<entry key="TrackElementTool_ChannelEntry" translation="&lt;font color='accent'&gt;Entrata Canale&lt;/font&gt;&#10;Spinge la barca nell'acqua."/>
+		<entry key="TrackElementTool_ChannelTrack" translation="&lt;font color='accent'&gt;Canale Acquatico&lt;/font&gt;&#10;Canale acquatico che spinge la barca."/>
+		<entry key="TrackElementTool_ConveyorBeltChainStart" translation="&lt;font color='accent'&gt;Inizio salita con nastro trasportatore&lt;/font&gt;&#10;Inizia la salita della barca e permette una transizione continua nella salita a catena."/>
+		<entry key="TrackElementTool_ConveyorBeltChannelExit" translation="&lt;font color='accent'&gt;Canale di uscita nastro trasportatore&lt;/font&gt;&#10;Tira fuori la barca dall'acqua verso un tracciato normale."/>
 		<entry key="TrackElementTool_HydraulicLaunch_End" translation="Fine Spinta Idraulica"/>
 		<entry key="TrackElementTool_HydraulicLaunch_Ext" translation="Spinta Idraulica"/>
 		<entry key="TrackElementTool_HydraulicLaunch_Start" translation="Inizio Spinta Idraulica"/>
-		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Splash Down Custom&lt;/font&gt;&#10;Inizia la sezione a spruzzi con un'altezza di entrata personalizzabile."/>
+		<entry key="TrackElementTool_LogSplashCustom" translation="&lt;font color='accent'&gt;Sezione a Spruzzi Personalizzata&lt;/font&gt;&#10;Inizia la sezione con un'altezza di spruzzi in entrata personalizzabile."/>
 		<entry key="TrackElementTool_TopHat_Down" translation="Top Hat Drop"/>
 		<entry key="TrackElementTool_TopHat_DownRoll" translation="Drop Roll"/>
 		<entry key="TrackElementTool_TopHat_DownTwist" translation="Drop Twist"/>
@@ -21234,12 +21234,12 @@
 		<entry key="ParkManagement_EntranceTicketPrices" translation="Prezzi del biglietto di entrata"/>
 		<entry key="ParkManagement_ExpenditureCategory_CoasterRunningCosts" translation="Costi di esercizio delle Montagne Russe"/>
 		<entry key="ParkManagement_ExpenditureCategory_CoasterTickets" translation="Vendita biglietti delle Montagne Russe"/>
-		<entry key="ParkManagement_ExpenditureCategory_FacilityConstruction" translation="Costruzione Negozi e strutture"/>
-		<entry key="ParkManagement_ExpenditureCategory_FacilityRunningCosts" translation="Costi di esercizio di Negozi e strutture"/>
+		<entry key="ParkManagement_ExpenditureCategory_FacilityConstruction" translation="Costruzione Negozi e Strutture"/>
+		<entry key="ParkManagement_ExpenditureCategory_FacilityRunningCosts" translation="Costi di esercizio di Negozi e Strutture"/>
 		<entry key="ParkManagement_ExpenditureCategory_FacilitySales" translation="Vendite Strutture"/>
 		<entry key="ParkManagement_ExpenditureCategory_FastPassSales" translation="Vendite dei Pass Salta-Coda"/>
-		<entry key="ParkManagement_ExpenditureCategory_HotelCosts" translation="Hotel Running Costs"/>
-		<entry key="ParkManagement_ExpenditureCategory_HotelSales" translation="Hotel Room Sales"/>
+		<entry key="ParkManagement_ExpenditureCategory_HotelCosts" translation="Costi Esercizio Hotel"/>
+		<entry key="ParkManagement_ExpenditureCategory_HotelSales" translation="Vendita Camere Hotel"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanInterest" translation="Pagamenti interessi del prestito"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanLumpRepayment" translation="Restituzione prestito"/>
 		<entry key="ParkManagement_ExpenditureCategory_LoanMonthlyRepayment" translation="Pagamenti mensili del prestito"/>
@@ -21248,8 +21248,8 @@
 		<entry key="ParkManagement_ExpenditureCategory_ParkEntranceTickets" translation="Vendite del biglietto di entrata"/>
 		<entry key="ParkManagement_ExpenditureCategory_PathPlacement" translation="Costruzione Sentieri"/>
 		<entry key="ParkManagement_ExpenditureCategory_ResearchMonthlyPayment" translation="Costi di Ricerca"/>
-		<entry key="ParkManagement_ExpenditureCategory_RestaurantCosts" translation="Restaurant Running Costs"/>
-		<entry key="ParkManagement_ExpenditureCategory_RestaurantSales" translation="Restaurant Sales"/>
+		<entry key="ParkManagement_ExpenditureCategory_RestaurantCosts" translation="Costi Esercizio Ristoranti"/>
+		<entry key="ParkManagement_ExpenditureCategory_RestaurantSales" translation="Vendite Ristoranti"/>
 		<entry key="ParkManagement_ExpenditureCategory_Rewards" translation="Premi in denaro"/>
 		<entry key="ParkManagement_ExpenditureCategory_RideConstruction" translation="Costruzione Attrazioni"/>
 		<entry key="ParkManagement_ExpenditureCategory_RideRebrand" translation="Rinnovamento Attrazioni"/>
@@ -21259,8 +21259,8 @@
 		<entry key="ParkManagement_ExpenditureCategory_SceneryConstruction" translation="Costruzione Scenario"/>
 		<entry key="ParkManagement_ExpenditureCategory_SceneryRunningCosts" translation="Costi di esercizio dello Scenario"/>
 		<entry key="ParkManagement_ExpenditureCategory_ShopSales" translation="Vendite dei Negozi"/>
-		<entry key="ParkManagement_ExpenditureCategory_SmallAttractionsRunningCosts" translation="Small Attraction Running Costs"/>
-		<entry key="ParkManagement_ExpenditureCategory_SmallAttractionsSales" translation="Small Attraction Sales"/>
+		<entry key="ParkManagement_ExpenditureCategory_SmallAttractionsRunningCosts" translation="Costi Esercizio Piccole Attrazioni"/>
+		<entry key="ParkManagement_ExpenditureCategory_SmallAttractionsSales" translation="Vendite Piccole Attrazioni"/>
 		<entry key="ParkManagement_ExpenditureCategory_StaffWages" translation="Stipendi dei dipendenti"/>
 		<entry key="ParkManagement_ExpenditureCategory_Terraforming" translation="Terraformazione"/>
 		<entry key="ParkManagement_ExpenditureCategory_TriggeredSceneryCosts" translation="Costi Scenari innescati"/>
@@ -21319,9 +21319,9 @@
 		<entry key="ParkManagement_Guests_Tooltip" translation="Pensieri dei visitatori e informazioni"/>
 		<entry key="ParkManagement_Happiness_With_Percent" translation="Felicità - {percent}"/>
 		<entry key="ParkManagement_HireStaff" translation="Assumi dipendente"/>
-		<entry key="ParkManagement_Hotel_RoomCount" translation="{count:int} Rooms"/>
+		<entry key="ParkManagement_Hotel_RoomCount" translation="{count:int} Camere"/>
 		<entry key="ParkManagement_Hotels" translation="Hotels"/>
-		<entry key="ParkManagement_HotelsDesc" translation="Hotels allow Guests to stay the night instead of having to leave the Park."/>
+		<entry key="ParkManagement_HotelsDesc" translation="Gli Hotel permettono ai Visitatori di rimanere per la notte anzichè lasciare il Parco."/>
 		<entry key="ParkManagement_Hunger_With_Percent" translation="Fame - {percent}"/>
 		<entry key="ParkManagement_LeavingGuestThoughts" translation="Pensieri dei visitatori che vanno via"/>
 		<entry key="ParkManagement_List_Age" translation="Età"/>
@@ -21332,11 +21332,11 @@
 		<entry key="ParkManagement_List_HappinessHeader" translation="Felicità"/>
 		<entry key="ParkManagement_List_Janitor" translation="Spazzini"/>
 		<entry key="ParkManagement_List_LastMonthsProfit" translation="Profitti dell'ultimo mese"/>
-		<entry key="ParkManagement_List_LastProfit" translation="Last Month's Profit"/>
-		<entry key="ParkManagement_List_LuxuryRooms" translation="Luxury Rooms"/>
+		<entry key="ParkManagement_List_LastProfit" translation="Profitto Scorso Mese"/>
+		<entry key="ParkManagement_List_LuxuryRooms" translation="Camere di Lusso"/>
 		<entry key="ParkManagement_List_Mechanic" translation="Manutentori"/>
 		<entry key="ParkManagement_List_MonthlyGuests" translation="Visitatori mensili"/>
-		<entry key="ParkManagement_List_MonthlyRunningCost" translation="Monthly Running Cost"/>
+		<entry key="ParkManagement_List_MonthlyRunningCost" translation="Costi Esercizio Mensile"/>
 		<entry key="ParkManagement_List_NameHeader" translation="Nome"/>
 		<entry key="ParkManagement_List_NoAllStaff" translation="Non hai dipendenti"/>
 		<entry key="ParkManagement_List_NoEntertainer" translation="Non hai animatori"/>
@@ -21345,18 +21345,18 @@
 		<entry key="ParkManagement_List_NoSecurity" translation="Non hai guardie di sicurezza"/>
 		<entry key="ParkManagement_List_NoVendor" translation="Non hai venditori"/>
 		<entry key="ParkManagement_List_PayHeader" translation="Paga"/>
-		<entry key="ParkManagement_List_Perks" translation="Perks"/>
+		<entry key="ParkManagement_List_Perks" translation="Vantaggi"/>
 		<entry key="ParkManagement_List_PopularityHeader" translation="Popolarità"/>
-		<entry key="ParkManagement_List_Prestige" translation="Prestige"/>
+		<entry key="ParkManagement_List_Prestige" translation="Prestigio"/>
 		<entry key="ParkManagement_List_PriceSync" translation="Sincronizza prezzo"/>
-		<entry key="ParkManagement_List_RestaurantsRooms" translation="Restaurant Expansions"/>
+		<entry key="ParkManagement_List_RestaurantsRooms" translation="Espansioni Ristorante"/>
 		<entry key="ParkManagement_List_RideAge" translation="Reputazione"/>
 		<entry key="ParkManagement_List_RidePrestige" translation="Prestigio"/>
 		<entry key="ParkManagement_List_RidePrice" translation="Prezzo"/>
 		<entry key="ParkManagement_List_RosterAssignHeader" translation="Assegna coda"/>
 		<entry key="ParkManagement_List_SatisfactionHeader" translation="Soddisfazione"/>
 		<entry key="ParkManagement_List_Security" translation="Guardie di sicurezza"/>
-		<entry key="ParkManagement_List_StandardRooms" translation="Standard Rooms"/>
+		<entry key="ParkManagement_List_StandardRooms" translation="CAmere Standard"/>
 		<entry key="ParkManagement_List_StatusHeader" translation="Stato"/>
 		<entry key="ParkManagement_List_Tables" translation="Tables"/>
 		<entry key="ParkManagement_List_TrainingHeader" translation="Livello di addestramento"/>
@@ -21367,13 +21367,13 @@
 		<entry key="ParkManagement_LoanDone" translation="Fatto"/>
 		<entry key="ParkManagement_LoanInterest" translation="{Value} interessi"/>
 		<entry key="ParkManagement_Loans" translation="Prestiti"/>
-		<entry key="ParkManagement_LoansHistory" translation="Loans History"/>
-		<entry key="ParkManagement_LoansHistory_CategoryHeader" translation="Category"/>
-		<entry key="ParkManagement_LoansHistory_DurationHeader" translation="Loan Duration"/>
-		<entry key="ParkManagement_LoansHistory_InterestRateHeader" translation="Interest Rate"/>
-		<entry key="ParkManagement_LoansHistory_LoanAmountHeader" translation="Amount"/>
-		<entry key="ParkManagement_LoansHistory_NoItems" translation="You have no loan history"/>
-		<entry key="ParkManagement_LoansHistory_TotalInterestPaidHeader" translation="Interest Paid"/>
+		<entry key="ParkManagement_LoansHistory" translation="Cronologia Prestiti"/>
+		<entry key="ParkManagement_LoansHistory_CategoryHeader" translation="Categoria"/>
+		<entry key="ParkManagement_LoansHistory_DurationHeader" translation="Durata Prestito"/>
+		<entry key="ParkManagement_LoansHistory_InterestRateHeader" translation="Tasso Interesse"/>
+		<entry key="ParkManagement_LoansHistory_LoanAmountHeader" translation="Cifra"/>
+		<entry key="ParkManagement_LoansHistory_NoItems" translation="Non hai una cronologia prestiti"/>
+		<entry key="ParkManagement_LoansHistory_TotalInterestPaidHeader" translation="Interesse Pagato"/>
 		<entry key="ParkManagement_Loans_AddNewLoan" translation="Aggiungi prestito"/>
 		<entry key="ParkManagement_Loans_ChooseALoan" translation="Seleziona prestito"/>
 		<entry key="ParkManagement_Loans_CompanyValueHeader" translation="Richiede il valore della compagnia"/>
@@ -21387,9 +21387,9 @@
 		<entry key="ParkManagement_Loans_LoansCostPerMonth" translation="{min:currency} - {max:currency}"/>
 		<entry key="ParkManagement_Loans_MonthlyProfitHeader" translation="Richiede il profitto mensile"/>
 		<entry key="ParkManagement_Loans_MonthlyRepayments" translation="Totale rimborsi mensili"/>
-		<entry key="ParkManagement_Loans_MonthsDurationPlural" translation="{months:int} months"/>
-		<entry key="ParkManagement_Loans_MonthsDurationSingular" translation="{months:int} month"/>
-		<entry key="ParkManagement_Loans_MonthsDurationUnderOne" translation="less than 1 month"/>
+		<entry key="ParkManagement_Loans_MonthsDurationPlural" translation="{months:int} mesi"/>
+		<entry key="ParkManagement_Loans_MonthsDurationSingular" translation="{months:int} mese"/>
+		<entry key="ParkManagement_Loans_MonthsDurationUnderOne" translation="meno di 1 mese"/>
 		<entry key="ParkManagement_Loans_NoLoanSlotsLeft" translation="Hai esaurito il numero massimo di prestiti. Devi ripagare almeno un prestito prima di richiederne un altro."/>
 		<entry key="ParkManagement_Loans_NoLoansAvailable" translation="Non ci sono prestiti disponibili in questo scenario"/>
 		<entry key="ParkManagement_Loans_NotEnoughCashToPayOff" translation="Denaro insufficiente per ripagare il prestito"/>
@@ -23424,7 +23424,7 @@
 		<entry key="BuildingPartName_FT_SpookyTree_01" translation="Albero Spaventoso Grande"/>
 		<entry key="BuildingPartName_FT_SpookyTree_02" translation="Albero Spaventoso"/>
 		<entry key="BuildingPartName_FT_SpookyTree_03" translation="Rampicante Spaventosa"/>
-		<entry key="BuildingPartName_FT_SpookyTree_04" translation="Sampicante Spinosa Spaventosa"/>
+		<entry key="BuildingPartName_FT_SpookyTree_04" translation="Rampicante Spinosa Spaventosa"/>
 		<entry key="BuildingPartName_FT_Stocks" translation="Gogna Medievale"/>
 		<entry key="BuildingPartName_FT_StrawBale" translation="Covone di Paglia"/>
 		<entry key="BuildingPartName_FT_StrawCart" translation="Carretto da Contadino"/>
@@ -24418,13 +24418,13 @@
 		<entry key="Browser_SubCat_Walls_Framework" translation="Cornici"/>
 		<entry key="Browser_SubCat_Walls_Misc" translation="Decorazioni da parete"/>
 		<entry key="Browser_SubCat_Walls_Walls" translation="Pezzi di muro"/>
-		<entry key="Set_Adobe" translation="Adobe"/>
-		<entry key="Set_Bavarian" translation="Bavarian"/>
+		<entry key="Set_Adobe" translation="Argilla"/>
+		<entry key="Set_Bavarian" translation="Bavarese"/>
 		<entry key="Set_Brick" translation="Mattone"/>
 		<entry key="Set_Castle" translation="Castello"/>
-		<entry key="Set_Classical" translation="Classical"/>
+		<entry key="Set_Classical" translation="Classico"/>
 		<entry key="Set_Concrete" translation="Cemento"/>
-		<entry key="Set_Diner" translation="Diner"/>
+		<entry key="Set_Diner" translation="Ristorante"/>
 		<entry key="Set_Fibreglass" translation="Vetroresina"/>
 		<entry key="Set_Futuristic" translation="Futuristico"/>
 		<entry key="Set_Glass" translation="Vetro"/>
@@ -24433,12 +24433,12 @@
 		<entry key="Set_Limestone" translation="Pietra Calcarea"/>
 		<entry key="Set_Metal" translation="Metallo"/>
 		<entry key="Set_Modern" translation="Moderno"/>
-		<entry key="Set_Moorish" translation="Moorish"/>
+		<entry key="Set_Moorish" translation="Moresco"/>
 		<entry key="Set_OldBrick" translation="Mattoni Classici"/>
 		<entry key="Set_OldWest" translation="Western"/>
 		<entry key="Set_Plastic" translation="Plastica"/>
-		<entry key="Set_QinDynasty" translation="Qin Dynasty"/>
-		<entry key="Set_Renaissance" translation="Renaissance"/>
+		<entry key="Set_QinDynasty" translation="Dynastia Qin"/>
+		<entry key="Set_Renaissance" translation="Rinascimento"/>
 		<entry key="Set_RenderWalls" translation="Stucco"/>
 		<entry key="Set_RoughBrick" translation="Mattoni Grezzi"/>
 		<entry key="Set_Rustic" translation="Rustico"/>
@@ -24447,27 +24447,27 @@
 		<entry key="Set_Thatch" translation="Paglia"/>
 		<entry key="Set_TileFlat" translation="Tegola Piatta"/>
 		<entry key="Set_TileRidge" translation="Tegola Curvata"/>
-		<entry key="Set_Victorian" translation="Victorian"/>
+		<entry key="Set_Victorian" translation="Vittoriano"/>
 		<entry key="Set_WesternWood" translation="Tavola di legno"/>
 		<entry key="Set_WoodTile" translation="Parquet"/>
 		<entry key="Set_Wooden" translation="Legno"/>
 		<entry key="Set_WoodenSlat" translation="Strisce di Legno"/>
 		<entry key="TagGroup_BaseMaterial" translation="Base Material"/>
-		<entry key="TagGroup_Brand" translation="Brand"/>
-		<entry key="TagGroup_BuildingProps" translation="Building Props"/>
-		<entry key="TagGroup_Grid" translation="Grid"/>
+		<entry key="TagGroup_Brand" translation="Marca"/>
+		<entry key="TagGroup_BuildingProps" translation="Elementi Costruzione"/>
+		<entry key="TagGroup_Grid" translation="Griglia"/>
 		<entry key="TagGroup_Material" translation="Materiale di costruzione"/>
-		<entry key="TagGroup_Nature" translation="Nature"/>
-		<entry key="TagGroup_NatureSize" translation="Nature Size"/>
+		<entry key="TagGroup_Nature" translation="Natura"/>
+		<entry key="TagGroup_NatureSize" translation="Dimensione elemento Natura"/>
 		<entry key="TagGroup_PDLC" translation="Contenuti Scaricabili"/>
 		<entry key="TagGroup_Property" translation="Proprietà"/>
-		<entry key="TagGroup_Props" translation="Prop Type"/>
+		<entry key="TagGroup_Props" translation="Tipo Elemento"/>
 		<entry key="TagGroup_Region" translation="Regione"/>
-		<entry key="TagGroup_Scenery" translation="Prop Sets"/>
+		<entry key="TagGroup_Scenery" translation="Set Elemento"/>
 		<entry key="TagGroup_Set" translation="Set di costruzione"/>
 		<entry key="TagGroup_Theme" translation="Tema Scenografie"/>
-		<entry key="TagGroup_WallHeight" translation="Wall Height"/>
-		<entry key="TagGroup_WallType" translation="Wall and Roof Types"/>
+		<entry key="TagGroup_WallHeight" translation="Altezza Muro"/>
+		<entry key="TagGroup_WallType" translation="Tipi Muro e Tetto"/>
 		<entry key="TagRegion_RN_Alpine" translation="Alpino"/>
 		<entry key="TagRegion_RN_Deciduous" translation="Deciduo"/>
 		<entry key="TagRegion_RN_Desert" translation="Deserto"/>
@@ -24475,11 +24475,11 @@
 		<entry key="TagRegion_RN_Park" translation="Parco"/>
 		<entry key="TagRegion_RN_Tropical" translation="Tropicale"/>
 		<entry key="TagRegion_RN_Tundra" translation="Tundra"/>
-		<entry key="Tag_BaseMaterial_Glass" translation="Glass"/>
-		<entry key="Tag_BaseMaterial_Metal" translation="Metal"/>
-		<entry key="Tag_BaseMaterial_Organic" translation="Organic"/>
-		<entry key="Tag_BaseMaterial_Stone" translation="Stone"/>
-		<entry key="Tag_BaseMaterial_Wood" translation="Wood"/>
+		<entry key="Tag_BaseMaterial_Glass" translation="Vetro"/>
+		<entry key="Tag_BaseMaterial_Metal" translation="Metallo"/>
+		<entry key="Tag_BaseMaterial_Organic" translation="Organico"/>
+		<entry key="Tag_BaseMaterial_Stone" translation="Pietra"/>
+		<entry key="Tag_BaseMaterial_Wood" translation="Legno"/>
 		<entry key="Tag_Blueprint_Blueprint" translation="Progetti"/>
 		<entry key="Tag_Blueprint_Building" translation="Costruzioni"/>
 		<entry key="Tag_Blueprint_BuildingCoasterStation" translation="Stazioni Montagne Russe"/>
@@ -24564,64 +24564,64 @@
 		<entry key="Tag_Brand_Sushi" translation="Haya Sushi"/>
 		<entry key="Tag_Brand_Sweets" translation="Sugary Emporium"/>
 		<entry key="Tag_Brand_Tikichiki" translation="Tikichiki"/>
-		<entry key="Tag_BuildingProps_Archway" translation="Archway"/>
-		<entry key="Tag_BuildingProps_Beams" translation="Beams"/>
-		<entry key="Tag_BuildingProps_Towers" translation="Towers"/>
+		<entry key="Tag_BuildingProps_Archway" translation="Arcate"/>
+		<entry key="Tag_BuildingProps_Beams" translation="Travi"/>
+		<entry key="Tag_BuildingProps_Towers" translation="Torri"/>
 		<entry key="Tag_EditableText" translation="Testo modificabile"/>
-		<entry key="Tag_FlexiColour" translation="Flexi Colour"/>
-		<entry key="Tag_Grid_Grid" translation="Grid Props"/>
-		<entry key="Tag_Grid_OffGrid" translation="Free Form Props"/>
+		<entry key="Tag_FlexiColour" translation="Colori Flexi"/>
+		<entry key="Tag_Grid_Grid" translation="Elementi Griglia"/>
+		<entry key="Tag_Grid_OffGrid" translation="Elementi Forma Libera"/>
 		<entry key="Tag_Hidden_Pinata" translation="Pinata"/>
-		<entry key="Tag_NatureSize_Large" translation="Large"/>
-		<entry key="Tag_NatureSize_Small" translation="Small"/>
-		<entry key="Tag_Nature_Alive" translation="Nature - Alive"/>
-		<entry key="Tag_Nature_Bush" translation="Bush"/>
+		<entry key="Tag_NatureSize_Large" translation="Grande"/>
+		<entry key="Tag_NatureSize_Small" translation="Piccola"/>
+		<entry key="Tag_Nature_Alive" translation="Natura- Viva"/>
+		<entry key="Tag_Nature_Bush" translation="Cespuglio"/>
 		<entry key="Tag_Nature_Cactus" translation="Cactus"/>
-		<entry key="Tag_Nature_Dead" translation="Nature - Dead"/>
-		<entry key="Tag_Nature_Flower" translation="Flowers"/>
-		<entry key="Tag_Nature_Rock" translation="Rock"/>
-		<entry key="Tag_Nature_Roots" translation="Roots"/>
-		<entry key="Tag_Nature_Tree" translation="Tree"/>
-		<entry key="Tag_Nature_Vines" translation="Vines"/>
-		<entry key="Tag_Property_Billboard" translation="Billboard"/>
-		<entry key="Tag_Props_AncientStatue" translation="Ancient Statue Pieces"/>
-		<entry key="Tag_Props_Campsite" translation="Camp Site"/>
-		<entry key="Tag_Props_ChristmasTree" translation="Christmas Tree Decorations"/>
-		<entry key="Tag_Props_Cogs" translation="Cogs"/>
-		<entry key="Tag_Props_Confectionary" translation="Food Items"/>
-		<entry key="Tag_Props_DecorativeShapes" translation="Decorative Shapes"/>
-		<entry key="Tag_Props_Graveyard" translation="Graveyard"/>
-		<entry key="Tag_Props_Machinery" translation="Machinery"/>
-		<entry key="Tag_Props_Scarecrow" translation="Scarecrow Pieces"/>
-		<entry key="Tag_Props_Skeleton" translation="Skeleton Pieces"/>
-		<entry key="Tag_Props_Snowman" translation="Snowman Pieces"/>
-		<entry key="Tag_Props_Spanning" translation="Spanning"/>
-		<entry key="Tag_Props_SpidersBats" translation="Insects"/>
-		<entry key="Tag_Props_StepsStairs" translation="Steps And Stairs"/>
-		<entry key="Tag_Props_Storage" translation="Storage"/>
-		<entry key="Tag_Props_StudioSet" translation="Studio Set"/>
-		<entry key="Tag_Props_WesternVillage" translation="Western Village"/>
-		<entry key="Tag_Scenery_Animal" translation="Animals"/>
-		<entry key="Tag_Scenery_Humanoid" translation="Humanoid"/>
-		<entry key="Tag_Scenery_Inanimate" translation="Inanimate"/>
+		<entry key="Tag_Nature_Dead" translation="Natura - Morta"/>
+		<entry key="Tag_Nature_Flower" translation="Fiori"/>
+		<entry key="Tag_Nature_Rock" translation="Roccia"/>
+		<entry key="Tag_Nature_Roots" translation="Radici"/>
+		<entry key="Tag_Nature_Tree" translation="Alberi"/>
+		<entry key="Tag_Nature_Vines" translation="Vitigni"/>
+		<entry key="Tag_Property_Billboard" translation="Cartelli"/>
+		<entry key="Tag_Props_AncientStatue" translation="Pezzi Statue Antiche"/>
+		<entry key="Tag_Props_Campsite" translation="Campeggio"/>
+		<entry key="Tag_Props_ChristmasTree" translation="Decorazioni Albero di Natale"/>
+		<entry key="Tag_Props_Cogs" translation="Ingranaggi"/>
+		<entry key="Tag_Props_Confectionary" translation="Cibi"/>
+		<entry key="Tag_Props_DecorativeShapes" translation="Forme Decorative"/>
+		<entry key="Tag_Props_Graveyard" translation="Lapidi"/>
+		<entry key="Tag_Props_Machinery" translation="Maccjinari"/>
+		<entry key="Tag_Props_Scarecrow" translation="Pezzi Spaventapasseri"/>
+		<entry key="Tag_Props_Skeleton" translation="Pezzi Scheletro"/>
+		<entry key="Tag_Props_Snowman" translation="Pezzi Pupazzo di Neve"/>
+		<entry key="Tag_Props_Spanning" translation="Campate"/>
+		<entry key="Tag_Props_SpidersBats" translation="Insetti"/>
+		<entry key="Tag_Props_StepsStairs" translation="Gradini e Scale"/>
+		<entry key="Tag_Props_Storage" translation="Deposito"/>
+		<entry key="Tag_Props_StudioSet" translation="Set Studio"/>
+		<entry key="Tag_Props_WesternVillage" translation="Villaggio Western"/>
+		<entry key="Tag_Scenery_Animal" translation="Animali"/>
+		<entry key="Tag_Scenery_Humanoid" translation="Umanoidi"/>
+		<entry key="Tag_Scenery_Inanimate" translation="Inanimati"/>
 		<entry key="Tag_Triggerable" translation="Azionabili"/>
 		<entry key="Tag_UGC_Item" translation="Thememaker's Toolkit"/>
-		<entry key="Tag_WallHeight_16m" translation="16m High"/>
-		<entry key="Tag_WallHeight_1m" translation="1m High"/>
-		<entry key="Tag_WallHeight_2m" translation="2m High"/>
-		<entry key="Tag_WallHeight_4m" translation="4m High"/>
-		<entry key="Tag_WallHeight_8m" translation="8m High"/>
-		<entry key="Tag_WallType_Corner" translation="Corner Pieces"/>
-		<entry key="Tag_WallType_Curved" translation="Sloped - Curved"/>
-		<entry key="Tag_WallType_Damaged" translation="Damaged Wall Pieces"/>
-		<entry key="Tag_WallType_Flat" translation="Flat Roofs"/>
-		<entry key="Tag_WallType_Gable" translation="Gabled Roofs"/>
-		<entry key="Tag_WallType_ShopFront" translation="Shop Front Wall Pieces"/>
-		<entry key="Tag_WallType_Sloped" translation="Sloped - Flat"/>
-		<entry key="Tag_WallType_Special" translation="Special Wall Pieces"/>
-		<entry key="Tag_WallType_Spire" translation="Spires"/>
-		<entry key="Tag_WallType_StationSurround" translation="Station Surround Wall Pieces"/>
-		<entry key="Tag_WallType_Straight" translation="Straight Wall Pieces"/>
+		<entry key="Tag_WallHeight_16m" translation="Alti 16m"/>
+		<entry key="Tag_WallHeight_1m" translation="Alti 1m"/>
+		<entry key="Tag_WallHeight_2m" translation="Alti 2m"/>
+		<entry key="Tag_WallHeight_4m" translation="Alti 4m"/>
+		<entry key="Tag_WallHeight_8m" translation="Alti 8m"/>
+		<entry key="Tag_WallType_Corner" translation="Pezzi ad Angolo"/>
+		<entry key="Tag_WallType_Curved" translation="Inclinati - Curvi"/>
+		<entry key="Tag_WallType_Damaged" translation="Pezzi di Muro Danneggiato"/>
+		<entry key="Tag_WallType_Flat" translation="Tetti Piatti"/>
+		<entry key="Tag_WallType_Gable" translation="Tetti a Timpano"/>
+		<entry key="Tag_WallType_ShopFront" translation="Pezzi di Facciate Negozi"/>
+		<entry key="Tag_WallType_Sloped" translation="Inclinati - Piatti"/>
+		<entry key="Tag_WallType_Special" translation="Pezzi di Muro Speciali"/>
+		<entry key="Tag_WallType_Spire" translation="Pinnacoli"/>
+		<entry key="Tag_WallType_StationSurround" translation="Pezzi Station Surround Wall"/>
+		<entry key="Tag_WallType_Straight" translation="Pezzi Muri Dritti"/>
 		<entry key="Theme_FT_Fairytale" translation="Fiabesco"/>
 		<entry key="Theme_PR_Pirate" translation="Pirati"/>
 		<entry key="Theme_PlanetCoaster" translation="Planet Coaster"/>
