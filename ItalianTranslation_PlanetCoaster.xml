@@ -4449,9 +4449,9 @@
 		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplica"/>
 		<entry key="AdvancedTriggerEditor_Duration" translation="Durata"/>
 		<entry key="AdvancedTriggerEditor_EditTriggerSequenceButton" translation="Modifica Sequenza di Innesco"/>
-		<entry key="AdvancedTriggerEditor_FadeToColour" translation="Dissolvenza per Colore"/>
-		<entry key="AdvancedTriggerEditor_FadeToDuration" translation="Dissolvenza Tempo"/>
-		<entry key="AdvancedTriggerEditor_FadeToVolume" translation="Dissolvenza per Volume"/>
+		<entry key="AdvancedTriggerEditor_FadeToColour" translation="Dissolvenza Colore"/>
+		<entry key="AdvancedTriggerEditor_FadeToDuration" translation="Durata Dissolvenza "/>
+		<entry key="AdvancedTriggerEditor_FadeToVolume" translation="Dissolvenza Volume"/>
 		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersDescription" translation="Puoi modificare le sequenze di innesco per ogni sequenza dell'attrazione"/>
 		<entry key="AdvancedTriggerEditor_FlatRideEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
 		<entry key="AdvancedTriggerEditor_FlatRideGroupLabelDefault" translation="Innesco Attrazione"/>
@@ -4523,7 +4523,7 @@
 		<entry key="AdvancedTriggerEditor_TrackEditTriggersTitle" translation="Modifica Sequenza di Innesco"/>
 		<entry key="AdvancedTriggerEditor_TrackTriggersLabel" translation="Inneschi sul Tracciato"/>
 		<entry key="AdvancedTriggerEditor_TriggerActivate" translation="Attiva su Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerActivate_Desc" translation="Attiva per sempre quando innescato."/>
+		<entry key="AdvancedTriggerEditor_TriggerActivate_Desc" translation="Attiva definitivamente quando innescato."/>
 		<entry key="AdvancedTriggerEditor_TriggerAnimatedProp" translation="Innesca Animazione"/>
 		<entry key="AdvancedTriggerEditor_TriggerAnimatedProp_Desc" translation="Se attivato, l'elemento scenario si muoverà quando innescato."/>
 		<entry key="AdvancedTriggerEditor_TriggerChangeAudioPitch" translation="Cambia Tonalità su Innesco"/>
@@ -4550,7 +4550,7 @@
 		<entry key="AdvancedTriggerEditor_TriggerFlexiColour" translation="Cambia Colore su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerFlexiColour_Desc" translation="Cambia il colore di questo oggetto quando attivato"/>
 		<entry key="AdvancedTriggerEditor_TriggerOptions" translation="Opzioni Innesco"/>
-		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour" translation="Cambia colore su Innesco"/>
+		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour" translation="Alterna colore su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour_Desc" translation="Cambia il colore di un oggetto per un periodo di tempo prima di tornare al colore originale"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause" translation="Avvia su Innesco, quindi Pausa"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause_Desc" translation="Avvia su Innesco, e poi attende per un periodo di tempo."/>
@@ -4848,8 +4848,8 @@
 		<entry key="PopUp_DisplayCamera_Focus_Tooltip" translation="Localizza Visuale"/>
 		<entry key="PopUp_DisplayCamera_Header" translation="Collega Visuale"/>
 		<entry key="PopUp_DisplayCamera_Name" translation="{Value}"/>
-		<entry key="PopUp_DisplayCamera_NumSelected" translation="Sposta la visuale e quindi clicca Conferma per collegare una nuova visuale."/>
-		<entry key="PopUp_DisplayCamera_NumSelected_Label" translation="Visuali collegate"/>
+		<entry key="PopUp_DisplayCamera_NumSelected" translation="Sposta la telecamera e quindi clicca Conferma per collegare una nuova telecamera."/>
+		<entry key="PopUp_DisplayCamera_NumSelected_Label" translation="Telecamere collegate"/>
 		<entry key="PopUp_DisplayCamera_Preview_Tooltip" translation="Anteprima Ripresa"/>
 		<entry key="PopUp_DisplayCamera_RemoveAll_Tooltip" translation="Rimuovi Riprese"/>
 		<entry key="PopUp_DisplayCamera_Remove_Tooltip" translation="Rimuovi Ripresa"/>
@@ -6054,12 +6054,12 @@
 		<entry key="BuildingPartDesc_VT_FXBox_Sprinkler_Spray" translation="Effetto irrigatore"/>
 		<entry key="BuildingPartDesc_VT_Gladiolus_Round" translation="Un mazzo di fiori con una forma circolare.&#10;Parco"/>
 		<entry key="BuildingPartDesc_VT_Gladiolus_Square" translation="Un mazzo di fiori con una forma quadrata.&#10;Parco"/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Lit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà superiore dell'immagine."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Unlit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà superiore dell'immagine."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Lit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno"/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Unlit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno"/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Lit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà inferiore dell'immagine."/>
-		<entry key="BuildingPartDesc_VT_Hoarding_Unlit" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà inferiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Lit" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà superiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Alt_Unlit" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà superiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Lit" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno"/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Corner_Unlit" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno"/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Lit" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà inferiore dell'immagine."/>
+		<entry key="BuildingPartDesc_VT_Hoarding_Unlit" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questa versione del pannello usa la metà inferiore dell'immagine."/>
 		<entry key="BuildingPartDesc_VT_Narcissus_Round" translation="Un mazzo di fiori con una forma circolare.&#10;Parco"/>
 		<entry key="BuildingPartDesc_VT_Narcissus_Square" translation="Un mazzo di fiori con una forma quadrata.&#10;Parco"/>
 		<entry key="BuildingPartDesc_VT_Petunias" translation="Una pianta fiorita con differenti corolle colorate.&#10;Parco"/>
@@ -6138,13 +6138,13 @@
 		<entry key="BuildingPartDesc_VT_Set04_Sml_Fot" translation="Elemento di supporto per Coaster."/>
 		<entry key="BuildingPartDesc_VT_Set04_Sml_FotExt" translation="Elemento di supporto per Coaster."/>
 		<entry key="BuildingPartDesc_VT_Set04_XBeam" translation="Elemento di supporto per Coaster."/>
-		<entry key="BuildingPartDesc_VT_Set35_Fot" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta."/>
-		<entry key="BuildingPartDesc_VT_Set35_PrimSup_2m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;alto 2m"/>
-		<entry key="BuildingPartDesc_VT_Set35_PrimSup_4m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;alto 4m"/>
-		<entry key="BuildingPartDesc_VT_Set35_PrimSup_8m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta&#10;alto 8m"/>
-		<entry key="BuildingPartDesc_VT_Set35_SecSup_2m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 2m"/>
-		<entry key="BuildingPartDesc_VT_Set35_SecSup_4m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 4m"/>
-		<entry key="BuildingPartDesc_VT_Set35_SecSup_8m" translation="Parte del set attrazione Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 8m"/>
+		<entry key="BuildingPartDesc_VT_Set35_Fot" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta."/>
+		<entry key="BuildingPartDesc_VT_Set35_PrimSup_2m" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;alto 2m"/>
+		<entry key="BuildingPartDesc_VT_Set35_PrimSup_4m" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;alto 4m"/>
+		<entry key="BuildingPartDesc_VT_Set35_PrimSup_8m" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta&#10;alto 8m"/>
+		<entry key="BuildingPartDesc_VT_Set35_SecSup_2m" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 2m"/>
+		<entry key="BuildingPartDesc_VT_Set35_SecSup_4m" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 4m"/>
+		<entry key="BuildingPartDesc_VT_Set35_SecSup_8m" translation="Parte del pannello Mouse Hunt, utilizzato per creare supporti e decorazioni attorno alle attrazioni in legno.&#10;Questi elementi sono stati creati per adattarsi al sistema di griglie del Mouse Hunt. Utilizza la griglia dell'elemento stazione per una corrispondenza perfetta.&#10;lungo 8m"/>
 		<entry key="BuildingPartDesc_VT_Sprinkler_Oscillating" translation="Irrigatore per manti fioriti."/>
 		<entry key="BuildingPartDesc_VT_Sprinkler_Oscillating_90" translation="Irrigatore per manti fioriti."/>
 		<entry key="BuildingPartDesc_VT_Sprinkler_Rotation" translation="Irrigatore per manti fioriti."/>
@@ -6161,15 +6161,15 @@
 		<entry key="BuildingPartName_VT_FXBox_Sprinkler_Spray" translation="Effetto Speciale - Spruzzo di irrigatore"/>
 		<entry key="BuildingPartName_VT_Gladiolus_Round" translation="Cerchio di Fiori di Gladiolo"/>
 		<entry key="BuildingPartName_VT_Gladiolus_Square" translation="Quadrato di Fiori di Gladiolo"/>
-		<entry key="BuildingPartName_VT_Hoarding_Alt_Lit" translation="Mouse Hunt Hoarding Panel Top Lit"/>
-		<entry key="BuildingPartName_VT_Hoarding_Alt_Unlit" translation="Mouse Hunt Hoarding Panel Top"/>
-		<entry key="BuildingPartName_VT_Hoarding_Corner_Lit" translation="Mouse Hunt Hoarding Panel Corner Lit"/>
-		<entry key="BuildingPartName_VT_Hoarding_Corner_Unlit" translation="Mouse Hunt Hoarding Panel Corner"/>
-		<entry key="BuildingPartName_VT_Hoarding_Lit" translation="Mouse Hunt Hoarding Panel Bottom Lit"/>
-		<entry key="BuildingPartName_VT_Hoarding_Unlit" translation="Mouse Hunt Hoarding Panel Bottom"/>
-		<entry key="BuildingPartName_VT_Narcissus_Round" translation="Narcissus Flowers Round"/>
-		<entry key="BuildingPartName_VT_Narcissus_Square" translation="Narcissus Flowers Square"/>
-		<entry key="BuildingPartName_VT_Petunias" translation="Petunia Flowers"/>
+		<entry key="BuildingPartName_VT_Hoarding_Alt_Lit" translation="Pannello superiore Mouse Hunt Acceso"/>
+		<entry key="BuildingPartName_VT_Hoarding_Alt_Unlit" translation="Pannello superiore Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Hoarding_Corner_Lit" translation="Pannello angolare Mouse Hunt Acceso"/>
+		<entry key="BuildingPartName_VT_Hoarding_Corner_Unlit" translation="Pannello angolare Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Hoarding_Lit" translation="Pannello inferiore Mouse Hunt Acceso"/>
+		<entry key="BuildingPartName_VT_Hoarding_Unlit" translation="Pannello inferiore Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Narcissus_Round" translation="Cerchio di Fiori di Narciso"/>
+		<entry key="BuildingPartName_VT_Narcissus_Square" translation="Quadrato di Fiori di Narciso"/>
+		<entry key="BuildingPartName_VT_Petunias" translation="Fiori di Petunia"/>
 		<entry key="BuildingPartName_VT_Planter_AngleExt_Block_ST" translation="Modular Planter Base Corner 6"/>
 		<entry key="BuildingPartName_VT_Planter_AngleExt_ST" translation="Modular Planter Top Corner 6"/>
 		<entry key="BuildingPartName_VT_Planter_Corner90oSmooth_Block_ST" translation="Modular Planter Base Corner 2"/>
@@ -14103,13 +14103,13 @@
 		<entry key="HUD_ShopMenu_Shops" translation="Negozi e Servizi"/>
 		<entry key="HUD_ShopMenu_Staff" translation="Staff"/>
 		<entry key="HUD_ShopMenu_TrackedRides" translation="Circuiti"/>
-		<entry key="HUD_ShopMenu_UGC" translation="Toolkit Items"/>
+		<entry key="HUD_ShopMenu_UGC" translation="Elementi Toolkit"/>
 		<entry key="HUD_TeenGroupMemberCount" translation="Gruppi di Giovani"/>
 		<entry key="HUD_TimeAM" translation="{Hour12}:{Minute} am"/>
 		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
 		<entry key="HUD_TimePanel_Title" translation="Imposta illuminazione alle"/>
 		<entry key="HUD_ToolTip_AttractionsLists" translation="Lista attrazioni"/>
-		<entry key="HUD_ToolTip_CameraEffects" translation="Effetti Visuale"/>
+		<entry key="HUD_ToolTip_CameraEffects" translation="Effetti Visuali"/>
 		<entry key="HUD_ToolTip_ChallengesPopup" translation="Sfide"/>
 		<entry key="HUD_ToolTip_Delete" translation="Modalità Cancella (Prossimamente)"/>
 		<entry key="HUD_ToolTip_GameSpeed" translation="Cambia Velocità Simulazione [{#LogicalButton.Editors_AdjustSimulationSpeed#}]"/>
@@ -21356,7 +21356,7 @@
 		<entry key="ParkManagement_List_RosterAssignHeader" translation="Assegna coda"/>
 		<entry key="ParkManagement_List_SatisfactionHeader" translation="Soddisfazione"/>
 		<entry key="ParkManagement_List_Security" translation="Guardie di sicurezza"/>
-		<entry key="ParkManagement_List_StandardRooms" translation="CAmere Standard"/>
+		<entry key="ParkManagement_List_StandardRooms" translation="Camere Standard"/>
 		<entry key="ParkManagement_List_StatusHeader" translation="Stato"/>
 		<entry key="ParkManagement_List_Tables" translation="Tables"/>
 		<entry key="ParkManagement_List_TrainingHeader" translation="Livello di addestramento"/>
@@ -24591,7 +24591,7 @@
 		<entry key="Tag_Props_Confectionary" translation="Cibi"/>
 		<entry key="Tag_Props_DecorativeShapes" translation="Forme Decorative"/>
 		<entry key="Tag_Props_Graveyard" translation="Lapidi"/>
-		<entry key="Tag_Props_Machinery" translation="Maccjinari"/>
+		<entry key="Tag_Props_Machinery" translation="Macchinari"/>
 		<entry key="Tag_Props_Scarecrow" translation="Pezzi Spaventapasseri"/>
 		<entry key="Tag_Props_Skeleton" translation="Pezzi Scheletro"/>
 		<entry key="Tag_Props_Snowman" translation="Pezzi Pupazzo di Neve"/>
@@ -24822,18 +24822,18 @@
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_02" translation="{reference} sembra splendida!"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_03" translation="Scommetto che {reference} è un ottima attrazione"/>
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_04" translation="{reference} sembra bellissima!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_01" translation="{reference} looks really cool!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_02" translation="{reference} looks amazing!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_03" translation="I like the look of {reference}!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_04" translation="I can't wait to try {reference}!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Child_01" translation="I wanna try {reference}!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Child_02" translation="Woah! {reference} is super cool!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Child_03" translation="If I don't get to go use {reference} I'm gonna freak!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Common_01" translation="I want to go to use {reference}!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_01" translation="Wow, {reference} looks really cool!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_02" translation="{reference} looks ace!"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_03" translation="I bet {reference} is a really fun"/>
-		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_04" translation="{reference} looks awesome!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_01" translation="{reference} sembra davvero fico!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_02" translation="{reference} sembra fantastico!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_03" translation="Mi piace l'aspetto di {reference}!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Adult_04" translation="Non vedo l'ora di provare {reference}!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Child_01" translation="Voglio provare {reference}!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Child_02" translation="Woah! {reference} è super fico!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Child_03" translation="Se non riesco a provare {reference} vado fuori di testa!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Common_01" translation="Voglio andare a provare {reference}!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_01" translation="Wow, {reference} sembra davvero fico!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_02" translation="{reference} sembra super!"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_03" translation="Scommetto che {reference} è davvero divertente"/>
+		<entry key="Guest_Thought_Assessment_GoodSmallAttraction_Teen_04" translation="{reference} sembra fantastico!"/>
 		<entry key="Guest_Thought_Assessment_ItemCheap_Adult_01" translation="{reference} è super economica!"/>
 		<entry key="Guest_Thought_Assessment_ItemCheap_Adult_02" translation="{reference} è un ottimo affare adesso!"/>
 		<entry key="Guest_Thought_Assessment_ItemCheap_Adult_03" translation="non posso credere quanto {reference} sia conveniente!"/>
@@ -25024,35 +25024,35 @@
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_01" translation="Non comprerò niente da {reference} a quei prezzi"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_02" translation="Non esiste che mi faccio spennare da {reference}"/>
 		<entry key="Guest_Thought_Assessment_ShopExpensive_Teen_03" translation="{reference} è così costoso!"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Adult_01" translation="{reference} is too for me"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Adult_02" translation="I think {reference} would bore me"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Adult_03" translation="{reference} looks too slow for me"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Child_01" translation="{reference} looks like a baby's toy!"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Child_02" translation="{reference} is a waste of time"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Common_01" translation="{reference} looks too boring for me"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Teen_01" translation="{reference} is so... yawn"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Teen_02" translation="{reference} looks mega-boring to me!"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_01" translation="{reference} looks intense"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_02" translation="I bet {reference} is intense!"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Child_01" translation="{reference} looks too scary for me"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Child_02" translation="Yikes! {reference} is scary!"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Common_01" translation="{reference} looks too scary"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Teen_01" translation="{reference} looks super intense"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Teen_02" translation="Woah! {reference} is too intense for me"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Adult_01" translation="{reference} è troppo per me"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Adult_02" translation="Penso che {reference} mi annoierebbe"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Adult_03" translation="{reference} sembra troppo lento per me"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Child_01" translation="{reference} sembra il gioco di un bambino!"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Child_02" translation="{reference} è una perfita di tempo"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Common_01" translation="{reference} sembra troppo noioso per me"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Teen_01" translation="{reference} è così... yawn"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Teen_02" translation="{reference} sembra mega-noioso per me!"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_01" translation="{reference} sembra intenso"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_02" translation="I bet {reference} è intenso!"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Child_01" translation="{reference} sembra troppo spaventoso per me"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Child_02" translation="Yikes! {reference} è spaventoso!"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Common_01" translation="{reference} sembra troppo spaventoso"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Teen_01" translation="{reference} sembra super intenso"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Teen_02" translation="Woah! {reference} è troppo intenso per me"/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_01" translation="Non vale la pena usare {reference} "/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_02" translation="Non c'è ragione di prendere{reference} per andare da qualche parte"/>
 		<entry key="Guest_Thought_Assessment_Transport_Bad_Common_03" translation="Perchè ho buttato i miei soldi per {reference}? Non va da nessuna parte!"/>
-		<entry key="Guest_Thought_Assessment_Transport_Good_Common_01" translation="Potrei raggiungere facilmente le attrazzioni pi belle se prendo {reference}"/>
+		<entry key="Guest_Thought_Assessment_Transport_Good_Common_01" translation="Potrei raggiungere facilmente le attrazzioni più belle se prendo {reference}"/>
 		<entry key="Guest_Thought_Assessment_Transport_Good_Common_02" translation="Potrei prendere {reference} per risparmiare tempo"/>
 		<entry key="Guest_Thought_Assessment_Transport_Good_Common_03" translation="Prendere il {reference} mi porterà verso le giostre più belle"/>
-		<entry key="Guest_Thought_Assessment_Transport_Loop_Common_01" translation="{reference} won't take me anywhere exciting. I'm going to ride it back here"/>
-		<entry key="Guest_Thought_Assessment_Transport_Loop_Common_02" translation="I want to ride {reference} in a loop!"/>
-		<entry key="Guest_Thought_Assessment_Transport_Loop_Common_03" translation="{reference} looks like so much fun. Why would I want to get off anywhere?"/>
+		<entry key="Guest_Thought_Assessment_Transport_Loop_Common_01" translation="{reference} non mi porterà da nessuna parte eccitante, tornerò indietro"/>
+		<entry key="Guest_Thought_Assessment_Transport_Loop_Common_02" translation="Voglio risalire su {reference} continuamente!"/>
+		<entry key="Guest_Thought_Assessment_Transport_Loop_Common_03" translation="{reference} sembra così divertente. Perchè dovrei voler andare altrove?"/>
 		<entry key="Guest_Thought_CoasterCarPassing_Common_01" translation="Voglio fare un giro su {reference}!"/>
 		<entry key="Guest_Thought_CoasterCarPassing_Common_02" translation="{reference} sembra così bello!"/>
-		<entry key="Guest_Thought_CoasterCarPassing_Common_03" translation="Woah! dev'essere {reference}"/>
+		<entry key="Guest_Thought_CoasterCarPassing_Common_03" translation="Woah! deve essere {reference}"/>
 		<entry key="Guest_Thought_CoasterCarPassing_Common_04" translation="Non vedo l'ora di provare {reference}"/>
-		<entry key="Guest_Thought_DirtyFacility_Common_01" translation="{reference} isn't very clean."/>
+		<entry key="Guest_Thought_DirtyFacility_Common_01" translation="{reference} non è molto pulito."/>
 		<entry key="Guest_Thought_EnergyCritical_Destination_Common_01" translation="Sono stanco dopo {reference}"/>
 		<entry key="Guest_Thought_EnergyCritical_Destination_Common_02" translation="{reference} mi ha fatto stancare"/>
 		<entry key="Guest_Thought_EnergyCritical_Destination_Common_03" translation="{reference} mi ha stremato"/>
@@ -25085,8 +25085,8 @@
 		<entry key="Guest_Thought_FacilityQueueFull_Teen_01" translation="Ci vuole veramente troppo per fare un giro su {reference}"/>
 		<entry key="Guest_Thought_FacilityQueueFull_Teen_02" translation="Non voglio aspettare così tanto per {reference}"/>
 		<entry key="Guest_Thought_FacilityQueueFull_Teen_03" translation="Non mi metterò in fila per {reference}"/>
-		<entry key="Guest_Thought_FilthyFacility_Common_01" translation="{reference} makes me feel sick."/>
-		<entry key="Guest_Thought_FilthyFacility_Common_02" translation="{reference} isn't very clean."/>
+		<entry key="Guest_Thought_FilthyFacility_Common_01" translation="{reference} mi fa sentire male."/>
+		<entry key="Guest_Thought_FilthyFacility_Common_02" translation="{reference} non è molto pulito."/>
 		<entry key="Guest_Thought_FluffCongested_Common_01" translation="Questo parco è troppo congestionato."/>
 		<entry key="Guest_Thought_FluffCongested_Common_02" translation="Se un altra persona mi da uno spintone io..."/>
 		<entry key="Guest_Thought_FluffCongested_Common_03" translation="Perchè consentono di entrare a così tante persone nel parco?"/>
@@ -25212,7 +25212,7 @@
 		<entry key="Guest_Thought_Fluff_GoodShopTheming_Common_01" translation="{reference} è circondato da un ottimo paesaggio!"/>
 		<entry key="Guest_Thought_Fluff_GoodShopTheming_Teen_01" translation="Mi piace l'aspetto di {reference}"/>
 		<entry key="Guest_Thought_Fluff_GoodShopTheming_Teen_02" translation="C'è un paesaggio epico attorno a {reference}"/>
-		<entry key="Guest_Thought_Fluff_GoodShopTheming_Teen_03" translation="{reference} ha un bellissimos cenario"/>
+		<entry key="Guest_Thought_Fluff_GoodShopTheming_Teen_03" translation="{reference} ha un bellissimo scenario"/>
 		<entry key="Guest_Thought_Fluff_GoodTheming_Adult_01" translation="Wow! questo posto sembra bello"/>
 		<entry key="Guest_Thought_Fluff_GoodTheming_Adult_02" translation="Mi piace davvero quest'area"/>
 		<entry key="Guest_Thought_Fluff_GoodTheming_Adult_03" translation="Che bella vista!"/>
@@ -25295,41 +25295,41 @@
 		<entry key="Guest_Thought_Fluff_Unhappy_Teen_02" translation="Perché non posso andare su una attrazione?"/>
 		<entry key="Guest_Thought_Fluff_Unhappy_Teen_03" translation="Vorrei essere da un'altra parte"/>
 		<entry key="Guest_Thought_Fluff_Unhappy_Teen_04" translation="Questo è divertente come guardare la pittura asciugarsi"/>
-		<entry key="Guest_Thought_Game_Balanced_Child_01" translation="I can beat {reference} all by myself!"/>
-		<entry key="Guest_Thought_Game_Balanced_Common_01" translation="I wonder if I'll beat {reference} this time."/>
-		<entry key="Guest_Thought_Game_Balanced_Common_02" translation="Wish me luck!"/>
-		<entry key="Guest_Thought_Game_Balanced_Teen_01" translation="Check this out. I'm gonna defeat {reference}"/>
-		<entry key="Guest_Thought_Game_Balanced_Teen_02" translation="I've got the skills for {reference}"/>
-		<entry key="Guest_Thought_Game_DecidedToLeave_Common_01" translation="Actually, I've changed my mind about {reference}"/>
-		<entry key="Guest_Thought_Game_DecidedToLeave_Common_02" translation="Thinking about it, I won't bother with {reference}"/>
-		<entry key="Guest_Thought_Game_DecidedToLeave_Common_03" translation="Come to think of it, maybe I'll try {reference} later"/>
-		<entry key="Guest_Thought_Game_Draw_Common_01" translation="Neutral"/>
-		<entry key="Guest_Thought_Game_Lose_Adult_01" translation="Oh no, It looks like I lost"/>
-		<entry key="Guest_Thought_Game_Lose_Adult_02" translation="Oh well, guess I wasn't good enough for {reference}"/>
-		<entry key="Guest_Thought_Game_Lose_Child_01" translation="Ah man! I never win anything"/>
-		<entry key="Guest_Thought_Game_Lose_Child_02" translation="I didn't beat {reference}"/>
-		<entry key="Guest_Thought_Game_Lose_Common_01" translation="Oh no! I lost!"/>
-		<entry key="Guest_Thought_Game_Lose_Common_02" translation="I didn't get a prize from {reference}"/>
-		<entry key="Guest_Thought_Game_Lose_Teen_01" translation="Ah come on! I thought I could beat {reference}"/>
-		<entry key="Guest_Thought_Game_Lose_Teen_02" translation="{reference} sucks. I didn't win anything"/>
-		<entry key="Guest_Thought_Game_RiggedToLose_Adult_01" translation="I was warned about {reference}"/>
-		<entry key="Guest_Thought_Game_RiggedToLose_Child_01" translation="{reference} is way too hard"/>
-		<entry key="Guest_Thought_Game_RiggedToLose_Common_01" translation="I heard a rumour it's impossible to win on {reference}"/>
-		<entry key="Guest_Thought_Game_RiggedToLose_Common_02" translation="{reference} is definitely rigged. So unfair"/>
-		<entry key="Guest_Thought_Game_RiggedToLose_Teen_01" translation="{reference} is so totally rigged! Why bother!"/>
-		<entry key="Guest_Thought_Game_RiggedToWin_Child_01" translation="A baby could beat {reference}"/>
-		<entry key="Guest_Thought_Game_RiggedToWin_Common_01" translation="{reference} is way too easy!"/>
-		<entry key="Guest_Thought_Game_RiggedToWin_Common_02" translation="You always win on {reference}"/>
-		<entry key="Guest_Thought_Game_RiggedToWin_Teen_01" translation="{reference} is for little kids! I want a challenge"/>
-		<entry key="Guest_Thought_Game_Win_Adult_01" translation="Oh hey, Look I won"/>
-		<entry key="Guest_Thought_Game_Win_Adult_02" translation="I thought {reference} was suppose to be difficult"/>
-		<entry key="Guest_Thought_Game_Win_Child_01" translation="Yay! Look I beat {reference}"/>
-		<entry key="Guest_Thought_Game_Win_Child_02" translation="I got something from {reference}"/>
-		<entry key="Guest_Thought_Game_Win_Common_01" translation="I won a prize at {reference}!"/>
-		<entry key="Guest_Thought_Game_Win_Common_02" translation="Good, I beat {reference}"/>
-		<entry key="Guest_Thought_Game_Win_Teen_01" translation="Oh cool, I won."/>
-		<entry key="Guest_Thought_Game_Win_Teen_02" translation="Yeah, take that {reference}"/>
-		<entry key="Guest_Thought_Game_Win_Teen_03" translation="This prize is pretty cool, I guess"/>
+		<entry key="Guest_Thought_Game_Balanced_Child_01" translation="Posso battere {reference} da solo!"/>
+		<entry key="Guest_Thought_Game_Balanced_Common_01" translation="Mi chiedo se batterò {reference} questa volta."/>
+		<entry key="Guest_Thought_Game_Balanced_Common_02" translation="Augurami buona fortuna!"/>
+		<entry key="Guest_Thought_Game_Balanced_Teen_01" translation="Guarda. Sto per sconfiggere {reference}"/>
+		<entry key="Guest_Thought_Game_Balanced_Teen_02" translation="Sono pronto per {reference}"/>
+		<entry key="Guest_Thought_Game_DecidedToLeave_Common_01" translation="In realtà, ho cambiato idea su {reference}"/>
+		<entry key="Guest_Thought_Game_DecidedToLeave_Common_02" translation="Pensandoci, non mi preoccuperei di {reference}"/>
+		<entry key="Guest_Thought_Game_DecidedToLeave_Common_03" translation="Se ci penso, magari proverò {reference} più tardi"/>
+		<entry key="Guest_Thought_Game_Draw_Common_01" translation="Neutrale"/>
+		<entry key="Guest_Thought_Game_Lose_Adult_01" translation="Oh no, credo di aver perso"/>
+		<entry key="Guest_Thought_Game_Lose_Adult_02" translation="Oh beh, credo di non essere stato abbastanza bravo per {reference}"/>
+		<entry key="Guest_Thought_Game_Lose_Child_01" translation="Ah dai! Non ho mai vinto niente"/>
+		<entry key="Guest_Thought_Game_Lose_Child_02" translation="Non ho battuto {reference}"/>
+		<entry key="Guest_Thought_Game_Lose_Common_01" translation="Oh no! Ho perso!"/>
+		<entry key="Guest_Thought_Game_Lose_Common_02" translation="Non ho preso il premio di {reference}"/>
+		<entry key="Guest_Thought_Game_Lose_Teen_01" translation="Ah andiamo! Pensavo di battere {reference}"/>
+		<entry key="Guest_Thought_Game_Lose_Teen_02" translation="{reference} fa schifo. Non ho vinto niente"/>
+		<entry key="Guest_Thought_Game_RiggedToLose_Adult_01" translation="Ero stato avvisato su {reference}"/>
+		<entry key="Guest_Thought_Game_RiggedToLose_Child_01" translation="{reference} è davvero troppo difficile"/>
+		<entry key="Guest_Thought_Game_RiggedToLose_Common_01" translation="Ho sentito che è impossibile vincere con {reference}"/>
+		<entry key="Guest_Thought_Game_RiggedToLose_Common_02" translation="{reference} è davvero truccato. Non è giusto"/>
+		<entry key="Guest_Thought_Game_RiggedToLose_Teen_01" translation="{reference} è completamente truccato! Perchè perdere tempo!"/>
+		<entry key="Guest_Thought_Game_RiggedToWin_Child_01" translation="Anche un bambino potrebbe battere {reference}"/>
+		<entry key="Guest_Thought_Game_RiggedToWin_Common_01" translation="{reference} è davvero troppo facile!"/>
+		<entry key="Guest_Thought_Game_RiggedToWin_Common_02" translation="Vinci sempre con {reference}"/>
+		<entry key="Guest_Thought_Game_RiggedToWin_Teen_01" translation="{reference} è per bambini! Voglio una sfida"/>
+		<entry key="Guest_Thought_Game_Win_Adult_01" translation="Oh hey, guarda ho vinto"/>
+		<entry key="Guest_Thought_Game_Win_Adult_02" translation="Pensavo che {reference} dovesse essere difficile"/>
+		<entry key="Guest_Thought_Game_Win_Child_01" translation="Yay! Guarda ho battuto {reference}"/>
+		<entry key="Guest_Thought_Game_Win_Child_02" translation="Ho preso qualcosa da {reference}"/>
+		<entry key="Guest_Thought_Game_Win_Common_01" translation="Ho vinto un premio da {reference}!"/>
+		<entry key="Guest_Thought_Game_Win_Common_02" translation="Bene, ho battuto {reference}"/>
+		<entry key="Guest_Thought_Game_Win_Teen_01" translation="Oh fico, ho vinto."/>
+		<entry key="Guest_Thought_Game_Win_Teen_02" translation="Yeah, prendi questo {reference}"/>
+		<entry key="Guest_Thought_Game_Win_Teen_03" translation="Questo premio è piuttosto fico, mi sembra"/>
 		<entry key="Guest_Thought_GoingHome_Adult_01" translation="Credo che per oggi abbia finito qui"/>
 		<entry key="Guest_Thought_GoingHome_Adult_02" translation="Il tempo è praticamente volato"/>
 		<entry key="Guest_Thought_GoingHome_Adult_03" translation="Spero che non ci sia traffico per tornare a casa"/>
@@ -27255,63 +27255,63 @@
 		<entry key="UserScenery_ButtonPrevious" translation="Precedente"/>
 		<entry key="UserScenery_ButtonUpdateWorkshopItem" translation="Aggiorna elemento per Workshop"/>
 		<entry key="UserScenery_CannotUploadItem" translation="Non è possibile caricare questo elemento Toolkit"/>
-		<entry key="UserScenery_CannotUploadItemMessage" translation="The file for this local Thememaker's Toolkit item cannot be found. Check that it is still in your TMT folder."/>
+		<entry key="UserScenery_CannotUploadItemMessage" translation="Questo file per l'elemento Thememaker's Toolkit locale non può essere trovato. Controlla che sia ancora nella tua cartella TMT."/>
 		<entry key="UserScenery_ChooseWorkshopDescription" translation="I miei elementi del Workshop Thememaker's Toolkit"/>
-		<entry key="UserScenery_DownloadFailed" translation="Content subscription failed"/>
-		<entry key="UserScenery_DownloadFailed_Body" translation="One or more items failed to download. Were they deleted from Steam?"/>
-		<entry key="UserScenery_DownloadPrompt_BlueprintBody" translation="This blueprint contains Toolkit items you haven't downloaded. You can either load the blueprint with these items missing or download them all from the Steam Workshop"/>
-		<entry key="UserScenery_DownloadPrompt_Body" translation="This park contains Toolkit items you haven't downloaded. You can either load the park with these items missing or download them all from the Steam Workshop"/>
-		<entry key="UserScenery_DownloadPrompt_Cancel" translation="Cancel Load"/>
-		<entry key="UserScenery_DownloadPrompt_DownloadButton" translation="Download missing Toolkit items"/>
-		<entry key="UserScenery_DownloadPrompt_DownloadButton_InProgress" translation="Loading Thememaker's Toolkit..."/>
-		<entry key="UserScenery_DownloadPrompt_LoadAnyway" translation="Continue loading without Toolkit items"/>
-		<entry key="UserScenery_DownloadPrompt_Title" translation="Missing Toolkit items"/>
-		<entry key="UserScenery_Error_FailedToCreateEditItem" translation="Failed creating a Steam Workshop item from this Toolkit item."/>
-		<entry key="UserScenery_Error_FailedToCreateItemContent" translation="Failed creating a Steam Workshop item from this Toolkit item."/>
-		<entry key="UserScenery_Error_ListSteamInsufficientPrivilege" translation="Your Steam account has insufficient privileges to access the Steam Workshop"/>
-		<entry key="UserScenery_Error_ListSteamInterrupted" translation="Requesting your Toolkit items from the Workshop was interrupted"/>
-		<entry key="UserScenery_Error_ListSteamNotLoggedIn" translation="Not logged in to Steam - could not list your Toolkit items from the Steam Workshop"/>
-		<entry key="UserScenery_Error_ListSteamTimeout" translation="Timed out listing your Toolkit items from the Steam Workshop"/>
-		<entry key="UserScenery_Error_ListSteamUnknownError" translation="An unknown error occurred requesting your Toolkit items from the Steam Workshop"/>
-		<entry key="UserScenery_Error_UploadSteamInsufficientPrivilege" translation="Your Steam account has insufficient privileges to upload to the Steam Workshop."/>
-		<entry key="UserScenery_Error_UploadSteamInterrupted" translation="Uploading the item to the Steam Workshop was interrupted."/>
-		<entry key="UserScenery_Error_UploadSteamNotLoggedIn" translation="Not logged in to Steam - could not upload the item to the Steam Workshop."/>
-		<entry key="UserScenery_Error_UploadSteamTimeout" translation="Timed out uploading the item to the Steam Workshop."/>
-		<entry key="UserScenery_Error_UploadSteamTitle" translation="Error uploading Toolkit item"/>
-		<entry key="UserScenery_Error_UploadSteamUnknownError" translation="An unknown error occurred uploading the item to the Steam Workshop."/>
-		<entry key="UserScenery_ImagePreviewLabel" translation="Image Preview"/>
-		<entry key="UserScenery_InProgress" translation="Uploading to Steam"/>
+		<entry key="UserScenery_DownloadFailed" translation="Sottoscrizione contenuto fallita"/>
+		<entry key="UserScenery_DownloadFailed_Body" translation="Lo scaricamento di uno o più elementi è fallito. Sono stati cancellati da Steam?"/>
+		<entry key="UserScenery_DownloadPrompt_BlueprintBody" translation="Questo progetto contiene elementi Toolkit che non hai scaricato. Puoi caricare il progetto senza questi elementi mancanti o caricarli tutti dal Workshop di Steam "/>
+		<entry key="UserScenery_DownloadPrompt_Body" translation="Questo parco contiene elementi Toolkit che non hai scaricato. Puoi caricare il parco senza questi elementi mancanti o caricarli tutti dal Workshop di Steam"/>
+		<entry key="UserScenery_DownloadPrompt_Cancel" translation="Annulla Caricamento"/>
+		<entry key="UserScenery_DownloadPrompt_DownloadButton" translation="Caricamento elementi Toolkit mancanti"/>
+		<entry key="UserScenery_DownloadPrompt_DownloadButton_InProgress" translation="Caricamento Thememaker's Toolkit..."/>
+		<entry key="UserScenery_DownloadPrompt_LoadAnyway" translation="Continua il caricamento senza gli elementi Toolkit"/>
+		<entry key="UserScenery_DownloadPrompt_Title" translation="Elementi Toolkit mancanti"/>
+		<entry key="UserScenery_Error_FailedToCreateEditItem" translation="Creazione elemento Workshop di Steam da questo elemento Toolkit fallita."/>
+		<entry key="UserScenery_Error_FailedToCreateItemContent" translation="Creazione elemento Workshop di Steam da questo elemento Toolkit fallita."/>
+		<entry key="UserScenery_Error_ListSteamInsufficientPrivilege" translation="Il tuo account Steam ha privilegi insufficienti per accedere al Workshop di Steam"/>
+		<entry key="UserScenery_Error_ListSteamInterrupted" translation="La richiesta dei tuoi elementi Toolkit dal Workshop è stata interrotta"/>
+		<entry key="UserScenery_Error_ListSteamNotLoggedIn" translation="Non hai effettuato l'accesso a Steam - non è possibile elencare i tuoi elementi Toolkit dal Workshop di Steam"/>
+		<entry key="UserScenery_Error_ListSteamTimeout" translation="Elenco dei tuoi elementi Toolkit dal Workshop di Steam interrotto"/>
+		<entry key="UserScenery_Error_ListSteamUnknownError" translation="Si è verificato un errore nella richiesta dei tuoi elementi Toolkit dal Workshop di Steam"/>
+		<entry key="UserScenery_Error_UploadSteamInsufficientPrivilege" translation="Il tuo account Steam ha privilegi insufficienti per effettuare un upload al Workshop di Steam."/>
+		<entry key="UserScenery_Error_UploadSteamInterrupted" translation="Il caricamento dell'elemento sul Workshop di Steam è stato interrotto."/>
+		<entry key="UserScenery_Error_UploadSteamNotLoggedIn" translation="Non hai effettuato l'accesso a Steam - non è possibile fare l'upload dell'elemento sul Workshop di Steam."/>
+		<entry key="UserScenery_Error_UploadSteamTimeout" translation="Upload dei tuoi elementi Toolkit sul Workshop di Steam interrotto."/>
+		<entry key="UserScenery_Error_UploadSteamTitle" translation="Errore di upload elemento Toolkit"/>
+		<entry key="UserScenery_Error_UploadSteamUnknownError" translation="Un errore sconosciuto si è verificato nel upload dell'elemento sul Workshop di Steam."/>
+		<entry key="UserScenery_ImagePreviewLabel" translation="Anteprima Immagine"/>
+		<entry key="UserScenery_InProgress" translation="Uploading su Steam"/>
 		<entry key="UserScenery_ItemDescription" translation="{DESC}"/>
-		<entry key="UserScenery_ItemDescription_Steam_Default" translation="Enter a description of your Toolkit item..."/>
+		<entry key="UserScenery_ItemDescription_Steam_Default" translation="Inserisci una descrizione del tuo elemento Toolkit..."/>
 		<entry key="UserScenery_ItemName" translation="{NAME}"/>
-		<entry key="UserScenery_ItemName_Steam_Default" translation="Name your Toolkit item for Steam"/>
-		<entry key="UserScenery_ListErrorTitle" translation="Error Listing Toolkit Items"/>
-		<entry key="UserScenery_LoadingPage" translation="Loading..."/>
-		<entry key="UserScenery_MissingError_Accept" translation="Continue"/>
-		<entry key="UserScenery_MissingError_BlueprintBody" translation="This blueprint was created using local Toolkit items which have been deleted. You can either place it without the missing Toolkit items, cancel placement or delete the blueprint"/>
-		<entry key="UserScenery_MissingError_CancelPlacement" translation="Cancel"/>
-		<entry key="UserScenery_MissingError_DeleteBlueprint" translation="Delete"/>
-		<entry key="UserScenery_MissingError_Park_Body" translation="This park was created using local Toolkit items which have since been deleted. Would you like to load the park without the missing Toolkit items?"/>
-		<entry key="UserScenery_MissingError_Title" translation="Missing local Toolkit items"/>
-		<entry key="UserScenery_MyUGCTitle" translation="My Thememaker's Toolkit Workshop items"/>
-		<entry key="UserScenery_NewWorkshopItemDesc" translation="Create a new workshop item"/>
-		<entry key="UserScenery_NewWorkshopItemLabel" translation="New Workshop item"/>
-		<entry key="UserScenery_ObjectDetailsLabel" translation="Object Details"/>
-		<entry key="UserScenery_ParkUpload_LocalUGCTooltip" translation="This park relies on local Toolkit items and so can't be uploaded to the Workshop"/>
-		<entry key="UserScenery_ScreenCapSubTitle" translation="Position the camera using the mouse to capture an image for Steam Workshop"/>
-		<entry key="UserScenery_ScreenCapTitle" translation="Create an Image"/>
-		<entry key="UserScenery_ScreenCap_Accept" translation="Create Image"/>
-		<entry key="UserScenery_SelectPage" translation="Page {PageNumber:int:minDigits=1} of {Total:int:minDigits=1}"/>
-		<entry key="UserScenery_ShouldUpdateScreenshotLabel" translation="Would you like to update the workshop image for this item?"/>
-		<entry key="UserScenery_ShouldUpdateScreenshotTitle" translation="Update Screenshot"/>
-		<entry key="UserScenery_SteamWorkshopItemDesc" translation="Workshop Description"/>
-		<entry key="UserScenery_SteamWorkshopItemTitle" translation="Workshop Title"/>
-		<entry key="UserScenery_TitleCreateWorkshopItem" translation="Creating Workshop Item"/>
-		<entry key="UserScenery_TitleUpdateWorkshopItem" translation="Updating Workshop Item"/>
-		<entry key="UserScenery_UploadButtonText" translation="Upload to Steam"/>
-		<entry key="UserScenery_UploadButton_Offline" translation="You are offline!"/>
-		<entry key="UserScenery_UploadErrorTitle" translation="Error Uploading Workshop Item"/>
-		<entry key="UserScenery_WorkshopAgreement" translation="By submitting this item, you agree to the&#10;&lt;font color='#FF0000'&gt;Steam Workshop terms of service&lt;/font&gt;"/>
-		<entry key="Yes" translation="Yes"/>
+		<entry key="UserScenery_ItemName_Steam_Default" translation="Dai un nome al tuo elemento Toolkit per Steam"/>
+		<entry key="UserScenery_ListErrorTitle" translation="Errore nell'elenco degli elementi Toolkit"/>
+		<entry key="UserScenery_LoadingPage" translation="Caricamento..."/>
+		<entry key="UserScenery_MissingError_Accept" translation="Continua"/>
+		<entry key="UserScenery_MissingError_BlueprintBody" translation="Questo progetto è stato creato utilizzando elementi Toolkit locali che sono stati poi cancellati. Puoi posizionarlo senza gli elementi Toolkit mancanti, annullare il posizionamento o cancellare il progetto"/>
+		<entry key="UserScenery_MissingError_CancelPlacement" translation="Annulla"/>
+		<entry key="UserScenery_MissingError_DeleteBlueprint" translation="Cancella"/>
+		<entry key="UserScenery_MissingError_Park_Body" translation="Questo parco è stato creato utilizzando elementi Toolkit locali che sono stati poi cancellati. Vuoi caricare il parco senza gli elementi toolkit mancanti?"/>
+		<entry key="UserScenery_MissingError_Title" translation="Elementi Toolkit locali mancanti"/>
+		<entry key="UserScenery_MyUGCTitle" translation="I miei elementi Workshop del Thememaker's Toolkit"/>
+		<entry key="UserScenery_NewWorkshopItemDesc" translation="Crea un nuovo elemento Workshop"/>
+		<entry key="UserScenery_NewWorkshopItemLabel" translation="Nuovo elemento Workshop"/>
+		<entry key="UserScenery_ObjectDetailsLabel" translation="Dettagli Oggetto"/>
+		<entry key="UserScenery_ParkUpload_LocalUGCTooltip" translation="Questo parco utilizza elementi locali del Toolkit e non può essere caricato sul Workshop"/>
+		<entry key="UserScenery_ScreenCapSubTitle" translation="Posiziona la visuale usando il mouse per catturare un immagine per il Workshop di Steam"/>
+		<entry key="UserScenery_ScreenCapTitle" translation="Crea un Immagine"/>
+		<entry key="UserScenery_ScreenCap_Accept" translation="Crea Immagine"/>
+		<entry key="UserScenery_SelectPage" translation="Pagina {PageNumber:int:minDigits=1} di {Total:int:minDigits=1}"/>
+		<entry key="UserScenery_ShouldUpdateScreenshotLabel" translation="Vuoi aggiornare l'immagine del workshop per questo elemento?"/>
+		<entry key="UserScenery_ShouldUpdateScreenshotTitle" translation="Aggiorna Screenshot"/>
+		<entry key="UserScenery_SteamWorkshopItemDesc" translation="Descrizione Workshop"/>
+		<entry key="UserScenery_SteamWorkshopItemTitle" translation="Titolo Workshop"/>
+		<entry key="UserScenery_TitleCreateWorkshopItem" translation="Creando Elemento Workshop"/>
+		<entry key="UserScenery_TitleUpdateWorkshopItem" translation="Aggiornando Elemento Workshop"/>
+		<entry key="UserScenery_UploadButtonText" translation="Upload su Steam"/>
+		<entry key="UserScenery_UploadButton_Offline" translation="Sei offline!"/>
+		<entry key="UserScenery_UploadErrorTitle" translation="Errore di Upload Elemento Workshop "/>
+		<entry key="UserScenery_WorkshopAgreement" translation="Inoltrando questo elemento, accetti i &#10;&lt;font color='#FF0000'&gt;Termini di servizio del Workshop di Steam&lt;/font&gt;"/>
+		<entry key="Yes" translation="Si"/>
 	</translation>
 </localisation>
