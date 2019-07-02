@@ -517,10 +517,10 @@
 		<entry key="Blueprints_TridentBlueprint01Desc" translation="Uno schema per il coaster Boomerang"/>
 		<entry key="Blueprints_UFO" translation="UFO"/>
 		<entry key="Blueprints_UFODesc" translation="E' UN'OGGETTO VOLANTE NON IDENTIFICATO!"/>
-		<entry key="Blueprints_UGCCategoryTitle" translation="Categories:"/>
-		<entry key="Blueprints_UGCItemColorTitle" translation="Default flexicolour:"/>
-		<entry key="Blueprints_UGCItemDescTitle" translation="Description:"/>
-		<entry key="Blueprints_UGCItemNameTitle" translation="Name:"/>
+		<entry key="Blueprints_UGCCategoryTitle" translation="Categorie:"/>
+		<entry key="Blueprints_UGCItemColorTitle" translation="Colore predefinito:"/>
+		<entry key="Blueprints_UGCItemDescTitle" translation="Descrizione:"/>
+		<entry key="Blueprints_UGCItemNameTitle" translation="Nome:"/>
 		<entry key="Blueprints_UpdateBlueprint" translation="Aggiorna un progetto salvato"/>
 		<entry key="Blueprints_VaseCollection" translation="Collezione di Vasi"/>
 		<entry key="Blueprints_VaseCollectionDesc" translation="Una splendida collezione di vasi."/>
@@ -2040,10 +2040,10 @@
 		<entry key="BuildingPartDesc_FT_Gargoyle_Dragon" translation="Qualcosa di feroce.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Gargoyle_Drat" translation="Qualcosa di carino.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Gargoyle_Witch" translation="Qualcosa di pauroso.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_HangingBasket_01" translation="Contiene fiori stagionati.\nTema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_HangingBasket_01" translation="Contiene fiori di stagione.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_HangingBasket_02" translation="Un Cestino letteralmente appeso.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_LargeDecorativeSign" translation="Per fare un'entrata.\nTema Fantasy"/>
-		<entry key="BuildingPartDesc_FT_ParchmentSign" translation="Il Bagliore magico è gratis.\nTema Fantasy"/>
+		<entry key="BuildingPartDesc_FT_ParchmentSign" translation="La Magica Scintilla è libera.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Pennant_Blue_Large" translation="Dondolare nella Brezza.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Pennant_Blue_Small" translation="Dondolare nella Brezza.\nTema Fantasy"/>
 		<entry key="BuildingPartDesc_FT_Pennant_Double_Large" translation="Dondolare nella Brezza.\nTema Fantasy"/>
@@ -2220,8 +2220,8 @@
 		<entry key="BuildingPartDesc_PR_Cutlass" translation="Un ornamento piratesco casalingo e pratica arma tutto in uno.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Cutlass_Left" translation="Un ornamento piratesco casalingo e pratica arma tutto in uno.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Cutlass_Right" translation="Un ornamento piratesco casalingo e pratica arma tutto in uno.\nTema Pirata"/>
-		<entry key="BuildingPartDesc_PR_Flag_01" translation="Il Segno del Capitano Lockjaw.\nTema Pirata"/>
-		<entry key="BuildingPartDesc_PR_Flag_02" translation="Il segno di un capitano pirata dimenticato a lungo.\nTema Pirata"/>
+		<entry key="BuildingPartDesc_PR_Flag_01" translation="Il Vessillo del Capitano Lockjaw.\nTema Pirata"/>
+		<entry key="BuildingPartDesc_PR_Flag_02" translation="Il Vessillo di un capitano pirata a lungo dimenticato.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Flag_03" translation="La bandiera della regina dei Pirati.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Flag_04" translation="La Bandiera Nazionale del Regno Unito.\nTema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Frieze_01" translation="Fregio del Polpo!\nTema Pirata"/>
@@ -2411,8 +2411,8 @@
 		<entry key="BuildingPartDesc_WD_Bracket_B_03" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_Bracket_B_04" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_Bracket_B_05" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WD_ChimneyBend_B_01" translation="Rimuove il fumo.&#10;Tema Western"/>
-		<entry key="BuildingPartDesc_WD_Chimney_B_01" translation="Rimuove il fumo.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WD_ChimneyBend_B_01" translation="Porta via il fumo.&#10;Tema Western"/>
+		<entry key="BuildingPartDesc_WD_Chimney_B_01" translation="Porta via il fumo.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_Column_B_01_6m" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_Column_B_02_1m" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
 		<entry key="BuildingPartDesc_WD_Column_B_02_2m" translation="Le cose non possono mai essere troppo robuste.&#10;Tema Western"/>
@@ -3019,23 +3019,23 @@
 		<entry key="BuildingPartName_WS_Sign_B_WantedPoster" translation="Poster da Ricercato"/>
 		<!--C10_Blueprints-->
 		<entry key="Blueprints_VNTRBlueprint01" translation="Argentum"/>
-		<entry key="Blueprints_VNTRBlueprint01Desc" translation="A layout for the F25 coaster&#10;Frontier's 25th Anniversary"/>
+		<entry key="Blueprints_VNTRBlueprint01Desc" translation="Uno schema per il coaster F25&#10;25° Anniversario Frontier"/>
 		<!--C10_Coasters-->
-		<entry key="Coaster_Type_VNTR" translation="Launched - Drive Tyre"/>
+		<entry key="Coaster_Type_VNTR" translation="Lanciato - A pneumatici- "/>
 		<entry key="Coaster_VNTR" translation="F25"/>
-		<entry key="Coaster_VNTR_Desc" translation="Drive Tyre Launched coaster that includes two different drive tyre mechanisms for a variable speed launch.&#10;Frontier's 25th Anniversary"/>
-		<entry key="TrackElementDesc_FrictionWheelLift_VNTR" translation="Propels coasters up a slope or along the track at moderate speeds.&#10;&#10;This track element can be used before the Drive Tyre Launch to create a dual stage launch."/>
-		<entry key="TrackElementDesc_TireLaunch_Booster_VNTR" translation="Propels coasters along the track at a faster speed than the standard Friction Wheel Lift.&#10;&#10;This track element can be used after the Friction Wheel Lift to create a dual stage launch."/>
-		<entry key="TrackElementName_FrictionWheelLift_VNTR" translation="Friction Wheel Lift"/>
-		<entry key="TrackElementName_TireLaunch_Booster_VNTR" translation="Drive Tyre Launch"/>
-		<entry key="TrackElementTool_FrictionWheelLift_VNTR" translation="&lt;font color='accent'&gt;Friction Wheel Lift&lt;/font&gt;&#10;Propels coasters up a slope or along the track at moderate speeds.&#10;&#10;This track element can be used before the Drive Tyre Launch to create a dual stage launch."/>
-		<entry key="TrackElementTool_TireLaunch_Booster_VNTR" translation="&lt;font color='accent'&gt;Drive Tyre Launch&lt;/font&gt;&#10;Propels coasters along the track at a faster speed than the standard Friction Wheel Lift.&#10;&#10;This track element can be used after the Friction Wheel Lift to create a dual stage launch."/>
+		<entry key="Coaster_VNTR_Desc" translation="Coaster lanciato a pneumatici che include due differenti meccanismi a pneumatico per una velocità di lancio variabile.&#10;25° Anniversario Frontier"/>
+		<entry key="TrackElementDesc_FrictionWheelLift_VNTR" translation="Spinge i coaster su una salita o lungo un tracciato a velocità moderata.&#10;&#10;Questo elemento può essere utilizzato prima di un lancio pneumatico per creare un lancio a due tempi."/>
+		<entry key="TrackElementDesc_TireLaunch_Booster_VNTR" translation="Spinge i coaster lungo un tracciato ad una velocità maggiore rispetto al sollevamento a ruota di attrito standard.&#10;&#10;Questo elemento può essere utilizzato dopo il sollevamento a ruota di attrito per creare un lancio a due tempi."/>
+		<entry key="TrackElementName_FrictionWheelLift_VNTR" translation="Sollevamento a Ruota di Attrito"/>
+		<entry key="TrackElementName_TireLaunch_Booster_VNTR" translation="Lancio Pneumatico"/>
+		<entry key="TrackElementTool_FrictionWheelLift_VNTR" translation="&lt;font color='accent'&gt;Sollevamento a Ruota di Attrito&lt;/font&gt;&#10;Spinge i coaster su una salita o lungo un tracciato a velocità moderata.&#10;&#10;Questo elemento può essere utilizzato prima di un lancio pneumatico per creare un lancio a due tempi."/>
+		<entry key="TrackElementTool_TireLaunch_Booster_VNTR" translation="&lt;font color='accent'&gt;Lancio Pneumatico&lt;/font&gt;&#10;Spinge i coaster lungo un tracciato ad una velocità maggiore rispetto al sollevamento a ruota di attrito standard.&#10;&#10;Questo elemento può essere utilizzato dopo il sollevamento a ruota di attrito per creare un lancio a due tempi."/>
 		<!--C10_Facilities-->
-		<entry key="ShopItem_Balloon_SpecialEffect" translation="SpecialEffect Balloon"/>
-		<entry key="ShopItem_Hat_Baseball_SpecialEffect" translation="SpecialEffect Baseball Cap"/>
+		<entry key="ShopItem_Balloon_SpecialEffect" translation="Palloncino EffettiSpeciali"/>
+		<entry key="ShopItem_Hat_Baseball_SpecialEffect" translation="Cappellino Baseball EffettiSpeciali"/>
 		<!--C10_Research-->
-		<entry key="Research_Hint_Coaster_CPRHD" translation="Struck by the snake"/>
-		<entry key="Research_Hint_Coaster_VNTR" translation="The power of rubber"/>
+		<entry key="Research_Hint_Coaster_CPRHD" translation="Colpito dal serpente"/>
+		<entry key="Research_Hint_Coaster_VNTR" translation="Il potere della gomma"/>
 		<entry key="Research_Revealed_Coaster_CPRHD" translation="Copperhead Strike"/>
 		<entry key="Research_Revealed_Coaster_VNTR" translation="F25"/>
 		<!--C10_Trains-->
@@ -3043,61 +3043,61 @@
 		<entry key="Train_VNTR" translation="F25"/>
 		<!--C11_Blueprints-->
 		<entry key="Blueprints_CPRHDBlueprint01" translation="Copperhead Strike"/>
-		<entry key="Blueprints_CPRHDBlueprint01Desc" translation="Official recreation of the Copperhead Strike coaster.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
+		<entry key="Blueprints_CPRHDBlueprint01Desc" translation="Rappresentazione ufficiale del coaster Copperhead Strike.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
 		<!--C11_Coasters-->
 		<entry key="Coaster_CPRHD" translation="Copperhead Strike"/>
-		<entry key="Coaster_CPRHD_Desc" translation="Official recreation of the Copperhead Strike coaster. Highly flexible steel coaster with an LSM launch system.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
-		<entry key="Coaster_Type_CPRHD" translation="Launched"/>
-		<entry key="TrackElementDesc_360LoopLeft" translation="360 Loop Left"/>
-		<entry key="TrackElementDesc_360LoopRight" translation="360 Loop Right"/>
-		<entry key="TrackElementDesc_InvertedTopHatLeft" translation="Inverted Top Hat Left"/>
-		<entry key="TrackElementDesc_InvertedTopHatRight" translation="Inverted Top Hat Right"/>
-		<entry key="TrackElementDesc_JoJoRollLeft" translation="Jojo Roll Left"/>
-		<entry key="TrackElementDesc_JoJoRollRight" translation="Jojo Roll Right"/>
-		<entry key="TrackElementName_360LoopLeft" translation="360 Loop Left"/>
-		<entry key="TrackElementName_360LoopRight" translation="360 Loop Right"/>
-		<entry key="TrackElementName_InvertedTopHatLeft" translation="Inverted Top Hat Left"/>
-		<entry key="TrackElementName_InvertedTopHatRight" translation="Inverted Top Hat Right"/>
-		<entry key="TrackElementName_JoJoRollLeft" translation="Jojo Roll Left"/>
-		<entry key="TrackElementName_JoJoRollRight" translation="Jojo Roll Right"/>
-		<entry key="TrackElementTool_360LoopLeft" translation="360 Loop Left"/>
-		<entry key="TrackElementTool_360LoopRight" translation="360 Loop Right"/>
-		<entry key="TrackElementTool_InvertedTopHatLeft" translation="Inverted Top Hat Left"/>
-		<entry key="TrackElementTool_InvertedTopHatRight" translation="Inverted Top Hat Right"/>
-		<entry key="TrackElementTool_JoJoRollLeft" translation="Jojo Roll Left"/>
-		<entry key="TrackElementTool_JoJoRollRight" translation="Jojo Roll Right"/>
+		<entry key="Coaster_CPRHD_Desc" translation="Rappresentazione ufficiale del coaster Copperhead Strike. Coaster in acciaio molto flessibile con sistema di lancio LSM.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
+		<entry key="Coaster_Type_CPRHD" translation="Lanciato"/>
+		<entry key="TrackElementDesc_360LoopLeft" translation="360 Loop Sinistro"/>
+		<entry key="TrackElementDesc_360LoopRight" translation="360 Loop Destro"/>
+		<entry key="TrackElementDesc_InvertedTopHatLeft" translation="Inverted Top Hat Sinistro"/>
+		<entry key="TrackElementDesc_InvertedTopHatRight" translation="Inverted Top Hat Destro"/>
+		<entry key="TrackElementDesc_JoJoRollLeft" translation="Jojo Roll Sinistro"/>
+		<entry key="TrackElementDesc_JoJoRollRight" translation="Jojo Roll Destro"/>
+		<entry key="TrackElementName_360LoopLeft" translation="360 Loop Sinistro"/>
+		<entry key="TrackElementName_360LoopRight" translation="360 Loop Destro"/>
+		<entry key="TrackElementName_InvertedTopHatLeft" translation="Inverted Top Hat Sinistro"/>
+		<entry key="TrackElementName_InvertedTopHatRight" translation="Inverted Top Hat Destro"/>
+		<entry key="TrackElementName_JoJoRollLeft" translation="Jojo Roll Sinistro"/>
+		<entry key="TrackElementName_JoJoRollRight" translation="Jojo Roll Destro"/>
+		<entry key="TrackElementTool_360LoopLeft" translation="360 Loop Sinistro"/>
+		<entry key="TrackElementTool_360LoopRight" translation="360 Loop Destro"/>
+		<entry key="TrackElementTool_InvertedTopHatLeft" translation="Inverted Top Hat Sinistro"/>
+		<entry key="TrackElementTool_InvertedTopHatRight" translation="Inverted Top Hat Destro"/>
+		<entry key="TrackElementTool_JoJoRollLeft" translation="Jojo Roll Sinistro"/>
+		<entry key="TrackElementTool_JoJoRollRight" translation="Jojo Roll Destro"/>
 		<!--C11_Scenery-->
-		<entry key="BuildingPartDesc_CS_CStrike_Sign_Large" translation="Official sign for the Copperhead Strike coaster.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
-		<entry key="BuildingPartDesc_CS_Carowinds_Sign_Large" translation="Official Carowinds sign.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
-		<entry key="BuildingPartDesc_CS_Carowinds_Sign_Small" translation="Official Carowinds sign.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
-		<entry key="BuildingPartName_CS_CStrike_Sign_Large" translation="Official Copperhead Strike Sign"/>
-		<entry key="BuildingPartName_CS_Carowinds_Sign_Large" translation="Official Carowinds Large Sign"/>
-		<entry key="BuildingPartName_CS_Carowinds_Sign_Small" translation="Official Carowinds Sign"/>
+		<entry key="BuildingPartDesc_CS_CStrike_Sign_Large" translation="Cartello ufficiale per il coaster Copperhead Strike.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
+		<entry key="BuildingPartDesc_CS_Carowinds_Sign_Large" translation="Cartello ufficiale Carowinds.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
+		<entry key="BuildingPartDesc_CS_Carowinds_Sign_Small" translation="Cartello ufficiale Carowinds.&#10;Cedar Fair Entertainment Company®&#10;©2019 Cedar Fair, L.P."/>
+		<entry key="BuildingPartName_CS_CStrike_Sign_Large" translation="Cartello ufficiale Copperhead Strike"/>
+		<entry key="BuildingPartName_CS_Carowinds_Sign_Large" translation="Cartello ufficiale Carowinds grande"/>
+		<entry key="BuildingPartName_CS_Carowinds_Sign_Small" translation="Cartello ufficiale Carowinds"/>
 		<!--C12_Blueprints-->
 		<entry key="Blueprints_Interactive_Shooting_Ride_01" translation="Quick Draw"/>
-		<entry key="Blueprints_Interactive_Shooting_Ride_01Desc" translation="Interactive shooting ride with a Western theme."/>
-		<entry key="Blueprints_TargetsBlueprint01" translation="Target Flower"/>
-		<entry key="Blueprints_TargetsBlueprint01Desc" translation="Target group that presents targets in several patterns. These targets should be attached to an interactive shooting ride, and their display sequencer attached to the ride's trigger system."/>
-		<entry key="Blueprints_TargetsBlueprint02" translation="Target Stacks"/>
-		<entry key="Blueprints_TargetsBlueprint02Desc" translation="Target group that presents targets in a basic pattern. These targets should be attached to an interactive shooting ride, and their display sequencer attached to the ride's trigger system."/>
-		<entry key="Blueprints_TargetsBlueprint03" translation="Target Range Tower"/>
-		<entry key="Blueprints_TargetsBlueprint03Desc" translation="Target range styled tower that presents target groups at increasing speed. These targets should be attached to an interactive shooting ride, and their display sequencer attached to the ride's trigger system."/>
-		<entry key="Blueprints_TargetsBlueprint04" translation="Target Mill"/>
-		<entry key="Blueprints_TargetsBlueprint04Desc" translation="Target range that reveals groups of targets at varying distances. These targets should be attached to an interactive shooting ride, and their display sequencer attached to the ride's trigger system."/>
+		<entry key="Blueprints_Interactive_Shooting_Ride_01Desc" translation="Attrazione a bersagli interattivi a tema Western."/>
+		<entry key="Blueprints_TargetsBlueprint01" translation="Fiore di bersagli"/>
+		<entry key="Blueprints_TargetsBlueprint01Desc" translation="Insieme di bersagli proposto in svariate configurazioni. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint02" translation="File di bersagli"/>
+		<entry key="Blueprints_TargetsBlueprint02Desc" translation="Insieme di bersagli proposto in configurazione base. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint03" translation="Torre di bersagli"/>
+		<entry key="Blueprints_TargetsBlueprint03Desc" translation="Poligono a forma di torre che mostra i bersagli a velocità crescente. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint04" translation="Segheria con bersagli"/>
+		<entry key="Blueprints_TargetsBlueprint04Desc" translation="Poligono che mostra i bersagli a varie distanze. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
 		<!--C12_Coasters-->
-		<entry key="Coaster_Type_Interactive_Shooting_Ride" translation="Interactive Shooting Ride"/>
+		<entry key="Coaster_Type_Interactive_Shooting_Ride" translation="Attrazione a Bersagli Interattivi"/>
 		<entry key="Powered_Interactive_Shooting_Ride" translation="Quick Draw"/>
-		<entry key="Powered_Interactive_Shooting_Ride_Desc" translation="Electrically powered motion platform ride with interactive shooting that allows you to shoot attached scenery targets."/>
+		<entry key="Powered_Interactive_Shooting_Ride_Desc" translation="Attrazione a piattaforme alimentata elettricamente con tiro interattivo che permette di sparare ai bersagli posti sullo scenario."/>
 		<entry key="Train_Interactive_Shooting_Ride" translation="Quick Draw"/>
 		<!--C12_FrontEndMenu-->
-		<entry key="FrontEndMenu_City" translation="City"/>
-		<entry key="FrontEndMenu_CityDescription" translation="Start your park with unlimited money and build alongside a bustling cityscape!"/>
-		<entry key="FrontEndMenu_CityScenario" translation="City"/>
-		<entry key="FrontEndMenu_CityScenarioDescription" translation="Start a new custom scenario alongside a bustling cityscape!"/>
-		<entry key="FrontEndMenu_CitySimulation" translation="City"/>
-		<entry key="FrontEndMenu_CitySimulationDescription" translation="Start your park with limited money and build alongside a bustling cityscape!"/>
+		<entry key="FrontEndMenu_City" translation="Città"/>
+		<entry key="FrontEndMenu_CityDescription" translation="Inizia il tuo parco con soldi illimitati e costruisci accanto un frenetico paesaggio urbano!"/>
+		<entry key="FrontEndMenu_CityScenario" translation="Città"/>
+		<entry key="FrontEndMenu_CityScenarioDescription" translation="Inizia un nuovo scenario personalizzato accanto un frenetico paesaggio urbano!"/>
+		<entry key="FrontEndMenu_CitySimulation" translation="Città"/>
+		<entry key="FrontEndMenu_CitySimulationDescription" translation="Inizia il tuo parco con soldi limitati e costruisci accanto un frenetico paesaggio urbano!"/>
 		<!--C12_Research-->
-		<entry key="Research_Hint_TrackedRide_Interactive_Shooting_Ride" translation="Shoot to score"/>
+		<entry key="Research_Hint_TrackedRide_Interactive_Shooting_Ride" translation="Spara per fare punti"/>
 		<entry key="Research_Revealed_TrackedRide_Interactive_Shooting_Ride" translation="Quick Draw"/>
 		<!--C12_Scenery-->
 		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Large" translation="Target roundel, on a long flipper arm.&#10;Can be fired upon in Interactive Shooting Rides."/>
