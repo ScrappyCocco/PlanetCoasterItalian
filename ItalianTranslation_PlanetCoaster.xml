@@ -377,7 +377,7 @@
 		<entry key="Blueprints_PirateScenery" translation="Scenografia Ahoy!"/>
 		<entry key="Blueprints_PirateScenery2" translation="Ciò che rimane del naufragio"/>
 		<entry key="Blueprints_PirateScenery2Desc" translation="Non me ne andrò mai! Non fin quando il mio tesoro rimarrà qui!"/>
-		<entry key="Blueprints_PirateScenery3" translation="Roccia a forma di un pauroso teschio!"/>
+		<entry key="Blueprints_PirateScenery3" translation="Roccia a forma teschio pauroso!"/>
 		<entry key="Blueprints_PirateScenery3Desc" translation="Solo a guardarla mi fa tremare tutto."/>
 		<entry key="Blueprints_PirateSceneryDesc" translation="Queste scenografie è stato realizzato per far contento il capitano."/>
 		<entry key="Blueprints_PirateSea" translation="Collezione Alto Mare"/>
@@ -3075,19 +3075,19 @@
 		<entry key="BuildingPartName_CS_Carowinds_Sign_Small" translation="Cartello ufficiale Carowinds"/>
 		<!--C12_Blueprints-->
 		<entry key="Blueprints_Interactive_Shooting_Ride_01" translation="Quick Draw"/>
-		<entry key="Blueprints_Interactive_Shooting_Ride_01Desc" translation="Attrazione a bersagli interattivi a tema Western."/>
+		<entry key="Blueprints_Interactive_Shooting_Ride_01Desc" translation="Attrazione con Bersagli Interattivi a tema Western."/>
 		<entry key="Blueprints_TargetsBlueprint01" translation="Fiore di bersagli"/>
-		<entry key="Blueprints_TargetsBlueprint01Desc" translation="Insieme di bersagli proposto in svariate configurazioni. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
-		<entry key="Blueprints_TargetsBlueprint02" translation="File di bersagli"/>
-		<entry key="Blueprints_TargetsBlueprint02Desc" translation="Insieme di bersagli proposto in configurazione base. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint01Desc" translation="Insieme di bersagli proposto in svariate configurazioni. Da inserire in una Attrazione con Bersagli Interattivi. La console effetti del bersaglio va collegata al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint02" translation="Bersagli in fila"/>
+		<entry key="Blueprints_TargetsBlueprint02Desc" translation="Insieme di bersagli proposto in configurazione base. Da inserire in una Attrazione con Bersagli Interattivi. La console effetti del bersaglio va collegata al sistema di inneschi dell'attrazione."/>
 		<entry key="Blueprints_TargetsBlueprint03" translation="Torre di bersagli"/>
-		<entry key="Blueprints_TargetsBlueprint03Desc" translation="Poligono a forma di torre che mostra i bersagli a velocità crescente. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint03Desc" translation="Poligono di tiro a forma di torre che mostra i bersagli a velocità crescente. Da inserire in una Attrazione con Bersagli Interattivi. La console effetti del bersaglio va collegata al sistema di inneschi dell'attrazione."/>
 		<entry key="Blueprints_TargetsBlueprint04" translation="Segheria con bersagli"/>
-		<entry key="Blueprints_TargetsBlueprint04Desc" translation="Poligono che mostra i bersagli a varie distanze. Da inserire in una attrazione a bersagli interattivi e il relativo sequenziatore va collegato al sistema di inneschi dell'attrazione."/>
+		<entry key="Blueprints_TargetsBlueprint04Desc" translation="Poligono di tiro che mostra i bersagli a varie distanze. Da inserire in una Attrazione con Bersagli Interattivi. La console effetti del bersaglio va collegata al sistema di inneschi dell'attrazione."/>
 		<!--C12_Coasters-->
-		<entry key="Coaster_Type_Interactive_Shooting_Ride" translation="Attrazione a Bersagli Interattivi"/>
+		<entry key="Coaster_Type_Interactive_Shooting_Ride" translation="Attrazione con Bersagli Interattivi"/>
 		<entry key="Powered_Interactive_Shooting_Ride" translation="Quick Draw"/>
-		<entry key="Powered_Interactive_Shooting_Ride_Desc" translation="Attrazione a piattaforme alimentata elettricamente con tiro interattivo che permette di sparare ai bersagli posti sullo scenario."/>
+		<entry key="Powered_Interactive_Shooting_Ride_Desc" translation="Attrazione a piattaforme alimentata elettricamente con tiro interattivo che permette di sparare ai bersagli posti lungo lo scenario."/>
 		<entry key="Train_Interactive_Shooting_Ride" translation="Quick Draw"/>
 		<!--C12_FrontEndMenu-->
 		<entry key="FrontEndMenu_City" translation="Città"/>
@@ -3100,107 +3100,107 @@
 		<entry key="Research_Hint_TrackedRide_Interactive_Shooting_Ride" translation="Spara per fare punti"/>
 		<entry key="Research_Revealed_TrackedRide_Interactive_Shooting_Ride" translation="Quick Draw"/>
 		<!--C12_Scenery-->
-		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Large" translation="Target roundel, on a long flipper arm.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Medium" translation="Target roundel, on a long flipper arm.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Small" translation="Target roundel, on a long flipper arm.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Flipper_S_Large" translation="Target roundel, on a short flipper.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Flipper_S_Medium" translation="Target roundel, on a short flipper.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Flipper_S_Small" translation="Target roundel, on a short flipper.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Standard_Large" translation="Target roundel, for mounting on a surface.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Standard_Medium" translation="Target roundel, for mounting on a surface.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartDesc_PC_Target_Standard_Small" translation="Target roundel, for mounting on a surface.&#10;Can be fired upon in Interactive Shooting Rides."/>
-		<entry key="BuildingPartName_PC_Target_Flipper_L_Large" translation="Target Flipper Arm Large"/>
-		<entry key="BuildingPartName_PC_Target_Flipper_L_Medium" translation="Target Flipper Arm Medium"/>
-		<entry key="BuildingPartName_PC_Target_Flipper_L_Small" translation="Target Flipper Arm Small"/>
-		<entry key="BuildingPartName_PC_Target_Flipper_S_Large" translation="Target Flipper Large"/>
-		<entry key="BuildingPartName_PC_Target_Flipper_S_Medium" translation="Target Flipper Medium"/>
-		<entry key="BuildingPartName_PC_Target_Flipper_S_Small" translation="Target Flipper Small"/>
-		<entry key="BuildingPartName_PC_Target_Standard_Large" translation="Target Large"/>
-		<entry key="BuildingPartName_PC_Target_Standard_Medium" translation="Target Medium"/>
-		<entry key="BuildingPartName_PC_Target_Standard_Small" translation="Target Small"/>
+		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Large" translation="Bersaglio rotondo, su un lungo braccio ribaltabile.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Medium" translation="Bersaglio rotondo,su un lungo braccio ribaltabile.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Flipper_L_Small" translation="Bersaglio rotondo, su un lungo braccio ribaltabile.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Flipper_S_Large" translation="Bersaglio rotondo, su un lungo braccio ribaltabile.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Flipper_S_Medium" translation="Bersaglio rotondo, su un corto ribaltabile.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Flipper_S_Small" translation="Bersaglio rotondo, su un corto ribaltabile.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Standard_Large" translation="Bersaglio rotondo, da apporre su una superficie.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Standard_Medium" translation="Bersaglio rotondo, da apporre su una superficie.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartDesc_PC_Target_Standard_Small" translation="Bersaglio rotondo, da apporre su una superficie.&#10;Si può colpire in una Attrazione con Bersagli Interattivi."/>
+		<entry key="BuildingPartName_PC_Target_Flipper_L_Large" translation="Bersaglio grande su braccio ribaltabile"/>
+		<entry key="BuildingPartName_PC_Target_Flipper_L_Medium" translation="Bersaglio medio su braccio ribaltabile"/>
+		<entry key="BuildingPartName_PC_Target_Flipper_L_Small" translation="Bersaglio piccolo su braccio ribaltabile"/>
+		<entry key="BuildingPartName_PC_Target_Flipper_S_Large" translation="Bersaglio ribaltabile grande"/>
+		<entry key="BuildingPartName_PC_Target_Flipper_S_Medium" translation="Bersaglio ribaltabile medio"/>
+		<entry key="BuildingPartName_PC_Target_Flipper_S_Small" translation="Bersaglio ribaltabile piccolo"/>
+		<entry key="BuildingPartName_PC_Target_Standard_Large" translation="Bersaglio grande"/>
+		<entry key="BuildingPartName_PC_Target_Standard_Medium" translation="Bersaglio medio"/>
+		<entry key="BuildingPartName_PC_Target_Standard_Small" translation="Bersaglio piccolo"/>
 		<!--C12_ShootingMinigame-->
-		<entry key="GBH_minigame_points" translation="Points"/>
-		<entry key="InfoPanel_ShootableTarget_ActivateEveryLabel" translation="Activate every"/>
-		<entry key="InfoPanel_ShootableTarget_ActivateEveryX" translation="Activate every X seconds"/>
-		<entry key="InfoPanel_ShootableTarget_ActivateEveryXTooltip" translation="Activate this target for a controllable amount of time every X seconds. The value of X can be changed."/>
-		<entry key="InfoPanel_ShootableTarget_ActivateOnTriggerTooltip" translation="Target will only enter its shootable state when it has been triggered"/>
-		<entry key="InfoPanel_ShootableTarget_ActiveUntilShot" translation="Stay active until shot"/>
-		<entry key="InfoPanel_ShootableTarget_ActiveUntilShotTooltip" translation="Target will stay active until it is shot"/>
-		<entry key="InfoPanel_ShootableTarget_ConnectedToRidesHeader" translation="Shooting Ride"/>
-		<entry key="InfoPanel_ShootableTarget_Deactivate" translation="Deactivate"/>
-		<entry key="InfoPanel_ShootableTarget_DeactivateTooltip" translation="Target will remain inactive and unshootable"/>
-		<entry key="InfoPanel_ShootableTarget_DurationLabel" translation="Duration"/>
-		<entry key="InfoPanel_ShootableTarget_EditSequenceButton" translation="Edit Shoot Trigger Sequence"/>
-		<entry key="InfoPanel_ShootableTarget_MakeSequenceButton" translation="Make Shoot Trigger Sequence"/>
-		<entry key="InfoPanel_ShootableTarget_NotConnectedToShootingDesc" translation="This Target is not connected to a Shooting Ride, and so cannot be shot."/>
-		<entry key="InfoPanel_ShootableTarget_PlaySequenceButton" translation="Play Shoot Trigger Sequence"/>
-		<entry key="InfoPanel_ShootableTarget_SelectAllTooltip" translation="Select all parts from this target's shoot sequence, including all sequencer children recursively"/>
-		<entry key="InfoPanel_ShootableTarget_SequencerEditTriggersDescription" translation="Create a sequence that will only play when the target is shot"/>
-		<entry key="InfoPanel_ShootableTarget_SequencerEditTriggersTitle" translation="Edit Shoot Trigger Sequence"/>
-		<entry key="InfoPanel_ShootableTarget_SetPoints" translation="Points"/>
-		<entry key="InfoPanel_ShootableTarget_StayDeactivated" translation="Stay deactivated for"/>
-		<entry key="InfoPanel_ShootableTarget_TriggerTab" translation="Triggers"/>
-		<entry key="InfoPanel_ShootingMinigame_ConfirmSelection" translation="Connect selection to Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_ConfirmSelectionTooManyItems" translation="Too many items to connect to Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_ConnectTargets" translation="Connect Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_ConnectTargetsTooltip" translation="Connect targets so they can be shot from this ride"/>
-		<entry key="InfoPanel_ShootingMinigame_EditAmmoLimit" translation="Ammo limit"/>
-		<entry key="InfoPanel_ShootingMinigame_EditAmmoLimitTooltip" translation="Number of shots per run"/>
-		<entry key="InfoPanel_ShootingMinigame_EditButton" translation="Edit Shooting Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_EditDescription" translation="Connect scenery targets to shoot and edit ammo settings"/>
-		<entry key="InfoPanel_ShootingMinigame_EditFreeCamera" translation="Free camera shooting"/>
-		<entry key="InfoPanel_ShootingMinigame_EditNoTargets" translation="No targets currently connected"/>
-		<entry key="InfoPanel_ShootingMinigame_EditRemoveAllTargetsTooltip" translation="Disconnect all targets"/>
-		<entry key="InfoPanel_ShootingMinigame_EditSettings" translation="Settings"/>
-		<entry key="InfoPanel_ShootingMinigame_EditTargetFocusTooltip" translation="Focus on target"/>
-		<entry key="InfoPanel_ShootingMinigame_EditTargetRemoveTooltip" translation="Disconnect target"/>
-		<entry key="InfoPanel_ShootingMinigame_EditTargets" translation="Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_EditTestMinigame" translation="Test Shooting Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_EditTitle" translation="Edit Shooting Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_GunType" translation="Select Gun Sound"/>
-		<entry key="InfoPanel_ShootingMinigame_InfiniteAmmo" translation="Infinite ammo"/>
-		<entry key="InfoPanel_ShootingMinigame_PlayMinigame" translation="Start Shooting Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_PlayMinigameTooltip" translation="Start the Shooting Ride to try and get a high score!"/>
-		<entry key="InfoPanel_ShootingMinigame_PlayerTrainTriggersOnly" translation="Player train triggers only"/>
-		<entry key="InfoPanel_ShootingMinigame_PlayerTrainTriggersOnlyTooltip" translation="While in the Shooting Ride, only the train you are in will activate triggers."/>
+		<entry key="GBH_minigame_points" translation="Punti"/>
+		<entry key="InfoPanel_ShootableTarget_ActivateEveryLabel" translation="Si attiva ogni"/>
+		<entry key="InfoPanel_ShootableTarget_ActivateEveryX" translation="Si attiva ogni X secondi"/>
+		<entry key="InfoPanel_ShootableTarget_ActivateEveryXTooltip" translation="Attiva questo bersaglio per un periodo di tempo definito ogni X secondi. Il valore di X può essere modificato."/>
+		<entry key="InfoPanel_ShootableTarget_ActivateOnTriggerTooltip" translation="Il bersaglio potrà essere colpito solo quando innescato"/>
+		<entry key="InfoPanel_ShootableTarget_ActiveUntilShot" translation="Rimane attivo fino a quando non viene colpito"/>
+		<entry key="InfoPanel_ShootableTarget_ActiveUntilShotTooltip" translation="Il bersaglio rimane attivo fino a quando non viene colpito"/>
+		<entry key="InfoPanel_ShootableTarget_ConnectedToRidesHeader" translation="Attrazione con Bersagli"/>
+		<entry key="InfoPanel_ShootableTarget_Deactivate" translation="Disattiva"/>
+		<entry key="InfoPanel_ShootableTarget_DeactivateTooltip" translation="Il bersaglio rimarrà inattivo e non si potrà colpirlo"/>
+		<entry key="InfoPanel_ShootableTarget_DurationLabel" translation="Durata"/>
+		<entry key="InfoPanel_ShootableTarget_EditSequenceButton" translation="Modifica la sequenza di innesco dei bersagli"/>
+		<entry key="InfoPanel_ShootableTarget_MakeSequenceButton" translation="Crea sequenza di innesco dei bersagli"/>
+		<entry key="InfoPanel_ShootableTarget_NotConnectedToShootingDesc" translation="Questo bersaglio non è connesso ad un'attrazione e non può essere colpito."/>
+		<entry key="InfoPanel_ShootableTarget_PlaySequenceButton" translation="Riproduci sequenza di innesco dei bersagli"/>
+		<entry key="InfoPanel_ShootableTarget_SelectAllTooltip" translation="Seleziona tutte le parti della sequenza di questo bersaglio, incluse le sotto sequenze ricorrenti"/>
+		<entry key="InfoPanel_ShootableTarget_SequencerEditTriggersDescription" translation="Crea una sequenza che verrà riprodotta solo quando il bersaglio viene colpito"/>
+		<entry key="InfoPanel_ShootableTarget_SequencerEditTriggersTitle" translation="Modifica la sequenza di innesco dei bersagli"/>
+		<entry key="InfoPanel_ShootableTarget_SetPoints" translation="Punti"/>
+		<entry key="InfoPanel_ShootableTarget_StayDeactivated" translation="Rimane disattivato per"/>
+		<entry key="InfoPanel_ShootableTarget_TriggerTab" translation="Inneschi"/>
+		<entry key="InfoPanel_ShootingMinigame_ConfirmSelection" translation="Collega selezione all'attrazione"/>
+		<entry key="InfoPanel_ShootingMinigame_ConfirmSelectionTooManyItems" translation="Troppi elementi da collegare all'attrazione"/>
+		<entry key="InfoPanel_ShootingMinigame_ConnectTargets" translation="Collega Bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_ConnectTargetsTooltip" translation="Collega i bersagli in modo che possano essere colpiti in questa attrazione"/>
+		<entry key="InfoPanel_ShootingMinigame_EditAmmoLimit" translation="Limite munizioni"/>
+		<entry key="InfoPanel_ShootingMinigame_EditAmmoLimitTooltip" translation="Numero di colpi per giro"/>
+		<entry key="InfoPanel_ShootingMinigame_EditButton" translation="Modifica Attrazione con Bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_EditDescription" translation="Collega i bersagli da colpire lungo lo scenario e modifica le impostazioni per le munizioni"/>
+		<entry key="InfoPanel_ShootingMinigame_EditFreeCamera" translation="Visuale libera durante i tiri"/>
+		<entry key="InfoPanel_ShootingMinigame_EditNoTargets" translation="Al momento non è collegato alcun bersaglio"/>
+		<entry key="InfoPanel_ShootingMinigame_EditRemoveAllTargetsTooltip" translation="Scollega ogni bersaglio"/>
+		<entry key="InfoPanel_ShootingMinigame_EditSettings" translation="Impostazioni"/>
+		<entry key="InfoPanel_ShootingMinigame_EditTargetFocusTooltip" translation="Focalizza sul bersaglio"/>
+		<entry key="InfoPanel_ShootingMinigame_EditTargetRemoveTooltip" translation="Scollega bersaglio"/>
+		<entry key="InfoPanel_ShootingMinigame_EditTargets" translation="Bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_EditTestMinigame" translation="Testa l'Attrazione con Bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_EditTitle" translation="Modifica Attrazione con Bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_GunType" translation="Seleziona suono arma"/>
+		<entry key="InfoPanel_ShootingMinigame_InfiniteAmmo" translation="Munizioni infinite"/>
+		<entry key="InfoPanel_ShootingMinigame_PlayMinigame" translation="Gioca sull'Attrazione con Bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_PlayMinigameTooltip" translation="Inizia il giro sull'attrazione per ottenere il punteggio massimo!"/>
+		<entry key="InfoPanel_ShootingMinigame_PlayerTrainTriggersOnly" translation="Attiva solo con la vettura del Giocatore"/>
+		<entry key="InfoPanel_ShootingMinigame_PlayerTrainTriggersOnlyTooltip" translation="Durante il giro sull'attrazione, solo la vettura su cui ti trovi attiverà gli inneschi."/>
 		<entry key="InfoPanel_ShootingMinigame_Score" translation="{Name} {Score:int:minDigits=1}"/>
 		<entry key="InfoPanel_ShootingMinigame_ScoreNum" translation="{Score:int:minDigits=1}"/>
-		<entry key="InfoPanel_ShootingMinigame_ShootingUnavailable" translation="Shooting Ride is only available when testing or open"/>
-		<entry key="InfoPanel_ShootingMinigame_ShotsIngoreScenery" translation="Shots ignore scenery"/>
-		<entry key="InfoPanel_ShootingMinigame_ShotsIngoreSceneryTooltip" translation="Scenery won't block shots from hitting targets."/>
-		<entry key="InfoPanel_ShootingMinigame_TargetListHeader" translation="Shootable Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectAvailableLabel" translation="Available Targets in radius"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectAvailableToolTip" translation="Available Targets in the Ride's radius"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedLabel" translation="Targets connected to Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedListLabel" translation="Connected Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedToolTip" translation="Targets that are already attached to the Ride"/>
+		<entry key="InfoPanel_ShootingMinigame_ShootingUnavailable" translation="L'Attrazione con Bersagli è disponibile solo durante il test o quando è aperta"/>
+		<entry key="InfoPanel_ShootingMinigame_ShotsIngoreScenery" translation="I colpi ignorano lo scenario"/>
+		<entry key="InfoPanel_ShootingMinigame_ShotsIngoreSceneryTooltip" translation="Lo scenario non impedirà agli spari di colpire i bersagli."/>
+		<entry key="InfoPanel_ShootingMinigame_TargetListHeader" translation="Bersagli da colpire"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectAvailableLabel" translation="Bersagli disponibili nell'area"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectAvailableToolTip" translation="Bersagli disponibili nel raggio dell'attrazione"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedLabel" translation="Bersagli collegati all'attrazione"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedListLabel" translation="Bersagli collegati"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedToolTip" translation="Bersagli già posizionati sull'attrazione"/>
 		<entry key="InfoPanel_ShootingMinigame_TargetSelectConnectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{LIMIT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectDescription" translation="Use the Multiselect tool to connect new Targets to your Ride."/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectGetMoreButton" translation="Get more Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedLabel" translation="Selected Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedListLabel" translation="Selected Targets"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedToolTip" translation="Currently selected Targets"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectDescription" translation="Utilizza lo strumento Selezione Multipla per collegare nuovi Bersagli all'attrazione."/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectGetMoreButton" translation="Ottieni più bersagli"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedLabel" translation="Bersagli selezionati"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedListLabel" translation="Bersagli selezionati"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedToolTip" translation="Bersagli selezionati attualmente"/>
 		<entry key="InfoPanel_ShootingMinigame_TargetSelectSelectedValue" translation="{COUNT:separatedFloat:decimalPlaces=0}/{LIMIT:separatedFloat:decimalPlaces=0}"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectSubTitle" translation="Connect Targets to Ride"/>
-		<entry key="InfoPanel_ShootingMinigame_TargetSelectTitle" translation="Shootable Target Selector"/>
-		<entry key="InfoPanel_ShootingMinigame_TestMinigameTooltip" translation="Try the Shooting Ride without being able to submit a score"/>
-		<entry key="InfoPanel_ShootingMinigame_TopScores" translation="Shooting Highscores"/>
-		<entry key="ShootingMinigame_ComboBroken" translation="Combo broken!"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectSubTitle" translation="Collega Bersagli all'attrazione"/>
+		<entry key="InfoPanel_ShootingMinigame_TargetSelectTitle" translation="Selettore Bersagli da colpire"/>
+		<entry key="InfoPanel_ShootingMinigame_TestMinigameTooltip" translation="Testa l'Attrazione con Bersagli senza poter inviare il punteggio"/>
+		<entry key="InfoPanel_ShootingMinigame_TopScores" translation="Punteggi Massimi"/>
+		<entry key="ShootingMinigame_ComboBroken" translation="Combo interrotta!"/>
 		<entry key="ShootingMinigame_ComboGood" translation="5x Combo"/>
 		<entry key="ShootingMinigame_ComboGreat" translation="10x Combo"/>
 		<entry key="ShootingMinigame_ComboMax" translation="MAX Combo"/>
 		<entry key="ShootingMinigame_ComboStarted" translation="2x Combo"/>
 		<entry key="ShootingPanel_Combo" translation="{MULTIPLIER:separatedFloat:decimalPlaces=0}x Combo"/>
-		<entry key="ShootingPanel_Minigame" translation="Shooting Ride"/>
-		<entry key="ShootingScoreFanfare_ContinuePlaying" translation="Continue playing"/>
-		<entry key="ShootingScoreFanfare_EnterYourName" translation="Enter your name:"/>
+		<entry key="ShootingPanel_Minigame" translation="Attrazione con Bersagli"/>
+		<entry key="ShootingScoreFanfare_ContinuePlaying" translation="Continua a giocare"/>
+		<entry key="ShootingScoreFanfare_EnterYourName" translation="Inserisci il tuo nome:"/>
 		<entry key="ShootingScoreFanfare_GameOver" translation="Game over!"/>
-		<entry key="ShootingScoreFanfare_NewHighScore" translation="New high score!"/>
-		<entry key="ShootingScoreFanfare_NoHighScore" translation="No high score this time"/>
-		<entry key="ShootingScoreFanfare_Quit" translation="Quit"/>
+		<entry key="ShootingScoreFanfare_NewHighScore" translation="Nuovo punteggio massimo!"/>
+		<entry key="ShootingScoreFanfare_NoHighScore" translation="Punteggio massimo non raggiunto stavolta"/>
+		<entry key="ShootingScoreFanfare_Quit" translation="Abbandona"/>
 		<!--C12_Terrain-->
-		<entry key="Terrain_Edit_IconName_iconTerrainCityTarmac" translation="City Tarmac"/>
-		<entry key="Terrain_Edit_IconName_iconTerrainCityTarmacWorn" translation="City Tarmac Worn"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainCityTarmac" translation="Asfalto Cittadino"/>
+		<entry key="Terrain_Edit_IconName_iconTerrainCityTarmacWorn" translation="Asfalto Cittadino Rovinato"/>
 		<!--C1_Blueprints-->
 		<entry key="Blueprints_HOL_CandyCollection" translation="Collezione di caramelle"/>
 		<entry key="Blueprints_HOL_CandyCollection02" translation="Collezione di caramelle 2"/>
@@ -4150,11 +4150,11 @@
 		<entry key="Research_Revealed_FR_Zozo" translation="Zozo"/>
 		<entry key="Research_Revealed_GoKarts" translation="Speed"/>
 		<!--C2_Scenery-->
-		<entry key="BuildingPartDesc_FAD_CoffeeGenericCup" translation="Alimenti di plastica senza marchio."/>
-		<entry key="BuildingPartDesc_FAD_GenericDonut3d" translation="Alimenti di plastica senza marchio."/>
-		<entry key="BuildingPartDesc_FAD_GenericEnergy3D" translation="Alimenti di plastica senza marchio."/>
+		<entry key="BuildingPartDesc_FAD_CoffeeGenericCup" translation="Generici alimenti di plastica."/>
+		<entry key="BuildingPartDesc_FAD_GenericDonut3d" translation="Generici alimenti di plastica."/>
+		<entry key="BuildingPartDesc_FAD_GenericEnergy3D" translation="Generici alimenti di plastica."/>
 		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_2D" translation="Goditi tutti i gusti della natura.&#10;Set Pipshot"/>
-		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_3D" translation="Alimenti di plastica senza marchio di qualità."/>
+		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_3D" translation="Generici alimenti di plastica."/>
 		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_Neon" translation="Goditi tutti i gusti della natura.&#10;Set Pipshot"/>
 		<entry key="BuildingPartDesc_FAD_GenericTaco_3d" translation="Alimenti di plastica senza marchio di qualità."/>
 		<entry key="BuildingPartDesc_FAD_Gulpee_Soda_02" translation="Il gusto amato dai dinosauri!&#10;Set Gulpee"/>
@@ -4202,7 +4202,7 @@
 		<entry key="BuildingPartDesc_FAD_PipShot_Water_07" translation="Incredibilmente Pura.&#10;Set Pipshot"/>
 		<entry key="BuildingPartDesc_FAD_PipShot_Water_08" translation="Incredibilmente Pura.&#10;Set Pipshot"/>
 		<entry key="BuildingPartDesc_FAD_PipShot_Water_10" translation="Incredibilmente Pura.&#10;Set Pipshot"/>
-		<entry key="BuildingPartDesc_FAD_PizzaGenericSlice" translation="Alimenti di plastica senza marchio."/>
+		<entry key="BuildingPartDesc_FAD_PizzaGenericSlice" translation="Generici alimenti di plastica."/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenBadge" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenCrest" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
 		<entry key="BuildingPartDesc_FAD_PizzaPenCurvedSign" translation="I sapori di una volta.&#10;Set Capitan Manzo"/>
@@ -4297,7 +4297,7 @@
 		<entry key="BuildingPartDesc_PR_Pirate_Idle_01" translation="Yarr!&#10;Tema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Pirate_Lean_01" translation="Ahoy, marinaio!&#10;Tema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Pirate_Sit_01" translation="Arr!&#10;Tema Pirata"/>
-		<entry key="BuildingPartDesc_PR_Pirate_Sit_02" translation="Avast!&#10;Tema Pirata"/>
+		<entry key="BuildingPartDesc_PR_Pirate_Sit_02" translation="Ferma!&#10;Tema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Sharkway" translation="Nessuno squalo è stato ferito nella costruzione di questa arcata.&#10;Tema Pirata"/>
 		<entry key="BuildingPartDesc_PR_ShipWheel" translation="Rotta nord-nord-ovest.&#10;Tema Pirata"/>
 		<entry key="BuildingPartDesc_PR_Sign_01_Original" translation="Insegna Villaggio Pirata.&#10;Tema Pirata"/>
@@ -4613,7 +4613,7 @@
 		<entry key="AdvancedTriggerEditor_AddGroup" translation="Aggiungi Gruppo Scenico"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipDisabled" translation="Non puoi aggiungere altri Gruppi Scenici a questa Console"/>
 		<entry key="AdvancedTriggerEditor_AddGroupToolTipEnabled" translation="Aggiungi un nuovo Gruppo Scenico alla Console"/>
-		<entry key="AdvancedTriggerEditor_BendToPitch" translation="Abbassa Tonalità"/>
+		<entry key="AdvancedTriggerEditor_BendToPitch" translation="Altera Tonalità"/>
 		<entry key="AdvancedTriggerEditor_CancelButton" translation="Annulla"/>
 		<entry key="AdvancedTriggerEditor_ClearFlatRideGroupToolTip" translation="Scollega tutti gli elementi da questo innesco"/>
 		<entry key="AdvancedTriggerEditor_CloseDoorFor" translation="Chiudi porta per"/>
@@ -4628,7 +4628,7 @@
 		<entry key="AdvancedTriggerEditor_ConfirmSelection" translation="Collega la selezione al Gruppo Innesco"/>
 		<entry key="AdvancedTriggerEditor_ConfirmSelectionTooManyItems" translation="Troppi oggetti da collegare al Gruppo Innesco"/>
 		<entry key="AdvancedTriggerEditor_ConfirmSelectionUnownedDLC" translation="La selezione contiene un DLC non posseduto"/>
-		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Inneschi Display"/>
+		<entry key="AdvancedTriggerEditor_DisplayTriggersLabel" translation="Mostra Inneschi"/>
 		<entry key="AdvancedTriggerEditor_DoneButton" translation="Fatto"/>
 		<entry key="AdvancedTriggerEditor_Duplicate" translation="Duplica"/>
 		<entry key="AdvancedTriggerEditor_Duration" translation="Durata"/>
@@ -4644,7 +4644,7 @@
 		<entry key="AdvancedTriggerEditor_FlatRidePopUpTitle" translation="Inneschi Attrazione"/>
 		<entry key="AdvancedTriggerEditor_GlobalHeaderTitle" translation="Inneschi {Name}"/>
 		<entry key="AdvancedTriggerEditor_GoKartsPopUpDescription" translation="Posiziona gli inneschi lungo il percorso e collegali allo scenario animato&#10; La prima vettura che passerà oltre questo punto lo attiverà."/>
-		<entry key="AdvancedTriggerEditor_HideArrow" translation="Hide Car Direction Arrows"/>
+		<entry key="AdvancedTriggerEditor_HideArrow" translation="Nascondi direzione vetture"/>
 		<entry key="AdvancedTriggerEditor_MakeTriggerSequenceButton" translation="Crea una Sequenza d'Innesco"/>
 		<entry key="AdvancedTriggerEditor_OpenDoorFor" translation="Apri porta per"/>
 		<entry key="AdvancedTriggerEditor_PlaceTriggerOnTrack" translation="Posiziona un Innesco sul Tracciato"/>
@@ -4689,21 +4689,21 @@
 		<entry key="AdvancedTriggerEditor_SequencerPopUpTitle" translation="La mia Sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerScrubberTitle" translation="Riproduci Sequenza"/>
 		<entry key="AdvancedTriggerEditor_SequencerTriggerTitle" translation="Console Inneschi"/>
-		<entry key="AdvancedTriggerEditor_Shootable_AddGroup" translation="Add Group"/>
-		<entry key="AdvancedTriggerEditor_Shootable_AddGroupToolTipDisabled" translation="Cannot add more groups to this target's sequence"/>
-		<entry key="AdvancedTriggerEditor_Shootable_AddGroupToolTipEnabled" translation="Add a new group to the target's sequence"/>
-		<entry key="AdvancedTriggerEditor_Shootable_GroupAddItemsToolTipDisabled" translation="Cannot connect more items to this group"/>
-		<entry key="AdvancedTriggerEditor_Shootable_GroupAddItemsToolTipEnabled" translation="Connect triggerable items to the group"/>
-		<entry key="AdvancedTriggerEditor_Shootable_PopUpDescription" translation="Groups trigger once after the specified wait time from when the target is shot"/>
-		<entry key="AdvancedTriggerEditor_Shootable_RemoveFromGroupToolTip" translation="Disconnect from this group"/>
-		<entry key="AdvancedTriggerEditor_Shootable_SequencerGroupLabelDefault" translation="Group"/>
-		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerActivate" translation="Activate on Trigger"/>
-		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerActivate_Desc" translation="Make the target shootable when triggered."/>
-		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDeactivate" translation="Deactivate on Trigger"/>
-		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDeactivate_Desc" translation="Stop the target from being shootable."/>
-		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDefault" translation="Play on Trigger"/>
-		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDefault_Desc" translation="Make the target shootable for a period of time when triggered."/>
-		<entry key="AdvancedTriggerEditor_ShowArrow" translation="Show Car Direction Arrows"/>
+		<entry key="AdvancedTriggerEditor_Shootable_AddGroup" translation="Aggiungi gruppo"/>
+		<entry key="AdvancedTriggerEditor_Shootable_AddGroupToolTipDisabled" translation="Non è possibile aggiungere altri gruppi a questa sequenza del bersaglio"/>
+		<entry key="AdvancedTriggerEditor_Shootable_AddGroupToolTipEnabled" translation="Aggiungi un nuovo gruppo alla sequenza del bersaglio"/>
+		<entry key="AdvancedTriggerEditor_Shootable_GroupAddItemsToolTipDisabled" translation="Non è possibile collegare altri elementi a questo gruppo"/>
+		<entry key="AdvancedTriggerEditor_Shootable_GroupAddItemsToolTipEnabled" translation="Collega elementi innescabili al gruppo"/>
+		<entry key="AdvancedTriggerEditor_Shootable_PopUpDescription" translation="I gruppi si innescano una volta passato il tempo specificato dopo aver colpito il bersaglio"/>
+		<entry key="AdvancedTriggerEditor_Shootable_RemoveFromGroupToolTip" translation="Scollega da questo gruppo"/>
+		<entry key="AdvancedTriggerEditor_Shootable_SequencerGroupLabelDefault" translation="Gruppo"/>
+		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerActivate" translation="Attiva su Innesco"/>
+		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerActivate_Desc" translation="Quando innescato rende il bersaglio colpibile."/>
+		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDeactivate" translation="Disattiva su Innesco"/>
+		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDeactivate_Desc" translation="Rende il bersaglio non più colpibile."/>
+		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDefault" translation="Avvia su Innesco"/>
+		<entry key="AdvancedTriggerEditor_ShootingTarget_TriggerDefault_Desc" translation="Quando innescato rende il bersaglio colpibile per un lasso di tempo"/>
+		<entry key="AdvancedTriggerEditor_ShowArrow" translation="Mostra direzione delle vetture"/>
 		<entry key="AdvancedTriggerEditor_Sort" translation="Ordina Tutti"/>
 		<entry key="AdvancedTriggerEditor_SortTitle" translation="Ordina tutti i gruppi e gli oggetti"/>
 		<entry key="AdvancedTriggerEditor_SortTooltip" translation="L'interfaccia si ordinerà solo quando chiudi il pannello o premi il pulsante Ordina Tutti"/>
@@ -4754,7 +4754,7 @@
 		<entry key="AdvancedTriggerEditor_TriggerPlayFlexiColour_Desc" translation="Cambia il colore di un oggetto per un periodo di tempo prima di tornare al colore originale"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause" translation="Avvia su Innesco, quindi Pausa"/>
 		<entry key="AdvancedTriggerEditor_TriggerPlayThenPause_Desc" translation="Avvia su Innesco, e poi attende per un periodo di tempo."/>
-		<entry key="AdvancedTriggerEditor_TriggerPointsLabel" translation="Trigger points"/>
+		<entry key="AdvancedTriggerEditor_TriggerPointsLabel" translation="Punti di innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour" translation="Ripristina Colore su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerRestoreFlexiColour_Desc" translation="Torna all'ultimo colore assegnato all'oggetto quando attivato"/>
 		<entry key="AdvancedTriggerEditor_TriggerRevertAudioPitch" translation="Ripristina Tonalità su Innesco"/>
@@ -4765,7 +4765,7 @@
 		<entry key="AdvancedTriggerEditor_TriggerScreen_Desc" translation="Quando attivo lo schermo si accenderà su innesco."/>
 		<entry key="AdvancedTriggerEditor_TriggerToggle" translation="Ripeti Accendi/Spegni su Innesco"/>
 		<entry key="AdvancedTriggerEditor_TriggerToggle_Desc" translation="Passa ripetutamente da acceso a spento per un limitato periodo di tempo "/>
-		<entry key="AdvancedTriggerEditor_TriggeredItemsLabel" translation="Triggered items"/>
+		<entry key="AdvancedTriggerEditor_TriggeredItemsLabel" translation="Elementi innescati"/>
 		<!--C3_Blueprints-->
 		<entry key="Blueprints_DowntownBuildingBlueprint01" translation="Downtown Edificio 01"/>
 		<entry key="Blueprints_DowntownBuildingBlueprint01Desc" translation="Edificio a tema Downtown"/>
@@ -4997,23 +4997,23 @@
 		<entry key="SemanticFlexiColour_Peony_Triple_ThirdExplosion" translation="Esplosione"/>
 		<!--C3_InfoPanel_DisplaySequencer-->
 		<entry key="InfoPanel_DisplaySequencer_ActivateOnTrigger" translation="Attiva solo su innesco"/>
-		<entry key="InfoPanel_DisplaySequencer_ActivationTypeLabel" translation="Edit Sequence"/>
-		<entry key="InfoPanel_DisplaySequencer_AddTime" translation="Aggiungi tempo"/>
+		<entry key="InfoPanel_DisplaySequencer_ActivationTypeLabel" translation="Modifica Sequenza"/>
+		<entry key="InfoPanel_DisplaySequencer_AddTime" translation="Aggiungi orario"/>
 		<entry key="InfoPanel_DisplaySequencer_Audio" translation="Audio"/>
 		<entry key="InfoPanel_DisplaySequencer_CalendarTitle" translation="Mesi"/>
-		<entry key="InfoPanel_DisplaySequencer_Cameras" translation="Riprese"/>
-		<entry key="InfoPanel_DisplaySequencer_ConnectCamera" translation="Modifica Riprese"/>
+		<entry key="InfoPanel_DisplaySequencer_Cameras" translation="Telecamere"/>
+		<entry key="InfoPanel_DisplaySequencer_ConnectCamera" translation="Modifica Telecamere"/>
 		<entry key="InfoPanel_DisplaySequencer_ConnectSpeaker" translation="Modifica Altoparlanti"/>
 		<entry key="InfoPanel_DisplaySequencer_ContinuousLoop" translation="Attivazione continua"/>
 		<entry key="InfoPanel_DisplaySequencer_Customise" translation="Personalizza"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayCameras" translation="Riprese Spettacoli"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplayCamerasDescription" translation="Posiziona e modifica le Riprese per questa Console Effetti Speciali."/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayCameras" translation="Telecamere Spettacoli"/>
+		<entry key="InfoPanel_DisplaySequencer_DisplayCamerasDescription" translation="Posiziona e modifica le telecamere per questa Console Effetti Speciali."/>
 		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakers" translation="Altoparlanti Spettacoli"/>
-		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakersDescription" translation="Posiziona gli altoparlanti dal navigatore scenari e collegali alla Console Effetti Speciali."/>
+		<entry key="InfoPanel_DisplaySequencer_DisplaySpeakersDescription" translation="Posiziona gli altoparlanti dal menu Scenario e collegali alla Console Effetti Speciali."/>
 		<entry key="InfoPanel_DisplaySequencer_DisplayTriggers" translation="Inneschi Spettacoli"/>
 		<entry key="InfoPanel_DisplaySequencer_DisplayType" translation="Modalità auto-attivazione"/>
 		<entry key="InfoPanel_DisplaySequencer_DisplayTypeTooltip" translation="Impostazioni per l'auto attivazione della Console"/>
-		<entry key="InfoPanel_DisplaySequencer_Duration" translation="Duration"/>
+		<entry key="InfoPanel_DisplaySequencer_Duration" translation="Durata"/>
 		<entry key="InfoPanel_DisplaySequencer_EditSequence" translation="Modifica Sequenza"/>
 		<entry key="InfoPanel_DisplaySequencer_Loop" translation="Loop"/>
 		<entry key="InfoPanel_DisplaySequencer_LoopAndTrigger" translation="In loop e su innesco"/>
@@ -5021,15 +5021,15 @@
 		<entry key="InfoPanel_DisplaySequencer_LoopMode_Hourly" translation="Ogni ora"/>
 		<entry key="InfoPanel_DisplaySequencer_LoopMode_ThreeHourly" translation="Ogni tre ore"/>
 		<entry key="InfoPanel_DisplaySequencer_LoopMode_TwoHourly" translation="Ogni due ore"/>
-		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCameras" translation="Move Display Cameras with sequencer"/>
-		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCamerasDescriptions" translation="If checked, moving the sequencer will also move the Display Cameras"/>
+		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCameras" translation="Sposta Telecamere con Console Effetti Visuale Attrazione"/>
+		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCamerasDescriptions" translation="Se selezionato, spostare la Console Effetti Visuale Attrazione sposterà anche le telecamere "/>
 		<entry key="InfoPanel_DisplaySequencer_Overview" translation="Panoramica"/>
-		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTimes" translation="Stringi tempi di attivazione"/>
-		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTooltip" translation="Permette di scegliere un periodo di tempo nel quale l'effetto potrà avviarsi.&#10;Al di fuori di questi periodi l'effetto non si avvierà."/>
+		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTimes" translation="Limita orari di attivazione"/>
+		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTooltip" translation="Permette di scegliere un lasso di tempo nel quale l'effetto potrà avviarsi.&#10;Al di fuori di questi orari l'effetto non si avvierà."/>
 		<entry key="InfoPanel_DisplaySequencer_RestrictCloseTooltip" translation="Attivo fino"/>
 		<entry key="InfoPanel_DisplaySequencer_RestrictOpenTooltip" translation="Attivo da"/>
 		<entry key="InfoPanel_DisplaySequencer_Scheduler" translation="Pianificatore"/>
-		<entry key="InfoPanel_DisplaySequencer_SelectingCamera" translation="Seleziona Ripresa"/>
+		<entry key="InfoPanel_DisplaySequencer_SelectingCamera" translation="Seleziona Telecamera"/>
 		<entry key="InfoPanel_DisplaySequencer_SelectingSpeaker" translation="Seleziona Altoparlante"/>
 		<entry key="InfoPanel_DisplaySequencer_SetDisplaySchedule" translation="Imposta Pianificatore Spettacoli"/>
 		<entry key="InfoPanel_DisplaySequencer_ShowTime_Time" translation="{Value:int:minDigits=2}"/>
@@ -5038,14 +5038,14 @@
 		<entry key="InfoPanel_DisplaySequencer_ToolTip_Camera" translation="Entra in modalità Ripresa dello spettacolo"/>
 		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAll" translation="Seleziona tutti gli elementi connessi a questo spettacolo, inclusi quelli legati alla Console"/>
 		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForRides" translation="Seleziona l'attrazione e tutte le parti della sequenza, inclusi quelli legati alla Console"/>
-		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForShootingRides" translation="Select the ride, targets connected to it, and all sequence parts, including all sequencer children recursively"/>
+		<entry key="InfoPanel_DisplaySequencer_ToolTip_SelectAllForShootingRides" translation="Seleziona l'attrazione, i bersagli connessi e tutte le parti di sequenza, incluse le sotto-sequenze ricorrenti"/>
 		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="InfoPanel_DisplaySequencer_TotalSceneryEventsLabel" translation="Totale Eventi Scenario"/>
 		<entry key="InfoPanel_DisplaySequencer_TriggerableToggleTooltip" translation="Se questa Console può essere innescata da una sorgente esterna"/>
-		<entry key="PopUp_DisplayCamera" translation="Selettore Videocamera"/>
-		<entry key="PopUp_DisplayCamera_AddCamera" translation="+ Aggiungi Videocamera"/>
+		<entry key="PopUp_DisplayCamera" translation="Selettore Telecamera"/>
+		<entry key="PopUp_DisplayCamera_AddCamera" translation="+ Aggiungi Telecamera"/>
 		<entry key="PopUp_DisplayCamera_AddCamera_Tooltip" translation="Non è possibile aggiungere più di {COUNT:separatedFloat:decimalPlaces=0} Videocamere."/>
-		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Videocamere Collegate"/>
+		<entry key="PopUp_DisplayCamera_ConnectedCameras_Label" translation="Telecamere Collegate"/>
 		<entry key="PopUp_DisplayCamera_CountValue" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_DisplayCamera_DefaultName" translation="Visuale {Value:separatedFloat:decimalPlaces=0}"/>
 		<entry key="PopUp_DisplayCamera_Description" translation="Usa la visuale libera per inquadrare lo scatto perfetto. Clicca Aggiungi Visuale per collegare la vista corrente alla nuova Visuale."/>
@@ -6192,7 +6192,7 @@
 		<entry key="BuildingPartName_HO_HotelEntrance" translation="Ingresso Hotel"/>
 		<entry key="BuildingPartName_HO_HotelRoom_Luxury" translation="Camera di Lusso"/>
 		<entry key="BuildingPartName_HO_HotelRoom_Standard" translation="Camera Standard"/>
-		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Sequenziatore per Visuale Attrazione"/>
+		<entry key="BuildingPartName_PC_RideCamTimeBox" translation="Console effetti per Visuale Attrazione"/>
 		<!--C7_Blueprints-->
 		<entry key="Blueprints_WildMouseBlueprint01" translation="Mouse Maze"/>
 		<entry key="Blueprints_WildMouseBlueprint01Desc" translation="Uno schema per il coaster Mouse Hunt."/>
@@ -6952,30 +6952,30 @@
 		<entry key="CoasterEditor_BusColor" translation="Colore Bus"/>
 		<entry key="CoasterEditor_Camera" translation="Camera"/>
 		<entry key="CoasterEditor_CarColor" translation="Colore Vettura"/>
-		<entry key="CoasterEditor_ChairColor" translation="Chair Colour"/>
+		<entry key="CoasterEditor_ChairColor" translation="Colore Sedile"/>
 		<entry key="CoasterEditor_Delete" translation="Elimina"/>
-		<entry key="CoasterEditor_DriverColor" translation="Driver Colour"/>
+		<entry key="CoasterEditor_DriverColor" translation="Colore Autista"/>
 		<entry key="CoasterEditor_ExtraSettings" translation="Impostazioni Utility"/>
 		<entry key="CoasterEditor_FreeCamera" translation="Libera"/>
-		<entry key="CoasterEditor_GondolaColor" translation="Gondola Colour"/>
+		<entry key="CoasterEditor_GondolaColor" translation="Colore Gondola"/>
 		<entry key="CoasterEditor_HeatmapG" translation="{VALUE:int} G"/>
 		<entry key="CoasterEditor_KartColor" translation="Colore Kart"/>
 		<entry key="CoasterEditor_Loops" translation="Giri della morte"/>
 		<entry key="CoasterEditor_NonInverted" translation="Non-invertito"/>
-		<entry key="CoasterEditor_OperatorColor" translation="Operator Colour"/>
+		<entry key="CoasterEditor_OperatorColor" translation="Colore Operatore"/>
 		<entry key="CoasterEditor_RaftColor" translation="Colore Zattera"/>
 		<entry key="CoasterEditor_ReverseDirection" translation="Direzione contraria"/>
 		<entry key="CoasterEditor_Rolls" translation="Avvitamenti"/>
 		<entry key="CoasterEditor_Scenery" translation="Scenario"/>
 		<entry key="CoasterEditor_Settings" translation="Impostazioni"/>
-		<entry key="CoasterEditor_ShowAllDirectionArrows" translation="Show All Car Direction Arrows"/>
+		<entry key="CoasterEditor_ShowAllDirectionArrows" translation="Mostra la direzione di tutte le vetture"/>
 		<entry key="CoasterEditor_ShowBank" translation="Mostra Curva"/>
 		<entry key="CoasterEditor_ShowCoasterName" translation="Mostra Nome Montagna Russa"/>
 		<entry key="CoasterEditor_SleighColor" translation="Colore Slitta"/>
-		<entry key="CoasterEditor_Smooth" translation="Appiattisci tutto"/>
-		<entry key="CoasterEditor_SmoothBanking" translation="Appiattisci Curva"/>
-		<entry key="CoasterEditor_SmoothHeight" translation="Smooth Height"/>
-		<entry key="CoasterEditor_SmoothTurn" translation="Smooth Turn"/>
+		<entry key="CoasterEditor_Smooth" translation="Livella tutto"/>
+		<entry key="CoasterEditor_SmoothBanking" translation="Livella Inclinazione"/>
+		<entry key="CoasterEditor_SmoothHeight" translation="Livella Altezza"/>
+		<entry key="CoasterEditor_SmoothTurn" translation="Livella Curva"/>
 		<entry key="CoasterEditor_Speed" translation="Velocità"/>
 		<entry key="CoasterEditor_Station" translation="Stazione"/>
 		<entry key="CoasterEditor_StopTest" translation="Ferma Test"/>
@@ -6986,7 +6986,7 @@
 		<entry key="CoasterEditor_Tooltip_Build" translation="Costruisci"/>
 		<entry key="CoasterEditor_Tooltip_Camera" translation="Camera"/>
 		<entry key="CoasterEditor_Tooltip_Delete" translation="Elimina"/>
-		<entry key="CoasterEditor_Tooltip_Test" translation="Testa"/>
+		<entry key="CoasterEditor_Tooltip_Test" translation="Fai un Test"/>
 		<entry key="CoasterEditor_TopHat" translation="Top Hat"/>
 		<entry key="CoasterEditor_Track" translation="Tracciato"/>
 		<entry key="CoasterEditor_TrackColor" translation="Colore Tracciato"/>
@@ -8111,7 +8111,7 @@
 		<entry key="TIME_YEARS" translation="{Years:int} anni"/>
 		<entry key="TIME_YEARS_SINGULAR" translation="1 anno"/>
 		<entry key="TIME_YEARS_ZERO" translation="&amp;lt;1 anno"/>
-		<entry key="Testing" translation="Testando"/>
+		<entry key="Testing" translation="Facendo un test"/>
 		<entry key="TimeAM" translation="AM"/>
 		<entry key="TimePM" translation="PM"/>
 		<entry key="TrackNotLegal" translation="Tracciato non possibile"/>
@@ -14202,7 +14202,7 @@
 		<entry key="HUD_HelpPopup_Paths_Command_13" translation="Aumenta Lunghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_14" translation="Riduci Larghezza"/>
 		<entry key="HUD_HelpPopup_Paths_Command_15" translation="Aumenta Larghezza"/>
-		<entry key="HUD_HelpPopup_Paths_Command_16" translation="Attiva Appiattisci Terreno"/>
+		<entry key="HUD_HelpPopup_Paths_Command_16" translation="Attiva Livella Terreno"/>
 		<entry key="HUD_HelpPopup_Paths_Command_17" translation="Cancella Continuo"/>
 		<entry key="HUD_HelpPopup_Paths_Description" translation="Posiziona i sentieri per permettere ai visitatori di andare in giro. I sentieri collegano l'entrata del parco alle attrazioni e ai negozi in tutto il parco."/>
 		<entry key="HUD_HelpPopup_Paths_Title" translation="Controlli dei sentieri"/>
@@ -14408,11 +14408,11 @@
 		<entry key="PopUp_AddTriggerHide" translation="Nascondi oggetti collegati"/>
 		<entry key="PopUp_AddTriggerHideOption" translation="Nascondi opzioni"/>
 		<entry key="PopUp_AddTriggerHint" translation="Aggiungi un punto del tracciato che si attiverà al passare del vagone."/>
-		<entry key="PopUp_AddTriggerPlay" translation="Test attivazione oggetti collegati"/>
+		<entry key="PopUp_AddTriggerPlay" translation="Prova attivazione oggetti collegati"/>
 		<entry key="PopUp_AddTriggerShow" translation="Mostra oggetti collegati"/>
 		<entry key="PopUp_AddTriggerShowOption" translation="Mostra Opzioni"/>
-		<entry key="PopUp_Ambience_FavouritesTab" translation="Favourites"/>
-		<entry key="PopUp_Ambience_PlanetCoasterTab" translation="Planet Coaster Ambience"/>
+		<entry key="PopUp_Ambience_FavouritesTab" translation="Preferiti"/>
+		<entry key="PopUp_Ambience_PlanetCoasterTab" translation="Ambiente Planet Coaster"/>
 		<entry key="PopUp_CannotOpen" translation="Non può essere aperta perchè l'attrazione non è testata e la checklist è incompleta"/>
 		<entry key="PopUp_CannotOpen_Basic" translation="Non può essere aperta"/>
 		<entry key="PopUp_CannotOpen_Incomplete" translation="Non può essere aperta perchè la checklist è incompleta"/>
@@ -14421,7 +14421,7 @@
 		<entry key="PopUp_CannotOpen_Racing" translation="Non può essere aperta perchè il percorso non è un circuito e la checklist è incompleta"/>
 		<entry key="PopUp_CannotOpen_Station" translation="Non può essere aperta perchè la stazione non è testata"/>
 		<entry key="PopUp_CannotOpen_Untested" translation="Non può essere aperta perchè l'attrazione non è testata"/>
-		<entry key="PopUp_CannotTest_NoEndLoops" translation="Cannot test as the ride is missing a Drive Station Wheel and a Bull Wheel Cap"/>
+		<entry key="PopUp_CannotTest_NoEndLoops" translation="Non si può testare perchè mancano una Drive Station Wheel e un Bull Wheel Cap"/>
 		<entry key="PopUp_CannotTest_NoStations" translation="Non si può testare perchè non sono state costruite stazioni"/>
 		<entry key="PopUp_Checklist" translation="Checklist"/>
 		<entry key="PopUp_Closed" translation="Chiudi"/>
@@ -14621,8 +14621,8 @@
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open" translation="Stato Catena: Aperto"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Open_ToolTip" translation=""/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetClosed_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato Chiuso."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato Aperto, se possono essere aperte."/>
-		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetTesting_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato di Test, se possono essere provate."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetOpen_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato Aperto, se possibile."/>
+		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_SetTesting_ToolTip" translation="Imposta tutte le Montagne Russe nella catena su stato di Test, se possibile."/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_Testing" translation="Stato Catena: Test"/>
 		<entry key="PopUp_Ride_DuellingCoasters_ChainStatus_ToolTip" translation="Impostare lo Stato della Catena metterà tutte le Montagne Russe della catena nello stesso stato, se possibile."/>
 		<entry key="PopUp_Ride_DuellingCoasters_Chain_Title" translation="CATENA DI MONTAGNE RUSSE"/>
@@ -15039,7 +15039,7 @@
 		<entry key="InfoPanel_EditModularScenery_Statistics_Label" translation="Statistiche"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_MusicSpeakersConnected" translation="Altoparlanti Musica Connessi"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_PlaytimeValue" translation="{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"/>
-		<entry key="InfoPanel_EditModularScenery_Statistics_TotalPlaytime" translation="Tempo di Gioco totale"/>
+		<entry key="InfoPanel_EditModularScenery_Statistics_TotalPlaytime" translation="Tempo di riproduzione totale"/>
 		<entry key="InfoPanel_EditModularScenery_TextOnSign" translation="{VALUE}"/>
 		<entry key="InfoPanel_EditModularScenery_TitleMulti" translation="Selezione ({Count:separatedFloat:decimalPlaces=0})"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_AdvancedCloneSingle" translation="Duplica &amp; Spostamento Avanzato [{#LogicalButton.Editors_AdvancedClone#}]"/>
@@ -15097,7 +15097,7 @@
 		<entry key="InfoPanel_Ride_Break_Down_Mechanic_Unavailable" translation="No Mechanic Available"/>
 		<entry key="InfoPanel_Ride_Close" translation="Chiudi"/>
 		<entry key="InfoPanel_Ride_CloseBeforeMove" translation="Devi chiudere l'attrazione prima di spostarla"/>
-		<entry key="InfoPanel_Ride_ConnectTargets" translation="Connect Targets"/>
+		<entry key="InfoPanel_Ride_ConnectTargets" translation="Collega Bersagli"/>
 		<entry key="InfoPanel_Ride_Delete" translation="Elimina"/>
 		<entry key="InfoPanel_Ride_Details" translation="Dettagli attrazione"/>
 		<entry key="InfoPanel_Ride_Downtime_Body" translation="{percentage:int}%"/>
@@ -26938,20 +26938,20 @@
 		<entry key="Browser_Cat_Shop_Info" translation="Informazioni"/>
 		<entry key="Browser_Cat_Shop_Other" translation="Altro"/>
 		<entry key="Browser_Cat_Shop_ParkEntrance" translation="Entrata del parco"/>
-		<entry key="Browser_Cat_Shop_SmallAttractions" translation="Small Attractions"/>
+		<entry key="Browser_Cat_Shop_SmallAttractions" translation="Piccole Attrazioni"/>
 		<entry key="Browser_Cat_Shop_TicketBooth" translation="Chioschi dei biglietti"/>
 		<entry key="Browser_Cat_Shop_Toilet" translation="Bagni"/>
 		<entry key="Browser_SubCat_Attach_Decorations" translation="Decorazioni per finestre"/>
 		<entry key="Browser_SubCat_Attach_Doors" translation="Porte"/>
 		<entry key="Browser_SubCat_Attach_Windows" translation="Finestre"/>
-		<entry key="Browser_SubCat_Decorations_Awnings" translation="Awnings"/>
+		<entry key="Browser_SubCat_Decorations_Awnings" translation="Tende"/>
 		<entry key="Browser_SubCat_Decorations_Flags" translation="Bandiere"/>
 		<entry key="Browser_SubCat_Decorations_Lights" translation="Luci"/>
 		<entry key="Browser_SubCat_Decorations_Wall" translation="Varie"/>
 		<entry key="Browser_SubCat_Nature_Bush" translation="Cespugli"/>
 		<entry key="Browser_SubCat_Nature_Climber" translation="Rampicanti"/>
 		<entry key="Browser_SubCat_Nature_Misc" translation="Varie"/>
-		<entry key="Browser_SubCat_Nature_Planters" translation="Planters"/>
+		<entry key="Browser_SubCat_Nature_Planters" translation="Fioriere"/>
 		<entry key="Browser_SubCat_Nature_Rock" translation="Rocce"/>
 		<entry key="Browser_SubCat_Nature_Topiary" translation="Arte topiaria"/>
 		<entry key="Browser_SubCat_Nature_Tree" translation="Alberi"/>
@@ -26963,13 +26963,13 @@
 		<entry key="Browser_SubCat_Primitives_Round" translation="Rotondi"/>
 		<entry key="Browser_SubCat_Props_Animatronic" translation="Animatronics"/>
 		<entry key="Browser_SubCat_Props_Archways" translation="Archi"/>
-		<entry key="Browser_SubCat_Props_Fences" translation="Fences"/>
+		<entry key="Browser_SubCat_Props_Fences" translation="Recinti"/>
 		<entry key="Browser_SubCat_Props_Lamps" translation="Luci"/>
 		<entry key="Browser_SubCat_Props_Misc" translation="Varie"/>
 		<entry key="Browser_SubCat_Props_Signs" translation="Insegne e pubblicità"/>
 		<entry key="Browser_SubCat_Props_Statues" translation="Statue"/>
-		<entry key="Browser_SubCat_Props_Targets" translation="Targets"/>
-		<entry key="Browser_SubCat_Props_Vehicles" translation="Vehicles"/>
+		<entry key="Browser_SubCat_Props_Targets" translation="Bersagli"/>
+		<entry key="Browser_SubCat_Props_Vehicles" translation="Veicoli"/>
 		<entry key="Browser_SubCat_Roof_Decorations" translation="Decorazioni per tetti"/>
 		<entry key="Browser_SubCat_Roof_Flat" translation="Tetti piatti"/>
 		<entry key="Browser_SubCat_Roof_Roof" translation="Tetti a punta"/>
@@ -27095,7 +27095,7 @@
 		<entry key="Tag_Blueprint_SceneryScene" translation="Scene"/>
 		<entry key="Tag_Blueprint_ScenerySpecialEffect" translation="Effetti Speciali"/>
 		<entry key="Tag_Blueprint_SceneryStatue" translation="Statue"/>
-		<entry key="Tag_Blueprint_SceneryTarget" translation="Targets"/>
+		<entry key="Tag_Blueprint_SceneryTarget" translation="Bersagli"/>
 		<entry key="Tag_Blueprint_Shop" translation="Negozi"/>
 		<entry key="Tag_Blueprint_ShopATM" translation="Bancomat"/>
 		<entry key="Tag_Blueprint_ShopDrink" translation="Negozi di bibite"/>
@@ -27117,15 +27117,15 @@
 		<entry key="Tag_Blueprint_Wheel" translation="Attrazioni a Ruota"/>
 		<entry key="Tag_Brand_Baguette" translation="Le Vingt Sept"/>
 		<entry key="Tag_Brand_Burrito" translation="Burrito Bonanza"/>
-		<entry key="Tag_Brand_ChiefBeef" translation="Chief Beef"/>
+		<entry key="Tag_Brand_ChiefBeef" translation="Capitan Manzo"/>
 		<entry key="Tag_Brand_ChowMeinChow" translation="Chow Mein Chow"/>
 		<entry key="Tag_Brand_ChurreriaDelSol" translation="Churrería Del Sol"/>
-		<entry key="Tag_Brand_CosmicCow" translation="Cosmic Cow"/>
+		<entry key="Tag_Brand_CosmicCow" translation="Mucca Cosmica"/>
 		<entry key="Tag_Brand_DuneDelights" translation="Dune Delights"/>
 		<entry key="Tag_Brand_Gelateria" translation="Gelateria di Maria"/>
 		<entry key="Tag_Brand_Gulpee" translation="Gulpee"/>
 		<entry key="Tag_Brand_HatsFantastic" translation="Hat's Fantastic"/>
-		<entry key="Tag_Brand_HotdogSquad" translation="Hotdog Squad"/>
+		<entry key="Tag_Brand_HotdogSquad" translation="Squadra Hotdog"/>
 		<entry key="Tag_Brand_JustRibbin" translation="Just Ribbin"/>
 		<entry key="Tag_Brand_Justamomento" translation="Justamomento"/>
 		<entry key="Tag_Brand_LoonyBlooons" translation="Loony Blooons"/>
@@ -29905,11 +29905,11 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Wood_GateClose" translation="Chiusura Cancello in Legno"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Wood_GateOpen" translation="Apertura Cancello in Legno"/>
 		<entry key="TriggeredAudioEvents_Events" translation="Evento Audio a Innesco"/>
-		<entry key="TriggeredAudioEvents_Pitch" translation="Intensità"/>
-		<entry key="TriggeredAudioEvents_PitchDisabled" translation="Pitch (Disabled - Attached to Sequence)"/>
+		<entry key="TriggeredAudioEvents_Pitch" translation="Tonalità"/>
+		<entry key="TriggeredAudioEvents_PitchDisabled" translation="Tonalità (Disattivato - Collegato a Sequenza)"/>
 		<entry key="TriggeredAudioEvents_TestTrigger" translation="Test Innesco"/>
 		<entry key="TriggeredAudioEvents_Volume" translation="Volume"/>
-		<entry key="TriggeredAudioEvents_VolumeDisabled" translation="Volume (Disabled - Attached to Sequence)"/>
+		<entry key="TriggeredAudioEvents_VolumeDisabled" translation="Volume (Disattivato - Collegato a Sequenza)"/>
 		<entry key="TriggeredSFX_Adventure_Heading" translation="Adventure"/>
 		<entry key="TriggeredSFX_Alarms_Heading" translation="Allarmi"/>
 		<entry key="TriggeredSFX_Announcement_Heading" translation="Avvisi"/>
