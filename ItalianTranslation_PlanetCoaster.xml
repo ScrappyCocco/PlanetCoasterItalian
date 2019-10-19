@@ -377,7 +377,7 @@
 		<entry key="Blueprints_PirateScenery" translation="Scenografia Ahoy!"/>
 		<entry key="Blueprints_PirateScenery2" translation="Ciò che rimane del naufragio"/>
 		<entry key="Blueprints_PirateScenery2Desc" translation="Non me ne andrò mai! Non fin quando il mio tesoro rimarrà qui!"/>
-		<entry key="Blueprints_PirateScenery3" translation="Roccia a forma teschio pauroso!"/>
+		<entry key="Blueprints_PirateScenery3" translation="Roccia a forma di teschio pauroso!"/>
 		<entry key="Blueprints_PirateScenery3Desc" translation="Solo a guardarla mi fa tremare tutto."/>
 		<entry key="Blueprints_PirateSceneryDesc" translation="Queste scenografie è stato realizzato per far contento il capitano."/>
 		<entry key="Blueprints_PirateSea" translation="Collezione Alto Mare"/>
@@ -5022,7 +5022,7 @@
 		<entry key="InfoPanel_DisplaySequencer_LoopMode_ThreeHourly" translation="Ogni tre ore"/>
 		<entry key="InfoPanel_DisplaySequencer_LoopMode_TwoHourly" translation="Ogni due ore"/>
 		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCameras" translation="Sposta Telecamere con Console Effetti Visuale Attrazione"/>
-		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCamerasDescriptions" translation="Se selezionato, spostare la Console Effetti Visuale Attrazione sposterà anche le telecamere "/>
+		<entry key="InfoPanel_DisplaySequencer_MoveDisplayCamerasDescriptions" translation="Se selezionato, spostare la Console sposterà anche le telecamere "/>
 		<entry key="InfoPanel_DisplaySequencer_Overview" translation="Panoramica"/>
 		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTimes" translation="Limita orari di attivazione"/>
 		<entry key="InfoPanel_DisplaySequencer_RestrictActivationTooltip" translation="Permette di scegliere un lasso di tempo nel quale l'effetto potrà avviarsi.&#10;Al di fuori di questi orari l'effetto non si avvierà."/>
@@ -5718,8 +5718,8 @@
 		<entry key="ScenarioEditor_Research_FiltersTitle" translation="Filtri"/>
 		<entry key="ScenarioEditor_Research_Filters_Building" translation="Edifici"/>
 		<entry key="ScenarioEditor_Research_Filters_Coaster" translation="Montagne Russe"/>
-		<entry key="ScenarioEditor_Research_Filters_DLCPack" translation="DLC Packs"/>
-		<entry key="ScenarioEditor_Research_Filters_DLCRide" translation="DLC Rides"/>
+		<entry key="ScenarioEditor_Research_Filters_DLCPack" translation="Contenuti DLC"/>
+		<entry key="ScenarioEditor_Research_Filters_DLCRide" translation="Attrazioni DLC"/>
 		<entry key="ScenarioEditor_Research_Filters_Facility" translation="Strutture"/>
 		<entry key="ScenarioEditor_Research_Filters_Flatride" translation="Attrazioni"/>
 		<entry key="ScenarioEditor_Research_Filters_Scenery" translation="Scenario"/>
@@ -6407,7 +6407,7 @@
 		<entry key="BuildingPartName_VT_Planter_Thin_Curve_4m_ST" translation="Modular Planter Thin Curve 4m"/>
 		<entry key="BuildingPartName_VT_Planter_Thin_EndCap_Circle_ST" translation="Modular Planter Thin End Circle"/>
 		<entry key="BuildingPartName_VT_Planter_Thin_EndCap_Square_ST" translation="Modular Planter Thin End Square"/>
-		<entry key="BuildingPartName_VT_Rose_Bush" translation="Rose Bush"/>
+		<entry key="BuildingPartName_VT_Rose_Bush" translation="Cespuglio di Rose"/>
 		<entry key="BuildingPartName_VT_Set01_2mLrg_Sup" translation="Coaster Support 1 Large 2m"/>
 		<entry key="BuildingPartName_VT_Set01_2mSml_Sup" translation="Coaster Support 1 Small 2m"/>
 		<entry key="BuildingPartName_VT_Set01_4mLrg_Sup" translation="Coaster Support 1 Large 4m"/>
@@ -6465,8 +6465,8 @@
 		<entry key="BuildingPartName_VT_Sunflowers" translation="Sunflower Clump"/>
 		<entry key="BuildingPartName_VT_Sunflowers_01" translation="Sunflower Single 1"/>
 		<entry key="BuildingPartName_VT_Sunflowers_02" translation="Sunflower Single 2"/>
-		<entry key="BuildingPartName_VT_Tulips_Round" translation="Tulip Flowers Round"/>
-		<entry key="BuildingPartName_VT_Tulips_Square" translation="Tulip Flowers Square"/>
+		<entry key="BuildingPartName_VT_Tulips_Round" translation="Cerchio di Tulipani"/>
+		<entry key="BuildingPartName_VT_Tulips_Square" translation="Quadrato di Tulipani"/>
 		<!--C7_Tags-->
 		<entry key="Set_Masonry" translation="Muratura"/>
 		<entry key="Set_Stone" translation="Pietra Decorativa"/>
@@ -6474,122 +6474,122 @@
 		<!--C7_Trains-->
 		<entry key="Train_MouseHunt" translation="Mouse Hunt"/>
 		<!--C8_Blueprints-->
-		<entry key="Blueprints_AudioBlueprint01" translation="Planet Coaster Theme Song"/>
-		<entry key="Blueprints_AudioBlueprint01_Desc" translation="Planet Coaster theme song created using flexible pitch tools in the display sequencer."/>
-		<entry key="Blueprints_PC_Hotel_01" translation="Planet Coaster Hotel"/>
-		<entry key="Blueprints_PC_Hotel_01_Desc" translation="Planet Coaster themed restaurant."/>
-		<entry key="Blueprints_WD_Restaurant_01" translation="Western Restaurant"/>
-		<entry key="Blueprints_WD_Restaurant_01_Desc" translation="Western themed restaurant."/>
+		<entry key="Blueprints_AudioBlueprint01" translation="Canzone a tema Planet Coaster"/>
+		<entry key="Blueprints_AudioBlueprint01_Desc" translation="Canzone a tema Planet Coaster creata utilizzando strumenti di modulazione del tono nella console effetti."/>
+		<entry key="Blueprints_PC_Hotel_01" translation="Hotel Planet Coaster"/>
+		<entry key="Blueprints_PC_Hotel_01_Desc" translation="Hotel a tema Planet Coaster"/>
+		<entry key="Blueprints_WD_Restaurant_01" translation="Ristorante Western"/>
+		<entry key="Blueprints_WD_Restaurant_01_Desc" translation="Ristorante a tema Western."/>
 		<!--C8_Facilities-->
-		<entry key="Browser_Cat_Shop_Restaurant" translation="Restaurant"/>
-		<entry key="ShopItem_Drink_R_Cosmic_01" translation="Chocolate Cosmic Shake"/>
-		<entry key="ShopItem_Drink_R_Cosmic_02" translation="Strawberry Cosmic Shake"/>
-		<entry key="ShopItem_Drink_R_Cosmic_03" translation="Vanilla Cosmic Shake"/>
-		<entry key="ShopItem_Drink_R_Cosmic_04" translation="Biscuit Crunch Cosmic Shake"/>
+		<entry key="Browser_Cat_Shop_Restaurant" translation="Ristorante"/>
+		<entry key="ShopItem_Drink_R_Cosmic_01" translation="Frullato al Cioccolato Cosmico"/>
+		<entry key="ShopItem_Drink_R_Cosmic_02" translation="Frullato alla Fragola Cosmico"/>
+		<entry key="ShopItem_Drink_R_Cosmic_03" translation="Frullato alla Vaniglia Cosmico"/>
+		<entry key="ShopItem_Drink_R_Cosmic_04" translation="Frullato ai Biscotti sbriciolati Cosmico"/>
 		<entry key="ShopItem_Drink_R_Gulpee_01" translation="Gulpee Energy"/>
 		<entry key="ShopItem_Drink_R_Gulpee_02" translation="Gulpee 0 Cal"/>
 		<entry key="ShopItem_Drink_R_Gulpee_03" translation="Gulpee Guava"/>
 		<entry key="ShopItem_Drink_R_Gulpee_04" translation="Gulpee Slush"/>
 		<entry key="ShopItem_Drink_R_Gulpee_05" translation="Gulpee Slush Duo"/>
-		<entry key="ShopItem_Drink_R_Pipshot_01" translation="Tropical Smoothie"/>
-		<entry key="ShopItem_Drink_R_Pipshot_02" translation="Green Kale Smoothie"/>
-		<entry key="ShopItem_Drink_R_Pipshot_03" translation="Blackcurrant Juice"/>
-		<entry key="ShopItem_Drink_R_Pipshot_04" translation="Orange Juice"/>
-		<entry key="ShopItem_Drink_R_Pipshot_05" translation="Mineral Water"/>
+		<entry key="ShopItem_Drink_R_Pipshot_01" translation="Frappè Tropicale"/>
+		<entry key="ShopItem_Drink_R_Pipshot_02" translation="Frappè Cavolo verde"/>
+		<entry key="ShopItem_Drink_R_Pipshot_03" translation="Succo di Ribes nero"/>
+		<entry key="ShopItem_Drink_R_Pipshot_04" translation="Succo d'Arancia"/>
+		<entry key="ShopItem_Drink_R_Pipshot_05" translation="Acqua Minerale"/>
 		<entry key="ShopItem_Drink_R_SFCoffee_01" translation="Americano"/>
-		<entry key="ShopItem_Drink_R_SFCoffee_02" translation="Double Espresso"/>
+		<entry key="ShopItem_Drink_R_SFCoffee_02" translation="Espresso Doppio"/>
 		<entry key="ShopItem_Drink_R_SFCoffee_03" translation="Cappuccino"/>
-		<entry key="ShopItem_Drink_R_SFCoffee_04" translation="Mocha"/>
-		<entry key="ShopItem_Drink_R_SFCoffee_05" translation="Decaf"/>
-		<entry key="ShopItem_Drink_R_SFCoffee_06" translation="Latte"/>
+		<entry key="ShopItem_Drink_R_SFCoffee_04" translation="Mocaccino"/>
+		<entry key="ShopItem_Drink_R_SFCoffee_05" translation="Decaffeinato"/>
+		<entry key="ShopItem_Drink_R_SFCoffee_06" translation="Latte macchiato"/>
 		<entry key="ShopItem_Food_R_Burrito_01" translation="Burrito"/>
-		<entry key="ShopItem_Food_R_Burrito_02" translation="Burrito Stack"/>
+		<entry key="ShopItem_Food_R_Burrito_02" translation="Burrito Ripieno"/>
 		<entry key="ShopItem_Food_R_Burrito_03" translation="Burrito Light"/>
 		<entry key="ShopItem_Food_R_ChiefBeef_01" translation="Chief Burger"/>
 		<entry key="ShopItem_Food_R_ChiefBeef_02" translation="Double Chief Burger"/>
 		<entry key="ShopItem_Food_R_ChiefBeef_03" translation="Bacon Cheese Burger"/>
 		<entry key="ShopItem_Food_R_ChiefBeef_04" translation="Vegi Chief Burger"/>
-		<entry key="ShopItem_Food_R_ChowMein_01" translation="Chow Mein"/>
-		<entry key="ShopItem_Food_R_ChowMein_02" translation="Curried Chow Mein"/>
-		<entry key="ShopItem_Food_R_ChowMein_03" translation="Chef's Special Chow Mein"/>
-		<entry key="ShopItem_Food_R_DuneDelights_01" translation="Meat Skewers"/>
-		<entry key="ShopItem_Food_R_DuneDelights_02" translation="Vegetarian Skewers"/>
-		<entry key="ShopItem_Food_R_DuneDelights_03" translation="Lamb Tagine"/>
-		<entry key="ShopItem_Food_R_GenericPasta" translation="Cheesy Pasta"/>
-		<entry key="ShopItem_Food_R_GenericSandwich" translation="Ham Sandwich"/>
-		<entry key="ShopItem_Food_R_GenericSausages" translation="Sausage and Mash"/>
+		<entry key="ShopItem_Food_R_ChowMein_01" translation="Spaghetti saltati"/>
+		<entry key="ShopItem_Food_R_ChowMein_02" translation="Spaghetti saltati piccanti"/>
+		<entry key="ShopItem_Food_R_ChowMein_03" translation="Spaghetti saltati speciali dello Chef"/>
+		<entry key="ShopItem_Food_R_DuneDelights_01" translation="Spiedini di carne"/>
+		<entry key="ShopItem_Food_R_DuneDelights_02" translation="Spiedini vegetariani"/>
+		<entry key="ShopItem_Food_R_DuneDelights_03" translation="Tagine di agnello"/>
+		<entry key="ShopItem_Food_R_GenericPasta" translation="Pasta al Formaggio"/>
+		<entry key="ShopItem_Food_R_GenericSandwich" translation="Sandwich al prosciutto"/>
+		<entry key="ShopItem_Food_R_GenericSausages" translation="Salsiccia e purè"/>
 		<entry key="ShopItem_Food_R_HotDog_01" translation="Hotdog"/>
-		<entry key="ShopItem_Food_R_HotDog_02" translation="Jumbo Hotdog"/>
-		<entry key="ShopItem_Food_R_HotDog_03" translation="Double Hotdog"/>
-		<entry key="ShopItem_Food_R_JustRibbin_01" translation="Rib Rack"/>
-		<entry key="ShopItem_Food_R_JustRibbin_02" translation="Large Rib Rack"/>
-		<entry key="ShopItem_Food_R_JustRibbin_03" translation="Steak"/>
-		<entry key="ShopItem_Food_R_JustRibbin_04" translation="Premium Steak"/>
+		<entry key="ShopItem_Food_R_HotDog_02" translation="Hotdog Gigante"/>
+		<entry key="ShopItem_Food_R_HotDog_03" translation="Doppio Hotdog"/>
+		<entry key="ShopItem_Food_R_JustRibbin_01" translation="Costine"/>
+		<entry key="ShopItem_Food_R_JustRibbin_02" translation="Costine Grandi"/>
+		<entry key="ShopItem_Food_R_JustRibbin_03" translation="Bistecca"/>
+		<entry key="ShopItem_Food_R_JustRibbin_04" translation="Bistecca Premium"/>
 		<entry key="ShopItem_Food_R_Mexelente_01" translation="Taco"/>
 		<entry key="ShopItem_Food_R_Mexelente_02" translation="Taco Grande"/>
-		<entry key="ShopItem_Food_R_PizzaPen_01" translation="Margherita Pizza"/>
-		<entry key="ShopItem_Food_R_PizzaPen_02" translation="Pepperoni Pizza"/>
-		<entry key="ShopItem_Food_R_PizzaPen_03" translation="Hawaiian Pizza"/>
-		<entry key="ShopItem_Food_R_PizzaPen_04" translation="Half and Half Pizza"/>
-		<entry key="ShopItem_Food_R_ProfWurst_01" translation="Mixed Platter"/>
-		<entry key="ShopItem_Food_R_ProfWurst_02" translation="Bratwurst with Salad"/>
-		<entry key="ShopItem_Food_R_ProfWurst_03" translation="Cold Meats Platter"/>
-		<entry key="ShopItem_Food_R_ProfWurst_04" translation="Professor's Special"/>
+		<entry key="ShopItem_Food_R_PizzaPen_01" translation="Pizza Margherita"/>
+		<entry key="ShopItem_Food_R_PizzaPen_02" translation="Pizza ai Peperoni"/>
+		<entry key="ShopItem_Food_R_PizzaPen_03" translation="Pizza Hawaiiana"/>
+		<entry key="ShopItem_Food_R_PizzaPen_04" translation="Pizza a metà"/>
+		<entry key="ShopItem_Food_R_ProfWurst_01" translation="Piatto misto"/>
+		<entry key="ShopItem_Food_R_ProfWurst_02" translation="Wurstel con insalata"/>
+		<entry key="ShopItem_Food_R_ProfWurst_03" translation="Piatto freddo di carne"/>
+		<entry key="ShopItem_Food_R_ProfWurst_04" translation="Speciale del Professore"/>
 		<entry key="ShopItem_Food_R_Sushi_01" translation="Sushi"/>
 		<entry key="ShopItem_Food_R_Sushi_02" translation="Sashimi"/>
 		<entry key="ShopItem_Food_R_Sushi_03" translation="Nigiri"/>
-		<entry key="ShopItem_Food_R_Tikichiki_01" translation="Spicy Chicken"/>
-		<entry key="ShopItem_Food_R_Tikichiki_02" translation="Plain Chicken"/>
-		<entry key="ShopItem_Food_R_Tikichiki_03" translation="Coconut Chicken"/>
-		<entry key="ShopItem_Food_R_Tikichiki_04" translation="Hot Wings"/>
-		<entry key="ShopItem_Side_R_Baguette_01" translation="Plain Crepe"/>
-		<entry key="ShopItem_Side_R_Baguette_02" translation="Fruit Filled Crepe"/>
-		<entry key="ShopItem_Side_R_Baguette_03" translation="Chocolate Filled Crepe"/>
-		<entry key="ShopItem_Side_R_ChurreriaDelSol_01" translation="Plain Churros"/>
-		<entry key="ShopItem_Side_R_ChurreriaDelSol_02" translation="Churros with dips"/>
-		<entry key="ShopItem_Side_R_ChurreriaDelSol_03" translation="Ice cream Churros"/>
-		<entry key="ShopItem_Side_R_Fries_01" translation="Fries"/>
-		<entry key="ShopItem_Side_R_Fries_02" translation="Triple baked Fries"/>
-		<entry key="ShopItem_Side_R_Fries_03" translation="Sweet Potato Fries"/>
-		<entry key="ShopItem_Side_R_Gelateria_01" translation="Single Scoop Gelato"/>
-		<entry key="ShopItem_Side_R_Gelateria_02" translation="Double Scoop Gelato"/>
-		<entry key="ShopItem_Side_R_Gelateria_03" translation="Triple Scoop Gelato"/>
-		<entry key="ShopItem_Side_R_Gelateria_04" translation="10 Scoop Gelato"/>
-		<entry key="ShopItem_Side_R_MissyGood_01" translation="Classic Doughnut"/>
-		<entry key="ShopItem_Side_R_MissyGood_02" translation="Iced Doughnut"/>
-		<entry key="ShopItem_Side_R_MissyGood_03" translation="Doughnut Bites"/>
-		<entry key="ShopItem_Side_R_MissyGood_04" translation="Filled Doughnut"/>
-		<entry key="ShopItem_Side_R_Sweets_01" translation="Sticky Toffee Pudding"/>
+		<entry key="ShopItem_Food_R_Tikichiki_01" translation="Pollo Piccante"/>
+		<entry key="ShopItem_Food_R_Tikichiki_02" translation="Pollo semplice"/>
+		<entry key="ShopItem_Food_R_Tikichiki_03" translation="Pollo al Cocco"/>
+		<entry key="ShopItem_Food_R_Tikichiki_04" translation="Alette piccanti"/>
+		<entry key="ShopItem_Side_R_Baguette_01" translation="Crepe semplice"/>
+		<entry key="ShopItem_Side_R_Baguette_02" translation="Crepe alla frutta"/>
+		<entry key="ShopItem_Side_R_Baguette_03" translation="Crepe ripiena al cioccolato"/>
+		<entry key="ShopItem_Side_R_ChurreriaDelSol_01" translation="Churros semplici"/>
+		<entry key="ShopItem_Side_R_ChurreriaDelSol_02" translation="Churros con salse"/>
+		<entry key="ShopItem_Side_R_ChurreriaDelSol_03" translation="Churros con gelato"/>
+		<entry key="ShopItem_Side_R_Fries_01" translation="Patatine"/>
+		<entry key="ShopItem_Side_R_Fries_02" translation="Patatine tripla cottura"/>
+		<entry key="ShopItem_Side_R_Fries_03" translation="Patatine dolci"/>
+		<entry key="ShopItem_Side_R_Gelateria_01" translation="Pallina di Gelato"/>
+		<entry key="ShopItem_Side_R_Gelateria_02" translation="Doppia Pallina di Gelato"/>
+		<entry key="ShopItem_Side_R_Gelateria_03" translation="Tripla pallina di Gelato"/>
+		<entry key="ShopItem_Side_R_Gelateria_04" translation="10 Palline di Gelato"/>
+		<entry key="ShopItem_Side_R_MissyGood_01" translation="Ciambella classica"/>
+		<entry key="ShopItem_Side_R_MissyGood_02" translation="Ciambella con gelato"/>
+		<entry key="ShopItem_Side_R_MissyGood_03" translation="Ciambelline"/>
+		<entry key="ShopItem_Side_R_MissyGood_04" translation="Ciambella ripiena"/>
+		<entry key="ShopItem_Side_R_Sweets_01" translation="Budino al caramello"/>
 		<entry key="ShopItem_Side_R_Sweets_02" translation="Banana Split"/>
-		<entry key="ShopItem_Side_R_Sweets_03" translation="Cake of the Day"/>
-		<entry key="ShopItem_Side_R_Sweets_04" translation="Chocolate Delight"/>
-		<entry key="ShopItem_Vend_CCIcecream_01" translation="Moon Dust Vanilla Ice Cream"/>
-		<entry key="ShopItem_Vend_CCIcecream_02" translation="Solar Flare Strawberry Ice Cream"/>
-		<entry key="ShopItem_Vend_CCIcecream_03" translation="Green Goo Mint Ice Cream"/>
+		<entry key="ShopItem_Side_R_Sweets_03" translation="Torta del giorno"/>
+		<entry key="ShopItem_Side_R_Sweets_04" translation="Delizia al cioccolato"/>
+		<entry key="ShopItem_Vend_CCIcecream_01" translation="Gelato alla vaniglia Polvere di Luna"/>
+		<entry key="ShopItem_Vend_CCIcecream_02" translation="Gelato alla fragola Raggio di Sole"/>
+		<entry key="ShopItem_Vend_CCIcecream_03" translation="Gelato alla menta Melma Verde"/>
 		<entry key="ShopItem_Vend_ChiefBeef_01" translation="Chief Burger"/>
 		<entry key="ShopItem_Vend_ChiefBeef_02" translation="Chief Bean Burger"/>
 		<entry key="ShopItem_Vend_ChiefBeef_03" translation="Gluten Free Chief Burger"/>
-		<entry key="ShopItem_Vend_Fries_01" translation="Small Fries"/>
-		<entry key="ShopItem_Vend_Fries_02" translation="Small Spiced Fries"/>
-		<entry key="ShopItem_Vend_Fries_03" translation="Small Sweet Potato Fries"/>
+		<entry key="ShopItem_Vend_Fries_01" translation="Patatine piccole"/>
+		<entry key="ShopItem_Vend_Fries_02" translation="Patatine piccole speziate"/>
+		<entry key="ShopItem_Vend_Fries_03" translation="Patatine piccole dolci"/>
 		<entry key="ShopItem_Vend_HotDog_01" translation="Hotdog"/>
-		<entry key="ShopItem_Vend_HotDog_02" translation="Jumbo Hotdog"/>
-		<entry key="ShopItem_Vend_HotDog_03" translation="Battered Hotdog"/>
+		<entry key="ShopItem_Vend_HotDog_02" translation="Hotdog Gigante"/>
+		<entry key="ShopItem_Vend_HotDog_03" translation="Hotdog in pastella"/>
 		<entry key="ShopItem_Vend_Mexelente_01" translation="Taco"/>
-		<entry key="ShopItem_Vend_Mexelente_02" translation="Deluxe Taco"/>
+		<entry key="ShopItem_Vend_Mexelente_02" translation="Taco Deluxe"/>
 		<entry key="ShopItem_Vend_Mexelente_03" translation="Cactus Taco"/>
-		<entry key="ShopItem_Vend_MissyGood_01" translation="Chocolate Iced Doughnut"/>
-		<entry key="ShopItem_Vend_MissyGood_02" translation="Strawberry Iced Doughnut"/>
-		<entry key="ShopItem_Vend_MissyGood_03" translation="Caramel Doughnut"/>
-		<entry key="ShopItem_Vend_MissyGood_04" translation="Cookies and Cream Doughnut"/>
-		<entry key="ShopItem_Vend_PizzaPen_01" translation="Margherita Pizza Slice"/>
-		<entry key="ShopItem_Vend_PizzaPen_02" translation="Pepperoni Pizza Slice"/>
-		<entry key="ShopItem_Vend_PizzaPen_03" translation="Hawaiian Pizza Slice"/>
-		<entry key="ShopItem_Vend_PizzaPen_04" translation="Four Cheese Pizza Slice"/>
-		<entry key="ShopItem_Vend_Tikichiki_01" translation="Spicy Chicken"/>
-		<entry key="ShopItem_Vend_Tikichiki_02" translation="Plain Chicken"/>
-		<entry key="ShopItem_Vend_Tikichiki_03" translation="Coconut Chicken"/>
-		<entry key="ShopItem_Vend_Tikichiki_04" translation="Hot Wings"/>
+		<entry key="ShopItem_Vend_MissyGood_01" translation="Ciambella con gelato al cioccolato"/>
+		<entry key="ShopItem_Vend_MissyGood_02" translation="Ciambella con gelato alla fragola"/>
+		<entry key="ShopItem_Vend_MissyGood_03" translation="Ciambella al caramello"/>
+		<entry key="ShopItem_Vend_MissyGood_04" translation="Ciambella Panna e Biscotti"/>
+		<entry key="ShopItem_Vend_PizzaPen_01" translation="Fetta di Pizza Margherita"/>
+		<entry key="ShopItem_Vend_PizzaPen_02" translation="Fetta di Pizza ai Peperoni"/>
+		<entry key="ShopItem_Vend_PizzaPen_03" translation="Fetta di Pizza Hawaiiana"/>
+		<entry key="ShopItem_Vend_PizzaPen_04" translation="Fetta di Pizza ai 4 Formaggi"/>
+		<entry key="ShopItem_Vend_Tikichiki_01" translation="Pollo Piccante"/>
+		<entry key="ShopItem_Vend_Tikichiki_02" translation="Pollo semplice"/>
+		<entry key="ShopItem_Vend_Tikichiki_03" translation="Pollo al Cocco"/>
+		<entry key="ShopItem_Vend_Tikichiki_04" translation="Alette Piccanti"/>
 		<!--C8_InfoPanel_Restaurant-->
 		<entry key="InfoPanel_RestaurantRoom_ConnectRoomsLabel" translation="Connect Expansions to a Restaurant via a Foyer Object"/>
 		<entry key="InfoPanel_RestaurantRoom_ConnectedTo" translation="Connected to"/>
@@ -6711,48 +6711,48 @@
 		<entry key="InfoPanel_Restaurant_WiFi_Label" translation="Internet Access"/>
 		<!--C8_ModularScenery-->
 		<entry key="BuildingPartDesc_FAD_Gulpee_Soda_11" translation="The taste that dinosaurs love!&#10;Gulpee Set"/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Circles" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Hearts" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_A" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_B" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_C" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_D" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_E" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_F" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_G" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_H" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_I" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_J" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_K" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_L" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_M" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_N" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_O" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_P" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_Q" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_R" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_S" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_T" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_U" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_V" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_W" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_X" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_Y" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_Z" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Moon" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_0" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_1" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_2" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_3" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_4" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_5" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_6" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_7" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_8" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_9" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_PlanetCoaster" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Skull" translation="Special Effect - Single launch custom shape firework."/>
-		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Stars" translation="Special Effect - Single launch custom shape firework."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Circles" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Hearts" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_A" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_B" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_C" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_D" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_E" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_F" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_G" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_H" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_I" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_J" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_K" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_L" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_M" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_N" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_O" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_P" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_Q" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_R" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_S" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_T" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_U" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_V" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_W" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_X" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_Y" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Letter_Z" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Moon" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_0" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_1" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_2" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_3" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_4" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_5" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_6" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_7" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_8" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Number_9" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_PlanetCoaster" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Skull" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
+		<entry key="BuildingPartDesc_FWK_Firework_CustomShape_Stars" translation="Effetti Speciali - Fuoco d'artificio personalizzato a lancio singolo."/>
 		<entry key="BuildingPartDesc_PC_VendingMachine_CCIceCream" translation="A vending machine that sells Cosmic Cow Ice Cream branded food.&#10;Food Vending Machine"/>
 		<entry key="BuildingPartDesc_PC_VendingMachine_ChiefBeef" translation="A vending machine that sells Chief Beef branded food.&#10;Food Vending Machine"/>
 		<entry key="BuildingPartDesc_PC_VendingMachine_HotdogSquad" translation="A vending machine that sells Hot dog Squad branded food.&#10;Food Vending Machine"/>
@@ -18898,9 +18898,9 @@
 		<entry key="BuildingPartName_PDLC_DeLorean_WheelSet1Front" translation="Ritorno al Futuro Ruota 1985 - Anteriore"/>
 		<!--PDLC_GBH_FrontEndMenu-->
 		<entry key="FrontEndMenu_Ghostbusters" translation="Ghostbusters"/>
-		<entry key="FrontEndMenu_GhostbustersDetails" translation="Grab your Proton Pack and experience a new Ghostbusters story in Planet Coaster!"/>
-		<entry key="FrontEndMenu_MissingGhostbustersDLC" translation="You need to purchase the Ghostbusters DLC to play this park!"/>
-		<entry key="FrontEndMenu_StoryParkLoadFailed" translation="Could not load Ghostbusters park"/>
+		<entry key="FrontEndMenu_GhostbustersDetails" translation="Prendi il tuo Zaino Protonico e vivi una nuova storia dei Ghostbusters in Planet Coaster!"/>
+		<entry key="FrontEndMenu_MissingGhostbustersDLC" translation="Devi acquistare il DLC Ghostbusters per giocare con questo parco!"/>
+		<entry key="FrontEndMenu_StoryParkLoadFailed" translation="Non è possibile caricare il parco Ghostbusters"/>
 		<!--PDLC_GHB_Blueprints-->
 		<entry key="Blueprints_GHB_CB_Blueprint_01" translation="City Brick Stay Puft"/>
 		<entry key="Blueprints_GHB_CB_Blueprint_01_Desc" translation="A building using the City Brick wall set with a Stay Puft shop.&#10;Ghostbusters Pack"/>
@@ -19002,64 +19002,64 @@
 		<entry key="ChapterSummary_STORY_5_1" translation="Train the Ghostbusters so that they can deal with Gozer."/>
 		<entry key="ChapterSummary_STORY_5_2" translation="Gozer aggravates guest needs with each wave of negative energy."/>
 		<entry key="ChapterSummary_STORY_5_3" translation="First-Aid Buildings, Janitors and Benches are useful in coping with Gozer's effects."/>
-		<entry key="ChapterSummary_STORY_5_4" translation="Cross the streams and banish Gozer!"/>
+		<entry key="ChapterSummary_STORY_5_4" translation="Incrocia i flussi e scaccia via Gozer!"/>
 		<entry key="ChapterSummary_STORY_5_5" translation="Consider saving the game in case you need another attempt at tackling Gozer."/>
-		<entry key="ChapterTitle_GBEXTRA_1" translation="We Have the Tools, We Have the Talent!"/>
-		<entry key="ChapterTitle_GBEXTRA_2" translation="On the Verge of a Fourfold Crossrip"/>
-		<entry key="ChapterTitle_GBEXTRA_3" translation="Dogs and Cats Living Together, Mass Hysteria!"/>
-		<entry key="ChapterTitle_STORY_1" translation="Who Ya Gonna Call?"/>
-		<entry key="ChapterTitle_STORY_2" translation="Unexplained Disturbances"/>
-		<entry key="ChapterTitle_STORY_3" translation="Psychokinetic Energy"/>
-		<entry key="ChapterTitle_STORY_4" translation="Something Big on the Horizon"/>
-		<entry key="ChapterTitle_STORY_5" translation="Are You a God?"/>
+		<entry key="ChapterTitle_GBEXTRA_1" translation="Abbiamo gli strumenti, abbiamo il talento!"/>
+		<entry key="ChapterTitle_GBEXTRA_2" translation="Sull'orlo di una Quadri Convergenza"/>
+		<entry key="ChapterTitle_GBEXTRA_3" translation="Cani e gatti che vivono insieme, Isteria di Massa!"/>
+		<entry key="ChapterTitle_STORY_1" translation="Chi chiamerai?"/>
+		<entry key="ChapterTitle_STORY_2" translation="Anomalie inspiegabili"/>
+		<entry key="ChapterTitle_STORY_3" translation="Energia Psicocinetica"/>
+		<entry key="ChapterTitle_STORY_4" translation="Qualcosa di grande all'orizzonte"/>
+		<entry key="ChapterTitle_STORY_5" translation="Sei tu un Dio?"/>
 		<entry key="ChapterTitle_TEST_1" translation="cTest1"/>
 		<entry key="ChapterTitle_TEST_2" translation="cTest2"/>
 		<entry key="FrontEndMenu_ScenarioDetails_GBEXTRA" translation="Resurrect the fortunes of an abandoned and haunted theme park, with the Ghostbusters standing by to eliminate any stubborn spooks in your way. Will a new day dawn for this dilapidated park once the ghosts are gone for good?&lt;br&gt;&lt;br&gt;Recommended: For skilled theme park managers and paranormal elimination specialists."/>
 		<entry key="FrontEndMenu_ScenarioDetails_STORY" translation="Following reports of unusual disturbances in the Ghostbusters area of a new theme park, Walter Peck of the Environmental Protection Agency begins an investigation. An anonymous tip brings the Ghostbusters to the same park, and as the psychokinetic energy continues to build, it all points to something big on the horizon.&lt;br&gt;&lt;br&gt;Recommended: We advise players to watch the Tutorial Videos and complete some Career scenarios before attempting 'Who Ya Gonna Call?'"/>
-		<entry key="FrontEndMenu_ScenarioName_GBEXTRA" translation="A Little Overtime"/>
-		<entry key="FrontEndMenu_ScenarioName_STORY" translation="Who Ya Gonna Call?"/>
+		<entry key="FrontEndMenu_ScenarioName_GBEXTRA" translation="Un pò di straordinario"/>
+		<entry key="FrontEndMenu_ScenarioName_STORY" translation="Chi chiamerai?"/>
 		<entry key="FrontEndMenu_SetDescription_GHB" translation="!PLACEHOLDER!"/>
 		<entry key="FrontEndMenu_SetName_GHB" translation="Ghostbusters!"/>
-		<entry key="Reward" translation="Reward"/>
-		<entry key="StageName_GBEXTRA_1_1" translation="Objectives"/>
-		<entry key="StageName_GBEXTRA_2_1" translation="Objectives"/>
-		<entry key="StageName_GBEXTRA_3_1" translation="Objectives"/>
-		<entry key="StageName_STORY_1_1" translation="Stage 1"/>
-		<entry key="StageName_STORY_1_2" translation="Stage 2"/>
-		<entry key="StageName_STORY_1_3" translation="Stage 3"/>
-		<entry key="StageName_STORY_1_4" translation="Stage 4"/>
-		<entry key="StageName_STORY_1_5" translation="Stage 5"/>
-		<entry key="StageName_STORY_1_6" translation="Stage 6"/>
-		<entry key="StageName_STORY_2_1" translation="Stage 1"/>
-		<entry key="StageName_STORY_2_2" translation="Stage 2"/>
-		<entry key="StageName_STORY_2_3" translation="Stage 3"/>
-		<entry key="StageName_STORY_2_4" translation="Stage 4"/>
-		<entry key="StageName_STORY_2_5" translation="Stage 5"/>
-		<entry key="StageName_STORY_2_6" translation="Stage 6"/>
-		<entry key="StageName_STORY_3_1" translation="Stage 1"/>
-		<entry key="StageName_STORY_3_2" translation="Stage 2"/>
-		<entry key="StageName_STORY_3_3" translation="Stage 3"/>
-		<entry key="StageName_STORY_3_4" translation="Stage 4"/>
-		<entry key="StageName_STORY_3_5" translation="Stage 5"/>
-		<entry key="StageName_STORY_3_6" translation="Stage 6"/>
-		<entry key="StageName_STORY_4_1" translation="Stage 1"/>
-		<entry key="StageName_STORY_4_2" translation="Stage 2"/>
-		<entry key="StageName_STORY_4_3" translation="Stage 3"/>
-		<entry key="StageName_STORY_4_4" translation="Stage 4"/>
-		<entry key="StageName_STORY_4_5" translation="Stage 5"/>
-		<entry key="StageName_STORY_4_6" translation="Stage 6"/>
-		<entry key="StageName_STORY_5_1" translation="Stage 1"/>
-		<entry key="StageName_STORY_5_2" translation="Stage 2"/>
-		<entry key="StageName_STORY_5_3" translation="Stage 3"/>
-		<entry key="StageName_STORY_5_4" translation="Stage 4"/>
-		<entry key="StageName_STORY_5_5" translation="Stage 5"/>
-		<entry key="StageName_STORY_5_6" translation="Stage 6"/>
-		<entry key="StageName_TEST_1_1" translation="Stage 1 C1"/>
-		<entry key="StageName_TEST_1_2" translation="Stage 2 C1"/>
-		<entry key="StageName_TEST_1_3" translation="Stage 3 C1"/>
-		<entry key="StageName_TEST_2_1" translation="Stage 1 C2"/>
-		<entry key="StageName_TEST_2_2" translation="Stage 2 C2"/>
-		<entry key="StageNumber" translation="Stage {Value:int}"/>
+		<entry key="Reward" translation="Premio"/>
+		<entry key="StageName_GBEXTRA_1_1" translation="Obiettivi"/>
+		<entry key="StageName_GBEXTRA_2_1" translation="Obiettivi"/>
+		<entry key="StageName_GBEXTRA_3_1" translation="Obiettivi"/>
+		<entry key="StageName_STORY_1_1" translation="Livello 1"/>
+		<entry key="StageName_STORY_1_2" translation="Livello 2"/>
+		<entry key="StageName_STORY_1_3" translation="Livello 3"/>
+		<entry key="StageName_STORY_1_4" translation="Livello 4"/>
+		<entry key="StageName_STORY_1_5" translation="Livello 5"/>
+		<entry key="StageName_STORY_1_6" translation="Livello 6"/>
+		<entry key="StageName_STORY_2_1" translation="Livello 1"/>
+		<entry key="StageName_STORY_2_2" translation="Livello 2"/>
+		<entry key="StageName_STORY_2_3" translation="Livello 3"/>
+		<entry key="StageName_STORY_2_4" translation="Livello 4"/>
+		<entry key="StageName_STORY_2_5" translation="Livello 5"/>
+		<entry key="StageName_STORY_2_6" translation="Livello 6"/>
+		<entry key="StageName_STORY_3_1" translation="Livello 1"/>
+		<entry key="StageName_STORY_3_2" translation="Livello 2"/>
+		<entry key="StageName_STORY_3_3" translation="Livello 3"/>
+		<entry key="StageName_STORY_3_4" translation="Livello 4"/>
+		<entry key="StageName_STORY_3_5" translation="Livello 5"/>
+		<entry key="StageName_STORY_3_6" translation="Livello 6"/>
+		<entry key="StageName_STORY_4_1" translation="Livello 1"/>
+		<entry key="StageName_STORY_4_2" translation="Livello 2"/>
+		<entry key="StageName_STORY_4_3" translation="Livello 3"/>
+		<entry key="StageName_STORY_4_4" translation="Livello 4"/>
+		<entry key="StageName_STORY_4_5" translation="Livello 5"/>
+		<entry key="StageName_STORY_4_6" translation="Livello 6"/>
+		<entry key="StageName_STORY_5_1" translation="Livello 1"/>
+		<entry key="StageName_STORY_5_2" translation="Livello 2"/>
+		<entry key="StageName_STORY_5_3" translation="Livello 3"/>
+		<entry key="StageName_STORY_5_4" translation="Livello 4"/>
+		<entry key="StageName_STORY_5_5" translation="Livello 5"/>
+		<entry key="StageName_STORY_5_6" translation="Livello 6"/>
+		<entry key="StageName_TEST_1_1" translation="Livello 1 C1"/>
+		<entry key="StageName_TEST_1_2" translation="Livello 2 C1"/>
+		<entry key="StageName_TEST_1_3" translation="Livello 3 C1"/>
+		<entry key="StageName_TEST_2_1" translation="Livello 1 C2"/>
+		<entry key="StageName_TEST_2_2" translation="Livello 2 C2"/>
+		<entry key="StageNumber" translation="Livello {Value:int}"/>
 		<entry key="StoryContractComplete_Title" translation="Challenge Complete!"/>
 		<entry key="StoryContractRewardHeader" translation="Reward:"/>
 		<entry key="StoryContractRewardOfferShortForm_CashReward" translation="{Amount:currency}"/>
@@ -19368,7 +19368,7 @@
 		<entry key="Research_Revealed_ShopsAndFacilities_StayPuft" translation="Stay Puft Brand"/>
 		<entry key="Research_Revealed_TrackedRide_Interactive_Ecto_1_Ride" translation="The Ghostbusters Experience"/>
 		<!--PDLC_GHB_ScenarioEditor-->
-		<entry key="ScenarioEditor_Ghostbusters_Features_Label" translation="Ghostbusters Features"/>
+		<entry key="ScenarioEditor_Ghostbusters_Features_Label" translation="Funzionalità Ghostbusters"/>
 		<entry key="ScenarioEditor_Ghostbusters_Header" translation="Ghostbusters"/>
 		<!--PDLC_GHB_Scenery-->
 		<entry key="BuildingPartDesc_GHB_Altar_Platform" translation="Gozer Temple platform&#10;Gozer Temple Set&#10;Ghostbusters Pack"/>
