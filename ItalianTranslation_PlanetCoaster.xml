@@ -3031,8 +3031,8 @@
 		<entry key="TrackElementTool_FrictionWheelLift_VNTR" translation="&lt;font color='accent'&gt;Sollevamento a Ruota di Attrito&lt;/font&gt;&#10;Spinge i coaster su una salita o lungo un tracciato a velocità moderata.&#10;&#10;Questo elemento può essere utilizzato prima di un lancio pneumatico per creare un lancio a due tempi."/>
 		<entry key="TrackElementTool_TireLaunch_Booster_VNTR" translation="&lt;font color='accent'&gt;Lancio Pneumatico&lt;/font&gt;&#10;Spinge i coaster lungo un tracciato ad una velocità maggiore rispetto al sollevamento a ruota di attrito standard.&#10;&#10;Questo elemento può essere utilizzato dopo il sollevamento a ruota di attrito per creare un lancio a due tempi."/>
 		<!--C10_Facilities-->
-		<entry key="ShopItem_Balloon_SpecialEffect" translation="Palloncino EffettiSpeciali"/>
-		<entry key="ShopItem_Hat_Baseball_SpecialEffect" translation="Cappellino Baseball EffettiSpeciali"/>
+		<entry key="ShopItem_Balloon_SpecialEffect" translation="Palloncino Special Effect"/>
+		<entry key="ShopItem_Hat_Baseball_SpecialEffect" translation="Cappellino Baseball Special Effect"/>
 		<!--C10_Research-->
 		<entry key="Research_Hint_Coaster_CPRHD" translation="Colpito dal serpente"/>
 		<entry key="Research_Hint_Coaster_VNTR" translation="Il potere della gomma"/>
@@ -4150,11 +4150,11 @@
 		<entry key="Research_Revealed_FR_Zozo" translation="Zozo"/>
 		<entry key="Research_Revealed_GoKarts" translation="Speed"/>
 		<!--C2_Scenery-->
-		<entry key="BuildingPartDesc_FAD_CoffeeGenericCup" translation="Generici alimenti di plastica."/>
-		<entry key="BuildingPartDesc_FAD_GenericDonut3d" translation="Generici alimenti di plastica."/>
-		<entry key="BuildingPartDesc_FAD_GenericEnergy3D" translation="Generici alimenti di plastica."/>
+		<entry key="BuildingPartDesc_FAD_CoffeeGenericCup" translation="Tazza di caffè di plastica."/>
+		<entry key="BuildingPartDesc_FAD_GenericDonut3d" translation="Ciambella di plastica."/>
+		<entry key="BuildingPartDesc_FAD_GenericEnergy3D" translation="Bibita Energetica di plastica."/>
 		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_2D" translation="Goditi tutti i gusti della natura.&#10;Set Pipshot"/>
-		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_3D" translation="Generici alimenti di plastica."/>
+		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_3D" translation="Succo di frutta di plastica."/>
 		<entry key="BuildingPartDesc_FAD_GenericJuiceBox_Neon" translation="Goditi tutti i gusti della natura.&#10;Set Pipshot"/>
 		<entry key="BuildingPartDesc_FAD_GenericTaco_3d" translation="Alimenti di plastica senza marchio di qualità."/>
 		<entry key="BuildingPartDesc_FAD_Gulpee_Soda_02" translation="Il gusto amato dai dinosauri!&#10;Set Gulpee"/>
@@ -7811,7 +7811,7 @@
 		<entry key="FrontEndMenu_SortByTimePlayedDescending" translation="Meno Giocati"/>
 		<entry key="FrontEndMenu_StaffEditor_InfoTitle" translation="Crea il tuo VIP Staff Pass!"/>
 		<entry key="FrontEndMenu_StartNew" translation="Inizia!"/>
-		<entry key="FrontEndMenu_Story" translation="Story"/>
+		<entry key="FrontEndMenu_Story" translation="Storia"/>
 		<entry key="FrontEndMenu_Subscribe" translation="Iscriviti"/>
 		<entry key="FrontEndMenu_Subscribers" translation="Iscrizioni"/>
 		<entry key="FrontEndMenu_TerrainPaintDesc" translation="{Biome} - {Slot}&#10;{Desc}"/>
@@ -8105,7 +8105,7 @@
 		<entry key="TIME" translation="{Hours:int}:{Minutes:int}"/>
 		<entry key="TIME_MONTHS" translation="{Months:int} mesi"/>
 		<entry key="TIME_MONTHS_AND_YEARS" translation="{Years}, {Months}"/>
-		<entry key="TIME_MONTHS_RANGE" translation="{Min:int} - {Max:int} months"/>
+		<entry key="TIME_MONTHS_RANGE" translation="{Min:int} - {Max:int} mesi"/>
 		<entry key="TIME_MONTHS_SINGULAR" translation="1 mese"/>
 		<entry key="TIME_MONTHS_ZERO" translation="&amp;lt;1 mese"/>
 		<entry key="TIME_YEARS" translation="{Years:int} anni"/>
@@ -8182,7 +8182,7 @@
 		<entry key="GlobalToolBox_ToolTip_Undo" translation="Annulla ultima azione"/>
 		<!--GraphicsOptionsMenu-->
 		<entry key="GraphicsOptionsMenu_AO" translation="Occlusione Ambientale"/>
-		<entry key="GraphicsOptionsMenu_AO_Q1" translation="Off"/>
+		<entry key="GraphicsOptionsMenu_AO_Q1" translation="Spenta"/>
 		<entry key="GraphicsOptionsMenu_AO_Q2" translation="Bassa"/>
 		<entry key="GraphicsOptionsMenu_AO_Q3" translation="Media"/>
 		<entry key="GraphicsOptionsMenu_AO_Q4" translation="Alta"/>
@@ -8190,14 +8190,14 @@
 		<entry key="GraphicsOptionsMenu_Adapter" translation="Scheda Video"/>
 		<entry key="GraphicsOptionsMenu_AdapterOption" translation="{ADAPTER}"/>
 		<entry key="GraphicsOptionsMenu_BackgroundAtmos" translation="Atmosfera Background"/>
-		<entry key="GraphicsOptionsMenu_BackgroundAtmos_Q1" translation="Off"/>
+		<entry key="GraphicsOptionsMenu_BackgroundAtmos_Q1" translation="Spenta"/>
 		<entry key="GraphicsOptionsMenu_BackgroundAtmos_Q2" translation="Molto Bassa"/>
 		<entry key="GraphicsOptionsMenu_BackgroundAtmos_Q3" translation="Bassa"/>
 		<entry key="GraphicsOptionsMenu_BackgroundAtmos_Q4" translation="Bilanciata per Prestazioni"/>
 		<entry key="GraphicsOptionsMenu_BackgroundAtmos_Q5" translation="Bilanciata per Qualità"/>
 		<entry key="GraphicsOptionsMenu_Bloom" translation="Bloom"/>
-		<entry key="GraphicsOptionsMenu_Bloom_Q1" translation="Off"/>
-		<entry key="GraphicsOptionsMenu_Bloom_Q2" translation="On"/>
+		<entry key="GraphicsOptionsMenu_Bloom_Q1" translation="Spento"/>
+		<entry key="GraphicsOptionsMenu_Bloom_Q2" translation="Acceso"/>
 		<entry key="GraphicsOptionsMenu_Borderless" translation="Senza Bordi"/>
 		<entry key="GraphicsOptionsMenu_Clouds" translation="Nuvole"/>
 		<entry key="GraphicsOptionsMenu_Clouds_Q1" translation="Basso"/>
@@ -8205,8 +8205,8 @@
 		<entry key="GraphicsOptionsMenu_Clouds_Q3" translation="Alto"/>
 		<entry key="GraphicsOptionsMenu_CustomQuality" translation="Personalizzato"/>
 		<entry key="GraphicsOptionsMenu_DepthOfField" translation="Profondità di campo"/>
-		<entry key="GraphicsOptionsMenu_DepthOfField_Q1" translation="Off"/>
-		<entry key="GraphicsOptionsMenu_DepthOfField_Q2" translation="On"/>
+		<entry key="GraphicsOptionsMenu_DepthOfField_Q1" translation="Spenta"/>
+		<entry key="GraphicsOptionsMenu_DepthOfField_Q2" translation="Accesa"/>
 		<entry key="GraphicsOptionsMenu_Display" translation="Display"/>
 		<entry key="GraphicsOptionsMenu_DisplayOption" translation="{DISPLAY}"/>
 		<entry key="GraphicsOptionsMenu_DisplaySettingsTitle" translation="Impostazioni Display"/>
@@ -8217,8 +8217,8 @@
 		<entry key="GraphicsOptionsMenu_Effect_Q2" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Effect_Q3" translation="Alto"/>
 		<entry key="GraphicsOptionsMenu_EnvCapture" translation="Ambiente Mappa Dinamico"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture_Q1" translation="Off"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture_Q2" translation="On"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture_Q1" translation="Spento"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture_Q2" translation="Acceso"/>
 		<entry key="GraphicsOptionsMenu_Fullscreen" translation="Schermo Intero"/>
 		<entry key="GraphicsOptionsMenu_Gamma" translation="Gamma"/>
 		<entry key="GraphicsOptionsMenu_Geometric" translation="Dettagli Geometrici"/>
@@ -8228,10 +8228,10 @@
 		<entry key="GraphicsOptionsMenu_Geometric_Q4" translation="Molto Alto"/>
 		<entry key="GraphicsOptionsMenu_HighQuality" translation="Alto"/>
 		<entry key="GraphicsOptionsMenu_LPV" translation="Illuminazione Globale"/>
-		<entry key="GraphicsOptionsMenu_LPV_Q1" translation="Off"/>
-		<entry key="GraphicsOptionsMenu_LPV_Q2" translation="On"/>
+		<entry key="GraphicsOptionsMenu_LPV_Q1" translation="Spenta"/>
+		<entry key="GraphicsOptionsMenu_LPV_Q2" translation="Accesa"/>
 		<entry key="GraphicsOptionsMenu_LensFlare" translation="Bagliori di Luce"/>
-		<entry key="GraphicsOptionsMenu_LensFlare_Q1" translation="Off"/>
+		<entry key="GraphicsOptionsMenu_LensFlare_Q1" translation="Spento"/>
 		<entry key="GraphicsOptionsMenu_LensFlare_Q2" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_LensFlare_Q3" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Lighting" translation="Qualità illuminazione"/>
@@ -8242,7 +8242,7 @@
 		<entry key="GraphicsOptionsMenu_LowestQuality" translation="Minimo"/>
 		<entry key="GraphicsOptionsMenu_MediumQuality" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Multisample" translation="Qualità Multisample"/>
-		<entry key="GraphicsOptionsMenu_Multisample_Q1" translation="Off"/>
+		<entry key="GraphicsOptionsMenu_Multisample_Q1" translation="Spento"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q2" translation="Molto Basso"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q3" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q4" translation="Bilanciato per Prestazioni"/>
@@ -8255,11 +8255,11 @@
 		<entry key="GraphicsOptionsMenu_ResolutionOption" translation="{WIDTH:int} x {HEIGHT:int}"/>
 		<entry key="GraphicsOptionsMenu_Revert" translation="Reset Valori"/>
 		<entry key="GraphicsOptionsMenu_SSR" translation="Riflesso dello Schermo"/>
-		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Off"/>
-		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="On"/>
+		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Spento"/>
+		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="Acceso"/>
 		<entry key="GraphicsOptionsMenu_ScreenMode" translation="Modalità Schermo"/>
 		<entry key="GraphicsOptionsMenu_Shadows" translation="Ombre"/>
-		<entry key="GraphicsOptionsMenu_Shadows_Q1" translation="Off"/>
+		<entry key="GraphicsOptionsMenu_Shadows_Q1" translation="Spente"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q2" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q3" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q4" translation="Alto"/>
@@ -8272,7 +8272,7 @@
 		<entry key="GraphicsOptionsMenu_UltraQuality" translation="Ultra"/>
 		<entry key="GraphicsOptionsMenu_VSync" translation="VSync"/>
 		<entry key="GraphicsOptionsMenu_VolumeAtmos" translation="Atmosfera in Primo Piano"/>
-		<entry key="GraphicsOptionsMenu_VolumeAtmos_Q1" translation="Off"/>
+		<entry key="GraphicsOptionsMenu_VolumeAtmos_Q1" translation="Spenta"/>
 		<entry key="GraphicsOptionsMenu_VolumeAtmos_Q2" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_VolumeAtmos_Q3" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_VolumeAtmos_Q4" translation="Alto"/>
@@ -14828,10 +14828,10 @@
 		<entry key="InfoPanel_Tooltip_Move" translation="Sposta [{#LogicalButton.Editors_Move#}]"/>
 		<entry key="InfoPanel_VehicleControls" translation="&lt;font color='#000000'&gt;Vehicle Controls&lt;/font&gt;&#10;&lt;font color='#000000'&gt;Keyboard:&lt;/font&gt;&#10;W - Accelerate&#10;S - Reverse&#10;A/D - Turn Left/Right&#10;Space - Handbrake&#10;C - Horn&#10;X - Siren&#10;R - Radio&#10;&#10;&lt;font color='#000000'&gt;Controller:&lt;/font&gt;&#10;RT - Accelerate&#10;LT - Reverse&#10;LS - Turn Left/Right&#10;X - Handbrake&#10;Press LS - Horn&#10;D-pad Up - Siren&#10;D-pad Down - Radio"/>
 		<!--InfoPanel_Facility-->
-		<entry key="InfoPanel_Facility_BuildingStats" translation="Facility Statistics"/>
-		<entry key="InfoPanel_Facility_Cleanliness" translation="Cleanliness"/>
-		<entry key="InfoPanel_Facility_Debug_LuxuryRooms" translation="Luxury Rooms"/>
-		<entry key="InfoPanel_Facility_Debug_StandardRooms" translation="Standard Rooms"/>
+		<entry key="InfoPanel_Facility_BuildingStats" translation="Statistiche Edifici"/>
+		<entry key="InfoPanel_Facility_Cleanliness" translation="Pulizia"/>
+		<entry key="InfoPanel_Facility_Debug_LuxuryRooms" translation="Camere Lusso"/>
+		<entry key="InfoPanel_Facility_Debug_StandardRooms" translation="Camere Standard"/>
 		<entry key="InfoPanel_Facility_Finance" translation="Economia"/>
 		<entry key="InfoPanel_Facility_Finances" translation="Statistiche Economiche"/>
 		<entry key="InfoPanel_Facility_Information" translation="Informazioni struttura"/>
@@ -14856,18 +14856,18 @@
 		<entry key="InfoPanel_Facility_Sync_Label" translation="Sincronizza Prezzi"/>
 		<entry key="InfoPanel_Facility_Thoughts" translation="Pensieri visitatori"/>
 		<entry key="InfoPanel_Facility_Type" translation="Tipo Servizio"/>
-		<entry key="InfoPanel_GozerTemple_ActionsLabel" translation="Actions"/>
-		<entry key="InfoPanel_GozerTemple_ActiveBody" translation="Gozer's waves of negative energy will impact upon guests' Energy and Nausea levels.&#10;&#10;Train all your Ghostbusters to level 5 and call them to Spook Central to banish Gozer."/>
-		<entry key="InfoPanel_GozerTemple_ActiveLabel" translation="Gozer is active"/>
-		<entry key="InfoPanel_GozerTemple_FacilityType" translation="Spook Central"/>
-		<entry key="InfoPanel_GozerTemple_OrbitCamera" translation="Temple Camera"/>
-		<entry key="InfoPanel_GozerTemple_SGB" translation="Call the Ghostbusters"/>
-		<entry key="InfoPanel_GozerTemple_SGB_CannotBeExorcised" translation="Progress the story to summon the Ghostbusters"/>
-		<entry key="InfoPanel_GozerTemple_SGB_GhostbustersAlreadySummoned" translation="Ghostbusters are already dealing with this"/>
-		<entry key="InfoPanel_GozerTemple_SGB_GhostbustersNotTrained" translation="More training is required to deal with this"/>
-		<entry key="InfoPanel_GozerTemple_SGB_GhostbustersSummonedElsewhere" translation="Ghostbusters are dealing with an emergency elsewhere"/>
-		<entry key="InfoPanel_GozerTemple_SGB_GozerNotActive" translation="Nothing strange going on here"/>
-		<entry key="InfoPanel_GozerTemple_SGB_NotEnoughGhostbusters" translation="The whole team is needed to deal with this"/>
+		<entry key="InfoPanel_GozerTemple_ActionsLabel" translation="Azioni"/>
+		<entry key="InfoPanel_GozerTemple_ActiveBody" translation="L'energia negativa di Gozer avrà effetto sull'energia e il livello di nausea dei visitatori.&#10;&#10;Addestra tutti i tuoi Ghostbusters fino al livello 5 e mandali al Tempio Spettrale per cacciare Gozer."/>
+		<entry key="InfoPanel_GozerTemple_ActiveLabel" translation="Gozer è attivo"/>
+		<entry key="InfoPanel_GozerTemple_FacilityType" translation="Tempio Spettrale"/>
+		<entry key="InfoPanel_GozerTemple_OrbitCamera" translation="Visuale tempio"/>
+		<entry key="InfoPanel_GozerTemple_SGB" translation="Chiama i Ghostbusters"/>
+		<entry key="InfoPanel_GozerTemple_SGB_CannotBeExorcised" translation="Vai avanti con la storia per chiamare i Ghostbusters"/>
+		<entry key="InfoPanel_GozerTemple_SGB_GhostbustersAlreadySummoned" translation="I Ghostbusters se ne stanno già occupando"/>
+		<entry key="InfoPanel_GozerTemple_SGB_GhostbustersNotTrained" translation="E'necessario più addestramento per farlo"/>
+		<entry key="InfoPanel_GozerTemple_SGB_GhostbustersSummonedElsewhere" translation="I Ghostbusters si stanno occupando di un'emergenza altrove"/>
+		<entry key="InfoPanel_GozerTemple_SGB_GozerNotActive" translation="Niente di strano da queste parti"/>
+		<entry key="InfoPanel_GozerTemple_SGB_NotEnoughGhostbusters" translation="E'necessaria tutta la squadra per affrontare questo"/>
 		<entry key="InfoPanel_ParkEntrance_Operations" translation="Apri Gestione Parco"/>
 		<entry key="InfoPanel_ParkEntrance_Stat_Life_Revenue" translation="Biglietti venduti"/>
 		<entry key="InfoPanel_ParkEntrance_Stat_Life_Visitors" translation="Visitatori totali"/>
@@ -14885,14 +14885,14 @@
 		<entry key="InfoPanel_Shop_Staff_En_Route" translation="Vendor en route"/>
 		<entry key="InfoPanel_Shop_Staff_Label" translation="Staff"/>
 		<entry key="InfoPanel_Shop_Staff_Name" translation="{Name}"/>
-		<entry key="InfoPanel_Shop_Staff_Unavailable" translation="No Vendor Available"/>
+		<entry key="InfoPanel_Shop_Staff_Unavailable" translation="Nessun venditore disponibile"/>
 		<entry key="InfoPanel_Shop_Sync" translation="Usa gli stessi prezzi ed extras per i negozi di questo tipo."/>
-		<entry key="InfoPanel_Shop_TimeAttended_LastMonth" translation="Time spent attended last month"/>
-		<entry key="InfoPanel_Shop_TimeAttended_ThisMonth" translation="Time spent attended this month"/>
+		<entry key="InfoPanel_Shop_TimeAttended_LastMonth" translation="Tempo speso in attesa lo scorso mese"/>
+		<entry key="InfoPanel_Shop_TimeAttended_ThisMonth" translation="Tempo speso in attesa questo mese"/>
 		<entry key="InfoPanel_Shop_TimeServing_Invalid" translation="-"/>
 		<entry key="InfoPanel_Shop_Type" translation="Tipo di negozio"/>
-		<entry key="InfoPanel_shop_TimeServing_Average" translation="Average Time spent serving over last 3 months"/>
-		<entry key="InfoPanel_shop_TimeServing_ThisMonth" translation="Time spent serving this month"/>
+		<entry key="InfoPanel_shop_TimeServing_Average" translation="Tempo in media speso nel servizio negli scorsi 3 mesi"/>
+		<entry key="InfoPanel_shop_TimeServing_ThisMonth" translation="Tempo speso nel servizio questo mese"/>
 		<!--InfoPanel_FlatRide-->
 		<entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Visuale Vagone Frontale"/>
 		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Visuale Vagone invertita"/>
@@ -14900,9 +14900,9 @@
 		<entry key="InfoPanel_FlatRide_Entrance" translation="Entrata"/>
 		<entry key="InfoPanel_FlatRide_Exit" translation="Uscita"/>
 		<entry key="InfoPanel_FlatRide_FlexiColour" translation="Colore attrazione"/>
-		<entry key="InfoPanel_FlatRide_FlexiColours_Title" translation="Ride Colours"/>
-		<entry key="InfoPanel_FlatRide_GuestCamera" translation="Camera Visitatori"/>
-		<entry key="InfoPanel_FlatRide_LookAtGuestCamera" translation="Guarda la Camera Visitatori"/>
+		<entry key="InfoPanel_FlatRide_FlexiColours_Title" translation="Colore attrazioni"/>
+		<entry key="InfoPanel_FlatRide_GuestCamera" translation="Visuale Visitatori"/>
+		<entry key="InfoPanel_FlatRide_LookAtGuestCamera" translation="Guarda la Visuale Visitatori"/>
 		<entry key="InfoPanel_FlatRide_Move" translation="Sposta"/>
 		<entry key="InfoPanel_FlatRide_MoveEntrance" translation="Sposta Entrata"/>
 		<entry key="InfoPanel_FlatRide_MoveExit" translation="Sposta Uscita"/>
@@ -14964,10 +14964,10 @@
 		<entry key="InfoPanel_Guest_NauseaTolerance_Value" translation="{min:float:decimalPlaces=1}-{max:float:decimalPlaces=1}"/>
 		<entry key="InfoPanel_Guest_Needs" translation="Necessità del Visitatore"/>
 		<entry key="InfoPanel_Guest_Overview" translation="Panoramica"/>
-		<entry key="InfoPanel_Guest_Perk" translation="Guest Trait"/>
+		<entry key="InfoPanel_Guest_Perk" translation="Carattere Visitatore"/>
 		<entry key="InfoPanel_Guest_Pockets" translation="Tasche"/>
 		<entry key="InfoPanel_Guest_RecentThoughts" translation="Pensieri recenti"/>
-		<entry key="InfoPanel_Guest_RideCam" translation="Camera Visitatore"/>
+		<entry key="InfoPanel_Guest_RideCam" translation="Visuale Visitatore"/>
 		<entry key="InfoPanel_Guest_RideVisitedReference" translation="{name}"/>
 		<entry key="InfoPanel_Guest_RidesVisited" translation="Attrazioni visitate"/>
 		<entry key="InfoPanel_Guest_Slot_0" translation="Bibita"/>
@@ -14999,7 +14999,7 @@
 		<entry key="InfoPanel_Guest_VisualSlot_1" translation="Mano destra"/>
 		<entry key="InfoPanel_Guest_VisualSlot_2" translation="Testa"/>
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
-		<entry key="InfoPanel_MiscreantRunSpeed" translation="Miscreant Run Speed"/>
+		<entry key="InfoPanel_MiscreantRunSpeed" translation="Velocità di esecuzione errata"/>
 		<!--InfoPanel_ModularScenery-->
 		<entry key="InfoPanel_EditModularScenery_ApparentTime" translation="Visual time"/>
 		<entry key="InfoPanel_EditModularScenery_ApparentTimeTooltip" translation="Set the time of day"/>
@@ -16385,24 +16385,24 @@
 		<entry key="ObjectBrowser_Type" translation="Tipologia"/>
 		<entry key="ObjectBrowser_Water" translation="Attrazioni Acquatiche"/>
 		<!--OptionsMenu-->
-		<entry key="OptionsMenu_AdvancedMoveAlignmentAverage" translation="Averaged Orientation in Advanced Move (Experimental)"/>
-		<entry key="OptionsMenu_AdvancedMoveAlignmentAverage_Tooltip" translation="Makes the Advanced Move/Rotate Widget use the average orientation and position of the selected pieces."/>
+		<entry key="OptionsMenu_AdvancedMoveAlignmentAverage" translation="Allineamento medio in Movimento Avanzato (Sperimentale)"/>
+		<entry key="OptionsMenu_AdvancedMoveAlignmentAverage_Tooltip" translation="Permette al comando Muovi/Ruota Avanzato di usare l'allineamento medio e la posizione dei pezzi selezionati."/>
 		<entry key="OptionsMenu_Audio" translation="Audio"/>
 		<entry key="OptionsMenu_Audio_Mute" translation="Silenzia"/>
-		<entry key="OptionsMenu_Audio_MuteAllEntry" translation="SilenziaTutto"/>
+		<entry key="OptionsMenu_Audio_MuteAllEntry" translation="Silenzia Tutto"/>
 		<entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Silenzia Suoni Interfaccia"/>
-		<entry key="OptionsMenu_Audio_MuteLicencedEntry" translation="Mute Licenced Music"/>
+		<entry key="OptionsMenu_Audio_MuteLicencedEntry" translation="Silenzia Musica con Licenza"/>
 		<entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Silenzia Musica Menu"/>
 		<entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Silenzia Musica Attrazioni"/>
 		<entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Silenzia Effetti Sonori"/>
 		<entry key="OptionsMenu_Audio_MuteShopRadioEntry" translation="Silenzia Radio Negozi"/>
 		<entry key="OptionsMenu_Audio_MuteSoundtrackEntry" translation="Silenzia Colonna Sonora"/>
-		<entry key="OptionsMenu_Audio_MuteVOEntry" translation="Mute Voice"/>
+		<entry key="OptionsMenu_Audio_MuteVOEntry" translation="Silenzia Voce"/>
 		<entry key="OptionsMenu_Audio_ParkMusic" translation="Musica del Parco"/>
 		<entry key="OptionsMenu_Audio_SFX" translation="Effetti Sonori"/>
 		<entry key="OptionsMenu_Audio_Soundtrack" translation="Colonna Sonora"/>
 		<entry key="OptionsMenu_Audio_SoundtrackInPause" translation="Musica solo in Modalità Pausa"/>
-		<entry key="OptionsMenu_Audio_VO" translation="Voice Volume"/>
+		<entry key="OptionsMenu_Audio_VO" translation="Volume Voce"/>
 		<entry key="OptionsMenu_Audio_Volume" translation="Volume"/>
 		<entry key="OptionsMenu_Audio_Volume_Entry" translation="Regola Volume"/>
 		<entry key="OptionsMenu_Camera" translation="Visuale"/>
@@ -16579,8 +16579,8 @@
 		<entry key="OptionsMenu_DisableHints" translation="Disabilita Consigli"/>
 		<entry key="OptionsMenu_EnableNewsFeed" translation="Mostra notizie all'avvio del gioco."/>
 		<entry key="OptionsMenu_Exit" translation="Torna al Menu Principale"/>
-		<entry key="OptionsMenu_FacilityCleanliness" translation="Facility Cleanliness"/>
-		<entry key="OptionsMenu_FacilityCleanlinessHint" translation="Enable Facility Cleanliness. Facilities other than Toilets will require periodic cleaning after use."/>
+		<entry key="OptionsMenu_FacilityCleanliness" translation="Pulizia Edificio"/>
+		<entry key="OptionsMenu_FacilityCleanlinessHint" translation="Attiva Pulizia Edificio. Gli edifici diversi dai bagni richiederanno pulizie periodiche dopo l'utilizzo."/>
 		<entry key="OptionsMenu_Game" translation="Partita"/>
 		<entry key="OptionsMenu_GameGlobalSettings" translation="Impostazioni Globali"/>
 		<entry key="OptionsMenu_GameLocalParkSettings" translation="Impostazioni Locali Parco"/>
@@ -16640,17 +16640,17 @@
 		<entry key="OptionsMenu_LoadPrompt_ConfirmHeader" translation="Carica Parco Salvato"/>
 		<entry key="OptionsMenu_LoadPrompt_ConfirmLabel" translation="Caricare il salvataggio '{Name}'?&#10;Perderai le modifiche non salvate."/>
 		<entry key="OptionsMenu_LoadPrompt_ConfirmOk" translation="OK"/>
-		<entry key="OptionsMenu_LocalParkGhostActivityMultiplier" translation="Ghost Activity Multiplier"/>
-		<entry key="OptionsMenu_LocalParkGhostActivityMultiplierHint" translation="Effects how frequently the ghosts appear and how many there can be."/>
-		<entry key="OptionsMenu_LocalParkGhostFeatures" translation="Ghostbusters Features"/>
-		<entry key="OptionsMenu_LocalParkGhostFeaturesHint" translation="Enable hiring Ghostbusters and spawning ghosts."/>
-		<entry key="OptionsMenu_LocalParkGhostFeaturesMissingDLCHint" translation="You need the Planet Coaster: Ghostbusters DLC to use this feature."/>
-		<entry key="OptionsMenu_LocalParkGhostHauntingEnabled" translation="Ghosts Can Haunt Rides"/>
-		<entry key="OptionsMenu_LocalParkGhostHauntingEnabledHint" translation="Allows ghosts to haunt rides when they appear."/>
-		<entry key="OptionsMenu_LocalParkGhostMaxLevel" translation="Ghost Maximum Strength"/>
-		<entry key="OptionsMenu_LocalParkGhostMaxLevelHint" translation="Effects how strong they can be when they appear."/>
-		<entry key="OptionsMenu_LocalParkGhostScaringEnabled" translation="Ghosts Scare Guests Away"/>
-		<entry key="OptionsMenu_LocalParkGhostScaringEnabledHint" translation="Guests run away from the park when scared by a roaming ghost."/>
+		<entry key="OptionsMenu_LocalParkGhostActivityMultiplier" translation="Percentuale Attività Fantasma"/>
+		<entry key="OptionsMenu_LocalParkGhostActivityMultiplierHint" translation="Quanto frequentemente appaiono i fantasmi e quanti ce ne possono essere."/>
+		<entry key="OptionsMenu_LocalParkGhostFeatures" translation="Caratteristiche Ghostbusters"/>
+		<entry key="OptionsMenu_LocalParkGhostFeaturesHint" translation="Attiva la chiamata dei Ghostbusters e l'apparizione dei fantasmi."/>
+		<entry key="OptionsMenu_LocalParkGhostFeaturesMissingDLCHint" translation="Hai bisogno del DLC Planet Coaster: Ghostbusters per utilizzare questa caratteristica."/>
+		<entry key="OptionsMenu_LocalParkGhostHauntingEnabled" translation="I Fantasmi possono infestare le attrazioni"/>
+		<entry key="OptionsMenu_LocalParkGhostHauntingEnabledHint" translation="Permette ai fantasmi quando appaiono di infestare le attrazioni ."/>
+		<entry key="OptionsMenu_LocalParkGhostMaxLevel" translation="Forza Massima Fantasmi"/>
+		<entry key="OptionsMenu_LocalParkGhostMaxLevelHint" translation="Quanto sono forti i fantasmi quando appaiono."/>
+		<entry key="OptionsMenu_LocalParkGhostScaringEnabled" translation="I fantasmi fanno scappare i visitatori"/>
+		<entry key="OptionsMenu_LocalParkGhostScaringEnabledHint" translation="I visitatori scappano dal parco quando sono spaventati dai fantasmi vaganti."/>
 		<entry key="OptionsMenu_LocalParkSettingsNotInPark" translation="L'impostazione si attiva solo in un parco"/>
 		<entry key="OptionsMenu_LocalParkStaffEnergyFeatures" translation="Funzioni Gestione Staff"/>
 		<entry key="OptionsMenu_LocalParkStaffEnergyFeaturesHint" translation="Attiva le Funzioni di Gestione dello Staff. Alcuni Scenari le richiedono e ignoreranno questa impostazione.&#10;Variare questa impostazione non solo abiliterà/disabiliterà il sistema di Energia dello Staff ma cambierà anche i costi di assunzione dello Staff e le loro richieste salariali."/>
@@ -16710,8 +16710,8 @@
 		<entry key="OptionsMenu_ShowParkBoundary" translation="Mostra Confine Parco"/>
 		<entry key="OptionsMenu_StaffHappiness" translation="Felicità dello Staff"/>
 		<entry key="OptionsMenu_StaffHappinessHint" translation="Abilita la Felicità dello Staff. Richiederà un'ottima gestione o lo Staff si licenzierà."/>
-		<entry key="OptionsMenu_ToggleBoundingBoxPlacement" translation="Default to Bounding Box Alignment"/>
-		<entry key="OptionsMenu_ToggleBoundingBoxPlacementHint" translation="Use the Bounding Box alignment style by default when placing multiple items."/>
+		<entry key="OptionsMenu_ToggleBoundingBoxPlacement" translation="Allineamento al rettangolo di selezione predefinito"/>
+		<entry key="OptionsMenu_ToggleBoundingBoxPlacementHint" translation="Quando si piazzano elementi multipli si usa come predefinito l'allineamento al rettangolo di selezione."/>
 		<entry key="OptionsMenu_ToiletCleanliness" translation="Pulizia Bagni"/>
 		<entry key="OptionsMenu_ToiletCleanlinessHint" translation="Abilita la Pulizia dei Bagni. I Bagni richiederanno una pulizia periodica dopo l'utilizzo."/>
 		<entry key="OptionsMenu_apply" translation="Applica"/>
@@ -19004,9 +19004,9 @@
 		<entry key="ChapterSummary_STORY_5_3" translation="First-Aid Buildings, Janitors and Benches are useful in coping with Gozer's effects."/>
 		<entry key="ChapterSummary_STORY_5_4" translation="Incrocia i flussi e scaccia via Gozer!"/>
 		<entry key="ChapterSummary_STORY_5_5" translation="Consider saving the game in case you need another attempt at tackling Gozer."/>
-		<entry key="ChapterTitle_GBEXTRA_1" translation="Abbiamo gli strumenti, abbiamo il talento!"/>
+		<entry key="ChapterTitle_GBEXTRA_1" translation="Anche stavolta venimmo, vedemmo..."/>
 		<entry key="ChapterTitle_GBEXTRA_2" translation="Sull'orlo di una Quadri Convergenza"/>
-		<entry key="ChapterTitle_GBEXTRA_3" translation="Cani e gatti che vivono insieme, Isteria di Massa!"/>
+		<entry key="ChapterTitle_GBEXTRA_3" translation="Cani e gatti che vivono insieme, Masse isteriche!"/>
 		<entry key="ChapterTitle_STORY_1" translation="Chi chiamerai?"/>
 		<entry key="ChapterTitle_STORY_2" translation="Anomalie inspiegabili"/>
 		<entry key="ChapterTitle_STORY_3" translation="Energia Psicocinetica"/>
@@ -24952,44 +24952,44 @@
 		<entry key="Objectives_StaffBuildingsBuilt_View" translation="Build Staff Buildings with a combined capacity of {Value:int}"/>
 		<entry key="Objectives_TheftVictimsPercent_Month_Target" translation="{Value:float:decimalPlaces=2}%/{Target:float:decimalPlaces=2}%&#10; {ValueMonths:float:decimalPlaces=2}/{TargetMonths:float:decimalPlaces=2}"/>
 		<entry key="Objectives_TheftVictims_Month_Target" translation="{Value:int}/{Target:int}&#10; {ValueMonths:float:decimalPlaces=2}/{TargetMonths:float:decimalPlaces=2}"/>
-		<entry key="Objectives_TierName0" translation="Story"/>
+		<entry key="Objectives_TierName0" translation="Storia"/>
 		<entry key="Objectives_TierName1" translation="Bronzo"/>
 		<entry key="Objectives_TierName2" translation="Argento"/>
 		<entry key="Objectives_TierName3" translation="Oro"/>
-		<entry key="Objectives_TotalAirTimeMax" translation="Al massimo {Value:float:decimalPlaces=0} secondi di Air Time"/>
-		<entry key="Objectives_TotalAirTimeMin" translation="Almeno {Value:float:decimalPlaces=0} secondi di Air Time"/>
-		<entry key="Objectives_TrainStaff_View" translation="Train {Value:int} {StaffTypes} to {Level}"/>
-		<entry key="Objectives_WithLoansCleared" translation="Con tutti i prestiti risolti"/>
+		<entry key="Objectives_TotalAirTimeMax" translation="Al massimo {Value:float:decimalPlaces=0} secondi di sospensione in aria"/>
+		<entry key="Objectives_TotalAirTimeMin" translation="Almeno {Value:float:decimalPlaces=0} secondi di sospensione in aria"/>
+		<entry key="Objectives_TrainStaff_View" translation="Addestramento {Value:int} {StaffTypes} al {Level}"/>
+		<entry key="Objectives_WithLoansCleared" translation="Con tutti i prestiti ripagati"/>
 		<entry key="ScenarioFanfare_Cash" translation="Soldi Parco"/>
 		<entry key="ScenarioFanfare_Date" translation="Data completata"/>
 		<entry key="ScenarioFanfare_GuestsInPark" translation="Visitatori nel Parco"/>
-		<entry key="ScenarioManagerPopup_StoryLockFailHeader" translation="Story loaded in invalid game mode"/>
-		<entry key="ScenarioManagerPopup_StoryLockFailMessage" translation="This park cannot be played in this mode. Returning to main menu."/>
-		<entry key="Scenario_DefaultName" translation="Custom Scenario"/>
+		<entry key="ScenarioManagerPopup_StoryLockFailHeader" translation="Storia caricata in una modalità di gioco non valida"/>
+		<entry key="ScenarioManagerPopup_StoryLockFailMessage" translation="Questo parco non può essere giocato in questa modalità. Ritorno al menu principale."/>
+		<entry key="Scenario_DefaultName" translation="Scenario Personalizzato"/>
 		<entry key="Scenario_RideLocked" translation="Bloccato in questo scenario"/>
-		<entry key="Scenario_TicketPriceLocked_Ghostbusters" translation="Locked. This ride is owned by the Ghostbusters."/>
-		<entry key="Scneario_DefaultDesc" translation="A player-created scenario!"/>
+		<entry key="Scenario_TicketPriceLocked_Ghostbusters" translation="Bloccato. Questa attrazione è proprietà dei Ghostbusters."/>
+		<entry key="Scneario_DefaultDesc" translation="Uno scenario creato dal giocatore!"/>
 		<!--ScenarioEditor-->
-		<entry key="PrestigeSpecDescription_ChallengeEasy" translation="The settings used in an Easy challenge."/>
-		<entry key="PrestigeSpecDescription_ChallengeHard" translation="The settings used in a Hard challenge."/>
-		<entry key="PrestigeSpecDescription_ChallengeMedium" translation="The settings used in a Medium challenge."/>
-		<entry key="PrestigeSpecName_ChallengeEasy" translation="Easy"/>
-		<entry key="PrestigeSpecName_ChallengeHard" translation="Hard"/>
-		<entry key="PrestigeSpecName_ChallengeMedium" translation="Medium"/>
-		<entry key="ScenarioEditor" translation="Scenario Editor"/>
-		<entry key="ScenarioEditor_AccessButtonTooltip" translation="Edit Scenario"/>
-		<entry key="ScenarioEditor_ChooseCondition" translation="Choose Condition Type"/>
-		<entry key="ScenarioEditor_ChooseObjective" translation="Choose Objective Type"/>
-		<entry key="ScenarioEditor_Fanfare_Info_1" translation="Use the Scenario Creator to play around with settings like Objectives, Research, Demographics, Finances, Staff, and more!"/>
-		<entry key="ScenarioEditor_Fanfare_Label_2" translation="You control everything"/>
-		<entry key="ScenarioEditor_Fanfare_Title_1" translation="Scenario Creation Mode"/>
-		<entry key="ScenarioEditor_Fanfare_Title_2" translation="Setting up your Park"/>
+		<entry key="PrestigeSpecDescription_ChallengeEasy" translation="Impostazioni usate in una sfida Facile."/>
+		<entry key="PrestigeSpecDescription_ChallengeHard" translation="Impostazioni usate in una sfida Difficile."/>
+		<entry key="PrestigeSpecDescription_ChallengeMedium" translation="Impostazioni usate in una sfida Media."/>
+		<entry key="PrestigeSpecName_ChallengeEasy" translation="Facile"/>
+		<entry key="PrestigeSpecName_ChallengeHard" translation="Difficile"/>
+		<entry key="PrestigeSpecName_ChallengeMedium" translation="Medio"/>
+		<entry key="ScenarioEditor" translation="Editor Scenario"/>
+		<entry key="ScenarioEditor_AccessButtonTooltip" translation="Modifica lo Scenario"/>
+		<entry key="ScenarioEditor_ChooseCondition" translation="Scegli Requisiti"/>
+		<entry key="ScenarioEditor_ChooseObjective" translation="Scegli Obiettivi"/>
+		<entry key="ScenarioEditor_Fanfare_Info_1" translation="Usa il Creatore Scenari per giocare con le impostazioni come Obiettivi, Ricerca, Demografici, Economia, Staff, e altro!"/>
+		<entry key="ScenarioEditor_Fanfare_Label_2" translation="Controlli tutto"/>
+		<entry key="ScenarioEditor_Fanfare_Title_1" translation="Modalità creazione Scenario"/>
+		<entry key="ScenarioEditor_Fanfare_Title_2" translation="Impostando il tuo parco"/>
 		<entry key="ScenarioEditor_GhostFeaturesOff" translation="Off"/>
 		<entry key="ScenarioEditor_GhostFeaturesOn" translation="On"/>
-		<entry key="ScenarioEditor_Guests_SelectPreset" translation="Select Preset"/>
-		<entry key="ScenarioEditor_Guests_TraitWeight_High" translation="High"/>
-		<entry key="ScenarioEditor_Guests_TraitWeight_Low" translation="Low"/>
-		<entry key="ScenarioEditor_Guests_TraitWeight_Medium" translation="Medium"/>
+		<entry key="ScenarioEditor_Guests_SelectPreset" translation="Seleziona Preimpostazione"/>
+		<entry key="ScenarioEditor_Guests_TraitWeight_High" translation="Alto"/>
+		<entry key="ScenarioEditor_Guests_TraitWeight_Low" translation="Basso"/>
+		<entry key="ScenarioEditor_Guests_TraitWeight_Medium" translation="Medio"/>
 		<entry key="ScenarioEditor_Guests_TraitWeight_None" translation="Nessuno"/>
 		<!--ScenarioEditor_Steam-->
 		<entry key="ScenarioEditor_Fanfare_Info_2" translation="You can Lock Down your Rides, Shops, Buildings, and Scenery.&#10;Players cannot delete or sell these objects, and will have to build around the obstacles you place for them."/>
