@@ -15305,7 +15305,6 @@
 		<entry key="InfoPanel_Staff_Stat_StaffBuilding_Distance" translation="Edificio Staff più vicino"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty" translation="Tempo in servizio"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth" translation="Tempo in servizio il mese scorso"/>
-		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentuale di tempo in servizio il mese scorso"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentuale di tempo in servizio questo mese"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting" translation="Tempo passato riposando"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth" translation="Tempo passato riposando il mese scorso"/>
