@@ -15306,14 +15306,15 @@
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty" translation="Tempo in servizio"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth" translation="Tempo in servizio il mese scorso"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentuale di tempo in servizio il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentuale di tempo in servizio questo mese"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting" translation="Tempo passato riposando"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth" translation="Tempo passato riposando il mese scorso"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth_Tooptip" translation="Percentuale di tempo passato riposando il mese scorso"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting_Tooptip" translation="Percentuale di tempo passato riposando questo mese"/>
 		<entry key="InfoPanel_Staff_Stat_TimeTravelling" translation="Tempo passato a camminare verso l'edificio"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth" translation="Tempo speso a camminare il mese scorso"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth_Tooptip" translation="Percentuale di tempo speso a camminare il mese scorso"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling_Tooptip" translation="Percentuale di tempo speso a camminare questo mese"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth" translation="Tempo passato a camminare il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth_Tooptip" translation="Percentuale di tempo passato a camminare il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling_Tooptip" translation="Percentuale di tempo passato a camminare questo mese"/>
 		<entry key="InfoPanel_Staff_Statistics" translation="Statistiche Staff"/>
 		<entry key="InfoPanel_Staff_Stats_NearestStaffBuilding" translation="Distanza dal più vicino Edificio Staff"/>
 		<entry key="InfoPanel_Staff_Stats_NearestStaffBuilding_Invalid" translation=""/>
