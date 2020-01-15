@@ -3019,7 +3019,7 @@
 		<entry key="BuildingPartName_WS_Sign_B_WantedPoster" translation="Poster da Ricercato"/>
 		<!--C10_Blueprints-->
 		<entry key="Blueprints_VNTRBlueprint01" translation="Argentum"/>
-		<entry key="Blueprints_VNTRBlueprint01Desc" translation="Uno schema per il coaster F25&#10;25° Anniversario Frontier"/>
+		<entry key="Blueprints_VNTRBlueprint01Desc" translation="Uno schema per il coaster F25&#10;25° Anniversario di Frontier"/>
 		<!--C10_Coasters-->
 		<entry key="Coaster_Type_VNTR" translation="Lanciato - A pneumatici- "/>
 		<entry key="Coaster_VNTR" translation="F25"/>
@@ -3031,8 +3031,8 @@
 		<entry key="TrackElementTool_FrictionWheelLift_VNTR" translation="&lt;font color='accent'&gt;Sollevamento a Ruota di Attrito&lt;/font&gt;&#10;Spinge i coaster su una salita o lungo un tracciato a velocità moderata.&#10;&#10;Questo elemento può essere utilizzato prima di un lancio pneumatico per creare un lancio a due tempi."/>
 		<entry key="TrackElementTool_TireLaunch_Booster_VNTR" translation="&lt;font color='accent'&gt;Lancio Pneumatico&lt;/font&gt;&#10;Spinge i coaster lungo un tracciato ad una velocità maggiore rispetto al sollevamento a ruota di attrito standard.&#10;&#10;Questo elemento può essere utilizzato dopo il sollevamento a ruota di attrito per creare un lancio a due tempi."/>
 		<!--C10_Facilities-->
-		<entry key="ShopItem_Balloon_SpecialEffect" translation="Palloncino Special Effect"/>
-		<entry key="ShopItem_Hat_Baseball_SpecialEffect" translation="Cappellino Baseball Special Effect"/>
+		<entry key="ShopItem_Balloon_SpecialEffect" translation="Palloncino SpecialEffect"/>
+		<entry key="ShopItem_Hat_Baseball_SpecialEffect" translation="Cappellino Baseball SpecialEffect"/>
 		<!--C10_Research-->
 		<entry key="Research_Hint_Coaster_CPRHD" translation="Colpito dal serpente"/>
 		<entry key="Research_Hint_Coaster_VNTR" translation="Il potere della gomma"/>
@@ -4573,23 +4573,23 @@
 		<entry key="TrackElementName_chainHillStart" translation="Catena Orizzontale Trainante"/>
 		<entry key="TrackElementTool_180TurnLeft" translation="&lt;font color='accent'&gt;Curva sinistra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
 		<entry key="TrackElementTool_180TurnRight" translation="&lt;font color='accent'&gt;Curva destra 180°&lt;/font&gt;&#10;Gira il tracciato 180 gradi a sinistra."/>
-		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Base Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillRevMid" translation="&lt;font color='accent'&gt;Parte Centrale Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una salita trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a cavo invertita&lt;/font&gt;&#10;Conclude una salita trainante a cavo invertita.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Coppia Salita trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Parte Centrale di Torre di sollevamento a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Parte Centrale Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EFN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Base Salita trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Parte Centrale trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Catena Orizzontale trainante &lt;/font&gt;&#10;Tira i treni orizzontalmente e li immette in una salita trainante a catena.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
-		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a catena&lt;/font&gt;&#10;Conclude una salita trainante a catena.&#10;&#10;I valori EFN rilevati durante un trascinamento con catena non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevBot" translation="&lt;font color='accent'&gt;Base Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevMid" translation="&lt;font color='accent'&gt;Parte Centrale Salita trainante a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una salita trainante a cavo.&#10;&#10;I valori EPN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillRevTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a cavo invertita&lt;/font&gt;&#10;Conclude una salita trainante a cavo invertita.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableHillWhole" translation="&lt;font color='accent'&gt;Coppia Salita trainante a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo &lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerMid" translation="&lt;font color='accent'&gt;Parte Centrale di Torre di sollevamento a cavo&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevBot" translation="&lt;font color='accent'&gt;Base Torre di sollevamento a cavo invertita &lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevMid" translation="&lt;font color='accent'&gt;Parte Centrale Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Tira i treni al contrario lungo un pendio.&#10;&#10;I valori EPN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante invertito&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EPN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerRevTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo invertita&lt;/font&gt;&#10;Conclude una torre trainante a cavo invertita.&#10;&#10;I valori EPN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerStart" translation="&lt;font color='accent'&gt;Cavo Orizzontale trainante&lt;/font&gt;&#10;Tira i treni al contrario orizzontalmente e li immette in una torre trainante a cavo.&#10;&#10;I valori EPN  rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableTowerTop" translation="&lt;font color='accent'&gt;Cima Torre di sollevamento a cavo&lt;/font&gt;&#10;Conclude una torre trainante a cavo.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillBot" translation="&lt;font color='accent'&gt;Base Salita trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con catena non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillMid" translation="&lt;font color='accent'&gt;Parte Centrale trainante a catena&lt;/font&gt;&#10;Tira i treni lungo un pendio.&#10;&#10;I valori EPN rilevati durante un trascinamento con catena non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillStart" translation="&lt;font color='accent'&gt;Catena Orizzontale trainante &lt;/font&gt;&#10;Tira i treni orizzontalmente e li immette in una salita trainante a catena.&#10;&#10;I valori EPN rilevati durante un trascinamento con catena non contribuiscono al giudizio EPN finale dell'attrazione."/>
+		<entry key="TrackElementTool_ChainHillTop" translation="&lt;font color='accent'&gt;Cima Salita trainante a catena&lt;/font&gt;&#10;Conclude una salita trainante a catena.&#10;&#10;I valori EPN rilevati durante un trascinamento con catena non contribuiscono al giudizio EPN finale dell'attrazione."/>
 		<entry key="TrackElementTool_ChicaneEnd" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Finale Chicane."/>
 		<entry key="TrackElementTool_ChicaneEndRailings" translation="&lt;font color='accent'&gt;Chicanes con guardrail &lt;/font&gt;&#10;Sezione Finale Chicane.con guardrail"/>
 		<entry key="TrackElementTool_ChicaneSection" translation="&lt;font color='accent'&gt;Chicanes&lt;/font&gt;&#10;Sezione Chicane."/>
@@ -14123,24 +14123,24 @@
 		<entry key="Guests_Status_Wander" translation="Vagando"/>
 		<!--GunAudioEvents-->
 		<entry key="GunAudioEvents_Event_SHT_Arcade" translation="Arcade"/>
-		<entry key="GunAudioEvents_Event_SHT_Ecto1" translation="Proton Pack"/>
-		<entry key="GunAudioEvents_Event_SHT_LightSpell" translation="Light Magic Spell"/>
-		<entry key="GunAudioEvents_Event_SHT_Musket" translation="Musket"/>
-		<entry key="GunAudioEvents_Event_SHT_SciFiLarge" translation="Large Sci-Fi Laser"/>
-		<entry key="GunAudioEvents_Event_SHT_SciFiMed" translation="Medium Sci-Fi Laser"/>
-		<entry key="GunAudioEvents_Event_SHT_SciFiSmall" translation="Sci-Fi Laser"/>
-		<entry key="GunAudioEvents_Event_SHT_Western" translation="Western Revolver"/>
-		<entry key="GunAudioEvents_Event_SHT_WitchSpell01" translation="Witches Spell"/>
-		<entry key="GunAudioEvents_Event_SHT_WitchSpell02" translation="Witches Spell 02"/>
-		<entry key="GunAudioEvents_Events" translation="Gun Audio Event"/>
-		<entry key="GunAudioEvents_TestTrigger" translation="Test trigger"/>
-		<entry key="GunSFX_FairyTale_Heading" translation="Fairy Tale"/>
+		<entry key="GunAudioEvents_Event_SHT_Ecto1" translation="Zaino Protonico"/>
+		<entry key="GunAudioEvents_Event_SHT_LightSpell" translation="Incantesimo di Magia"/>
+		<entry key="GunAudioEvents_Event_SHT_Musket" translation="Moschetto"/>
+		<entry key="GunAudioEvents_Event_SHT_SciFiLarge" translation="Laser Sci-Fi Grande"/>
+		<entry key="GunAudioEvents_Event_SHT_SciFiMed" translation="Laser Sci-Fi Medio"/>
+		<entry key="GunAudioEvents_Event_SHT_SciFiSmall" translation="Laser Sci-Fi"/>
+		<entry key="GunAudioEvents_Event_SHT_Western" translation="Revolver Western"/>
+		<entry key="GunAudioEvents_Event_SHT_WitchSpell01" translation="Incantesimo delle streghe"/>
+		<entry key="GunAudioEvents_Event_SHT_WitchSpell02" translation="Incantesimo delle streghe 2"/>
+		<entry key="GunAudioEvents_Events" translation="Evento Audio Pistola"/>
+		<entry key="GunAudioEvents_TestTrigger" translation="Prova Innesco"/>
+		<entry key="GunSFX_FairyTale_Heading" translation="Fatato"/>
 		<entry key="GunSFX_Ghostbusters_Heading" translation="Ghostbusters"/>
-		<entry key="GunSFX_Miscellaneous_Heading" translation="Miscellaneous"/>
-		<entry key="GunSFX_Pirate_Heading" translation="Pirate"/>
+		<entry key="GunSFX_Miscellaneous_Heading" translation="Vario"/>
+		<entry key="GunSFX_Pirate_Heading" translation="Pirata"/>
 		<entry key="GunSFX_SciFi_Heading" translation="Sci-Fi"/>
 		<entry key="GunSFX_Western_Heading" translation="Western"/>
-		<entry key="Gun_Heading_UserTriggers" translation="User triggers"/>
+		<entry key="Gun_Heading_UserTriggers" translation="Inneschi utente"/>
 		<!--HUD-->
 		<entry key="HUD_AdultGroupMemberCount" translation="Gruppi di visitatori Adulti"/>
 		<entry key="HUD_AverageGuestHappinessTitle" translation="Media felicità visitatori"/>
@@ -14263,8 +14263,8 @@
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Selezione Multipla"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Cancella Selezione"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Command_04" translation="Aggiungi/Rimuovi Selezione (Interruttore)"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_05" translation="Remove From Selection"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_06" translation="Toggle Item Selection"/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_05" translation="Rimuovi da selezione"/>
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_06" translation="Attiva selezione elemento"/>
 		<entry key="HUD_HelpPopup_ScenerySelect_Title" translation="Modifica Controlli Costruzione"/>
 		<entry key="HUD_HelpPopup_Select_Command_01" translation="Seleziona"/>
 		<entry key="HUD_HelpPopup_Select_Command_02" translation="Annulla/Chiudi"/>
@@ -14272,7 +14272,7 @@
 		<entry key="HUD_HelpPopup_Select_Command_04" translation="Zoom Camera"/>
 		<entry key="HUD_HelpPopup_Select_Command_05" translation="Ruota Camera"/>
 		<entry key="HUD_HelpPopup_Select_Command_06" translation="Mostra/Nascondi Aiuto"/>
-		<entry key="HUD_HelpPopup_Select_Command_07" translation="Visuale Libera On/Off"/>
+		<entry key="HUD_HelpPopup_Select_Command_07" translation="Visuale Libera Acceso/Spento"/>
 		<entry key="HUD_HelpPopup_Select_Command_08" translation="Velocità Visuale Libera"/>
 		<entry key="HUD_HelpPopup_Select_Command_09" translation="Alza Visuale Libera"/>
 		<entry key="HUD_HelpPopup_Select_Command_10" translation="Abbassa Visuale Libera"/>
@@ -14561,7 +14561,7 @@
 		<entry key="PopUp_RideTesting_Heatmaps_Pass" translation="Dati Mappa di Intensità"/>
 		<entry key="PopUp_RideTesting_Heatmaps_Pass_N" translation="Passaggi {VALUE:int}"/>
 		<entry key="PopUp_RideTesting_Heatmaps_PreviousRun" translation="Dati corsa precedente"/>
-		<entry key="PopUp_RideTesting_Height" translation="Height"/>
+		<entry key="PopUp_RideTesting_Height" translation="Altezza"/>
 		<entry key="PopUp_RideTesting_LateralG" translation="Accelerazione Laterale"/>
 		<entry key="PopUp_RideTesting_Length" translation="Lunghezza"/>
 		<entry key="PopUp_RideTesting_LiveData" translation="Dati in diretta"/>
@@ -14601,8 +14601,8 @@
 		<entry key="PopUp_Ride_CarsPerTrain" translation="Vagoni per treno"/>
 		<entry key="PopUp_Ride_CarsPerTrainHint" translation="Non è possibile modificare treni o vetture mentre l'attrazione è Aperta"/>
 		<entry key="PopUp_Ride_CarsPerTrainLimit" translation="Aumenta la lunghezza di tutte le stazioni per permettere l'aggiunta di più vetture."/>
-		<entry key="PopUp_Ride_ChairSpeed" translation="Chair Speed"/>
-		<entry key="PopUp_Ride_ChairsPerGroup" translation="Chairs per group"/>
+		<entry key="PopUp_Ride_ChairSpeed" translation="Velocità sedile"/>
+		<entry key="PopUp_Ride_ChairsPerGroup" translation="Sedili per gruppo"/>
 		<entry key="PopUp_Ride_CoasterFriction" translation="ATTRITO MONTAGNA RUSSA"/>
 		<entry key="PopUp_Ride_CoasterFriction_Hint" translation="Applica un moltiplicatore all'attrito predefinito di questa montagna russa."/>
 		<entry key="PopUp_Ride_CoasterFriction_Label" translation="Moltiplicatore Attrito"/>
@@ -14649,9 +14649,9 @@
 		<entry key="PopUp_Ride_FastPassQueueTime" translation="Tempo Coda Pass Prioritari"/>
 		<entry key="PopUp_Ride_FastPassQueueTime_Debug" translation="Tempo Coda Pass Prioritari: {LAST:float}s ({AVERAGE:float}s media)"/>
 		<entry key="PopUp_Ride_Finances_Soon" translation="Economia Attrazione in elaborazione"/>
-		<entry key="PopUp_Ride_GondolaPerGroup" translation="Gondolas per group"/>
-		<entry key="PopUp_Ride_GondolaSpeed" translation="Gondola Speed"/>
-		<entry key="PopUp_Ride_GroupSpeed" translation="Group Speed"/>
+		<entry key="PopUp_Ride_GondolaPerGroup" translation="Gondole per gruppo"/>
+		<entry key="PopUp_Ride_GondolaSpeed" translation="Velocità Gondola"/>
+		<entry key="PopUp_Ride_GroupSpeed" translation="Velocità gruppo"/>
 		<entry key="PopUp_Ride_GuestsPerHour" translation="Visitatori per ora: {LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_Guests_Soon" translation="Pensieri sull'attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_IdealPrice" translation="Costo Biglietto Ideale: {VALUE:currency}"/>
@@ -14700,9 +14700,9 @@
 		<entry key="PopUp_Ride_NumBoat" translation="Numero di barche"/>
 		<entry key="PopUp_Ride_NumBus" translation="Numero di bus"/>
 		<entry key="PopUp_Ride_NumCar" translation="Numero di vetture"/>
-		<entry key="PopUp_Ride_NumChair" translation="Number of chairs"/>
-		<entry key="PopUp_Ride_NumGondola" translation="Number of gondolas"/>
-		<entry key="PopUp_Ride_NumGroup" translation="Number of groups"/>
+		<entry key="PopUp_Ride_NumChair" translation="Numero di sedili"/>
+		<entry key="PopUp_Ride_NumGondola" translation="Numero di gondole"/>
+		<entry key="PopUp_Ride_NumGroup" translation="Numero di gruppi"/>
 		<entry key="PopUp_Ride_NumKart" translation="Numero di karts"/>
 		<entry key="PopUp_Ride_NumLaps" translation="Numero giri"/>
 		<entry key="PopUp_Ride_NumPasses" translation="Al passaggio si ferma in stazione"/>
@@ -14718,11 +14718,11 @@
 		<entry key="PopUp_Ride_Options" translation="Opzioni Attrazione"/>
 		<entry key="PopUp_Ride_Overview_Soon" translation="Panoramica attrazione in elaborazione"/>
 		<entry key="PopUp_Ride_PassesHint" translation="Non è possibile modificare il numero di passaggi attraverso la stazione mentre l'attrazione è Aperta"/>
-		<entry key="PopUp_Ride_PassesHint_Desc" translation="The number of times a train can pass through the station before stopping."/>
+		<entry key="PopUp_Ride_PassesHint_Desc" translation="Il numero di volte che un treno può passare da una stazione prima di fermarsi."/>
 		<entry key="PopUp_Ride_Percentage" translation="{VALUE:int}%"/>
 		<entry key="PopUp_Ride_PoweredBehaviourLabel" translation="Decelerazione a potenza costante"/>
 		<entry key="PopUp_Ride_PoweredBehaviourTooltip" translation="Con questo attivo, le attrazioni elettriche producono abbastanza potenza da ridurre la decelerazione e mantenere la spinta sull'attrazione"/>
-		<entry key="PopUp_Ride_Powered_Speed_Off" translation="This ride needs to be closed to have its train speed changed."/>
+		<entry key="PopUp_Ride_Powered_Speed_Off" translation="Questa attrazione deve essere chiusa per cambiare la velocità del treno."/>
 		<entry key="PopUp_Ride_Prestige" translation="Prestigio:{LAST:float} ({AVERAGE:float} media)"/>
 		<entry key="PopUp_Ride_PrestigeDeteriorationMultiplier" translation="Moltiplicatore diminuzione prestigio: {VALUE:float}"/>
 		<entry key="PopUp_Ride_ProjectedMonthlyIncome" translation="Entrate mensili stimate"/>
@@ -14734,9 +14734,9 @@
 		<entry key="PopUp_Ride_Racing" translation="Opzioni Corsa"/>
 		<entry key="PopUp_Ride_RaftSpeed" translation="Velocità Zattera"/>
 		<entry key="PopUp_Ride_Refresh" translation="Aggiorna"/>
-		<entry key="PopUp_Ride_RideOptions" translation="Ride Options"/>
+		<entry key="PopUp_Ride_RideOptions" translation="Opzioni Corsa"/>
 		<entry key="PopUp_Ride_SleighSpeed" translation="Velocità Slitta"/>
-		<entry key="PopUp_Ride_StaticTrainNum" translation="{Value}: {num:int}&#10;Altering the speed and length of this ride will change the number of groups."/>
+		<entry key="PopUp_Ride_StaticTrainNum" translation="{Value}: {num:int}&#10;Alterare velocità e lunghezza di questa corsa cambierà il numero di gruppi."/>
 		<entry key="PopUp_Ride_TimeBetweenDepartures" translation="Intervallo Partenze"/>
 		<entry key="PopUp_Ride_TimeBetweenDeparturesHint" translation="Il tempo che deve trascorrere prima di permettere al treno di partire&#10;- Utile per far spazio tra le vetture&#10;- Si applica anche quando l'attrazione è completamente carica"/>
 		<entry key="PopUp_Ride_Time_0" translation="{TIME:int} Minuti"/>
@@ -14756,7 +14756,7 @@
 		<entry key="PopUp_Ride_TrainSpeed" translation="Velocità Treno"/>
 		<entry key="PopUp_Ride_TransportRideFinanceHint" translation="I prezzi sono fissati per stazione."/>
 		<entry key="PopUp_Ride_Transport_StationBrokenDown" translation="Non è possibile aprire la stazione mentre è guasta"/>
-		<entry key="PopUp_Ride_Transport_StationHaunted" translation="Cannot open station whilst haunted"/>
+		<entry key="PopUp_Ride_Transport_StationHaunted" translation="Non è possibile aprire la stazione finchè è infestata"/>
 		<entry key="PopUp_Ride_Transport_StationIncompleteHint" translation="La checklist della stazione deve essere completata prima che possa essere aperta"/>
 		<entry key="PopUp_Ride_Transport_StationOpenCloseHint" translation="L'attrazione deve aprire prima che la stazione possa essere aperta o chiusa"/>
 		<entry key="PopUp_Ride_TriggerBreakdown" translation="Guasto sistema di coda"/>
@@ -14813,9 +14813,9 @@
 		<entry key="PopUp_VendingMachine_BrokenDown" translation="Non è possibile aprire i distributori guasti"/>
 		<!--InfoPanel-->
 		<entry key="InfoPanel_Close" translation="X"/>
-		<entry key="InfoPanel_DriveVehicle" translation="Drive Vehicle"/>
-		<entry key="InfoPanel_ScenarioLock" translation="Lock all items for scenario players"/>
-		<entry key="InfoPanel_ScenarioUnlock" translation="Unlock all items for scenario players"/>
+		<entry key="InfoPanel_DriveVehicle" translation="Guida Veicolo"/>
+		<entry key="InfoPanel_ScenarioLock" translation="Blocca tutti gli elementi sullo scenario"/>
+		<entry key="InfoPanel_ScenarioUnlock" translation="Sblocca tutti gli elementi sullo scenario"/>
 		<entry key="InfoPanel_Title" translation="Informazioni"/>
 		<entry key="InfoPanel_Tooltip_AdvancedDuplicate" translation=" Spostamento Avanzato &amp; Duplica [Ctrl+X]"/>
 		<entry key="InfoPanel_Tooltip_AdvancedMove" translation="Imposta Spostamento/Rotazione avanzati [X]"/>
@@ -14826,7 +14826,7 @@
 		<entry key="InfoPanel_Tooltip_Duplicate" translation="Duplica [{#LogicalButton.Editors_Clone#}]"/>
 		<entry key="InfoPanel_Tooltip_Locked" translation="Questo oggetto è bloccato"/>
 		<entry key="InfoPanel_Tooltip_Move" translation="Sposta [{#LogicalButton.Editors_Move#}]"/>
-		<entry key="InfoPanel_VehicleControls" translation="&lt;font color='#000000'&gt;Vehicle Controls&lt;/font&gt;&#10;&lt;font color='#000000'&gt;Keyboard:&lt;/font&gt;&#10;W - Accelerate&#10;S - Reverse&#10;A/D - Turn Left/Right&#10;Space - Handbrake&#10;C - Horn&#10;X - Siren&#10;R - Radio&#10;&#10;&lt;font color='#000000'&gt;Controller:&lt;/font&gt;&#10;RT - Accelerate&#10;LT - Reverse&#10;LS - Turn Left/Right&#10;X - Handbrake&#10;Press LS - Horn&#10;D-pad Up - Siren&#10;D-pad Down - Radio"/>
+		<entry key="InfoPanel_VehicleControls" translation="&lt;font color='#000000'&gt;Controlli Veicolo&lt;/font&gt;&#10;&lt;font color='#000000'&gt;Tastiera:&lt;/font&gt;&#10;W - Accelera&#10;S - Retromarcia&#10;A/D - Gira a Sinistra/Destra&#10;Spazio - Freno a mano&#10;C - Clacson&#10;X - Sirena&#10;R - Radio&#10;&#10;&lt;font color='#000000'&gt;Controller:&lt;/font&gt;&#10;RT - Accelera&#10;LT - Retromarcia&#10;LS - Gira a Sinistra/Destra&#10;X - Freno a mano&#10;Premi LS - Clacson&#10;D-pad Su - Sirena&#10;D-pad Giù - Radio"/>
 		<!--InfoPanel_Facility-->
 		<entry key="InfoPanel_Facility_BuildingStats" translation="Statistiche Edifici"/>
 		<entry key="InfoPanel_Facility_Cleanliness" translation="Pulizia"/>
@@ -14881,14 +14881,14 @@
 		<entry key="InfoPanel_Shop_AttendancePercentage" translation="Percentage of time shop is attended"/>
 		<entry key="InfoPanel_Shop_Information" translation="Informazioni negozio"/>
 		<entry key="InfoPanel_Shop_OpenState" translation="Stato Negozio: {STATUS}"/>
-		<entry key="InfoPanel_Shop_PercentageServing" translation="Percentage of time serving compared to idle"/>
-		<entry key="InfoPanel_Shop_Staff_En_Route" translation="Vendor en route"/>
+		<entry key="InfoPanel_Shop_PercentageServing" translation="Percentuale di tempo in servizio comparato all'inattività"/>
+		<entry key="InfoPanel_Shop_Staff_En_Route" translation="Venditore per strada"/>
 		<entry key="InfoPanel_Shop_Staff_Label" translation="Staff"/>
 		<entry key="InfoPanel_Shop_Staff_Name" translation="{Name}"/>
 		<entry key="InfoPanel_Shop_Staff_Unavailable" translation="Nessun venditore disponibile"/>
 		<entry key="InfoPanel_Shop_Sync" translation="Usa gli stessi prezzi ed extras per i negozi di questo tipo."/>
-		<entry key="InfoPanel_Shop_TimeAttended_LastMonth" translation="Tempo speso in attesa lo scorso mese"/>
-		<entry key="InfoPanel_Shop_TimeAttended_ThisMonth" translation="Tempo speso in attesa questo mese"/>
+		<entry key="InfoPanel_Shop_TimeAttended_LastMonth" translation="Tempo speso nell'impiego lo scorso mese"/>
+		<entry key="InfoPanel_Shop_TimeAttended_ThisMonth" translation="Tempo speso nell'impiego questo mese"/>
 		<entry key="InfoPanel_Shop_TimeServing_Invalid" translation="-"/>
 		<entry key="InfoPanel_Shop_Type" translation="Tipo di negozio"/>
 		<entry key="InfoPanel_shop_TimeServing_Average" translation="Tempo in media speso nel servizio negli scorsi 3 mesi"/>
@@ -14927,7 +14927,7 @@
 		<entry key="InfoPanel_Guest_Demographic_5" translation="Adulto"/>
 		<entry key="InfoPanel_Guest_Demographic_6" translation="Famiglia"/>
 		<entry key="InfoPanel_Guest_EjectGroup" translation="Caccia via il gruppo"/>
-		<entry key="InfoPanel_Guest_EjectGroup_AlreadyEjectedGhost_ToolTip" translation="Instruct a security guard to remove the group&#10;•This group is already leaving, a ghost scared them!"/>
+		<entry key="InfoPanel_Guest_EjectGroup_AlreadyEjectedGhost_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Questo gruppo se ne sta già andando, un fantasma li ha spaventati!"/>
 		<entry key="InfoPanel_Guest_EjectGroup_AlreadyEjected_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•A questo gruppo è stato già chiesto di andare via"/>
 		<entry key="InfoPanel_Guest_EjectGroup_AlreadyWaitingForEjection_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Una guardia di sicurezza è già in movimento"/>
 		<entry key="InfoPanel_Guest_EjectGroup_NoCapableSecurity_ToolTip" translation="Ordina ad una guardia di sicurezza di cacciare via il gruppo&#10;•Hai bisogno di una guardia di sicurezza che sia in grado di cacciare gruppi per fare questo."/>
@@ -15001,26 +15001,26 @@
 		<entry key="InfoPanel_Guest_Withdrawals" translation="Ritirato dal bancomat"/>
 		<entry key="InfoPanel_MiscreantRunSpeed" translation="Velocità di esecuzione errata"/>
 		<!--InfoPanel_ModularScenery-->
-		<entry key="InfoPanel_EditModularScenery_ApparentTime" translation="Visual time"/>
-		<entry key="InfoPanel_EditModularScenery_ApparentTimeTooltip" translation="Set the time of day"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectActive" translation="Audio Effect"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectActiveTooltip" translation="Apply the Audio Effect selected below"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectIntensity" translation="Intensity"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectLabel" translation="Audio Effect"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectLinkedToVisual" translation="Link to Visual Effect"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectLinkedToVisualDesc" translation="Toggle whether the audio effect updates when a new visual effect is chosen or not"/>
-		<entry key="InfoPanel_EditModularScenery_AudioEffectTriggeredSoundLabel" translation="Triggered Sound"/>
-		<entry key="InfoPanel_EditModularScenery_BlendTime" translation="Fade time"/>
-		<entry key="InfoPanel_EditModularScenery_CameraEffectsDescription" translation="You can apply a variety of visual effects to the ride camera by triggering this part."/>
-		<entry key="InfoPanel_EditModularScenery_CameraEffectsPreview" translation="Preview visual effects"/>
-		<entry key="InfoPanel_EditModularScenery_ColourGradingActive" translation="Colour Grading"/>
-		<entry key="InfoPanel_EditModularScenery_ColourGradingActiveTooltip" translation="Apply Colour Grading towards the effect selected below"/>
-		<entry key="InfoPanel_EditModularScenery_ColourGradingIntensity" translation="Intensity"/>
-		<entry key="InfoPanel_EditModularScenery_ConnectedTo" translation="Connected to"/>
-		<entry key="InfoPanel_EditModularScenery_ConnectedToNotActivateOnTrigger" translation="This object will not respond to external triggers until 'Activate on trigger' is selected."/>
-		<entry key="InfoPanel_EditModularScenery_FilmGrainActive" translation="Film Grain"/>
-		<entry key="InfoPanel_EditModularScenery_FilmGrainActiveTooltip" translation="Apply a Film Grain effect"/>
-		<entry key="InfoPanel_EditModularScenery_FilmGrainStrength" translation="Strength"/>
+		<entry key="InfoPanel_EditModularScenery_ApparentTime" translation="Orario Visuale"/>
+		<entry key="InfoPanel_EditModularScenery_ApparentTimeTooltip" translation="Imposta il momento del giorno"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectActive" translation="Effetto Audio"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectActiveTooltip" translation="Applica l'effetto audio sotto indicato"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectIntensity" translation="Intensità"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectLabel" translation="Effetto Audio"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectLinkedToVisual" translation="Collega all'Effetto Visivo"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectLinkedToVisualDesc" translation="Decidi se l'effetto audio si aggiorna quando viene scelto un nuovo effetto visivo oppure no"/>
+		<entry key="InfoPanel_EditModularScenery_AudioEffectTriggeredSoundLabel" translation="Suono innescato"/>
+		<entry key="InfoPanel_EditModularScenery_BlendTime" translation="Tempo Dissolvenza"/>
+		<entry key="InfoPanel_EditModularScenery_CameraEffectsDescription" translation="Puoi applicare una varietà di effetti visivi alla visuale attrazione attivando questa parte."/>
+		<entry key="InfoPanel_EditModularScenery_CameraEffectsPreview" translation="Anteprima effetti visivi"/>
+		<entry key="InfoPanel_EditModularScenery_ColourGradingActive" translation="Scala di Colore"/>
+		<entry key="InfoPanel_EditModularScenery_ColourGradingActiveTooltip" translation="Applica una scala di colore all'effetto sotto indicato"/>
+		<entry key="InfoPanel_EditModularScenery_ColourGradingIntensity" translation="Intensità"/>
+		<entry key="InfoPanel_EditModularScenery_ConnectedTo" translation="Connesso a"/>
+		<entry key="InfoPanel_EditModularScenery_ConnectedToNotActivateOnTrigger" translation="Questo oggetto non risponderà ad inneschi esterni fino a che non sarà selezionato 'Attiva su innesco'."/>
+		<entry key="InfoPanel_EditModularScenery_FilmGrainActive" translation="Effetto Pellicola"/>
+		<entry key="InfoPanel_EditModularScenery_FilmGrainActiveTooltip" translation="Applica un effetto pellicola"/>
+		<entry key="InfoPanel_EditModularScenery_FilmGrainStrength" translation="Forza"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_CostPerTriggerHeader" translation="Costo Per Innesco"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySequencerEntry" translation="Console Effetti Speciali"/>
 		<entry key="InfoPanel_EditModularScenery_FinanceStatistics_DisplaySpeakersEntry" translation="Altoparlanti Collegati"/>
@@ -15033,8 +15033,8 @@
 		<entry key="InfoPanel_EditModularScenery_Label_FontOnSign" translation="Carattere"/>
 		<entry key="InfoPanel_EditModularScenery_Label_TextOnSign" translation="Testo Personalizzato"/>
 		<entry key="InfoPanel_EditModularScenery_OnlyTriggerableToolTip" translation="Questo elemento si attiverà solo dopo un innesco, o durante l'anteprima"/>
-		<entry key="InfoPanel_EditModularScenery_PlayEvery" translation="Play every"/>
-		<entry key="InfoPanel_EditModularScenery_PlayFor" translation="Duration"/>
+		<entry key="InfoPanel_EditModularScenery_PlayEvery" translation="Riproduci ogni"/>
+		<entry key="InfoPanel_EditModularScenery_PlayFor" translation="Durata"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_ItemisedValue" translation="{Count:int}"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_Label" translation="Statistiche"/>
 		<entry key="InfoPanel_EditModularScenery_Statistics_MusicSpeakersConnected" translation="Altoparlanti Musica Connessi"/>
@@ -15050,51 +15050,51 @@
 		<entry key="InfoPanel_EditModularScenery_Tooltip_DuplicateSingle" translation="Duplica [{#LogicalButton.Editors_Clone#}]"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_MoveMulti" translation="Sposta Selezione [{#LogicalButton.Editors_Move#}]"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_MoveSingle" translation="Sposta [{#LogicalButton.Editors_Move#}]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitMulti" translation="Separa Selezione dalla Struttura"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitMulti_SceneryGroup" translation="Split Selection From SceneryGroup"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitMulti" translation="Separa la Selezione dalla Struttura"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitMulti_SceneryGroup" translation="Separa la Selezione dal Gruppo Scenario"/>
 		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitSingle" translation="Separa dalla Struttura"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitSingle_SceneryGroup" translation="Split From Scenery Group"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerActivated" translation="Activated"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerActivated_Desc" translation="Play this object indefinitely."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerClose" translation="Closed"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerClose_Desc" translation="Closes this object indefinitely."/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_SplitSingle_SceneryGroup" translation="Separa dal Gruppo Scenario"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerActivated" translation="Attivato"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerActivated_Desc" translation="Attiva questo oggetto per un tempo indefinito."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerClose" translation="Chiuso"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerClose_Desc" translation="Chiude questo oggetto per un tempo indefinito."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerControlled" translation="Attiva su Innesco"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerControlledTriggerCostToolTip" translation="Questo elemento ha un costo per innesco e non farà nulla se non innescato"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerDeactivated" translation="Deactivated"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerDeactivated_Desc" translation="Turn off this object."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerDisactivated" translation="This item will not respond to any external Trigger Events."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerDeactivated" translation="Disattivato"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerDeactivated_Desc" translation="Spegne questo oggetto."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerDisactivated" translation="Questo elemento non risponderà ad Eventi Innesco esterni."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerDuration" translation="Durata Innesco"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerLoop" translation="Loop"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerLoop_Desc" translation="Play this object indefinitely."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerOpen" translation="Open"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerOpenCloseDelay" translation="Open for X Seconds"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerOpenCloseDelay_Desc" translation="Opens this object for X Seconds, then stays closes it for Y seconds. The values of X and Y can be changed."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerOpen_Desc" translation="Opens this object indefinitely."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerLoop" translation="Cicla"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerLoop_Desc" translation="Attiva questo oggetto per un tempo indefinito."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerOpen" translation="Apri"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerOpenCloseDelay" translation="Apre per X Secondi"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerOpenCloseDelay_Desc" translation="Apre questo oggetto per X secondi, quindi rimane chiuso per Y secondi. Il valore di X e Y può essere cambiato."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerOpen_Desc" translation="Apre questo oggetto per un tempo indefinito."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor" translation="Avvia per"/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayFor_Tooltip" translation="Una volta innescata, l'animazione si svolgerà per un numero definito di secondi."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayImage_Tooltip" translation="Una volta innescata, l'immagine verrà mostrata per un numero definito di secondi."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerPlayOnce" translation="Play once every X Seconds"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerPlayOnce_Desc" translation="Play this object once every X seconds. The value of X can be changed."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayOnce" translation="Attiva una volta ogni X Secondi"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerPlayOnce_Desc" translation="Attiva questo oggetto una volta ogni X secondi. Il valore di X può essere cambiato."/>
 		<entry key="InfoPanel_EditModularScenery_TriggerPlayVideo_Tooltip" translation="Una volta innescati, i video saranno mostrati per intero."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerStationary" translation="Stationary"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerStationary_Desc" translation="Turn off this object."/>
-		<entry key="InfoPanel_EditModularScenery_TriggerToggleState" translation="Play every X Seconds"/>
-		<entry key="InfoPanel_EditModularScenery_TriggerToggleState_Desc" translation="Play this object for a controllable amount of time every X seconds. The value of X can be changed."/>
-		<entry key="InfoPanel_EditModularScenery_VignetteActive" translation="Vignette"/>
-		<entry key="InfoPanel_EditModularScenery_VignetteActiveTooltip" translation="Apply a Vignette effect"/>
-		<entry key="InfoPanel_EditModularScenery_VignetteOpacity" translation="Opacity"/>
-		<entry key="InfoPanel_EditModularScenery_VignetteStrength" translation="Strength"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerStationary" translation="Fermo"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerStationary_Desc" translation="Spegne questo oggetto."/>
+		<entry key="InfoPanel_EditModularScenery_TriggerToggleState" translation="Avvia ogni X Secondi"/>
+		<entry key="InfoPanel_EditModularScenery_TriggerToggleState_Desc" translation="Avvia questo oggetto per un tempo controllato ogni X secondi. Il valore di X può essere cambiato."/>
+		<entry key="InfoPanel_EditModularScenery_VignetteActive" translation="Vignetta"/>
+		<entry key="InfoPanel_EditModularScenery_VignetteActiveTooltip" translation="Applica un effetto vignetta"/>
+		<entry key="InfoPanel_EditModularScenery_VignetteOpacity" translation="Opacità"/>
+		<entry key="InfoPanel_EditModularScenery_VignetteStrength" translation="Forza"/>
 		<entry key="InfoPanel_ModularScenery_TitleGroup" translation="{NAME}"/>
 		<entry key="InfoPanel_ModularScenery_Tooltip_Edit" translation="Modifica Struttura [{#LogicalButton.Editors_StartEditing#}]"/>
-		<entry key="InfoPanel_ModularScenery_Tooltip_EditSceneryGroup" translation="Edit SceneryGroup [{#LogicalButton.Editors_StartEditing#}]"/>
-		<entry key="InfoPanel_ModularScenery_Tooltip_SplitSceneryGroup" translation="Ungroup Scenery"/>
+		<entry key="InfoPanel_ModularScenery_Tooltip_EditSceneryGroup" translation="Modifica Gruppo Scenario [{#LogicalButton.Editors_StartEditing#}]"/>
+		<entry key="InfoPanel_ModularScenery_Tooltip_SplitSceneryGroup" translation="Dividi Scenario"/>
 		<!--InfoPanel_Ride-->
 		<entry key="InfoPanel_Date_PrestigeStateTooltip" translation="Reputazione&#10;Riflette l'età e la popolarità di una Attrazione e può influire sul suo Prestigio.&#10;&#10;Reputazione Corrente&#10;{Reputation}"/>
 		<entry key="InfoPanel_Date_PrestigeStateTooltipUnopen" translation="Reputazione&#10;Riflette l'età e la popolarità di una Attrazione e contribuisce sul suo Prestigio.&#10;&#10;(Attrazione non aperta)"/>
 		<entry key="InfoPanel_Date_Workload" translation="Carico di lavoro&#10;Indica la quantità di lavoro che i dipendenti hanno svolto nei mesi recenti&#10;Un carico di lavoro alto o basso può avere effetti sulla felicità di un dipendente&#10;L'addestramento permette ai dipendenti di affrontare più lavoro"/>
-		<entry key="InfoPanel_Ride_Break_Down" translation="Ride broken down"/>
-		<entry key="InfoPanel_Ride_Break_Down_Mechanic_En_Route" translation="Mechanic en route"/>
-		<entry key="InfoPanel_Ride_Break_Down_Mechanic_Unavailable" translation="No Mechanic Available"/>
+		<entry key="InfoPanel_Ride_Break_Down" translation="Attrazione guasta"/>
+		<entry key="InfoPanel_Ride_Break_Down_Mechanic_En_Route" translation="Manutentore per strada"/>
+		<entry key="InfoPanel_Ride_Break_Down_Mechanic_Unavailable" translation="Nessun Manutentore disponibile"/>
 		<entry key="InfoPanel_Ride_Close" translation="Chiudi"/>
 		<entry key="InfoPanel_Ride_CloseBeforeMove" translation="Devi chiudere l'attrazione prima di spostarla"/>
 		<entry key="InfoPanel_Ride_ConnectTargets" translation="Collega Bersagli"/>
@@ -15103,17 +15103,17 @@
 		<entry key="InfoPanel_Ride_Downtime_Body" translation="{percentage:int}%"/>
 		<entry key="InfoPanel_Ride_Downtime_Header" translation="Recente malfunzionamento"/>
 		<entry key="InfoPanel_Ride_Downtime_HeaderTooltip" translation="Tempo di inattività durante gli ultimi 8 mesi"/>
-		<entry key="InfoPanel_Ride_EnterShootingMinigame" translation="Enter Shooting Ride"/>
+		<entry key="InfoPanel_Ride_EnterShootingMinigame" translation="Entra nell'Attrazione a Bersagli"/>
 		<entry key="InfoPanel_Ride_FearTooHigh" translation="La tua attrazione è troppo spaventosa!"/>
 		<entry key="InfoPanel_Ride_FearTooHigh_Detail" translation="I visitatori non vorranno salirci su."/>
 		<entry key="InfoPanel_Ride_Finances" translation="Statistiche Finanziarie"/>
-		<entry key="InfoPanel_Ride_FocusCam" translation="Centra Camera"/>
-		<entry key="InfoPanel_Ride_GForceTooHigh" translation="Your ride exceeds G-force limits!"/>
-		<entry key="InfoPanel_Ride_GForceTooHigh_Detail" translation="It affects the excitement factor of the ride."/>
+		<entry key="InfoPanel_Ride_FocusCam" translation="Centra Visuale"/>
+		<entry key="InfoPanel_Ride_GForceTooHigh" translation="La tua attrazione supera i limiti per la forza di gravità!"/>
+		<entry key="InfoPanel_Ride_GForceTooHigh_Detail" translation="Influenza il fattore eccitazione dell'attrazione."/>
 		<entry key="InfoPanel_Ride_InDuel" translation="Parte di una Catena di Montagne Russe "/>
-		<entry key="InfoPanel_Ride_IniitalAge_Tooltip" translation="The age, in months, of the ride when the scenario is started."/>
-		<entry key="InfoPanel_Ride_InitialAge" translation="Initial Ride Age"/>
-		<entry key="InfoPanel_Ride_InitialPrestigeState" translation="This ride will be {State} at the start of the scenario."/>
+		<entry key="InfoPanel_Ride_IniitalAge_Tooltip" translation="L'età, in mesi, dell'attrazione dall'inizio dello scenario."/>
+		<entry key="InfoPanel_Ride_InitialAge" translation="Età iniziale Attrazione"/>
+		<entry key="InfoPanel_Ride_InitialPrestigeState" translation="Questa attrazione sarà {State} all'inizio dello scenario."/>
 		<entry key="InfoPanel_Ride_InspectionDelay" translation="Orario di ispezione"/>
 		<entry key="InfoPanel_Ride_InspectionDelayEntry" translation="Ogni {minutes:int} minuti"/>
 		<entry key="InfoPanel_Ride_InspectionDelayNone" translation="Mai"/>
@@ -15121,7 +15121,7 @@
 		<entry key="InfoPanel_Ride_InspectionRequested" translation="Ispezione richiesta"/>
 		<entry key="InfoPanel_Ride_LastBreakdown_Never" translation="Mai"/>
 		<entry key="InfoPanel_Ride_LastBreakdown_Tooltip" translation="Ultima rottura"/>
-		<entry key="InfoPanel_Ride_MaintenanceLevel_Explanation" translation="The starting wear and tear of the ride.&#10;Adjusting this will repair a breakdown."/>
+		<entry key="InfoPanel_Ride_MaintenanceLevel_Explanation" translation="L'usura iniziale dell'attrazione.&#10;Modificare questo eviterà un guasto."/>
 		<entry key="InfoPanel_Ride_MaintenanceLevel_Header" translation="Stato"/>
 		<entry key="InfoPanel_Ride_MaintenanceLevel_Tooltip" translation="Usura"/>
 		<entry key="InfoPanel_Ride_Maintenance_Actions" translation="Azioni"/>
@@ -15212,26 +15212,26 @@
 		<entry key="InfoPanel_Ride_TimeUntilClassic_Unknown_RideNeedsTesting" translation="Aspettando i risultati"/>
 		<entry key="InfoPanel_Ride_ToolTipWithErrors_1" translation="{toolTip}&#10;{error1}"/>
 		<entry key="InfoPanel_Ride_Tooltip_DecreaseHeight" translation="Decrease Height{Height}&#10;{Cost}&#10;{Message}"/>
-		<entry key="InfoPanel_Ride_Tooltip_ExitRideCam" translation="Abbandona Telecamera"/>
-		<entry key="InfoPanel_Ride_Tooltip_IncreaseHeight" translation="Increase Height{Height}&#10;{Cost}&#10;{Message}"/>
+		<entry key="InfoPanel_Ride_Tooltip_ExitRideCam" translation="Abbandona Visuale Attrazione"/>
+		<entry key="InfoPanel_Ride_Tooltip_IncreaseHeight" translation="Aumenta Altezza{Height}&#10;{Cost}&#10;{Message}"/>
 		<entry key="InfoPanel_Ride_Tooltip_Parent" translation="Seleziona attrazione"/>
 		<entry key="InfoPanel_Ride_Tooltip_RideCam" translation="Visuale attrazione"/>
 		<entry key="InfoPanel_Ride_TriggerBreakdown_Tooltip" translation="L'attrazione si guasterà alla prossima occasione."/>
 		<entry key="InfoPanel_Ride_Type" translation="Tipo di attrazione"/>
 		<entry key="InfoPanel_ride_FearTooHigh_ToolTip" translation="Tasso di Paura troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
-		<entry key="InfoPanel_ride_GForceTooHigh_ToolTip" translation="G-force exceeds safe limits&#10;&#10;Have a look at the various G-force Heatmaps to see which areas of your Ride are problematic."/>
+		<entry key="InfoPanel_ride_GForceTooHigh_ToolTip" translation="La Forza di Gravità supera i livelli di sicurezza&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
 		<entry key="InfoPanel_ride_NauseaTooHigh_ToolTip" translation="Tasso di Nausea troppo alto&#10;&#10;Guarda le Mappe di Intensità per vedere quali aree della tua attrazione sono problematiche."/>
-		<entry key="RideVariation_CloseFirst" translation="You must close the ride before you can change it."/>
-		<entry key="RideVariation_Cost" translation="Cost {Cost}"/>
-		<entry key="RideVariation_Decrease_NoMoney" translation="You cannot afford to decrease the height of this ride."/>
-		<entry key="RideVariation_Default" translation="Changing a rides height will effect it's EFN, Wear, Prestige and Running costs."/>
+		<entry key="RideVariation_CloseFirst" translation="Devi chiudere l'attrazione prima di poterla modificare."/>
+		<entry key="RideVariation_Cost" translation="Costo {Cost}"/>
+		<entry key="RideVariation_Decrease_NoMoney" translation="Non puoi permetterti di diminuire l'altezza di questa attrazione."/>
+		<entry key="RideVariation_Default" translation="Cambiare l'altezza di um'attrazione influenzerà i valori EPN, Usura, Prestigio e Costi di Esercizio."/>
 		<entry key="RideVariation_Height" translation=" - {Value}"/>
 		<entry key="RideVariation_HeightBlank" translation=""/>
-		<entry key="RideVariation_Increase_NoMoney" translation="You cannot afford to increase the height of this ride."/>
-		<entry key="RideVariation_Loading" translation="Loading Additional Heights..."/>
-		<entry key="RideVariation_Max" translation="Ride is already at the maximum height."/>
-		<entry key="RideVariation_Min" translation="Ride is already at the minimum height."/>
-		<entry key="RideVariation_Refund" translation="Refund {Cost}"/>
+		<entry key="RideVariation_Increase_NoMoney" translation="Non puoi permetterti di aumentare l'altezza di questa attrazione."/>
+		<entry key="RideVariation_Loading" translation="Caricamento Altezza Aggiuntiva..."/>
+		<entry key="RideVariation_Max" translation="L'attrazione è già alla sua massima altezza."/>
+		<entry key="RideVariation_Min" translation="L'attrazione è già alla sua minima altezza."/>
+		<entry key="RideVariation_Refund" translation="Rimborso {Cost}"/>
 		<!--InfoPanel_Scenery-->
 		<entry key="InfoPanel_Scenery_BuildingEditWithSelectedPart" translation="Modifica l'Edificio con l'elemento selezionato"/>
 		<entry key="InfoPanel_Scenery_BuildingStatistics" translation="Statistiche Struttura"/>
@@ -15257,23 +15257,23 @@
 		<entry key="InfoPanel_Scenery_TotalObjectsCount" translation="{COUNT:separatedFloat:decimalPlaces=0}"/>
 		<entry key="InfoPanel_Scenery_TotalObjectsLabel" translation="Oggetti Totali"/>
 		<!--InfoPanel_Staff-->
-		<entry key="InfoPanel_Ghost_DateArrived" translation="Date Arrived"/>
-		<entry key="InfoPanel_Ghost_Information" translation="Ghost Information"/>
-		<entry key="InfoPanel_Ghost_Level" translation="Ghost strength"/>
-		<entry key="InfoPanel_Ghost_NextGhost" translation="Next Ghost"/>
-		<entry key="InfoPanel_Ghost_NoOtherGhosts_Tooltip" translation="No other ghosts in the park"/>
-		<entry key="InfoPanel_Ghost_PrevGhost" translation="Previous Ghost"/>
-		<entry key="InfoPanel_Ghost_RideCam" translation="Ghost camera"/>
-		<entry key="InfoPanel_Ghost_StrongerThanGhostbusters" translation="None of your Ghostbusters can capture this ghost, train them to capture stronger ghosts."/>
+		<entry key="InfoPanel_Ghost_DateArrived" translation="Data Arrivo"/>
+		<entry key="InfoPanel_Ghost_Information" translation="Informazioni Fantasma"/>
+		<entry key="InfoPanel_Ghost_Level" translation="Forza Fantasma"/>
+		<entry key="InfoPanel_Ghost_NextGhost" translation="Prossimo Fantasma"/>
+		<entry key="InfoPanel_Ghost_NoOtherGhosts_Tooltip" translation="Nessun altro fantasma nel parco"/>
+		<entry key="InfoPanel_Ghost_PrevGhost" translation="Precedente Fantasma"/>
+		<entry key="InfoPanel_Ghost_RideCam" translation="Visuale Fantasma"/>
+		<entry key="InfoPanel_Ghost_StrongerThanGhostbusters" translation="Nessuno dei tuoi Ghostbusters può catturare questo fantasma, addestrali per catturare fantasmi più forti."/>
 		<entry key="InfoPanel_Staff_Bonus" translation="Bonus paga ({amount:currency})"/>
-		<entry key="InfoPanel_Staff_CannotFireGhostbusters" translation="Cannot fire Ghostbusters"/>
+		<entry key="InfoPanel_Staff_CannotFireGhostbusters" translation="Non posso licenziare Ghostbusters"/>
 		<entry key="InfoPanel_Staff_ChasedPickpocket_Value" translation="{Caught:int}/{Chased:int}"/>
 		<entry key="InfoPanel_Staff_DutyRoster" translation="Gestione Percorso"/>
 		<entry key="InfoPanel_Staff_DutyRosterManager" translation="Gestore Percorso di Lavoro"/>
 		<entry key="InfoPanel_Staff_DutyRosterNotApplicable" translation="Non Applicabile"/>
 		<entry key="InfoPanel_Staff_DutyRoster_None" translation="Percorso Libero"/>
 		<entry key="InfoPanel_Staff_Employment" translation="Impiego"/>
-		<entry key="InfoPanel_Staff_Energy" translation="Energy"/>
+		<entry key="InfoPanel_Staff_Energy" translation="Energia"/>
 		<entry key="InfoPanel_Staff_Fire" translation="Licenzia [{#LogicalButton.StaffInfoPopUp_Fire#}]"/>
 		<entry key="InfoPanel_Staff_FocusCam" translation="Centra Visuale"/>
 		<entry key="InfoPanel_Staff_Happiness" translation="Felicità Staff"/>
@@ -15283,8 +15283,8 @@
 		<entry key="InfoPanel_Staff_LevelUpBonus2" translation="Felicità Incrementata"/>
 		<entry key="InfoPanel_Staff_LevelUpBonus3" translation="Maggiore aspettativa di stipendio"/>
 		<entry key="InfoPanel_Staff_NextLevel" translation="Livello Successivo"/>
-		<entry key="InfoPanel_Staff_NextLevelTooltip" translation="This staff member is ready to be trained!"/>
-		<entry key="InfoPanel_Staff_NextLevelTooltipWithEnergy" translation="This staff member is ready to be trained. If selected, their training will take place when they next visit a staff building."/>
+		<entry key="InfoPanel_Staff_NextLevelTooltip" translation="Questo membro dello staff è pronto per essere addestrato!"/>
+		<entry key="InfoPanel_Staff_NextLevelTooltipWithEnergy" translation="Questo membro dello staff è pronto per essere addestrato. Se selezionato, il suo addestramento avrà luogo alla prossima visità all'Edificio Staff."/>
 		<entry key="InfoPanel_Staff_Overview" translation="Anteprima"/>
 		<entry key="InfoPanel_Staff_RecentThoughts" translation="Pensieri Recenti"/>
 		<entry key="InfoPanel_Staff_Rehire_ButtonLabel" translation="Riassumi Staff ({cost:currency})"/>
@@ -15294,29 +15294,28 @@
 		<entry key="InfoPanel_Staff_RideCam" translation="Visuale Staff"/>
 		<entry key="InfoPanel_Staff_Salary" translation="Stipendio"/>
 		<entry key="InfoPanel_Staff_ScheduledLevelUp" translation="Formazione già programmata"/>
-		<entry key="InfoPanel_Staff_ScheduledLevelUpTooltip" translation="This staff member has already been scheduled to be trained and will do so the next time they rest in a staff building"/>
-		<entry key="InfoPanel_Staff_SprintingEnergy" translation="Sprinting Energy"/>
-		<entry key="InfoPanel_Staff_StaffBuildingFocusCam" translation="Staff Building Focus Camera"/>
-		<entry key="InfoPanel_Staff_StaffBuildingNotFound" translation="No staff building found"/>
-		<entry key="InfoPanel_Staff_StaffBuildingPerk" translation="Staff Building Perk"/>
+		<entry key="InfoPanel_Staff_ScheduledLevelUpTooltip" translation="Questo membro dello staff è stato già programmato per l'addestramento e lo farà la prossima volta che si riposerà nell'edificio staff"/>
+		<entry key="InfoPanel_Staff_SprintingEnergy" translation="Energia Scattante"/>
+		<entry key="InfoPanel_Staff_StaffBuildingFocusCam" translation="Centra Camera edificio Staff"/>
+		<entry key="InfoPanel_Staff_StaffBuildingNotFound" translation="Non è stato trovato nessun edificio staff"/>
+		<entry key="InfoPanel_Staff_StaffBuildingPerk" translation="Caratteristiche Edificio Staff"/>
 		<entry key="InfoPanel_Staff_StaffStatus" translation="Stato {StaffType}"/>
 		<entry key="InfoPanel_Staff_StaffType" translation="Titolo di Lavoro"/>
-		<entry key="InfoPanel_Staff_Stat_StaffBuilding_Assigned_Distance" translation="Nearest assigned staff building"/>
-		<entry key="InfoPanel_Staff_Stat_StaffBuilding_Distance" translation="Nearest staff building"/>
-		<entry key="InfoPanel_Staff_Stat_TimeOnDuty" translation="Time spent on duty"/>
-		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth" translation="Time spent on duty last month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth_Tooptip" translation="Percentage of time spent on duty last month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentage of time spent on duty this month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeResting" translation="Time spent resting"/>
-		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth" translation="Time spent resting last month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth_Tooptip" translation="Percentage of time spent resting last month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeResting_Tooptip" translation="Percentage of time spent resting this month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling" translation="Time spent travelling to building"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth" translation="Time spent travelling last month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth_Tooptip" translation="Percentage of time spent travelling last month"/>
-		<entry key="InfoPanel_Staff_Stat_TimeTravelling_Tooptip" translation="Percentage of time spent travelling this month"/>
-		<entry key="InfoPanel_Staff_Statistics" translation="Staff Statistics"/>
-		<entry key="InfoPanel_Staff_Stats_NearestStaffBuilding" translation="Distance to the nearest staff building"/>
+		<entry key="InfoPanel_Staff_Stat_StaffBuilding_Assigned_Distance" translation="Edificio staff assegnato più vicino"/>
+		<entry key="InfoPanel_Staff_Stat_StaffBuilding_Distance" translation="Edificio Staff più vicino"/>
+		<entry key="InfoPanel_Staff_Stat_TimeOnDuty" translation="Tempo in servizio"/>
+		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth" translation="Tempo in servizio il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentuale di tempo in servizio il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeResting" translation="Tempo passato riposando"/>
+		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth" translation="Tempo passato riposando il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth_Tooptip" translation="Percentuale di tempo passato riposando il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeResting_Tooptip" translation="Percentuale di tempo passato riposando questo mese"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling" translation="Tempo passato a camminare verso l'edificio"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth" translation="Tempo speso a camminare il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling_LastMonth_Tooptip" translation="Percentuale di tempo speso a camminare il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeTravelling_Tooptip" translation="Percentuale di tempo speso a camminare questo mese"/>
+		<entry key="InfoPanel_Staff_Statistics" translation="Statistiche Staff"/>
+		<entry key="InfoPanel_Staff_Stats_NearestStaffBuilding" translation="Distanza dal più vicino Edificio Staff"/>
 		<entry key="InfoPanel_Staff_Stats_NearestStaffBuilding_Invalid" translation=""/>
 		<entry key="InfoPanel_Staff_Stats_TimeDistribution" translation="Distribution of time spent this month"/>
 		<entry key="InfoPanel_Staff_Stats_TimeDistribution_LastMonth" translation="Distribution of time spent last month"/>
@@ -15338,46 +15337,46 @@
 		<entry key="InfoPanel_Staff_TrainingToLevel_4" translation="Addestra {cost:currency}"/>
 		<entry key="InfoPanel_Staff_TrainingToLevel_5" translation="Addestra {cost:currency}"/>
 		<entry key="InfoPanel_Staff_WorkLoad" translation="Carico di lavoro"/>
-		<entry key="InfoPanel_Staff_WorkTask_BenchCleaned" translation="Benches"/>
+		<entry key="InfoPanel_Staff_WorkTask_BenchCleaned" translation="Panchine"/>
 		<entry key="InfoPanel_Staff_WorkTask_BinEmptied" translation="Cestini"/>
-		<entry key="InfoPanel_Staff_WorkTask_CapturedGhostHaunting" translation="Capture ghosts haunting rides"/>
-		<entry key="InfoPanel_Staff_WorkTask_CapturedGhostRoaming" translation="Capture ghosts on paths"/>
+		<entry key="InfoPanel_Staff_WorkTask_CapturedGhostHaunting" translation="Cattura fantasmi nelle attrazioni infestate"/>
+		<entry key="InfoPanel_Staff_WorkTask_CapturedGhostRoaming" translation="Cattura fantasmi per i sentieri"/>
 		<entry key="InfoPanel_Staff_WorkTask_CaughtPickpocket" translation="Acciuffa Borseggiatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_ChasedPickpocket" translation="Ricerca Borseggiatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_ChasedVandal" translation="Caccia via vandali"/>
 		<entry key="InfoPanel_Staff_WorkTask_EjectGuestGroup" translation="Caccia via Gruppi di visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestEntertained" translation="Intrattiene i visitatori"/>
 		<entry key="InfoPanel_Staff_WorkTask_GuestServed" translation="Serve i visitatori"/>
-		<entry key="InfoPanel_Staff_WorkTask_HotelCleaned" translation="Clean Hotel Rooms"/>
+		<entry key="InfoPanel_Staff_WorkTask_HotelCleaned" translation="Pulisce le Camere di Hotel"/>
 		<entry key="InfoPanel_Staff_WorkTask_LitterCleared" translation="Rifiuti"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideInspected" translation="Ispezioni"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideRefurbished" translation="Ristrutturazioni"/>
 		<entry key="InfoPanel_Staff_WorkTask_RideRepaired" translation="Guasti"/>
-		<entry key="InfoPanel_Staff_WorkTask_ToiletCleaned" translation="Toilets Cleaned"/>
+		<entry key="InfoPanel_Staff_WorkTask_ToiletCleaned" translation="Bagni Puliti"/>
 		<entry key="InfoPanel_Staff_WorkTask_VandalismRepaired" translation="Vandalismi"/>
-		<entry key="InfoPanel_Staff_WorkTask_VendingMachineInspected" translation="Vending machines inspections"/>
-		<entry key="InfoPanel_Staff_WorkTask_VendingMachineRepaired" translation="Vending machines breakdowns"/>
+		<entry key="InfoPanel_Staff_WorkTask_VendingMachineInspected" translation="Ispezioni distributori automatici"/>
+		<entry key="InfoPanel_Staff_WorkTask_VendingMachineRepaired" translation="Guasti distributori automatici"/>
 		<entry key="InfoPanel_Staff_WorkTask_VomitCleared" translation="Vomito"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_BenchCleaned" translation="Benches cleared last month"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_BenchCleaned" translation="Panchine pulite il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_BinEmptied" translation="Cestini Svuotati"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_CapturedGhostHaunting" translation="Haunting ghosts captured last month"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_CapturedGhostRoaming" translation="Roaming ghosts captured last month"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_CapturedGhostHaunting" translation="Fantasmi infestanti catturati il mese scorso"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_CapturedGhostRoaming" translation="Fantasmi vaganti catturati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_CaughtPickpocket" translation="Borseggiatori acciuffati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_ChasedPickpocket" translation="Borseggiatori acciuffati/ricercati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_ChasedVandal" translation="Vandali cacciati via il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_EjectGuestGroup" translation="Gruppi di visitatori cacciati via il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_GuestEntertained" translation="Visitatori Intrattenuti"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_GuestServed" translation="Visitatori Serviti"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_HotelCleaned" translation="Hotel Rooms cleaned last month"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_HotelCleaned" translation="Camere di Hotel pulite il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_Level" translation="Livello Staff"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_LitterCleared" translation="Rifiuti Eliminati"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideInspected" translation="Ispezioni questo mese"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideRefurbished" translation="Ristrutturazioni questo mese"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_RideRepaired" translation="Guasti riparati questo mese"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_ToiletCleaned" translation="Toilets cleaned last month"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_ToiletCleaned" translation="Bagni puliti il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_VandalismRepaired" translation="Oggetti vandalizzati riparati il mese scorso"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_VendingMachineInspected" translation="Vending machine inspections last month"/>
-		<entry key="InfoPanel_Staff_WorkType_Stat_VendingMachineRepaired" translation="Vending machine breakdowns fixed last month"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_VendingMachineInspected" translation="Distributori automatici ispezionati il mese scorso"/>
+		<entry key="InfoPanel_Staff_WorkType_Stat_VendingMachineRepaired" translation="Guasti ai distributori automatici riparati il mese scorso"/>
 		<entry key="InfoPanel_Staff_WorkType_Stat_VomitCleared" translation="Vomito pulito"/>
 		<entry key="InfoPanel_Staff_WorkType_Stats" translation="Operazioni Mensili"/>
 		<!--InfoPanel_Track-->
@@ -28785,7 +28784,7 @@
 		<entry key="TrackElementDesc_Brakes" translation="Rallentano i treni."/>
 		<entry key="TrackElementDesc_CableLift" translation="Descrizione Parte Centrale Salita trainante a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftEnd" translation="Descrizione Fine Salita trainante a Cavo"/>
-		<entry key="TrackElementDesc_CableLiftEndCurved" translation="Termina una Salita trainante a Cavo che curva in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementDesc_CableLiftEndCurved" translation="Termina una Salita trainante a Cavo che curva in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EPN finale dell'attrazione."/>
 		<entry key="TrackElementDesc_CableLiftMid" translation="Descrizione Parte Centrale Salita a Cavo"/>
 		<entry key="TrackElementDesc_CableLiftStart" translation="Descrizione Partenza Salita a Cavo"/>
 		<entry key="TrackElementDesc_ChainLift" translation="Tira i treni lungo un pendio."/>
@@ -29228,7 +29227,7 @@
 		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Freni a Frizione&lt;/font&gt;\nRallentano i treni."/>
 		<entry key="TrackElementTool_CableLift" translation="Parte Centrale Salita trainante a Cavo"/>
 		<entry key="TrackElementTool_CableLiftEnd" translation="Fine Salita trainante a Cavo"/>
-		<entry key="TrackElementTool_CableLiftEndCurved" translation="&lt;font color='accent'&gt;Fine Salita trainante a Cavo Curva&lt;/font&gt;&#10;Termina una Salita trainante a Cavo curvata in giù.&#10;&#10;I valori EFN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
+		<entry key="TrackElementTool_CableLiftEndCurved" translation="&lt;font color='accent'&gt;Fine Salita trainante a Cavo Curva&lt;/font&gt;&#10;Termina una Salita trainante a Cavo curvata in giù.&#10;&#10;I valori EPN rilevati durante un trascinamento con cavo non contribuiscono al giudizio EFN finale dell'attrazione."/>
 		<entry key="TrackElementTool_CableLiftMid" translation="Parte Centrale Salita trainante a Cavo"/>
 		<entry key="TrackElementTool_CableLiftStart" translation="Inizio Salita trainante a Cavo"/>
 		<entry key="TrackElementTool_ChainLift" translation="&lt;font color='accent'&gt;Salita trainante a Catena&lt;/font&gt;\nTira i treni lungo un pendio."/>
