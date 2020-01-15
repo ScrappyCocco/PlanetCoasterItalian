@@ -1,6 +1,6 @@
 ![Logo](logo.png)
 # Planet Coaster - Traduzione Italiana
-Traduzione Italiana per Planet Coaster - [Sito Web](http://traduzioneplanetcoaster.it) - [Domande Frequenti](https://traduzioneplanetcoaster.altervista.org/italiano/faq/) - [News](http://news.traduzioneplanetcoaster.it) - [![Build Status](https://travis-ci.org/ScrappyCocco/PlanetCoasterItalian.svg?branch=master)](https://travis-ci.org/ScrappyCocco/PlanetCoasterItalian)
+Traduzione Italiana per Planet Coaster - [Sito Web](https://traduzioneplanetcoaster.altervista.org/) - [Domande Frequenti](https://traduzioneplanetcoaster.altervista.org/italiano/faq/) - [News](https://traduzioneplanetcoaster.altervista.org/news/) - [![Build Status](https://travis-ci.org/ScrappyCocco/PlanetCoasterItalian.svg?branch=master)](https://travis-ci.org/ScrappyCocco/PlanetCoasterItalian)
 
 ## Istruzioni per l'installazione
 
