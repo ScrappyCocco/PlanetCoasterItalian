@@ -26845,25 +26845,25 @@
 		<entry key="Mascot_PrincessAmelie" translation="Principessa Amelie"/>
 		<entry key="Mascot_PrincessAmelie_Desc" translation="Una vera eroina"/>
 		<entry key="Mascot_ReneeFeu" translation="Reneé Feu"/>
-		<entry key="Mascot_ReneeFeu_Desc" translation="Never fear the spirit of adventure!"/>
-		<entry key="Mascot_StayPuft" translation="Stay Puft Marshmallow Man"/>
-		<entry key="Mascot_StayPuft_Desc" translation="The choice is made! The Traveller has come!"/>
+		<entry key="Mascot_ReneeFeu_Desc" translation="Non aver paura dello spirito d'avventura!"/>
+		<entry key="Mascot_StayPuft" translation="Omino Marshmallow Stay Puft"/>
+		<entry key="Mascot_StayPuft_Desc" translation="La scelta è fatta! Il Viaggiatore è venuto!"/>
 		<entry key="Mascot_TikiChicken" translation="Tiki"/>
 		<entry key="Mascot_TikiChicken_Desc" translation="Il dio del calore e delle spezie!"/>
-		<entry key="Staff_All" translation="Staff Member"/>
+		<entry key="Staff_All" translation="Membro Staff"/>
 		<entry key="Staff_All_Plural" translation="Staff"/>
 		<entry key="Staff_Entertainer" translation="Intrattenitore"/>
 		<entry key="Staff_Entertainer_Plural" translation="Intrattenitori"/>
-		<entry key="Staff_Ghost" translation="Ghost"/>
+		<entry key="Staff_Ghost" translation="Fantasma"/>
 		<entry key="Staff_GhostSlimer" translation="Slimer"/>
 		<entry key="Staff_Ghostbuster" translation="Ghostbuster"/>
 		<entry key="Staff_GhostbusterName_0" translation="Ray Stantz"/>
 		<entry key="Staff_GhostbusterName_1" translation="Peter Venkman"/>
 		<entry key="Staff_GhostbusterName_2" translation="Egon Spengler"/>
 		<entry key="Staff_GhostbusterName_3" translation="Winston Zeddemore"/>
-		<entry key="Staff_Ghostbuster_CannotHireMore_Desc" translation="Busts ghosts and stores them in Ecto-Containment Units&#10;&lt;font color='#c12d2d'&gt;There are currently no Ghostbusters available for you to place.&lt;/font&gt;"/>
-		<entry key="Staff_Ghostbuster_Desc" translation="Busts ghosts and stores them in Ecto-Containment Units"/>
-		<entry key="Staff_Ghostbuster_PlacedAllAvailable_Desc" translation="Busts ghosts and stores them in Ecto-Containment Units&#10;&lt;font color='#c12d2d'&gt;All available Ghostbusters are already in your park!&lt;/font&gt;"/>
+		<entry key="Staff_Ghostbuster_CannotHireMore_Desc" translation="Acchiappa i fantasmi e li intrappola nelle unità di contenimento&#10;&lt;font color='#c12d2d'&gt;Al momento non ci sono Ghostbusters disponibili da posizionare.&lt;/font&gt;"/>
+		<entry key="Staff_Ghostbuster_Desc" translation="Acchiappa i fantasmi e li intrappola nelle unità di contenimento"/>
+		<entry key="Staff_Ghostbuster_PlacedAllAvailable_Desc" translation="Acchiappa i fantasmi e li intrappola nelle unità di contenimento&#10;&lt;font color='#c12d2d'&gt;Tutti i Ghostbusters disponibili sono già nel tuo parco!&lt;/font&gt;"/>
 		<entry key="Staff_Ghostbuster_Plural" translation="Ghostbusters"/>
 		<entry key="Staff_Janitor" translation="Spazzino"/>
 		<entry key="Staff_Janitor_Desc" translation="Mantiene immacolato il tuo parco"/>
@@ -26874,14 +26874,14 @@
 		<entry key="Staff_Security" translation="Guardia di Sicurezza"/>
 		<entry key="Staff_Security_Desc" translation="Prende i criminali e previene crimini in un raggio di 15m"/>
 		<entry key="Staff_Security_Plural" translation="Guardie di Sicurezza"/>
-		<entry key="Staff_Status_AtEctoContainmentUnit" translation="Storing ghost at Ecto Containment Unit"/>
-		<entry key="Staff_Status_AtGozerTemple" translation="Confronting Gozer at the Temple"/>
-		<entry key="Staff_Status_Bench" translation="Cleaning picnic bench"/>
+		<entry key="Staff_Status_AtEctoContainmentUnit" translation="Intrappola il fantasma nell'unità di contenimento"/>
+		<entry key="Staff_Status_AtGozerTemple" translation="Affronta Gozer al Tempio"/>
+		<entry key="Staff_Status_Bench" translation="Pulisce il tavolo da picnic"/>
 		<entry key="Staff_Status_Bin" translation="Svuota il Cestino"/>
 		<entry key="Staff_Status_CaptureGhostHaunting" translation="Capturing ghost haunting {station}"/>
 		<entry key="Staff_Status_CaptureGhostRoaming" translation="Capturing ghost on path"/>
 		<entry key="Staff_Status_Chasing" translation="Acciuffa un furfante"/>
-		<entry key="Staff_Status_CleanFacility" translation="Cleaning {facility}"/>
+		<entry key="Staff_Status_CleanFacility" translation="Pulisce {facility}"/>
 		<entry key="Staff_Status_Entertain_0" translation="Intrattiene 0 visitatori"/>
 		<entry key="Staff_Status_Entertain_1" translation="Intrattiene 1 visitatore"/>
 		<entry key="Staff_Status_Entertain_N" translation="Intrattiene {count:int} visitatori"/>
@@ -26890,29 +26890,29 @@
 		<entry key="Staff_Status_Inspection" translation="Ispeziona {Stazione}"/>
 		<entry key="Staff_Status_Litter" translation="Raccoglie i rifiuti"/>
 		<entry key="Staff_Status_Lost" translation="Si è perso"/>
-		<entry key="Staff_Status_Nav_Bench" translation="Going to picnic bench"/>
-		<entry key="Staff_Status_Nav_Bin" translation="Si reca al cestino"/>
-		<entry key="Staff_Status_Nav_CleanFacility" translation="Heading to {facility}"/>
-		<entry key="Staff_Status_Nav_CleanFacilityNoName" translation="Heading to Facility"/>
-		<entry key="Staff_Status_Nav_EctoContainmentUnit" translation="Heading to {facility}"/>
-		<entry key="Staff_Status_Nav_GozerTemple" translation="Heading to {facility}"/>
+		<entry key="Staff_Status_Nav_Bench" translation="Va verso il tavolo da picnic"/>
+		<entry key="Staff_Status_Nav_Bin" translation="Va verso il cestino"/>
+		<entry key="Staff_Status_Nav_CleanFacility" translation="Va verso {facility}"/>
+		<entry key="Staff_Status_Nav_CleanFacilityNoName" translation="Va verso la struttura"/>
+		<entry key="Staff_Status_Nav_EctoContainmentUnit" translation="Va verso {facility}"/>
+		<entry key="Staff_Status_Nav_GozerTemple" translation="Va verso {facility}"/>
 		<entry key="Staff_Status_Nav_Litter" translation="Va a raccogliere i rifiuti"/>
 		<entry key="Staff_Status_Nav_Vomit" translation="Va a pulire il vomito"/>
-		<entry key="Staff_Status_Nav_WorkFacility" translation="Heading to shop"/>
-		<entry key="Staff_Status_OnStrike" translation="On Strike"/>
+		<entry key="Staff_Status_Nav_WorkFacility" translation="Va verso il negozio"/>
+		<entry key="Staff_Status_OnStrike" translation="In sciopero"/>
 		<entry key="Staff_Status_Quit" translation="Abbandona il parco"/>
 		<entry key="Staff_Status_Refurbishment" translation="Effettua la manutenzione - {Stazione}"/>
 		<entry key="Staff_Status_Repair" translation="Ripara un guasto presso {Stazione}"/>
 		<entry key="Staff_Status_RepairingVandalism" translation="Ripara un oggetto vandalizzato"/>
 		<entry key="Staff_Status_ReportCrime" translation="Fa rapporto"/>
-		<entry key="Staff_Status_Suspended" translation="Girovagando"/>
+		<entry key="Staff_Status_Suspended" translation="Girovaga"/>
 		<entry key="Staff_Status_Vending" translation="Serve i clienti"/>
 		<entry key="Staff_Status_Vomit" translation="Pulisce il vomito"/>
-		<entry key="Staff_Status_WaitingForEctoContainmentUnit" translation="Waiting for an Ecto Containment Unit"/>
-		<entry key="Staff_Status_WaitingToWorkAtFacility" translation="Waiting to enter shop"/>
+		<entry key="Staff_Status_WaitingForEctoContainmentUnit" translation="Aspetta l'unità di contenimento fantasmi"/>
+		<entry key="Staff_Status_WaitingToWorkAtFacility" translation="Aspetta di entrare nel negozio"/>
 		<entry key="Staff_Status_Wander" translation="Sta vagando"/>
-		<entry key="Staff_StayPuft" translation="Stay Puft Entertainer"/>
-		<entry key="Staff_StayPuft_Plural" translation="Stay Pufts"/>
+		<entry key="Staff_StayPuft" translation="Intrattenitore Omino Marshmallow"/>
+		<entry key="Staff_StayPuft_Plural" translation="Omini Marshmallow"/>
 		<entry key="Staff_Tooltip" translation="{TITLE}\n{DESCRIPTION}"/>
 		<entry key="Staff_Vendor" translation="Venditore"/>
 		<entry key="Staff_Vendor_Plural" translation="Venditori"/>
@@ -27283,9 +27283,9 @@
 		<entry key="Terrain_Edit_ToolTip_WaterRough" translation="Acqua agitata"/>
 		<entry key="Terrain_Edit_ToolTip_WaterSwamp" translation="Acqua stagnante"/>
 		<!--Thoughts-->
-		<entry key="Guest_Thought_AffectedByAdvert_Common_01" translation="I guess we'll try out {reference} then"/>
-		<entry key="Guest_Thought_AffectedByAdvert_Common_02" translation="The advert makes me want to try {reference}"/>
-		<entry key="Guest_Thought_AffirmedByAdvert_Common_01" translation="I was already going to {reference} but that advert makes me more excited"/>
+		<entry key="Guest_Thought_AffectedByAdvert_Common_01" translation="Credo proveremo {reference} quindi"/>
+		<entry key="Guest_Thought_AffectedByAdvert_Common_02" translation="La pubblicità mi spinge a provare {reference}"/>
+		<entry key="Guest_Thought_AffirmedByAdvert_Common_01" translation="Stavo già andando da {reference} ma quella pubblicità mi rende ancora più eccitato"/>
 		<entry key="Guest_Thought_ArrivedInPark_Adult_01" translation="Sono così eccitato!"/>
 		<entry key="Guest_Thought_ArrivedInPark_Adult_02" translation="Sarà meglio che questo parco valga l'alzataccia di questa mattina..."/>
 		<entry key="Guest_Thought_ArrivedInPark_Adult_03" translation="Spero che ci sia qualche attrazione che faccia al caso mio"/>
@@ -27723,7 +27723,7 @@
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Teen_02" translation="Spero che il giro che farò su {reference} mi faccia dimenticare questa coda!"/>
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Teen_03" translation="E il premio per la coda meno bella da vedere va a {reference}"/>
 		<entry key="Guest_Thought_Fluff_BadRideTheming_Adult_01" translation="{reference} non ha molta scenografia"/>
-		<entry key="Guest_Thought_Fluff_BadRideTheming_Adult_02" translation="non c'è quasi nessuna scenografia su {reference}!"/>
+		<entry key="Guest_Thought_Fluff_BadRideTheming_Adult_02" translation="Non c'è quasi nessuna scenografia su {reference}!"/>
 		<entry key="Guest_Thought_Fluff_BadRideTheming_Adult_03" translation="{reference} ha una scenografia che è un immondizia"/>
 		<entry key="Guest_Thought_Fluff_BadRideTheming_Adult_04" translation="Non c'è molto da vedere su {reference}"/>
 		<entry key="Guest_Thought_Fluff_BadRideTheming_Child_01" translation="Mi piacerebbe che la scenografia di {reference} fosse migliore"/>
@@ -27739,11 +27739,11 @@
 		<entry key="Guest_Thought_Fluff_BadShopTheming_Child_01" translation="Non c'è molto da vedere qui - {reference}"/>
 		<entry key="Guest_Thought_Fluff_BadShopTheming_Child_02" translation="{reference} sembra noiosa, avrebbe bisogno di più scenografia"/>
 		<entry key="Guest_Thought_Fluff_BadShopTheming_Child_03" translation="{reference} dnon ha molta scenografia attorno"/>
-		<entry key="Guest_Thought_Fluff_BadShopTheming_Common_01" translation="{reference} sembra un po blanda"/>
+		<entry key="Guest_Thought_Fluff_BadShopTheming_Common_01" translation="{reference} sembra un po scarsa"/>
 		<entry key="Guest_Thought_Fluff_BadShopTheming_Teen_01" translation="{reference} ha una scenografia molto noiosa"/>
 		<entry key="Guest_Thought_Fluff_BadShopTheming_Teen_02" translation="Non mi piace come {reference} è stato inserito in quest'area"/>
 		<entry key="Guest_Thought_Fluff_BadShopTheming_Teen_03" translation="Non mi piace che {reference} sia così spoglio"/>
-		<entry key="Guest_Thought_Fluff_BadTheming_Adult_01" translation="Quest'area è un po blanda"/>
+		<entry key="Guest_Thought_Fluff_BadTheming_Adult_01" translation="Quest'area è un po scarsa"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Adult_02" translation="Non ci hanno messo molto impegno in questo punto"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Adult_03" translation="Che vista terribile!"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Adult_04" translation="Sembra orribile"/>
@@ -27751,7 +27751,7 @@
 		<entry key="Guest_Thought_Fluff_BadTheming_Child_02" translation="Questo punto sembra noioso"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Child_03" translation="Quanto vorrei che questo posto fosse bello"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Child_04" translation="Ma che schifezza!"/>
-		<entry key="Guest_Thought_Fluff_BadTheming_Common_01" translation="Non c'è mola scenografia qui attorno..."/>
+		<entry key="Guest_Thought_Fluff_BadTheming_Common_01" translation="Non c'è molta scenografia qui attorno..."/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Teen_01" translation="Questo posto sembra noioso"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Teen_02" translation="Non mi piace l'aspetto di quest'area"/>
 		<entry key="Guest_Thought_Fluff_BadTheming_Teen_03" translation="Dovrebbero arricchire lo scenario..."/>
@@ -27972,9 +27972,9 @@
 		<entry key="Guest_Thought_Hotel_Standard_PriceCheap_Common_01" translation="Standard Rooms at {reference} are so cheap!"/>
 		<entry key="Guest_Thought_Hotel_Standard_PriceExpensive_Common_01" translation="Standard Rooms at {reference} are too expensive!"/>
 		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_01" translation="What?! It's free to stay in a Standard Room at {reference}?!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_02" translation="I can't believe the Standard Rooms at {reference} are free!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriceReasonable_Common_01" translation="Standard Rooms at {reference} are well priced"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_01" translation="I am glad I got the Priority Pass now!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_02" translation="Non posso credere che le camere standard da {reference} sono gratis!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceReasonable_Common_01" translation="Le camere standard da {reference} hanno un ottimo prezzo"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_01" translation="Sono felice di avere il Pass prioritario ora!"/>
 		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_02" translation="The Standard Rooms at {reference} must be special if I need my Priority Pass"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_01" translation="Sono affamato dopo {reference}"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_02" translation="{reference} mi rende affamato"/>
@@ -28001,7 +28001,7 @@
 		<entry key="Guest_Thought_InQueue_Breakdown_Adult_01" translation="Odio quando tirano giù le attrazioni! - {reference}"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Adult_02" translation="Forse ritornerò a {reference} quando sarà di nuovo aggiustato"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Adult_03" translation="Spero che i manutentori non ci mettano troppo ad aggiustare {reference}"/>
-		<entry key="Guest_Thought_InQueue_Breakdown_Child_01" translation="Aw! {reference} rotto!"/>
+		<entry key="Guest_Thought_InQueue_Breakdown_Child_01" translation="Aw! {reference} è rotto!"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Child_02" translation="Non vale! Ero sul punto di salire su {reference}"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Child_03" translation="Rotto? Ho sprecato tutto il tempo a fare la fila per {reference}!"/>
 		<entry key="Guest_Thought_InQueue_Breakdown_Common_01" translation="Oh no! {reference} è rotto!"/>
@@ -28018,9 +28018,9 @@
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Teen_01" translation="{reference} meglio che non si rompi mentre sto facendo la fila"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Teen_02" translation="Davvero non voglio che {reference} si rompa"/>
 		<entry key="Guest_Thought_InQueue_DownTime_Bad_Teen_03" translation="Se {reference} si rompe, diventerò pazzo!"/>
-		<entry key="Guest_Thought_InQueue_Haunted_Common_01" translation="Oh no! {reference} is haunted!"/>
-		<entry key="Guest_Thought_InQueue_Haunted_Common_02" translation="Aaah! There's a ghost around {reference}!"/>
-		<entry key="Guest_Thought_InQueue_Haunted_Common_03" translation="I will look elsewhere. {reference} is rumoured to be haunted."/>
+		<entry key="Guest_Thought_InQueue_Haunted_Common_01" translation="Oh no! {reference} è infestato!"/>
+		<entry key="Guest_Thought_InQueue_Haunted_Common_02" translation="Aaah! C'è un fantasma attorno a {reference}!"/>
+		<entry key="Guest_Thought_InQueue_Haunted_Common_03" translation="Guarderò altrove. {reference} dicono sia infestato."/>
 		<entry key="Guest_Thought_InQueue_Wear_Bad_Adult_01" translation="Spero che {reference} sia più sicuro di quanto non sembri"/>
 		<entry key="Guest_Thought_InQueue_Wear_Bad_Child_01" translation="{reference} non trasmette tutta questa sicurezza..."/>
 		<entry key="Guest_Thought_InQueue_Wear_Bad_Common_01" translation="{reference} sembra maltenuto"/>
@@ -28069,7 +28069,7 @@
 		<entry key="Guest_Thought_NauseaSatisfied_Natural_Child_01" translation="La mia pancia va meglio"/>
 		<entry key="Guest_Thought_NauseaSatisfied_Natural_Common_01" translation="Non mi sento tanto male ora"/>
 		<entry key="Guest_Thought_NauseaSatisfied_Natural_Teen_01" translation="Non mi sento più male"/>
-		<entry key="Guest_Thought_NoATM_Common_01" translation="Sono sopreso che non ci siano bancomat nel parco"/>
+		<entry key="Guest_Thought_NoATM_Common_01" translation="Sono sorpreso che non ci siano bancomat nel parco"/>
 		<entry key="Guest_Thought_NoATM_Common_02" translation="Oh. Non c'è un bancomat in tutto il parco"/>
 		<entry key="Guest_Thought_NoBenches_Common_01" translation="Come vorrei un posticino dove sedermi"/>
 		<entry key="Guest_Thought_NoBenches_Common_02" translation="Non c'è nessuna panchina in giro?"/>
@@ -28134,11 +28134,11 @@
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_01" translation="Oh cavolo, non ho abbastanza soldi per comprare i biglietti!"/>
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_02" translation="I biglietti sono... fuori dalla mia portata..."/>
 		<entry key="Guest_Thought_ParkEntry_Unaffordable_Teen_03" translation="Non posso permettermi di entrare nel parco!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_01" translation="Wait, this park really is haunted! I'm leaving!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_02" translation="G-G-G-Ghost!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_03" translation="Someone call the Ghostbusters!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_04" translation="EEEK! A Ghost!"/>
-		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_05" translation="I will not stay around here! This park is haunted!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_01" translation="Aspetta, Questo parco è davvero infestato! Me ne vado!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_02" translation="F-F-F-Fantasma!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_03" translation="Qualcuno chiami i Ghostbusters!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_04" translation="EEEK! Un Fantasma!"/>
+		<entry key="Guest_Thought_ParkExit_GuestEjectedByGhost_Common_05" translation="Non ci starò più un secondo! Questo parco è infestato!"/>
 		<entry key="Guest_Thought_ParkExit_GuestEjected_Common_01" translation="Non tornerò mai più in quel parco! Mi hanno espulso ma sono innocente! Diffonderò la notizia di questa ingiustizia!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_01" translation="Se non dovessi tornare a casa, starei qui per sempre!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_02" translation="Tutte le belle cose finiscono, anche questa giornata al parco divertimenti."/>
@@ -28210,72 +28210,72 @@
 		<entry key="Guest_Thought_Reference_Invalid_Guest" translation="qualcuno"/>
 		<entry key="Guest_Thought_Reference_Invalid_None" translation="qualcosa"/>
 		<entry key="Guest_Thought_Reference_Invalid_Ride" translation="questa attrazione"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Adult_01" translation="This should do. {reference} has more than enough choice."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Adult_02" translation="What should I get? There's so much choice at {reference}."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Adult_03" translation="I've always wanted to try the food at {reference}."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Child_01" translation="All this food looks yummy!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Child_02" translation="Does {reference} have any vegetables?"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Common_01" translation="Wow! {reference} has so many great options."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Common_02" translation="{reference} has all my favourite things to eat!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Teen_01" translation="Woah, check out the food at {reference}. It's got my favourite!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Teen_02" translation="No way! I didn't know they served that at {reference}!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Adult_01" translation="Wait, what am I suppose to eat? There's nothing I like here."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Adult_02" translation="What's the point if {reference} doesn't sell any interesting food."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Child_01" translation="I don't want this! {reference} doesn't have food I like!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Common_01" translation="There's nothing to choose from at {reference}."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Common_02" translation="Where's the food? {reference} has nothing on the menu."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Teen_01" translation="Why is the menu at {reference} so small? Isn't this suppose to be a restaurant?"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Adult_01" translation="I don't know what to get! {reference} has too many brands!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Child_01" translation="I can't eat that much food! I'm only little."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Common_01" translation="There's too much choice at {reference}. I can't decide!"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Common_02" translation="How am I suppose to choose when there's this much stuff?"/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Teen_01" translation="{reference} has sold out! There's too many brands."/>
-		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Teen_02" translation="{reference} has too much choice. I just want something simple."/>
-		<entry key="Guest_Thought_Restaurant_NoDessert_Adult_01" translation="That was a delicious meal. Wait, where's the dessert?"/>
-		<entry key="Guest_Thought_Restaurant_NoDessert_Adult_02" translation="Can I see the dessert menu? You don't have one!"/>
-		<entry key="Guest_Thought_Restaurant_NoDessert_Adult_03" translation="This meal is really missing something, maybe a dessert?"/>
-		<entry key="Guest_Thought_Restaurant_NoDessert_Child_01" translation="I want something yummy! {reference} doesn't have dessert!"/>
-		<entry key="Guest_Thought_Restaurant_NoDessert_Common_01" translation="{reference} doesn't have dessert!"/>
-		<entry key="Guest_Thought_Restaurant_NoDessert_Teen_01" translation="{reference} is dumb. They don't do dessert!"/>
-		<entry key="Guest_Thought_Restaurant_NoPerk_Common_01" translation="{reference} doesn't go the extra mile."/>
-		<entry key="Guest_Thought_Restaurant_NoPerk_Common_02" translation="I wish {reference} had a little more."/>
-		<entry key="Guest_Thought_Restaurant_NoTables_Adult_01" translation="What, {reference} is full."/>
-		<entry key="Guest_Thought_Restaurant_NoTables_Child_01" translation="It's not fair! I want to eat at {reference}."/>
-		<entry key="Guest_Thought_Restaurant_NoTables_Common_01" translation="There isn't enough tables at {reference}."/>
-		<entry key="Guest_Thought_Restaurant_NoTables_Common_02" translation="{reference} is full. Guess we can't eat here."/>
-		<entry key="Guest_Thought_Restaurant_NoTables_Teen_01" translation="Let's find somewhere else to eat. {reference} is too popular anyway."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Adult_Common_01" translation="{reference} is a great spot for grown ups."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Band_Common_01" translation="{reference} has a live band."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Band_Common_02" translation="{reference} has music while you eat."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Condiments_Child_01" translation="{reference} has free condiments. I want ketchup on everything!"/>
-		<entry key="Guest_Thought_Restaurant_Perk_Condiments_Common_01" translation="{reference} has free condiments!"/>
-		<entry key="Guest_Thought_Restaurant_Perk_Family_Common_01" translation="Finally, a family themed restaurant."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Teen_Common_01" translation="Cool, {reference} is perfect for teens."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Adult_01" translation="{reference} has internet access. Good, now I can check my emails."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Common_01" translation="{reference} has internet access."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Teen_01" translation="{reference} has internet access. Great, I can upload my photos from today."/>
-		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Teen_02" translation="{reference} has internet access. I have to update my feed."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_High_Adult_01" translation="{reference} must sell good food. Look at how many stars it has."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_High_Adult_02" translation="I have to eat at {reference}. It has great reviews."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_High_Child_01" translation="Can we eat at {reference}? All the other kids got to!"/>
-		<entry key="Guest_Thought_Restaurant_Prestige_High_Common_01" translation="{reference} is a fancy restaurant!"/>
-		<entry key="Guest_Thought_Restaurant_Prestige_High_Common_02" translation="Look! {reference} has loads of stars."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_High_Teen_01" translation="I've heard good thing about {reference} online."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_Low_Adult_01" translation="{reference} looks a bit bland. They don't have many stars."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_Low_Adult_02" translation="I can't eat here. {reference} has no stars."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_Low_Common_01" translation="{reference} isn't very prestigious."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_Low_Common_02" translation="{reference} doesn't have any stars."/>
-		<entry key="Guest_Thought_Restaurant_Prestige_Low_Teen_01" translation="I can't be seen at {reference}, it's so unpopular."/>
-		<entry key="Guest_Thought_Restaurant_Scenery_High_Common_01" translation="{reference} is well decorated"/>
-		<entry key="Guest_Thought_Restaurant_Scenery_High_Common_02" translation="{reference} looks really nice!"/>
-		<entry key="Guest_Thought_Restaurant_Scenery_High_Common_03" translation="{reference} is really well themed."/>
-		<entry key="Guest_Thought_Restaurant_Scenery_Low_Common_01" translation="{reference} is a bit bland"/>
-		<entry key="Guest_Thought_Restaurant_Scenery_Low_Common_02" translation="{reference} is just an empty box."/>
-		<entry key="Guest_Thought_Restaurant_Scenery_Low_Common_03" translation="I don't want to eat in {reference} if it isn't themed."/>
-		<entry key="Guest_Thought_Restaurant_TooManyTables_Adult_01" translation="{reference} doesn't have much of an atmosphere. There's nobody here!"/>
-		<entry key="Guest_Thought_Restaurant_TooManyTables_Common_01" translation="{reference} is practically deserted."/>
-		<entry key="Guest_Thought_Restaurant_TooManyTables_Common_02" translation="Where did everybody go? {reference} is completely empty."/>
-		<entry key="Guest_Thought_Restaurant_TooManyTables_Teen_01" translation="I thought {reference} was suppose to be cool, but it's empty."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Adult_01" translation="Dovrebbe andare. {reference} ha più di una scelta."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Adult_02" translation="Cosa dovrei prendere? Cìè così tanta scelta da {reference}."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Adult_03" translation="Ho sempre voluto provare il cibo da {reference}."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Child_01" translation="Tutto questo cibo sembra delizioso!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Child_02" translation="{reference} ha verdure?"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Common_01" translation="Wow! {reference} ha così tante opzioni."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Common_02" translation="{reference} ha tutti i miei cibi preferiti!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Teen_01" translation="Woah, guarda il cibo da {reference}. Ha il mio preferito!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyGood_Teen_02" translation="Neanche per sogno! Non sapevo lo servissero da {reference}!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Adult_01" translation="Aspetta, cosa dovrei mangiare? Non c'è nulla che mi piaccia qui."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Adult_02" translation="A cosa serve se {reference} non vende nessun alimento interessante."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Child_01" translation="Non lo voglio! {reference} non ha cibo che mi piace!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Common_01" translation="Non c'è nulla da scegliere da {reference}."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Common_02" translation="Dov'è il cibo? {reference} non ha nulla sul menù."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyNotEnough_Teen_01" translation="Perchè il menù da {reference} è così breve? Non dovrebbe essere un ristorante?"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Adult_01" translation="Non so cosa prendere! {reference} ha troppa scelta!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Child_01" translation="Non posso mangiare così tanto cibo! Sono piccolino."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Common_01" translation="C'è così tanta scelta da {reference}. Non so decidere!"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Common_02" translation="Come faccio a decidere con così tanta roba?"/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Teen_01" translation="{reference} ha venduto tutto! C'è troppa scelta."/>
+		<entry key="Guest_Thought_Restaurant_FoodVarietyTooMuch_Teen_02" translation="{reference} ha troppa scelta. Voglio qualcosa di semplice."/>
+		<entry key="Guest_Thought_Restaurant_NoDessert_Adult_01" translation="Che pasto delizioso. Aspetta, dov'è il dessert?"/>
+		<entry key="Guest_Thought_Restaurant_NoDessert_Adult_02" translation="Posso vedere il menù dei dessert? Non lo avete!"/>
+		<entry key="Guest_Thought_Restaurant_NoDessert_Adult_03" translation="A questo pasto manca qualcosa, forse un dessert?"/>
+		<entry key="Guest_Thought_Restaurant_NoDessert_Child_01" translation="Voglio qualcosa di delizioso! {reference} non ha i dessert!"/>
+		<entry key="Guest_Thought_Restaurant_NoDessert_Common_01" translation="{reference} non ha i dessert!"/>
+		<entry key="Guest_Thought_Restaurant_NoDessert_Teen_01" translation="{reference} è assurdo. Non hanno dessert!"/>
+		<entry key="Guest_Thought_Restaurant_NoPerk_Common_01" translation="{reference} non ne vale la pena."/>
+		<entry key="Guest_Thought_Restaurant_NoPerk_Common_02" translation="Vorrei che {reference} ne avesse di più."/>
+		<entry key="Guest_Thought_Restaurant_NoTables_Adult_01" translation="Cosa? {reference} è pieno."/>
+		<entry key="Guest_Thought_Restaurant_NoTables_Child_01" translation="Non è giusto! Voglio mangiare da {reference}."/>
+		<entry key="Guest_Thought_Restaurant_NoTables_Common_01" translation="Non ci sono abbastanza tavoli da {reference}."/>
+		<entry key="Guest_Thought_Restaurant_NoTables_Common_02" translation="{reference} è pieno. Scommetto che non possiamo mangiare qui."/>
+		<entry key="Guest_Thought_Restaurant_NoTables_Teen_01" translation="Cerchiamo qualcos'altro da mangiare. {reference} è troppo popolare."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Adult_Common_01" translation="{reference} è un bel posto per gli adulti."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Band_Common_01" translation="{reference} ha una band live."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Band_Common_02" translation="{reference} ha la musica mentre mangi."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Condiments_Child_01" translation="{reference} ha condimenti gratuiti. Voglio ketchup su tutto!"/>
+		<entry key="Guest_Thought_Restaurant_Perk_Condiments_Common_01" translation="{reference} ha condimenti gratuiti"/>
+		<entry key="Guest_Thought_Restaurant_Perk_Family_Common_01" translation="Finalmente, un ristorante per le famiglie."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Teen_Common_01" translation="Fico, {reference} è perfetto per i giovani."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Adult_01" translation="{reference} ha accesso a internet. Bene, posso controllare le mie emails."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Common_01" translation="{reference} ha accesso a internet."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Teen_01" translation="{reference} ha accesso a internet. Grande, posso spedire le mie foto da oggi."/>
+		<entry key="Guest_Thought_Restaurant_Perk_Wifi_Teen_02" translation="{reference} ha accesso a internet. Devo aggiornare la mia pagina."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_High_Adult_01" translation="{reference}deve vendere buon cibo. Guarda quante stelle ha."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_High_Adult_02" translation="Devo mangiare da {reference}. Ha ottime recensioni."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_High_Child_01" translation="Possiamo mangiare da {reference}? Tutti i bambini ci vanno!"/>
+		<entry key="Guest_Thought_Restaurant_Prestige_High_Common_01" translation="{reference} è un ristorante alla moda!"/>
+		<entry key="Guest_Thought_Restaurant_Prestige_High_Common_02" translation="Guarda! {reference} ha un sacco di stelle."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_High_Teen_01" translation="Ho sentito buone cose su {reference} online."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_Low_Adult_01" translation="{reference} è un pò scarso. Non hanno molte stelle."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_Low_Adult_02" translation="Non posso mangiare qui. {reference} non ha stelle."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_Low_Common_01" translation="{reference} non è molto prestigioso."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_Low_Common_02" translation="{reference} non ha stelle."/>
+		<entry key="Guest_Thought_Restaurant_Prestige_Low_Teen_01" translation="Non posso farmi vedere da {reference}, è così impopolare."/>
+		<entry key="Guest_Thought_Restaurant_Scenery_High_Common_01" translation="{reference} è decorato bene"/>
+		<entry key="Guest_Thought_Restaurant_Scenery_High_Common_02" translation="{reference} è molto bello!"/>
+		<entry key="Guest_Thought_Restaurant_Scenery_High_Common_03" translation="{reference} ha un bel tema."/>
+		<entry key="Guest_Thought_Restaurant_Scenery_Low_Common_01" translation="{reference} è un po scarso"/>
+		<entry key="Guest_Thought_Restaurant_Scenery_Low_Common_02" translation="{reference} è solo una scatola vuota."/>
+		<entry key="Guest_Thought_Restaurant_Scenery_Low_Common_03" translation="Non voglio mangiare da {reference} se non ha un tema."/>
+		<entry key="Guest_Thought_Restaurant_TooManyTables_Adult_01" translation="{reference} non ha molta atmosfera. Non c'è nessuno!"/>
+		<entry key="Guest_Thought_Restaurant_TooManyTables_Common_01" translation="{reference} è praticamente deserto."/>
+		<entry key="Guest_Thought_Restaurant_TooManyTables_Common_02" translation="Dove sono andati tutti? {reference} è completamente vuoto."/>
+		<entry key="Guest_Thought_Restaurant_TooManyTables_Teen_01" translation="Pensavo che {reference} fosse fico, ma è vuoto."/>
 		<entry key="Guest_Thought_Security_BeenPickpocketed_Common_01" translation="Sono stato derubato!"/>
 		<entry key="Guest_Thought_Security_BeenPickpocketed_Common_02" translation="Qualcuno mi ha derubato!"/>
 		<entry key="Guest_Thought_Security_BeenPickpocketed_Common_03" translation="Sono stato borseggiato!"/>
@@ -29868,9 +29868,9 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_Tortured_Scream" translation="Urlo di Tortura"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_TrainBell_1" translation="Train Bell 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_TrainBell_2" translation="Train Bell 2"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_Car_Drive" translation="Vintage Car driving away"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_Car_Horn" translation="Vintage Car Horn"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_Car_Start" translation="Vintage Car Starting"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_Car_Drive" translation="MAcchina Vintage che si allontana"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_Car_Horn" translation="Clacson Macchina Vintage"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_Car_Start" translation="Macchina Vintage che parte"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_FireEngineSiren" translation="Hang Cranked Fire Engine Siren"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_FogHorn1" translation="Foghorn 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_FogHorn2" translation="Foghorn 2"/>
@@ -29882,13 +29882,13 @@
 		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_SnareShort_Timp" translation="Drum Roll + Kettle Drum (Short)"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_SwaneeDiveLong" translation="Swanee Dive (Long)"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_VIN_SwaneeDiveShort" translation="Swanee Dive (Short)"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_VT_ClownLaugh" translation="Clown Laugh"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_VT_ClownLaughShort" translation="Clown Laugh (Short)"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_VT_ClownLaugh" translation="Risata Clown"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_VT_ClownLaughShort" translation="Risata Clown (Breve)"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Vin_BuoyBell" translation="Buoy Bell Ringing"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_WF_CarHorn" translation="Car Horn"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_WF_MotorBike_Burnoff" translation="Motorbike Burnoff + Wheelspin"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_WF_CarHorn" translation="Clacson Auto"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_WF_MotorBike_Burnoff" translation="Burnoff Motociclo + Sgommata"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_WF_PickSlide" translation="Electric Guitar Pick Slide"/>
-		<entry key="TriggeredAudioEvents_Event_TSFX_WF_Siren" translation="Motorbike Siren"/>
+		<entry key="TriggeredAudioEvents_Event_TSFX_WF_Siren" translation="Clacson Motociclo"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_1" translation="Waterphone Lungo 1"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_2" translation="Waterphone Lungo 2"/>
 		<entry key="TriggeredAudioEvents_Event_TSFX_Waterphone_Long_3" translation="Waterphone Lungo 3"/>
