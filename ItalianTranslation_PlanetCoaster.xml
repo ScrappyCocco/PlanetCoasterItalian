@@ -7206,6 +7206,14 @@
 		<entry key="Colour_Correction_Vignette" translation="Vignetta"/>
 		<!--CommunityTranslation-->
 		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
+		<!--DLC_FX17_Facilities-->
+		<entry key="ShopItem_Balloon_FX_01" translation="Silver FX17 Balloon"/>
+		<entry key="ShopItem_Balloon_FX_02" translation="Golden FX17 Balloon"/>
+		<!--DLC_FX17_Scenery-->
+		<entry key="BuildingPartDesc_FX_Coin" translation="A souvenir from Frontier Expo 2017."/>
+		<entry key="BuildingPartDesc_FX_Coin_Founders" translation="A souvenir from Frontier Expo 2017."/>
+		<entry key="BuildingPartName_FX_Coin" translation="FX17 Coin 1"/>
+		<entry key="BuildingPartName_FX_Coin_Founders" translation="FX17 Coin 2"/>
 		<!--Facilities-->
 		<entry key="BuildingPartDesc_AT_Atm_Standard" translation="Un dispositivo che permette ai visitatori di prelevare denaro.\nStruttura"/>
 		<entry key="BuildingPartDesc_FA_FirstAid_Standard" translation="Un luogo per permettere ai visitatori nauseati di recuperare le forze.\nStruttura"/>
@@ -15305,6 +15313,7 @@
 		<entry key="InfoPanel_Staff_Stat_StaffBuilding_Distance" translation="Edificio Staff più vicino"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty" translation="Tempo in servizio"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth" translation="Tempo in servizio il mese scorso"/>
+		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_LastMonth_Tooptip" translation="Percentage of time spent on duty last month"/>
 		<entry key="InfoPanel_Staff_Stat_TimeOnDuty_Tooptip" translation="Percentuale di tempo in servizio questo mese"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting" translation="Tempo passato riposando"/>
 		<entry key="InfoPanel_Staff_Stat_TimeResting_LastMonth" translation="Tempo passato riposando il mese scorso"/>
