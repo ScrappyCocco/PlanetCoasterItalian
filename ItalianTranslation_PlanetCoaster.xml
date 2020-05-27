@@ -7205,7 +7205,7 @@
 		<entry key="Colour_Correction_Title" translation="Effetti Visuali"/>
 		<entry key="Colour_Correction_Vignette" translation="Vignetta"/>
 		<!--CommunityTranslation-->
-		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
+		<entry key="CommunityTranslation_Name" translation="https://traduzioneplanetcoaster.altervista.org/"/>
 		<!--DLC_FX17_Facilities-->
 		<entry key="ShopItem_Balloon_FX_01" translation="Silver FX17 Balloon"/>
 		<entry key="ShopItem_Balloon_FX_02" translation="Golden FX17 Balloon"/>
@@ -8206,7 +8206,7 @@
 		<entry key="GraphicsOptionsMenu_Bloom" translation="Bloom"/>
 		<entry key="GraphicsOptionsMenu_Bloom_Q1" translation="Spento"/>
 		<entry key="GraphicsOptionsMenu_Bloom_Q2" translation="Acceso"/>
-		<entry key="GraphicsOptionsMenu_Borderless" translation="Senza Bordi"/>
+		<entry key="GraphicsOptionsMenu_Borderless" translation="Finestra senza bordi"/>
 		<entry key="GraphicsOptionsMenu_Clouds" translation="Nuvole"/>
 		<entry key="GraphicsOptionsMenu_Clouds_Q1" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_Clouds_Q2" translation="Medio"/>
@@ -8224,9 +8224,9 @@
 		<entry key="GraphicsOptionsMenu_Effect_Q1" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_Effect_Q2" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Effect_Q3" translation="Alto"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture" translation="Ambiente Mappa Dinamico"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture_Q1" translation="Spento"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture_Q2" translation="Acceso"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture" translation="Mappatura Ambientale Dinamica"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture_Q1" translation="Spenta"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture_Q2" translation="Accesa"/>
 		<entry key="GraphicsOptionsMenu_Fullscreen" translation="Schermo Intero"/>
 		<entry key="GraphicsOptionsMenu_Gamma" translation="Gamma"/>
 		<entry key="GraphicsOptionsMenu_Geometric" translation="Dettagli Geometrici"/>
@@ -8244,7 +8244,7 @@
 		<entry key="GraphicsOptionsMenu_LensFlare_Q3" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Lighting" translation="Qualità illuminazione"/>
 		<entry key="GraphicsOptionsMenu_Lighting_Q1" translation="Bassa"/>
-		<entry key="GraphicsOptionsMenu_Lighting_Q2" translation="Medio"/>
+		<entry key="GraphicsOptionsMenu_Lighting_Q2" translation="Media"/>
 		<entry key="GraphicsOptionsMenu_Lighting_Q3" translation="Alta"/>
 		<entry key="GraphicsOptionsMenu_LowQuality" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_LowestQuality" translation="Minimo"/>
@@ -8257,14 +8257,14 @@
 		<entry key="GraphicsOptionsMenu_Multisample_Q5" translation="Bilanciato per Qualità"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q6" translation="Alto"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q7" translation="Molto Alto"/>
-		<entry key="GraphicsOptionsMenu_RefreshRate" translation="Velocità aggiornamento"/>
+		<entry key="GraphicsOptionsMenu_RefreshRate" translation="Frequenza di aggiornamento"/>
 		<entry key="GraphicsOptionsMenu_RefreshRateOption" translation="{RATE:float} Hz."/>
 		<entry key="GraphicsOptionsMenu_Resolution" translation="Risoluzione"/>
 		<entry key="GraphicsOptionsMenu_ResolutionOption" translation="{WIDTH:int} x {HEIGHT:int}"/>
 		<entry key="GraphicsOptionsMenu_Revert" translation="Reset Valori"/>
-		<entry key="GraphicsOptionsMenu_SSR" translation="Riflesso dello Schermo"/>
-		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Spento"/>
-		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="Acceso"/>
+		<entry key="GraphicsOptionsMenu_SSR" translation="Riflessi (SSR)"/>
+		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Spenti"/>
+		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="Accesi"/>
 		<entry key="GraphicsOptionsMenu_ScreenMode" translation="Modalità Schermo"/>
 		<entry key="GraphicsOptionsMenu_Shadows" translation="Ombre"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q1" translation="Spente"/>
@@ -15521,7 +15521,7 @@
 		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve secche o morbide"/>
 		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Visuale Attrazione per vivere l'esperienza da prospettive diverse"/>
 		<entry key="LoadingScreen_Tooltip_15" translation="Puoi premere '{#LogicalButton.GameCamera_FreelookMode#}' per attivare o disattivare la visuale libera"/>
-		<entry key="LoadingScreen_Tooltip_16" translation="Puoi rifare ogni azione utilizzando {#LogicalButton.Editors_Redo#}"/>
+		<entry key="LoadingScreen_Tooltip_16" translation="Puoi ripetere ogni azione utilizzando {#LogicalButton.Editors_Redo#}"/>
 		<entry key="LoadingScreen_Tooltip_17" translation="Quando si costruiscono i Sentieri, tieni premuto '{#LogicalButton.Editors_PathYJunctionModifier#}' per creare giunzioni ad angolo o congiungerli a sentieri con angoli più acuti"/>
 		<entry key="LoadingScreen_Tooltip_18" translation="Quando si modifica una Struttura, premi {#LogicalButton.MouseLeft#} e trascina per selezionare più oggetti"/>
 		<entry key="LoadingScreen_Tooltip_19" translation="Quando si costruiscono i Sentieri, puoi attivare l'Elevazione Curva per creare discese curve e scale"/>
