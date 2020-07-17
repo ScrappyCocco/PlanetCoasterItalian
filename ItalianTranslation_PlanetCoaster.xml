@@ -16180,9 +16180,9 @@
 		<entry key="Notification_RideTooExpensive" translation="I visitatori pensano che {Name} sia troppo costosa"/>
 		<entry key="Notification_RideTooExpensiveStacked" translation="I visitatori pensano che molte attrazioni siano troppo costose"/>
 		<entry key="Notification_RideTooIntense" translation="molti visitatori pensano che {Name} è troppo paurosa!"/>
-		<entry key="Notification_RideTooIntenseStacked" translation="molti visitatori pensano che molte parecchie attrazioni siano troppo paurose!"/>
+		<entry key="Notification_RideTooIntenseStacked" translation="molti visitatori pensano che parecchie attrazioni siano troppo paurose!"/>
 		<entry key="Notification_RideWayTooIntense" translation="molti visitatori pensano che {Name} è davvero troppo paurosa!"/>
-		<entry key="Notification_RideWayTooIntenseStacked" translation="molti visitatori pensano che molte parecchie attrazioni siano davvero troppo paurose!"/>
+		<entry key="Notification_RideWayTooIntenseStacked" translation="molti visitatori pensano che parecchie attrazioni siano davvero troppo paurose!"/>
 		<entry key="Notification_ShopEmptyInitial" translation="Il chiosco {StallName} è vuoto da un pò di tempo"/>
 		<entry key="Notification_ShopEmptyInitialStacked" translation="Molti negozi non hanno un commesso"/>
 		<entry key="Notification_ShopEmptyRepeated" translation="Il chiosco {StallName} non ha ancora un commesso"/>
