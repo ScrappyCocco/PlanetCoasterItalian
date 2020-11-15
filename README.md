@@ -17,7 +17,7 @@ Traduzione Italiana per Planet Coaster - [Sito Web](https://traduzioneplanetcoas
 
 ## Requisiti
 
-Una copia ufficile di Planet Coaster su Steam e Windows.
+Una copia ufficiale di Planet Coaster su Steam e Windows.
 
 La traduzione **non funziona** con copie non ufficiali, su MacOS o su Console.
 
@@ -42,7 +42,7 @@ Il risultato finale perché la traduzione funzioni correttamente, dovrebbe esser
 
 - Il primo metodo è premere il bottone verde in alto a destra "Clone or Download" e scegliere "Download Zip", questo vi scaricherà un archivio zip contenente il file .xml della traduzione che dovete estrarre e inserire nella cartella come spiegato sopra.
 
-- Il secondo metodo **(più semplice)**, è andare nella pagina ["Releases"](https://github.com/ScrappyCocco/PlanetCoasterItalian/releases) e scaricare l'ultima versione rilasciata.
+- Il secondo metodo **(più semplice)** è andare nella pagina ["Releases"](https://github.com/ScrappyCocco/PlanetCoasterItalian/releases) e scaricare l'ultima versione rilasciata.
 
 Ps: ricorda tuttavia che utilizzando il secondo metodo la traduzione potrebbe non essere la più recente, in quanto rilasceremo una nuova versione nella pagina "Releases" solo dopo varie modifiche al file. Utilizzando il primo metodo invece scaricherai il file più recente.
 
@@ -56,7 +56,7 @@ Se qualcuno vuole contribuire, sarà sempre il benvenuto.
 
 ## Ho trovato degli errori nella traduzione / Voglio aiutarvi!
 
-Nessun problema, l'abbiamo messa su GitHub apposta, qui tutti possono contribuire, registrati a GitHub e effettua uno di questi due passaggi:
+Nessun problema, l'abbiamo messa su GitHub apposta, qui tutti possono contribuire, registrati a GitHub ed effettua uno di questi due passaggi:
 
 - Crea un "Issue" nel caso tu voglia segnalare errori nella traduzione - [qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/issues).
 - Crea una "Pull request" nel caso tu voglia contribuire attivamente alla traduzione - [qui](https://github.com/ScrappyCocco/PlanetCoasterItalian/pulls).
