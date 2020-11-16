@@ -23,8 +23,9 @@ La traduzione **non funziona** con copie non ufficiali, su MacOS o su Console.
 
 ## Istruzioni per l'installazione
 
-1. Apri "Esegui" (Con la combinazione Windows + R o da Start)
+1. Apri "Esegui" (premendo insieme il tasto Windows + R sulla tastiera, o cercandolo nel menu Start)
 2. Immetti il percorso `%localappdata%\Frontier Developments\Planet Coaster\Translations`
+![run screenshot](ReadmeMedia/esegui.png)
 3. Premendo invio si dovrebbe aprire la cartella in cui mettere il file .XML, chiamato *ItalianTranslation_PlanetCoaster.xml*. **(devi aver avviato il gioco almeno una volta per trovare questa cartella)**.
 4. Apri Steam, vai nella tua libreria e fai tasto destro su Planet Coaster. Ora clicca Proprietà e in seguito "Imposta opzioni di avvio".
 5. Nella finestrella che si apre scrivi:`-translation ItalianTranslation_PlanetCoaster.xml`, poi premi Ok.
