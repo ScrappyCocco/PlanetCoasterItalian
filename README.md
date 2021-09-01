@@ -2,7 +2,7 @@
 # Planet Coaster - Traduzione Italiana
 Traduzione Italiana per Planet Coaster - [Sito Web](https://traduzioneplanetcoaster.altervista.org/) - [Domande Frequenti](https://traduzioneplanetcoaster.altervista.org/italiano/faq/)
 
-[![Build Status](https://travis-ci.org/ScrappyCocco/PlanetCoasterItalian.svg?branch=master)](https://travis-ci.org/ScrappyCocco/PlanetCoasterItalian)
+[![Translation Check](https://github.com/ScrappyCocco/PlanetCoasterItalian/actions/workflows/translation-check.yml/badge.svg)](https://github.com/ScrappyCocco/PlanetCoasterItalian/actions/workflows/translation-check.yml)
 
 ## Indice
 
